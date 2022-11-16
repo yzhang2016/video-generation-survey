@@ -10,6 +10,19 @@ A reading list of video generation
 * **Web10M**
 
   [ICCV 2021]Frozen in Time: A Joint Video and Image Encoder for End-to-End Retrieval \[[PDF](https://arxiv.org/pdf/2104.00650.pdf), [Project](https://github.com/m-bain/webvid) \]
+  
+* **UCF-101**
+
+  [arxiv 2012] Ucf101: A dataset of 101 human actions classes from videos in the wild \[[PDF](https://arxiv.org/pdf/1212.0402.pdf), [Project](https://www.crcv.ucf.edu/data/UCF101.php) \]
+  
+* **Sky Time-lapse** 
+
+  [CVPR 2018] Learning to generate time-lapse videos using multi-stage dynamic generative adversarial networks \[[PDF](https://openaccess.thecvf.com/content_cvpr_2018/papers/Xiong_Learning_to_Generate_CVPR_2018_paper.pdf), [Project](https://github.com/weixiong-ur/mdgan) \]
+  
+* **TaiChi** 
+
+  [NIPS 2019] First order motion model for image animation \[ [PDF](https://papers.nips.cc/paper/2019/file/31c0b36aef265d9221af80872ceb62f9-Paper.pdf), [Project](https://github.com/AliaksandrSiarohin/first-order-model) \]
+
 
 ## :point_right: GAN/VAE-based methods 
 [NIPS 2016] Generating Videos with Scene Dynamics \[[PDF](https://proceedings.neurips.cc/paper/2016/file/04025959b191f8f9de3f924f0940515f-Paper.pdf), [code](https://github.com/cvondrick/videogan) \]
@@ -36,10 +49,13 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [ICLR 2021 ] Diverse Video Generation using a Gaussian Process Trigger \[[PDF](https://openreview.net/pdf?id=Qm7R_SdqTpT), [code](https://github.com/shgaurav1/DVG) \]
 
-[Arxiv 2021; MRSA] GODIVA: Generating Open-DomaIn Videos from nAtural Descriptions \[[PDF]([https://arxiv.org/pdf/2205.15868.pdf](https://arxiv.org/pdf/2104.14806.pdf)), [code]() \]
+[Arxiv 2021; MRSA] GODIVA: Generating Open-DomaIn Videos from nAtural Descriptions \[[PDF]([https://arxiv.org/pdf/2205.15868.pdf](https://arxiv.org/pdf/2104.14806.pdf)), [code](https://github.com/sihyun-yu/digan) \]
 
 [CVPR 2022 ] StyleGAN-V: A Continuous Video Generator with the Price, Image Quality and Perks of StyleGAN2 \[[PDF](https://arxiv.org/pdf/2112.14683.pdf), [code](https://github.com/universome/stylegan-v) \]
 
+
+## :point_right: Implicit Neural Representations
+[ICLR 2022] Generating videos with dynamics-aware implicit generative adversarial networks \[[PDF](https://openreview.net/pdf?id=Czsdv-S4-w9), [code]() \]
 
 ## :point_right: Transformer-based 
 [arxiv 2021] VideoGPT: Video Generation using VQ-VAE and Transformers \[[PDF](https://arxiv.org/pdf/2104.10157.pdf), [code](https://github.com/wilson1yan/VideoGPT) \]
@@ -50,7 +66,11 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [Arxiv 2020; Tsinghua] CogVideo: Large-scale Pretraining for Text-to-Video Generation via Transformers \[[PDF](https://arxiv.org/pdf/2205.15868.pdf), [code](https://github.com/THUDM/CogVideo) \]
 
+[ECCV 2022] Long Video Generation with Time-Agnostic VQGAN and Time-Sensitive Transformer \[[PDF](https://arxiv.org/pdf/2204.03638.pdf), [code](https://github.com/SongweiGe/TATS)\]
+
+
 :hear_no_evil: [arxiv 2022; Google] PHENAKI: VARIABLE LENGTH VIDEO GENERATION FROM OPEN DOMAIN TEXTUAL DESCRIPTIONS \[[PDF](https://arxiv.org/pdf/2210.02399.pdf), code \]
+
 
 ## :point_right: Diffusion-based methods 
 :hear_no_evil: [NIPS 2022; Google] Video Diffusion Models \[[PDF](https://arxiv.org/pdf/2204.03458.pdf), [code](https://github.com/lucidrains/video-diffusion-pytorch) \]
