@@ -29,6 +29,8 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [ICLR 2021 ] Diverse Video Generation using a Gaussian Process Trigger \[[PDF](https://openreview.net/pdf?id=Qm7R_SdqTpT), [code](https://github.com/shgaurav1/DVG) \]
 
+[Arxiv 2021; MRSA] GODIVA: Generating Open-DomaIn Videos from nAtural Descriptions \[[PDF]([https://arxiv.org/pdf/2205.15868.pdf](https://arxiv.org/pdf/2104.14806.pdf)), [code]() \]
+
 [CVPR 2022 ] StyleGAN-V: A Continuous Video Generator with the Price, Image Quality and Perks of StyleGAN2 \[[PDF](https://arxiv.org/pdf/2112.14683.pdf), [code](https://github.com/universome/stylegan-v) \]
 
 
@@ -39,9 +41,13 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [NIPS 2022; Microsoft] NUWA-Infinity: Autoregressive over Autoregressive Generation for Infinite Visual Synthesis \[[PDF](https://arxiv.org/pdf/2207.09814.pdf), code \]
 
+[Arxiv 2020; Tsinghua] CogVideo: Large-scale Pretraining for Text-to-Video Generation via Transformers \[[PDF](https://arxiv.org/pdf/2205.15868.pdf), [code](https://github.com/THUDM/CogVideo) \]
 
 
 ## :+1: Diffusion-based methods 
-[ICLRW 2022; Google] Video Diffusion Models \[[PDF](https://arxiv.org/pdf/2204.03458.pdf), [code 3](https://github.com/lucidrains/video-diffusion-pytorch) \]
+[NIPS 2022; Google] Video Diffusion Models \[[PDF]([https://arxiv.org/pdf/2204.03458.pdf](https://arxiv.org/pdf/2204.03458.pdf)), [code 3](https://github.com/lucidrains/video-diffusion-pytorch) \]
+
+
+[; ]  \[[PDF](), [code 3](https://github.com/lucidrains/video-diffusion-pytorch) \]
 
 
