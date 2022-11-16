@@ -1,10 +1,17 @@
 # Video Generation Survey
 A reading list of video generation
 
-## Databases
+## :point_right: Databases
 
+* **HowTo100M**
 
-## :+1: GAN/VAE-based methods 
+  [ICCV 2019]Learning a Text-Video Embedding by Watching Hundred Million Narrated Video Clips \[[PDF](https://arxiv.org/pdf/1906.03327.pdf), [Project](https://www.di.ens.fr/willow/research/howto100m/) \]
+  
+* **Web10M**
+
+  [ICCV 2021]Frozen in Time: A Joint Video and Image Encoder for End-to-End Retrieval \[[PDF](https://arxiv.org/pdf/2104.00650.pdf), [Project](https://github.com/m-bain/webvid) \]
+
+## :point_right: GAN/VAE-based methods 
 [NIPS 2016] Generating Videos with Scene Dynamics \[[PDF](https://proceedings.neurips.cc/paper/2016/file/04025959b191f8f9de3f924f0940515f-Paper.pdf), [code](https://github.com/cvondrick/videogan) \]
 
 [ICCV 2017] Temporal Generative Adversarial Nets with Singular Value Clipping \[[PDF](https://arxiv.org/pdf/1611.06624.pdf), [code](https://github.com/pfnet-research/tgan) \]
@@ -34,7 +41,7 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 [CVPR 2022 ] StyleGAN-V: A Continuous Video Generator with the Price, Image Quality and Perks of StyleGAN2 \[[PDF](https://arxiv.org/pdf/2112.14683.pdf), [code](https://github.com/universome/stylegan-v) \]
 
 
-## :+1: Transformer-based 
+## :point_right: Transformer-based 
 [arxiv 2021] VideoGPT: Video Generation using VQ-VAE and Transformers \[[PDF](https://arxiv.org/pdf/2104.10157.pdf), [code](https://github.com/wilson1yan/VideoGPT) \]
 
 [ECCV 2022; Microsoft] NÜWA: Visual Synthesis Pre-training for Neural visUal World creAtion \[[PDF](https://arxiv.org/pdf/2111.12417.pdf), code \]
@@ -43,13 +50,13 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [Arxiv 2020; Tsinghua] CogVideo: Large-scale Pretraining for Text-to-Video Generation via Transformers \[[PDF](https://arxiv.org/pdf/2205.15868.pdf), [code](https://github.com/THUDM/CogVideo) \]
 
-[arxiv 2022; Google] PHENAKI: VARIABLE LENGTH VIDEO GENERATION FROM OPEN DOMAIN TEXTUAL DESCRIPTIONS \[[PDF](https://arxiv.org/pdf/2210.02399.pdf), code \]
+:hear_no_evil: [arxiv 2022; Google] PHENAKI: VARIABLE LENGTH VIDEO GENERATION FROM OPEN DOMAIN TEXTUAL DESCRIPTIONS \[[PDF](https://arxiv.org/pdf/2210.02399.pdf), code \]
 
-## :+1: Diffusion-based methods 
-[NIPS 2022; Google] Video Diffusion Models \[[PDF](https://arxiv.org/pdf/2204.03458.pdf), [code](https://github.com/lucidrains/video-diffusion-pytorch) \]
+## :point_right: Diffusion-based methods 
+:hear_no_evil: [NIPS 2022; Google] Video Diffusion Models \[[PDF](https://arxiv.org/pdf/2204.03458.pdf), [code](https://github.com/lucidrains/video-diffusion-pytorch) \]
 
-[arxiv 2022; Meta] MAKE-A-VIDEO: TEXT-TO-VIDEO GENERATION WITHOUT TEXT-VIDEO DATA \[[PDF](https://arxiv.org/pdf/2209.14792.pdf), code \]
+:hear_no_evil: [arxiv 2022; Meta] MAKE-A-VIDEO: TEXT-TO-VIDEO GENERATION WITHOUT TEXT-VIDEO DATA \[[PDF](https://arxiv.org/pdf/2209.14792.pdf), code \]
 
-[arxiv 2022; Google] IMAGEN VIDEO: HIGH DEFINITION VIDEO GENERATION WITH DIFFUSION MODELS \[[PDF](https://arxiv.org/pdf/2210.02303.pdf), code \]
+:hear_no_evil: [arxiv 2022; Google] IMAGEN VIDEO: HIGH DEFINITION VIDEO GENERATION WITH DIFFUSION MODELS \[[PDF](https://arxiv.org/pdf/2210.02303.pdf), code \]
 
 
