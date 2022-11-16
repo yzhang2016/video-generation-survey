@@ -43,11 +43,13 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [Arxiv 2020; Tsinghua] CogVideo: Large-scale Pretraining for Text-to-Video Generation via Transformers \[[PDF](https://arxiv.org/pdf/2205.15868.pdf), [code](https://github.com/THUDM/CogVideo) \]
 
+[arxiv 2022; Google] PHENAKI: VARIABLE LENGTH VIDEO GENERATION FROM OPEN DOMAIN TEXTUAL DESCRIPTIONS \[[PDF](https://arxiv.org/pdf/2210.02399.pdf), code \]
 
 ## :+1: Diffusion-based methods 
-[NIPS 2022; Google] Video Diffusion Models \[[PDF]([https://arxiv.org/pdf/2204.03458.pdf](https://arxiv.org/pdf/2204.03458.pdf)), [code 3](https://github.com/lucidrains/video-diffusion-pytorch) \]
+[NIPS 2022; Google] Video Diffusion Models \[[PDF](https://arxiv.org/pdf/2204.03458.pdf), [code](https://github.com/lucidrains/video-diffusion-pytorch) \]
 
+[arxiv 2022; Meta] MAKE-A-VIDEO: TEXT-TO-VIDEO GENERATION WITHOUT TEXT-VIDEO DATA \[[PDF](https://arxiv.org/pdf/2209.14792.pdf), code \]
 
-[; ]  \[[PDF](), [code 3](https://github.com/lucidrains/video-diffusion-pytorch) \]
+[arxiv 2022; Google] IMAGEN VIDEO: HIGH DEFINITION VIDEO GENERATION WITH DIFFUSION MODELS \[[PDF](https://arxiv.org/pdf/2210.02303.pdf), code \]
 
 
