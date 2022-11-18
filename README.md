@@ -1,6 +1,8 @@
 # Video Generation Survey
 A reading list of video generation
 
+### [Related Text-to-image Generation and Super-resolution](https://github.com/yzhang2016/video-generation-survey/blob/main/Text-to-Image.MD)
+
 ## :point_right: Databases
 
 * **HowTo100M**
