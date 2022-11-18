@@ -1,4 +1,4 @@
-# video-generation-survey
+# Video Generation
 
 A reading list of video generation
 
