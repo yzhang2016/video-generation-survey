@@ -82,3 +82,10 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 :hear_no_evil: [arxiv 2022; Google] **---IMAGEN VIDEO--** IMAGEN VIDEO: HIGH DEFINITION VIDEO GENERATION WITH DIFFUSION MODELS \[[PDF](https://arxiv.org/pdf/2210.02303.pdf), code \]
 
 
+## :point_right: Temporoal Interpolation
+
+
+## :point_right: Animation 
+
+
+
