@@ -10,7 +10,7 @@
 
 [NIPS 22; google] ***DreamBooth***: Fine Tuning Text-to-Image Diffusion Models for Subject-Driven Generation [[Project]](https://dreambooth.github.io/) [[Paper]](https://arxiv.org/abs/2208.12242) [[Code (Unofficial)]](https://github.com/XavierXiao/Dreambooth-Stable-Diffusion)
 
-
+[ICLR 23] ***DiffEdit***: Diffusion-based semantic image editing with mask guidance [[Paper]](https://openreview.net/forum?id=3lge0p5o-M-)
 
 ## Story-telling
 [arxiv 22.11; Ailibaba] Synthesizing Coherent Story with Auto-Regressive Latent Diffusion Models \[[PDF](https://arxiv.org/pdf/2211.10950.pdf), code\]
