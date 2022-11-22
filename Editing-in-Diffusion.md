@@ -3,8 +3,10 @@
 
 ## Inversion 
 [arxiv 22.08; meta] ***Prompt-to-Prompt*** Image Editing with Cross Attention Control [[Paper]](https://arxiv.org/abs/2208.01626)
+Switch Cross-Attention to maintain spatial structure information.
 
 [arxiv 22.08; Scale AI] ***Direct Inversion***: Optimization-Free Text-Driven Real Image Editing with Diffusion Models [[Paper]](https://arxiv.org/pdf/2211.07825)
+Use encoder to predict noise / latent of Stable Diffusion.
 
 [arxiv 22.11; UC Berkeley] ***InstructPix2Pix***: Learning to Follow Image Editing Instructions [[Project]](https://www.timothybrooks.com/instruct-pix2pix)  [[Paper]](https://arxiv.org/pdf/2211.09800.pdf)
 
