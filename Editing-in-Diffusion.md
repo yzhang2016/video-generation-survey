@@ -9,16 +9,23 @@ Switch Cross-Attention to maintain spatial structure information.
 Use encoder to predict noise / latent of Stable Diffusion.
 
 [arxiv 22.11; UC Berkeley] ***InstructPix2Pix***: Learning to Follow Image Editing Instructions [[Project]](https://www.timothybrooks.com/instruct-pix2pix)  [[Paper]](https://arxiv.org/pdf/2211.09800.pdf)  
-GPT-3 & Stable Diffusion to construct a dataset~(450,000), fine-tune the Stable-Diffusion with generated data.
+GPT-3 & Stable Diffusion to construct a dataset~(450,000), fine-tune the Stable-Diffusion with generated data; Two-condition using extrapolated score estimation.  
+Strong & flexible sentence editing.  
 
+[NIPS 22; google] ***DreamBooth***: Fine Tuning Text-to-Image Diffusion Models for Subject-Driven Generation [[Project]](https://dreambooth.github.io/) [[Paper]](https://arxiv.org/abs/2208.12242) [[Code (Unofficial)]](https://github.com/XavierXiao/Dreambooth-Stable-Diffusion)  
+Random characters as inversion target; Language Drift: same-class object are forgotten to generate; Space regularization loss for solving such problems; Fine-tune SR model; 
 
-[NIPS 22; google] ***DreamBooth***: Fine Tuning Text-to-Image Diffusion Models for Subject-Driven Generation [[Project]](https://dreambooth.github.io/) [[Paper]](https://arxiv.org/abs/2208.12242) [[Code (Unofficial)]](https://github.com/XavierXiao/Dreambooth-Stable-Diffusion)
-
-[ICLR 23] ***DiffEdit***: Diffusion-based semantic image editing with mask guidance [[Paper]](https://openreview.net/forum?id=3lge0p5o-M-)
-
+[ICLR 23] ***DiffEdit***: Diffusion-based semantic image editing with mask guidance [[Paper]](https://openreview.net/forum?id=3lge0p5o-M-)  
 Predict a mask for local editing.
 
 [ICLR 23] ***DiffIT***: DIFFUSION-BASED IMAGE TRANSLATION USING DISENTANGLED STYLE AND CONTENT REPRESENTATION [[Paper]](https://openreview.net/pdf?id=Nayau9fwXU)
+Nice preliminary: former methods directly incoporate the gradient of a pre-trained classifer (classify the editimated x_0) to modify the x during the training or inference;  
+Structure Maintain: 
+Self-similarity loss: the cosine distance between the DINO-VIT tokens of one images; calulate the distance between x and x_src; Use additional Contrastive Loss to enbale same position have closer distance;  
+Style Maintain: (Text)  CLIP-direction loss; Ensemble CLIP embedding; (Image-guided) CLS Token L2 loss  
+Speed-up: Enable the current t CLS different from the previous t CLS token  
+Resampling strategy: sample k step to find whose gradient is easily affected by the loss.  
+Weakness: Only words editing
 
 [ICLR 23] DUAL DIFFUSION IMPLICIT BRIDGES FOR IMAGE-TO-IMAGE TRANSLATION [[Paper]](https://openreview.net/pdf?id=5HLoTvVGDe)
 
