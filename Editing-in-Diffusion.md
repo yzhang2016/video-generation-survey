@@ -18,7 +18,7 @@ Random characters as inversion target; Language Drift: same-class object are for
 **[ICLR 23]** ***DiffEdit***: Diffusion-based semantic image editing with mask guidance [[Paper]](https://openreview.net/forum?id=3lge0p5o-M-)  
 Predict a mask for local editing.
 
-**[ICLR 23]** ***DiffIT***: DIFFUSION-BASED IMAGE TRANSLATION USING DISENTANGLED STYLE AND CONTENT REPRESENTATION [[Paper]](https://openreview.net/pdf?id=Nayau9fwXU)  
+**[ICLR 23]** ***DiffIT***: Diffusion-based Image Translation Using Disentangled Style and Content Repesentation [[Paper]](https://openreview.net/pdf?id=Nayau9fwXU)  
 <details>
 <summary>Details</summary>
 Nice preliminary: former methods directly incoporate the gradient of a pre-trained classifer (classify the editimated x_0) to modify the x during the training or inference;  
@@ -30,13 +30,22 @@ Resampling strategy: sample k step to find whose gradient is easily affected by 
 Weakness: Only words editing
 </details>
   
-**[ICLR 23]** DUAL DIFFUSION IMPLICIT BRIDGES FOR IMAGE-TO-IMAGE TRANSLATION [[Paper]](https://openreview.net/pdf?id=5HLoTvVGDe)
+**[ICLR 23]** Dual Diffusion Implicit Bridges for Image-to-image Translation [[Paper]](https://openreview.net/pdf?id=5HLoTvVGDe)  
+Two diffusion; Math hard to understand
+
+**[ICLR 23, Google]** Classifier-free Diffusion Guidance [[Paper]](https://arxiv.org/pdf/2207.12598.pdf)
 
 ## Story-telling
-[arxiv 22.11; Ailibaba] Synthesizing Coherent Story with Auto-Regressive Latent Diffusion Models \[[PDF](https://arxiv.org/pdf/2211.10950.pdf), code\]
-
+[arxiv 22.11; Ailibaba] Synthesizing Coherent Story with Auto-Regressive Latent Diffusion Models \[[PDF](https://arxiv.org/pdf/2211.10950.pdf), code\]  
+<details>
+<summary>Details</summary>
+Challange: incorporating history captions and scenes for current image generation  
+Method: Use history latent as information (Auto-Regressive)  
+  x_0 is provided; CLIP for current caption encoding; BLIP for the previous caption and generated image encoding;  
+  Adaptive Learning: for new characters: like Dreambooth, using new words to represent it and finetune the G to remember the character.
+</details>
 
 ## Style transfer 
-[arxiv 22.11; kuaishou] ***DiffStyler***: Controllable Dual Diffusion for Text-Driven Image Stylization \[[PDF](https://arxiv.org/pdf/2211.10682.pdf), code\]
+[arxiv 22.11; kuaishou] ***DiffStyler***: Controllable Dual Diffusion for Text-Driven Image Stylization \[[PDF](https://arxiv.org/pdf/2211.10682.pdf), code\]  
 
-[ICLR 23] TEXT-GUIDED DIFFUSION IMAGE STYLE TRANSFER WITH CONTRASTIVE LOSS [[Paper]](https://openreview.net/pdf?id=iJ_E0ZCy8fi)
+[ICLR 23] TEXT-GUIDED DIFFUSION IMAGE STYLE TRANSFER WITH CONTRASTIVE LOSS [[Paper]](https://openreview.net/pdf?id=iJ_E0ZCy8fi)  
