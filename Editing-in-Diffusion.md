@@ -40,6 +40,8 @@ Two diffusion; Math hard to understand
 
 **[ICLR 23, Google]** Classifier-free Diffusion Guidance [[Paper]](https://arxiv.org/pdf/2207.12598.pdf)
 
+[arxiv 2022] EDICT: Exact Diffusion Inversion via Coupled Transformations \[[PDF](https://arxiv.org/abs/2211.12446)\]
+
 ## Story-telling
 [arxiv 22.11; Ailibaba] Synthesizing Coherent Story with Auto-Regressive Latent Diffusion Models \[[PDF](https://arxiv.org/pdf/2211.10950.pdf), code\]  
 <details>
