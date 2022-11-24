@@ -56,3 +56,5 @@ Method: Use history latent as information (Auto-Regressive)
 [arxiv 22.11; kuaishou] ***DiffStyler***: Controllable Dual Diffusion for Text-Driven Image Stylization \[[PDF](https://arxiv.org/pdf/2211.10682.pdf), code\]  
 
 [ICLR 23] TEXT-GUIDED DIFFUSION IMAGE STYLE TRANSFER WITH CONTRASTIVE LOSS [[Paper]](https://openreview.net/pdf?id=iJ_E0ZCy8fi)  
+
+[arxiv 2022] Inversion-Based Creativity Transfer with Diffusion Models \[[PDF](https://arxiv.org/pdf/2211.13203.pdf)\]
