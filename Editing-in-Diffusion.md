@@ -52,6 +52,9 @@ Method: Use history latent as information (Auto-Regressive)
   Adaptive Learning: for new characters: like Dreambooth, using new words to represent it and finetune the G to remember the character.
 </details>
 
+## Inpainting 
+[arxiv 2022; MSRA]Paint by Example: Exemplar-based Image Editing with Diffusion Models \[[PDF]([https://arxiv.org/pdf/2211.10682.pdf](https://arxiv.org/pdf/2211.13227.pdf)), code\]  
+
 ## Style transfer 
 [arxiv 22.11; kuaishou] ***DiffStyler***: Controllable Dual Diffusion for Text-Driven Image Stylization \[[PDF](https://arxiv.org/pdf/2211.10682.pdf), code\]  
 
