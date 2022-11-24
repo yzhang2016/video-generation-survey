@@ -42,6 +42,8 @@ Two diffusion; Math hard to understand
 
 [arxiv 2022] EDICT: Exact Diffusion Inversion via Coupled Transformations \[[PDF](https://arxiv.org/abs/2211.12446)\]
 
+[arxiv 22.11] Paint by Example: Exemplar-based Image Editing with Diffusion Models [[PDF]](https://arxiv.org/abs/2211.13227)
+
 ## Story-telling
 
 [arxiv 22.09; ] ***Story Dall-E***: Adapting pretrained text-to-image transformers for story continuation [[PDF]](https://arxiv.org/pdf/2209.06192.pdf)
