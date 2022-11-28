@@ -59,6 +59,13 @@ Method: Use history latent as information (Auto-Regressive)
   Adaptive Learning: for new characters: like Dreambooth, using new words to represent it and finetune the G to remember the character.
 </details>
 
+[arxiv 2022]Make-A-Story: Visual Memory Conditioned Consistent Story Generation  \[[PDF](https://arxiv.org/pdf/2211.13319.pdf), code\]  
+
+
+## Translation
+[arxiv 2022; Google]Sketch-Guided Text-to-Image Diffusion Models \[[PDF](https://arxiv.org/pdf/2211.13752.pdf), code\]  
+
+
 ## Inpainting 
 [arxiv 2022; MSRA]Paint by Example: Exemplar-based Image Editing with Diffusion Models \[[PDF](https://arxiv.org/pdf/2211.13227.pdf), code\]  
 
