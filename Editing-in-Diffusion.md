@@ -3,9 +3,11 @@
 
 ## Inversion 
 
-**[Arxiv.2208; NVIDIA]**  ***An Image is Worth One Word:*** Personalizing Text-to-Image Generation using Textual Inversion [[Paper & Code]](https://github.com/rinongal/textual_inversion)
+**[Arxiv.2208; NVIDIA]**  ***An Image is Worth One Word:*** Personalizing Text-to-Image Generation using Textual Inversion [[Paper & Code]](https://github.com/rinongal/textual_inversion)  
+Learnable text embedding; Loss with multiple diffusion step noise.
 
-**[ICLR2022; Stanford & CMU]** ***SDEdit:*** Guided Image Synthesis and Editing with Stochastic Differential Equations [[Project]](https://sde-image-editing.github.io/) [[Paper]](https://arxiv.org/pdf/2108.01073.pdf)
+**[ICLR2022; Stanford & CMU]** ***SDEdit:*** Guided Image Synthesis and Editing with Stochastic Differential Equations [[Project]](https://sde-image-editing.github.io/) [[Paper]](https://arxiv.org/pdf/2108.01073.pdf)  
+Add noise then denoise. Not robust.
 
 **[arxiv 22.08; meta]** ***Prompt-to-Prompt*** Image Editing with Cross Attention Control [[Paper]](https://arxiv.org/abs/2208.01626)  
 Switch Cross-Attention to maintain spatial structure information.
