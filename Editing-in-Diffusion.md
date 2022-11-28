@@ -45,14 +45,15 @@ Two diffusion; Math hard to understand
 **[arxiv 2022]** ***EDICT***: Exact Diffusion Inversion via Coupled Transformations \[[PDF](https://arxiv.org/abs/2211.12446)\]  
 Affine Coupling Layer in Flow to make the inversion invertable; Mixing weight to stable the process.
 
-[arxiv 22.11] Paint by Example: Exemplar-based Image Editing with Diffusion Models [[PDF]](https://arxiv.org/abs/2211.13227)  
+**[arxiv 22.11]** ***Paint by Example***: Exemplar-based Image Editing with Diffusion Models [[PDF]](https://arxiv.org/abs/2211.13227)  
 Exampler image as the condition; BottleNeck: CLS token only pass the semantic information; Augmentation of reference image and mask.
 
 ## Story-telling
 
-[arxiv 22.09; ] ***Story Dall-E***: Adapting pretrained text-to-image transformers for story continuation [[PDF]](https://arxiv.org/pdf/2209.06192.pdf)
+**[arxiv 22.09]** ***Story Dall-E***: Adapting pretrained text-to-image transformers for story continuation [[PDF]](https://arxiv.org/pdf/2209.06192.pdf)  
+Based on Dall-E, use cross-attention to incorporate source image into the generation
 
-[arxiv 22.11; Ailibaba] Synthesizing Coherent Story with Auto-Regressive Latent Diffusion Models \[[PDF](https://arxiv.org/pdf/2211.10950.pdf), code\]  
+**[arxiv 22.11; Ailibaba]** Synthesizing Coherent Story with Auto-Regressive Latent Diffusion Models \[[PDF](https://arxiv.org/pdf/2211.10950.pdf), code\]  
 <details>
 <summary>Details</summary>
 Challange: incorporating history captions and scenes for current image generation  
@@ -61,7 +62,7 @@ Method: Use history latent as information (Auto-Regressive)
   Adaptive Learning: for new characters: like Dreambooth, using new words to represent it and finetune the G to remember the character.
 </details>
 
-[arxiv 2022]Make-A-Story: Visual Memory Conditioned Consistent Story Generation  \[[PDF](https://arxiv.org/pdf/2211.13319.pdf), code\]  
+**[arxiv 2022]** ***Make-A-Story***: Visual Memory Conditioned Consistent Story Generation  \[[PDF](https://arxiv.org/pdf/2211.13319.pdf), code\]  
 
 
 ## Translation
