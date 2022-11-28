@@ -42,9 +42,11 @@ Two diffusion; Math hard to understand
 
 **[ICLR 23, Google]** Classifier-free Diffusion Guidance [[Paper]](https://arxiv.org/pdf/2207.12598.pdf)
 
-[arxiv 2022] EDICT: Exact Diffusion Inversion via Coupled Transformations \[[PDF](https://arxiv.org/abs/2211.12446)\]
+**[arxiv 2022]** ***EDICT***: Exact Diffusion Inversion via Coupled Transformations \[[PDF](https://arxiv.org/abs/2211.12446)\]  
+Affine Coupling Layer in Flow to make the inversion invertable; Mixing weight to stable the process.
 
-[arxiv 22.11] Paint by Example: Exemplar-based Image Editing with Diffusion Models [[PDF]](https://arxiv.org/abs/2211.13227)
+[arxiv 22.11] Paint by Example: Exemplar-based Image Editing with Diffusion Models [[PDF]](https://arxiv.org/abs/2211.13227)  
+Exampler image as the condition; BottleNeck: CLS token only pass the semantic information; Augmentation of reference image and mask.
 
 ## Story-telling
 
