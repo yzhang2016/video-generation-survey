@@ -89,3 +89,5 @@ Method: Use history latent as information (Auto-Regressive)
 [arxiv 2022.11]Investigating Prompt Engineering in Diffusion Models \[[PDF](https://arxiv.org/pdf/2211.15462.pdf)\] 
 
 [arxiv 2022.11; ByteDance]Shifted Diffusion for Text-to-image Generation  \[[PDF](https://arxiv.org/pdf/2211.15388.pdf)\] 
+
+[arxiv 2022.11; ]3DDesigner: Towards Photorealistic 3D Object Generation and Editing with Text-guided Diffusion Models  \[[PDF](https://arxiv.org/pdf/2211.14108.pdf)\] 
