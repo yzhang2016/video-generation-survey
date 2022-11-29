@@ -68,9 +68,14 @@ Method: Use history latent as information (Auto-Regressive)
 ## Translation
 [arxiv 2022; Google]Sketch-Guided Text-to-Image Diffusion Models \[[PDF](https://arxiv.org/pdf/2211.13752.pdf), code\]  
 
+[arxiv 2022.11; Microsoft]ReCo: Region-Controlled Text-to-Image Generation \[[PDF](https://arxiv.org/pdf/2211.15518.pdf), code\]  
+
+[arxiv 2022.11; Meta]SpaText: Spatio-Textual Representation for Controllable Image Generation  \[[PDF](https://arxiv.org/pdf/2211.14305.pdf), code\]  
+
 
 ## Inpainting 
 [arxiv 2022; MSRA]Paint by Example: Exemplar-based Image Editing with Diffusion Models \[[PDF](https://arxiv.org/pdf/2211.13227.pdf), code\]  
+
 
 ## Style transfer 
 [arxiv 22.11; kuaishou] ***DiffStyler***: Controllable Dual Diffusion for Text-Driven Image Stylization \[[PDF](https://arxiv.org/pdf/2211.10682.pdf), code\]  
@@ -78,3 +83,9 @@ Method: Use history latent as information (Auto-Regressive)
 [ICLR 23] TEXT-GUIDED DIFFUSION IMAGE STYLE TRANSFER WITH CONTRASTIVE LOSS [[Paper]](https://openreview.net/pdf?id=iJ_E0ZCy8fi)  
 
 [arxiv 2022] Inversion-Based Creativity Transfer with Diffusion Models \[[PDF](https://arxiv.org/pdf/2211.13203.pdf)\]
+
+
+## Related 
+[arxiv 2022.11]Investigating Prompt Engineering in Diffusion Models \[[PDF](https://arxiv.org/pdf/2211.15462.pdf)\] 
+
+[arxiv 2022.11; ByteDance]Shifted Diffusion for Text-to-image Generation  \[[PDF](https://arxiv.org/pdf/2211.15388.pdf)\] 
