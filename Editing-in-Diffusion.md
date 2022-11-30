@@ -96,3 +96,6 @@ Method: Use history latent as information (Auto-Regressive)
 
 **[ECCV 2022; Best Paper]** ***Partial Distance:*** On the Versatile Uses of Partial Distance Correlation in Deep Learning. \[[PDF](https://arxiv.org/abs/2207.09684)\]  
 Can measure the co-variance distance of any two distribution. Can be used for disentangling the common attributes!
+
+## Repository
+[**[DIFFUSERS]**(https://github.com/huggingface/diffusers)] Hugging-face sota repository.
