@@ -11,9 +11,11 @@ A reading list of video generation
 
 * [Editing in Diffusion](https://github.com/yzhang2016/video-generation-survey/blob/main/Editing-in-Diffusion.md)
 
+* [Video Editing](https://github.com/yzhang2016/video-generation-survey/blob/main/video-editing.md)
+
 * [Diffusion for 3D Generation](https://github.com/yzhang2016/video-generation-survey/blob/main/diffusion-for-3d.md)
 
-* [Video Editing](https://github.com/yzhang2016/video-generation-survey/blob/main/video-editing.md)
+
 
 Basics 
 
