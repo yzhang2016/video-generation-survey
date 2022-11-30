@@ -98,4 +98,4 @@ Method: Use history latent as information (Auto-Regressive)
 Can measure the co-variance distance of any two distribution. Can be used for disentangling the common attributes!
 
 ## Repository
-[**[DIFFUSERS]**(https://github.com/huggingface/diffusers)] Hugging-face sota repository.
+***DIFFUSERS*** Hugging-face sota repository. \[[DIFFUSERS](https://github.com/huggingface/diffusers)\]
