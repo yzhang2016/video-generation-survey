@@ -48,6 +48,9 @@ Affine Coupling Layer in Flow to make the inversion invertable; Mixing weight to
 **[arxiv 22.11]** ***Paint by Example***: Exemplar-based Image Editing with Diffusion Models [[PDF]](https://arxiv.org/abs/2211.13227)  
 Exampler image as the condition; BottleNeck: CLS token only pass the semantic information; Augmentation of reference image and mask.
 
+[arxiv 2022.10; ByteDance]MagicMix: Semantic Mixing with Diffusion Models [[PDF]](https://arxiv.org/abs/2210.16056)  
+
+
 ## Story-telling
 
 **[arxiv 22.09]** ***Story Dall-E***: Adapting pretrained text-to-image transformers for story continuation [[PDF]](https://arxiv.org/pdf/2209.06192.pdf)  
