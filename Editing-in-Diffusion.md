@@ -72,6 +72,8 @@ Method: Use history latent as information (Auto-Regressive)
 
 [arxiv 2022.11; Meta]SpaText: Spatio-Textual Representation for Controllable Image Generation  \[[PDF](https://arxiv.org/pdf/2211.14305.pdf), code\]  
 
+**[arxiv 2022.11; Seoul National University]** ***DATID-3D:*** Diversity-Preserved Domain Adaptation Using Text-to-Image Diffusion for 3D Generative Model. \[[PROJECT](https://datid-3d.github.io/)]  
+**Incredible Stylization Reults.** Diffusion model to generate different pose data; CLIP to filter bad semantic case; Pose estimator to filter bad pose case; Regularization; DreamBooth for Instance adaptation.
 
 ## Inpainting 
 [arxiv 2022; MSRA]Paint by Example: Exemplar-based Image Editing with Diffusion Models \[[PDF](https://arxiv.org/pdf/2211.13227.pdf), code\]  
