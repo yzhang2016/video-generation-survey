@@ -22,6 +22,8 @@ Strong & flexible sentence editing.
 **[NIPS 22; google]** ***DreamBooth***: Fine Tuning Text-to-Image Diffusion Models for Subject-Driven Generation [[Project]](https://dreambooth.github.io/) [[Paper]](https://arxiv.org/abs/2208.12242) [[Code (Unofficial)]](https://github.com/XavierXiao/Dreambooth-Stable-Diffusion)  
 Random characters as inversion target; Language Drift: same-class object are forgotten to generate; Space regularization loss for solving such problems; Fine-tune SR model; 
 
+
+
 **[ICLR 23]** ***DiffEdit***: Diffusion-based semantic image editing with mask guidance [[Paper]](https://openreview.net/forum?id=3lge0p5o-M-)  
 Predict a mask for local editing.
 
@@ -79,7 +81,7 @@ Method: Use history latent as information (Auto-Regressive)
 **Incredible Stylization Reults.** Diffusion model to generate different pose data; CLIP to filter bad semantic case; Pose estimator to filter bad pose case; Regularization; DreamBooth for Instance adaptation.
 
 ## Inpainting 
-[arxiv 2022; MSRA]Paint by Example: Exemplar-based Image Editing with Diffusion Models \[[PDF](https://arxiv.org/pdf/2211.13227.pdf), code\]  
+[arxiv 2022; MSRA]Paint by Example: Exemplar-based Image Editing with Diffusion Models \[[PDF](https://arxiv.org/pdf/2211.13227.pdf), [code](https://github.com/Fantasy-Studio/Paint-by-Example)\]  
 
 
 ## Style transfer 
@@ -87,7 +89,7 @@ Method: Use history latent as information (Auto-Regressive)
 
 [ICLR 23] TEXT-GUIDED DIFFUSION IMAGE STYLE TRANSFER WITH CONTRASTIVE LOSS [[Paper]](https://openreview.net/pdf?id=iJ_E0ZCy8fi)  
 
-[arxiv 2022] Inversion-Based Creativity Transfer with Diffusion Models \[[PDF](https://arxiv.org/pdf/2211.13203.pdf)\]
+[arxiv 22.11; kuaishou&CAS] Inversion-Based Creativity Transfer with Diffusion Models \[[PDF](https://arxiv.org/pdf/2211.13203.pdf), [Code](https://github.com/zyxElsa/creativity-transfer)\]
 
 
 ## Related 
