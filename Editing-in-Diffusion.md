@@ -53,6 +53,8 @@ Exampler image as the condition; BottleNeck: CLS token only pass the semantic in
 [arxiv 2022.10; ByteDance]MagicMix: Semantic Mixing with Diffusion Models [[PDF]](https://arxiv.org/abs/2210.16056)  
 
 
+[arxiv 2022.12; UT] Multiresolution Textual Inversion [[PDF]](https://arxiv.org/abs/2210.16056)  
+
 ## Story-telling
 
 **[arxiv 22.09]** ***Story Dall-E***: Adapting pretrained text-to-image transformers for story continuation [[PDF]](https://arxiv.org/pdf/2209.06192.pdf)  
@@ -80,6 +82,8 @@ Method: Use history latent as information (Auto-Regressive)
 **[arxiv 2022.11; Seoul National University]** ***DATID-3D:*** Diversity-Preserved Domain Adaptation Using Text-to-Image Diffusion for 3D Generative Model. \[[PROJECT](https://datid-3d.github.io/)]  
 **Incredible Stylization Reults.** Diffusion model to generate different pose data; CLIP to filter bad semantic case; Pose estimator to filter bad pose case; Regularization; DreamBooth for Instance adaptation.
 
+[arxiv 2022.12]High-Fidelity Guided Image Synthesis with Latent Diffusion Models \[[PDF](https://arxiv.org/pdf/2211.17084.pdf)\]  
+
 ## Inpainting 
 [arxiv 2022; MSRA]Paint by Example: Exemplar-based Image Editing with Diffusion Models \[[PDF](https://arxiv.org/pdf/2211.13227.pdf), [code](https://github.com/Fantasy-Studio/Paint-by-Example)\]  
 
@@ -103,6 +107,9 @@ Method: Use history latent as information (Auto-Regressive)
 
 **[ECCV 2022; Best Paper]** ***Partial Distance:*** On the Versatile Uses of Partial Distance Correlation in Deep Learning. \[[PDF](https://arxiv.org/abs/2207.09684)\]  
 Can measure the co-variance distance of any two distribution. Can be used for disentangling the common attributes!
+
+[arxiv 2022.12]SinDDM: A Single Image Denoising Diffusion Model \[[PDF](https://arxiv.org/pdf/2211.16582.pdf)\] 
+
 
 ## Repository
 ***DIFFUSERS*** Hugging-face sota repository. \[[DIFFUSERS](https://github.com/huggingface/diffusers)\]
