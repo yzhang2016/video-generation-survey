@@ -1,4 +1,4 @@
-# Image Editing In Diffusion 
+# Image Editing In Diffusion [Open in Notion](https://vinthony.notion.site/Diffusion-Edit-84312204c0c446e4b9bcc50a1dce84e1)
 
 
 ## Inversion 
