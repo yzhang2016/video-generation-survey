@@ -72,6 +72,11 @@ Method: Use history latent as information (Auto-Regressive)
 **[arxiv 2022]** ***Make-A-Story***: Visual Memory Conditioned Consistent Story Generation  \[[PDF](https://arxiv.org/pdf/2211.13319.pdf), code\]  
 
 
+## SVG
+[arxiv 2022.11; UCB] VectorFusion: Text-to-SVG by Abstracting Pixel-Based Diffusion Models \[[PDF](https://arxiv.org/abs/2211.11319)\]
+
+
+
 ## Translation
 [arxiv 2022; Google]Sketch-Guided Text-to-Image Diffusion Models \[[PDF](https://arxiv.org/pdf/2211.13752.pdf), code\]  
 
