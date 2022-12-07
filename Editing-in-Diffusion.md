@@ -93,6 +93,9 @@ Method: Use history latent as information (Auto-Regressive)
 [arxiv 2022; MSRA]Paint by Example: Exemplar-based Image Editing with Diffusion Models \[[PDF](https://arxiv.org/pdf/2211.13227.pdf), [code](https://github.com/Fantasy-Studio/Paint-by-Example)\]  
 
 
+## Super-Resolution 
+[arxiv 2022.12]ADIR: Adaptive Diffusion for Image Reconstruction  \[[PDF](https://shadyabh.github.io/ADIR/ADIR_files/ADIR.pdf)
+
 ## Style transfer 
 [arxiv 22.11; kuaishou] ***DiffStyler***: Controllable Dual Diffusion for Text-Driven Image Stylization \[[PDF](https://arxiv.org/pdf/2211.10682.pdf), code\]  
 
