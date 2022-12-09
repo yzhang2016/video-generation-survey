@@ -57,6 +57,12 @@ Exampler image as the condition; BottleNeck: CLS token only pass the semantic in
 
 [arxiv 2022.12; Microsoft]X-Paste: Revisit Copy-Paste at Scale with CLIP and StableDiffusion\[[PDF](https://arxiv.org/pdf/2212.03863.pdf)\]
 
+[arxi 2022.12]SINE: SINgle Image Editing with Text-to-Image Diffusion Models \[[PDF](https://arxiv.org/pdf/2212.04489.pdf)\]
+
+[arxiv 2022.12]Multi-Concept Customization of Text-to-Image Diffusion \[[PDF](https://arxiv.org/abs/2212.04488)\]
+
+
+
 ## Story-telling
 
 **[arxiv 22.09]** ***Story Dall-E***: Adapting pretrained text-to-image transformers for story continuation [[PDF]](https://arxiv.org/pdf/2209.06192.pdf)  
@@ -121,6 +127,10 @@ Method: Use history latent as information (Auto-Regressive)
 Can measure the co-variance distance of any two distribution. Can be used for disentangling the common attributes!
 
 [arxiv 2022.12]SinDDM: A Single Image Denoising Diffusion Model \[[PDF](https://arxiv.org/pdf/2211.16582.pdf)\] 
+
+[arxiv 2022.12] Diffusion Guided Domain Adaptation of Image Generators \[[PDF](https://arxiv.org/pdf/2212.04473.pdf)\] 
+
+
 
 
 ## Repository
