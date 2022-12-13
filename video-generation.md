@@ -71,6 +71,8 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 [ECCV 2022] **---TATS--** Long Video Generation with Time-Agnostic VQGAN and Time-Sensitive Transformer \[[PDF](https://arxiv.org/pdf/2204.03638.pdf), [code](https://github.com/SongweiGe/TATS)\]
 
 
+[NeurIPs 2022] **---MCVD---** MCVD: Masked Conditional Video Diffusion for Prediction, Generation, and Interpolation [[PDF](https://arxiv.org/abs/2205.09853)]
+
 :hear_no_evil: [arxiv 2022; Google] **---PHENAKI--** PHENAKI: VARIABLE LENGTH VIDEO GENERATION FROM OPEN DOMAIN TEXTUAL DESCRIPTIONS \[[PDF](https://arxiv.org/pdf/2210.02399.pdf), code \]
 
 
