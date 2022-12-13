@@ -20,3 +20,7 @@ A reading list of video generation
 Basics 
 
 * [Diffuison Models](https://github.com/yzhang2016/video-generation-survey/blob/main/diffusion-models.md)
+
+
+Related 
+* [vector generation](https://github.com/MarkMoHR/Awesome-Sketch-Synthesis#3-vector-graphics-generation)
