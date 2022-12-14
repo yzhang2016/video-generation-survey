@@ -99,6 +99,9 @@ Method: Use history latent as information (Auto-Regressive)
 
 [arxiv 2022.12]Fine-grained Image Editing by Pixel-wise Guidance Using Diffusion Models \[[PDF](https://arxiv.org/pdf/2212.02024.pdf)\]
 
+[arxiv 2022.12]Towards Practical Plug-and-Play Diffusion Models [[PDF](https://arxiv.org/pdf/2212.05973.pdf)]
+
+
 ## Inpainting 
 [arxiv 2022; MSRA]Paint by Example: Exemplar-based Image Editing with Diffusion Models \[[PDF](https://arxiv.org/pdf/2211.13227.pdf), [code](https://github.com/Fantasy-Studio/Paint-by-Example)\]  
 
@@ -112,6 +115,8 @@ Method: Use history latent as information (Auto-Regressive)
 [ICLR 23] TEXT-GUIDED DIFFUSION IMAGE STYLE TRANSFER WITH CONTRASTIVE LOSS [[Paper]](https://openreview.net/pdf?id=iJ_E0ZCy8fi)  
 
 [arxiv 22.11; kuaishou&CAS] Inversion-Based Creativity Transfer with Diffusion Models \[[PDF](https://arxiv.org/pdf/2211.13203.pdf), [Code](https://github.com/zyxElsa/creativity-transfer)\]
+
+[arxiv 2022.12]Diff-Font: Diffusion Model for Robust One-Shot Font Generation [[PDF](https://arxiv.org/pdf/2212.05895.pdf)]
 
 
 ## Related 
