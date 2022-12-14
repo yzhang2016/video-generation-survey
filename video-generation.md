@@ -76,6 +76,8 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 :hear_no_evil: [arxiv 2022; Google] **---PHENAKI--** PHENAKI: VARIABLE LENGTH VIDEO GENERATION FROM OPEN DOMAIN TEXTUAL DESCRIPTIONS \[[PDF](https://arxiv.org/pdf/2210.02399.pdf), code \]
 
 
+[arxiv 2022.12]MAGVIT: Masked Generative Video Transformer[[PDF](https://arxiv.org/pdf/2212.05199.pdf)]
+
 ## :point_right: Diffusion-based methods 
 :hear_no_evil: [NIPS 2022; Google] **---VDM--**  Video Diffusion Models \[[PDF](https://arxiv.org/pdf/2204.03458.pdf), [code](https://github.com/lucidrains/video-diffusion-pytorch) \]
 
