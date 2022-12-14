@@ -119,6 +119,10 @@ Method: Use history latent as information (Auto-Regressive)
 [arxiv 2022.12]Diff-Font: Diffusion Model for Robust One-Shot Font Generation [[PDF](https://arxiv.org/pdf/2212.05895.pdf)]
 
 
+## Face swapping 
+[arxiv 2022.12]HS-Diffusion: Learning a Semantic-Guided Diffusion Model for Head Swapping[[PDF](https://arxiv.org/pdf/2212.06458.pdf)]
+
+
 ## Related 
 [arxiv 2022.11]Investigating Prompt Engineering in Diffusion Models \[[PDF](https://arxiv.org/pdf/2211.15462.pdf)\] 
 
@@ -136,6 +140,8 @@ Can measure the co-variance distance of any two distribution. Can be used for di
 [arxiv 2022.12] Diffusion Guided Domain Adaptation of Image Generators \[[PDF](https://arxiv.org/pdf/2212.04473.pdf)\] 
 
 [arxiv 2022.12]Training-Free Structured Diffusion Guidance for Compositional Text-to-Image Synthesis [[PDF](https://arxiv.org/pdf/2212.05032.pdf)]
+
+
 
 
 ## Repository
