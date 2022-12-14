@@ -65,6 +65,9 @@
 
 [arxiv 2022; Google] Cascaded Diffusion Models for High Fidelity Image Generation\[[PDF](https://arxiv.org/pdf/2106.15282.pdf), Code\]
 
+
+## Scene 
+[arxiv 2022.12]Generative Scene Synthesis via Incremental View Inpainting using RGBD Diffusion Models [[PDF](https://arxiv.org/pdf/2212.05993.pdf)]
 [ ] xxx \[[PDF](), [Code]()\]
 
 [ ] xxx \[[PDF](), [Code]()\]
