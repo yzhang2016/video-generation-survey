@@ -63,6 +63,8 @@ Exampler image as the condition; BottleNeck: CLS token only pass the semantic in
 
 [arxiv 2022.12]Uncovering the Disentanglement Capability in Text-to-Image Diffusion Models[[PDF](https://arxiv.org/pdf/2212.08698.pdf)]
 
+[arxiv 2022.12]Optimizing Prompts for Text-to-Image Generation [[PDF](https://arxiv.org/pdf/2212.09611.pdf)]
+
 ## Story-telling
 
 **[arxiv 22.09]** ***Story Dall-E***: Adapting pretrained text-to-image transformers for story continuation [[PDF]](https://arxiv.org/pdf/2209.06192.pdf)  
