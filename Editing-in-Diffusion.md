@@ -141,7 +141,7 @@ Can measure the co-variance distance of any two distribution. Can be used for di
 
 [arxiv 2022.12]Training-Free Structured Diffusion Guidance for Compositional Text-to-Image Synthesis [[PDF](https://arxiv.org/pdf/2212.05032.pdf)]
 
-
+[arxiv 2022.12]Scalable Diffusion Models with Transformers[[PDF](https://arxiv.org/pdf/2212.09748.pdf)]
 
 
 ## Repository
