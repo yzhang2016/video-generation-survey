@@ -99,3 +99,5 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 [arxiv 2022.12; ByteDace]PV3D: A 3D GENERATIVE MODEL FOR PORTRAIT VIDEO GENERATION [[PDF](https://arxiv.org/pdf/2212.06384.pdf)]
 
 [arxiv 2022.12]MM-Diffusion: Learning Multi-Modal Diffusion Models for Joint Audio and Video Generation[[PDF](https://arxiv.org/pdf/2212.09478.pdf)]
+
+[arxiv 2022.12]Tune-A-Video: One-Shot Tuning of Image Diffusion Models for Text-to-Video Generation [[PDF](https://arxiv.org/pdf/2212.11565.pdf), [Page](https://tuneavideo.github.io/)]
