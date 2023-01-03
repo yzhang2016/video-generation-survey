@@ -68,6 +68,9 @@
 
 ## Scene 
 [arxiv 2022.12]Generative Scene Synthesis via Incremental View Inpainting using RGBD Diffusion Models [[PDF](https://arxiv.org/pdf/2212.05993.pdf)]
+
+[arxiv 2022.12]Benchmarking Spatial Relationships in Text-to-Image Generation [[PDF](https://arxiv.org/pdf/2212.10015.pdf)]
+
 [ ] xxx \[[PDF](), [Code]()\]
 
 [ ] xxx \[[PDF](), [Code]()\]
