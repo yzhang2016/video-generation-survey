@@ -44,7 +44,7 @@
 
 [arxiv 2022.12] Scalable Diffusion Models with Transformers [[PDF](https://arxiv.org/abs/2212.09748), [Page](https://www.wpeebles.com/DiT)]
 
-[ ] xxx \[[PDF](), [Code]()\]
+
 
 ## GAN/VAE/Transformer-based 
 
@@ -52,12 +52,10 @@
 
 [KDD, 2021; Alibaba ] M6 : A Chinese Multimodal Pretrainer \[[PDF](https://arxiv.org/pdf/2103.00823.pdf), Code\]
 
-[arxiv 2022.11; Google] Muse: Text-To-Image Generation via Masked Generative Transformers [[PDF](https://arxiv.org/abs/2301.00704), [Page](https://muse-model.github.io/)]
+[arxiv 2023.1; Google] Muse: Text-To-Image Generation via Masked Generative Transformers [[PDF](https://arxiv.org/abs/2301.00704), [Page](https://muse-model.github.io/)]
 
 [arxiv 2023.1]Attribute-Centric Compositional Text-to-Image Generation [[PDF](https://arxiv.org/pdf/2301.01413.pdf)]
 
-
-[ ] xxx \[[PDF](), [Code]()\]
 
 # Generation & Super-resolution 
 
@@ -77,8 +75,3 @@
 
 [arxiv 2022.12]Benchmarking Spatial Relationships in Text-to-Image Generation [[PDF](https://arxiv.org/pdf/2212.10015.pdf)]
 
-[ ] xxx \[[PDF](), [Code]()\]
-
-[ ] xxx \[[PDF](), [Code]()\]
-
-[ ] xxx \[[PDF](), [Code]()\]
