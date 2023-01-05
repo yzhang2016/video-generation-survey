@@ -42,6 +42,9 @@
 
 [NIPS 2022; Microsoft] **---NÜWA-Infinity--** NUWA-Infinity: Autoregressive over Autoregressive Generation for Infinite Visual Synthesis \[[PDF](https://arxiv.org/pdf/2207.09814.pdf), code \]
 
+
+[arxiv 2022.11; Google] Muse: Text-To-Image Generation via Masked Generative Transformers [[PDF](https://arxiv.org/abs/2301.00704), [Page](https://muse-model.github.io/)]
+
 [ ] xxx \[[PDF](), [Code]()\]
 
 ## GAN/VAE/Transformer-based 
@@ -49,6 +52,8 @@
 [CVPR 2021; Google ] Cross-Modal Contrastive Learning for Text-to-Image Generation \[[PDF](https://arxiv.org/pdf/2101.04702.pdf), [Code](https://github.com/google-research/xmcgan_image_generation)\]
 
 [KDD, 2021; Alibaba ] M6 : A Chinese Multimodal Pretrainer \[[PDF](https://arxiv.org/pdf/2103.00823.pdf), Code\]
+
+
 
 
 [ ] xxx \[[PDF](), [Code]()\]
