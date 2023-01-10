@@ -92,7 +92,7 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 [AAAI 2022; JHU ] VIDM: Video Implicit Diffusion Model \[[PDF](https://kfmei.page/vidm/Video_implicit_diffusion_models.pdf)\]
 
 ## :point_right: Video Completion (animation, interpolation, prediction)
-[arxiv 2022; Meta] Tell Me What Happened: Unifying Text-guided Video Completion via Multimodal Masked Video Generation \[[PDF](https://arxiv.org/pdf/2211.12824.pdf), code\]
+[arxiv 2022; Meta] Tell Me What Happened: Unifying Text-guided Video Completion via Multimodal Masked Video Generation \[[PDF](https://arxiv.org/pdf/2211.12824.pdf), code]
 
 
 ## CV Related 
@@ -101,6 +101,8 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 [arxiv 2022.12]MM-Diffusion: Learning Multi-Modal Diffusion Models for Joint Audio and Video Generation[[PDF](https://arxiv.org/pdf/2212.09478.pdf)]
 
 [arxiv 2022.12]Tune-A-Video: One-Shot Tuning of Image Diffusion Models for Text-to-Video Generation [[PDF](https://arxiv.org/pdf/2212.11565.pdf), [Page](https://tuneavideo.github.io/)]
+
+[arxiv 2023.01]Diffused Heads: Diffusion Models Beat GANs on Talking-Face Generation [[PDF](https://arxiv.org/pdf/2301.03396.pdf), [Page](https://mstypulkowski.github.io/diffusedheads/)]
 
 ## NLP related
 [arxiv 2022.10]DIFFUSEQ: SEQUENCE TO SEQUENCE TEXT GENERATION WITH DIFFUSION MODELS [[PDF](https://arxiv.org/pdf/2210.08933.pdf)]
