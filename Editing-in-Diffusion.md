@@ -50,6 +50,9 @@ Affine Coupling Layer in Flow to make the inversion invertable; Mixing weight to
 **[arxiv 22.11]** ***Paint by Example***: Exemplar-based Image Editing with Diffusion Models [[PDF]](https://arxiv.org/abs/2211.13227)  
 Exampler image as the condition; BottleNeck: CLS token only pass the semantic information; Augmentation of reference image and mask.
 
+[arxiv 2022.11]InstructPix2Pix: Learning to Follow Image Editing Instructions [[PDF](https://arxiv.org/abs/2211.09800), [Page](https://www.timothybrooks.com/instruct-pix2pix)]
+
+
 [arxiv 2022.10; ByteDance]MagicMix: Semantic Mixing with Diffusion Models [[PDF]](https://arxiv.org/abs/2210.16056)  
 
 
@@ -64,6 +67,8 @@ Exampler image as the condition; BottleNeck: CLS token only pass the semantic in
 [arxiv 2022.12]Uncovering the Disentanglement Capability in Text-to-Image Diffusion Models[[PDF](https://arxiv.org/pdf/2212.08698.pdf)]
 
 [arxiv 2022.12]Optimizing Prompts for Text-to-Image Generation [[PDF](https://arxiv.org/pdf/2212.09611.pdf)]
+
+
 
 ## Story-telling
 
