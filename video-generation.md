@@ -109,3 +109,6 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 ## NLP related
 [arxiv 2022.10]DIFFUSEQ: SEQUENCE TO SEQUENCE TEXT GENERATION WITH DIFFUSION MODELS [[PDF](https://arxiv.org/pdf/2210.08933.pdf)]
+
+## Speech 
+[arxiv 2023.01]Neural Codec Language Models are Zero-Shot Text to Speech Synthesizers[[PDF](https://arxiv.org/abs/2301.02111), [Page](https://valle-demo.github.io/)]
