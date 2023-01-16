@@ -68,7 +68,7 @@ Exampler image as the condition; BottleNeck: CLS token only pass the semantic in
 
 [arxiv 2022.12]Optimizing Prompts for Text-to-Image Generation [[PDF](https://arxiv.org/pdf/2212.09611.pdf)]
 
-
+[arxiv 2023.01]Guiding Text-to-Image Diffusion Model Towards Grounded Generation [[PDF](https://arxiv.org/pdf/2301.05221.pdf), [Page](https://lipurple.github.io/Grounded_Diffusion/)]
 
 ## Story-telling
 
