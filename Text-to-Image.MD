@@ -44,7 +44,7 @@
 
 [arxiv 2022.12] Scalable Diffusion Models with Transformers [[PDF](https://arxiv.org/abs/2212.09748), [Page](https://www.wpeebles.com/DiT)]
 
-
+[arxiv 2023.01]simple diffusion: End-to-end diffusion for high resolution images [[PDF](https://arxiv.org/pdf/2301.11093.pdf) ]
 
 ## GAN/VAE/Transformer-based 
 
@@ -56,6 +56,7 @@
 
 [arxiv 2023.1]Attribute-Centric Compositional Text-to-Image Generation [[PDF](https://arxiv.org/pdf/2301.01413.pdf)]
 
+[arxiv 2023.01]StyleGAN-T: Unlocking the Power of GANs for Fast Large-Scale Text-to-Image Synthesis [[PDF](https://arxiv.org/abs/2301.09515), [Page](https://sites.google.com/view/stylegan-t/)]
 
 # Generation & Super-resolution 
 
