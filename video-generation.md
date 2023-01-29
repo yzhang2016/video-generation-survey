@@ -91,6 +91,11 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [AAAI 2022; JHU ] VIDM: Video Implicit Diffusion Model \[[PDF](https://kfmei.page/vidm/Video_implicit_diffusion_models.pdf)\]
 
+[arxiv 2023.01; Meta] Text-To-4D Dynamic Scene Generation [[PDF](https://arxiv.org/pdf/2301.11280.pdf), [Page](https://make-a-video3d.github.io/)]
+
+
+
+
 ## :point_right: Video Completion (animation, interpolation, prediction)
 [arxiv 2022; Meta] Tell Me What Happened: Unifying Text-guided Video Completion via Multimodal Masked Video Generation \[[PDF](https://arxiv.org/pdf/2211.12824.pdf), code]
 
