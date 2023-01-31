@@ -9,3 +9,5 @@
 
 ## Diffusion-based 
 [arxiv 2022.12]Diffusion Video Autoencoders: Toward Temporally Consistent Face Video Editing via Disentangled Video Encoding \[[PDF](https://arxiv.org/pdf/2212.02802.pdf)\]
+
+[arxiv 2023.01]Shape-aware Text-driven Layered Video Editing [[PDF](https://arxiv.org/abs/2301.13173), [Page](https://text-video-edit.github.io/)]
