@@ -109,6 +109,8 @@ Method: Use history latent as information (Auto-Regressive)
 
 [arxiv 2022.12]Towards Practical Plug-and-Play Diffusion Models [[PDF](https://arxiv.org/pdf/2212.05973.pdf)]
 
+[arxiv 2023.01]Attend-and-Excite: Attention-Based Semantic Guidance for Text-to-Image Diffusion Models[[PDF](https://arxiv.org/abs/2301.13826)]
+
 
 ## Inpainting 
 [arxiv 2022; MSRA]Paint by Example: Exemplar-based Image Editing with Diffusion Models \[[PDF](https://arxiv.org/pdf/2211.13227.pdf), [code](https://github.com/Fantasy-Studio/Paint-by-Example)\]  
