@@ -111,6 +111,8 @@ Method: Use history latent as information (Auto-Regressive)
 
 [arxiv 2023.01]Attend-and-Excite: Attention-Based Semantic Guidance for Text-to-Image Diffusion Models[[PDF](https://arxiv.org/abs/2301.13826)]
 
+[arxiv 2023.02]Zero-shot Image-to-Image Translation [[PDF](https://arxiv.org/abs/2302.03027), [Page](https://pix2pixzero.github.io/)]
+
 
 ## Inpainting 
 [arxiv 2022; MSRA]Paint by Example: Exemplar-based Image Editing with Diffusion Models \[[PDF](https://arxiv.org/pdf/2211.13227.pdf), [code](https://github.com/Fantasy-Studio/Paint-by-Example)\]  
@@ -128,9 +130,17 @@ Method: Use history latent as information (Auto-Regressive)
 
 [arxiv 2022.12]Diff-Font: Diffusion Model for Robust One-Shot Font Generation [[PDF](https://arxiv.org/pdf/2212.05895.pdf)]
 
+[arxiv 2023.02]Structure and Content-Guided Video Synthesis with Diffusion Models [[PDF](https://arxiv.org/abs/2302.03011), [Page](https://research.runwayml.com/gen1)]
+
+[arxiv 2023.03]Design Booster: A Text-Guided Diffusion Model for Image Translation with Spatial Layout Preservation [[PDF](https://arxiv.org/abs/2302.02284)]
+
 
 ## Face swapping 
 [arxiv 2022.12]HS-Diffusion: Learning a Semantic-Guided Diffusion Model for Head Swapping[[PDF](https://arxiv.org/pdf/2212.06458.pdf)]
+
+
+## scene composition
+[arxiv 2023.02]MIXTURE OF DIFFUSERS FOR SCENE COMPOSITION AND HIGH RESOLUTION IMAGE GENERATION [[PDF](https://arxiv.org/abs/2302.02412)]
 
 
 ## Related 
@@ -152,6 +162,8 @@ Can measure the co-variance distance of any two distribution. Can be used for di
 [arxiv 2022.12]Training-Free Structured Diffusion Guidance for Compositional Text-to-Image Synthesis [[PDF](https://arxiv.org/pdf/2212.05032.pdf)]
 
 [arxiv 2022.12]Scalable Diffusion Models with Transformers[[PDF](https://arxiv.org/pdf/2212.09748.pdf)]
+
+
 
 
 ## Repository
