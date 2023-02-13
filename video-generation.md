@@ -111,6 +111,7 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2023.01]DiffTalk: Crafting Diffusion Models for Generalized Talking Head Synthesis [[PDF](https://arxiv.org/pdf/2301.03786.pdf), [Page](https://sstzal.github.io/DiffTalk/)]
 
+[arxiv 2023.02 Google]Scaling Vision Transformers to 22 Billion Parameters [[PDF](https://arxiv.org/abs/2302.05442)]
 
 ## NLP related
 [arxiv 2022.10]DIFFUSEQ: SEQUENCE TO SEQUENCE TEXT GENERATION WITH DIFFUSION MODELS [[PDF](https://arxiv.org/pdf/2210.08933.pdf)]
