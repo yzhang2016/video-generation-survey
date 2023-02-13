@@ -32,8 +32,6 @@
 
 *[CVPR 2022] High-Resolution Image Synthesis with Latent Diffusion Models \[[PDF](https://arxiv.org/pdf/2112.10752.pdf), [Code](https://github.com/CompVis/latent-diffusion)\]
 
-*[arxiv 2022; Meta ] Make-A-Scene: Scene-Based Text-to-Image Generation with Human Priors \[[PDF](https://arxiv.org/pdf/2203.13131.pdf), [Code 3](https://github.com/CasualGANPapers/Make-A-Scene)\]
-
 [arxiv 2022; Goole] Photorealistic Text-to-Image Diffusion Models with Deep Language Understanding \[[PDF](https://arxiv.org/pdf/2205.11487.pdf), Code\]
 
 [arxiv 2022; Tsinghua ] CogView2: Faster and Better Text-to-Image Generation via Hierarchical Transformers \[[PDF](https://arxiv.org/pdf/2204.14217.pdf), [Code](https://github.com/THUDM/CogView2)\]
@@ -51,6 +49,8 @@
 [CVPR 2021; Google ] Cross-Modal Contrastive Learning for Text-to-Image Generation \[[PDF](https://arxiv.org/pdf/2101.04702.pdf), [Code](https://github.com/google-research/xmcgan_image_generation)\]
 
 [KDD, 2021; Alibaba ] M6 : A Chinese Multimodal Pretrainer \[[PDF](https://arxiv.org/pdf/2103.00823.pdf), Code\]
+
+*[arxiv 2022; Meta ] Make-A-Scene: Scene-Based Text-to-Image Generation with Human Priors \[[PDF](https://arxiv.org/pdf/2203.13131.pdf), [Code 3](https://github.com/CasualGANPapers/Make-A-Scene)\]
 
 [arxiv 2023.1; Google] Muse: Text-To-Image Generation via Masked Generative Transformers [[PDF](https://arxiv.org/abs/2301.00704), [Page](https://muse-model.github.io/)]
 
