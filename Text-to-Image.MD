@@ -30,9 +30,9 @@
 
 [arxiv 2022; OpenAI ] Hierarchical Text-Conditional Image Generation with CLIP Latents \[[PDF](https://arxiv.org/pdf/2204.06125.pdf), Code\]
 
-[CVPR 2022] High-Resolution Image Synthesis with Latent Diffusion Models \[[PDF](https://arxiv.org/pdf/2112.10752.pdf), [Code](https://github.com/CompVis/latent-diffusion)\]
+*[CVPR 2022] High-Resolution Image Synthesis with Latent Diffusion Models \[[PDF](https://arxiv.org/pdf/2112.10752.pdf), [Code](https://github.com/CompVis/latent-diffusion)\]
 
-[arxiv 2022; Meta ] Make-A-Scene: Scene-Based Text-to-Image Generation with Human Priors \[[PDF](https://arxiv.org/pdf/2203.13131.pdf), [Code 3](https://github.com/CasualGANPapers/Make-A-Scene)\]
+*[arxiv 2022; Meta ] Make-A-Scene: Scene-Based Text-to-Image Generation with Human Priors \[[PDF](https://arxiv.org/pdf/2203.13131.pdf), [Code 3](https://github.com/CasualGANPapers/Make-A-Scene)\]
 
 [arxiv 2022; Goole] Photorealistic Text-to-Image Diffusion Models with Deep Language Understanding \[[PDF](https://arxiv.org/pdf/2205.11487.pdf), Code\]
 
