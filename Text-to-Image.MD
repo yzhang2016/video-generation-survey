@@ -4,15 +4,9 @@
 
 [ICML 2021; OpenAI ] GLIDE: Towards Photorealistic Image Generation and Editing with Text-Guided Diffusion Models \[[PDF](https://arxiv.org/pdf/2112.10741.pdf), [Code](https://github.com/openai/glide-text2im)\]
 
-[ICML 2021; OpenAI ] Zero-Shot Text-to-Image Generation \[[PDF](https://arxiv.org/pdf/2102.12092.pdf), [Code 3](https://github.com/YoadTew/zero-shot-image-to-text)\]
-
-[arxiv 2021; Baidu] ERNIE-ViLG: Unified Generative Pre-training for Bidirectional Vision-Language Generation \[[PDF](https://arxiv.org/pdf/2112.15283.pdf), Code\]
-
 [arxiv 2022; Microsoft] Vector Quantized Diffusion Model for Text-to-Image Synthesis \[[PDF](https://arxiv.org/pdf/2111.14822.pdf), [Code](https://github.com/cientgu/VQ-Diffusion)\]
 
 [CVPR 2022; SUNY] Towards Language-Free Training for Text-to-Image Generation \[[PDF](https://openaccess.thecvf.com/content/CVPR2022/papers/Zhou_Towards_Language-Free_Training_for_Text-to-Image_Generation_CVPR_2022_paper.pdf), [Code](https://github.com/drboog/Lafite)\]
-
-[ECCV 2022] DT2I: Dense Text-to-Image Generation from Region Descriptions \[[PDF](https://arxiv.org/pdf/2204.02035.pdf), Code\]
 
 [ECCV 2022; UIUC ] Compositional Visual Generation with Composable Diffusion Models \[[PDF](https://arxiv.org/pdf/2206.01714.pdf), [Code](https://github.com/energy-based-model/Compositional-Visual-Generation-with-Composable-Diffusion-Models-PyTorch)\]
 
@@ -34,11 +28,6 @@
 
 [arxiv 2022; Goole] Photorealistic Text-to-Image Diffusion Models with Deep Language Understanding \[[PDF](https://arxiv.org/pdf/2205.11487.pdf), Code\]
 
-[arxiv 2022; Tsinghua ] CogView2: Faster and Better Text-to-Image Generation via Hierarchical Transformers \[[PDF](https://arxiv.org/pdf/2204.14217.pdf), [Code](https://github.com/THUDM/CogView2)\]
-
-[ECCV 2022; Microsoft] **---NÜWA--** NÜWA: Visual Synthesis Pre-training for Neural visUal World creAtion \[[PDF](https://arxiv.org/pdf/2111.12417.pdf), code \]
-
-[NIPS 2022; Microsoft] **---NÜWA-Infinity--** NUWA-Infinity: Autoregressive over Autoregressive Generation for Infinite Visual Synthesis \[[PDF](https://arxiv.org/pdf/2207.09814.pdf), code \]
 
 [arxiv 2022.12] Scalable Diffusion Models with Transformers [[PDF](https://arxiv.org/abs/2212.09748), [Page](https://www.wpeebles.com/DiT)]
 
@@ -46,11 +35,23 @@
 
 ## GAN/VAE/Transformer-based 
 
+[ICML 2021; OpenAI ] Zero-Shot Text-to-Image Generation \[[PDF](https://arxiv.org/pdf/2102.12092.pdf), [Code 3](https://github.com/YoadTew/zero-shot-image-to-text)\]
+
 [CVPR 2021; Google ] Cross-Modal Contrastive Learning for Text-to-Image Generation \[[PDF](https://arxiv.org/pdf/2101.04702.pdf), [Code](https://github.com/google-research/xmcgan_image_generation)\]
 
 [KDD, 2021; Alibaba ] M6 : A Chinese Multimodal Pretrainer \[[PDF](https://arxiv.org/pdf/2103.00823.pdf), Code\]
 
+[arxiv 2021; Baidu] ERNIE-ViLG: Unified Generative Pre-training for Bidirectional Vision-Language Generation \[[PDF](https://arxiv.org/pdf/2112.15283.pdf), Code\]
+
+[ECCV 2022] DT2I: Dense Text-to-Image Generation from Region Descriptions \[[PDF](https://arxiv.org/pdf/2204.02035.pdf), Code\]
+
 *[arxiv 2022; Meta ] Make-A-Scene: Scene-Based Text-to-Image Generation with Human Priors \[[PDF](https://arxiv.org/pdf/2203.13131.pdf), [Code 3](https://github.com/CasualGANPapers/Make-A-Scene)\]
+
+[arxiv 2022; Tsinghua ] CogView2: Faster and Better Text-to-Image Generation via Hierarchical Transformers \[[PDF](https://arxiv.org/pdf/2204.14217.pdf), [Code](https://github.com/THUDM/CogView2)\]
+
+[ECCV 2022; Microsoft] **---NÜWA--** NÜWA: Visual Synthesis Pre-training for Neural visUal World creAtion \[[PDF](https://arxiv.org/pdf/2111.12417.pdf), code \]
+
+[NIPS 2022; Microsoft] **---NÜWA-Infinity--** NUWA-Infinity: Autoregressive over Autoregressive Generation for Infinite Visual Synthesis \[[PDF](https://arxiv.org/pdf/2207.09814.pdf), code \]
 
 [arxiv 2023.1; Google] Muse: Text-To-Image Generation via Masked Generative Transformers [[PDF](https://arxiv.org/abs/2301.00704), [Page](https://muse-model.github.io/)]
 
