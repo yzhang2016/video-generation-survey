@@ -2,7 +2,7 @@
 
 ## Diffusion-based 
 
-[ICML 2021; OpenAI ] GLIDE: Towards Photorealistic Image Generation and Editing with Text-Guided Diffusion Models \[[PDF](https://arxiv.org/pdf/2112.10741.pdf), [Code](https://github.com/openai/glide-text2im)\]
+*[ICML 2021; OpenAI ] GLIDE: Towards Photorealistic Image Generation and Editing with Text-Guided Diffusion Models \[[PDF](https://arxiv.org/pdf/2112.10741.pdf), [Code](https://github.com/openai/glide-text2im)\]
 
 [arxiv 2022; Microsoft] Vector Quantized Diffusion Model for Text-to-Image Synthesis \[[PDF](https://arxiv.org/pdf/2111.14822.pdf), [Code](https://github.com/cientgu/VQ-Diffusion)\]
 
@@ -27,7 +27,6 @@
 *[CVPR 2022] High-Resolution Image Synthesis with Latent Diffusion Models \[[PDF](https://arxiv.org/pdf/2112.10752.pdf), [Code](https://github.com/CompVis/latent-diffusion)\]
 
 [arxiv 2022; Goole] Photorealistic Text-to-Image Diffusion Models with Deep Language Understanding \[[PDF](https://arxiv.org/pdf/2205.11487.pdf), Code\]
-
 
 [arxiv 2022.12] Scalable Diffusion Models with Transformers [[PDF](https://arxiv.org/abs/2212.09748), [Page](https://www.wpeebles.com/DiT)]
 
