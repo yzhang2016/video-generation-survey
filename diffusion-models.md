@@ -8,6 +8,8 @@
 
 [arxiv 2023.02]ReDi: Efficient Learning-Free Diffusion Inference via Trajectory Retrieval [[PDF](https://arxiv.org/abs/2302.02285) ]
 
+[arxiv 2023.02]Q-Diffusion: Quantizing Diffusion Models [[PDF](https://arxiv.org/abs/2302.04304)]
+
 ## Architecture
 
 ## Speedup  
@@ -15,4 +17,6 @@
 
 [arxiv 2022.12; NUS, ByteDance]Diffusion Probabilistic Model Made Slim \[[PDF](https://arxiv.org/pdf/2211.17115.pdf), [code](https://github.com/giannisdaras/multires_textual_inversion)\]
 
+
+[arxiv 2023.02]Example-Based Sampling with Diffusion Models [[PDF](https://arxiv.org/abs/2302.05116)]
 
