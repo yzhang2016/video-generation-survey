@@ -72,6 +72,9 @@ Weakness: Only words editing
 
 [arxiv 2023.01]Guiding Text-to-Image Diffusion Model Towards Grounded Generation [[PDF](https://arxiv.org/pdf/2301.05221.pdf), [Page](https://lipurple.github.io/Grounded_Diffusion/)]
 
+[arxiv 2023.02]Adding Conditional Control to Text-to-Image Diffusion Models [[PDF](https://arxiv.org/abs/2302.05543)]
+
+
 ## Story-telling
 
 **[arxiv 22.09]** ***Story Dall-E***: Adapting pretrained text-to-image transformers for story continuation [[PDF]](https://arxiv.org/pdf/2209.06192.pdf)  
