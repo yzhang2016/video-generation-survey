@@ -122,6 +122,14 @@ Method: Use history latent as information (Auto-Regressive)
 
 [arxiv 2023.02]Zero-shot Image-to-Image Translation [[PDF](https://arxiv.org/abs/2302.03027), [Page](https://pix2pixzero.github.io/)]
 
+[arxiv 2023.02]Universal Guidance for Diffusion Models [[PDF](https://arxiv.org/abs/2302.07121), [Page](https://github.com/arpitbansal297/Universal-Guided-Diffusion)]
+
+[arxiv 2023.02]DiffFaceSketch: High-Fidelity Face Image Synthesis with Sketch-Guided Latent Diffusion Model [[PDF](https://arxiv.org/abs/2302.06908), ]
+
+[arxiv 2023.02]Text-Guided Scene Sketch-to-Photo Synthesis[[PDF](https://arxiv.org/abs/2302.06883),]
+
+
+
 
 ## Inpainting 
 [arxiv 2022; MSRA]Paint by Example: Exemplar-based Image Editing with Diffusion Models \[[PDF](https://arxiv.org/pdf/2211.13227.pdf), [code](https://github.com/Fantasy-Studio/Paint-by-Example)\]  
@@ -142,6 +150,8 @@ Method: Use history latent as information (Auto-Regressive)
 [arxiv 2023.02]Structure and Content-Guided Video Synthesis with Diffusion Models [[PDF](https://arxiv.org/abs/2302.03011), [Page](https://research.runwayml.com/gen1)]
 
 [arxiv 2023.03]Design Booster: A Text-Guided Diffusion Model for Image Translation with Spatial Layout Preservation [[PDF](https://arxiv.org/abs/2302.02284)]
+
+[arxiv 2023.02]DiffFashion: Reference-based Fashion Design with Structure-aware Transfer by Diffusion Models [[PDF](https://arxiv.org/abs/2302.06826)]
 
 
 ## Face swapping 
