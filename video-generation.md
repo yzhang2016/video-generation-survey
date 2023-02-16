@@ -25,6 +25,10 @@ A reading list of video generation
 
   [NIPS 2019] First order motion model for image animation \[ [PDF](https://papers.nips.cc/paper/2019/file/31c0b36aef265d9221af80872ceb62f9-Paper.pdf), [Project](https://github.com/AliaksandrSiarohin/first-order-model) \]
 
+* **Celebv-text**
+[arxiv ]CelebV-Text: A Large-Scale Facial Text-Video Dataset [[PDF](), [Page](https://celebv-text.github.io/)]
+
+
 
 ## :point_right: GAN/VAE-based methods 
 [NIPS 2016] **---VGAN---** Generating Videos with Scene Dynamics \[[PDF](https://proceedings.neurips.cc/paper/2016/file/04025959b191f8f9de3f924f0940515f-Paper.pdf), [code](https://github.com/cvondrick/videogan) \]
