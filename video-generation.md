@@ -93,7 +93,7 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2023.01; Meta] Text-To-4D Dynamic Scene Generation [[PDF](https://arxiv.org/pdf/2301.11280.pdf), [Page](https://make-a-video3d.github.io/)]
 
-
+[arxiv 2023.03]Video Probabilistic Diffusion Models in Projected Latent Space [[PDF](https://arxiv.org/abs/2302.07685), [Page](https://sihyun.me/PVDM/)]
 
 
 ## :point_right: Video Completion (animation, interpolation, prediction)
