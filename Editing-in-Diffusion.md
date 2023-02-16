@@ -138,6 +138,8 @@ Method: Use history latent as information (Auto-Regressive)
 ## Super-Resolution 
 [arxiv 2022.12]ADIR: Adaptive Diffusion for Image Reconstruction  \[[PDF](https://shadyabh.github.io/ADIR/ADIR_files/ADIR.pdf)
 
+[arxiv 2023.03]Denoising Diffusion Probabilistic Models for Robust Image Super-Resolution in the Wild [[PDF](https://arxiv.org/abs/2302.07864)]
+
 ## Style transfer 
 [arxiv 22.11; kuaishou] ***DiffStyler***: Controllable Dual Diffusion for Text-Driven Image Stylization \[[PDF](https://arxiv.org/pdf/2211.10682.pdf), code\]  
 
