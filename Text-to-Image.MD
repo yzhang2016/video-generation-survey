@@ -8,6 +8,8 @@
 
 [CVPR 2022; SUNY] Towards Language-Free Training for Text-to-Image Generation \[[PDF](https://openaccess.thecvf.com/content/CVPR2022/papers/Zhou_Towards_Language-Free_Training_for_Text-to-Image_Generation_CVPR_2022_paper.pdf), [Code](https://github.com/drboog/Lafite)\]
 
+*[CVPR 2022]High-Resolution Image Synthesis with Latent Diffusion Models[[PDF](https://arxiv.org/abs/2112.10752), [Code](https://github.com/CompVis/latent-diffusion)]
+
 [ECCV 2022; UIUC ] Compositional Visual Generation with Composable Diffusion Models \[[PDF](https://arxiv.org/pdf/2206.01714.pdf), [Code](https://github.com/energy-based-model/Compositional-Visual-Generation-with-Composable-Diffusion-Models-PyTorch)\]
 
 [NIPS 2022; Tel-Aviv] Prompt-to-Prompt Image Editing with Cross Attention Control \[[PDF](https://arxiv.org/pdf/2208.01626.pdf), [Code](https://github.com/bloc97/CrossAttentionControl)\]
@@ -26,7 +28,7 @@
 
 *[CVPR 2022] High-Resolution Image Synthesis with Latent Diffusion Models \[[PDF](https://arxiv.org/pdf/2112.10752.pdf), [Code](https://github.com/CompVis/latent-diffusion)\]
 
-[arxiv 2022; Goole] Photorealistic Text-to-Image Diffusion Models with Deep Language Understanding \[[PDF](https://arxiv.org/pdf/2205.11487.pdf), Code\]
+*[arxiv 2022; Goole] Photorealistic Text-to-Image Diffusion Models with Deep Language Understanding \[[PDF](https://arxiv.org/pdf/2205.11487.pdf), Code\]
 
 [arxiv 2022.12] Scalable Diffusion Models with Transformers [[PDF](https://arxiv.org/abs/2212.09748), [Page](https://www.wpeebles.com/DiT)]
 
