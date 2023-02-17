@@ -12,17 +12,7 @@
 
 [ECCV 2022; UIUC ] Compositional Visual Generation with Composable Diffusion Models \[[PDF](https://arxiv.org/pdf/2206.01714.pdf), [Code](https://github.com/energy-based-model/Compositional-Visual-Generation-with-Composable-Diffusion-Models-PyTorch)\]
 
-[NIPS 2022; Tel-Aviv] Prompt-to-Prompt Image Editing with Cross Attention Control \[[PDF](https://arxiv.org/pdf/2208.01626.pdf), [Code](https://github.com/bloc97/CrossAttentionControl)\]
-
-[NIPS 2022; Tel Aviv] An Image is Worth One Word: Personalizing Text-to-Image Generation using Textual Inversion \[[PDF](https://arxiv.org/pdf/2208.01618.pdf), [Code](https://github.com/rinongal/textual_inversion)\]
-
-[NIPS 2022; Google] DreamBooth: Fine Tuning Text-to-Image Diffusion Models for Subject-Driven Generation \[[PDF](https://arxiv.org/pdf/2208.12242.pdf), [Code 3](https://github.com/XavierXiao/Dreambooth-Stable-Diffusion)\]
-
-[arxiv 2022; Nvidia ] eDiffi: Text-to-Image Diffusion Models with an Ensemble of Expert Denoisers \[[PDF](https://arxiv.org/pdf/2211.01324.pdf), Code\]
-
 [arxiv 2022; ByteDance] CLIP-GEN: Language-Free Training of a Text-to-Image Generator with CLIP \[[PDF](https://arxiv.org/pdf/2203.00386.pdf), [Code](https://github.com/HFAiLab/clip-gen)\]
-
-[arxiv 2022; Goolge ] Imagic: Text-Based Real Image Editing with Diffusion Models \[[PDF](https://arxiv.org/pdf/2210.09276.pdf), Code\]
 
 [arxiv 2022; OpenAI ] Hierarchical Text-Conditional Image Generation with CLIP Latents \[[PDF](https://arxiv.org/pdf/2204.06125.pdf), Code\]
 
