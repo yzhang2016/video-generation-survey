@@ -10,6 +10,8 @@
 
 [arxiv 2023.02]Q-Diffusion: Quantizing Diffusion Models [[PDF](https://arxiv.org/abs/2302.04304)]
 
+[arxiv 2023.02]Boundary Guided Mixing Trajectory for Semantic Control with Diffusion Models [[PDF](https://arxiv.org/abs/2302.08357)]
+
 ## Architecture
 
 ## Speedup  
