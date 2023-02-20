@@ -68,3 +68,8 @@
 
 [arxiv 2022.12]Benchmarking Spatial Relationships in Text-to-Image Generation [[PDF](https://arxiv.org/pdf/2212.10015.pdf)]
 
+
+# Transformer Related 
+[ICLR 2022, Google]**---ViT-VQGAN---** Vector-quantized Image Modeling with Improved VQGAN [[PDF](https://arxiv.org/abs/2110.04627)]
+
+
