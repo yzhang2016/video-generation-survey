@@ -128,6 +128,7 @@
 
 [arxiv 2023.02]DiffFashion: Reference-based Fashion Design with Structure-aware Transfer by Diffusion Models [[PDF](https://arxiv.org/abs/2302.06826)]
 
+[arxiv 2022.11]Plug-and-Play Diffusion Features for Text-Driven Image-to-Image Translation[[PDF](https://arxiv.org/abs/2211.12572)]
 
 ## Face swapping 
 [arxiv 2022.12]HS-Diffusion: Learning a Semantic-Guided Diffusion Model for Head Swapping[[PDF](https://arxiv.org/pdf/2212.06458.pdf)]
