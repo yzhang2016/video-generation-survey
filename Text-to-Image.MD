@@ -20,8 +20,6 @@
 
 *[arxiv 2022; Goole] Photorealistic Text-to-Image Diffusion Models with Deep Language Understanding \[[PDF](https://arxiv.org/pdf/2205.11487.pdf), Code\]
 
-[arxiv 2022.12] Scalable Diffusion Models with Transformers [[PDF](https://arxiv.org/abs/2212.09748), [Page](https://www.wpeebles.com/DiT)]
-
 [arxiv 2023.01]simple diffusion: End-to-end diffusion for high resolution images [[PDF](https://arxiv.org/pdf/2301.11093.pdf) ]
 
 ## GAN/VAE/Transformer-based 
@@ -37,6 +35,8 @@
 [ECCV 2022] DT2I: Dense Text-to-Image Generation from Region Descriptions \[[PDF](https://arxiv.org/pdf/2204.02035.pdf), Code\]
 
 *[arxiv 2022; Meta ] Make-A-Scene: Scene-Based Text-to-Image Generation with Human Priors \[[PDF](https://arxiv.org/pdf/2203.13131.pdf), [Code 3](https://github.com/CasualGANPapers/Make-A-Scene)\]
+
+*[arxiv 2022.12] Scalable Diffusion Models with Transformers [[PDF](https://arxiv.org/abs/2212.09748), [Page](https://www.wpeebles.com/DiT)]
 
 [arxiv 2022; Tsinghua ] CogView2: Faster and Better Text-to-Image Generation via Hierarchical Transformers \[[PDF](https://arxiv.org/pdf/2204.14217.pdf), [Code](https://github.com/THUDM/CogView2)\]
 
