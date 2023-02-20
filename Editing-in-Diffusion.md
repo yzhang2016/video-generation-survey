@@ -50,8 +50,6 @@
 
 [arxiv 2023.01]Guiding Text-to-Image Diffusion Model Towards Grounded Generation [[PDF](https://arxiv.org/pdf/2301.05221.pdf), [Page](https://lipurple.github.io/Grounded_Diffusion/)]
 
-[arxiv 2023.02]Adding Conditional Control to Text-to-Image Diffusion Models [[PDF](https://arxiv.org/abs/2302.05543)]
-
 
 ## Story-telling
 
@@ -102,6 +100,7 @@
 
 [arxiv 2023.02]LayoutDiffuse: Adapting Foundational Diffusion Models for Layout-to-Image Generation [[PDF](https://arxiv.org/pdf/2302.08908.pdf)]
 
+[arxiv 2023.02] **--controlNet--** Adding Conditional Control to Text-to-Image Diffusion Models [[PDF](https://arxiv.org/abs/2302.05543)]
 
 
 ## Inpainting 
