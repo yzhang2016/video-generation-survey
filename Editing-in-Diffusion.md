@@ -100,6 +100,9 @@
 
 [arxiv 2023.02]MultiDiffusion: Fusing Diffusion Paths for Controlled Image Generation [[PDF](https://arxiv.org/abs/2302.08113), [Page](https://multidiffusion.github.io/)]
 
+[arxiv 2023.02]LayoutDiffuse: Adapting Foundational Diffusion Models for Layout-to-Image Generation [[PDF](https://arxiv.org/pdf/2302.08908.pdf)]
+
+
 
 ## Inpainting 
 [arxiv 2022; MSRA]Paint by Example: Exemplar-based Image Editing with Diffusion Models \[[PDF](https://arxiv.org/pdf/2211.13227.pdf), [code](https://github.com/Fantasy-Studio/Paint-by-Example)\]  
