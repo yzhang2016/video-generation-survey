@@ -36,7 +36,9 @@
 
 *[arxiv 2022; Meta ] Make-A-Scene: Scene-Based Text-to-Image Generation with Human Priors \[[PDF](https://arxiv.org/pdf/2203.13131.pdf), [Code 3](https://github.com/CasualGANPapers/Make-A-Scene)\]
 
-*[arxiv 2022.12] Scalable Diffusion Models with Transformers [[PDF](https://arxiv.org/abs/2212.09748), [Page](https://www.wpeebles.com/DiT)]
+*[arxiv 2022; Google] **---Parti---** Scaling Autoregressive Models for Content-Rich Text-to-Image Generation \[[PDF](https://arxiv.org/pdf/2206.10789.pdf), Code\]
+
+[arxiv 2022.12] Scalable Diffusion Models with Transformers [[PDF](https://arxiv.org/abs/2212.09748), [Page](https://www.wpeebles.com/DiT)]
 
 [arxiv 2022; Tsinghua ] CogView2: Faster and Better Text-to-Image Generation via Hierarchical Transformers \[[PDF](https://arxiv.org/pdf/2204.14217.pdf), [Code](https://github.com/THUDM/CogView2)\]
 
@@ -54,7 +56,6 @@
 
 [TPAMI 2022; Google ] Image Super-Resolution via Iterative Refinement \[[PDF](https://arxiv.org/pdf/2104.07636.pdf), [Code](https://github.com/Janspiry/Image-Super-Resolution-via-Iterative-Refinement)\]
 
-[arxiv 2022; Google] **---Parti---** Scaling Autoregressive Models for Content-Rich Text-to-Image Generation \[[PDF](https://arxiv.org/pdf/2206.10789.pdf), Code\]
 
 [CVPR 2022; POSTECH ]Autoregressive Image Generation using Residual Quantization \[[PDF](https://arxiv.org/pdf/2203.01941.pdf), [Code](https://github.com/kakaobrain/rq-vae-transformer)\]
 
