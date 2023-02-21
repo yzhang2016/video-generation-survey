@@ -73,3 +73,7 @@
 [ICLR 2022, Google]**---ViT-VQGAN---** Vector-quantized Image Modeling with Improved VQGAN [[PDF](https://arxiv.org/abs/2110.04627)]
 
 
+## Study 
+[arxiv 2023.02] A Pilot Evaluation of ChatGPT and DALL-E 2 on Decision Making and Spatial Reasoning [[PDF](https://arxiv.org/abs/2302.09068)]
+
+[arxiv 2023.02] Exploring the Representation Manifolds of Stable Diffusion Through the Lens of Intrinsic Dimension [[PDF](https://arxiv.org/abs/2302.09301)]
