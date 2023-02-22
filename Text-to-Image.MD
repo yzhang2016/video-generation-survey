@@ -71,7 +71,7 @@
 # Transformer Related 
 [ICLR 2022, Google]**---ViT-VQGAN---** Vector-quantized Image Modeling with Improved VQGAN [[PDF](https://arxiv.org/abs/2110.04627)]
 
-[CVPR 2021, HEIDELBERG] **---VQGAN---** Taming transformers for high-resolution image synthesis[[PDF](https://arxiv.org/abs/2012.09841), [Page](https://compvis.github.io/taming-transformers/), [code](https://github.com/CompVis/taming-transformers)]
+*[CVPR 2021, HEIDELBERG] **---VQGAN---** Taming transformers for high-resolution image synthesis[[PDF](https://arxiv.org/abs/2012.09841), [Page](https://compvis.github.io/taming-transformers/), [code](https://github.com/CompVis/taming-transformers)]
 
 [arxiv 2022.02]MaskGIT: Masked Generative Image Transformer [[PDF](https://arxiv.org/pdf/2202.04200.pdf)]
 
