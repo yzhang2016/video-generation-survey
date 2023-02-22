@@ -12,13 +12,14 @@
 
 [arxiv 2023.02]Boundary Guided Mixing Trajectory for Semantic Control with Diffusion Models [[PDF](https://arxiv.org/abs/2302.08357)]
 
+[arxiv 2023.02]On Calibrating Diffusion Probabilistic Models [[PDF](https://arxiv.org/pdf/2302.10688.pdf)]
+
 ## Architecture
 
 ## Speedup  
 [arxiv 2022]Accelerating Diffusion Sampling with Classifier-based Feature Distillation \[[PDF](https://arxiv.org/pdf/2211.12039.pdf)\]
 
 [arxiv 2022.12; NUS, ByteDance]Diffusion Probabilistic Model Made Slim \[[PDF](https://arxiv.org/pdf/2211.17115.pdf), [code](https://github.com/giannisdaras/multires_textual_inversion)\]
-
 
 [arxiv 2023.02]Example-Based Sampling with Diffusion Models [[PDF](https://arxiv.org/abs/2302.05116)]
 
