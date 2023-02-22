@@ -44,7 +44,7 @@
 
 [NIPS 2022; Microsoft] **---NÜWA-Infinity--** NUWA-Infinity: Autoregressive over Autoregressive Generation for Infinite Visual Synthesis \[[PDF](https://arxiv.org/pdf/2207.09814.pdf), code \]
 
-[arxiv 2023.1; Google] **---Muse---** Muse: Text-To-Image Generation via Masked Generative Transformers [[PDF](https://arxiv.org/abs/2301.00704), [Page](https://muse-model.github.io/)]
+*[arxiv 2023.1; Google] **---Muse---** Muse: Text-To-Image Generation via Masked Generative Transformers [[PDF](https://arxiv.org/abs/2301.00704), [Page](https://muse-model.github.io/)]
 
 [arxiv 2023.1]Attribute-Centric Compositional Text-to-Image Generation [[PDF](https://arxiv.org/pdf/2301.01413.pdf)]
 
