@@ -73,6 +73,9 @@
 
 [CVPR 2021, HEIDELBERG] **---VQGAN---** Taming transformers for high-resolution image synthesis[[PDF](https://arxiv.org/abs/2012.09841), [Page](https://compvis.github.io/taming-transformers/), [code](https://github.com/CompVis/taming-transformers)]
 
+[arxiv 2022.02]MaskGIT: Masked Generative Image Transformer [[PDF](https://arxiv.org/pdf/2202.04200.pdf)]
+
+
 ## Study 
 [arxiv 2023.02] A Pilot Evaluation of ChatGPT and DALL-E 2 on Decision Making and Spatial Reasoning [[PDF](https://arxiv.org/abs/2302.09068)]
 
