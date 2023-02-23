@@ -80,3 +80,6 @@
 [arxiv 2023.02] A Pilot Evaluation of ChatGPT and DALL-E 2 on Decision Making and Spatial Reasoning [[PDF](https://arxiv.org/abs/2302.09068)]
 
 [arxiv 2023.02] Exploring the Representation Manifolds of Stable Diffusion Through the Lens of Intrinsic Dimension [[PDF](https://arxiv.org/abs/2302.09301)]
+
+[arxiv 2023.02]Fair Diffusion: Instructing Text-to-Image Generation Models on Fairness [[PDF](https://arxiv.org/abs/2302.10893)]
+
