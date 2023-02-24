@@ -52,6 +52,9 @@
 
 [arxiv 2023.02, tel]Designing an Encoder for Fast Personalization of Text-to-Image Models [[PDF](https://arxiv.org/abs/2302.12228), [Page](https://tuning-encoder.github.io/)]
 
+[arxiv 2023.02, Adobe]Controlled and Conditional Text to Image Generation with Diffusion Prior [[PDF](https://arxiv.org/abs/2302.11710)]
+
+
 
 ## Story-telling
 
