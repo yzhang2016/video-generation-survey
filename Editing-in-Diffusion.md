@@ -50,6 +50,8 @@
 
 [arxiv 2023.01]Guiding Text-to-Image Diffusion Model Towards Grounded Generation [[PDF](https://arxiv.org/pdf/2301.05221.pdf), [Page](https://lipurple.github.io/Grounded_Diffusion/)]
 
+[arxiv 2023.02, tel]Designing an Encoder for Fast Personalization of Text-to-Image Models [[PDF](https://arxiv.org/abs/2302.12228), [Page](https://tuning-encoder.github.io/)]
+
 
 ## Story-telling
 
@@ -69,7 +71,7 @@
 
 
 
-## Translation
+## Translation & composition
 [arxiv 2022; Google]Sketch-Guided Text-to-Image Diffusion Models \[[PDF](https://arxiv.org/pdf/2211.13752.pdf), code\]  
 
 [arxiv 2022.11; Microsoft]ReCo: Region-Controlled Text-to-Image Generation \[[PDF](https://arxiv.org/pdf/2211.15518.pdf), code\]  
@@ -104,9 +106,11 @@
 
 [arxiv 2023.02] **--composer--**  Composer: Creative and Controllable Image Synthesis with Composable Conditions [[PDF](https://arxiv.org/abs/2302.09778)]
 
-## Inpainting 
+
 [arxiv 2022; MSRA]Paint by Example: Exemplar-based Image Editing with Diffusion Models \[[PDF](https://arxiv.org/pdf/2211.13227.pdf), [code](https://github.com/Fantasy-Studio/Paint-by-Example)\]  
 
+
+[arxiv 2023.02]Region-Aware Diffusion for Zero-shot Text-driven Image Editing [[PDF](https://arxiv.org/abs/2302.11797)]
 
 ## Super-Resolution 
 [arxiv 2022.12]ADIR: Adaptive Diffusion for Image Reconstruction  \[[PDF](https://shadyabh.github.io/ADIR/ADIR_files/ADIR.pdf)
