@@ -12,7 +12,7 @@
 
 [arxiv 2022; ByteDance] CLIP-GEN: Language-Free Training of a Text-to-Image Generator with CLIP \[[PDF](https://arxiv.org/pdf/2203.00386.pdf), [Code](https://github.com/HFAiLab/clip-gen)\]
 
-[arxiv 2022; OpenAI ] Hierarchical Text-Conditional Image Generation with CLIP Latents \[[PDF](https://arxiv.org/pdf/2204.06125.pdf), Code\]
+*[arxiv 2022; OpenAI ]  **---DALL-E2---** Hierarchical Text-Conditional Image Generation with CLIP Latents \[[PDF](https://arxiv.org/pdf/2204.06125.pdf), Code\]
 
 *[CVPR 2022] **---LDM---** High-Resolution Image Synthesis with Latent Diffusion Models \[[PDF](https://arxiv.org/pdf/2112.10752.pdf), [Code](https://github.com/CompVis/latent-diffusion)\]
 
