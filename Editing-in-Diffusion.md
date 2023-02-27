@@ -87,6 +87,8 @@
 
 [arxiv 2022.12]Fine-grained Image Editing by Pixel-wise Guidance Using Diffusion Models \[[PDF](https://arxiv.org/pdf/2212.02024.pdf)\]
 
+[arxiv 2022; MSRA]Paint by Example: Exemplar-based Image Editing with Diffusion Models \[[PDF](https://arxiv.org/pdf/2211.13227.pdf), [code](https://github.com/Fantasy-Studio/Paint-by-Example)\]  
+
 [arxiv 2022.12]Towards Practical Plug-and-Play Diffusion Models [[PDF](https://arxiv.org/pdf/2212.05973.pdf)]
 
 [arxiv 2023.01]Attend-and-Excite: Attention-Based Semantic Guidance for Text-to-Image Diffusion Models[[PDF](https://arxiv.org/abs/2301.13826)]
@@ -109,9 +111,7 @@
 
 [arxiv 2023.02] **--composer--**  Composer: Creative and Controllable Image Synthesis with Composable Conditions [[PDF](https://arxiv.org/abs/2302.09778)]
 
-
-[arxiv 2022; MSRA]Paint by Example: Exemplar-based Image Editing with Diffusion Models \[[PDF](https://arxiv.org/pdf/2211.13227.pdf), [code](https://github.com/Fantasy-Studio/Paint-by-Example)\]  
-
+[arxiv 2023.02]Modulating Pretrained Diffusion Models for Multimodal Image Synthesis [[PDF](https://arxiv.org/abs/2302.12764)]
 
 [arxiv 2023.02]Region-Aware Diffusion for Zero-shot Text-driven Image Editing [[PDF](https://arxiv.org/abs/2302.11797)]
 
