@@ -23,5 +23,4 @@
 
 [arxiv 2023.02]Example-Based Sampling with Diffusion Models [[PDF](https://arxiv.org/abs/2302.05116)]
 
-## Study 
-[arxiv 2023.02] Unsupervised Discovery of Semantic Latent Directions in Diffusion Models [[PDF](https://arxiv.org/pdf/2302.12469.pdf)]
+
