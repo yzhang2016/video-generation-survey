@@ -84,3 +84,4 @@
 
 [arxiv 2023.02]Fair Diffusion: Instructing Text-to-Image Generation Models on Fairness [[PDF](https://arxiv.org/abs/2302.10893)]
 
+[arxiv 2023.02] Unsupervised Discovery of Semantic Latent Directions in Diffusion Models [[PDF](https://arxiv.org/pdf/2302.12469.pdf)]
