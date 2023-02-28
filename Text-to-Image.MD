@@ -66,6 +66,10 @@
 [arxiv 2022.12]Benchmarking Spatial Relationships in Text-to-Image Generation [[PDF](https://arxiv.org/pdf/2212.10015.pdf)]
 
 
+# privacy 
+[arxiv 2023.02, DeepMind]Differentially Private Diffusion Models Generate Useful Synthetic Images [[PDF](https://arxiv.org/abs/2302.13861)]
+
+
 # Transformer Related 
 *[ICLR 2022, Google]**---ViT-VQGAN---** Vector-quantized Image Modeling with Improved VQGAN [[PDF](https://arxiv.org/abs/2110.04627)]
 
@@ -77,6 +81,7 @@
 *[arxiv 2022.12] Scalable Diffusion Models with Transformers [[PDF](https://arxiv.org/abs/2212.09748), [Page](https://www.wpeebles.com/DiT)]
 
 
+
 ## Study 
 [arxiv 2023.02] A Pilot Evaluation of ChatGPT and DALL-E 2 on Decision Making and Spatial Reasoning [[PDF](https://arxiv.org/abs/2302.09068)]
 
@@ -85,3 +90,5 @@
 [arxiv 2023.02]Fair Diffusion: Instructing Text-to-Image Generation Models on Fairness [[PDF](https://arxiv.org/abs/2302.10893)]
 
 [arxiv 2023.02] Unsupervised Discovery of Semantic Latent Directions in Diffusion Models [[PDF](https://arxiv.org/pdf/2302.12469.pdf)]
+
+
