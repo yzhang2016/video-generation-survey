@@ -54,6 +54,9 @@
 
 [arxiv 2023.02, Adobe]Controlled and Conditional Text to Image Generation with Diffusion Prior [[PDF](https://arxiv.org/abs/2302.11710)]
 
+[arxiv 2023.02]Learning Input-agnostic Manipulation Directions in StyleGAN with Text Guidance [[PDF](https://arxiv.org/abs/2302.13331)]
+
+
 
 
 ## Story-telling
