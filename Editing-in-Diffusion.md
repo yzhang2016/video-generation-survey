@@ -56,7 +56,7 @@
 
 [arxiv 2023.02]Learning Input-agnostic Manipulation Directions in StyleGAN with Text Guidance [[PDF](https://arxiv.org/abs/2302.13331)]
 
-
+[arxiv 2023.02]Towards Enhanced Controllability of Diffusion Models[[PDF](https://arxiv.org/pdf/2302.14368.pdf)]
 
 
 ## Story-telling
@@ -122,6 +122,9 @@
 [arxiv 2022.12]ADIR: Adaptive Diffusion for Image Reconstruction  \[[PDF](https://shadyabh.github.io/ADIR/ADIR_files/ADIR.pdf)
 
 [arxiv 2023.03]Denoising Diffusion Probabilistic Models for Robust Image Super-Resolution in the Wild [[PDF](https://arxiv.org/abs/2302.07864)]
+
+[arxiv 2023.03]TextIR: A Simple Framework for Text-based Editable Image Restoration [[PDF](https://arxiv.org/abs/2302.14736)]
+
 
 ## Style transfer 
 [arxiv 22.11; kuaishou] ***DiffStyler***: Controllable Dual Diffusion for Text-Driven Image Stylization \[[PDF](https://arxiv.org/pdf/2211.10682.pdf), code\]  
