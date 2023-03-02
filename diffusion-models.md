@@ -14,6 +14,8 @@
 
 [arxiv 2023.02]On Calibrating Diffusion Probabilistic Models [[PDF](https://arxiv.org/pdf/2302.10688.pdf)]
 
+[arxiv 2023.03]DIFFUSION PROBABILISTIC FIELDS [[PDF](https://arxiv.org/abs/2303.00165)]
+
 ## Architecture
 
 ## Speedup  
