@@ -118,12 +118,16 @@
 
 [arxiv 2023.02]Region-Aware Diffusion for Zero-shot Text-driven Image Editing [[PDF](https://arxiv.org/abs/2302.11797)]
 
-## Super-Resolution 
+[arxiv 2023.03]Collage Diffusion [[PDF](https://arxiv.org/abs/2303.00262)]
+
+## Super-Resolution & restoration
 [arxiv 2022.12]ADIR: Adaptive Diffusion for Image Reconstruction  \[[PDF](https://shadyabh.github.io/ADIR/ADIR_files/ADIR.pdf)
 
 [arxiv 2023.03]Denoising Diffusion Probabilistic Models for Robust Image Super-Resolution in the Wild [[PDF](https://arxiv.org/abs/2302.07864)]
 
 [arxiv 2023.03]TextIR: A Simple Framework for Text-based Editable Image Restoration [[PDF](https://arxiv.org/abs/2302.14736)]
+
+[arxiv 2023.03]Unlimited-Size Diffusion Restoration [[PDF](https://arxiv.org/abs/2303.00354), [code](https://github.com/wyhuai/DDNM/tree/main/hq_demo)]
 
 
 ## Style transfer 
@@ -151,6 +155,8 @@
 [arxiv 2023.02]MIXTURE OF DIFFUSERS FOR SCENE COMPOSITION AND HIGH RESOLUTION IMAGE GENERATION [[PDF](https://arxiv.org/abs/2302.02412)]
 
 [arxiv 2023.02]Cross-domain Compositing with Pretrained Diffusion Models[[PDF](https://arxiv.org/abs/2302.10167)]
+
+
 
 
 ## Related 
