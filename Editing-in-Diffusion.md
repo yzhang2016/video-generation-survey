@@ -58,6 +58,8 @@
 
 [arxiv 2023.02]Towards Enhanced Controllability of Diffusion Models[[PDF](https://arxiv.org/pdf/2302.14368.pdf)]
 
+[arxiv 2023.03]X&Fuse: Fusing Visual Information in Text-to-Image Generation [[PDF](https://arxiv.org/abs/2303.01000)]
+
 
 ## Story-telling
 
