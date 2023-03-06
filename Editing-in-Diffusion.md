@@ -122,6 +122,8 @@
 
 [arxiv 2023.03]Collage Diffusion [[PDF](https://arxiv.org/abs/2303.00262)]
 
+[arxiv 2023.]
+
 ## Super-Resolution & restoration
 [arxiv 2022.12]ADIR: Adaptive Diffusion for Image Reconstruction  \[[PDF](https://shadyabh.github.io/ADIR/ADIR_files/ADIR.pdf)
 
@@ -179,7 +181,7 @@
 
 [arxiv 2022.12]Scalable Diffusion Models with Transformers[[PDF](https://arxiv.org/pdf/2212.09748.pdf)]
 
-
+[arxiv 2022.12] Generalized Decoding for Pixel, Image, and Language [[PDF](https://arxiv.org/pdf/2212.11270.pdf), [Page](https://arxiv.org/pdf/2212.11270.pdf)]
 
 
 ## Repository
