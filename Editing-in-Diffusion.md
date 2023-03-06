@@ -122,7 +122,7 @@
 
 [arxiv 2023.03]Collage Diffusion [[PDF](https://arxiv.org/abs/2303.00262)]
 
-[arxiv 2023.]
+[arxiv 2023.01] GLIGEN: Open-Set Grounded Text-to-Image Generation [[PDF](https://arxiv.org/abs/2301.07093), [Page](https://gligen.github.io/), [Code](https://github.com/gligen/GLIGEN)]
 
 ## Super-Resolution & restoration
 [arxiv 2022.12]ADIR: Adaptive Diffusion for Image Reconstruction  \[[PDF](https://shadyabh.github.io/ADIR/ADIR_files/ADIR.pdf)
