@@ -124,6 +124,7 @@
 
 [arxiv 2023.01] GLIGEN: Open-Set Grounded Text-to-Image Generation [[PDF](https://arxiv.org/abs/2301.07093), [Page](https://gligen.github.io/), [Code](https://github.com/gligen/GLIGEN)]
 
+
 ## Super-Resolution & restoration
 [arxiv 2022.12]ADIR: Adaptive Diffusion for Image Reconstruction  \[[PDF](https://shadyabh.github.io/ADIR/ADIR_files/ADIR.pdf)
 
@@ -150,6 +151,9 @@
 [arxiv 2023.02]DiffFashion: Reference-based Fashion Design with Structure-aware Transfer by Diffusion Models [[PDF](https://arxiv.org/abs/2302.06826)]
 
 [arxiv 2022.11]Plug-and-Play Diffusion Features for Text-Driven Image-to-Image Translation[[PDF](https://arxiv.org/abs/2211.12572)]
+
+[arxiv 2023.03]StyO: Stylize Your Face in Only One-Shot [[PDF](https://arxiv.org/pdf/2303.03231.pdf)]
+
 
 ## Face swapping 
 [arxiv 2022.12]HS-Diffusion: Learning a Semantic-Guided Diffusion Model for Head Swapping[[PDF](https://arxiv.org/pdf/2212.06458.pdf)]
