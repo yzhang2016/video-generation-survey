@@ -60,6 +60,8 @@
 
 [arxiv 2023.03]X&Fuse: Fusing Visual Information in Text-to-Image Generation [[PDF](https://arxiv.org/abs/2303.01000)]
 
+[arxiv 2023.03]Lformer: Text-to-Image Generation with L-shape Block Parallel Decoding [[PDF](https://arxiv.org/abs/2303.03800)]
+
 
 ## Story-telling
 
