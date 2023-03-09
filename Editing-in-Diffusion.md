@@ -192,6 +192,9 @@
 
 [arxiv 2022.12] Generalized Decoding for Pixel, Image, and Language [[PDF](https://arxiv.org/pdf/2212.11270.pdf), [Page](https://github.com/microsoft/X-Decoder)]
 
+[arxiv 2023.03]Visual ChatGPT: Talking, Drawing and Editing with Visual Foundation Models [[PDF](https://arxiv.org/abs/2303.04671)]
 
 ## Repository
 ***DIFFUSERS*** Hugging-face sota repository. \[[DIFFUSERS](https://github.com/huggingface/diffusers)\]
+
+
