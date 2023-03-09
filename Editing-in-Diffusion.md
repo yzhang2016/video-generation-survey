@@ -187,8 +187,9 @@
 
 [arxiv 2022.12]Scalable Diffusion Models with Transformers[[PDF](https://arxiv.org/pdf/2212.09748.pdf)]
 
-[arxiv 2022.12] Generalized Decoding for Pixel, Image, and Language [[PDF](https://arxiv.org/pdf/2212.11270.pdf), [Page](https://arxiv.org/pdf/2212.11270.pdf)]
+[arxiv 2022.12] Generalized Decoding for Pixel, Image, and Language [[PDF](https://arxiv.org/pdf/2212.11270.pdf), [Page](https://github.com/microsoft/X-Decoder)]
 
+[arxiv 2023.03] Low-rank Adaptation for Fast Text-to-Image Diffusion Fine-tuning [[PDF](https://arxiv.org/pdf/2106.09685.pdf), [code](https://github.com/cloneofsimo/lora)]
 
 ## Repository
 ***DIFFUSERS*** Hugging-face sota repository. \[[DIFFUSERS](https://github.com/huggingface/diffusers)\]
