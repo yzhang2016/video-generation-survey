@@ -91,4 +91,6 @@
 
 [arxiv 2023.02] Unsupervised Discovery of Semantic Latent Directions in Diffusion Models [[PDF](https://arxiv.org/pdf/2302.12469.pdf)]
 
+[arxiv 2023.03]A Prompt Log Analysis of Text-to-Image Generation Systems [[PDF](https://arxiv.org/abs/2303.04587)]
+
 
