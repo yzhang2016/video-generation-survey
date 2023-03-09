@@ -170,6 +170,9 @@
 
 
 ## Related 
+
+[arxiv 2021.07] Low-rank Adaptation for Fast Text-to-Image Diffusion Fine-tuning [[PDF](https://arxiv.org/pdf/2106.09685.pdf), [code](https://github.com/cloneofsimo/lora)]
+
 [arxiv 2022.11]Investigating Prompt Engineering in Diffusion Models \[[PDF](https://arxiv.org/pdf/2211.15462.pdf)\] 
 
 [arxiv 2022.11]Versatile Diffusion: Text, Images and Variations All in One Diffusion Model \[[PDF](https://arxiv.org/pdf/2211.08332.pdf)\] 
@@ -189,7 +192,6 @@
 
 [arxiv 2022.12] Generalized Decoding for Pixel, Image, and Language [[PDF](https://arxiv.org/pdf/2212.11270.pdf), [Page](https://github.com/microsoft/X-Decoder)]
 
-[arxiv 2023.03] Low-rank Adaptation for Fast Text-to-Image Diffusion Fine-tuning [[PDF](https://arxiv.org/pdf/2106.09685.pdf), [code](https://github.com/cloneofsimo/lora)]
 
 ## Repository
 ***DIFFUSERS*** Hugging-face sota repository. \[[DIFFUSERS](https://github.com/huggingface/diffusers)\]
