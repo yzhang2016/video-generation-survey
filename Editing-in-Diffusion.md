@@ -194,6 +194,8 @@
 
 [arxiv 2023.03]Visual ChatGPT: Talking, Drawing and Editing with Visual Foundation Models [[PDF](https://arxiv.org/abs/2303.04671)]
 
+[arxiv 2023.03]Open-Vocabulary Panoptic Segmentation with Text-to-Image Diffusion Models [[PDF](https://arxiv.org/abs/2303.04803), [Page](https://jerryxu.net/ODISE/)]
+
 ## Repository
 ***DIFFUSERS*** Hugging-face sota repository. \[[DIFFUSERS](https://github.com/huggingface/diffusers)\]
 
