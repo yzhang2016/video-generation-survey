@@ -48,6 +48,10 @@
 
 [arxiv 2023.01]**---StyleGAN-T---** StyleGAN-T: Unlocking the Power of GANs for Fast Large-Scale Text-to-Image Synthesis [[PDF](https://arxiv.org/abs/2301.09515), [Page](https://sites.google.com/view/stylegan-t/)]
 
+
+[arxiv 2023.03]Scaling up GANs for Text-to-Image Synthesis[[PDF](https://arxiv.org/abs/2303.05511), [Page](https://mingukkang.github.io/GigaGAN/)]
+
+
 # Generation & Super-resolution 
 
 [TPAMI 2022; Google ] Image Super-Resolution via Iterative Refinement \[[PDF](https://arxiv.org/pdf/2104.07636.pdf), [Code](https://github.com/Janspiry/Image-Super-Resolution-via-Iterative-Refinement)\]
