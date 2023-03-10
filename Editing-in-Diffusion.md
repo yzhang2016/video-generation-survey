@@ -3,17 +3,17 @@
 
 ## Editing 
 
-**[Arxiv.2208; NVIDIA]**  ***An Image is Worth One Word:*** Personalizing Text-to-Image Generation using Textual Inversion [[PDF](https://arxiv.org/abs/2208.01618), [Page](https://github.com/rinongal/textual_inversion), [Code]](https://github.com/rinongal/textual_inversion)  
+**[Arxiv.2208; NVIDIA]**  ***An Image is Worth One Word:*** Personalizing Text-to-Image Generation using Textual Inversion [[PDF](https://arxiv.org/abs/2208.01618), [Page](https://github.com/rinongal/textual_inversion), [Code](https://github.com/rinongal/textual_inversion) ]
 
-**[ICLR2022; Stanford & CMU]** ***SDEdit:*** Guided Image Synthesis and Editing with Stochastic Differential Equations [[PDF](https://arxiv.org/pdf/2108.01073.pdf), [Page]](https://sde-image-editing.github.io/)]
+**[ICLR2022; Stanford & CMU]** ***SDEdit:*** Guided Image Synthesis and Editing with Stochastic Differential Equations [[PDF](https://arxiv.org/pdf/2108.01073.pdf), [Page](https://sde-image-editing.github.io/)]
 
 **[arxiv 22.08; meta]** ***Prompt-to-Prompt*** Image Editing with Cross Attention Control [[PDF](https://arxiv.org/abs/2208.01626) ] 
 
-**[arxiv 22.08; Scale AI]** ***Direct Inversion***: Optimization-Free Text-Driven Real Image Editing with Diffusion Models [[PDF]](https://arxiv.org/pdf/2211.07825)]
+**[arxiv 22.08; Scale AI]** ***Direct Inversion***: Optimization-Free Text-Driven Real Image Editing with Diffusion Models [[PDF](https://arxiv.org/pdf/2211.07825)]
 
 **[arxiv 22.11; UC Berkeley]** ***InstructPix2Pix***: Learning to Follow Image Editing Instructions [[PDF](https://arxiv.org/pdf/2211.09800.pdf), [Page](https://www.timothybrooks.com/instruct-pix2pix)]
 
-**[NIPS 22; google]** ***DreamBooth***: Fine Tuning Text-to-Image Diffusion Models for Subject-Driven Generation [[PDF](https://arxiv.org/abs/2208.12242), [Page](https://dreambooth.github.io/), [Code]https://github.com/XavierXiao/Dreambooth-Stable-Diffusion]
+**[NIPS 22; google]** ***DreamBooth***: Fine Tuning Text-to-Image Diffusion Models for Subject-Driven Generation [[PDF](https://arxiv.org/abs/2208.12242), [Page](https://dreambooth.github.io/), [Code](https://github.com/XavierXiao/Dreambooth-Stable-Diffusion)]
 
 [arxiv 2022; Nvidia ] eDiffi: Text-to-Image Diffusion Models with an Ensemble of Expert Denoisers \[[PDF](https://arxiv.org/pdf/2211.01324.pdf), Code\]
 
