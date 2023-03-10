@@ -64,6 +64,7 @@
 
 [arxiv 2023.03]Lformer: Text-to-Image Generation with L-shape Block Parallel Decoding [[PDF](https://arxiv.org/abs/2303.03800)]
 
+[arxiv 2023.03]Cones: Concept Neurons in Diffusion Models for Customized Generation [[PDF](https://arxiv.org/abs/2303.05125)]
 
 ## Story-telling
 
