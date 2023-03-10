@@ -198,6 +198,9 @@
 
 [arxiv 2023.03]Open-Vocabulary Panoptic Segmentation with Text-to-Image Diffusion Models [[PDF](https://arxiv.org/abs/2303.04803), [Page](https://jerryxu.net/ODISE/)]
 
+[arxiv 2023.03]Larger language models do in-context learning differently [[PDF](https://arxiv.org/abs/2303.03846)]
+
+
 ## Repository
 ***DIFFUSERS*** Hugging-face sota repository. \[[DIFFUSERS](https://github.com/huggingface/diffusers)\]
 
