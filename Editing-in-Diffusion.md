@@ -3,24 +3,23 @@
 
 ## Editing 
 
-**[Arxiv.2208; NVIDIA]**  ***An Image is Worth One Word:*** Personalizing Text-to-Image Generation using Textual Inversion [[Paper & Code]](https://github.com/rinongal/textual_inversion)  
+**[Arxiv.2208; NVIDIA]**  ***An Image is Worth One Word:*** Personalizing Text-to-Image Generation using Textual Inversion [[PDF](https://arxiv.org/abs/2208.01618), [Page](https://github.com/rinongal/textual_inversion), [Code]](https://github.com/rinongal/textual_inversion)  
 
-**[ICLR2022; Stanford & CMU]** ***SDEdit:*** Guided Image Synthesis and Editing with Stochastic Differential Equations [[Project]](https://sde-image-editing.github.io/) [[Paper]](https://arxiv.org/pdf/2108.01073.pdf)  
+**[ICLR2022; Stanford & CMU]** ***SDEdit:*** Guided Image Synthesis and Editing with Stochastic Differential Equations [[PDF](https://arxiv.org/pdf/2108.01073.pdf), [Page]](https://sde-image-editing.github.io/)]
 
-**[arxiv 22.08; meta]** ***Prompt-to-Prompt*** Image Editing with Cross Attention Control [[Paper]](https://arxiv.org/abs/2208.01626)  
+**[arxiv 22.08; meta]** ***Prompt-to-Prompt*** Image Editing with Cross Attention Control [[PDF](https://arxiv.org/abs/2208.01626) ] 
 
-**[arxiv 22.08; Scale AI]** ***Direct Inversion***: Optimization-Free Text-Driven Real Image Editing with Diffusion Models [[Paper]](https://arxiv.org/pdf/2211.07825)  
-**[arxiv 22.11; UC Berkeley]** ***InstructPix2Pix***: Learning to Follow Image Editing Instructions [[Project]](https://www.timothybrooks.com/instruct-pix2pix)  [[Paper]](https://arxiv.org/pdf/2211.09800.pdf)  
+**[arxiv 22.08; Scale AI]** ***Direct Inversion***: Optimization-Free Text-Driven Real Image Editing with Diffusion Models [[PDF]](https://arxiv.org/pdf/2211.07825)]
 
-[NIPS 2022; Tel Aviv] An Image is Worth One Word: Personalizing Text-to-Image Generation using Textual Inversion \[[PDF](https://arxiv.org/pdf/2208.01618.pdf), [Code](https://github.com/rinongal/textual_inversion)\]
+**[arxiv 22.11; UC Berkeley]** ***InstructPix2Pix***: Learning to Follow Image Editing Instructions [[PDF](https://arxiv.org/pdf/2211.09800.pdf), [Page](https://www.timothybrooks.com/instruct-pix2pix)]
 
-**[NIPS 22; google]** ***DreamBooth***: Fine Tuning Text-to-Image Diffusion Models for Subject-Driven Generation [[Project]](https://dreambooth.github.io/) [[Paper]](https://arxiv.org/abs/2208.12242) [[Code (Unofficial)]](https://github.com/XavierXiao/Dreambooth-Stable-Diffusion)  
+**[NIPS 22; google]** ***DreamBooth***: Fine Tuning Text-to-Image Diffusion Models for Subject-Driven Generation [[PDF](https://arxiv.org/abs/2208.12242), [Page](https://dreambooth.github.io/), [Code]https://github.com/XavierXiao/Dreambooth-Stable-Diffusion]
 
 [arxiv 2022; Nvidia ] eDiffi: Text-to-Image Diffusion Models with an Ensemble of Expert Denoisers \[[PDF](https://arxiv.org/pdf/2211.01324.pdf), Code\]
 
 [arxiv 2022; Goolge ] Imagic: Text-Based Real Image Editing with Diffusion Models \[[PDF](https://arxiv.org/pdf/2210.09276.pdf), Code\]
 
-**[ICLR 23]** ***DiffEdit***: Diffusion-based semantic image editing with mask guidance [[Paper]](https://openreview.net/forum?id=3lge0p5o-M-)  
+**[ICLR 23]** ***DiffEdit***: Diffusion-based semantic image editing with mask guidance [[Paper](https://openreview.net/forum?id=3lge0p5o-M-)]
 
 **[ICLR 23]** ***DiffIT***: Diffusion-based Image Translation Using Disentangled Style and Content Repesentation [[Paper]](https://openreview.net/pdf?id=Nayau9fwXU)  
 
