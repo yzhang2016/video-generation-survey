@@ -1,7 +1,7 @@
 # Image Editing In Diffusion [Open in Notion](https://vinthony.notion.site/Diffusion-Edit-84312204c0c446e4b9bcc50a1dce84e1)
 
 
-## Inversion 
+## Editing 
 
 **[Arxiv.2208; NVIDIA]**  ***An Image is Worth One Word:*** Personalizing Text-to-Image Generation using Textual Inversion [[Paper & Code]](https://github.com/rinongal/textual_inversion)  
 
@@ -66,18 +66,26 @@
 
 [arxiv 2023.03]Cones: Concept Neurons in Diffusion Models for Customized Generation [[PDF](https://arxiv.org/abs/2303.05125)]
 
+[arxiv 2023.03]CoralStyleCLIP: Co-optimized Region and Layer Selection for Image Editing [[PDF](https://arxiv.org/abs/2303.05031)]
+
+
+
 ## Story-telling
 
 **[arxiv 22.09]** ***Story Dall-E***: Adapting pretrained text-to-image transformers for story continuation [[PDF]](https://arxiv.org/pdf/2209.06192.pdf)  
 
 **[arxiv 22.11; Ailibaba]** Synthesizing Coherent Story with Auto-Regressive Latent Diffusion Models \[[PDF](https://arxiv.org/pdf/2211.10950.pdf), code\]  
 
-
 **[arxiv 2022]** ***Make-A-Story***: Visual Memory Conditioned Consistent Story Generation  \[[PDF](https://arxiv.org/pdf/2211.13319.pdf), code\]  
 
 [arxiv 2023.01]An Impartial Transformer for Story Visualization [[PDF](https://arxiv.org/pdf/2301.03563.pdf)]
 
 [arxiv 2023.02]Zero-shot Generation of Coherent Storybook from Plain Text Story using Diffusion Models [[PDF](https://arxiv.org/abs/2302.03900)]
+
+
+## Layout Generation 
+[arxiv 2023.03]Unifying Layout Generation with a Decoupled Diffusion Model [[PDF](https://arxiv.org/abs/2303.05049)]
+
 
 ## SVG
 [arxiv 2022.11; UCB] VectorFusion: Text-to-SVG by Abstracting Pixel-Based Diffusion Models \[[PDF](https://arxiv.org/abs/2211.11319)\]
