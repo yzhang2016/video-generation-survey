@@ -86,6 +86,8 @@
 ## Layout Generation 
 [arxiv 2023.03]Unifying Layout Generation with a Decoupled Diffusion Model [[PDF](https://arxiv.org/abs/2303.05049)]
 
+[arxiv 2023.02]LayoutDiffuse: Adapting Foundational Diffusion Models for Layout-to-Image Generation [[PDF](https://arxiv.org/pdf/2302.08908.pdf)]
+
 
 ## SVG
 [arxiv 2022.11; UCB] VectorFusion: Text-to-SVG by Abstracting Pixel-Based Diffusion Models \[[PDF](https://arxiv.org/abs/2211.11319)\]
@@ -123,7 +125,6 @@
 
 [arxiv 2023.02]MultiDiffusion: Fusing Diffusion Paths for Controlled Image Generation [[PDF](https://arxiv.org/abs/2302.08113), [Page](https://multidiffusion.github.io/)]
 
-[arxiv 2023.02]LayoutDiffuse: Adapting Foundational Diffusion Models for Layout-to-Image Generation [[PDF](https://arxiv.org/pdf/2302.08908.pdf)]
 
 [arxiv 2023.02] **--controlNet--** Adding Conditional Control to Text-to-Image Diffusion Models [[PDF](https://arxiv.org/abs/2302.05543)]
 
