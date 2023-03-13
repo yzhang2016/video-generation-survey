@@ -3,7 +3,7 @@
 
 ## Editing 
 
-**[Arxiv.2208; NVIDIA]**  ***An Image is Worth One Word:*** Personalizing Text-to-Image Generation using Textual Inversion [[PDF](https://arxiv.org/abs/2208.01618), [Page](https://github.com/rinongal/textual_inversion), [Code](https://github.com/rinongal/textual_inversion) ]
+*[Arxiv.2208; NVIDIA]  ***An Image is Worth One Word:*** Personalizing Text-to-Image Generation using Textual Inversion [[PDF](https://arxiv.org/abs/2208.01618), [Page](https://github.com/rinongal/textual_inversion), [Code](https://github.com/rinongal/textual_inversion) ]
 
 **[ICLR2022; Stanford & CMU]** ***SDEdit:*** Guided Image Synthesis and Editing with Stochastic Differential Equations [[PDF](https://arxiv.org/pdf/2108.01073.pdf), [Page](https://sde-image-editing.github.io/)]
 
