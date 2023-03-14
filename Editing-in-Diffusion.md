@@ -67,7 +67,7 @@
 
 [arxiv 2023.03]CoralStyleCLIP: Co-optimized Region and Layer Selection for Image Editing [[PDF](https://arxiv.org/abs/2303.05031)]
 
-
+[arxiv 2023.03]Erasing Concepts from Diffusion Models [[PDF](https://arxiv.org/abs/2303.07345), [Code](https://github.com/rohitgandikota/erasing)]
 
 ## Story-telling
 
@@ -211,6 +211,9 @@
 [arxiv 2023.03]Open-Vocabulary Panoptic Segmentation with Text-to-Image Diffusion Models [[PDF](https://arxiv.org/abs/2303.04803), [Page](https://jerryxu.net/ODISE/)]
 
 [arxiv 2023.03]Larger language models do in-context learning differently [[PDF](https://arxiv.org/abs/2303.03846)]
+
+[arxiv 2023.03]One Transformer Fits All Distributions in Multi-Modal Diffusion at Scale [[PDF](https://arxiv.org/pdf/2303.06285.pdf)]
+
 
 
 ## Repository
