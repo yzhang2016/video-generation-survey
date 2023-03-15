@@ -21,6 +21,7 @@
 
 [arxiv 2022.12]Tune-A-Video: One-Shot Tuning of Image Diffusion Models for Text-to-Video Generation [[PDF](https://arxiv.org/abs/2212.11565), [Page](https://tuneavideo.github.io/)]
 
+[arxiv 2023.03]Edit-A-Video: Single Video Editing with Object-Aware Consistency [[PDF](https://arxiv.org/abs/2303.07945)]
 
 ## Related 
 [CVPR 2023]3D Cinemagraphy from a Single Image[[PDF](https://arxiv.org/abs/2303.05724), [Page](https://xingyi-li.github.io/3d-cinemagraphy/)]
