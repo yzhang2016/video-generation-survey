@@ -69,6 +69,9 @@
 
 [arxiv 2023.03]Erasing Concepts from Diffusion Models [[PDF](https://arxiv.org/abs/2303.07345), [Code](https://github.com/rohitgandikota/erasing)]
 
+[arxiv 2023.03]Editing Implicit Assumptions in Text-to-Image Diffusion Models [[PDF](https://arxiv.org/abs/2303.08084), [Page](https://time-diffusion.github.io/)]
+
+
 ## Story-telling
 
 **[arxiv 22.09]** ***Story Dall-E***: Adapting pretrained text-to-image transformers for story continuation [[PDF]](https://arxiv.org/pdf/2209.06192.pdf)  
@@ -86,6 +89,9 @@
 [arxiv 2023.03]Unifying Layout Generation with a Decoupled Diffusion Model [[PDF](https://arxiv.org/abs/2303.05049)]
 
 [arxiv 2023.02]LayoutDiffuse: Adapting Foundational Diffusion Models for Layout-to-Image Generation [[PDF](https://arxiv.org/pdf/2302.08908.pdf)]
+
+[arxiv 2023.03]LayoutDM: Discrete Diffusion Model for Controllable Layout Generation [[PDF](https://arxiv.org/abs/2303.08137), [Page](https://cyberagentailab.github.io/layout-dm/)]
+
 
 
 ## SVG
@@ -219,4 +225,5 @@
 ## Repository
 ***DIFFUSERS*** Hugging-face sota repository. \[[DIFFUSERS](https://github.com/huggingface/diffusers)\]
 
+[arxiv 2023.03]Text-to-image Diffusion Model in Generative AI: A Survey [[PDF](https://arxiv.org/abs/2303.07909)]
 
