@@ -19,7 +19,7 @@
 
 [arxiv 2023.03]Video-P2P: Video Editing with Cross-attention Control [[PDF](https://arxiv.org/abs/2303.04761), [Page](https://video-p2p.github.io/)]
 
-[arxiv 2023.03]Edit-A-Video: Single Video Editing with Object-Aware Consistency [[PDF](https://arxiv.org/abs/2303.07945)]
+[arxiv 2023.03]Edit-A-Video: Single Video Editing with Object-Aware Consistency [[PDF](https://arxiv.org/abs/2303.07945), [Page](https://edit-a-video.github.io/)]
 
 ## Related 
 [CVPR 2023]3D Cinemagraphy from a Single Image[[PDF](https://arxiv.org/abs/2303.05724), [Page](https://xingyi-li.github.io/3d-cinemagraphy/)]
