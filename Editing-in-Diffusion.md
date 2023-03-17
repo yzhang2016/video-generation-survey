@@ -73,6 +73,10 @@
 
 [arxiv 2023.03]Highly Personalized Text Embedding for Image Manipulation by Stable Diffusion [[PDF](https://arxiv.org/abs/2303.08767)]
 
+[arxiv 2023.03]P+: Extended Textual Conditioning in Text-to-Image Generation [[PDF](https://prompt-plus.github.io/files/PromptPlus.pdf)]
+
+
+
 ## Story-telling
 
 **[arxiv 22.09]** ***Story Dall-E***: Adapting pretrained text-to-image transformers for story continuation [[PDF]](https://arxiv.org/pdf/2209.06192.pdf)  
