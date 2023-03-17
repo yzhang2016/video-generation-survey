@@ -28,4 +28,6 @@
 
 [arxiv 2023.02]Example-Based Sampling with Diffusion Models [[PDF](https://arxiv.org/abs/2302.05116)]
 
+[arxiv 2023.03]Efficient Diffusion Training via Min-SNR Weighting Strategy [[PDF](https://arxiv.org/abs/2303.09556)]
+
 
