@@ -71,6 +71,7 @@
 
 [arxiv 2023.03]Editing Implicit Assumptions in Text-to-Image Diffusion Models [[PDF](https://arxiv.org/abs/2303.08084), [Page](https://time-diffusion.github.io/)]
 
+[arxiv 2023.03]Highly Personalized Text Embedding for Image Manipulation by Stable Diffusion [[PDF](https://arxiv.org/abs/2303.08767)]
 
 ## Story-telling
 
@@ -172,6 +173,9 @@
 [arxiv 2022.11]Plug-and-Play Diffusion Features for Text-Driven Image-to-Image Translation[[PDF](https://arxiv.org/abs/2211.12572)]
 
 [arxiv 2023.03]StyO: Stylize Your Face in Only One-Shot [[PDF](https://arxiv.org/pdf/2303.03231.pdf)]
+
+[arxiv 2023.03]Zero-Shot Contrastive Loss for Text-Guided Diffusion Image Style Transfer [[PDF](https://arxiv.org/abs/2303.08622)]
+
 
 
 ## Face swapping 
