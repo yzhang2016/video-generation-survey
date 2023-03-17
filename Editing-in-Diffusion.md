@@ -7,7 +7,7 @@
 
 *[ICLR2022; Stanford & CMU] ***SDEdit:*** Guided Image Synthesis and Editing with Stochastic Differential Equations [[PDF](https://arxiv.org/pdf/2108.01073.pdf), [Page](https://sde-image-editing.github.io/)]
 
-**[arxiv 22.08; meta]** ***Prompt-to-Prompt*** Image Editing with Cross Attention Control [[PDF](https://arxiv.org/abs/2208.01626) ] 
+*[arxiv 22.08; meta] ***Prompt-to-Prompt*** Image Editing with Cross Attention Control [[PDF](https://arxiv.org/abs/2208.01626) ] 
 
 **[arxiv 22.08; Scale AI]** ***Direct Inversion***: Optimization-Free Text-Driven Real Image Editing with Diffusion Models [[PDF](https://arxiv.org/pdf/2211.07825)]
 
