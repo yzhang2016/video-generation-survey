@@ -154,6 +154,8 @@
 
 [arxiv 2023.03]Unlimited-Size Diffusion Restoration [[PDF](https://arxiv.org/abs/2303.00354), [code](https://github.com/wyhuai/DDNM/tree/main/hq_demo)]
 
+[arxiv 2023.03]DiffIR: Efficient Diffusion Model for Image Restoration [[PDF](https://arxiv.org/abs/2303.09472)]
+
 
 ## Style transfer 
 [arxiv 22.11; kuaishou] ***DiffStyler***: Controllable Dual Diffusion for Text-Driven Image Stylization \[[PDF](https://arxiv.org/pdf/2211.10682.pdf), code\]  
