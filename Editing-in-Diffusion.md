@@ -150,7 +150,7 @@
 
 [arxiv 2023.03]GlueGen: Plug and Play Multi-modal Encoders for X-to-image Generation [[PDF](https://arxiv.org/abs/2303.10056#)]
 
-[arxiv 2023.03]FreeDoM: Training-Free Energy-Guided Conditional Diffusion Model [[PDF](https://arxiv.org/pdf/2303.09833.pdf)]
+*[arxiv 2023.03]FreeDoM: Training-Free Energy-Guided Conditional Diffusion Model [[PDF](https://arxiv.org/pdf/2303.09833.pdf)]
 
 [arxiv 2023.03]DS-Fusion: Artistic Typography via Discriminated and Stylized Diffusion [[PDF](https://arxiv.org/abs/2303.09604)]
 
