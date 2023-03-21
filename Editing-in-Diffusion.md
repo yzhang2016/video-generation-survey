@@ -25,7 +25,7 @@
 
 **[ICLR 23]** Dual Diffusion Implicit Bridges for Image-to-image Translation [[Paper]](https://openreview.net/pdf?id=5HLoTvVGDe)  
 
-**[ICLR 23, Google]** Classifier-free Diffusion Guidance [[Paper]](https://arxiv.org/pdf/2207.12598.pdf)
+*[ICLR 23, Google] Classifier-free Diffusion Guidance [[Paper]](https://arxiv.org/pdf/2207.12598.pdf)
 
 **[arxiv 2022]** ***EDICT***: Exact Diffusion Inversion via Coupled Transformations \[[PDF](https://arxiv.org/abs/2211.12446)\]  
 
