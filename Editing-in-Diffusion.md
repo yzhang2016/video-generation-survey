@@ -75,6 +75,9 @@
 
 [arxiv 2023.03]Localizing Object-level Shape Variations with Text-to-Image Diffusion Models [[PDF](https://arxiv.org/abs/2303.11306), [Page](https://orpatashnik.github.io/local-prompt-mixing/)]
 
+[arxiv 2023.03]SVDiff: Compact Parameter Space for Diffusion Fine-Tuning[[PDF](https://arxiv.org/abs/2303.11305)]
+
+
 ## Story-telling
 
 **[arxiv 22.09]** ***Story Dall-E***: Adapting pretrained text-to-image transformers for story continuation [[PDF]](https://arxiv.org/pdf/2209.06192.pdf)  
