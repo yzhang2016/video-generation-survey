@@ -73,7 +73,7 @@
 
 [arxiv 2023.03]P+: Extended Textual Conditioning in Text-to-Image Generation [[PDF](https://prompt-plus.github.io/files/PromptPlus.pdf)]
 
-
+[arxiv 2023.03]Localizing Object-level Shape Variations with Text-to-Image Diffusion Models [[PDF](https://arxiv.org/abs/2303.11306), [Page](https://orpatashnik.github.io/local-prompt-mixing/)]
 
 ## Story-telling
 
@@ -133,7 +133,6 @@
 
 [arxiv 2023.02]MultiDiffusion: Fusing Diffusion Paths for Controlled Image Generation [[PDF](https://arxiv.org/abs/2302.08113), [Page](https://multidiffusion.github.io/)]
 
-
 [arxiv 2023.02] **--controlNet--** Adding Conditional Control to Text-to-Image Diffusion Models [[PDF](https://arxiv.org/abs/2302.05543)]
 
 [arxiv 2023.02] **--composer--**  Composer: Creative and Controllable Image Synthesis with Composable Conditions [[PDF](https://arxiv.org/abs/2302.09778)]
@@ -151,6 +150,8 @@
 [arxiv 2023.03]FreeDoM: Training-Free Energy-Guided Conditional Diffusion Model [[PDF](https://arxiv.org/pdf/2303.09833.pdf)]
 
 [arxiv 2023.03]DS-Fusion: Artistic Typography via Discriminated and Stylized Diffusion [[PDF](https://arxiv.org/abs/2303.09604)]
+
+
 
 ## Super-Resolution & restoration
 [arxiv 2022.12]ADIR: Adaptive Diffusion for Image Reconstruction  \[[PDF](https://shadyabh.github.io/ADIR/ADIR_files/ADIR.pdf)
