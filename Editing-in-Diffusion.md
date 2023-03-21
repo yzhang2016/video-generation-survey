@@ -7,31 +7,29 @@
 
 *[ICLR2022; Stanford & CMU] ***SDEdit:*** Guided Image Synthesis and Editing with Stochastic Differential Equations [[PDF](https://arxiv.org/pdf/2108.01073.pdf), [Page](https://sde-image-editing.github.io/)]
 
-*[arxiv 22.08; meta] ***Prompt-to-Prompt*** Image Editing with Cross Attention Control [[PDF](https://arxiv.org/abs/2208.01626) ] 
+*[arxiv 22.08; meta] ***Prompt-to-Prompt*** Image Editing with Cross Attention Control [[PDF](https://arxiv.org/abs/2208.01626) ]
 
-**[arxiv 22.08; Scale AI]** ***Direct Inversion***: Optimization-Free Text-Driven Real Image Editing with Diffusion Models [[PDF](https://arxiv.org/pdf/2211.07825)]
+[arxiv 22.08; Scale AI] ***Direct Inversion***: Optimization-Free Text-Driven Real Image Editing with Diffusion Models [[PDF](https://arxiv.org/pdf/2211.07825)]
 
-**[arxiv 22.11; UC Berkeley]** ***InstructPix2Pix***: Learning to Follow Image Editing Instructions [[PDF](https://arxiv.org/pdf/2211.09800.pdf), [Page](https://www.timothybrooks.com/instruct-pix2pix)]
+[arxiv 22.11; UC Berkeley] ***InstructPix2Pix***: Learning to Follow Image Editing Instructions [[PDF](https://arxiv.org/pdf/2211.09800.pdf), [Page](https://www.timothybrooks.com/instruct-pix2pix)]
 
-**[NIPS 22; google]** ***DreamBooth***: Fine Tuning Text-to-Image Diffusion Models for Subject-Driven Generation [[PDF](https://arxiv.org/abs/2208.12242), [Page](https://dreambooth.github.io/), [Code](https://github.com/XavierXiao/Dreambooth-Stable-Diffusion)]
+[NIPS 22; google] ***DreamBooth***: Fine Tuning Text-to-Image Diffusion Models for Subject-Driven Generation [[PDF](https://arxiv.org/abs/2208.12242), [Page](https://dreambooth.github.io/), [Code](https://github.com/XavierXiao/Dreambooth-Stable-Diffusion)]
 
 [arxiv 2022; Nvidia ] eDiffi: Text-to-Image Diffusion Models with an Ensemble of Expert Denoisers \[[PDF](https://arxiv.org/pdf/2211.01324.pdf), Code\]
 
 [arxiv 2022; Goolge ] Imagic: Text-Based Real Image Editing with Diffusion Models \[[PDF](https://arxiv.org/pdf/2210.09276.pdf), Code\]
 
-**[ICLR 23]** ***DiffEdit***: Diffusion-based semantic image editing with mask guidance [[Paper](https://openreview.net/forum?id=3lge0p5o-M-)]
+[arxiv 2022] ***DiffEdit***: Diffusion-based semantic image editing with mask guidance [[Paper](https://openreview.net/forum?id=3lge0p5o-M-)]
 
-**[ICLR 23]** ***DiffIT***: Diffusion-based Image Translation Using Disentangled Style and Content Repesentation [[Paper]](https://openreview.net/pdf?id=Nayau9fwXU)  
+[arxiv 2022] ***DiffIT***: Diffusion-based Image Translation Using Disentangled Style and Content Repesentation [[Paper]](https://openreview.net/pdf?id=Nayau9fwXU)  
 
-**[ICLR 23]** Dual Diffusion Implicit Bridges for Image-to-image Translation [[Paper]](https://openreview.net/pdf?id=5HLoTvVGDe)  
+[arxiv 2022] Dual Diffusion Implicit Bridges for Image-to-image Translation [[Paper]](https://openreview.net/pdf?id=5HLoTvVGDe)  
 
 *[ICLR 23, Google] Classifier-free Diffusion Guidance [[Paper]](https://arxiv.org/pdf/2207.12598.pdf)
 
-**[arxiv 2022]** ***EDICT***: Exact Diffusion Inversion via Coupled Transformations \[[PDF](https://arxiv.org/abs/2211.12446)\]  
+[arxiv 2022] ***EDICT***: Exact Diffusion Inversion via Coupled Transformations \[[PDF](https://arxiv.org/abs/2211.12446)\]  
 
-**[arxiv 22.11]** ***Paint by Example***: Exemplar-based Image Editing with Diffusion Models [[PDF]](https://arxiv.org/abs/2211.13227)  
-
-[arxiv 2022.11]InstructPix2Pix: Learning to Follow Image Editing Instructions [[PDF](https://arxiv.org/abs/2211.09800), [Page](https://www.timothybrooks.com/instruct-pix2pix)]
+[arxiv 22.11] ***Paint by Example***: Exemplar-based Image Editing with Diffusion Models [[PDF]](https://arxiv.org/abs/2211.13227)  
 
 [arxiv 2022.10; ByteDance]MagicMix: Semantic Mixing with Diffusion Models [[PDF]](https://arxiv.org/abs/2210.16056)  
 
