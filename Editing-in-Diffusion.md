@@ -98,6 +98,8 @@
 
 [arxiv 2023.03]LayoutDM: Discrete Diffusion Model for Controllable Layout Generation [[PDF](https://arxiv.org/abs/2303.08137), [Page](https://cyberagentailab.github.io/layout-dm/)]
 
+[arxiv 2023.03]LayoutDiffusion: Improving Graphic Layout Generation by Discrete Diffusion Probabilistic Models [[PDF](https://arxiv.org/abs/2303.11589)]
+
 
 
 ## SVG
@@ -166,6 +168,8 @@
 [arxiv 2023.03]Unlimited-Size Diffusion Restoration [[PDF](https://arxiv.org/abs/2303.00354), [code](https://github.com/wyhuai/DDNM/tree/main/hq_demo)]
 
 [arxiv 2023.03]DiffIR: Efficient Diffusion Model for Image Restoration [[PDF](https://arxiv.org/abs/2303.09472)]
+
+[arxiv 2023.03]Inversion by Direct Iteration: An Alternative to Denoising Diffusion for Image Restoration [[PDF](https://arxiv.org/abs/2303.11435)]
 
 
 ## Style transfer 
