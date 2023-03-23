@@ -103,6 +103,9 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2023.03]Decomposed Diffusion Models for High-Quality Video Generation [[PDF](https://arxiv.org/pdf/2303.08320.pdf)]
 
+[arxiv 2023.03]NUWA-XL: Diffusion over Diffusion for eXtremely Long Video Generation [[PDF](https://arxiv.org/abs/2303.12346)]
+
+
 
 ## :point_right: Video Completion (animation, interpolation, prediction)
 [arxiv 2022; Meta] Tell Me What Happened: Unifying Text-guided Video Completion via Multimodal Masked Video Generation \[[PDF](https://arxiv.org/pdf/2211.12824.pdf), code]
