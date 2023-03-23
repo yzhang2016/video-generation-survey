@@ -23,6 +23,9 @@
 
 [arxiv 2023.03]FateZero: Fusing Attentions for Zero-shot Text-based Video Editing [[PDF](https://arxiv.org/abs/2303.09535), [Page](https://github.com/ChenyangQiQi/FateZero)]
 
+[arxiv 2023.03]Pix2Video: Video Editing using Image Diffusion [[PDF](https://arxiv.org/abs/2303.12688)]
+
+
 
 
 ## Related 
