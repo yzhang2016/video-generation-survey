@@ -155,7 +155,7 @@
 
 [arxiv 2023.03]Collage Diffusion [[PDF](https://arxiv.org/abs/2303.00262)]
 
-[arxiv 2023.01] GLIGEN: Open-Set Grounded Text-to-Image Generation [[PDF](https://arxiv.org/abs/2301.07093), [Page](https://gligen.github.io/), [Code](https://github.com/gligen/GLIGEN)]
+*[arxiv 2023.01] GLIGEN: Open-Set Grounded Text-to-Image Generation [[PDF](https://arxiv.org/abs/2301.07093), [Page](https://gligen.github.io/), [Code](https://github.com/gligen/GLIGEN)]
 
 [arxiv 2023.03]GlueGen: Plug and Play Multi-modal Encoders for X-to-image Generation [[PDF](https://arxiv.org/abs/2303.10056#)]
 
