@@ -25,6 +25,7 @@
 
 [arxiv 2023.03]Pix2Video: Video Editing using Image Diffusion [[PDF](https://arxiv.org/abs/2303.12688)]
 
+[arxiv 2023.03]Text2Video-Zero: Text-to-Image Diffusion Models are Zero-Shot Video Generators [[PDF](https://arxiv.org/abs/2303.13439), [code](https://github.com/Picsart-AI-Research/Text2Video-Zero)]
 
 
 
