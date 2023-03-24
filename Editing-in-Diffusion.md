@@ -77,6 +77,12 @@
 
 [arxiv 2023.03]SVDiff: Compact Parameter Space for Diffusion Fine-Tuning[[PDF](https://arxiv.org/abs/2303.11305)]
 
+[arxiv 2023.03]Ablating Concepts in Text-to-Image Diffusion Models [[PDF](https://arxiv.org/abs/2303.13516), [Page](https://www.cs.cmu.edu/~concept-ablation/)]
+
+[arxiv 2023.03]ReVersion : Diffusion-Based  Relation Inversion from Images[[PDF](https://arxiv.org/abs/2303.13495), [Page](https://ziqihuangg.github.io/projects/reversion.html)]
+
+[arxiv 2023.03]MagicFusion: Boosting Text-to-Image Generation Performance by Fusing Diffusion Models [[PDF](https://arxiv.org/abs/2303.13126)]
+
 
 ## Story-telling
 
@@ -100,6 +106,7 @@
 
 [arxiv 2023.03]LayoutDiffusion: Improving Graphic Layout Generation by Discrete Diffusion Probabilistic Models [[PDF](https://arxiv.org/abs/2303.11589)]
 
+[arxiv 2023.03]DiffPattern: Layout Pattern Generation via Discrete Diffusion[[PDF](https://arxiv.org/abs/2303.13060)]
 
 
 ## SVG
