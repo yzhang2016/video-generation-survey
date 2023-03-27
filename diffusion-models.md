@@ -18,6 +18,8 @@
 
 [arxiv 2023.03]Multilevel Diffusion: Infinite Dimensional Score-Based Diffusion Models for Image Generation [[PDF](https://arxiv.org/abs/2303.04772)]
 
+[arxiv 2023.03]End-to-End Diffusion Latent Optimization Improves Classifier Guidance [[PDF](https://arxiv.org/abs/2303.13703)]
+
 
 ## Architecture
 
