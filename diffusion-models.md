@@ -20,6 +20,7 @@
 
 [arxiv 2023.03]End-to-End Diffusion Latent Optimization Improves Classifier Guidance [[PDF](https://arxiv.org/abs/2303.13703)]
 
+[arxiv 2023.03]Exploring Continual Learning of Diffusion Models [[PDF](https://arxiv.org/pdf/2303.15342.pdf)]
 
 
 ## Architecture
