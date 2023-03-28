@@ -141,11 +141,11 @@
 
 [arxiv 2023.02]Text-Guided Scene Sketch-to-Photo Synthesis[[PDF](https://arxiv.org/abs/2302.06883),]
 
-[arxiv 2023.02]T2I-Adapter: Learning Adapters to Dig out More Controllable Ability for Text-to-Image Diffusion Models[[PDF](https://arxiv.org/abs/2302.08453),[Code](https://github.com/TencentARC/T2I-Adapter)]
+[arxiv 2023.02]**--T2I-Adapter--**: Learning Adapters to Dig out More Controllable Ability for Text-to-Image Diffusion Models[[PDF](https://arxiv.org/abs/2302.08453),[Code](https://github.com/TencentARC/T2I-Adapter)]
 
 [arxiv 2023.02]MultiDiffusion: Fusing Diffusion Paths for Controlled Image Generation [[PDF](https://arxiv.org/abs/2302.08113), [Page](https://multidiffusion.github.io/)]
 
-[arxiv 2023.02] **--controlNet--** Adding Conditional Control to Text-to-Image Diffusion Models [[PDF](https://arxiv.org/abs/2302.05543)]
+*[arxiv 2023.02] **--controlNet--** Adding Conditional Control to Text-to-Image Diffusion Models [[PDF](https://arxiv.org/abs/2302.05543)]
 
 [arxiv 2023.02] **--composer--**  Composer: Creative and Controllable Image Synthesis with Composable Conditions [[PDF](https://arxiv.org/abs/2302.09778)]
 
