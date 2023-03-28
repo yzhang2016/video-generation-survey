@@ -108,6 +108,8 @@
 
 [arxiv 2023.03]DiffPattern: Layout Pattern Generation via Discrete Diffusion[[PDF](https://arxiv.org/abs/2303.13060)]
 
+[arxiv 2023.03]Freestyle Layout-to-Image Synthesis [[PDF](https://arxiv.org/abs/2303.14412)]
+
 
 ## SVG
 [arxiv 2022.11; UCB] VectorFusion: Text-to-SVG by Abstracting Pixel-Based Diffusion Models \[[PDF](https://arxiv.org/abs/2211.11319)\]
