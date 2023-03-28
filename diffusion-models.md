@@ -21,7 +21,9 @@
 [arxiv 2023.03]End-to-End Diffusion Latent Optimization Improves Classifier Guidance [[PDF](https://arxiv.org/abs/2303.13703)]
 
 
+
 ## Architecture
+[arxiv 2023.03]Masked Diffusion Transformer is a Strong Image Synthesizer [[PDF](https://arxiv.org/abs/2303.14389)]
 
 ## Speedup  
 [arxiv 2022]Accelerating Diffusion Sampling with Classifier-based Feature Distillation \[[PDF](https://arxiv.org/pdf/2211.12039.pdf)\]
