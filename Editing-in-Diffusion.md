@@ -221,7 +221,7 @@
 [arxiv 2022.04]VQGAN-CLIP: Open Domain Image Generation and Editing with Natural Language Guidance [[PDF](https://arxiv.org/abs/2204.08583), [Code](https://github.com/EleutherAI/vqgan-clip/tree/main/notebooks)]
 
 
-[arxiv 2021.07] Low-rank Adaptation for Fast Text-to-Image Diffusion Fine-tuning [[PDF](https://arxiv.org/pdf/2106.09685.pdf), [code](https://github.com/cloneofsimo/lora)]
+*[arxiv 2021.07] Low-rank Adaptation for Fast Text-to-Image Diffusion Fine-tuning [[PDF](https://arxiv.org/pdf/2106.09685.pdf), [code](https://github.com/cloneofsimo/lora)]
 
 [arxiv 2022.11]Investigating Prompt Engineering in Diffusion Models \[[PDF](https://arxiv.org/pdf/2211.15462.pdf)\] 
 
