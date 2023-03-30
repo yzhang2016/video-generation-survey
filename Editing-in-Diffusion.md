@@ -180,6 +180,8 @@
 
 [arxiv 2023.03]Inversion by Direct Iteration: An Alternative to Denoising Diffusion for Image Restoration [[PDF](https://arxiv.org/abs/2303.11435)]
 
+[arxiv 2023.03]Implicit Diffusion Models for Continuous Super-Resolution [[PDF](https://arxiv.org/abs/2303.16491)]
+
 
 ## Style transfer 
 [arxiv 22.11; kuaishou] ***DiffStyler***: Controllable Dual Diffusion for Text-Driven Image Stylization \[[PDF](https://arxiv.org/pdf/2211.10682.pdf), code\]  
@@ -214,6 +216,8 @@
 [arxiv 2023.02]Cross-domain Compositing with Pretrained Diffusion Models[[PDF](https://arxiv.org/abs/2302.10167)]
 
 
+## hand writing 
+[arxiv 2023.03]WordStylist: Styled Verbatim Handwritten Text Generation with Latent Diffusion Models[[PDF](https://arxiv.org/abs/2303.16576)]
 
 
 ## Related 
