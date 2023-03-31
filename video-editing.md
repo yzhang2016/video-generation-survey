@@ -29,6 +29,8 @@
 
 [arxiv 2023.03]Conditional Image-to-Video Generation with Latent Flow Diffusion Models [[PDF](https://arxiv.org/abs/2303.13744)]
 
+[arxiv 2023.03]Zero-Shot Video Editing Using Off-The-Shelf Image Diffusion Models[[PDF](https://arxiv.org/abs/2303.17599)]
+
 
 ## Related 
 [CVPR 2023]3D Cinemagraphy from a Single Image[[PDF](https://arxiv.org/abs/2303.05724), [Page](https://xingyi-li.github.io/3d-cinemagraphy/)]
