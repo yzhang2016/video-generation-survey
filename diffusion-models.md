@@ -36,3 +36,6 @@
 [arxiv 2023.03]Efficient Diffusion Training via Min-SNR Weighting Strategy [[PDF](https://arxiv.org/abs/2303.09556)]
 
 [arxiv 2023.03]SVDiff: Compact Parameter Space for Diffusion Fine-Tuning[[PDF](https://arxiv.org/abs/2303.11305)]
+
+[arxiv 2023.03]Token Merging for Fast Stable Diffusion [[PDF](https://arxiv.org/abs/2303.17604), [code](https://github.com/dbolya/tomesd)]
+
