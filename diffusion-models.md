@@ -39,3 +39,6 @@
 
 [arxiv 2023.03]Token Merging for Fast Stable Diffusion [[PDF](https://arxiv.org/abs/2303.17604), [code](https://github.com/dbolya/tomesd)]
 
+[arxiv 2023.04]A Closer Look at Parameter-Efficient Tuning in Diffusion Models [[PDF](https://arxiv.org/abs/2303.18181)]
+
+
