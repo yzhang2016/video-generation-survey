@@ -83,6 +83,10 @@
 
 [arxiv 2023.03]MagicFusion: Boosting Text-to-Image Generation Performance by Fusing Diffusion Models [[PDF](https://arxiv.org/abs/2303.13126)]
 
+[arxiv 2023.04]One-shot Unsupervised Domain Adaptation with Personalized Diffusion Models [[PDF](https://arxiv.org/abs/2303.18080)]
+
+[arxiv 2023.04]3D-aware Image Generation using 2D Diffusion Models [[PDF](https://arxiv.org/abs/2303.17905)]
+
 
 ## Story-telling
 
