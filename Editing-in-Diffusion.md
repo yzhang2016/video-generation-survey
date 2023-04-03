@@ -135,7 +135,7 @@
 
 [arxiv 2022.12]Towards Practical Plug-and-Play Diffusion Models [[PDF](https://arxiv.org/pdf/2212.05973.pdf)]
 
-[arxiv 2022.12]Multi-Concept Customization of Text-to-Image Diffusion \[[PDF](https://arxiv.org/abs/2212.04488), [Page](https://www.cs.cmu.edu/~custom-diffusion/), [code](https://github.com/adobe-research/custom-diffusion)\]
+*[arxiv 2022.12]Multi-Concept Customization of Text-to-Image Diffusion \[[PDF](https://arxiv.org/abs/2212.04488), [Page](https://www.cs.cmu.edu/~custom-diffusion/), [code](https://github.com/adobe-research/custom-diffusion)\]
 
 [arxiv 2023.01]Attend-and-Excite: Attention-Based Semantic Guidance for Text-to-Image Diffusion Models[[PDF](https://arxiv.org/abs/2301.13826)]
 
