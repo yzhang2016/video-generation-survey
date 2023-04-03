@@ -39,8 +39,6 @@
 
 [arxi 2022.12]SINE: SINgle Image Editing with Text-to-Image Diffusion Models \[[PDF](https://arxiv.org/pdf/2212.04489.pdf)\]
 
-[arxiv 2022.12]Multi-Concept Customization of Text-to-Image Diffusion \[[PDF](https://arxiv.org/abs/2212.04488)\]
-
 [arxiv 2022.12]Uncovering the Disentanglement Capability in Text-to-Image Diffusion Models[[PDF](https://arxiv.org/pdf/2212.08698.pdf)]
 
 [arxiv 2022.12]Optimizing Prompts for Text-to-Image Generation [[PDF](https://arxiv.org/pdf/2212.09611.pdf)]
@@ -136,6 +134,8 @@
 [arxiv 2022; MSRA]Paint by Example: Exemplar-based Image Editing with Diffusion Models \[[PDF](https://arxiv.org/pdf/2211.13227.pdf), [code](https://github.com/Fantasy-Studio/Paint-by-Example)\]  
 
 [arxiv 2022.12]Towards Practical Plug-and-Play Diffusion Models [[PDF](https://arxiv.org/pdf/2212.05973.pdf)]
+
+[arxiv 2022.12]Multi-Concept Customization of Text-to-Image Diffusion \[[PDF](https://arxiv.org/abs/2212.04488)\]
 
 [arxiv 2023.01]Attend-and-Excite: Attention-Based Semantic Guidance for Text-to-Image Diffusion Models[[PDF](https://arxiv.org/abs/2301.13826)]
 
