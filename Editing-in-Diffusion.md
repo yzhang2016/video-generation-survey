@@ -153,7 +153,7 @@
 
 *[arxiv 2023.02] **--controlNet--** Adding Conditional Control to Text-to-Image Diffusion Models [[PDF](https://arxiv.org/abs/2302.05543)]
 
-[arxiv 2023.02] **--composer--**  Composer: Creative and Controllable Image Synthesis with Composable Conditions [[PDF](https://arxiv.org/abs/2302.09778)]
+*[arxiv 2023.02] **--composer--**  Composer: Creative and Controllable Image Synthesis with Composable Conditions [[PDF](https://arxiv.org/abs/2302.09778)]
 
 [arxiv 2023.02]Modulating Pretrained Diffusion Models for Multimodal Image Synthesis [[PDF](https://arxiv.org/abs/2302.12764)]
 
