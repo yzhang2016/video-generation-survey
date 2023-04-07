@@ -22,6 +22,8 @@
 
 [arxiv 2023.03]Exploring Continual Learning of Diffusion Models [[PDF](https://arxiv.org/pdf/2303.15342.pdf)]
 
+[arxiv 2023.03]Diffusion Models as Masked Autoencoders [[PDF](https://arxiv.org/abs/2304.03283)]
+
 
 ## Architecture
 [arxiv 2023.03]Masked Diffusion Transformer is a Strong Image Synthesizer [[PDF](https://arxiv.org/abs/2303.14389)]
