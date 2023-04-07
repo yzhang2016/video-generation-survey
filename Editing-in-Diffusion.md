@@ -85,6 +85,8 @@
 
 [arxiv 2023.04]3D-aware Image Generation using 2D Diffusion Models [[PDF](https://arxiv.org/abs/2303.17905)]
 
+[arxiv 2023.04]Inst-Inpaint: Instructing to Remove Objects with Diffusion Models[[PDF](https://arxiv.org/abs/2304.03246)]
+
 
 ## Story-telling
 
@@ -172,6 +174,9 @@
 [arxiv 2023.03]PAIR-Diffusion: Object-Level Image Editing with Structure-and-Appearance Paired Diffusion Models [[PDF](https://arxiv.org/abs/2303.17546), [code](https://github.com/Picsart-AI-Research/PAIR-Diffusion)]
 
 [arxiv 2023.03]DiffCollage: Parallel Generation of Large Content with Diffusion Models [[PDF](https://arxiv.org/abs/2303.17076),[page](https://research.nvidia.com/labs/dir/diffcollage/)]
+
+[arxiv 2023.04]SketchFFusion: Sketch-guided image editing with diffusion model [[PDF](https://arxiv.org/abs/2304.03174)]
+
 
 
 ## Super-Resolution & restoration
@@ -268,3 +273,4 @@
 
 [arxiv 2023.03]Text-to-image Diffusion Model in Generative AI: A Survey [[PDF](https://arxiv.org/abs/2303.07909)]
 
+[arxiv 2023.04]Synthesizing Anyone, Anywhere, in Any Pose[[PDF](https://arxiv.org/abs/2304.03164)]
