@@ -87,6 +87,8 @@
 
 [arxiv 2023.04]Inst-Inpaint: Instructing to Remove Objects with Diffusion Models[[PDF](https://arxiv.org/abs/2304.03246)]
 
+[arxiv 2023.04]InstantBooth: Personalized Text-to-Image Generation without Test-Time Finetuning [[PDF](https://arxiv.org/abs/2304.03411)]
+
 
 ## Story-telling
 
@@ -176,6 +178,8 @@
 [arxiv 2023.03]DiffCollage: Parallel Generation of Large Content with Diffusion Models [[PDF](https://arxiv.org/abs/2303.17076),[page](https://research.nvidia.com/labs/dir/diffcollage/)]
 
 [arxiv 2023.04]SketchFFusion: Sketch-guided image editing with diffusion model [[PDF](https://arxiv.org/abs/2304.03174)]
+
+[arxiv 2023.04]Training-Free Layout Control with Cross-Attention Guidance [[PDF](https://arxiv.org/abs/2304.03373), [Page](https://silent-chen.github.io/layout-guidance/)]
 
 
 
