@@ -87,7 +87,7 @@
 
 [arxiv 2023.04]Inst-Inpaint: Instructing to Remove Objects with Diffusion Models[[PDF](https://arxiv.org/abs/2304.03246)]
 
-[arxiv 2023.04]InstantBooth: Personalized Text-to-Image Generation without Test-Time Finetuning [[PDF](https://arxiv.org/abs/2304.03411)]
+*[arxiv 2023.04]InstantBooth: Personalized Text-to-Image Generation without Test-Time Finetuning [[PDF](https://arxiv.org/abs/2304.03411)]
 
 [arxiv 2023.04]Harnessing the Spatial-Temporal Attention of Diffusion Models for High-Fidelity Text-to-Image Synthesis [[PDF](https://t.co/GJNrYFA8wS)]
 
