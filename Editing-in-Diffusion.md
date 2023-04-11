@@ -181,7 +181,7 @@
 
 [arxiv 2023.04]Training-Free Layout Control with Cross-Attention Guidance [[PDF](https://arxiv.org/abs/2304.03373), [Page](https://silent-chen.github.io/layout-guidance/)]
 
-
+[arxiv 2023.04]HumanSD: A Native Skeleton-Guided Diffusion Model for Human Image Generation [[PDF](https://arxiv.org/abs/2304.04269), [Page](https://idea-research.github.io/HumanSD/)]
 
 ## Super-Resolution & restoration
 [arxiv 2022.12]ADIR: Adaptive Diffusion for Image Reconstruction  \[[PDF](https://shadyabh.github.io/ADIR/ADIR_files/ADIR.pdf)
