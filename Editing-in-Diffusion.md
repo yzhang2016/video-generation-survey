@@ -175,7 +175,7 @@
 
 [arxiv 2023.03]DS-Fusion: Artistic Typography via Discriminated and Stylized Diffusion [[PDF](https://arxiv.org/abs/2303.09604)]
 
-[arxiv 2023.03]PAIR-Diffusion: Object-Level Image Editing with Structure-and-Appearance Paired Diffusion Models [[PDF](https://arxiv.org/abs/2303.17546), [code](https://github.com/Picsart-AI-Research/PAIR-Diffusion)]
+*[arxiv 2023.03]PAIR-Diffusion: Object-Level Image Editing with Structure-and-Appearance Paired Diffusion Models [[PDF](https://arxiv.org/abs/2303.17546), [code](https://github.com/Picsart-AI-Research/PAIR-Diffusion)]
 
 [arxiv 2023.03]DiffCollage: Parallel Generation of Large Content with Diffusion Models [[PDF](https://arxiv.org/abs/2303.17076),[page](https://research.nvidia.com/labs/dir/diffcollage/)]
 
