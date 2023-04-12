@@ -91,6 +91,8 @@
 
 [arxiv 2023.04]Harnessing the Spatial-Temporal Attention of Diffusion Models for High-Fidelity Text-to-Image Synthesis [[PDF](https://t.co/GJNrYFA8wS)]
 
+[arxiv 2023.04]Controllable Textual Inversion for Personalized Text-to-Image Generation [[PDF](https://arxiv.org/abs/2304.05265)]
+
 
 ## Story-telling
 
