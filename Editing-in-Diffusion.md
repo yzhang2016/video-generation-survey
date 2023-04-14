@@ -103,7 +103,7 @@
 
 [arxiv 2023.04]Gradient-Free Textual Inversion [[PDF](https://arxiv.org/abs/2304.05818)]
 
-
+[arxiv 2023.04]Improving Diffusion Models for Scene Text Editing with Dual Encoders [[PDF](https://arxiv.org/pdf/2304.05568.pdf)]
 
 ## Story-telling
 
