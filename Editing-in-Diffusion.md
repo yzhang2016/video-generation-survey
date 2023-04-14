@@ -93,6 +93,17 @@
 
 [arxiv 2023.04]Controllable Textual Inversion for Personalized Text-to-Image Generation [[PDF](https://arxiv.org/abs/2304.05265)]
 
+->[arxiv 2023.04]Expressive Text-to-Image Generation with Rich Text [[PDF](https://arxiv.org/abs/2304.06720), [Page](https://rich-text-to-image.github.io/)]
+
+[arxiv 2023.04]DiffusionRig: Learning Personalized Priors for Facial Appearance Editing [[PDF](https://arxiv.org/abs/2304.06711)]
+
+[arxiv 2023.04]An Edit Friendly DDPM Noise Space: Inversion and Manipulations [[PDF](https://arxiv.org/abs/2304.06140)]
+
+->[arxiv 2023.04]Continual Diffusion: Continual Customization of Text-to-Image Diffusion with C-LoRA[[PDF](https://arxiv.org/abs/2304.06027), [Page](https://jamessealesmith.github.io/continual-diffusion/)]
+
+[arxiv 2023.04]Gradient-Free Textual Inversion [[PDF](https://arxiv.org/abs/2304.05818)]
+
+
 
 ## Story-telling
 
@@ -186,6 +197,10 @@
 [arxiv 2023.04]Training-Free Layout Control with Cross-Attention Guidance [[PDF](https://arxiv.org/abs/2304.03373), [Page](https://silent-chen.github.io/layout-guidance/)]
 
 [arxiv 2023.04]HumanSD: A Native Skeleton-Guided Diffusion Model for Human Image Generation [[PDF](https://arxiv.org/abs/2304.04269), [Page](https://idea-research.github.io/HumanSD/)]
+
+->[arxiv 2023.04]DreamPose: Fashion Image-to-Video Synthesis via Stable Diffusion [[PDF](https://arxiv.org/abs/2304.06025), [Page](https://jamessealesmith.github.io/continual-diffusion/)]
+
+
 
 ## Super-Resolution & restoration
 [arxiv 2022.12]ADIR: Adaptive Diffusion for Image Reconstruction  \[[PDF](https://shadyabh.github.io/ADIR/ADIR_files/ADIR.pdf)
