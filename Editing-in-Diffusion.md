@@ -105,6 +105,10 @@
 
 [arxiv 2023.04]Improving Diffusion Models for Scene Text Editing with Dual Encoders [[PDF](https://arxiv.org/pdf/2304.05568.pdf)]
 
+[arxiv 2023.04]Delta Denoising Score [[PDF](https://arxiv.org/abs/2304.07090), [Page](https://delta-denoising-score.github.io/)]
+
+
+
 ## Story-telling
 
 **[arxiv 22.09]** ***Story Dall-E***: Adapting pretrained text-to-image transformers for story continuation [[PDF]](https://arxiv.org/pdf/2209.06192.pdf)  
@@ -200,6 +204,9 @@
 
 ->[arxiv 2023.04]DreamPose: Fashion Image-to-Video Synthesis via Stable Diffusion [[PDF](https://arxiv.org/abs/2304.06025), [Page](https://jamessealesmith.github.io/continual-diffusion/)]
 
+-> [arxiv 2023.04]Inpaint Anything: Segment Anything Meets Image Inpainting [[PDF](https://arxiv.org/abs/2304.06790), [Page](https://github.com/geekyutao/Inpaint-Anything)]
+
+[arxiv 2023.04]Soundini: Sound-Guided Diffusion for Natural Video Editing [[PDF](https://arxiv.org/abs/2304.06818)]
 
 
 ## Super-Resolution & restoration
@@ -239,7 +246,8 @@
 
 [arxiv 2023.03]Zero-Shot Contrastive Loss for Text-Guided Diffusion Image Style Transfer [[PDF](https://arxiv.org/abs/2303.08622)]
 
-
+[arxiv 2023.04] One-Shot Stylization for Full-Body Human Images [[PDF](One-Shot Stylization for Full-Body Human Images
+)]
 
 ## Face swapping 
 [arxiv 2022.12]HS-Diffusion: Learning a Semantic-Guided Diffusion Model for Head Swapping[[PDF](https://arxiv.org/pdf/2212.06458.pdf)]
