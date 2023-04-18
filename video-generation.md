@@ -105,6 +105,8 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2023.03]NUWA-XL: Diffusion over Diffusion for eXtremely Long Video Generation [[PDF](https://arxiv.org/abs/2303.12346)]
 
+[arxiv 2023.04]Latent-Shift: Latent Diffusion with Temporal Shift for Efficient Text-to-Video Generation [[PDF](https://arxiv.org/abs/2304.08477)]
+
 
 
 ## :point_right: Video Completion (animation, interpolation, prediction)
