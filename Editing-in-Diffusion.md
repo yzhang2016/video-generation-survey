@@ -107,6 +107,7 @@
 
 [arxiv 2023.04]Delta Denoising Score [[PDF](https://arxiv.org/abs/2304.07090), [Page](https://delta-denoising-score.github.io/)]
 
+[arxiv 2023.04]MasaCtrl: Tuning-Free Mutual Self-Attention Control for Consistent Image Synthesis and Editing [[PDF](https://arxiv.org/abs/2304.08465), [Page](https://ljzycmd.github.io/projects/MasaCtrl)]
 
 
 ## Story-telling
