@@ -107,7 +107,7 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2023.04]Latent-Shift: Latent Diffusion with Temporal Shift for Efficient Text-to-Video Generation [[PDF](https://arxiv.org/abs/2304.08477)]
 
-[arxiv 2023.04]Align your Latents: High-Resolution Video Synthesis with Latent Diffusion Models [[PDF](https://arxiv.org/abs/2304.08818), [Page](https://research.nvidia.com/labs/toronto-ai/VideoLDM/)]
+->[arxiv 2023.04]Align your Latents: High-Resolution Video Synthesis with Latent Diffusion Models [[PDF](https://arxiv.org/abs/2304.08818), [Page](https://research.nvidia.com/labs/toronto-ai/VideoLDM/)]
 
 ## :point_right: Video Completion (animation, interpolation, prediction)
 [arxiv 2022; Meta] Tell Me What Happened: Unifying Text-guided Video Completion via Multimodal Masked Video Generation \[[PDF](https://arxiv.org/pdf/2211.12824.pdf), code]
