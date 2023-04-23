@@ -250,6 +250,10 @@
 [arxiv 2023.04] One-Shot Stylization for Full-Body Human Images [[PDF](One-Shot Stylization for Full-Body Human Images
 )]
 
+## disentanglement
+[ICMR 2023]Not Only Generative Art: Stable Diffusion for Content-Style Disentanglement in Art Analysis [[PDF](https://arxiv.org/abs/2304.10278)]
+
+
 ## Face swapping 
 [arxiv 2022.12]HS-Diffusion: Learning a Semantic-Guided Diffusion Model for Head Swapping[[PDF](https://arxiv.org/pdf/2212.06458.pdf)]
 
