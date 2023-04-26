@@ -44,3 +44,5 @@
 [arxiv 2023.04]A Closer Look at Parameter-Efficient Tuning in Diffusion Models [[PDF](https://arxiv.org/abs/2303.18181)]
 
 [arxiv 2023.04]Binary Latent Diffusion[[PDF](https://arxiv.org/abs/2304.04820)]
+
+[arxiv 2023.04]Patch Diffusion: Faster and More Data-Efficient Training of Diffusion Models [[PDF](https://arxiv.org/abs/2304.12526)]
