@@ -209,6 +209,7 @@
 
 [arxiv 2023.04]Soundini: Sound-Guided Diffusion for Natural Video Editing [[PDF](https://arxiv.org/abs/2304.06818)]
 
+->[arxiv 2023.04]CONTROLLABLE IMAGE GENERATION VIA COLLAGE REPRESENTATIONS [[PDF](https://arxiv.org/abs/2304.13722)]
 
 ## Super-Resolution & restoration
 [arxiv 2022.12]ADIR: Adaptive Diffusion for Image Reconstruction  \[[PDF](https://shadyabh.github.io/ADIR/ADIR_files/ADIR.pdf)
