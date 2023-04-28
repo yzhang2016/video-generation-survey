@@ -140,7 +140,7 @@
 ## SVG
 [arxiv 2022.11; UCB] VectorFusion: Text-to-SVG by Abstracting Pixel-Based Diffusion Models \[[PDF](https://arxiv.org/abs/2211.11319)\]
 
-
+[arxiv 2023.04]IconShop: Text-Based Vector Icon Synthesis with Autoregressive Transformers [[PDF](https://arxiv.org/abs/2304.14400), [Page](https://kingnobro.github.io/iconshop/)]
 
 ## Translation & composition
 [arxiv 2022; Google]Sketch-Guided Text-to-Image Diffusion Models \[[PDF](https://arxiv.org/pdf/2211.13752.pdf), code\]  
