@@ -109,6 +109,8 @@
 
 [arxiv 2023.04]MasaCtrl: Tuning-Free Mutual Self-Attention Control for Consistent Image Synthesis and Editing [[PDF](https://arxiv.org/abs/2304.08465), [Page](https://ljzycmd.github.io/projects/MasaCtrl)]
 
+[arxiv 2023.04]Edit Everything: A Text-Guided Generative System for Images Editing [[PDF](https://arxiv.org/pdf/2304.14006.pdf)]
+
 
 ## Story-telling
 
