@@ -111,6 +111,12 @@
 
 [arxiv 2023.04]Edit Everything: A Text-Guided Generative System for Images Editing [[PDF](https://arxiv.org/pdf/2304.14006.pdf)]
 
+[Siggraph 2023.05]Key-Locked Rank One Editing for Text-to-Image Personalization [[PDF](https://arxiv.org/abs/2305.01644), [Page](https://research.nvidia.com/labs/par/Perfusion/)]
+
+[arxiv 2023.05]In-Context Learning Unlocked for Diffusion Models [[PDF](https://arxiv.org/pdf/2305.01115.pdf)]
+
+
+
 
 ## Story-telling
 
