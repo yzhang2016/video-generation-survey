@@ -25,6 +25,11 @@
 [arxiv 2023.03]Diffusion Models as Masked Autoencoders [[PDF](https://arxiv.org/abs/2304.03283)]
 
 [arxiv 2023.04]Memory Efficient Diffusion Probabilistic Models via Patch-based Generation [[PDF](https://arxiv.org/abs/2304.07087)]
+
+[arxiv 2023.05]Class-Balancing Diffusion Models [[PDF](https://arxiv.org/pdf/2305.00562.pdf)]
+
+
+
 ## Architecture
 [arxiv 2023.03]Masked Diffusion Transformer is a Strong Image Synthesizer [[PDF](https://arxiv.org/abs/2303.14389)]
 
