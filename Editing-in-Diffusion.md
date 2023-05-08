@@ -133,6 +133,8 @@
 
 
 ## Layout Generation 
+[arxiv 2022.08]Layout-Bridging Text-to-Image Synthesis [[PDF](https://arxiv.org/pdf/2208.06162.pdf)]
+
 [arxiv 2023.03]Unifying Layout Generation with a Decoupled Diffusion Model [[PDF](https://arxiv.org/abs/2303.05049)]
 
 [arxiv 2023.02]LayoutDiffuse: Adapting Foundational Diffusion Models for Layout-to-Image Generation [[PDF](https://arxiv.org/pdf/2302.08908.pdf)]
