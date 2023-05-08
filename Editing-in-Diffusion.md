@@ -115,8 +115,6 @@
 
 [arxiv 2023.05]In-Context Learning Unlocked for Diffusion Models [[PDF](https://arxiv.org/pdf/2305.01115.pdf)]
 
-[arxiv 2023.05]Guided Image Synthesis via Initial Image Editing in Diffusion Model [[PDF](https://arxiv.org/abs/2305.03382)]
-
 [arxiv 2023.05]DisenBooth: Disentangled Parameter-Efficient Tuning for Subject-Driven Text-to-Image Generation [[PDF](https://arxiv.org/abs/2305.03374)]
 
 
@@ -221,6 +219,9 @@
 [arxiv 2023.04]Soundini: Sound-Guided Diffusion for Natural Video Editing [[PDF](https://arxiv.org/abs/2304.06818)]
 
 ->[arxiv 2023.04]CONTROLLABLE IMAGE GENERATION VIA COLLAGE REPRESENTATIONS [[PDF](https://arxiv.org/abs/2304.13722)]
+
+[arxiv 2023.05]Guided Image Synthesis via Initial Image Editing in Diffusion Model [[PDF](https://arxiv.org/abs/2305.03382)]
+
 
 ## Super-Resolution & restoration
 [arxiv 2022.12]ADIR: Adaptive Diffusion for Image Reconstruction  \[[PDF](https://shadyabh.github.io/ADIR/ADIR_files/ADIR.pdf)
