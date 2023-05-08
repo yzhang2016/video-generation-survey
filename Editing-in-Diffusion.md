@@ -115,6 +115,9 @@
 
 [arxiv 2023.05]In-Context Learning Unlocked for Diffusion Models [[PDF](https://arxiv.org/pdf/2305.01115.pdf)]
 
+[arxiv 2023.05]Guided Image Synthesis via Initial Image Editing in Diffusion Model [[PDF](https://arxiv.org/abs/2305.03382)]
+
+[arxiv 2023.05]DisenBooth: Disentangled Parameter-Efficient Tuning for Subject-Driven Text-to-Image Generation [[PDF](https://arxiv.org/abs/2305.03374)]
 
 
 
