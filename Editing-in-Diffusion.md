@@ -117,7 +117,7 @@
 
 [arxiv 2023.05]DisenBooth: Disentangled Parameter-Efficient Tuning for Subject-Driven Text-to-Image Generation [[PDF](https://arxiv.org/abs/2305.03374)]
 
-
+[arxiv 2023.05]ReGeneration Learning of Diffusion Models with Rich Prompts for Zero-Shot Image Translation [[PDF](https://arxiv.org/abs/2305.04651)]
 
 ## Story-telling
 
