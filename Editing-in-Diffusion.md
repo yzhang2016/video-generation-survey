@@ -147,6 +147,8 @@
 
 [arxiv 2023.03]Freestyle Layout-to-Image Synthesis [[PDF](https://arxiv.org/abs/2303.14412)]
 
+[arxiv 2023.04]Training-Free Layout Control with Cross-Attention Guidance
+[[PDF](https://arxiv.org/abs/2304.03373), [Page](https://silent-chen.github.io/layout-guidance/)]
 
 ## SVG
 [arxiv 2022.11; UCB] VectorFusion: Text-to-SVG by Abstracting Pixel-Based Diffusion Models \[[PDF](https://arxiv.org/abs/2211.11319)\]
