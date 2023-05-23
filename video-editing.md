@@ -33,6 +33,7 @@
 
 [arxiv 2023.04]Follow Your Pose: Pose-Guided Text-to-Video Generation using Pose-Free Videos[[PDF](https://arxiv.org/abs/2304.01186)]
 
+[arxiv 2023.05]ControlVideo: Training-free Controllable Text-to-Video Generation [[PDF](https://arxiv.org/abs/2305.13077), [Page](https://github.com/YBYBZhang/ControlVideo)]
 
 ## Related 
 [CVPR 2023]3D Cinemagraphy from a Single Image[[PDF](https://arxiv.org/abs/2303.05724), [Page](https://xingyi-li.github.io/3d-cinemagraphy/)]
