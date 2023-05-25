@@ -121,7 +121,7 @@
 
 ## Story-telling
 
-**[ECCV 2022]** ***Story Dall-E***: Adapting pretrained text-to-image transformers for story continuation [[PDF](https://arxiv.org/pdf/2209.06192.pdf, [code](https://github.com/adymaharana/storydalle)]  
+**[ECCV 2022]** ***Story Dall-E***: Adapting pretrained text-to-image transformers for story continuation [[PDF](https://arxiv.org/pdf/2209.06192.pdf), [code](https://github.com/adymaharana/storydalle)]  
 
 **[arxiv 22.11; Ailibaba]** Synthesizing Coherent Story with Auto-Regressive Latent Diffusion Models \[[PDF](https://arxiv.org/pdf/2211.10950.pdf), [code](https://github.com/xichenpan/ARLDM)\]  
 
