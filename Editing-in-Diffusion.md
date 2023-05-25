@@ -125,7 +125,7 @@
 
 **[arxiv 22.11; Ailibaba]** Synthesizing Coherent Story with Auto-Regressive Latent Diffusion Models \[[PDF](https://arxiv.org/pdf/2211.10950.pdf), [code](https://github.com/xichenpan/ARLDM)\]  
 
-**[CVPR 2023]** ***Make-A-Story***: Visual Memory Conditioned Consistent Story Generation  \[[PDF](https://arxiv.org/pdf/2211.13319.pdf), [code]()\]  
+**[CVPR 2023]** ***Make-A-Story***: Visual Memory Conditioned Consistent Story Generation  \[[PDF](https://arxiv.org/pdf/2211.13319.pdf) \]  
 
 [arxiv 2023.01]An Impartial Transformer for Story Visualization [[PDF](https://arxiv.org/pdf/2301.03563.pdf)]
 
