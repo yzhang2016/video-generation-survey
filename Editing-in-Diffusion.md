@@ -119,6 +119,9 @@
 
 [arxiv 2023.05]ReGeneration Learning of Diffusion Models with Rich Prompts for Zero-Shot Image Translation [[PDF](https://arxiv.org/abs/2305.04651)]
 
+[arxiv 2023.05]Custom-Edit: Text-Guided Image Editing with Customized Diffusion Models [[PDF](https://arxiv.org/abs/2305.15779)]
+
+
 ## Story-telling
 
 **[ECCV 2022]** ***Story Dall-E***: Adapting pretrained text-to-image transformers for story continuation [[PDF](https://arxiv.org/pdf/2209.06192.pdf), [code](https://github.com/adymaharana/storydalle)]  
@@ -147,8 +150,11 @@
 
 [arxiv 2023.03]Freestyle Layout-to-Image Synthesis [[PDF](https://arxiv.org/abs/2303.14412)]
 
-[arxiv 2023.04]Training-Free Layout Control with Cross-Attention Guidance
-[[PDF](https://arxiv.org/abs/2304.03373), [Page](https://silent-chen.github.io/layout-guidance/)]
+[arxiv 2023.04]Training-Free Layout Control with Cross-Attention Guidance [[PDF](https://arxiv.org/abs/2304.03373), [Page](https://silent-chen.github.io/layout-guidance/)]
+
+->[arxiv 2023.05]LayoutGPT: Compositional Visual Planning and Generation with Large Language Models [[PDF](https://arxiv.org/abs/2305.15393)]
+
+->[arxiv 2023.05]Visual Programming for Text-to-Image Generation and Evaluation [[PDF](https://arxiv.org/abs/2305.15328), [Page](https://vp-t2i.github.io/)]
 
 ## SVG
 [arxiv 2022.11; UCB] VectorFusion: Text-to-SVG by Abstracting Pixel-Based Diffusion Models \[[PDF](https://arxiv.org/abs/2211.11319)\]
@@ -226,6 +232,17 @@
 
 [arxiv 2023.05]Guided Image Synthesis via Initial Image Editing in Diffusion Model [[PDF](https://arxiv.org/abs/2305.03382)]
 
+-> [arxiv 2023.05]Uni-ControlNet: All-in-One Control to Text-to-Image Diffusion Models [[PDF](https://arxiv.org/abs/2305.16322), [Page](https://github.com/ShihaoZhaoZSH/Uni-ControlNet)]
+
+-> [arxiv 2023.05]Break-A-Scene: Extracting Multiple Concepts from a Single Image [[PDF](https://arxiv.org/abs/2305.16311), [Page](https://omriavrahami.com/break-a-scene/)]
+
+[arxiv 2023.05]Prompt-Free Diffusion: Taking "Text" out of Text-to-Image Diffusion Models [[PDF](https://arxiv.org/abs/2305.16223), [Page](https://github.com/SHI-Labs/Prompt-Free-Diffusion)]
+
+[arxiv 2023.05]DiffBlender: Scalable and Composable Multimodal Text-to-Image Diffusion Models [[PDF](https://arxiv.org/abs/2305.15194)]
+
+->[arxiv 2023.05]BLIP-Diffusion: Pre-trained Subject Representation for Controllable Text-to-Image Generation and Editing [[PDF](https://arxiv.org/abs/2305.14720), [Page](https://github.com/salesforce/LAVIS/tree/main/projects/blip-diffusion)]
+
+
 
 ## Super-Resolution & restoration
 [arxiv 2022.12]ADIR: Adaptive Diffusion for Image Reconstruction  \[[PDF](https://shadyabh.github.io/ADIR/ADIR_files/ADIR.pdf)
@@ -241,6 +258,8 @@
 [arxiv 2023.03]Inversion by Direct Iteration: An Alternative to Denoising Diffusion for Image Restoration [[PDF](https://arxiv.org/abs/2303.11435)]
 
 [arxiv 2023.03]Implicit Diffusion Models for Continuous Super-Resolution [[PDF](https://arxiv.org/abs/2303.16491)]
+
+[arxiv 2023.05]UDPM: Upsampling Diffusion Probabilistic Models [[PDF](https://arxiv.org/abs/2305.16269)]
 
 
 ## Style transfer 
