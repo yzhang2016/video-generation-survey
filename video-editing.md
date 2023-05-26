@@ -14,28 +14,6 @@
 [arxiv 2023.01]Dreamix: Video Diffusion Models are General Video Editors [[PDF](https://arxiv.org/abs/2302.01329),[Page](https://dreamix-video-editing.github.io/)]
 
 
-## Image Model for video generation and editing 
-*[arxiv 2022.12]Tune-A-Video: One-Shot Tuning of Image Diffusion Models for Text-to-Video Generation [[PDF](https://arxiv.org/abs/2212.11565), [Page](https://tuneavideo.github.io/)]
-
-[arxiv 2023.03]Video-P2P: Video Editing with Cross-attention Control [[PDF](https://arxiv.org/abs/2303.04761), [Page](https://video-p2p.github.io/)]
-
-[arxiv 2023.03]Edit-A-Video: Single Video Editing with Object-Aware Consistency [[PDF](https://arxiv.org/abs/2303.07945), [Page](https://edit-a-video.github.io/)]
-
-[arxiv 2023.03]FateZero: Fusing Attentions for Zero-shot Text-based Video Editing [[PDF](https://arxiv.org/abs/2303.09535), [Page](https://github.com/ChenyangQiQi/FateZero)]
-
-[arxiv 2023.03]Pix2Video: Video Editing using Image Diffusion [[PDF](https://arxiv.org/abs/2303.12688)]
-
-[arxiv 2023.03]Text2Video-Zero: Text-to-Image Diffusion Models are Zero-Shot Video Generators [[PDF](https://arxiv.org/abs/2303.13439), [code](https://github.com/Picsart-AI-Research/Text2Video-Zero)]
-
-[arxiv 2023.03]Conditional Image-to-Video Generation with Latent Flow Diffusion Models [[PDF](https://arxiv.org/abs/2303.13744)]
-
-[arxiv 2023.03]Zero-Shot Video Editing Using Off-The-Shelf Image Diffusion Models[[PDF](https://arxiv.org/abs/2303.17599),[code](https://github.com/baaivision/vid2vid-zero)]
-
-[arxiv 2023.04]Follow Your Pose: Pose-Guided Text-to-Video Generation using Pose-Free Videos[[PDF](https://arxiv.org/abs/2304.01186)]
-
-[arxiv 2023.05]ControlVideo: Training-free Controllable Text-to-Video Generation [[PDF](https://arxiv.org/abs/2305.13077), [Page](https://github.com/YBYBZhang/ControlVideo)]
-
-[arxiv-2023.05]Large Language Models are Frame-level Directors for Zero-shot Text-to-Video Generation [[PDF](https://arxiv.org/abs/2305.14330), [Page](https://github.com/KU-CVLAB/DirecT2V)]
 
 
 
