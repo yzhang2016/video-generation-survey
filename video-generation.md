@@ -118,6 +118,8 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 ->[arxiv 2023.05]VideoFactory: Swap Attention in Spatiotemporal Diffusions for Text-to-Video Generation [[PDF](https://arxiv.org/pdf/2305.10874.pdf)]
 
 
+
+
 ## :point_right: Video Completion (animation, interpolation, prediction)
 [arxiv 2022; Meta] Tell Me What Happened: Unifying Text-guided Video Completion via Multimodal Masked Video Generation \[[PDF](https://arxiv.org/pdf/2211.12824.pdf), code]
 
@@ -147,6 +149,9 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 [arxiv 2023.01]DiffTalk: Crafting Diffusion Models for Generalized Talking Head Synthesis [[PDF](https://arxiv.org/pdf/2301.03786.pdf), [Page](https://sstzal.github.io/DiffTalk/)]
 
 [arxiv 2023.02 Google]Scaling Vision Transformers to 22 Billion Parameters [[PDF](https://arxiv.org/abs/2302.05442)]
+
+[arxiv 2023.05]VDT: An Empirical Study on Video Diffusion with Transformers [[PDF](https://arxiv.org/abs/2305.13311), [code](https://github.com/RERV/VDT)]
+
 
 ## NLP related
 [arxiv 2022.10]DIFFUSEQ: SEQUENCE TO SEQUENCE TEXT GENERATION WITH DIFFUSION MODELS [[PDF](https://arxiv.org/pdf/2210.08933.pdf)]
