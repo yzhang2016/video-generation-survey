@@ -242,6 +242,7 @@
 
 ->[arxiv 2023.05]BLIP-Diffusion: Pre-trained Subject Representation for Controllable Text-to-Image Generation and Editing [[PDF](https://arxiv.org/abs/2305.14720), [Page](https://github.com/salesforce/LAVIS/tree/main/projects/blip-diffusion)]
 
+[arxiv 2023.05]MaGIC: Multi-modality Guided Image Completion [[PDF](https://arxiv.org/abs/2305.11818)]
 
 
 ## Super-Resolution & restoration
