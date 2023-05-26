@@ -35,5 +35,11 @@
 
 [arxiv 2023.05]ControlVideo: Training-free Controllable Text-to-Video Generation [[PDF](https://arxiv.org/abs/2305.13077), [Page](https://github.com/YBYBZhang/ControlVideo)]
 
+[arxiv-2023.05]Large Language Models are Frame-level Directors for Zero-shot Text-to-Video Generation [[PDF](https://arxiv.org/abs/2305.14330), [Page](https://github.com/KU-CVLAB/DirecT2V)]
+
+
+
+
+
 ## Related 
 [CVPR 2023]3D Cinemagraphy from a Single Image[[PDF](https://arxiv.org/abs/2303.05724), [Page](https://xingyi-li.github.io/3d-cinemagraphy/)]
