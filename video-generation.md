@@ -146,7 +146,7 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2023.05]InstructVid2Vid: Controllable Video Editing with Natural Language Instructions [[PDF](https://arxiv.org/abs/2305.12328)]
 
-[arxiv 2023.05]
+[arxiv 2023.05] ControlVideo: Adding Conditional Control for One Shot Text-to-Video Editing [[PDF](https://arxiv.org/pdf/2305.17098.pdf), [Page](https://ml.cs.tsinghua.edu.cn/controlvideo/)]
 
 ## :point_right: Video Completion (animation, interpolation, prediction)
 [arxiv 2022; Meta] Tell Me What Happened: Unifying Text-guided Video Completion via Multimodal Masked Video Generation \[[PDF](https://arxiv.org/pdf/2211.12824.pdf), code]
