@@ -121,6 +121,8 @@
 
 [arxiv 2023.05]Custom-Edit: Text-Guided Image Editing with Customized Diffusion Models [[PDF](https://arxiv.org/abs/2305.15779)]
 
+[arxiv 2023.05]A Neural Space-Time Representation for Text-to-Image Personalization [[PDF](https://arxiv.org/abs/2305.15391),[Page](https://neuraltextualinversion.github.io/NeTI/)]
+
 
 ## Story-telling
 
