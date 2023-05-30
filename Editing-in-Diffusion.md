@@ -123,6 +123,11 @@
 
 [arxiv 2023.05]A Neural Space-Time Representation for Text-to-Image Personalization [[PDF](https://arxiv.org/abs/2305.15391),[Page](https://neuraltextualinversion.github.io/NeTI/)]
 
+[arxiv 2023.05]RAPHAEL: Text-to-Image Generation via Large Mixture of Diffusion Paths [[PDF](https://arxiv.org/abs/2305.18295)]
+
+[arxiv 2023.05]Mix-of-Show: Decentralized Low-Rank Adaptation for Multi-Concept Customization of Diffusion Models [[PDF](https://arxiv.org/abs/2305.18292),[Page](https://showlab.github.io/Mix-of-Show/)]
+
+[arxiv 2023.05]PHOTOSWAP:Personalized Subject Swapping in Images [[PDF](https://arxiv.org/abs/2305.18286)]
 
 ## Story-telling
 
@@ -135,6 +140,8 @@
 [arxiv 2023.01]An Impartial Transformer for Story Visualization [[PDF](https://arxiv.org/pdf/2301.03563.pdf)]
 
 [arxiv 2023.02]Zero-shot Generation of Coherent Storybook from Plain Text Story using Diffusion Models [[PDF](https://arxiv.org/abs/2302.03900)]
+
+[arxiv 2023.05]TaleCrafter: Interactive Story Visualization with Multiple Characters [[PDF](https://arxiv.org/abs/2305.18247), [Page](https://videocrafter.github.io/TaleCrafter/)]
 
 
 ## Layout Generation 
@@ -246,6 +253,8 @@
 
 [arxiv 2023.05]MaGIC: Multi-modality Guided Image Completion [[PDF](https://arxiv.org/abs/2305.11818)]
 
+[arxiv 2023.05]Text-to-image Editing by Image Information Removal [[PDF](https://arxiv.org/abs/2305.17489)]
+
 
 ## Super-Resolution & restoration
 [arxiv 2022.12]ADIR: Adaptive Diffusion for Image Reconstruction  \[[PDF](https://shadyabh.github.io/ADIR/ADIR_files/ADIR.pdf)
@@ -305,6 +314,10 @@
 
 ## hand writing 
 [arxiv 2023.03]WordStylist: Styled Verbatim Handwritten Text Generation with Latent Diffusion Models[[PDF](https://arxiv.org/abs/2303.16576)]
+
+
+## speed
+[arxiv 2023.05]FISEdit: Accelerating Text-to-image Editing via Cache-enabled Sparse Diffusion Inference [[PDF](https://arxiv.org/abs/2305.17423)]
 
 
 ## Related 
