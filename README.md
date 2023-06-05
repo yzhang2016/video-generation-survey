@@ -22,5 +22,19 @@ Basics
 * [Diffuison Models](https://github.com/yzhang2016/video-generation-survey/blob/main/diffusion-models.md)
 
 
+Sub-topic
+
+* [Video-SR](https://github.com/yzhang2016/video-generation-survey/blob/main/Video-SR)
+
+* [Video-Motion](https://github.com/yzhang2016/video-generation-survey/blob/main/Video-Motion)
+
+* [Video-Long](https://github.com/yzhang2016/video-generation-survey/blob/main/Video-Long)
+
+* [Diffusion-Concept](https://github.com/yzhang2016/video-generation-survey/blob/main/Diffusion-Concept)
+
+* [Future Frame, Image Animation](https://github.com/yzhang2016/video-generation-survey/blob/main/Future-Frame-Animation)
+
+* [Video-Structure](https://github.com/yzhang2016/video-generation-survey/blob/main/Video-Structure.md)
+
 Related 
 * [vector generation](https://github.com/MarkMoHR/Awesome-Sketch-Synthesis#3-vector-graphics-generation)
