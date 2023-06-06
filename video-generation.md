@@ -82,6 +82,8 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2022.12]MAGVIT: Masked Generative Video Transformer[[PDF](https://arxiv.org/pdf/2212.05199.pdf)]
 
+
+
 ## :point_right: Diffusion-based methods 
 *[NIPS 2022; Google] **---VDM--**  Video Diffusion Models \[[PDF](https://arxiv.org/pdf/2204.03458.pdf), [code](https://github.com/lucidrains/video-diffusion-pytorch) \]
 
@@ -111,11 +113,19 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2023.04]LaMD: Latent Motion Diffusion for Video Generation [[PDF](https://arxiv.org/abs/2304.11603)]
 
-*[arxiv 2023.04]Motion-Conditioned Diffusion Model for Controllable Video Synthesis [[PDF](https://arxiv.org/abs/2304.14404), [Page](https://tsaishien-chen.github.io/MCDiff/)]
-
 ->[arxiv 2023.05]Preserve Your Own Correlation: A Noise Prior for Video Diffusion Models[[PDF](https://arxiv.org/pdf/2305.10474.pdf), [Page](https://research.nvidia.com/labs/dir/pyoco/)]
 
 ->[arxiv 2023.05]VideoFactory: Swap Attention in Spatiotemporal Diffusions for Text-to-Video Generation [[PDF](https://arxiv.org/pdf/2305.10874.pdf)]
+
+
+## :point_right: Controllable Video Generation 
+
+*[arxiv 2023.04]Motion-Conditioned Diffusion Model for Controllable Video Synthesis [[PDF](https://arxiv.org/abs/2304.14404), [Page](https://tsaishien-chen.github.io/MCDiff/)]
+
+[arxiv 2023.06]Video Diffusion Models with Local-Global Context Guidance [[PDF](https://arxiv.org/abs/2306.02562)]
+
+[arxiv 2023.06]VideoComposer: Compositional Video Synthesis with Motion Controllability [[PDF](https://arxiv.org/abs/2306.02018)]
+
 
 
 
