@@ -125,11 +125,15 @@
 
 [arxiv 2023.05]RAPHAEL: Text-to-Image Generation via Large Mixture of Diffusion Paths [[PDF](https://arxiv.org/abs/2305.18295)]
 
+[arxiv 2023.05]Controllable Text-to-Image Generation with GPT-4 [[PDF](https://arxiv.org/abs/2305.18583)]
+
 [arxiv 2023.05]Mix-of-Show: Decentralized Low-Rank Adaptation for Multi-Concept Customization of Diffusion Models [[PDF](https://arxiv.org/abs/2305.18292),[Page](https://showlab.github.io/Mix-of-Show/)]
 
 [arxiv 2023.05]PHOTOSWAP:Personalized Subject Swapping in Images [[PDF](https://arxiv.org/abs/2305.18286)]
 
 [arxiv 2023.06]Diffusion Self-Guidance for Controllable Image Generation [[PDF](https://arxiv.org/abs/2306.00986), [Page](https://dave.ml/selfguidance/)]
+
+
 
 
 ## Story-telling
@@ -246,6 +250,8 @@
 
 [arxiv 2023.05]Guided Image Synthesis via Initial Image Editing in Diffusion Model [[PDF](https://arxiv.org/abs/2305.03382)]
 
+[arxiv 2023.05]DiffSketching: Sketch Control Image Synthesis with Diffusion Models [[PDF](https://arxiv.org/abs/2305.18812)]
+
 -> [arxiv 2023.05]Uni-ControlNet: All-in-One Control to Text-to-Image Diffusion Models [[PDF](https://arxiv.org/abs/2305.16322), [Page](https://github.com/ShihaoZhaoZSH/Uni-ControlNet)]
 
 -> [arxiv 2023.05]Break-A-Scene: Extracting Multiple Concepts from a Single Image [[PDF](https://arxiv.org/abs/2305.16311), [Page](https://omriavrahami.com/break-a-scene/)]
@@ -261,6 +267,8 @@
 [arxiv 2023.05]Text-to-image Editing by Image Information Removal [[PDF](https://arxiv.org/abs/2305.17489)]
 
 [arxiv 2023.06]Cocktail: Mixing Multi-Modality Controls for Text-Conditional Image Generation [[PDF](https://arxiv.org/abs/2306.00964), [Page](https://mhh0318.github.io/cocktail/)]
+
+[arxiv 2023.06]Cones 2: Customizable Image Synthesis with Multiple Subjects [[PDF](https://arxiv.org/abs/2305.19327)]
 
 
 ## Super-Resolution & restoration
@@ -332,6 +340,8 @@
 [arxiv 2023.06]Intriguing Properties of Text-guided Diffusion Models [[PDF](https://arxiv.org/pdf/2306.00974.pdf)]
 
 [arxiv 2023.06]Stable Diffusion is Untable [[PDF](https://arxiv.org/abs/2306.02583)]
+
+[arxiv 2023.06]A Geometric Perspective on Diffusion Models [[PDF])(https://arxiv.org/abs/2305.19947)]
 
 
 ## Related 
