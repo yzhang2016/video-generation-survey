@@ -13,6 +13,8 @@
 
 [arxiv 2023.01]Dreamix: Video Diffusion Models are General Video Editors [[PDF](https://arxiv.org/abs/2302.01329),[Page](https://dreamix-video-editing.github.io/)]
 
+[arxiv 2023.06]Video Colorization with Pre-trained Text-to-Image Diffusion Models [[PDF](https://arxiv.org/abs/2306.01732), [Page](https://colordiffuser.github.io/)]
+
 
 
 
