@@ -154,6 +154,10 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2023.05]ControlVideo: Training-free Controllable Text-to-Video Generation [[PDF](https://arxiv.org/abs/2305.13077)]
 
+[arxiv 2023.05]Video ControlNet: Towards Temporally Consistent Synthetic-to-Real Video Translation Using Conditional Image Diffusion Models [[PDF](https://arxiv.org/abs/2305.19193)]
+
+[arxiv 2023.05]SAVE: Spectral-Shift-Aware Adaptation of Image Diffusion Models for Text-guided Video Editing [[PDF](https://arxiv.org/abs/2305.18670)]
+
 [arxiv 2023.05]InstructVid2Vid: Controllable Video Editing with Natural Language Instructions [[PDF](https://arxiv.org/abs/2305.12328)]
 
 [arxiv 2023.05] ControlVideo: Adding Conditional Control for One Shot Text-to-Video Editing [[PDF](https://arxiv.org/pdf/2305.17098.pdf), [Page](https://ml.cs.tsinghua.edu.cn/controlvideo/)]
