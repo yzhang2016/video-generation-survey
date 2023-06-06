@@ -51,3 +51,5 @@
 [arxiv 2023.04]Binary Latent Diffusion[[PDF](https://arxiv.org/abs/2304.04820)]
 
 [arxiv 2023.04]Patch Diffusion: Faster and More Data-Efficient Training of Diffusion Models [[PDF](https://arxiv.org/abs/2304.12526)]
+
+[arxiv 2023.06]SnapFusion: Text-to-Image Diffusion Model on Mobile Devices within Two Seconds [[PDF](https://arxiv.org/abs/2306.00980), [Page](https://snap-research.github.io/SnapFusion/)]
