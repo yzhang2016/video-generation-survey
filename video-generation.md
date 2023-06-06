@@ -178,6 +178,10 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 ## animation 
 [arxiv 2023.05]LEO: Generative Latent Image Animator for Human Video Synthesis [[PDF](https://arxiv.org/abs/2305.03989),[Page](https://wyhsirius.github.io/LEO-project/)]
 
+## domain transfer 
+[arxiv 2023.06]Probabilistic Adaptation of Text-to-Video Models [[PDF](https://arxiv.org/abs/2306.01872)]
+
+
 ## Others 
 [arxiv 2023.05]AADiff: Audio-Aligned Video Synthesis with Text-to-Image Diffusion [[PDF](https://arxiv.org/abs/2305.04001)]
 
