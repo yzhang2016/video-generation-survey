@@ -129,6 +129,9 @@
 
 [arxiv 2023.05]PHOTOSWAP:Personalized Subject Swapping in Images [[PDF](https://arxiv.org/abs/2305.18286)]
 
+[arxiv 2023.06]Diffusion Self-Guidance for Controllable Image Generation [[PDF](https://arxiv.org/abs/2306.00986), [Page](https://dave.ml/selfguidance/)]
+
+
 ## Story-telling
 
 **[ECCV 2022]** ***Story Dall-E***: Adapting pretrained text-to-image transformers for story continuation [[PDF](https://arxiv.org/pdf/2209.06192.pdf), [code](https://github.com/adymaharana/storydalle)]  
@@ -142,6 +145,8 @@
 [arxiv 2023.02]Zero-shot Generation of Coherent Storybook from Plain Text Story using Diffusion Models [[PDF](https://arxiv.org/abs/2302.03900)]
 
 [arxiv 2023.05]TaleCrafter: Interactive Story Visualization with Multiple Characters [[PDF](https://arxiv.org/abs/2305.18247), [Page](https://videocrafter.github.io/TaleCrafter/)]
+
+[arxiv 2023.06]Intelligent Grimm -- Open-ended Visual Storytelling via Latent Diffusion Models [[PDF](https://arxiv.org/abs/2306.00973), [Page](https://haoningwu3639.github.io/StoryGen_Webpage/)]
 
 
 ## Layout Generation 
@@ -255,6 +260,8 @@
 
 [arxiv 2023.05]Text-to-image Editing by Image Information Removal [[PDF](https://arxiv.org/abs/2305.17489)]
 
+[arxiv 2023.06]Cocktail: Mixing Multi-Modality Controls for Text-Conditional Image Generation [[PDF](https://arxiv.org/abs/2306.00964), [Page](https://mhh0318.github.io/cocktail/)]
+
 
 ## Super-Resolution & restoration
 [arxiv 2022.12]ADIR: Adaptive Diffusion for Image Reconstruction  \[[PDF](https://shadyabh.github.io/ADIR/ADIR_files/ADIR.pdf)
@@ -295,16 +302,18 @@
 
 [arxiv 2023.03]Zero-Shot Contrastive Loss for Text-Guided Diffusion Image Style Transfer [[PDF](https://arxiv.org/abs/2303.08622)]
 
-[arxiv 2023.04] One-Shot Stylization for Full-Body Human Images [[PDF](One-Shot Stylization for Full-Body Human Images
-)]
+[arxiv 2023.04] One-Shot Stylization for Full-Body Human Images [[PDF](One-Shot Stylization for Full-Body Human Images)]
+
+[arxiv 2023.06]StyleDrop: Text-to-Image Generation in Any Style [[PDF](https://arxiv.org/abs/2306.00983), [Page](https://styledrop.github.io/)]
 
 ## disentanglement
 [ICMR 2023]Not Only Generative Art: Stable Diffusion for Content-Style Disentanglement in Art Analysis [[PDF](https://arxiv.org/abs/2304.10278)]
 
 
-## Face swapping 
+## Face ID 
 [arxiv 2022.12]HS-Diffusion: Learning a Semantic-Guided Diffusion Model for Head Swapping[[PDF](https://arxiv.org/pdf/2212.06458.pdf)]
 
+[arxiv 2023.06]Inserting Anybody in Diffusion Models via Celeb Basis [[PDF](https://arxiv.org/abs/2306.00926), [Page](https://celeb-basis.github.io/)]
 
 ## scene composition
 [arxiv 2023.02]MIXTURE OF DIFFUSERS FOR SCENE COMPOSITION AND HIGH RESOLUTION IMAGE GENERATION [[PDF](https://arxiv.org/abs/2302.02412)]
@@ -319,11 +328,15 @@
 ## speed
 [arxiv 2023.05]FISEdit: Accelerating Text-to-image Editing via Cache-enabled Sparse Diffusion Inference [[PDF](https://arxiv.org/abs/2305.17423)]
 
+## Study 
+[arxiv 2023.06]Intriguing Properties of Text-guided Diffusion Models [[PDF](https://arxiv.org/pdf/2306.00974.pdf)]
+
+[arxiv 2023.06]Stable Diffusion is Untable [[PDF](https://arxiv.org/abs/2306.02583)]
+
 
 ## Related 
 
 [arxiv 2022.04]VQGAN-CLIP: Open Domain Image Generation and Editing with Natural Language Guidance [[PDF](https://arxiv.org/abs/2204.08583), [Code](https://github.com/EleutherAI/vqgan-clip/tree/main/notebooks)]
-
 
 *[arxiv 2021.07] Low-rank Adaptation for Fast Text-to-Image Diffusion Fine-tuning [[PDF](https://arxiv.org/pdf/2106.09685.pdf), [code](https://github.com/cloneofsimo/lora)]
 
@@ -362,3 +375,5 @@
 [arxiv 2023.03]Text-to-image Diffusion Model in Generative AI: A Survey [[PDF](https://arxiv.org/abs/2303.07909)]
 
 [arxiv 2023.04]Synthesizing Anyone, Anywhere, in Any Pose[[PDF](https://arxiv.org/abs/2304.03164)]
+
+
