@@ -337,6 +337,10 @@
 [arxiv 2023.05]FISEdit: Accelerating Text-to-image Editing via Cache-enabled Sparse Diffusion Inference [[PDF](https://arxiv.org/abs/2305.17423)]
 
 ## Study 
+[CVPR 2023]Diffusion Art or Digital Forgery? Investigating Data Replication in Diffusion Models [[PDF](https://openaccess.thecvf.com/content/CVPR2023/papers/Somepalli_Diffusion_Art_or_Digital_Forgery_Investigating_Data_Replication_in_Diffusion_CVPR_2023_paper.pdf)]
+
+[arxiv 2023.06]Understanding and Mitigating Copying in Diffusion Models [[PDF](https://arxiv.org/abs/2305.20086), [code](https://github.com/somepago/DCR)]
+
 [arxiv 2023.06]Intriguing Properties of Text-guided Diffusion Models [[PDF](https://arxiv.org/pdf/2306.00974.pdf)]
 
 [arxiv 2023.06]Stable Diffusion is Untable [[PDF](https://arxiv.org/abs/2306.02583)]
