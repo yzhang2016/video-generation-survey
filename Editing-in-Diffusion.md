@@ -343,6 +343,10 @@
 
 [arxiv 2023.06]A Geometric Perspective on Diffusion Models [[PDF])(https://arxiv.org/abs/2305.19947)]
 
+[arxiv 2023.06]Emergent Correspondence from Image Diffusion [[PDF](https://arxiv.org/abs/2306.03881)]
+
+
+
 
 ## Related 
 
