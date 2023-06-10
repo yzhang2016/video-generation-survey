@@ -56,13 +56,13 @@
 
 [TPAMI 2022; Google ] Image Super-Resolution via Iterative Refinement \[[PDF](https://arxiv.org/pdf/2104.07636.pdf), [Code](https://github.com/Janspiry/Image-Super-Resolution-via-Iterative-Refinement)\]
 
-
 [CVPR 2022; POSTECH ]Autoregressive Image Generation using Residual Quantization \[[PDF](https://arxiv.org/pdf/2203.01941.pdf), [Code](https://github.com/kakaobrain/rq-vae-transformer)\]
 
 [SIGGRAPH 2022; Goolge ] **---Palette---** Palette: Image-to-Image Diffusion Models\[[PDF](https://arxiv.org/pdf/2111.05826.pdf), [Code](https://github.com/Janspiry/Palette-Image-to-Image-Diffusion-Models)\]
 
 [arxiv 2022; Google] Cascaded Diffusion Models for High Fidelity Image Generation\[[PDF](https://arxiv.org/pdf/2106.15282.pdf), Code\]
 
+[arxiv 2023.06]Designing a Better Asymmetric VQGAN for StableDiffusion [[PDF](https://arxiv.org/abs/2306.04632), [code](https://github.com/buxiangzhiren/Asymmetric_VQGAN)]
 
 ## Scene 
 [arxiv 2022.12]Generative Scene Synthesis via Incremental View Inpainting using RGBD Diffusion Models [[PDF](https://arxiv.org/pdf/2212.05993.pdf)]
