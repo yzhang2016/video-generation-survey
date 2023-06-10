@@ -28,7 +28,7 @@
 
 [arxiv 2023.05]Class-Balancing Diffusion Models [[PDF](https://arxiv.org/pdf/2305.00562.pdf)]
 
-
+[arxiv 2023.06]Multi-Architecture Multi-Expert Diffusion Models [[PDF](https://arxiv.org/pdf/2306.04990.pdf)]
 
 ## Architecture
 [arxiv 2023.03]Masked Diffusion Transformer is a Strong Image Synthesizer [[PDF](https://arxiv.org/abs/2303.14389)]
