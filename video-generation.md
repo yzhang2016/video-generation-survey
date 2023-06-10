@@ -28,6 +28,9 @@ A reading list of video generation
 * **Celebv-text**
 [arxiv ]CelebV-Text: A Large-Scale Facial Text-Video Dataset [[PDF](), [Page](https://celebv-text.github.io/)]
 
+* **Youku-mPLUG**
+[arxiv 2023.06]Youku-mPLUG: A 10 Million Large-scale Chinese Video-Language Dataset for Pre-training and Benchmarks [[PDF](https://arxiv.org/abs/2306.04362)]
+
 
 
 ## :point_right: GAN/VAE-based methods 
