@@ -190,6 +190,7 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2023.05]Multi-object Video Generation from Single Frame Layouts [[PDF](https://arxiv.org/abs/2305.03983)]
 
+[arxiv 2023.06]Learn the Force We Can: Multi-Object Video Generation from Pixel-Level Interactions [[PDF](https://arxiv.org/abs/2306.03988)]
 
 
 ## CV Related 
