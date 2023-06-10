@@ -133,7 +133,7 @@
 
 [arxiv 2023.06]Diffusion Self-Guidance for Controllable Image Generation [[PDF](https://arxiv.org/abs/2306.00986), [Page](https://dave.ml/selfguidance/)]
 
-
+[arxiv 2023.06]SyncDiffusion: Coherent Montage via Synchronized Joint Diffusions [[PDF](https://arxiv.org/abs/2306.05178), [Page](https://syncdiffusion.github.io/)]
 
 
 ## Story-telling
@@ -270,6 +270,7 @@
 
 [arxiv 2023.06]Cones 2: Customizable Image Synthesis with Multiple Subjects [[PDF](https://arxiv.org/abs/2305.19327)]
 
+[arxiv 2023.06]Grounded Text-to-Image Synthesis with Attention Refocusing [[PDF](https://arxiv.org/abs/2306.05427), [Page](https://attention-refocusing.github.io/), [Code](https://github.com/Attention-Refocusing/attention-refocusing)]
 
 ## Super-Resolution & restoration
 [arxiv 2022.12]ADIR: Adaptive Diffusion for Image Reconstruction  \[[PDF](https://shadyabh.github.io/ADIR/ADIR_files/ADIR.pdf)
