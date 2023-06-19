@@ -169,7 +169,9 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2023.06]Make-Your-Video: Customized Video Generation Using Textual and Structural Guidance [[PDF](https://arxiv.org/abs/2306.00943), [Page](https://doubiiu.github.io/projects/Make-Your-Video/)]
 
+[arxiv 2023.06]VidEdit: Zero-Shot and Spatially Aware Text-Driven Video Editing [[PDF](https://arxiv.org/abs/2306.08707),[Page](https://videdit.github.io/)]
 
+ 
 
 ## :point_right: Video Completion (animation, interpolation, prediction)
 [arxiv 2022; Meta] Tell Me What Happened: Unifying Text-guided Video Completion via Multimodal Masked Video Generation \[[PDF](https://arxiv.org/pdf/2211.12824.pdf), code]
