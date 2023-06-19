@@ -137,6 +137,13 @@
 
 [arxiv 2023.06]MagicBrush: A Manually Annotated Dataset for Instruction-Guided Image Editing[[PDF](https://arxiv.org/abs/2306.10012), [Page](https://osu-nlp-group.github.io/MagicBrush/)]
 
+[arxiv 2023.06 ]Diffusion in Diffusion: Cyclic One-Way Diffusion for Text-Vision-Conditioned Generation [[PDf](https://arxiv.org/abs/2306.08247)]
+
+->[arxiv 2023.06]Paste, Inpaint and Harmonize via Denoising: Subject-Driven Image Editing with Pre-Trained Diffusion Model [[PDF](https://arxiv.org/abs/2306.07596)]
+
+[arxiv 2023.06]Controlling Text-to-Image Diffusion by Orthogonal Finetuning [[PDF](https://arxiv.org/abs/2306.07280)]
+
+
 
 ## Story-telling
 
@@ -184,6 +191,9 @@
 [arxiv 2022.11; UCB] VectorFusion: Text-to-SVG by Abstracting Pixel-Based Diffusion Models \[[PDF](https://arxiv.org/abs/2211.11319)\]
 
 [arxiv 2023.04]IconShop: Text-Based Vector Icon Synthesis with Autoregressive Transformers [[PDF](https://arxiv.org/abs/2304.14400), [Page](https://kingnobro.github.io/iconshop/)]
+
+[arxiv 2023.06]Image Vectorization: a Review [[PDF](https://arxiv.org/abs/2306.06441)]
+
 
 ## Translation & composition
 [arxiv 2022; Google]Sketch-Guided Text-to-Image Diffusion Models \[[PDF](https://arxiv.org/pdf/2211.13752.pdf), code\]  
@@ -280,6 +290,14 @@
 
 [arxiv 2023.06]Energy-Based Cross Attention for Bayesian Context Update in Text-to-Image Diffusion Models [[PDF](https://arxiv.org/pdf/2306.09869.pdf)]
 
+[arxiv 2023.06]TryOnDiffusion: A Tale of Two UNets [[PDF](https://arxiv.org/abs/2306.08276)]
+
+->[arxiv 2023.06]Adding 3D Geometry Control to Diffusion Models [[PDF](https://arxiv.org/abs/2306.08103)]
+
+[arxiv 2023.06]Linguistic Binding in Diffusion Models: Enhancing Attribute Correspondence through Attention Map Alignment [[PDF](https://arxiv.org/abs/2306.08877)]
+
+
+
 
 ## Super-Resolution & restoration
 [arxiv 2022.12]ADIR: Adaptive Diffusion for Image Reconstruction  \[[PDF](https://shadyabh.github.io/ADIR/ADIR_files/ADIR.pdf)
@@ -349,6 +367,7 @@
 
 [arxiv 2023.06]Fast Training of Diffusion Models with Masked Transformers [[PDF](https://arxiv.org/pdf/2306.09305.pdf)]
 
+[arxiv 2023.06]Fast Diffusion Model [[PDF](https://arxiv.org/abs/2306.06991)]
 
 
 ## Study 
@@ -365,6 +384,10 @@
 [arxiv 2023.06]Emergent Correspondence from Image Diffusion [[PDF](https://arxiv.org/abs/2306.03881)]
 
 [arxiv 2023.06]Evaluating Data Attribution for Text-to-Image Models [[PDf](https://arxiv.org/abs/2306.09345), [Page](https://yossigandelsman.github.io/rosetta_neurons/)]
+
+[arxiv 2023.06]Norm-guided latent space exploration for text-to-image generation [[PDF](https://arxiv.org/abs/2306.08687)]
+
+[arxiv 2023.06]Training-free Diffusion Model Adaptation for Variable-Sized Text-to-Image Synthesis [[PDF](https://arxiv.org/abs/2306.08645)]
 
 
 ## Related 
