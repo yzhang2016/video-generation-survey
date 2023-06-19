@@ -135,6 +135,8 @@
 
 [arxiv 2023.06]SyncDiffusion: Coherent Montage via Synchronized Joint Diffusions [[PDF](https://arxiv.org/abs/2306.05178), [Page](https://syncdiffusion.github.io/)]
 
+[arxiv 2023.06]MagicBrush: A Manually Annotated Dataset for Instruction-Guided Image Editing[[PDF](https://arxiv.org/abs/2306.10012), [Page](https://osu-nlp-group.github.io/MagicBrush/)]
+
 
 ## Story-telling
 
@@ -173,6 +175,10 @@
 ->[arxiv 2023.05]LayoutGPT: Compositional Visual Planning and Generation with Large Language Models [[PDF](https://arxiv.org/abs/2305.15393)]
 
 ->[arxiv 2023.05]Visual Programming for Text-to-Image Generation and Evaluation [[PDF](https://arxiv.org/abs/2305.15328), [Page](https://vp-t2i.github.io/)]
+
+[arxiv 2023.06]Relation-Aware Diffusion Model for Controllable Poster Layout Generation [[PDF](https://arxiv.org/abs/2306.09086)]
+
+
 
 ## SVG
 [arxiv 2022.11; UCB] VectorFusion: Text-to-SVG by Abstracting Pixel-Based Diffusion Models \[[PDF](https://arxiv.org/abs/2211.11319)\]
@@ -272,6 +278,9 @@
 
 [arxiv 2023.06]Grounded Text-to-Image Synthesis with Attention Refocusing [[PDF](https://arxiv.org/abs/2306.05427), [Page](https://attention-refocusing.github.io/), [Code](https://github.com/Attention-Refocusing/attention-refocusing)]
 
+[arxiv 2023.06]Energy-Based Cross Attention for Bayesian Context Update in Text-to-Image Diffusion Models [[PDF](https://arxiv.org/pdf/2306.09869.pdf)]
+
+
 ## Super-Resolution & restoration
 [arxiv 2022.12]ADIR: Adaptive Diffusion for Image Reconstruction  \[[PDF](https://shadyabh.github.io/ADIR/ADIR_files/ADIR.pdf)
 
@@ -288,6 +297,7 @@
 [arxiv 2023.03]Implicit Diffusion Models for Continuous Super-Resolution [[PDF](https://arxiv.org/abs/2303.16491)]
 
 [arxiv 2023.05]UDPM: Upsampling Diffusion Probabilistic Models [[PDF](https://arxiv.org/abs/2305.16269)]
+
 
 
 ## Style transfer 
@@ -337,6 +347,10 @@
 ## speed
 [arxiv 2023.05]FISEdit: Accelerating Text-to-image Editing via Cache-enabled Sparse Diffusion Inference [[PDF](https://arxiv.org/abs/2305.17423)]
 
+[arxiv 2023.06]Fast Training of Diffusion Models with Masked Transformers [[PDF](https://arxiv.org/pdf/2306.09305.pdf)]
+
+
+
 ## Study 
 [CVPR 2023]Diffusion Art or Digital Forgery? Investigating Data Replication in Diffusion Models [[PDF](https://openaccess.thecvf.com/content/CVPR2023/papers/Somepalli_Diffusion_Art_or_Digital_Forgery_Investigating_Data_Replication_in_Diffusion_CVPR_2023_paper.pdf)]
 
@@ -350,7 +364,7 @@
 
 [arxiv 2023.06]Emergent Correspondence from Image Diffusion [[PDF](https://arxiv.org/abs/2306.03881)]
 
-
+[arxiv 2023.06]Evaluating Data Attribution for Text-to-Image Models [[PDf](https://arxiv.org/abs/2306.09345), [Page](https://yossigandelsman.github.io/rosetta_neurons/)]
 
 
 ## Related 
