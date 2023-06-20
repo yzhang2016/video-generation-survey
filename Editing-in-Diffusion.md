@@ -45,8 +45,6 @@
 
 [arxiv 2023.02]Towards Enhanced Controllability of Diffusion Models[[PDF](https://arxiv.org/pdf/2302.14368.pdf)]
 
-[arxiv 2023.02]ELITE: Encoding Visual Concepts into Textual Embeddings for Customized Text-to-Image Generation [[PDF](https://arxiv.org/abs/2302.13848)]
-
 [arxiv 2023.03]X&Fuse: Fusing Visual Information in Text-to-Image Generation [[PDF](https://arxiv.org/abs/2303.01000)]
 
 [arxiv 2023.03]Lformer: Text-to-Image Generation with L-shape Block Parallel Decoding [[PDF](https://arxiv.org/abs/2303.03800)]
@@ -78,9 +76,7 @@
 
 [arxiv 2023.04]Inst-Inpaint: Instructing to Remove Objects with Diffusion Models[[PDF](https://arxiv.org/abs/2304.03246)]
 
-
 [arxiv 2023.04]Harnessing the Spatial-Temporal Attention of Diffusion Models for High-Fidelity Text-to-Image Synthesis [[PDF](https://t.co/GJNrYFA8wS)]
-
 
 ->[arxiv 2023.04]Expressive Text-to-Image Generation with Rich Text [[PDF](https://arxiv.org/abs/2304.06720), [Page](https://rich-text-to-image.github.io/)]
 
@@ -138,6 +134,8 @@
 
 *[arxiv 2022.12]Multi-Concept Customization of Text-to-Image Diffusion \[[PDF](https://arxiv.org/abs/2212.04488), [Page](https://www.cs.cmu.edu/~custom-diffusion/), [code](https://github.com/adobe-research/custom-diffusion)\]
 
+[arxiv 2023.02]ELITE: Encoding Visual Concepts into Textual Embeddings for Customized Text-to-Image Generation [[PDF](https://arxiv.org/abs/2302.13848)]
+
 [arxiv 2023.02, tel]Designing an Encoder for Fast Personalization of Text-to-Image Models [[PDF](https://arxiv.org/abs/2302.12228), [Page](https://tuning-encoder.github.io/)]
 
 [arxiv 2023.03]P+: Extended Textual Conditioning in Text-to-Image Generation [[PDF](https://prompt-plus.github.io/files/PromptPlus.pdf)]
@@ -150,8 +148,9 @@
 
 [arxiv 2023.05]DisenBooth: Disentangled Parameter-Efficient Tuning for Subject-Driven Text-to-Image Generation [[PDF](https://arxiv.org/abs/2305.03374)]
 
-[arxiv 2023.06]Cones 2: Customizable Image Synthesis with Multiple Subjects [[PDF](https://arxiv.org/abs/2305.19327)]
+->[arxiv 2023.05]BLIP-Diffusion: Pre-trained Subject Representation for Controllable Text-to-Image Generation and Editing [[PDF](https://arxiv.org/abs/2305.14720), [Page](https://github.com/salesforce/LAVIS/tree/main/projects/blip-diffusion)]
 
+[arxiv 2023.06]Cones 2: Customizable Image Synthesis with Multiple Subjects [[PDF](https://arxiv.org/abs/2305.19327)]
 
 
 ## Story-telling
@@ -284,8 +283,6 @@
 [arxiv 2023.05]Prompt-Free Diffusion: Taking "Text" out of Text-to-Image Diffusion Models [[PDF](https://arxiv.org/abs/2305.16223), [Page](https://github.com/SHI-Labs/Prompt-Free-Diffusion)]
 
 [arxiv 2023.05]DiffBlender: Scalable and Composable Multimodal Text-to-Image Diffusion Models [[PDF](https://arxiv.org/abs/2305.15194)]
-
-->[arxiv 2023.05]BLIP-Diffusion: Pre-trained Subject Representation for Controllable Text-to-Image Generation and Editing [[PDF](https://arxiv.org/abs/2305.14720), [Page](https://github.com/salesforce/LAVIS/tree/main/projects/blip-diffusion)]
 
 [arxiv 2023.05]MaGIC: Multi-modality Guided Image Completion [[PDF](https://arxiv.org/abs/2305.11818)]
 
