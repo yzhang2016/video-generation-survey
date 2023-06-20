@@ -54,7 +54,7 @@
 
 [arxiv 2023.03]Editing Implicit Assumptions in Text-to-Image Diffusion Models [[PDF](https://arxiv.org/abs/2303.08084), [Page](https://time-diffusion.github.io/)]
 
-[arxiv 2023.03]Highly Personalized Text Embedding for Image Manipulation by Stable Diffusion [[PDF](https://arxiv.org/abs/2303.08767)]
+
 
 
 [arxiv 2023.03]Localizing Object-level Shape Variations with Text-to-Image Diffusion Models [[PDF](https://arxiv.org/abs/2303.11306), [Page](https://orpatashnik.github.io/local-prompt-mixing/)]
@@ -81,8 +81,6 @@
 
 [arxiv 2023.04]An Edit Friendly DDPM Noise Space: Inversion and Manipulations [[PDF](https://arxiv.org/abs/2304.06140)]
 
-->[arxiv 2023.04]Continual Diffusion: Continual Customization of Text-to-Image Diffusion with C-LoRA[[PDF](https://arxiv.org/abs/2304.06027), [Page](https://jamessealesmith.github.io/continual-diffusion/)]
-
 [arxiv 2023.04]Gradient-Free Textual Inversion [[PDF](https://arxiv.org/abs/2304.05818)]
 
 [arxiv 2023.04]Improving Diffusion Models for Scene Text Editing with Dual Encoders [[PDF](https://arxiv.org/pdf/2304.05568.pdf)]
@@ -98,8 +96,6 @@
 [arxiv 2023.05]In-Context Learning Unlocked for Diffusion Models [[PDF](https://arxiv.org/pdf/2305.01115.pdf)]
 
 [arxiv 2023.05]ReGeneration Learning of Diffusion Models with Rich Prompts for Zero-Shot Image Translation [[PDF](https://arxiv.org/abs/2305.04651)]
-
-[arxiv 2023.05]Custom-Edit: Text-Guided Image Editing with Customized Diffusion Models [[PDF](https://arxiv.org/abs/2305.15779)]
 
 [arxiv 2023.05]A Neural Space-Time Representation for Text-to-Image Personalization [[PDF](https://arxiv.org/abs/2305.15391),[Page](https://neuraltextualinversion.github.io/NeTI/)]
 
@@ -139,11 +135,17 @@
 
 [arxiv 2023.03]P+: Extended Textual Conditioning in Text-to-Image Generation [[PDF](https://prompt-plus.github.io/files/PromptPlus.pdf)]
 
+[arxiv 2023.03]Highly Personalized Text Embedding for Image Manipulation by Stable Diffusion [[PDF](https://arxiv.org/abs/2303.08767)]
+
+->[arxiv 2023.04]Continual Diffusion: Continual Customization of Text-to-Image Diffusion with C-LoRA[[PDF](https://arxiv.org/abs/2304.06027), [Page](https://jamessealesmith.github.io/continual-diffusion/)]
+
 [arxiv 2023.04]Controllable Textual Inversion for Personalized Text-to-Image Generation [[PDF](https://arxiv.org/abs/2304.05265)]
 
 *[arxiv 2023.04]InstantBooth: Personalized Text-to-Image Generation without Test-Time Finetuning [[PDF](https://arxiv.org/abs/2304.03411)]
 
 [arxiv 2023.05]Mix-of-Show: Decentralized Low-Rank Adaptation for Multi-Concept Customization of Diffusion Models [[PDF](https://arxiv.org/abs/2305.18292),[Page](https://showlab.github.io/Mix-of-Show/)]
+
+[arxiv 2023.05]Custom-Edit: Text-Guided Image Editing with Customized Diffusion Models [[PDF](https://arxiv.org/abs/2305.15779)]
 
 [arxiv 2023.05]DisenBooth: Disentangled Parameter-Efficient Tuning for Subject-Driven Text-to-Image Generation [[PDF](https://arxiv.org/abs/2305.03374)]
 
