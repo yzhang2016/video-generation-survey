@@ -54,9 +54,6 @@
 
 [arxiv 2023.03]Editing Implicit Assumptions in Text-to-Image Diffusion Models [[PDF](https://arxiv.org/abs/2303.08084), [Page](https://time-diffusion.github.io/)]
 
-
-
-
 [arxiv 2023.03]Localizing Object-level Shape Variations with Text-to-Image Diffusion Models [[PDF](https://arxiv.org/abs/2303.11306), [Page](https://orpatashnik.github.io/local-prompt-mixing/)]
 
 [arxiv 2023.03]SVDiff: Compact Parameter Space for Diffusion Fine-Tuning[[PDF](https://arxiv.org/abs/2303.11305)]
@@ -91,19 +88,13 @@
 
 [arxiv 2023.04]Edit Everything: A Text-Guided Generative System for Images Editing [[PDF](https://arxiv.org/pdf/2304.14006.pdf)]
 
-[Siggraph 2023.05]Key-Locked Rank One Editing for Text-to-Image Personalization [[PDF](https://arxiv.org/abs/2305.01644), [Page](https://research.nvidia.com/labs/par/Perfusion/)]
-
 [arxiv 2023.05]In-Context Learning Unlocked for Diffusion Models [[PDF](https://arxiv.org/pdf/2305.01115.pdf)]
 
 [arxiv 2023.05]ReGeneration Learning of Diffusion Models with Rich Prompts for Zero-Shot Image Translation [[PDF](https://arxiv.org/abs/2305.04651)]
 
-[arxiv 2023.05]A Neural Space-Time Representation for Text-to-Image Personalization [[PDF](https://arxiv.org/abs/2305.15391),[Page](https://neuraltextualinversion.github.io/NeTI/)]
-
 [arxiv 2023.05]RAPHAEL: Text-to-Image Generation via Large Mixture of Diffusion Paths [[PDF](https://arxiv.org/abs/2305.18295)]
 
 [arxiv 2023.05]Controllable Text-to-Image Generation with GPT-4 [[PDF](https://arxiv.org/abs/2305.18583)]
-
-[arxiv 2023.05]PHOTOSWAP:Personalized Subject Swapping in Images [[PDF](https://arxiv.org/abs/2305.18286)]
 
 [arxiv 2023.06]Diffusion Self-Guidance for Controllable Image Generation [[PDF](https://arxiv.org/abs/2306.00986), [Page](https://dave.ml/selfguidance/)]
 
@@ -148,6 +139,12 @@
 [arxiv 2023.05]Custom-Edit: Text-Guided Image Editing with Customized Diffusion Models [[PDF](https://arxiv.org/abs/2305.15779)]
 
 [arxiv 2023.05]DisenBooth: Disentangled Parameter-Efficient Tuning for Subject-Driven Text-to-Image Generation [[PDF](https://arxiv.org/abs/2305.03374)]
+
+[arxiv 2023.05]PHOTOSWAP:Personalized Subject Swapping in Images [[PDF](https://arxiv.org/abs/2305.18286)]
+
+[Siggraph 2023.05]Key-Locked Rank One Editing for Text-to-Image Personalization [[PDF](https://arxiv.org/abs/2305.01644), [Page](https://research.nvidia.com/labs/par/Perfusion/)]
+
+[arxiv 2023.05]A Neural Space-Time Representation for Text-to-Image Personalization [[PDF](https://arxiv.org/abs/2305.15391),[Page](https://neuraltextualinversion.github.io/NeTI/)]
 
 ->[arxiv 2023.05]BLIP-Diffusion: Pre-trained Subject Representation for Controllable Text-to-Image Generation and Editing [[PDF](https://arxiv.org/abs/2305.14720), [Page](https://github.com/salesforce/LAVIS/tree/main/projects/blip-diffusion)]
 
