@@ -38,7 +38,6 @@
 
 [arxiv 2023.01]Guiding Text-to-Image Diffusion Model Towards Grounded Generation [[PDF](https://arxiv.org/pdf/2301.05221.pdf), [Page](https://lipurple.github.io/Grounded_Diffusion/)]
 
-
 [arxiv 2023.02, Adobe]Controlled and Conditional Text to Image Generation with Diffusion Prior [[PDF](https://arxiv.org/abs/2302.11710)]
 
 [arxiv 2023.02]Learning Input-agnostic Manipulation Directions in StyleGAN with Text Guidance [[PDF](https://arxiv.org/abs/2302.13331)]
@@ -48,8 +47,6 @@
 [arxiv 2023.03]X&Fuse: Fusing Visual Information in Text-to-Image Generation [[PDF](https://arxiv.org/abs/2303.01000)]
 
 [arxiv 2023.03]Lformer: Text-to-Image Generation with L-shape Block Parallel Decoding [[PDF](https://arxiv.org/abs/2303.03800)]
-
-[arxiv 2023.03]Cones: Concept Neurons in Diffusion Models for Customized Generation [[PDF](https://arxiv.org/abs/2303.05125)]
 
 [arxiv 2023.03]CoralStyleCLIP: Co-optimized Region and Layer Selection for Image Editing [[PDF](https://arxiv.org/abs/2303.05031)]
 
@@ -137,6 +134,8 @@
 [arxiv 2023.02]ELITE: Encoding Visual Concepts into Textual Embeddings for Customized Text-to-Image Generation [[PDF](https://arxiv.org/abs/2302.13848)]
 
 [arxiv 2023.02, tel]Designing an Encoder for Fast Personalization of Text-to-Image Models [[PDF](https://arxiv.org/abs/2302.12228), [Page](https://tuning-encoder.github.io/)]
+
+[arxiv 2023.03]Cones: Concept Neurons in Diffusion Models for Customized Generation [[PDF](https://arxiv.org/abs/2303.05125)]
 
 [arxiv 2023.03]P+: Extended Textual Conditioning in Text-to-Image Generation [[PDF](https://prompt-plus.github.io/files/PromptPlus.pdf)]
 
