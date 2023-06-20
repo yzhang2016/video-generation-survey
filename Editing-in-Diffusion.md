@@ -150,6 +150,8 @@
 
 [arxiv 2023.06]Cones 2: Customizable Image Synthesis with Multiple Subjects [[PDF](https://arxiv.org/abs/2305.19327)]
 
+[arxiv 2023.06]Inserting Anybody in Diffusion Models via Celeb Basis [[PDF](https://arxiv.org/abs/2306.00926), [Page](https://celeb-basis.github.io/)]
+
 
 ## Story-telling
 
