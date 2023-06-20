@@ -3,8 +3,6 @@
 
 ## Editing 
 
-*[Arxiv.2208; NVIDIA]  ***An Image is Worth One Word:*** Personalizing Text-to-Image Generation using Textual Inversion [[PDF](https://arxiv.org/abs/2208.01618), [Page](https://github.com/rinongal/textual_inversion), [Code](https://github.com/rinongal/textual_inversion) ]
-
 *[ICLR2022; Stanford & CMU] ***SDEdit:*** Guided Image Synthesis and Editing with Stochastic Differential Equations [[PDF](https://arxiv.org/pdf/2108.01073.pdf), [Page](https://sde-image-editing.github.io/)]
 
 *[arxiv 22.08; meta] ***Prompt-to-Prompt*** Image Editing with Cross Attention Control [[PDF](https://arxiv.org/abs/2208.01626) ]
@@ -12,8 +10,6 @@
 [arxiv 22.08; Scale AI] ***Direct Inversion***: Optimization-Free Text-Driven Real Image Editing with Diffusion Models [[PDF](https://arxiv.org/pdf/2211.07825)]
 
 [arxiv 22.11; UC Berkeley] ***InstructPix2Pix***: Learning to Follow Image Editing Instructions [[PDF](https://arxiv.org/pdf/2211.09800.pdf), [Page](https://www.timothybrooks.com/instruct-pix2pix)]
-
-[NIPS 22; google] ***DreamBooth***: Fine Tuning Text-to-Image Diffusion Models for Subject-Driven Generation [[PDF](https://arxiv.org/abs/2208.12242), [Page](https://dreambooth.github.io/), [Code](https://github.com/XavierXiao/Dreambooth-Stable-Diffusion)]
 
 [arxiv 2022; Nvidia ] eDiffi: Text-to-Image Diffusion Models with an Ensemble of Expert Denoisers \[[PDF](https://arxiv.org/pdf/2211.01324.pdf), Code\]
 
@@ -24,7 +20,6 @@
 [arxiv 2022] ***DiffIT***: Diffusion-based Image Translation Using Disentangled Style and Content Repesentation [[Paper]](https://openreview.net/pdf?id=Nayau9fwXU)  
 
 [arxiv 2022] Dual Diffusion Implicit Bridges for Image-to-image Translation [[Paper]](https://openreview.net/pdf?id=5HLoTvVGDe)  
-
 *[ICLR 23, Google] Classifier-free Diffusion Guidance [[Paper]](https://arxiv.org/pdf/2207.12598.pdf)
 
 [arxiv 2022] ***EDICT***: Exact Diffusion Inversion via Coupled Transformations \[[PDF](https://arxiv.org/abs/2211.12446)\]  
@@ -32,8 +27,6 @@
 [arxiv 22.11] ***Paint by Example***: Exemplar-based Image Editing with Diffusion Models [[PDF]](https://arxiv.org/abs/2211.13227)  
 
 [arxiv 2022.10; ByteDance]MagicMix: Semantic Mixing with Diffusion Models [[PDF]](https://arxiv.org/abs/2210.16056)  
-
-[arxiv 2022.12; UT] Multiresolution Textual Inversion [[PDF]](https://arxiv.org/abs/2210.16056)  
 
 [arxiv 2022.12; Microsoft]X-Paste: Revisit Copy-Paste at Scale with CLIP and StableDiffusion\[[PDF](https://arxiv.org/pdf/2212.03863.pdf)\]
 
@@ -45,7 +38,6 @@
 
 [arxiv 2023.01]Guiding Text-to-Image Diffusion Model Towards Grounded Generation [[PDF](https://arxiv.org/pdf/2301.05221.pdf), [Page](https://lipurple.github.io/Grounded_Diffusion/)]
 
-[arxiv 2023.02, tel]Designing an Encoder for Fast Personalization of Text-to-Image Models [[PDF](https://arxiv.org/abs/2302.12228), [Page](https://tuning-encoder.github.io/)]
 
 [arxiv 2023.02, Adobe]Controlled and Conditional Text to Image Generation with Diffusion Prior [[PDF](https://arxiv.org/abs/2302.11710)]
 
@@ -69,7 +61,6 @@
 
 [arxiv 2023.03]Highly Personalized Text Embedding for Image Manipulation by Stable Diffusion [[PDF](https://arxiv.org/abs/2303.08767)]
 
-[arxiv 2023.03]P+: Extended Textual Conditioning in Text-to-Image Generation [[PDF](https://prompt-plus.github.io/files/PromptPlus.pdf)]
 
 [arxiv 2023.03]Localizing Object-level Shape Variations with Text-to-Image Diffusion Models [[PDF](https://arxiv.org/abs/2303.11306), [Page](https://orpatashnik.github.io/local-prompt-mixing/)]
 
@@ -87,11 +78,9 @@
 
 [arxiv 2023.04]Inst-Inpaint: Instructing to Remove Objects with Diffusion Models[[PDF](https://arxiv.org/abs/2304.03246)]
 
-*[arxiv 2023.04]InstantBooth: Personalized Text-to-Image Generation without Test-Time Finetuning [[PDF](https://arxiv.org/abs/2304.03411)]
 
 [arxiv 2023.04]Harnessing the Spatial-Temporal Attention of Diffusion Models for High-Fidelity Text-to-Image Synthesis [[PDF](https://t.co/GJNrYFA8wS)]
 
-[arxiv 2023.04]Controllable Textual Inversion for Personalized Text-to-Image Generation [[PDF](https://arxiv.org/abs/2304.05265)]
 
 ->[arxiv 2023.04]Expressive Text-to-Image Generation with Rich Text [[PDF](https://arxiv.org/abs/2304.06720), [Page](https://rich-text-to-image.github.io/)]
 
@@ -115,8 +104,6 @@
 
 [arxiv 2023.05]In-Context Learning Unlocked for Diffusion Models [[PDF](https://arxiv.org/pdf/2305.01115.pdf)]
 
-[arxiv 2023.05]DisenBooth: Disentangled Parameter-Efficient Tuning for Subject-Driven Text-to-Image Generation [[PDF](https://arxiv.org/abs/2305.03374)]
-
 [arxiv 2023.05]ReGeneration Learning of Diffusion Models with Rich Prompts for Zero-Shot Image Translation [[PDF](https://arxiv.org/abs/2305.04651)]
 
 [arxiv 2023.05]Custom-Edit: Text-Guided Image Editing with Customized Diffusion Models [[PDF](https://arxiv.org/abs/2305.15779)]
@@ -126,8 +113,6 @@
 [arxiv 2023.05]RAPHAEL: Text-to-Image Generation via Large Mixture of Diffusion Paths [[PDF](https://arxiv.org/abs/2305.18295)]
 
 [arxiv 2023.05]Controllable Text-to-Image Generation with GPT-4 [[PDF](https://arxiv.org/abs/2305.18583)]
-
-[arxiv 2023.05]Mix-of-Show: Decentralized Low-Rank Adaptation for Multi-Concept Customization of Diffusion Models [[PDF](https://arxiv.org/abs/2305.18292),[Page](https://showlab.github.io/Mix-of-Show/)]
 
 [arxiv 2023.05]PHOTOSWAP:Personalized Subject Swapping in Images [[PDF](https://arxiv.org/abs/2305.18286)]
 
@@ -142,6 +127,30 @@
 ->[arxiv 2023.06]Paste, Inpaint and Harmonize via Denoising: Subject-Driven Image Editing with Pre-Trained Diffusion Model [[PDF](https://arxiv.org/abs/2306.07596)]
 
 [arxiv 2023.06]Controlling Text-to-Image Diffusion by Orthogonal Finetuning [[PDF](https://arxiv.org/abs/2306.07280)]
+
+
+## Concept 
+*[Arxiv.2208; NVIDIA]  ***An Image is Worth One Word:*** Personalizing Text-to-Image Generation using Textual Inversion [[PDF](https://arxiv.org/abs/2208.01618), [Page](https://github.com/rinongal/textual_inversion), [Code](https://github.com/rinongal/textual_inversion) ]
+
+[NIPS 22; google] ***DreamBooth***: Fine Tuning Text-to-Image Diffusion Models for Subject-Driven Generation [[PDF](https://arxiv.org/abs/2208.12242), [Page](https://dreambooth.github.io/), [Code](https://github.com/XavierXiao/Dreambooth-Stable-Diffusion)]
+
+[arxiv 2022.12; UT] Multiresolution Textual Inversion [[PDF]](https://arxiv.org/abs/2210.16056)  
+
+*[arxiv 2022.12]Multi-Concept Customization of Text-to-Image Diffusion \[[PDF](https://arxiv.org/abs/2212.04488), [Page](https://www.cs.cmu.edu/~custom-diffusion/), [code](https://github.com/adobe-research/custom-diffusion)\]
+
+[arxiv 2023.02, tel]Designing an Encoder for Fast Personalization of Text-to-Image Models [[PDF](https://arxiv.org/abs/2302.12228), [Page](https://tuning-encoder.github.io/)]
+
+[arxiv 2023.03]P+: Extended Textual Conditioning in Text-to-Image Generation [[PDF](https://prompt-plus.github.io/files/PromptPlus.pdf)]
+
+[arxiv 2023.04]Controllable Textual Inversion for Personalized Text-to-Image Generation [[PDF](https://arxiv.org/abs/2304.05265)]
+
+*[arxiv 2023.04]InstantBooth: Personalized Text-to-Image Generation without Test-Time Finetuning [[PDF](https://arxiv.org/abs/2304.03411)]
+
+[arxiv 2023.05]Mix-of-Show: Decentralized Low-Rank Adaptation for Multi-Concept Customization of Diffusion Models [[PDF](https://arxiv.org/abs/2305.18292),[Page](https://showlab.github.io/Mix-of-Show/)]
+
+[arxiv 2023.05]DisenBooth: Disentangled Parameter-Efficient Tuning for Subject-Driven Text-to-Image Generation [[PDF](https://arxiv.org/abs/2305.03374)]
+
+[arxiv 2023.06]Cones 2: Customizable Image Synthesis with Multiple Subjects [[PDF](https://arxiv.org/abs/2305.19327)]
 
 
 
@@ -212,7 +221,7 @@
 
 [arxiv 2022.12]Towards Practical Plug-and-Play Diffusion Models [[PDF](https://arxiv.org/pdf/2212.05973.pdf)]
 
-*[arxiv 2022.12]Multi-Concept Customization of Text-to-Image Diffusion \[[PDF](https://arxiv.org/abs/2212.04488), [Page](https://www.cs.cmu.edu/~custom-diffusion/), [code](https://github.com/adobe-research/custom-diffusion)\]
+
 
 [arxiv 2023.01]Attend-and-Excite: Attention-Based Semantic Guidance for Text-to-Image Diffusion Models[[PDF](https://arxiv.org/abs/2301.13826)]
 
@@ -284,7 +293,6 @@
 
 [arxiv 2023.06]Cocktail: Mixing Multi-Modality Controls for Text-Conditional Image Generation [[PDF](https://arxiv.org/abs/2306.00964), [Page](https://mhh0318.github.io/cocktail/)]
 
-[arxiv 2023.06]Cones 2: Customizable Image Synthesis with Multiple Subjects [[PDF](https://arxiv.org/abs/2305.19327)]
 
 [arxiv 2023.06]Grounded Text-to-Image Synthesis with Attention Refocusing [[PDF](https://arxiv.org/abs/2306.05427), [Page](https://attention-refocusing.github.io/), [Code](https://github.com/Attention-Refocusing/attention-refocusing)]
 
