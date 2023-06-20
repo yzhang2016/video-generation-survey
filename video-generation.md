@@ -162,7 +162,7 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2023.05] ControlVideo: Adding Conditional Control for One Shot Text-to-Video Editing [[PDF](https://arxiv.org/pdf/2305.17098.pdf), [Page](https://ml.cs.tsinghua.edu.cn/controlvideo/)]
 
-[arxiv 2023.05]Gen-L-Video: Multi-Text to Long Video Generation via Temporal Co-Denoising [[PDF](https://arxiv.org/abs/2305.18264)]
+[arxiv 2023.05]Gen-L-Video: Multi-Text to Long Video Generation via Temporal Co-Denoising [[PDF](https://arxiv.org/abs/2305.18264),[Page](https://g-u-n.github.io/projects/gen-long-video/index.html)]
 
 ->[arxiv 2023.05]Preserve Your Own Correlation: A Noise Prior for Video Diffusion Models [[PDF](https://arxiv.org/abs/2305.10474),[Page](https://research.nvidia.com/labs/dir/pyoco/)]
 
