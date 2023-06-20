@@ -142,9 +142,9 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2023.03]Pix2Video: Video Editing using Image Diffusion [[PDF](https://arxiv.org/abs/2303.12688)]
 
-[arxiv 2023.03]Text2Video-Zero: Text-to-Image Diffusion Models are Zero-Shot Video Generators [[PDF](https://arxiv.org/abs/2303.13439), [code](https://github.com/Picsart-AI-Research/Text2Video-Zero)]
+->[arxiv 2023.03]Text2Video-Zero: Text-to-Image Diffusion Models are Zero-Shot Video Generators [[PDF](https://arxiv.org/abs/2303.13439), [code](https://github.com/Picsart-AI-Research/Text2Video-Zero)]
 
-[arxiv 2023.03]Conditional Image-to-Video Generation with Latent Flow Diffusion Models [[PDF](https://arxiv.org/abs/2303.13744)]
+->[arxiv 2023.03]Conditional Image-to-Video Generation with Latent Flow Diffusion Models [[PDF](https://arxiv.org/abs/2303.13744)]
 
 [arxiv 2023.03]Zero-Shot Video Editing Using Off-The-Shelf Image Diffusion Models[[PDF](https://arxiv.org/abs/2303.17599),[code](https://github.com/baaivision/vid2vid-zero)]
 
@@ -165,6 +165,8 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 [arxiv 2023.05] ControlVideo: Adding Conditional Control for One Shot Text-to-Video Editing [[PDF](https://arxiv.org/pdf/2305.17098.pdf), [Page](https://ml.cs.tsinghua.edu.cn/controlvideo/)]
 
 [arxiv 2023.05]Gen-L-Video: Multi-Text to Long Video Generation via Temporal Co-Denoising [[PDF](https://arxiv.org/abs/2305.18264)]
+
+->[arxiv 2023.05]Preserve Your Own Correlation: A Noise Prior for Video Diffusion Models [[PDF](https://arxiv.org/abs/2305.10474),[Page](https://research.nvidia.com/labs/dir/pyoco/)]
 
 [arxiv 2023.06]Make-Your-Video: Customized Video Generation Using Textual and Structural Guidance [[PDF](https://arxiv.org/abs/2306.00943), [Page](https://doubiiu.github.io/projects/Make-Your-Video/)]
 
