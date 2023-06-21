@@ -321,6 +321,7 @@
 
 [arxiv 2023.05]UDPM: Upsampling Diffusion Probabilistic Models [[PDF](https://arxiv.org/abs/2305.16269)]
 
+[arxiv 2023.06]Image Harmonization with Diffusion Model [[PDF](https://arxiv.org/abs/2306.10441)]
 
 
 ## Style transfer 
@@ -374,6 +375,7 @@
 
 [arxiv 2023.06]Fast Diffusion Model [[PDF](https://arxiv.org/abs/2306.06991)]
 
+[arxiv 2023.06]Masked Diffusion Models are Fast Learners [[PDF](https://arxiv.org/abs/2306.11363)]
 
 ## Study 
 [CVPR 2023]Diffusion Art or Digital Forgery? Investigating Data Replication in Diffusion Models [[PDF](https://openaccess.thecvf.com/content/CVPR2023/papers/Somepalli_Diffusion_Art_or_Digital_Forgery_Investigating_Data_Replication_in_Diffusion_CVPR_2023_paper.pdf)]
@@ -428,7 +430,7 @@
 
 [arxiv 2023.03]One Transformer Fits All Distributions in Multi-Modal Diffusion at Scale [[PDF](https://arxiv.org/pdf/2303.06285.pdf)]
 
-
+[arxiv 2023.03]Align, Adapt and Inject: Sound-guided Unified Image Generation [[PDF](https://arxiv.org/pdf/2306.11504.pdf)]
 
 ## Repository
 ***DIFFUSERS*** Hugging-face sota repository. \[[DIFFUSERS](https://github.com/huggingface/diffusers)\]
