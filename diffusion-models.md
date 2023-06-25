@@ -30,6 +30,9 @@
 
 [arxiv 2023.06]Multi-Architecture Multi-Expert Diffusion Models [[PDF](https://arxiv.org/pdf/2306.04990.pdf)]
 
+[arxiv 2023.06]Semi-Implicit Denoising Diffusion Models [[PDF](https://arxiv.org/abs/2306.12511)]
+
+
 ## Architecture
 [arxiv 2023.03]Masked Diffusion Transformer is a Strong Image Synthesizer [[PDF](https://arxiv.org/abs/2303.14389)]
 
