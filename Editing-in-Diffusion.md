@@ -220,8 +220,6 @@
 
 [arxiv 2022.12]Towards Practical Plug-and-Play Diffusion Models [[PDF](https://arxiv.org/pdf/2212.05973.pdf)]
 
-
-
 [arxiv 2023.01]Attend-and-Excite: Attention-Based Semantic Guidance for Text-to-Image Diffusion Models[[PDF](https://arxiv.org/abs/2301.13826)]
 
 [arxiv 2023.02]Zero-shot Image-to-Image Translation [[PDF](https://arxiv.org/abs/2302.03027), [Page](https://pix2pixzero.github.io/)]
@@ -290,7 +288,6 @@
 
 [arxiv 2023.06]Cocktail: Mixing Multi-Modality Controls for Text-Conditional Image Generation [[PDF](https://arxiv.org/abs/2306.00964), [Page](https://mhh0318.github.io/cocktail/)]
 
-
 [arxiv 2023.06]Grounded Text-to-Image Synthesis with Attention Refocusing [[PDF](https://arxiv.org/abs/2306.05427), [Page](https://attention-refocusing.github.io/), [Code](https://github.com/Attention-Refocusing/attention-refocusing)]
 
 [arxiv 2023.06]Energy-Based Cross Attention for Bayesian Context Update in Text-to-Image Diffusion Models [[PDF](https://arxiv.org/pdf/2306.09869.pdf)]
@@ -301,7 +298,7 @@
 
 [arxiv 2023.06]Linguistic Binding in Diffusion Models: Enhancing Attribute Correspondence through Attention Map Alignment [[PDF](https://arxiv.org/abs/2306.08877)]
 
-
+[arxiv 2023.06]Continuous Layout Editing of Single Images with Diffusion Models [[PDF](https://arxiv.org/pdf/2306.13078.pdf)]
 
 
 ## Super-Resolution & restoration
