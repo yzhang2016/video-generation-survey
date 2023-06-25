@@ -300,6 +300,8 @@
 
 [arxiv 2023.06]Continuous Layout Editing of Single Images with Diffusion Models [[PDF](https://arxiv.org/pdf/2306.13078.pdf)]
 
+[arxiv 2023.06]DreamEdit: Subject-driven Image Editing [[PDF](https://arxiv.org/abs/2306.12624),[Page](https://dreameditbenchteam.github.io/)]
+
 
 ## Super-Resolution & restoration
 [arxiv 2022.12]ADIR: Adaptive Diffusion for Image Reconstruction  \[[PDF](https://shadyabh.github.io/ADIR/ADIR_files/ADIR.pdf)
