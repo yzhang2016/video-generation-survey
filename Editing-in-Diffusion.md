@@ -108,6 +108,8 @@
 
 [arxiv 2023.06]Controlling Text-to-Image Diffusion by Orthogonal Finetuning [[PDF](https://arxiv.org/abs/2306.07280)]
 
+[arxiv 2023.06]Localized Text-to-Image Generation for Free via Cross Attention Control[[PDF](https://arxiv.org/abs/2306.14636)]
+
 
 ## Concept 
 *[Arxiv.2208; NVIDIA]  ***An Image is Worth One Word:*** Personalizing Text-to-Image Generation using Textual Inversion [[PDF](https://arxiv.org/abs/2208.01618), [Page](https://github.com/rinongal/textual_inversion), [Code](https://github.com/rinongal/textual_inversion) ]
@@ -151,6 +153,11 @@
 [arxiv 2023.06]Cones 2: Customizable Image Synthesis with Multiple Subjects [[PDF](https://arxiv.org/abs/2305.19327)]
 
 [arxiv 2023.06]Inserting Anybody in Diffusion Models via Celeb Basis [[PDF](https://arxiv.org/abs/2306.00926), [Page](https://celeb-basis.github.io/)]
+
+->[arxiv 2023.06]A-STAR: Test-time Attention Segregation and Retention for Text-to-image Synthesis
+[[PDF](https://arxiv.org/pdf/2306.14544.pdf)]
+
+
 
 
 ## Story-telling
@@ -202,6 +209,7 @@
 
 [arxiv 2023.06]Image Vectorization: a Review [[PDF](https://arxiv.org/abs/2306.06441)]
 
+[arxiv 2023.06]DiffSketcher: Text Guided Vector Sketch Synthesis through Latent Diffusion Models[[PDF](https://arxiv.org/abs/2306.14685)]
 
 ## Translation & composition
 [arxiv 2022; Google]Sketch-Guided Text-to-Image Diffusion Models \[[PDF](https://arxiv.org/pdf/2211.13752.pdf), code\]  
@@ -302,6 +310,11 @@
 
 [arxiv 2023.06]DreamEdit: Subject-driven Image Editing [[PDF](https://arxiv.org/abs/2306.12624),[Page](https://dreameditbenchteam.github.io/)]
 
+[arxiv 2023.06]Decompose and Realign: Tackling Condition Misalignment in Text-to-Image Diffusion Models [[PDF](https://arxiv.org/pdf/2306.14408.pdf)]
+
+[arxiv 2023.06]Zero-shot spatial layout conditioning for text-to-image diffusion models [[PDF](https://arxiv.org/pdf/2306.13754.pdf)]
+
+
 
 ## Super-Resolution & restoration
 [arxiv 2022.12]ADIR: Adaptive Diffusion for Image Reconstruction  \[[PDF](https://shadyabh.github.io/ADIR/ADIR_files/ADIR.pdf)
@@ -375,6 +388,10 @@
 [arxiv 2023.06]Fast Diffusion Model [[PDF](https://arxiv.org/abs/2306.06991)]
 
 [arxiv 2023.06]Masked Diffusion Models are Fast Learners [[PDF](https://arxiv.org/abs/2306.11363)]
+
+## limited data 
+[arxiv 2023.06]Decompose and Realign: Tackling Condition Misalignment in Text-to-Image Diffusion Models [[PDF](https://arxiv.org/abs/2306.14153)]
+
 
 ## Study 
 [CVPR 2023]Diffusion Art or Digital Forgery? Investigating Data Replication in Diffusion Models [[PDF](https://openaccess.thecvf.com/content/CVPR2023/papers/Somepalli_Diffusion_Art_or_Digital_Forgery_Investigating_Data_Replication_in_Diffusion_CVPR_2023_paper.pdf)]
