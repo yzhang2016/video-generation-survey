@@ -164,7 +164,7 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2023.05]Gen-L-Video: Multi-Text to Long Video Generation via Temporal Co-Denoising [[PDF](https://arxiv.org/abs/2305.18264),[Page](https://g-u-n.github.io/projects/gen-long-video/index.html)]
 
-->[arxiv 2023.05]Preserve Your Own Correlation: A Noise Prior for Video Diffusion Models [[PDF](https://arxiv.org/abs/2305.10474),[Page](https://research.nvidia.com/labs/dir/pyoco/)]
+*[arxiv 2023.05]Preserve Your Own Correlation: A Noise Prior for Video Diffusion Models [[PDF](https://arxiv.org/abs/2305.10474),[Page](https://research.nvidia.com/labs/dir/pyoco/)]
 
 [arxiv 2023.06]Make-Your-Video: Customized Video Generation Using Textual and Structural Guidance [[PDF](https://arxiv.org/abs/2306.00943), [Page](https://doubiiu.github.io/projects/Make-Your-Video/)]
 
