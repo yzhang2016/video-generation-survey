@@ -32,6 +32,8 @@
 
 [arxiv 2023.06]Semi-Implicit Denoising Diffusion Models [[PDF](https://arxiv.org/abs/2306.12511)]
 
+[arxiv 2023.06]Decoupled Diffusion Models with Explicit Transition Probability [[PDF](https://arxiv.org/pdf/2306.13720.pdf)]
+
 
 ## Architecture
 [arxiv 2023.03]Masked Diffusion Transformer is a Strong Image Synthesizer [[PDF](https://arxiv.org/abs/2303.14389)]
