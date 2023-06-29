@@ -314,7 +314,7 @@
 
 [arxiv 2023.06]Zero-shot spatial layout conditioning for text-to-image diffusion models [[PDF](https://arxiv.org/pdf/2306.13754.pdf)]
 
-
+[arxiv 2023.06]MVDiffusion: Enabling Holistic Multi-view Image Generation with Correspondence-Aware Diffusion[[PDF],[Page](https://mvdiffusion.github.io/)]
 
 ## Super-Resolution & restoration
 [arxiv 2022.12]ADIR: Adaptive Diffusion for Image Reconstruction  \[[PDF](https://shadyabh.github.io/ADIR/ADIR_files/ADIR.pdf)
