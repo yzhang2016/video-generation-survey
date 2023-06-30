@@ -110,6 +110,10 @@
 
 [arxiv 2023.06]Localized Text-to-Image Generation for Free via Cross Attention Control[[PDF](https://arxiv.org/abs/2306.14636)]
 
+[arxiv 2023.06]Filtered-Guided Diffusion: Fast Filter Guidance for Black-Box Diffusion Models [[PDF](https://arxiv.org/abs/2306.17141)]
+
+[arxiv 2023.06]PFB-Diff: Progressive Feature Blending Diffusion for Text-driven Image Editing [[PDF](https://arxiv.org/abs/2306.16894)]
+
 
 ## Concept 
 *[Arxiv.2208; NVIDIA]  ***An Image is Worth One Word:*** Personalizing Text-to-Image Generation using Textual Inversion [[PDF](https://arxiv.org/abs/2208.01618), [Page](https://github.com/rinongal/textual_inversion), [Code](https://github.com/rinongal/textual_inversion) ]
@@ -157,7 +161,7 @@
 ->[arxiv 2023.06]A-STAR: Test-time Attention Segregation and Retention for Text-to-image Synthesis
 [[PDF](https://arxiv.org/pdf/2306.14544.pdf)]
 
-
+[arxiv 2023.06]Generate Anything Anywhere in Any Scene [[PDF](https://arxiv.org/abs/2306.17154),[Page](https://yuheng-li.github.io/PACGen/)]
 
 
 ## Story-telling
