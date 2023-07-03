@@ -128,9 +128,6 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2023.06]VideoComposer: Compositional Video Synthesis with Motion Controllability [[PDF](https://arxiv.org/abs/2306.02018)]
 
-*[arxiv 2023.03]Conditional Image-to-Video Generation with Latent Flow Diffusion Models [[PDF](https://arxiv.org/abs/2303.13744)]
-
-
 
 ## Image Model for video generation and editing 
 *[arxiv 2022.12]Tune-A-Video: One-Shot Tuning of Image Diffusion Models for Text-to-Video Generation [[PDF](https://arxiv.org/abs/2212.11565), [Page](https://tuneavideo.github.io/)]
@@ -177,8 +174,12 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 *[arxiv 2023.03]Seer: Language Instructed Video Prediction with Latent Diffusion Models [[PDF](https://arxiv.org/abs/2303.14897)]
 
+
 ## animation 
 [arxiv 2023.05]LEO: Generative Latent Image Animator for Human Video Synthesis [[PDF](https://arxiv.org/abs/2305.03989),[Page](https://wyhsirius.github.io/LEO-project/)]
+
+*[arxiv 2023.03]Conditional Image-to-Video Generation with Latent Flow Diffusion Models [[PDF](https://arxiv.org/abs/2303.13744)]
+
 
 ## domain transfer 
 [arxiv 2023.06]Probabilistic Adaptation of Text-to-Video Models [[PDF](https://arxiv.org/abs/2306.01872)]
