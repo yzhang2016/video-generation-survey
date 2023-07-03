@@ -113,7 +113,7 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 *[arxiv 2023.04]Align your Latents: High-Resolution Video Synthesis with Latent Diffusion Models [[PDF](https://arxiv.org/abs/2304.08818), [Page](https://research.nvidia.com/labs/toronto-ai/VideoLDM/)]
 
-[arxiv 2023.04]LaMD: Latent Motion Diffusion for Video Generation [[PDF](https://arxiv.org/abs/2304.11603)]
+*[arxiv 2023.04]LaMD: Latent Motion Diffusion for Video Generation [[PDF](https://arxiv.org/abs/2304.11603)]
 
 *[arxiv 2023.05]Preserve Your Own Correlation: A Noise Prior for Video Diffusion Models[[PDF](https://arxiv.org/pdf/2305.10474.pdf), [Page](https://research.nvidia.com/labs/dir/pyoco/)]
 
