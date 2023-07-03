@@ -113,7 +113,7 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 *[arxiv 2023.04]Align your Latents: High-Resolution Video Synthesis with Latent Diffusion Models [[PDF](https://arxiv.org/abs/2304.08818), [Page](https://research.nvidia.com/labs/toronto-ai/VideoLDM/)]
 
-*[arxiv 2023.04]LaMD: Latent Motion Diffusion for Video Generation [[PDF](https://arxiv.org/abs/2304.11603)]
+[arxiv 2023.04]LaMD: Latent Motion Diffusion for Video Generation [[PDF](https://arxiv.org/abs/2304.11603)]
 
 *[arxiv 2023.05]Preserve Your Own Correlation: A Noise Prior for Video Diffusion Models[[PDF](https://arxiv.org/pdf/2305.10474.pdf), [Page](https://research.nvidia.com/labs/dir/pyoco/)]
 
@@ -128,6 +128,7 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2023.06]VideoComposer: Compositional Video Synthesis with Motion Controllability [[PDF](https://arxiv.org/abs/2306.02018)]
 
+*[arxiv 2023.03]Conditional Image-to-Video Generation with Latent Flow Diffusion Models [[PDF](https://arxiv.org/abs/2303.13744)]
 
 
 
@@ -143,8 +144,6 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 [arxiv 2023.03]Pix2Video: Video Editing using Image Diffusion [[PDF](https://arxiv.org/abs/2303.12688)]
 
 ->[arxiv 2023.03]Text2Video-Zero: Text-to-Image Diffusion Models are Zero-Shot Video Generators [[PDF](https://arxiv.org/abs/2303.13439), [code](https://github.com/Picsart-AI-Research/Text2Video-Zero)]
-
-->[arxiv 2023.03]Conditional Image-to-Video Generation with Latent Flow Diffusion Models [[PDF](https://arxiv.org/abs/2303.13744)]
 
 [arxiv 2023.03]Zero-Shot Video Editing Using Off-The-Shelf Image Diffusion Models[[PDF](https://arxiv.org/abs/2303.17599),[code](https://github.com/baaivision/vid2vid-zero)]
 
