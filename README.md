@@ -26,7 +26,7 @@ Sub-topic
 
 * [Video-SR](https://github.com/yzhang2016/video-generation-survey/blob/main/Video-SR.md)
 
-* [Video-Motion](https://github.com/yzhang2016/video-generation-survey/blob/main/Video-Motion)
+* [Video-Motion](https://github.com/yzhang2016/video-generation-survey/blob/main/Video-Motion.md)
 
 * [Video-Long](https://github.com/yzhang2016/video-generation-survey/blob/main/Video-Long)
 
