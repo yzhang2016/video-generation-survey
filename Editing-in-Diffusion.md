@@ -116,6 +116,8 @@
 
 [arxiv 2023.07]Counting Guidance for High Fidelity Text-to-Image Synthesis [[PDF](https://arxiv.org/pdf/2306.17567.pdf)]
 
+[arxiv 2023.07]LEDITS: Real Image Editing with DDPM Inversion and Semantic Guidance [[PDF](https://arxiv.org/abs//2307.00522)]
+
 
 ## Concept 
 *[Arxiv.2208; NVIDIA]  ***An Image is Worth One Word:*** Personalizing Text-to-Image Generation using Textual Inversion [[PDF](https://arxiv.org/abs/2208.01618), [Page](https://github.com/rinongal/textual_inversion), [Code](https://github.com/rinongal/textual_inversion) ]
