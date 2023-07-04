@@ -114,6 +114,8 @@
 
 [arxiv 2023.06]PFB-Diff: Progressive Feature Blending Diffusion for Text-driven Image Editing [[PDF](https://arxiv.org/abs/2306.16894)]
 
+[arxiv 2023.07]Counting Guidance for High Fidelity Text-to-Image Synthesis [[PDF](https://arxiv.org/pdf/2306.17567.pdf)]
+
 
 ## Concept 
 *[Arxiv.2208; NVIDIA]  ***An Image is Worth One Word:*** Personalizing Text-to-Image Generation using Textual Inversion [[PDF](https://arxiv.org/abs/2208.01618), [Page](https://github.com/rinongal/textual_inversion), [Code](https://github.com/rinongal/textual_inversion) ]
