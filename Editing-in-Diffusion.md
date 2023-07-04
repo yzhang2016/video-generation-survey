@@ -376,6 +376,8 @@
 
 [arxiv 2023.06]Inserting Anybody in Diffusion Models via Celeb Basis [[PDF](https://arxiv.org/abs/2306.00926), [Page](https://celeb-basis.github.io/)]
 
+[arxiv 2023.07]DreamIdentity: Improved Editability for Efficient Face-identity Preserved Image Generation [[PDF](https://arxiv.org/abs/2307.00300),[Page](https://dreamidentity.github.io/)]
+
 ## scene composition
 [arxiv 2023.02]MIXTURE OF DIFFUSERS FOR SCENE COMPOSITION AND HIGH RESOLUTION IMAGE GENERATION [[PDF](https://arxiv.org/abs/2302.02412)]
 
