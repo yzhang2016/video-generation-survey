@@ -180,6 +180,9 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 *[arxiv 2023.03]Conditional Image-to-Video Generation with Latent Flow Diffusion Models [[PDF](https://arxiv.org/abs/2303.13744)]
 
+[arxiv 2023.07]DisCo: Disentangled Control for Referring Human Dance Generation in Real World
+[[PDF](https://arxiv.org/abs/2307.00040), [Page](https://disco-dance.github.io/)]
+
 
 ## domain transfer 
 [arxiv 2023.06]Probabilistic Adaptation of Text-to-Video Models [[PDF](https://arxiv.org/abs/2306.01872)]
