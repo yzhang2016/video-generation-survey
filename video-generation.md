@@ -148,6 +148,8 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2023.05]ControlVideo: Training-free Controllable Text-to-Video Generation [[PDF](https://arxiv.org/abs/2305.13077), [Page](https://github.com/YBYBZhang/ControlVideo)]
 
+[arxiv 2023.05]Control-A-Video: Controllable Text-to-Video Generation with Diffusion Models[[PDF](https://arxiv.org/abs/2305.13840), [Page](https://controlavideo.github.io/)]
+
 [arxiv-2023.05]Large Language Models are Frame-level Directors for Zero-shot Text-to-Video Generation [[PDF](https://arxiv.org/abs/2305.14330), [Page](https://github.com/KU-CVLAB/DirecT2V)]
 
 [arxiv 2023.05]Video ControlNet: Towards Temporally Consistent Synthetic-to-Real Video Translation Using Conditional Image Diffusion Models [[PDF](https://arxiv.org/abs/2305.19193)]
