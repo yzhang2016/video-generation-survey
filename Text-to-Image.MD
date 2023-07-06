@@ -20,6 +20,8 @@
 
 [arxiv 2023.01] Simple diffusion: End-to-end diffusion for high resolution images [[PDF](https://arxiv.org/pdf/2301.11093.pdf) ]
 
+[arxiv 2023.07]SDXL: Improving Latent Diffusion Models for High-Resolution Image Synthesi [[PDF](https://arxiv.org/abs/2307.01952), [Page](https://github.com/Stability-AI/generative-models/tree/main)]
+
 ## GAN/VAE/Transformer-based 
 
 [ICML 2021; OpenAI ] Zero-Shot Text-to-Image Generation \[[PDF](https://arxiv.org/pdf/2102.12092.pdf), [Code 3](https://github.com/YoadTew/zero-shot-image-to-text)\]
@@ -47,7 +49,6 @@
 [arxiv 2023.1]Attribute-Centric Compositional Text-to-Image Generation [[PDF](https://arxiv.org/pdf/2301.01413.pdf)]
 
 [arxiv 2023.01]**---StyleGAN-T---** StyleGAN-T: Unlocking the Power of GANs for Fast Large-Scale Text-to-Image Synthesis [[PDF](https://arxiv.org/abs/2301.09515), [Page](https://sites.google.com/view/stylegan-t/)]
-
 
 [arxiv 2023.03]Scaling up GANs for Text-to-Image Synthesis[[PDF](https://arxiv.org/abs/2303.05511), [Page](https://mingukkang.github.io/GigaGAN/)]
 
