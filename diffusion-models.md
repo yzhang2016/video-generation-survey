@@ -34,6 +34,7 @@
 
 [arxiv 2023.06]Decoupled Diffusion Models with Explicit Transition Probability [[PDF](https://arxiv.org/pdf/2306.13720.pdf)]
 
+[arxiv 2023.07]DiffFlow: A Unified SDE Framework for Score-Based Diffusion Models and Generative Adversarial Networks [[PDF](https://arxiv.org/pdf/2307.02159.pdf)]
 
 ## Architecture
 [arxiv 2023.03]Masked Diffusion Transformer is a Strong Image Synthesizer [[PDF](https://arxiv.org/abs/2303.14389)]
