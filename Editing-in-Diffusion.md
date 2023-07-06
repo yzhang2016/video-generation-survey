@@ -114,9 +114,16 @@
 
 [arxiv 2023.06]PFB-Diff: Progressive Feature Blending Diffusion for Text-driven Image Editing [[PDF](https://arxiv.org/abs/2306.16894)]
 
+[arxiv 2023.06]DragDiffusion: Harnessing Diffusion Models for Interactive Point-based Image Editing[[PDF](https://yujun-shi.github.io/projects/dragdiffusion.html)]
+
+[arxiv 2023.06]Diffusion Self-Guidance for Controllable Image Generation [[PDF](https://dave.ml/selfguidance/)]
+
 [arxiv 2023.07]Counting Guidance for High Fidelity Text-to-Image Synthesis [[PDF](https://arxiv.org/pdf/2306.17567.pdf)]
 
 [arxiv 2023.07]LEDITS: Real Image Editing with DDPM Inversion and Semantic Guidance [[PDF](https://arxiv.org/abs//2307.00522)]
+
+[arxiv 2023.07]DragonDiffusion: Enabling Drag-style Manipulation on Diffusion Models [[PDF](https://arxiv.org/pdf/2307.02421.pdf)]
+
 
 
 ## Concept 
