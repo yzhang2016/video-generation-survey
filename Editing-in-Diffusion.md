@@ -429,6 +429,11 @@
 
 [arxiv 2023.06]Training-free Diffusion Model Adaptation for Variable-Sized Text-to-Image Synthesis [[PDF](https://arxiv.org/abs/2306.08645)]
 
+[arxiv 2023.07]On the Cultural Gap in Text-to-Image Generation [[PDF](https://arxiv.org/abs/2307.02971)]
+
+[arxiv 2023.07]How to Detect Unauthorized Data Usages in Text-to-image Diffusion Models [[PDF](https://arxiv.org/abs/2307.03108)]
+
+
 
 ## Related 
 
