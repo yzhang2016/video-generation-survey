@@ -168,6 +168,8 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 *[arxiv 2023.06]Rerender A Video: Zero-Shot Text-Guided Video-to-Video Translation [[PDF](https://arxiv.org/abs/2306.07954), [Page](https://anonymous-31415926.github.io/)]
 
+[arxiv 2023.07]AnimateDiff: Animate Your Personalized Text-to-Image Diffusion Models without Specific Tuning [[PDF](https://arxiv.org/abs/2307.04725),  [Page](https://animatediff.github.io/)]
+
 
 ## :point_right: Video Completion (animation, interpolation, prediction)
 [arxiv 2022; Meta] Tell Me What Happened: Unifying Text-guided Video Completion via Multimodal Masked Video Generation \[[PDF](https://arxiv.org/pdf/2211.12824.pdf), code]
