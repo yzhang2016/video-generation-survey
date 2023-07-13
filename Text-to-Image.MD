@@ -98,4 +98,5 @@
 
 [arxiv 2023.03]A Prompt Log Analysis of Text-to-Image Generation Systems [[PDF](https://arxiv.org/abs/2303.04587)]
 
-
+### Image caption 
+[arxiv 2023.07]SITTA: A Semantic Image-Text Alignment for Image Captioning [[PDF](https://arxiv.org/abs/2307.05591), [Page](https://github.com/ml-jku/semantic-image-text-alignment)]
