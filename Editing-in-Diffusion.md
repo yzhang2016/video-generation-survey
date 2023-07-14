@@ -176,6 +176,10 @@
 
 [arxiv 2023.07]HyperDreamBooth: HyperNetworks for Fast Personalization of Text-to-Image Models [[PDF](https://arxiv.org/abs/2307.06949),[Page](https://hyperdreambooth.github.io/)]
 
+[arxiv 2023.07]Domain-Agnostic Tuning-Encoder for Fast Personalization of Text-To-Image Models [[PDF](https://arxiv.org/abs/2307.06925), [Page](https://datencoder.github.io/)]
+
+
+
 ## Story-telling
 
 **[ECCV 2022]** ***Story Dall-E***: Adapting pretrained text-to-image transformers for story continuation [[PDF](https://arxiv.org/pdf/2209.06192.pdf), [code](https://github.com/adymaharana/storydalle)]  
