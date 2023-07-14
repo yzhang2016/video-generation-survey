@@ -174,6 +174,7 @@
 
 [arxiv 2023.06]Generate Anything Anywhere in Any Scene [[PDF](https://arxiv.org/abs/2306.17154),[Page](https://yuheng-li.github.io/PACGen/)]
 
+[arxiv 2023.07]HyperDreamBooth: HyperNetworks for Fast Personalization of Text-to-Image Models [[PDF](https://arxiv.org/abs/2307.06949),[Page](https://hyperdreambooth.github.io/)]
 
 ## Story-telling
 
