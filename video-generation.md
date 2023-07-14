@@ -31,7 +31,8 @@ A reading list of video generation
 * **Youku-mPLUG**
 [arxiv 2023.06]Youku-mPLUG: A 10 Million Large-scale Chinese Video-Language Dataset for Pre-training and Benchmarks [[PDF](https://arxiv.org/abs/2306.04362)]
 
-
+* **InternVid**
+[arxiv 2023.07]InternVid: A Large-scale Video-Text Dataset for Multimodal Understanding and Generation [[PDF](https://arxiv.org/abs/2307.06942)]
 
 ## :point_right: GAN/VAE-based methods 
 [NIPS 2016] **---VGAN---** Generating Videos with Scene Dynamics \[[PDF](https://proceedings.neurips.cc/paper/2016/file/04025959b191f8f9de3f924f0940515f-Paper.pdf), [code](https://github.com/cvondrick/videogan) \]
@@ -127,6 +128,9 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 [arxiv 2023.06]Video Diffusion Models with Local-Global Context Guidance [[PDF](https://arxiv.org/abs/2306.02562)]
 
 [arxiv 2023.06]VideoComposer: Compositional Video Synthesis with Motion Controllability [[PDF](https://arxiv.org/abs/2306.02018)]
+
+[arxiv 2023.07]Animate-A-Story: Storytelling with Retrieval-Augmented Video Generation [[PDF](https://arxiv.org/abs/2307.06940), [Page](https://videocrafter.github.io/Animate-A-Story)]
+
 
 
 ## Image Model for video generation and editing 
