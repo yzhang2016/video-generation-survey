@@ -124,6 +124,7 @@
 
 [arxiv 2023.07]DragonDiffusion: Enabling Drag-style Manipulation on Diffusion Models [[PDF](https://arxiv.org/pdf/2307.02421.pdf)]
 
+[arxiv 2023.07]Taming Encoder for Zero Fine-tuning Image Customization with Text-to-Image Diffusion Models [[PDF](https://arxiv.org/abs/2304.02642)]
 
 
 ## Concept 
