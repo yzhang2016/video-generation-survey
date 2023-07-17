@@ -179,7 +179,7 @@
 
 [arxiv 2023.07]Domain-Agnostic Tuning-Encoder for Fast Personalization of Text-To-Image Models [[PDF](https://arxiv.org/abs/2307.06925), [Page](https://datencoder.github.io/)]
 
-
+[arxiv 2023.07]ReVersion: Diffusion-Based Relation Inversion from Images [[PDF](https://arxiv.org/abs/2303.13495),[Page](https://ziqihuangg.github.io/projects/reversion.html)]
 
 ## Story-telling
 
