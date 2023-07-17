@@ -52,6 +52,8 @@
 
 [arxiv 2023.03]Scaling up GANs for Text-to-Image Synthesis[[PDF](https://arxiv.org/abs/2303.05511), [Page](https://mingukkang.github.io/GigaGAN/)]
 
+[arxiv 2023.07]Scaling Autoregressive Multi-Modal Models: Pretraining and Instruction Tuning [[PDF](https://ai.meta.com/research/publications/scaling-autoregressive-multi-modal-models-pretraining-and-instruction-tuning/)]
+
 
 # Generation & Super-resolution 
 
