@@ -126,6 +126,8 @@
 
 [arxiv 2023.07]Taming Encoder for Zero Fine-tuning Image Customization with Text-to-Image Diffusion Models [[PDF](https://arxiv.org/abs/2304.02642)]
 
+[arxiv 2023.07]Not All Steps are Created Equal: Selective Diffusion Distillation for Image Manipulation [[PDF](https://arxiv.org/abs/2307.08448)]
+
 
 ## Concept 
 *[Arxiv.2208; NVIDIA]  ***An Image is Worth One Word:*** Personalizing Text-to-Image Generation using Textual Inversion [[PDF](https://arxiv.org/abs/2208.01618), [Page](https://github.com/rinongal/textual_inversion), [Code](https://github.com/rinongal/textual_inversion) ]
@@ -180,6 +182,10 @@
 [arxiv 2023.07]Domain-Agnostic Tuning-Encoder for Fast Personalization of Text-To-Image Models [[PDF](https://arxiv.org/abs/2307.06925), [Page](https://datencoder.github.io/)]
 
 [arxiv 2023.07]ReVersion: Diffusion-Based Relation Inversion from Images [[PDF](https://arxiv.org/abs/2303.13495),[Page](https://ziqihuangg.github.io/projects/reversion.html)]
+
+[arxiv 2023.07]AnyDoor: Zero-shot Object-level Image Customization [[PDF](https://arxiv.org/abs/2307.09481),[Page](https://damo-vilab.github.io/AnyDoor-Page/)]
+
+
 
 ## Story-telling
 
