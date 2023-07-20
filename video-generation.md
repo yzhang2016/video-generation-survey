@@ -27,15 +27,20 @@ A reading list of video generation
 
 * **Celebv-text**
   
-[arxiv ]CelebV-Text: A Large-Scale Facial Text-Video Dataset [[PDF](), [Page](https://celebv-text.github.io/)]
+  [arxiv ]CelebV-Text: A Large-Scale Facial Text-Video Dataset [[PDF](), [Page](https://celebv-text.github.io/)]
 
 * **Youku-mPLUG**
   
-[arxiv 2023.06]Youku-mPLUG: A 10 Million Large-scale Chinese Video-Language Dataset for Pre-training and Benchmarks [[PDF](https://arxiv.org/abs/2306.04362)]
+  [arxiv 2023.06]Youku-mPLUG: A 10 Million Large-scale Chinese Video-Language Dataset for Pre-training and Benchmarks [[PDF](https://arxiv.org/abs/2306.04362)]
 
 * **InternVid**
   
-[arxiv 2023.07]InternVid: A Large-scale Video-Text Dataset for Multimodal Understanding and Generation [[PDF](https://arxiv.org/abs/2307.06942)]
+  [arxiv 2023.07]InternVid: A Large-scale Video-Text Dataset for Multimodal Understanding and Generation [[PDF](https://arxiv.org/abs/2307.06942)]
+
+* **DNA-Rendering**
+  [arxiv 2023.07] DNA-Rendering: A Diverse Neural Actor Repository for High-Fidelity Human-centric Rendering [[PDF](https://arxiv.org/abs/2307.10173)]
+
+
 
 ## :point_right: GAN/VAE-based methods 
 [NIPS 2016] **---VGAN---** Generating Videos with Scene Dynamics \[[PDF](https://proceedings.neurips.cc/paper/2016/file/04025959b191f8f9de3f924f0940515f-Paper.pdf), [code](https://github.com/cvondrick/videogan) \]
