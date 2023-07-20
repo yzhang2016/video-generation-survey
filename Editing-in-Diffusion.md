@@ -128,6 +128,7 @@
 
 [arxiv 2023.07]Not All Steps are Created Equal: Selective Diffusion Distillation for Image Manipulation [[PDF](https://arxiv.org/abs/2307.08448)]
 
+[arxiv 2023.07]FABRIC: Personalizing Diffusion Models with Iterative Feedback [[PDF](https://arxiv.org/pdf/2307.10159.pdf)]
 
 ## Concept 
 *[Arxiv.2208; NVIDIA]  ***An Image is Worth One Word:*** Personalizing Text-to-Image Generation using Textual Inversion [[PDF](https://arxiv.org/abs/2208.01618), [Page](https://github.com/rinongal/textual_inversion), [Code](https://github.com/rinongal/textual_inversion) ]
