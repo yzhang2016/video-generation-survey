@@ -38,6 +38,7 @@ A reading list of video generation
   [arxiv 2023.07]InternVid: A Large-scale Video-Text Dataset for Multimodal Understanding and Generation [[PDF](https://arxiv.org/abs/2307.06942)]
 
 * **DNA-Rendering**
+  
   [arxiv 2023.07] DNA-Rendering: A Diverse Neural Actor Repository for High-Fidelity Human-centric Rendering [[PDF](https://arxiv.org/abs/2307.10173)]
 
 
