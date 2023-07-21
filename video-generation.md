@@ -183,6 +183,9 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 *[arxiv 2023.07]AnimateDiff: Animate Your Personalized Text-to-Image Diffusion Models without Specific Tuning [[PDF](https://arxiv.org/abs/2307.04725),  [Page](https://animatediff.github.io/)]
 
+*[arxiv 2023.07]TokenFlow: Consistent Diffusion Features for Consistent Video Editing [[PDF](https://arxiv.org/pdf/2307.10373.pdf),[Page](https://diffusion-tokenflow.github.io/)]
+
+
 
 ## :point_right: Video Completion (animation, interpolation, prediction)
 [arxiv 2022; Meta] Tell Me What Happened: Unifying Text-guided Video Completion via Multimodal Masked Video Generation \[[PDF](https://arxiv.org/pdf/2211.12824.pdf), code]
