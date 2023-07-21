@@ -344,6 +344,10 @@
 
 [arxiv 2023.06]MVDiffusion: Enabling Holistic Multi-view Image Generation with Correspondence-Aware Diffusion[[PDF],[Page](https://mvdiffusion.github.io/)]
 
+[arxiv 2023.07]BoxDiff: Text-to-Image Synthesis with Training-Free Box-Constrained Diffusion [[PDF](https://arxiv.org/pdf/2307.10816.pdf)]
+
+
+
 ## Super-Resolution & restoration
 [arxiv 2022.12]ADIR: Adaptive Diffusion for Image Reconstruction  \[[PDF](https://shadyabh.github.io/ADIR/ADIR_files/ADIR.pdf)
 
