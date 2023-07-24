@@ -186,6 +186,9 @@
 
 [arxiv 2023.07]AnyDoor: Zero-shot Object-level Image Customization [[PDF](https://arxiv.org/abs/2307.09481),[Page](https://damo-vilab.github.io/AnyDoor-Page/)]
 
+[arxiv 2023.0-7]Subject-Diffusion:Open Domain Personalized Text-to-Image Generation without Test-time Fine-tuning [[PDF](https://arxiv.org/abs/2307.11410), [Page](https://oppo-mente-lab.github.io/subject_diffusion/)]
+
+
 
 
 ## Story-telling
