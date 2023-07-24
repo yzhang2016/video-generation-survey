@@ -36,6 +36,9 @@
 
 [arxiv 2023.07]DiffFlow: A Unified SDE Framework for Score-Based Diffusion Models and Generative Adversarial Networks [[PDF](https://arxiv.org/pdf/2307.02159.pdf)]
 
+[arxiv 2023.07]AdjointDPM: Adjoint Sensitivity Method for Gradient Backpropagation of Diffusion Probabilistic Models [[PDF](https://arxiv.org/abs/2307.10711)]
+
+
 ## Architecture
 [arxiv 2023.03]Masked Diffusion Transformer is a Strong Image Synthesizer [[PDF](https://arxiv.org/abs/2303.14389)]
 
