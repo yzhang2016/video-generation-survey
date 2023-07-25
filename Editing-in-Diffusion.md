@@ -130,6 +130,15 @@
 
 [arxiv 2023.07]FABRIC: Personalizing Diffusion Models with Iterative Feedback [[PDF](https://arxiv.org/pdf/2307.10159.pdf)]
 
+[arxiv 2023.07]Understanding the Latent Space of Diffusion Models through the Lens of Riemannian Geometry [[PDF](https://arxiv.org/pdf/2307.12868.pdf)]
+
+[arxiv 2023.07]Interpolating between Images with Diffusion Models [[PDF](https://arxiv.org/abs/2307.12560)]
+
+[arxiv 2023.07]TF-ICON: Diffusion-Based Training-Free Cross-Domain Image Composition [[PDF](https://arxiv.org/abs/2307.12493)]
+
+
+
+
 ## Concept 
 *[Arxiv.2208; NVIDIA]  ***An Image is Worth One Word:*** Personalizing Text-to-Image Generation using Textual Inversion [[PDF](https://arxiv.org/abs/2208.01618), [Page](https://github.com/rinongal/textual_inversion), [Code](https://github.com/rinongal/textual_inversion) ]
 
@@ -370,6 +379,8 @@
 
 [arxiv 2023.06]Image Harmonization with Diffusion Model [[PDF](https://arxiv.org/abs/2306.10441)]
 
+[arxiv 2023.06]PartDiff: Image Super-resolution with Partial Diffusion Models [[PDF](https://arxiv.org/abs/2307.11926)]
+
 
 ## Style transfer 
 [arxiv 22.11; kuaishou] ***DiffStyler***: Controllable Dual Diffusion for Text-Driven Image Stylization \[[PDF](https://arxiv.org/pdf/2211.10682.pdf), code\]  
@@ -452,6 +463,7 @@
 [arxiv 2023.07]On the Cultural Gap in Text-to-Image Generation [[PDF](https://arxiv.org/abs/2307.02971)]
 
 [arxiv 2023.07]How to Detect Unauthorized Data Usages in Text-to-image Diffusion Models [[PDF](https://arxiv.org/abs/2307.03108)]
+
 
 
 
