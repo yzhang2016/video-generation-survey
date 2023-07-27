@@ -185,6 +185,7 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 *[arxiv 2023.07]TokenFlow: Consistent Diffusion Features for Consistent Video Editing [[PDF](https://arxiv.org/pdf/2307.10373.pdf),[Page](https://diffusion-tokenflow.github.io/)]
 
+[arxiv 2023.07]VideoControlNet: A Motion-Guided Video-to-Video Translation Framework by Using Diffusion Model with ControlNet [[PDF](https://arxiv.org/pdf/2307.14073.pdf), [Page](https://vcg-aigc.github.io/)]
 
 
 ## :point_right: Video Completion (animation, interpolation, prediction)
