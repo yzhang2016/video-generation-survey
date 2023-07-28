@@ -38,6 +38,8 @@
 
 [arxiv 2023.07]AdjointDPM: Adjoint Sensitivity Method for Gradient Backpropagation of Diffusion Probabilistic Models [[PDF](https://arxiv.org/abs/2307.10711)]
 
+[arxiv 2023.07]Spatial-Frequency U-Net for Denoising Diffusion Probabilistic Models[[PDF](https://arxiv.org/pdf/2307.14648.pdf)]
+
 
 ## Architecture
 [arxiv 2023.03]Masked Diffusion Transformer is a Strong Image Synthesizer [[PDF](https://arxiv.org/abs/2303.14389)]
