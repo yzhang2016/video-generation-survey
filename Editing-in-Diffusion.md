@@ -407,6 +407,9 @@
 
 [arxiv 2023.06]StyleDrop: Text-to-Image Generation in Any Style [[PDF](https://arxiv.org/abs/2306.00983), [Page](https://styledrop.github.io/)]
 
+[arxiv 2023.07]General Image-to-Image Translation with One-Shot Image Guidance [[PDF](https://arxiv.org/pdf/2307.14352.pdf)]
+
+
 ## disentanglement
 [ICMR 2023]Not Only Generative Art: Stable Diffusion for Content-Style Disentanglement in Art Analysis [[PDF](https://arxiv.org/abs/2304.10278)]
 
