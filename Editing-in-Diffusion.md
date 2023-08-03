@@ -136,6 +136,7 @@
 
 [arxiv 2023.07]TF-ICON: Diffusion-Based Training-Free Cross-Domain Image Composition [[PDF](https://arxiv.org/abs/2307.12493)]
 
+[arxiv 2023.08]ImageBrush: Learning Visual In-Context Instructions for Exemplar-Based Image Manipulation [[PDF](https://arxiv.org/abs/2308.00906)]
 
 
 
