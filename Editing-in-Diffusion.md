@@ -381,6 +381,9 @@
 
 [arxiv 2023.06]PartDiff: Image Super-resolution with Partial Diffusion Models [[PDF](https://arxiv.org/abs/2307.11926)]
 
+[arxiv 2023.08]Patched Denoising Diffusion Models For High-Resolution Image Synthesis [[PDF](https://arxiv.org/abs/2308.01316)]
+
+
 
 ## Style transfer 
 [arxiv 22.11; kuaishou] ***DiffStyler***: Controllable Dual Diffusion for Text-Driven Image Stylization \[[PDF](https://arxiv.org/pdf/2211.10682.pdf), code\]  
