@@ -413,6 +413,8 @@
 
 [arxiv 2023.07]General Image-to-Image Translation with One-Shot Image Guidance [[PDF](https://arxiv.org/pdf/2307.14352.pdf)]
 
+[arxiv 2023.08]DiffColor: Toward High Fidelity Text-Guided Image Colorization with Diffusion Models [[PDF](https://arxiv.org/abs/2308.01655)]
+
 
 ## disentanglement
 [ICMR 2023]Not Only Generative Art: Stable Diffusion for Content-Style Disentanglement in Art Analysis [[PDF](https://arxiv.org/abs/2304.10278)]
