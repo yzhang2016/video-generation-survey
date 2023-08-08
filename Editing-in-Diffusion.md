@@ -198,6 +198,7 @@
 
 [arxiv 2023.0-7]Subject-Diffusion:Open Domain Personalized Text-to-Image Generation without Test-time Fine-tuning [[PDF](https://arxiv.org/abs/2307.11410), [Page](https://oppo-mente-lab.github.io/subject_diffusion/)]
 
+[arxiv 2023.08]ConceptLab: Creative Generation using Diffusion Prior Constraints [[PDF](https://arxiv.org/abs/2308.02669),[Page](https://kfirgoldberg.github.io/ConceptLab/)]
 
 
 
