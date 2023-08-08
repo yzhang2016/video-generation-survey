@@ -216,6 +216,9 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2023.06]Learn the Force We Can: Multi-Object Video Generation from Pixel-Level Interactions [[PDF](https://arxiv.org/abs/2306.03988)]
 
+[arxiv 2023.08]DiffSynth: Latent In-Iteration Deflickering for Realistic Video Synthesis [[PDF](https://arxiv.org/abs/2308.03463)]
+
+
 
 ## CV Related 
 [arxiv 2022.12; ByteDace]PV3D: A 3D GENERATIVE MODEL FOR PORTRAIT VIDEO GENERATION [[PDF](https://arxiv.org/pdf/2212.06384.pdf)]
