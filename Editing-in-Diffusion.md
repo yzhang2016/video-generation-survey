@@ -242,6 +242,8 @@
 
 [arxiv 2023.06]Relation-Aware Diffusion Model for Controllable Poster Layout Generation [[PDF](https://arxiv.org/abs/2306.09086)]
 
+[arxiv 2023.08]LayoutLLM-T2I: Eliciting Layout Guidance from LLM for Text-to-Image Generation [[PDF](https://arxiv.org/abs/2308.05095)]
+
 
 
 ## SVG
