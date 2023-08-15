@@ -129,6 +129,8 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 ->[arxiv 2023.05]VideoFactory: Swap Attention in Spatiotemporal Diffusions for Text-to-Video Generation [[PDF](https://arxiv.org/pdf/2305.10874.pdf)]
 
+[arxiv 2023.08]ModelScope Text-to-Video Technical Report [[PDF](https://arxiv.org/pdf/2308.06571.pdf)]
+
 
 ## :point_right: Controllable Video Generation 
 
