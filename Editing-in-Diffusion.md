@@ -362,7 +362,12 @@
 
 [arxiv 2023.07]BoxDiff: Text-to-Image Synthesis with Training-Free Box-Constrained Diffusion [[PDF](https://arxiv.org/pdf/2307.10816.pdf)]
 
+[arxiv 2023.08]LAW-Diffusion: Complex Scene Generation by Diffusion with Layouts [[PDF](https://arxiv.org/abs/2308.06713)]
 
+
+
+## Image Variation 
+[arxiv 2023.08]IP-Adapter: Text Compatible Image Prompt Adapter for Text-to-Image Diffusion Models [[PDF](https://arxiv.org/pdf/2308.06721.pdf), [Page](https://ip-adapter.github.io/)]
 
 ## Super-Resolution & restoration
 [arxiv 2022.12]ADIR: Adaptive Diffusion for Image Reconstruction  \[[PDF](https://shadyabh.github.io/ADIR/ADIR_files/ADIR.pdf)
