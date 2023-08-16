@@ -189,6 +189,7 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2023.07]VideoControlNet: A Motion-Guided Video-to-Video Translation Framework by Using Diffusion Model with ControlNet [[PDF](https://arxiv.org/pdf/2307.14073.pdf), [Page](https://vcg-aigc.github.io/)]
 
+[arxiv 2023.08]CoDeF: Content Deformation Fields for Temporally Consistent Video Processing [[PDF](https://arxiv.org/pdf/2308.07926.pdf), [Page](https://qiuyu96.github.io/CoDeF/)]
 
 ## :point_right: Video Completion (animation, interpolation, prediction)
 [arxiv 2022; Meta] Tell Me What Happened: Unifying Text-guided Video Completion via Multimodal Masked Video Generation \[[PDF](https://arxiv.org/pdf/2211.12824.pdf), code]
