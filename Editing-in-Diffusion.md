@@ -218,6 +218,7 @@
 
 [arxiv 2023.06]Intelligent Grimm -- Open-ended Visual Storytelling via Latent Diffusion Models [[PDF](https://arxiv.org/abs/2306.00973), [Page](https://haoningwu3639.github.io/StoryGen_Webpage/)]
 
+[arxiv 2023.08]Story Visualization by Online Text Augmentation with Context Memory[[PDF](https://arxiv.org/pdf/2308.07575.pdf)]
 
 ## Layout Generation 
 [arxiv 2022.08]Layout-Bridging Text-to-Image Synthesis [[PDF](https://arxiv.org/pdf/2208.06162.pdf)]
@@ -422,6 +423,9 @@
 [arxiv 2023.07]General Image-to-Image Translation with One-Shot Image Guidance [[PDF](https://arxiv.org/pdf/2307.14352.pdf)]
 
 [arxiv 2023.08]DiffColor: Toward High Fidelity Text-Guided Image Colorization with Diffusion Models [[PDF](https://arxiv.org/abs/2308.01655)]
+
+[arxiv 2023.08] StyleDiffusion: Controllable Disentangled Style Transfer via Diffusion Models
+[[PDf] (https://arxiv.org/abs/2308.07863)]
 
 
 ## disentanglement
