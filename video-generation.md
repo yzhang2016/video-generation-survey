@@ -131,6 +131,7 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2023.08]ModelScope Text-to-Video Technical Report [[PDF](https://arxiv.org/pdf/2308.06571.pdf)]
 
+[arxiv 2023.08]Dual-Stream Diffusion Net for Text-to-Video Generation [[PDF](https://huggingface.co/papers/2308.08316)]
 
 ## :point_right: Controllable Video Generation 
 
