@@ -245,7 +245,7 @@
 
 [arxiv 2023.08]LayoutLLM-T2I: Eliciting Layout Guidance from LLM for Text-to-Image Generation [[PDF](https://arxiv.org/abs/2308.05095)]
 
-
+[arxiv 2023.08]Learning to Generate Semantic Layouts for Higher Text-Image Correspondence in Text-to-Image Synthesis [[PDF](https://arxiv.org/abs/2308.08157)]
 
 ## SVG
 [arxiv 2022.11; UCB] VectorFusion: Text-to-SVG by Abstracting Pixel-Based Diffusion Models \[[PDF](https://arxiv.org/abs/2211.11319)\]
