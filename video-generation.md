@@ -191,6 +191,9 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2023.08]CoDeF: Content Deformation Fields for Temporally Consistent Video Processing [[PDF](https://arxiv.org/pdf/2308.07926.pdf), [Page](https://qiuyu96.github.io/CoDeF/)]
 
+[arxov 2023.08]DragNUWA: Fine-grained Control in Video Generation by Integrating Text, Image, and Trajectory [[PDF](https://arxiv.org/abs/2308.08089), [Page](https://www.microsoft.com/en-us/research/project/dragnuwa/)]
+
+
 ## :point_right: Video Completion (animation, interpolation, prediction)
 [arxiv 2022; Meta] Tell Me What Happened: Unifying Text-guided Video Completion via Multimodal Masked Video Generation \[[PDF](https://arxiv.org/pdf/2211.12824.pdf), code]
 
