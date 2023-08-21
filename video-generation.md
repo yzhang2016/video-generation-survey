@@ -133,6 +133,10 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2023.08]Dual-Stream Diffusion Net for Text-to-Video Generation [[PDF](https://huggingface.co/papers/2308.08316)]
 
+[arxiv 2023.08]SimDA: Simple Diffusion Adapter for Efficient Video Generation [[PDF](https://arxiv.org/abs/2308.09710), [Page](https://chenhsing.github.io/SimDA/)]
+
+
+
 ## :point_right: Controllable Video Generation 
 
 *[arxiv 2023.04]Motion-Conditioned Diffusion Model for Controllable Video Synthesis [[PDF](https://arxiv.org/abs/2304.14404), [Page](https://tsaishien-chen.github.io/MCDiff/)]
@@ -192,7 +196,11 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2023.08]CoDeF: Content Deformation Fields for Temporally Consistent Video Processing [[PDF](https://arxiv.org/pdf/2308.07926.pdf), [Page](https://qiuyu96.github.io/CoDeF/)]
 
-[arxov 2023.08]DragNUWA: Fine-grained Control in Video Generation by Integrating Text, Image, and Trajectory [[PDF](https://arxiv.org/abs/2308.08089), [Page](https://www.microsoft.com/en-us/research/project/dragnuwa/)]
+[arxiv 2023.08]DragNUWA: Fine-grained Control in Video Generation by Integrating Text, Image, and Trajectory [[PDF](https://arxiv.org/abs/2308.08089), [Page](https://www.microsoft.com/en-us/research/project/dragnuwa/)]
+
+[arxiv 2023.08]StableVideo: Text-driven Consistency-aware Diffusion Video Editing [[PDF](https://arxiv.org/abs/2308.09592), [Page](https://github.com/rese1f/StableVideo)]
+
+[arxiv 2023.08]Edit Temporal-Consistent Videos with Image Diffusion Model [[PDF](https://arxiv.org/abs/2308.09091)]
 
 
 ## :point_right: Video Completion (animation, interpolation, prediction)
