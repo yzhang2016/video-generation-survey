@@ -220,6 +220,9 @@
 
 [arxiv 2023.08]Story Visualization by Online Text Augmentation with Context Memory[[PDF](https://arxiv.org/pdf/2308.07575.pdf)]
 
+[arxiv 2023.08]Text-Only Training for Visual Storytelling [[PDF](https://arxiv.org/pdf/2308.08881.pdf)]
+
+
 ## Layout Generation 
 [arxiv 2022.08]Layout-Bridging Text-to-Image Synthesis [[PDF](https://arxiv.org/pdf/2208.06162.pdf)]
 
