@@ -202,6 +202,8 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2023.08]Edit Temporal-Consistent Videos with Image Diffusion Model [[PDF](https://arxiv.org/abs/2308.09091)]
 
+[arxiv 2023.08]EVE: Efficient zero-shot text-based Video Editing with Depth Map Guidance and Temporal Consistency Constraints [[PDF](https://arxiv.org/pdf/2308.10648.pdf)]
+
 
 ## :point_right: Video Completion (animation, interpolation, prediction)
 [arxiv 2022; Meta] Tell Me What Happened: Unifying Text-guided Video Completion via Multimodal Masked Video Generation \[[PDF](https://arxiv.org/pdf/2211.12824.pdf), code]
