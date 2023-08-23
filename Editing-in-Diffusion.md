@@ -222,6 +222,7 @@
 
 [arxiv 2023.08]Text-Only Training for Visual Storytelling [[PDF](https://arxiv.org/pdf/2308.08881.pdf)]
 
+[arxiv 2023.08]StoryBench: A Multifaceted Benchmark for Continuous Story Visualization [[PDF](https://arxiv.org/pdf/2308.11606.pdf), [Page](https://github.com/google/storybench)]
 
 ## Layout Generation 
 [arxiv 2022.08]Layout-Bridging Text-to-Image Synthesis [[PDF](https://arxiv.org/pdf/2208.06162.pdf)]
