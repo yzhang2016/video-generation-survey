@@ -251,6 +251,9 @@
 
 [arxiv 2023.08]Learning to Generate Semantic Layouts for Higher Text-Image Correspondence in Text-to-Image Synthesis [[PDF](https://arxiv.org/abs/2308.08157)]
 
+[arxiv 2023.08]Dense Text-to-Image Generation with Attention Modulation [[PDF](https://arxiv.org/abs/2308.12964), [Page](https://github.com/naver-ai/DenseDiffusion)]
+
+
 ## SVG
 [arxiv 2022.11; UCB] VectorFusion: Text-to-SVG by Abstracting Pixel-Based Diffusion Models \[[PDF](https://arxiv.org/abs/2211.11319)\]
 
@@ -431,6 +434,8 @@
 [arxiv 2023.08] StyleDiffusion: Controllable Disentangled Style Transfer via Diffusion Models
 [[PDf] (https://arxiv.org/abs/2308.07863)]
 
+[arxiv 2023.08]Scenimefy: Learning to Craft Anime Scene via Semi-Supervised Image-to-Image Translation [[PDF](https://arxiv.org/abs/2308.12968), [Page](https://yuxinn-j.github.io/projects/Scenimefy.html)]
+
 
 ## disentanglement
 [ICMR 2023]Not Only Generative Art: Stable Diffusion for Content-Style Disentanglement in Art Analysis [[PDF](https://arxiv.org/abs/2304.10278)]
@@ -489,6 +494,7 @@
 
 [arxiv 2023.07]How to Detect Unauthorized Data Usages in Text-to-image Diffusion Models [[PDF](https://arxiv.org/abs/2307.03108)]
 
+[arxiv  2023.08]Manipulating Embeddings of Stable Diffusion Prompts [[PDF](https://arxiv.org/pdf/2308.12059.pdf)]
 
 
 
