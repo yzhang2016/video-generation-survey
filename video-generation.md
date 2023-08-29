@@ -135,6 +135,7 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2023.08]SimDA: Simple Diffusion Adapter for Efficient Video Generation [[PDF](https://arxiv.org/abs/2308.09710), [Page](https://chenhsing.github.io/SimDA/)]
 
+[arxiv 2023.08]Dysen-VDM: Empowering Dynamics-aware Text-to-Video Diffusion with Large Language Models [[PDF](https://arxiv.org/pdf/2308.13812.pdf), [Page](https://haofei.vip/Dysen-VDM/)]
 
 
 ## :point_right: Controllable Video Generation 
@@ -203,6 +204,9 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 [arxiv 2023.08]Edit Temporal-Consistent Videos with Image Diffusion Model [[PDF](https://arxiv.org/abs/2308.09091)]
 
 [arxiv 2023.08]EVE: Efficient zero-shot text-based Video Editing with Depth Map Guidance and Temporal Consistency Constraints [[PDF](https://arxiv.org/pdf/2308.10648.pdf)]
+
+[arxiv 2023.08]MagicEdit: High-Fidelity and Temporally Coherent Video Editing [[PDF](https://arxiv.org/pdf/2308.14749), [Page](https://magic-edit.github.io/)]
+
 
 
 ## :point_right: Video Completion (animation, interpolation, prediction)
