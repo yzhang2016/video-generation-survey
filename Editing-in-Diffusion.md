@@ -201,6 +201,8 @@
 [arxiv 2023.08]ConceptLab: Creative Generation using Diffusion Prior Constraints [[PDF](https://arxiv.org/abs/2308.02669),[Page](https://kfirgoldberg.github.io/ConceptLab/)]
 
 
+[arxiv 2023.08]Unified Concept Editing in Diffusion Models [[PDF]https://arxiv.org/pdf/2308.14761.pdf), [Page](https://unified.baulab.info/)]
+
 
 ## Story-telling
 
