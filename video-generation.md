@@ -148,7 +148,6 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2023.07]Animate-A-Story: Storytelling with Retrieval-Augmented Video Generation [[PDF](https://arxiv.org/abs/2307.06940), [Page](https://videocrafter.github.io/Animate-A-Story)]
 
-
 ## Video outpainting 
 
 [MM 2023.09]Hierarchical Masked 3D Diffusion Model for Video Outpainting [[PDF](https://arxiv.org/abs/2309.02119)]
@@ -214,7 +213,7 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2023.08]MagicEdit: High-Fidelity and Temporally Coherent Video Editing [[PDF](https://arxiv.org/pdf/2308.14749), [Page](https://magic-edit.github.io/)]
 
-
+[arxiv 2023.09]MagicProp: Diffusion-based Video Editing via Motionaware Appearance Propagation[[PDF](https://arxiv.org/pdf/2309.00908.pdf)]
 
 ## :point_right: Video Completion (animation, interpolation, prediction)
 [arxiv 2022; Meta] Tell Me What Happened: Unifying Text-guided Video Completion via Multimodal Masked Video Generation \[[PDF](https://arxiv.org/pdf/2211.12824.pdf), code]
