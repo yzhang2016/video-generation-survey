@@ -138,6 +138,7 @@
 
 [arxiv 2023.08]ImageBrush: Learning Visual In-Context Instructions for Exemplar-Based Image Manipulation [[PDF](https://arxiv.org/abs/2308.00906)]
 
+[arxiv 2023.09]Iterative Multi-granular Image Editing using Diffusion Models [[PDF](https://arxiv.org/pdf/2309.00613.pdf)]
 
 
 ## Concept 
