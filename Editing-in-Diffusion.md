@@ -439,6 +439,9 @@
 
 [arxiv 2023.08]Scenimefy: Learning to Craft Anime Scene via Semi-Supervised Image-to-Image Translation [[PDF](https://arxiv.org/abs/2308.12968), [Page](https://yuxinn-j.github.io/projects/Scenimefy.html)]
 
+[arxiv 2023.09]StyleAdapter: A Single-Pass LoRA-Free Model for Stylized Image Generation [[PDF](https://arxiv.org/abs/2309.01770)]
+
+
 
 ## disentanglement
 [ICMR 2023]Not Only Generative Art: Stable Diffusion for Content-Style Disentanglement in Art Analysis [[PDF](https://arxiv.org/abs/2304.10278)]
