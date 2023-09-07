@@ -180,6 +180,8 @@
 
 ->[arxiv 2023.05]BLIP-Diffusion: Pre-trained Subject Representation for Controllable Text-to-Image Generation and Editing [[PDF](https://arxiv.org/abs/2305.14720), [Page](https://github.com/salesforce/LAVIS/tree/main/projects/blip-diffusion)]
 
+[arxiv 2023.05]Concept Decomposition for Visual Exploration and Inspiration[[PDF](https://arxiv.org/abs/2305.18203),[Page](https://inspirationtree.github.io/inspirationtree/)]
+
 [arxiv 2023.06]Cones 2: Customizable Image Synthesis with Multiple Subjects [[PDF](https://arxiv.org/abs/2305.19327)]
 
 [arxiv 2023.06]Inserting Anybody in Diffusion Models via Celeb Basis [[PDF](https://arxiv.org/abs/2306.00926), [Page](https://celeb-basis.github.io/)]
@@ -200,7 +202,6 @@
 [arxiv 2023.0-7]Subject-Diffusion:Open Domain Personalized Text-to-Image Generation without Test-time Fine-tuning [[PDF](https://arxiv.org/abs/2307.11410), [Page](https://oppo-mente-lab.github.io/subject_diffusion/)]
 
 [arxiv 2023.08]ConceptLab: Creative Generation using Diffusion Prior Constraints [[PDF](https://arxiv.org/abs/2308.02669),[Page](https://kfirgoldberg.github.io/ConceptLab/)]
-
 
 [arxiv 2023.08]Unified Concept Editing in Diffusion Models [[PDF]https://arxiv.org/pdf/2308.14761.pdf), [Page](https://unified.baulab.info/)]
 
