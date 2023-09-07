@@ -403,6 +403,7 @@
 
 [arxiv 2023.08]Patched Denoising Diffusion Models For High-Resolution Image Synthesis [[PDF](https://arxiv.org/abs/2308.01316)]
 
+[arxiv 2023.08]DiffBIR: Towards Blind Image Restoration with Generative Diffusion Prior [[PDF](https://arxiv.org/abs/2308.15070),[Page](https://github.com/XPixelGroup/DiffBIR?ref=aiartweekly)]
 
 
 ## Style transfer 
