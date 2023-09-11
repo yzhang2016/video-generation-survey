@@ -140,6 +140,7 @@
 
 [arxiv 2023.09]Iterative Multi-granular Image Editing using Diffusion Models [[PDF](https://arxiv.org/pdf/2309.00613.pdf)]
 
+[arxiv 2023.09]InstructDiffusion: A Generalist Modeling Interface for Vision Tasks [[PDF](https://arxiv.org/abs/2309.03895)]
 
 ## Concept 
 *[Arxiv.2208; NVIDIA]  ***An Image is Worth One Word:*** Personalizing Text-to-Image Generation using Textual Inversion [[PDF](https://arxiv.org/abs/2208.01618), [Page](https://github.com/rinongal/textual_inversion), [Code](https://github.com/rinongal/textual_inversion) ]
@@ -204,6 +205,8 @@
 [arxiv 2023.08]ConceptLab: Creative Generation using Diffusion Prior Constraints [[PDF](https://arxiv.org/abs/2308.02669),[Page](https://kfirgoldberg.github.io/ConceptLab/)]
 
 [arxiv 2023.08]Unified Concept Editing in Diffusion Models [[PDF]https://arxiv.org/pdf/2308.14761.pdf), [Page](https://unified.baulab.info/)]
+
+[arxiv 2023.09]Create Your World: Lifelong Text-to-Image Diffusion[[PDF](https://arxiv.org/abs/2309.04430)]
 
 
 ## Story-telling
