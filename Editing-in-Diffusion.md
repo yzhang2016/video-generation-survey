@@ -142,6 +142,11 @@
 
 [arxiv 2023.09]InstructDiffusion: A Generalist Modeling Interface for Vision Tasks [[PDF](https://arxiv.org/abs/2309.03895)]
 
+[arxiv 2023.09]ITI-GEN: Inclusive Text-to-Image Generation [[PDF](https://arxiv.org/pdf/2309.05569.pdf), [Page](https://czhang0528.github.io/iti-gen)]
+
+[arxiv 2023.09]MaskDiffusion: Boosting Text-to-Image Consistency with Conditional Mask [[PDF](https://arxiv.org/pdf/2309.04399.pdf)]
+
+ 
 ## Concept 
 *[Arxiv.2208; NVIDIA]  ***An Image is Worth One Word:*** Personalizing Text-to-Image Generation using Textual Inversion [[PDF](https://arxiv.org/abs/2208.01618), [Page](https://github.com/rinongal/textual_inversion), [Code](https://github.com/rinongal/textual_inversion) ]
 
