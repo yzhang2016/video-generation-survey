@@ -451,7 +451,7 @@
 
 [arxiv 2023.09]StyleAdapter: A Single-Pass LoRA-Free Model for Stylized Image Generation [[PDF](https://arxiv.org/abs/2309.01770)]
 
-
+[arxiv 2023.09]DreamStyler: Paint by Style Inversion with Text-to-Image Diffusion Models [[PDF](https://arxiv.org/pdf/2309.06933.pdf)]
 
 ## disentanglement
 [ICMR 2023]Not Only Generative Art: Stable Diffusion for Content-Style Disentanglement in Art Analysis [[PDF](https://arxiv.org/abs/2304.10278)]
