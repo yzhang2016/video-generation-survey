@@ -155,6 +155,8 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 ## Image-to-video Generation 
 [arxiv 2023.09]VideoGen: A Reference-Guided Latent Diffusion Approach for High Definition Text-to-Video Generation [[PDF](https://arxiv.org/abs/2309.00398)]
 
+[arxiv 2023.09]Generative Image Dynamics [[PDF](https://arxiv.org/abs/2309.07906),[Page](http://generative-dynamics.github.io/)]
+
 
 ## Image Model for video generation and editing 
 *[arxiv 2022.12]Tune-A-Video: One-Shot Tuning of Image Diffusion Models for Text-to-Video Generation [[PDF](https://arxiv.org/abs/2212.11565), [Page](https://tuneavideo.github.io/)]
