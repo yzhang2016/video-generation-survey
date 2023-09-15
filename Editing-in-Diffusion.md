@@ -213,6 +213,8 @@
 
 [arxiv 2023.09]Create Your World: Lifelong Text-to-Image Diffusion[[PDF](https://arxiv.org/abs/2309.04430)]
 
+[arxiv 2023.09]MagiCapture: High-Resolution Multi-Concept Portrait Customization [[PDF](https://arxiv.org/abs/2309.06895)]
+
 
 ## Story-telling
 
