@@ -146,6 +146,10 @@
 
 [arxiv 2023.09]MaskDiffusion: Boosting Text-to-Image Consistency with Conditional Mask [[PDF](https://arxiv.org/pdf/2309.04399.pdf)]
 
+[arxiv 2023.09]FreeU : Free Lunch in Diffusion U-Net [[PDF](https://arxiv.org/abs/2309.11497),[Page](https://chenyangsi.top/FreeU/)]
+
+
+
  
 ## Concept 
 *[Arxiv.2208; NVIDIA]  ***An Image is Worth One Word:*** Personalizing Text-to-Image Generation using Textual Inversion [[PDF](https://arxiv.org/abs/2208.01618), [Page](https://github.com/rinongal/textual_inversion), [Code](https://github.com/rinongal/textual_inversion) ]
