@@ -281,6 +281,8 @@
 
 [arxiv 2023.06]DiffSketcher: Text Guided Vector Sketch Synthesis through Latent Diffusion Models[[PDF](https://arxiv.org/abs/2306.14685)]
 
+[arxiv 2023.09]Text-Guided Vector Graphics Customization [[PDF](https://intchous.github.io/SVGCustomization/),[Page](https://intchous.github.io/SVGCustomization/)]
+
 ## Translation & composition
 [arxiv 2022; Google]Sketch-Guided Text-to-Image Diffusion Models \[[PDF](https://arxiv.org/pdf/2211.13752.pdf), code\]  
 
