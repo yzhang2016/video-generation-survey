@@ -148,7 +148,7 @@
 
 [arxiv 2023.09]FreeU : Free Lunch in Diffusion U-Net [[PDF](https://arxiv.org/abs/2309.11497),[Page](https://chenyangsi.top/FreeU/)]
 
-
+[arxiv 2023.09]Dream the Impossible: Outlier Imagination with Diffusion Models [[PDF](https://arxiv.org/abs/2309.13415)]
 
  
 ## Concept 
