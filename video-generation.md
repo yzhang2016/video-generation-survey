@@ -137,6 +137,8 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2023.08]Dysen-VDM: Empowering Dynamics-aware Text-to-Video Diffusion with Large Language Models [[PDF](https://arxiv.org/pdf/2308.13812.pdf), [Page](https://haofei.vip/Dysen-VDM/)]
 
+[arxiv 2023.09]LAVIE: HIGH-QUALITY VIDEO GENERATION WITH CASCADED LATENT DIFFUSION MODELS [[PDF](https://arxiv.org/pdf/2309.15103.pdf), [Page](https://vchitect.github.io/LaVie-project/)]
+
 
 ## :point_right: Controllable Video Generation 
 
