@@ -141,6 +141,9 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2023.09]Show-1: Marrying Pixel and Latent Diffusion Models for Text-to-Video Generation [[PDF](https://arxiv.org/abs/2309.15818), [Page](https://showlab.github.io/Show-1)]
 
+[arxiv 2023.09]VideoDirectorGPT: Consistent Multi-scene Video Generation via LLM-Guided Planning [[PDF](https://arxiv.org/abs/2309.15091), [Page](https://videodirectorgpt.github.io/)]
+
+
 ## :point_right: Controllable Video Generation 
 
 *[arxiv 2023.04]Motion-Conditioned Diffusion Model for Controllable Video Synthesis [[PDF](https://arxiv.org/abs/2304.14404), [Page](https://tsaishien-chen.github.io/MCDiff/)]
@@ -219,6 +222,8 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 [arxiv 2023.08]MagicEdit: High-Fidelity and Temporally Coherent Video Editing [[PDF](https://arxiv.org/pdf/2308.14749), [Page](https://magic-edit.github.io/)]
 
 [arxiv 2023.09]MagicProp: Diffusion-based Video Editing via Motionaware Appearance Propagation[[PDF](https://arxiv.org/pdf/2309.00908.pdf)]
+
+[arxiv 2023.09]Free-Bloom: Zero-Shot Text-to-Video Generator with LLM Director and LDM Animator[[PDF](https://arxiv.org/abs/2309.14494), [Page](https://github.com/SooLab/Free-Bloom)]
 
 ## :point_right: Video Completion (animation, interpolation, prediction)
 [arxiv 2022; Meta] Tell Me What Happened: Unifying Text-guided Video Completion via Multimodal Masked Video Generation \[[PDF](https://arxiv.org/pdf/2211.12824.pdf), code]
