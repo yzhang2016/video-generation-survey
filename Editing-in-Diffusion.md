@@ -150,6 +150,8 @@
 
 [arxiv 2023.09]Dream the Impossible: Outlier Imagination with Diffusion Models [[PDF](https://arxiv.org/abs/2309.13415)]
 
+[arxiv 2023.09]Dynamic Prompt Learning: Addressing Cross-Attention Leakage for Text-Based Image Editing [[PDF](https://arxiv.org/abs/2309.15664), [Page](https://github.com/wangkai930418/DPL)]
+
  
 ## Concept 
 *[Arxiv.2208; NVIDIA]  ***An Image is Worth One Word:*** Personalizing Text-to-Image Generation using Textual Inversion [[PDF](https://arxiv.org/abs/2208.01618), [Page](https://github.com/rinongal/textual_inversion), [Code](https://github.com/rinongal/textual_inversion) ]
@@ -392,7 +394,7 @@
 
 [arxiv 2023.08]LAW-Diffusion: Complex Scene Generation by Diffusion with Layouts [[PDF](https://arxiv.org/abs/2308.06713)]
 
-
+[arxiv 2023.09]DreamCom: Finetuning Text-guided Inpainting Model for Image Composition [[PDF](https://arxiv.org/abs/2309.15508)]
 
 ## Image Variation 
 [arxiv 2023.08]IP-Adapter: Text Compatible Image Prompt Adapter for Text-to-Image Diffusion Models [[PDF](https://arxiv.org/pdf/2308.06721.pdf), [Page](https://ip-adapter.github.io/)]
