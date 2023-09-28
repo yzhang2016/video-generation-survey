@@ -139,6 +139,7 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2023.09]LAVIE: HIGH-QUALITY VIDEO GENERATION WITH CASCADED LATENT DIFFUSION MODELS [[PDF](https://arxiv.org/pdf/2309.15103.pdf), [Page](https://vchitect.github.io/LaVie-project/)]
 
+[arxiv 2023.09]Show-1: Marrying Pixel and Latent Diffusion Models for Text-to-Video Generation [[PDF](https://arxiv.org/abs/2309.15818), [Page](https://showlab.github.io/Show-1)]
 
 ## :point_right: Controllable Video Generation 
 
