@@ -225,6 +225,9 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2023.09]Free-Bloom: Zero-Shot Text-to-Video Generator with LLM Director and LDM Animator[[PDF](https://arxiv.org/abs/2309.14494), [Page](https://github.com/SooLab/Free-Bloom)]
 
+[arxiv 2023.09]CCEdit: Creative and Controllable Video Editing via Diffusion Models [[PDF](https://arxiv.org/abs/2309.16496)]
+
+
 ## :point_right: Video Completion (animation, interpolation, prediction)
 [arxiv 2022; Meta] Tell Me What Happened: Unifying Text-guided Video Completion via Multimodal Masked Video Generation \[[PDF](https://arxiv.org/pdf/2211.12824.pdf), code]
 
