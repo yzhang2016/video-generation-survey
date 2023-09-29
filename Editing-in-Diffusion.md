@@ -286,6 +286,8 @@
 
 [arxiv 2023.09]Text-Guided Vector Graphics Customization [[PDF](https://intchous.github.io/SVGCustomization/),[Page](https://intchous.github.io/SVGCustomization/)]
 
+[arxiv 2023.09]Deep Geometrized Cartoon Line Inbetweening [[PDF](https://arxiv.org/abs/2309.16643),[Page](https://github.com/lisiyao21/AnimeInbet)]
+
 ## Translation & composition
 [arxiv 2022; Google]Sketch-Guided Text-to-Image Diffusion Models \[[PDF](https://arxiv.org/pdf/2211.13752.pdf), code\]  
 
