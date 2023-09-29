@@ -163,6 +163,8 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2023.09]Generative Image Dynamics [[PDF](https://arxiv.org/abs/2309.07906),[Page](http://generative-dynamics.github.io/)]
 
+## Audio-to-video Generation
+[arxiv 2023.09]Diverse and Aligned Audio-to-Video Generation via Text-to-Video Model Adaptation [[PDF](https://arxiv.org/abs/2309.16429)]
 
 ## Image Model for video generation and editing 
 *[arxiv 2022.12]Tune-A-Video: One-Shot Tuning of Image Diffusion Models for Text-to-Video Generation [[PDF](https://arxiv.org/abs/2212.11565), [Page](https://tuneavideo.github.io/)]
