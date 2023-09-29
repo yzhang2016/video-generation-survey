@@ -22,6 +22,10 @@
 
 [arxiv 2023.07]SDXL: Improving Latent Diffusion Models for High-Resolution Image Synthesi [[PDF](https://arxiv.org/abs/2307.01952), [Page](https://github.com/Stability-AI/generative-models/tree/main)]
 
+[arxiv 2023.09]Emu: Enhancing Image Generation Models Using Photogenic Needles in a Haystack [[PDF](https://arxiv.org/abs/2309.15807),[Page](https://ai.meta.com/research/publications/emu-enhancing-image-generation-models-using-photogenic-needles-in-a-haystack/)]
+
+
+
 ## GAN/VAE/Transformer-based 
 
 [ICML 2021; OpenAI ] Zero-Shot Text-to-Image Generation \[[PDF](https://arxiv.org/pdf/2102.12092.pdf), [Code 3](https://github.com/YoadTew/zero-shot-image-to-text)\]
