@@ -164,6 +164,8 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2023.09]VideoDirectorGPT: Consistent Multi-scene Video Generation via LLM-Guided Planning [[PDF](https://arxiv.org/abs/2309.15091), [Page](https://videodirectorgpt.github.io/)]
 
+[arxiv 2023.10]LLM-grounded Video Diffusion Models [[PDF](https://arxiv.org/abs/2309.17444),[Page](https://llm-grounded-video-diffusion.github.io/)]
+
 
 ## :point_right: Controllable Video Generation 
 
