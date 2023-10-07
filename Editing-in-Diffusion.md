@@ -162,6 +162,9 @@
 
 [arxiv 2023.10]Guiding Instruction-based Image Editing via Multimodal Large Language Models [[PDF](https://arxiv.org/abs/2309.17102),[Page](https://mllm-ie.github.io/)]
 
+[arxiv 2023.10]Kandinsky: an Improved Text-to-Image Synthesis with Image Prior and Latent Diffusion [[PDF](https://arxiv.org/abs/2310.03502)]
+
+
  
 ## Concept 
 *[Arxiv.2208; NVIDIA]  ***An Image is Worth One Word:*** Personalizing Text-to-Image Generation using Textual Inversion [[PDF](https://arxiv.org/abs/2208.01618), [Page](https://github.com/rinongal/textual_inversion), [Code](https://github.com/rinongal/textual_inversion) ]
