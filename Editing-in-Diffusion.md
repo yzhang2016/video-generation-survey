@@ -159,6 +159,9 @@
 [arxiv 2023.10]InstructCV: Instruction-Tuned Text-to-Image Diffusion Models as Vision Generalists [[PDF](https://arxiv.org/abs/2310.00390)]
 
 [arxiv 2023.10]Steered Diffusion: A Generalized Framework for Plug-and-Play Conditional Image Synthesis [[PDF](https://arxiv.org/abs/2310.00224)]
+
+[arxiv 2023.10]Guiding Instruction-based Image Editing via Multimodal Large Language Models [[PDF](https://arxiv.org/abs/2309.17102),[Page](https://mllm-ie.github.io/)]
+
  
 ## Concept 
 *[Arxiv.2208; NVIDIA]  ***An Image is Worth One Word:*** Personalizing Text-to-Image Generation using Textual Inversion [[PDF](https://arxiv.org/abs/2208.01618), [Page](https://github.com/rinongal/textual_inversion), [Code](https://github.com/rinongal/textual_inversion) ]
