@@ -153,6 +153,9 @@
 [arxiv 2023.09]Dynamic Prompt Learning: Addressing Cross-Attention Leakage for Text-Based Image Editing [[PDF](https://arxiv.org/abs/2309.15664), [Page](https://github.com/wangkai930418/DPL)]
 
 [arxiv 2023.09]RealFill: Reference-Driven Generation for Authentic Image Completion [[PDF](https://arxiv.org/pdf/2309.16668.pdf), [Page](https://realfill.github.io/)]
+
+[arxiv 2023.10]Aligning Text-to-Image Diffusion Models with Reward Backpropagation [[PDF](https://arxiv.org/abs/2310.03739),[Page](https://align-prop.github.io/)]
+
  
 ## Concept 
 *[Arxiv.2208; NVIDIA]  ***An Image is Worth One Word:*** Personalizing Text-to-Image Generation using Textual Inversion [[PDF](https://arxiv.org/abs/2208.01618), [Page](https://github.com/rinongal/textual_inversion), [Code](https://github.com/rinongal/textual_inversion) ]
