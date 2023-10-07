@@ -156,6 +156,9 @@
 
 [arxiv 2023.10]Aligning Text-to-Image Diffusion Models with Reward Backpropagation [[PDF](https://arxiv.org/abs/2310.03739),[Page](https://align-prop.github.io/)]
 
+[arxiv 2023.10]InstructCV: Instruction-Tuned Text-to-Image Diffusion Models as Vision Generalists [[PDF](https://arxiv.org/abs/2310.00390)]
+
+[arxiv 2023.10]Steered Diffusion: A Generalized Framework for Plug-and-Play Conditional Image Synthesis [[PDF](https://arxiv.org/abs/2310.00224)]
  
 ## Concept 
 *[Arxiv.2208; NVIDIA]  ***An Image is Worth One Word:*** Personalizing Text-to-Image Generation using Textual Inversion [[PDF](https://arxiv.org/abs/2208.01618), [Page](https://github.com/rinongal/textual_inversion), [Code](https://github.com/rinongal/textual_inversion) ]
@@ -528,7 +531,7 @@
 
 [arxiv  2023.08]Manipulating Embeddings of Stable Diffusion Prompts [[PDF](https://arxiv.org/pdf/2308.12059.pdf)]
 
-
+[arxiv 2023.10]Text-image Alignment for Diffusion-based Perception [[PDF](https://arxiv.org/abs/2310.00031),[Page](https://www.vision.caltech.edu/tadp/)]
 
 ## Related 
 
