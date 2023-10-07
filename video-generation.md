@@ -3,6 +3,25 @@ A reading list of video generation
 
 ### [Related Text-to-image Generation and Super-resolution](https://github.com/yzhang2016/video-generation-survey/blob/main/Text-to-Image.MD)
 
+## :point_right: Models to play with
+
+* **Gen-1/Gen-2** [[Page](https://research.runwayml.com/gen2)]
+
+* **Pika Lab** [[Page](https://www.pika.art/)], [[Discord](http://discord.gg/pika)]
+
+* **Floor33** [[Page](http://floor33.tech/)], [[Discord](https://discord.gg/rrayYqZ4tf)], [[Code & Models](https://github.com/AILab-CVC/VideoCrafter)]
+
+* **ModelScope** [[Page](https://modelscope.cn/models/damo/text-to-video-synthesis/summary), [i2v](https://modelscope.cn/models/damo/Image-to-Video/summary)], [[Code & Models](https://modelscope.cn/models/damo/text-to-video-synthesis/summary)]
+
+* **Morph Studio** [[Page](https://www.morphstudio.xyz/)], [[Discord](https://discord.gg/hjd9JvXTU5)]
+  
+* **Hotshot-XL** [[Page](https://hotshot.co/)], [[Code & Models](https://github.com/hotshotco/Hotshot-XL)]
+
+* **Moonvalley** [[Page](https://moonvalley.ai/)], [[Discord](https://discord.gg/vk3aaH7r)]
+
+
+
+
 ## :point_right: Databases
 
 * **HowTo100M**
