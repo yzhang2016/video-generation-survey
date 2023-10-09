@@ -58,6 +58,7 @@
 
 [arxiv 2023.07]Scaling Autoregressive Multi-Modal Models: Pretraining and Instruction Tuning [[PDF](https://ai.meta.com/research/publications/scaling-autoregressive-multi-modal-models-pretraining-and-instruction-tuning/)]
 
+[arxiv 2023.10]PIXART-α: Fast Training of Diffusion Transformer for Photorealistic Text-to-Image Synthesis [[PDF](https://arxiv.org/abs/2310.00426), [Page](https://pixart-alpha.github.io/)]
 
 # Generation & Super-resolution 
 
