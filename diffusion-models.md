@@ -64,3 +64,5 @@
 [arxiv 2023.04]Patch Diffusion: Faster and More Data-Efficient Training of Diffusion Models [[PDF](https://arxiv.org/abs/2304.12526)]
 
 [arxiv 2023.06]SnapFusion: Text-to-Image Diffusion Model on Mobile Devices within Two Seconds [[PDF](https://arxiv.org/abs/2306.00980), [Page](https://snap-research.github.io/SnapFusion/)]
+
+[arxiv 2023.10]LATENT CONSISTENCY MODELS: SYNTHESIZING HIGH-RESOLUTION IMAGES WITH FEW-STEP INFERENCE [[PDF](https://arxiv.org/abs/2310.04378.pdf),[Page](https://latent-consistency-models.github.io/)]
