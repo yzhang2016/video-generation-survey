@@ -22,7 +22,7 @@ A reading list of video generation
 * **Moonvalley** [[Page](https://moonvalley.ai/)], [[Discord](https://discord.gg/vk3aaH7r)]
 
 * **Morph Studio** [[Page](https://www.morphstudio.xyz/)], [[Discord](https://discord.gg/hjd9JvXTU5)]
-
+* **Lensgo** [[Page](https://lensgo.ai/), [Discord]()]
 
 ## :point_right: Databases
 
