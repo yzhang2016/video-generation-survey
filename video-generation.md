@@ -22,6 +22,7 @@ A reading list of video generation
 * **Moonvalley** [[Page](https://moonvalley.ai/)], [[Discord](https://discord.gg/vk3aaH7r)]
 
 * **Morph Studio** [[Page](https://www.morphstudio.xyz/)], [[Discord](https://discord.gg/hjd9JvXTU5)]
+  
 * **Lensgo** [[Page](https://lensgo.ai/), [Discord]()]
 
 ## :point_right: Databases
@@ -253,6 +254,8 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 [arxiv 2023.09]CCEdit: Creative and Controllable Video Editing via Diffusion Models [[PDF](https://arxiv.org/abs/2309.16496)]
 
 [arxiv 2023.10]Ground-A-Video: Zero-shot Grounded Video Editing using Text-to-image Diffusion Models [[PDF](https://arxiv.org/abs/2310.01107),[Page](https://ground-a-video.github.io/)]
+
+[arxiv 2023.10]FLATTEN: optical FLow-guided ATTENtion for consistent text-to-video editing [[PDF](https://arxiv.org/abs/2310.05922),[Page](https://flatten-video-editing.github.io/)]
 
 ## :point_right: Video Completion (animation, interpolation, prediction)
 [arxiv 2022; Meta] Tell Me What Happened: Unifying Text-guided Video Completion via Multimodal Masked Video Generation \[[PDF](https://arxiv.org/pdf/2211.12824.pdf), code]
