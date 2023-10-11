@@ -539,6 +539,10 @@
 
 [arxiv 2023.10]Text-image Alignment for Diffusion-based Perception [[PDF](https://arxiv.org/abs/2310.00031),[Page](https://www.vision.caltech.edu/tadp/)]
 
+[arxiv 2023.10]What Does Stable Diffusion Know about the 3D Scene? [[PDF](https://arxiv.org/abs/2310.06836)]
+
+
+
 ## Related 
 
 [arxiv 2022.04]VQGAN-CLIP: Open Domain Image Generation and Editing with Natural Language Guidance [[PDF](https://arxiv.org/abs/2204.08583), [Code](https://github.com/EleutherAI/vqgan-clip/tree/main/notebooks)]
