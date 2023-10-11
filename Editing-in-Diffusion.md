@@ -164,6 +164,7 @@
 
 [arxiv 2023.10]Kandinsky: an Improved Text-to-Image Synthesis with Image Prior and Latent Diffusion [[PDF](https://arxiv.org/abs/2310.03502)]
 
+[arxiv 2023.10]JOINTNET: EXTENDING TEXT-TO-IMAGE DIFFUSION FOR DENSE DISTRIBUTION MODELING [[PDF](https://arxiv.org/pdf/2310.06347.pdf)]
 
  
 ## Concept 
