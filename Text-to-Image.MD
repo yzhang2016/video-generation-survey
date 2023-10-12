@@ -24,6 +24,7 @@
 
 [arxiv 2023.09]Emu: Enhancing Image Generation Models Using Photogenic Needles in a Haystack [[PDF](https://arxiv.org/abs/2309.15807),[Page](https://ai.meta.com/research/publications/emu-enhancing-image-generation-models-using-photogenic-needles-in-a-haystack/)]
 
+[arxiv 2023.10] ScaleCrafter: Tuning-free Higher-Resolution Visual Generation with Diffusion Models [[PDF](https://arxiv.org/abs/2310.07702), [Page](https://yingqinghe.github.io/scalecrafter/)]
 
 
 ## GAN/VAE/Transformer-based 
