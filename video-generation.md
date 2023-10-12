@@ -262,9 +262,7 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2023.10]FLATTEN: optical FLow-guided ATTENtion for consistent text-to-video editing [[PDF](https://arxiv.org/abs/2310.05922),[Page](https://flatten-video-editing.github.io/)]
 
-[arxiv 2023.10]ConditionVideo: Training-Free Condition-Guided Text-to-Video Generation [[PDF](https://arxiv.org/abs/2310.07697)]
-
-
+[arxiv 2023.10]ConditionVideo: Training-Free Condition-Guided Text-to-Video Generation [[PDF](https://arxiv.org/abs/2310.07697),[Page](https://pengbo807.github.io/conditionvideo-website/)]
 
 
 ## :point_right: Video Completion (animation, interpolation, prediction)
