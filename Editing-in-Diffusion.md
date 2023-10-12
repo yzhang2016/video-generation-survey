@@ -167,6 +167,9 @@
 [arxiv 2023.10]JOINTNET: EXTENDING TEXT-TO-IMAGE DIFFUSION FOR DENSE DISTRIBUTION MODELING [[PDF](https://arxiv.org/pdf/2310.06347.pdf)]
 
 [arxiv 2023.10] ScaleCrafter: Tuning-free Higher-Resolution Visual Generation with Diffusion Models [[PDF](https://arxiv.org/abs/2310.07702), [Page](https://yingqinghe.github.io/scalecrafter/)]
+
+[arxiv 2023.10]Uni-paint: A Unified Framework for Multimodal Image Inpainting with Pretrained Diffusion Model [[PDF](https://arxiv.org/abs/2310.07222)]
+
  
 ## Concept 
 *[Arxiv.2208; NVIDIA]  ***An Image is Worth One Word:*** Personalizing Text-to-Image Generation using Textual Inversion [[PDF](https://arxiv.org/abs/2208.01618), [Page](https://github.com/rinongal/textual_inversion), [Code](https://github.com/rinongal/textual_inversion) ]
