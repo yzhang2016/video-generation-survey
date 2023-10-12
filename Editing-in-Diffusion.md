@@ -236,6 +236,8 @@
 
 [arxiv 2023.09]MagiCapture: High-Resolution Multi-Concept Portrait Customization [[PDF](https://arxiv.org/abs/2309.06895)]
 
+[arxiv 2023.10]Multi-Concept T2I-Zero: Tweaking Only The Text Embeddings and Nothing Else [[PDF](https://arxiv.org/abs/2310.07419)]
+
 
 ## Story-telling
 
