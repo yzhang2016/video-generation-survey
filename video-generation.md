@@ -182,6 +182,7 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2023.07]Animate-A-Story: Storytelling with Retrieval-Augmented Video Generation [[PDF](https://arxiv.org/abs/2307.06940), [Page](https://videocrafter.github.io/Animate-A-Story)]
 
+
 ## Video outpainting 
 
 [MM 2023.09]Hierarchical Masked 3D Diffusion Model for Video Outpainting [[PDF](https://arxiv.org/abs/2309.02119)]
@@ -260,6 +261,11 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 [arxiv 2023.10]Ground-A-Video: Zero-shot Grounded Video Editing using Text-to-image Diffusion Models [[PDF](https://arxiv.org/abs/2310.01107),[Page](https://ground-a-video.github.io/)]
 
 [arxiv 2023.10]FLATTEN: optical FLow-guided ATTENtion for consistent text-to-video editing [[PDF](https://arxiv.org/abs/2310.05922),[Page](https://flatten-video-editing.github.io/)]
+
+[arxiv 2023.10]ConditionVideo: Training-Free Condition-Guided Text-to-Video Generation [[PDF](https://arxiv.org/abs/2310.07697)]
+
+
+
 
 ## :point_right: Video Completion (animation, interpolation, prediction)
 [arxiv 2022; Meta] Tell Me What Happened: Unifying Text-guided Video Completion via Multimodal Masked Video Generation \[[PDF](https://arxiv.org/pdf/2211.12824.pdf), code]
