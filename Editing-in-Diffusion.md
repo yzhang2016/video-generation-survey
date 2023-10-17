@@ -173,6 +173,12 @@
 [arxiv 2023.10]Unsupervised Discovery of Interpretable Directions in h-space of Pre-trained Diffusion Models [[PDF](https://arxiv.org/abs/2310.09912)]
 
 [arxiv 2023.10]Iterative Self-Refinement with GPT-4V(ision) for Automatic Image Design and Generation [[PDf](https://arxiv.org/abs/2310.08541),[Page](https://idea2img.github.io/)]
+
+[arxiv 2023.10]SingleInsert: Inserting New Concepts from a Single Image into Text-to-Image Models for Flexible Editing [[PDF](https://arxiv.org/abs/2310.08094),[Page](https://jarrentwu1031.github.io/SingleInsert-web/)]
+
+
+
+
  
 ## Concept 
 *[Arxiv.2208; NVIDIA]  ***An Image is Worth One Word:*** Personalizing Text-to-Image Generation using Textual Inversion [[PDF](https://arxiv.org/abs/2208.01618), [Page](https://github.com/rinongal/textual_inversion), [Code](https://github.com/rinongal/textual_inversion) ]
