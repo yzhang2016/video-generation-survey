@@ -170,6 +170,9 @@
 
 [arxiv 2023.10]Uni-paint: A Unified Framework for Multimodal Image Inpainting with Pretrained Diffusion Model [[PDF](https://arxiv.org/abs/2310.07222)]
 
+[arxiv 2023.10]Unsupervised Discovery of Interpretable Directions in h-space of Pre-trained Diffusion Models [[PDF](https://arxiv.org/abs/2310.09912)]
+
+[arxiv 2023.10]Iterative Self-Refinement with GPT-4V(ision) for Automatic Image Design and Generation [[PDf](https://arxiv.org/abs/2310.08541),[Page](https://idea2img.github.io/)]
  
 ## Concept 
 *[Arxiv.2208; NVIDIA]  ***An Image is Worth One Word:*** Personalizing Text-to-Image Generation using Textual Inversion [[PDF](https://arxiv.org/abs/2208.01618), [Page](https://github.com/rinongal/textual_inversion), [Code](https://github.com/rinongal/textual_inversion) ]
