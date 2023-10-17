@@ -264,6 +264,7 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2023.10]ConditionVideo: Training-Free Condition-Guided Text-to-Video Generation [[PDF](https://arxiv.org/abs/2310.07697),[Page](https://pengbo807.github.io/conditionvideo-website/)]
 
+[arxiv 2023.10, nerf] DynVideo-E: Harnessing Dynamic NeRF for Large-Scale Motion- and View-Change Human-Centric Video Editing [[PDF](https://arxiv.org/abs/2310.10624), [Page](https://showlab.github.io/DynVideo-E/)]
 
 ## :point_right: Video Completion (animation, interpolation, prediction)
 [arxiv 2022; Meta] Tell Me What Happened: Unifying Text-guided Video Completion via Multimodal Masked Video Generation \[[PDF](https://arxiv.org/pdf/2211.12824.pdf), code]
@@ -284,6 +285,10 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 ## domain transfer 
 [arxiv 2023.06]Probabilistic Adaptation of Text-to-Video Models [[PDF](https://arxiv.org/abs/2306.01872)]
+
+
+## Survey
+[arxiv 2023.03]A Survey on Video Diffusion Models [[PDF](https://arxiv.org/abs/2310.10647)]
 
 
 ## Others 
