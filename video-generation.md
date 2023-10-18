@@ -267,6 +267,9 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2023.10, nerf] DynVideo-E: Harnessing Dynamic NeRF for Large-Scale Motion- and View-Change Human-Centric Video Editing [[PDF](https://arxiv.org/abs/2310.10624), [Page](https://showlab.github.io/DynVideo-E/)]
 
+[arxiv 2023.10]LAMP: Learn A Motion Pattern for Few-Shot-Based Video Generation [[PDF](https://arxiv.org/abs/2310.10769),[Page](https://rq-wu.github.io/projects/LAMP/index.html)]
+
+
 ## :point_right: Video Completion (animation, interpolation, prediction)
 [arxiv 2022; Meta] Tell Me What Happened: Unifying Text-guided Video Completion via Multimodal Masked Video Generation \[[PDF](https://arxiv.org/pdf/2211.12824.pdf), code]
 
@@ -286,6 +289,9 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 ## domain transfer 
 [arxiv 2023.06]Probabilistic Adaptation of Text-to-Video Models [[PDF](https://arxiv.org/abs/2306.01872)]
+
+## Evaluation 
+[arxiv 2023.10]EvalCrafter: Benchmarking and Evaluating Large Video Generation Models [[PDF](https://arxiv.org/abs/2310.11440),[Page](https://evalcrafter.github.io/)]
 
 
 ## Survey
