@@ -13,6 +13,8 @@ A reading list of video generation
 
 * **Hotshot-XL** [[Page](https://hotshot.co/)], [[Code & Models](https://github.com/hotshotco/Hotshot-XL)]
 
+* **AnimeDiff** [[Page](https://animatediff.github.io/), [Code & Models](https://github.com/guoyww/AnimateDiff)]
+
 ### Non-open source
 
 * **Gen-1/Gen-2** [[Page](https://research.runwayml.com/gen2)]
