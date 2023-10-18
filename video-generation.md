@@ -25,6 +25,8 @@ A reading list of video generation
   
 * **Lensgo** [[Page](https://lensgo.ai/), [Discord]()]
 
+* **Genmo** [[Page](https://www.genmo.ai/)]
+
 ## :point_right: Databases
 
 * **HowTo100M**
