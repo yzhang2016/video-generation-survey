@@ -15,6 +15,8 @@ A reading list of video generation
 
 * **AnimeDiff** [[Page](https://animatediff.github.io/), [Code & Models](https://github.com/guoyww/AnimateDiff)]
 
+* **Zeroscope V2 XL** [[Page](https://huggingface.co/cerspense/zeroscope_v2_XL)]
+
 ### Non-open source
 
 * **Gen-1/Gen-2** [[Page](https://research.runwayml.com/gen2)]
