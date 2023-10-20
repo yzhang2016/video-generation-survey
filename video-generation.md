@@ -197,6 +197,9 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2023.09]Generative Image Dynamics [[PDF](https://arxiv.org/abs/2309.07906),[Page](http://generative-dynamics.github.io/)]
 
+[arxiv 2023.10]DynamiCrafter: Animating Open-domain Images with Video Diffusion Priors [[PDF](https://arxiv.org/abs/2310.12190), [Page](https://github.com/AILab-CVC/VideoCrafter)]
+
+
 ## Audio-to-video Generation
 [arxiv 2023.09]Diverse and Aligned Audio-to-Video Generation via Text-to-Video Model Adaptation [[PDF](https://arxiv.org/abs/2309.16429)]
 
