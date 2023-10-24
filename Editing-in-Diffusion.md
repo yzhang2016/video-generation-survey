@@ -176,7 +176,7 @@
 
 [arxiv 2023.10]SingleInsert: Inserting New Concepts from a Single Image into Text-to-Image Models for Flexible Editing [[PDF](https://arxiv.org/abs/2310.08094),[Page](https://jarrentwu1031.github.io/SingleInsert-web/)]
 
-
+[arxiv 2023.10]CycleNet: Rethinking Cycle Consistency in Text-Guided Diffusion for Image Manipulation [[PDF](https://arxiv.org/abs/2310.13165) ]
 
 
  
