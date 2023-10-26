@@ -94,6 +94,11 @@
 *[arxiv 2022.12] Scalable Diffusion Models with Transformers [[PDF](https://arxiv.org/abs/2212.09748), [Page](https://www.wpeebles.com/DiT)]
 
 
+## Benchmark 
+[arxiv 2023.10]DEsignBench: Exploring and Benchmarking DALL-E 3 for Imagining Visual Design [[PDF](https://arxiv.org/abs/2310.15144), [Page](https://design-bench.github.io/)]
+
+
+
 
 ## Study 
 [arxiv 2023.02] A Pilot Evaluation of ChatGPT and DALL-E 2 on Decision Making and Spatial Reasoning [[PDF](https://arxiv.org/abs/2302.09068)]
