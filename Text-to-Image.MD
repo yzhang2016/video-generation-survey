@@ -11,7 +11,7 @@
 
 * **DiffusionDB** DiffusionDB: A Large-scale Prompt Gallery Dataset for Text-to-Image Generative Models [[PDF](https://arxiv.org/abs/2210.14896), [Page](https://github.com/poloclub/diffusiondb)]
 
-    Feature: 14 millions of Stable Diffusion
+    Feature: 14 millions of Stable Diffusion images 
   
 
 
