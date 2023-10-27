@@ -24,6 +24,7 @@
 
 [arxiv 2023.09]Emu: Enhancing Image Generation Models Using Photogenic Needles in a Haystack [[PDF](https://arxiv.org/abs/2309.15807),[Page](https://ai.meta.com/research/publications/emu-enhancing-image-generation-models-using-photogenic-needles-in-a-haystack/)]
 
+[arxiv 2023.10]Matryoshka Diffusion Models [[PDF](https://arxiv.org/abs/2310.15111)]
 
 
 
@@ -110,6 +111,9 @@
 [arxiv 2023.02] Unsupervised Discovery of Semantic Latent Directions in Diffusion Models [[PDF](https://arxiv.org/pdf/2302.12469.pdf)]
 
 [arxiv 2023.03]A Prompt Log Analysis of Text-to-Image Generation Systems [[PDF](https://arxiv.org/abs/2303.04587)]
+
+[arxiv 2023.10]A Picture is Worth a Thousand Words: Principled Recaptioning Improves Image Generation[[PDF](https://arxiv.org/abs/2310.16656)]
+
 
 ### Image caption 
 [arxiv 2023.07]SITTA: A Semantic Image-Text Alignment for Image Captioning [[PDF](https://arxiv.org/abs/2307.05591), [Page](https://github.com/ml-jku/semantic-image-text-alignment)]
