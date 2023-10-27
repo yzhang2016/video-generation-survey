@@ -1,7 +1,8 @@
 # Text-to-image Generation 
 
 ## AIGC Datasets 
- --CommonCanvas CommonCanvas: An Open Diffusion Model Trained with Creative-Commons Images [[PDF](https://arxiv.org/abs/2310.16825)] | 70 millions of images
+ * **CommonCanvas** CommonCanvas: An Open Diffusion Model Trained with Creative-Commons Images [[PDF](https://arxiv.org/abs/2310.16825)]
+Feature: 70 millions of high-quality images with high-quality synthetic captions
 
   
 
