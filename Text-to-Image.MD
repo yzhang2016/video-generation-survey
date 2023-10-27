@@ -2,15 +2,12 @@
 
 ## AIGC Datasets 
  * **CommonCanvas** CommonCanvas: An Open Diffusion Model Trained with Creative-Commons Images [[PDF](https://arxiv.org/abs/2310.16825)]
-
 Feature: 70 millions of high-quality images with high-quality synthetic captions
 
-* **JDB** JourneyDB: A Benchmark for Generative Image Understanding [[PDF](https://arxiv.org/abs/2307.00716), [Page](https://journeydb.github.io/)]  \\
-
+* **JDB** JourneyDB: A Benchmark for Generative Image Understanding [[PDF](https://arxiv.org/abs/2307.00716), [Page](https://journeydb.github.io/)]
 Feature: 4 millions of Midjourney images 
 
 * **DiffusionDB** DiffusionDB: A Large-scale Prompt Gallery Dataset for Text-to-Image Generative Models [[PDF](https://arxiv.org/abs/2210.14896), [Page](https://github.com/poloclub/diffusiondb)]
-
 Feature: 14 millions of Stable Diffusion
   
 
