@@ -5,7 +5,7 @@
 
 Feature: 70 millions of high-quality images with high-quality synthetic captions
 
-* **JDB** JourneyDB: A Benchmark for Generative Image Understanding [[PDF](https://arxiv.org/abs/2307.00716), [Page](https://journeydb.github.io/)]
+* **JDB** JourneyDB: A Benchmark for Generative Image Understanding [[PDF](https://arxiv.org/abs/2307.00716), [Page](https://journeydb.github.io/)]  \\
 
 Feature: 4 millions of Midjourney images 
 
