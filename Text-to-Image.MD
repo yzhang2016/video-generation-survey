@@ -1,5 +1,11 @@
 # Text-to-image Generation 
 
+## AIGC Datasets 
+ **Comm**
+
+
+
+
 ## Diffusion-based 
 
 *[ICML 2021; OpenAI ] **---GLIDE---** GLIDE: Towards Photorealistic Image Generation and Editing with Text-Guided Diffusion Models \[[PDF](https://arxiv.org/pdf/2112.10741.pdf), [Code](https://github.com/openai/glide-text2im)\]
