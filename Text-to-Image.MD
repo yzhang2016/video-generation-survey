@@ -130,6 +130,9 @@
 
 [arxiv 2023.10]A Picture is Worth a Thousand Words: Principled Recaptioning Improves Image Generation[[PDF](https://arxiv.org/abs/2310.16656)]
 
+[arxiv 2023.10]Davidsonian Scene Graph: Improving Reliability in Fine-grained Evaluation for Text-Image Generation
+[[PDF](https://arxiv.org/abs/2310.18235),[Page](https://google.github.io/DSG)]
+
 
 ### Image caption 
 [arxiv 2023.07]SITTA: A Semantic Image-Text Alignment for Image Captioning [[PDF](https://arxiv.org/abs/2307.05591), [Page](https://github.com/ml-jku/semantic-image-text-alignment)]
