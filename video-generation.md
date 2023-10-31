@@ -119,7 +119,6 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 *[arxiv 2022; Google] **---PHENAKI--** PHENAKI: VARIABLE LENGTH VIDEO GENERATION FROM OPEN DOMAIN TEXTUAL DESCRIPTIONS \[[PDF](https://arxiv.org/pdf/2210.02399.pdf), code \]
 
-
 [arxiv 2022.12]MAGVIT: Masked Generative Video Transformer[[PDF](https://arxiv.org/pdf/2212.05199.pdf)]
 
 
@@ -172,6 +171,8 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 [arxiv 2023.09]VideoDirectorGPT: Consistent Multi-scene Video Generation via LLM-Guided Planning [[PDF](https://arxiv.org/abs/2309.15091), [Page](https://videodirectorgpt.github.io/)]
 
 [arxiv 2023.10]LLM-grounded Video Diffusion Models [[PDF](https://arxiv.org/abs/2309.17444),[Page](https://llm-grounded-video-diffusion.github.io/)]
+
+[arxiv 2023.10]VideoCrafter1: Open Diffusion Models for High-Quality Video Generation [[PDF](https://arxiv.org/abs/2310.19512),[Page](https://github.com/AILab-CVC/VideoCrafter)]
 
 
 ## Higher Resolution 
