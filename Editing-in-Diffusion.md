@@ -178,6 +178,7 @@
 
 [arxiv 2023.10]CycleNet: Rethinking Cycle Consistency in Text-Guided Diffusion for Image Manipulation [[PDF](https://arxiv.org/abs/2310.13165) ]
 
+[arxiv 2023.10]CustomNet: Zero-shot Object Customization with Variable-Viewpoints in Text-to-Image Diffusion Models[[PDF](https://arxiv.org/abs/2310.19784),[Page](https://jiangyzy.github.io/CustomNet/)]
 
  
 ## Concept 
