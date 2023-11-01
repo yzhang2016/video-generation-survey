@@ -202,6 +202,8 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2023.10]DynamiCrafter: Animating Open-domain Images with Video Diffusion Priors [[PDF](https://arxiv.org/abs/2310.12190), [Page](https://github.com/AILab-CVC/VideoCrafter)]
 
+[arxiv 2023.11]SEINE: Short-to-Long Video Diffusion Model for Generative Transition and Prediction [[PDF](https://arxiv.org/abs/2310.20700),[Page](https://vchitect.github.io/SEINE-project/)]
+
 ## long video generation 
 [arxiv 2023.]Gen-L-Video: Long Video Generation via Temporal Co-Denoising [[PDF](https://arxiv.org/abs/2305.18264), [Page](https://g-u-n.github.io/projects/gen-long-video/index.html)]
 
