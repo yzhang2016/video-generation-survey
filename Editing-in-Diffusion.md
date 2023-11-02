@@ -180,6 +180,9 @@
 
 [arxiv 2023.10]CustomNet: Zero-shot Object Customization with Variable-Viewpoints in Text-to-Image Diffusion Models[[PDF](https://arxiv.org/abs/2310.19784),[Page](https://jiangyzy.github.io/CustomNet/)]
 
+[arxiv 2023.11]LLaVA-Interactive: An All-in-One Demo for Image Chat, Segmentation, Generation and Editing [[PDF](https://arxiv.org/abs/2311.00571),[Page](https://llava-vl.github.io/llava-interactive/)]
+
+
  
 ## Concept 
 *[Arxiv.2208; NVIDIA]  ***An Image is Worth One Word:*** Personalizing Text-to-Image Generation using Textual Inversion [[PDF](https://arxiv.org/abs/2208.01618), [Page](https://github.com/rinongal/textual_inversion), [Code](https://github.com/rinongal/textual_inversion) ]
