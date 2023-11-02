@@ -286,6 +286,8 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2023.10]LAMP: Learn A Motion Pattern for Few-Shot-Based Video Generation [[PDF](https://arxiv.org/abs/2310.10769),[Page](https://rq-wu.github.io/projects/LAMP/index.html)]
 
+[arxiv 2023.11]LATENTWARP: CONSISTENT DIFFUSION LATENTS FOR ZERO-SHOT VIDEO-TO-VIDEO TRANSLATION [[PDF](https://arxiv.org/pdf/2311.00353.pdf)]
+
 
 ## :point_right: Video Completion (animation, interpolation, prediction)
 [arxiv 2022; Meta] Tell Me What Happened: Unifying Text-guided Video Completion via Multimodal Masked Video Generation \[[PDF](https://arxiv.org/pdf/2211.12824.pdf), code]
