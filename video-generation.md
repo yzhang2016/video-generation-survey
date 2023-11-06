@@ -121,6 +121,8 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2022.12]MAGVIT: Masked Generative Video Transformer[[PDF](https://arxiv.org/pdf/2212.05199.pdf)]
 
+[arxiv 2023.11]Optimal Noise pursuit for Augmenting Text-to-Video Generation [[PDF](https://arxiv.org/abs/2311.00949)]
+
 
 
 ## :point_right: Diffusion-based methods 
@@ -173,6 +175,9 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 [arxiv 2023.10]LLM-grounded Video Diffusion Models [[PDF](https://arxiv.org/abs/2309.17444),[Page](https://llm-grounded-video-diffusion.github.io/)]
 
 [arxiv 2023.10]VideoCrafter1: Open Diffusion Models for High-Quality Video Generation [[PDF](https://arxiv.org/abs/2310.19512),[Page](https://github.com/AILab-CVC/VideoCrafter)]
+
+
+
 
 
 ## Higher Resolution 
