@@ -431,6 +431,9 @@
 
 [arxiv 2023.09]DreamCom: Finetuning Text-guided Inpainting Model for Image Composition [[PDF](https://arxiv.org/abs/2309.15508)]
 
+[arxiv 2023.11]Cross-Image Attention for Zero-Shot Appearance Transfer[[PDF](https://arxiv.org/abs/2311.03335), [Page](https://garibida.github.io/cross-image-attention)]
+
+
 ## Image Variation 
 [arxiv 2023.08]IP-Adapter: Text Compatible Image Prompt Adapter for Text-to-Image Diffusion Models [[PDF](https://arxiv.org/pdf/2308.06721.pdf), [Page](https://ip-adapter.github.io/)]
 
