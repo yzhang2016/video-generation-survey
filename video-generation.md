@@ -218,7 +218,8 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2023.11]SEINE: Short-to-Long Video Diffusion Model for Generative Transition and Prediction [[PDF](https://arxiv.org/abs/2310.20700),[Page](https://vchitect.github.io/SEINE-project/)]
 
-
+[arxiv 2023.11]I2VGen-XL: High-Quality Image-to-Video Synthesis via Cascaded Diffusion Models
+[[PDF](https://arxiv.org/abs/2311.04145),[Page](https://i2vgen-xl.github.io/page04.html)]
 
 ## long video generation 
 [arxiv 2023.]Gen-L-Video: Long Video Generation via Temporal Co-Denoising [[PDF](https://arxiv.org/abs/2305.18264), [Page](https://g-u-n.github.io/projects/gen-long-video/index.html)]
