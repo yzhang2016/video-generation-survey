@@ -156,7 +156,7 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 *[arxiv 2023.05]Preserve Your Own Correlation: A Noise Prior for Video Diffusion Models[[PDF](https://arxiv.org/pdf/2305.10474.pdf), [Page](https://research.nvidia.com/labs/dir/pyoco/)]
 
-->[arxiv 2023.05]VideoFactory: Swap Attention in Spatiotemporal Diffusions for Text-to-Video Generation [[PDF](https://arxiv.org/pdf/2305.10874.pdf)]
+[arxiv 2023.05]VideoFactory: Swap Attention in Spatiotemporal Diffusions for Text-to-Video Generation [[PDF](https://arxiv.org/pdf/2305.10874.pdf)]
 
 [arxiv 2023.08]ModelScope Text-to-Video Technical Report [[PDF](https://arxiv.org/pdf/2308.06571.pdf)]
 
@@ -165,6 +165,8 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 [arxiv 2023.08]SimDA: Simple Diffusion Adapter for Efficient Video Generation [[PDF](https://arxiv.org/abs/2308.09710), [Page](https://chenhsing.github.io/SimDA/)]
 
 [arxiv 2023.08]Dysen-VDM: Empowering Dynamics-aware Text-to-Video Diffusion with Large Language Models [[PDF](https://arxiv.org/pdf/2308.13812.pdf), [Page](https://haofei.vip/Dysen-VDM/)]
+
+[arxiv 2023.09]Reuse and Diffuse: Iterative Denoising for Text-to-Video Generation[[PDF](https://arxiv.org/pdf/2309.03549.pdf),[Page](https://anonymous0x233.github.io/ReuseAndDiffuse/)]
 
 [arxiv 2023.09]LAVIE: HIGH-QUALITY VIDEO GENERATION WITH CASCADED LATENT DIFFUSION MODELS [[PDF](https://arxiv.org/pdf/2309.15103.pdf), [Page](https://vchitect.github.io/LaVie-project/)]
 
@@ -200,6 +202,13 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [MM 2023.09]Hierarchical Masked 3D Diffusion Model for Video Outpainting [[PDF](https://arxiv.org/abs/2309.02119)]
 
+
+## Video Concept 
+[arxiv 2023.07]Animate-A-Story: Storytelling with Retrieval-Augmented Video Generation [[PDF](https://arxiv.org/abs/2307.06940), [Page](https://videocrafter.github.io/Animate-A-Story)]
+
+[arxiv 2023.11]VideoDreamer: Customized Multi-Subject Text-to-Video Generation with Disen-Mix Finetuning[[PDF](https://arxiv.org/pdf/%3CARXIV%20PAPER%20ID%3E.pdf),[Page](https://videodreamer23.github.io/)]
+
+
 ## Image-to-video Generation 
 [arxiv 2023.09]VideoGen: A Reference-Guided Latent Diffusion Approach for High Definition Text-to-Video Generation [[PDF](https://arxiv.org/abs/2309.00398)]
 
@@ -209,14 +218,19 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2023.11]SEINE: Short-to-Long Video Diffusion Model for Generative Transition and Prediction [[PDF](https://arxiv.org/abs/2310.20700),[Page](https://vchitect.github.io/SEINE-project/)]
 
+
+
 ## long video generation 
 [arxiv 2023.]Gen-L-Video: Long Video Generation via Temporal Co-Denoising [[PDF](https://arxiv.org/abs/2305.18264), [Page](https://g-u-n.github.io/projects/gen-long-video/index.html)]
 
 [arxiv 2023.10]FreeNoise: Tuning-Free Longer Video Diffusion Via Noise Rescheduling [[PDF](https://arxiv.org/abs/2310.15169),[Page](http://haonanqiu.com/projects/FreeNoise.html)]
 
 
+
 ## Audio-to-video Generation
 [arxiv 2023.09]Diverse and Aligned Audio-to-Video Generation via Text-to-Video Model Adaptation [[PDF](https://arxiv.org/abs/2309.16429)]
+
+
 
 ## Image Model for video generation and editing 
 *[arxiv 2022.12]Tune-A-Video: One-Shot Tuning of Image Diffusion Models for Text-to-Video Generation [[PDF](https://arxiv.org/abs/2212.11565), [Page](https://tuneavideo.github.io/)]
