@@ -31,6 +31,9 @@ A reading list of video generation
 
 * **Genmo** [[Page](https://www.genmo.ai/)]
 
+* **PlaiDay** [[Page](https://discord.gg/6f6Q9pWb)]
+
+
 ## :point_right: Databases
 
 * **HowTo100M**
