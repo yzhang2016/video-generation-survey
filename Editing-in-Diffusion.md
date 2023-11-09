@@ -568,6 +568,7 @@
 
 [arxiv 2023.10]What Does Stable Diffusion Know about the 3D Scene? [[PDF](https://arxiv.org/abs/2310.06836)]
 
+[arxiv 2023.11]Holistic Evaluation of Text-To-Image Models [[PDF](https://arxiv.org/abs/2311.04287)]
 
 
 ## Related 
