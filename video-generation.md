@@ -76,6 +76,11 @@ A reading list of video generation
   
   [arxiv 2023.09] LAVIE: HIGH-QUALITY VIDEO GENERATION WITH CASCADED LATENT DIFFUSION MODELS [[PDF](https://arxiv.org/pdf/2309.15103.pdf)]
 
+* **HD-VG-130M**
+
+  [arxiv 2023.06]VideoFactory: Swap Attention in Spatiotemporal Diffusions for Text-to-Video Generation [[PDF](https://arxiv.org/abs/2305.10874), [Page](https://github.com/daooshee/HD-VG-130M)]
+
+
 
 
 
