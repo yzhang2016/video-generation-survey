@@ -40,7 +40,8 @@ A reading list of video generation
 
   [ICCV 2019] Learning a Text-Video Embedding by Watching Hundred Million Narrated Video Clips \[[PDF](https://arxiv.org/pdf/1906.03327.pdf), [Project](https://www.di.ens.fr/willow/research/howto100m/) \]
 
-* **HowTo100M**
+* **HD-VILA-100M**
+  
   [CVPR 2022]Advancing High-Resolution Video-Language Representation with Large-Scale Video Transcriptions [[PDF](https://openaccess.thecvf.com/content/CVPR2022/papers/Xue_Advancing_High-Resolution_Video-Language_Representation_With_Large-Scale_Video_Transcriptions_CVPR_2022_paper.pdf), [Page](https://github.com/microsoft/XPretrain/blob/main/hd-vila-100m/README.md)]
   
 * **Web10M**
