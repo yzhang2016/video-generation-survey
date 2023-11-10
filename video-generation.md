@@ -72,6 +72,10 @@ A reading list of video generation
   
   [arxiv 2023.07] DNA-Rendering: A Diverse Neural Actor Repository for High-Fidelity Human-centric Rendering [[PDF](https://arxiv.org/abs/2307.10173)]
 
+* **Vimeo25M** not open-source
+  [arxiv 2023.09] LAVIE: HIGH-QUALITY VIDEO GENERATION WITH CASCADED LATENT DIFFUSION MODELS [[PDF](https://arxiv.org/pdf/2309.15103.pdf)]
+
+
 
 
 ## :point_right: GAN/VAE-based methods 
