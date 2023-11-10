@@ -505,6 +505,11 @@
 
 [arxiv 2023.09]DreamStyler: Paint by Style Inversion with Text-to-Image Diffusion Models [[PDF](https://arxiv.org/pdf/2309.06933.pdf)]
 
+[arxiv 2023.11]ControlStyle: Text-Driven Stylized Image Generation Using Diffusion Priors[[PDF](https://arxiv.org/abs/2311.05463)]
+
+
+
+
 ## disentanglement
 [ICMR 2023]Not Only Generative Art: Stable Diffusion for Content-Style Disentanglement in Art Analysis [[PDF](https://arxiv.org/abs/2304.10278)]
 
