@@ -550,6 +550,9 @@
 
 [arxiv 2023.06]Masked Diffusion Models are Fast Learners [[PDF](https://arxiv.org/abs/2306.11363)]
 
+[arxiv 2023.11]UFOGen: You Forward Once Large Scale Text-to-Image Generation via Diffusion GANs [[PDF](https://arxiv.org/abs/2311.09257)]
+
+
 ## limited data 
 [arxiv 2023.06]Decompose and Realign: Tackling Condition Misalignment in Text-to-Image Diffusion Models [[PDF](https://arxiv.org/abs/2306.14153)]
 
