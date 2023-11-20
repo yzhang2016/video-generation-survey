@@ -230,6 +230,8 @@
 
 [arxiv 2023.05]Concept Decomposition for Visual Exploration and Inspiration[[PDF](https://arxiv.org/abs/2305.18203),[Page](https://inspirationtree.github.io/inspirationtree/)]
 
+[arxiv 2023.05]FastComposer: Tuning-Free Multi-Subject Image Generation with Localized Attention[[PDF](https://arxiv.org/abs/2305.10431),[Page](https://github.com/mit-han-lab/fastcomposer)]
+
 [arxiv 2023.06]Cones 2: Customizable Image Synthesis with Multiple Subjects [[PDF](https://arxiv.org/abs/2305.19327)]
 
 [arxiv 2023.06]Inserting Anybody in Diffusion Models via Celeb Basis [[PDF](https://arxiv.org/abs/2306.00926), [Page](https://celeb-basis.github.io/)]
@@ -262,6 +264,10 @@
 [arxiv 2023.11]A Data Perspective on Enhanced Identity Preservation for Diffusion Personalization [[PDF](https://arxiv.org/abs/2311.04315)]
 
 [arxiv 2023.11]The Chosen One: Consistent Characters in Text-to-Image Diffusion Models [[PDF](https://arxiv.org/abs/2311.10093), [Page](https://omriavrahami.com/the-chosen-one/)]
+
+[arxiv 2023.11]High-fidelity Person-centric Subject-to-Image Synthesis[[PDF](https://arxiv.org/abs/2311.10329)]
+
+
 
 ## Story-telling
 
