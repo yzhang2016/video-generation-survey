@@ -186,6 +186,7 @@
 
 [arxiv 2023.11]FaceComposer: A Unified Model for Versatile Facial Content Creation [[PDF](https://openreview.net/pdf?id=xrK3QA9mLo)]
 
+[arxiv 2023.11]Emu Edit: Precise Image Editing via Recognition and Generation Tasks[[PDF](https://arxiv.org/abs/2311.10089)]
 
  
 ## Concept 
@@ -258,6 +259,9 @@
 
 [arxiv 2023.10]Multi-Concept T2I-Zero: Tweaking Only The Text Embeddings and Nothing Else [[PDF](https://arxiv.org/abs/2310.07419)]
 
+[arxiv 2023.11]A Data Perspective on Enhanced Identity Preservation for Diffusion Personalization [[PDF](https://arxiv.org/abs/2311.04315)]
+
+[arxiv 2023.11]The Chosen One: Consistent Characters in Text-to-Image Diffusion Models [[PDF](https://arxiv.org/abs/2311.10093), [Page](https://omriavrahami.com/the-chosen-one/)]
 
 ## Story-telling
 
