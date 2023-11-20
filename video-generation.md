@@ -238,6 +238,13 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 [arxiv 2023.11]I2VGen-XL: High-Quality Image-to-Video Synthesis via Cascaded Diffusion Models
 [[PDF](https://arxiv.org/abs/2311.04145),[Page](https://i2vgen-xl.github.io/page04.html)]
 
+[arxiv 2023.11]Emu Video: Factorizing Text-to-Video Generation by Explicit Image Conditioning [[PDF](https://arxiv.org/abs/2311.10709),[Page](https://emu-video.metademolab.com/)]
+
+
+
+
+
+
 ## long video generation 
 [arxiv 2023.]Gen-L-Video: Long Video Generation via Temporal Co-Denoising [[PDF](https://arxiv.org/abs/2305.18264), [Page](https://g-u-n.github.io/projects/gen-long-video/index.html)]
 
