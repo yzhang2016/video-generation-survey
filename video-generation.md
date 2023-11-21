@@ -240,7 +240,7 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2023.11]Emu Video: Factorizing Text-to-Video Generation by Explicit Image Conditioning [[PDF](https://arxiv.org/abs/2311.10709),[Page](https://emu-video.metademolab.com/)]
 
-
+[arxiv 2023.11]MoVideo: Motion-Aware Video Generation with Diffusion Models[[PDF](https://github.com/JingyunLiang/MoVideo/releases/download/v0.0/MoVideo.pdf),[Page](https://jingyunliang.github.io/MoVideo/)]
 
 
 
