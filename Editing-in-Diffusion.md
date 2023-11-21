@@ -188,6 +188,9 @@
 
 [arxiv 2023.11]Emu Edit: Precise Image Editing via Recognition and Generation Tasks[[PDF](https://arxiv.org/abs/2311.10089)]
 
+[arxiv 2023.11]DiffGANPaint: Fast Inpainting Using Denoising Diffusion GANs [[PDF](https://arxiv.org/abs/2311.11469)]
+
+
  
 ## Concept 
 *[Arxiv.2208; NVIDIA]  ***An Image is Worth One Word:*** Personalizing Text-to-Image Generation using Textual Inversion [[PDF](https://arxiv.org/abs/2208.01618), [Page](https://github.com/rinongal/textual_inversion), [Code](https://github.com/rinongal/textual_inversion) ]
