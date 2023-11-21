@@ -267,7 +267,7 @@
 
 [arxiv 2023.11]High-fidelity Person-centric Subject-to-Image Synthesis[[PDF](https://arxiv.org/abs/2311.10329)]
 
-
+[arxiv 2023.11]An Image is Worth Multiple Words: Multi-attribute Inversion for Constrained Text-to-Image Synthesis [[PDF](https://arxiv.org/abs/2311.11919)]
 
 ## Story-telling
 
