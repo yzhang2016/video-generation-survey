@@ -189,8 +189,6 @@
 [arxiv 2023.11]Emu Edit: Precise Image Editing via Recognition and Generation Tasks[[PDF](https://arxiv.org/abs/2311.10089)]
 
 
-
-
  
 ## Concept 
 *[Arxiv.2208; NVIDIA]  ***An Image is Worth One Word:*** Personalizing Text-to-Image Generation using Textual Inversion [[PDF](https://arxiv.org/abs/2208.01618), [Page](https://github.com/rinongal/textual_inversion), [Code](https://github.com/rinongal/textual_inversion) ]
@@ -523,6 +521,8 @@
 
 [arxiv 2023.11]ControlStyle: Text-Driven Stylized Image Generation Using Diffusion Priors[[PDF](https://arxiv.org/abs/2311.05463)]
 
+## downstreeam apps
+[arxiv 2023.11]Text-to-Sticker: Style Tailoring Latent Diffusion Models for Human Expression [[PDF](https://arxiv.org/abs/2311.10794)]
 
 
 
