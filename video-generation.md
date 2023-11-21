@@ -242,7 +242,7 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2023.11]MoVideo: Motion-Aware Video Generation with Diffusion Models[[PDF](https://github.com/JingyunLiang/MoVideo/releases/download/v0.0/MoVideo.pdf),[Page](https://jingyunliang.github.io/MoVideo/)]
 
-
+[arxiv 2023.11]Make Pixels Dance: High-Dynamic Video Generation[[PDF](),[Page](https://makepixelsdance.github.io/)]
 
 
 ## long video generation 
