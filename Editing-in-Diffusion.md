@@ -294,6 +294,9 @@
 
 [arxiv 2023.08]StoryBench: A Multifaceted Benchmark for Continuous Story Visualization [[PDF](https://arxiv.org/pdf/2308.11606.pdf), [Page](https://github.com/google/storybench)]
 
+[arxiv 2023.11]AutoStory: Generating Diverse Storytelling Images with Minimal Human Effort[[PDf](https://arxiv.org/abs/2311.11243)]
+
+
 ## Layout Generation 
 [arxiv 2022.08]Layout-Bridging Text-to-Image Synthesis [[PDF](https://arxiv.org/pdf/2208.06162.pdf)]
 
