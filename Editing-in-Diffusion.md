@@ -188,7 +188,7 @@
 
 [arxiv 2023.11]Emu Edit: Precise Image Editing via Recognition and Generation Tasks[[PDF](https://arxiv.org/abs/2311.10089)]
 
-[arxiv 2023.11]DiffGANPaint: Fast Inpainting Using Denoising Diffusion GANs [[PDF](https://arxiv.org/abs/2311.11469)]
+
 
 
  
