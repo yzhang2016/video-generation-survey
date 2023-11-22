@@ -151,7 +151,7 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 *[arxiv 2022; ByteDace] ***MAGIC VIDEO***:Efficient Video Generation With Latent Diffusion Models \[[PDF](https://arxiv.org/pdf/2211.11018.pdf), code\]
 
-*[arxiv 2022; Tencent] Latent Video Diffusion Models for High-Fidelity Video Generation with Arbitrary Lengths  \[[PDF](https://arxiv.org/pdf/2211.13221.pdf), code\]
+*[arxiv 2022; Tencent] ***LVDM*** Latent Video Diffusion Models for High-Fidelity Video Generation with Arbitrary Lengths  \[[PDF](https://arxiv.org/pdf/2211.13221.pdf), code\]
 
 [AAAI 2022; JHU ] VIDM: Video Implicit Diffusion Model \[[PDF](https://kfmei.page/vidm/Video_implicit_diffusion_models.pdf)\]
 
