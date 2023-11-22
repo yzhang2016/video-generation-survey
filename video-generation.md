@@ -217,6 +217,9 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2023.10]MotionDirector: Motion Customization of Text-to-Video Diffusion Models [[PDF](https://arxiv.org/abs/2310.08465),[Page](https://showlab.github.io/MotionDirector/)]
 
+[arxiv 2023.11]MagicDance: Realistic Human Dance Video Generation with Motions & Facial Expressions Transfer [[PDF](https://arxiv.org/abs/2311.12052), [Page](https://boese0601.github.io/magicdance/)]
+
+
 ## Video outpainting 
 
 [MM 2023.09]Hierarchical Masked 3D Diffusion Model for Video Outpainting [[PDF](https://arxiv.org/abs/2309.02119)]
@@ -367,6 +370,17 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 ## Survey
 [arxiv 2023.03]A Survey on Video Diffusion Models [[PDF](https://arxiv.org/abs/2310.10647)]
+
+
+
+## Evaluation 
+[ICCV 2023]Exploring Video Quality Assessment on User Generated Contents from Aesthetic and Technical Perspectives [[PDF](https://arxiv.org/abs/2211.04894),[Page](https://github.com/VQAssessment/DOVER)]
+
+[arxiv 2023.10]EvalCrafter: Benchmarking and Evaluating Large Video Generation Models[[PDF](https://arxiv.org/abs/2310.11440), [Page](https://arxiv.org/abs/2310.11440)]
+
+
+[arxiv 2023.11]HIDRO-VQA: High Dynamic Range Oracle for Video Quality Assessment [[PDF](https://arxiv.org/abs/2311.11059)]
+
 
 
 ## Others 
