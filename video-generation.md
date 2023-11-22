@@ -195,7 +195,9 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2023.10]VideoCrafter1: Open Diffusion Models for High-Quality Video Generation [[PDF](https://arxiv.org/abs/2310.19512),[Page](https://github.com/AILab-CVC/VideoCrafter)]
 
+[arxiv 2023.11]Make Pixels Dance: High-Dynamic Video Generation [[PDF](https://arxiv.org/abs/2311.10982), [Page](https://makepixelsdance.github.io/)]
 
+[arxiv 2023.11]Stable Video Diffusion: Scaling Latent Video Diffusion Models to Large Datasets[[PDF](https://static1.squarespace.com/static/6213c340453c3f502425776e/t/655ce779b9d47d342a93c890/1700587395994/stable_video_diffusion.pdf), [Page](https://t.co/P2lmq343cf)]
 
 
 
