@@ -324,6 +324,10 @@
 
 [arxiv 2023.08]Dense Text-to-Image Generation with Attention Modulation [[PDF](https://arxiv.org/abs/2308.12964), [Page](https://github.com/naver-ai/DenseDiffusion)]
 
+[arxiv 2023.11]Retrieval-Augmented Layout Transformer for Content-Aware Layout Generation [[PDF](https://arxiv.org/abs/2311.13602),[Page](https://udonda.github.io/RALF/)]
+
+
+
 
 ## SVG
 [arxiv 2022.11; UCB] VectorFusion: Text-to-SVG by Abstracting Pixel-Based Diffusion Models \[[PDF](https://arxiv.org/abs/2211.11319)\]
@@ -520,6 +524,13 @@
 [arxiv 2023.09]DreamStyler: Paint by Style Inversion with Text-to-Image Diffusion Models [[PDF](https://arxiv.org/pdf/2309.06933.pdf)]
 
 [arxiv 2023.11]ControlStyle: Text-Driven Stylized Image Generation Using Diffusion Priors[[PDF](https://arxiv.org/abs/2311.05463)]
+
+[arxiv 2023.11]ZipLoRA: Any Subject in Any Style by Effectively Merging LoRAs [[PDF](https://arxiv.org/abs/2311.13600),[Page](https://ziplora.github.io/)]
+
+[arxiv 2023.11]Soulstyler: Using Large Language Model to Guide Image Style Transfer for Target Object [[PDf](https://arxiv.org/abs/2311.13562)]
+
+
+
 
 ## downstreeam apps
 [arxiv 2023.11]Text-to-Sticker: Style Tailoring Latent Diffusion Models for Human Expression [[PDF](https://arxiv.org/abs/2311.10794)]
