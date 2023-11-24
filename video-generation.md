@@ -199,6 +199,7 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2023.11]Stable Video Diffusion: Scaling Latent Video Diffusion Models to Large Datasets[[PDF](https://static1.squarespace.com/static/6213c340453c3f502425776e/t/655ce779b9d47d342a93c890/1700587395994/stable_video_diffusion.pdf), [Page](https://t.co/P2lmq343cf)]
 
+[arxiv 2023.11]Kandinsky Video [[PDF](https://arxiv.org/abs/2311.13073),[Page](https://ai-forever.github.io/kandinsky-video/)]
 
 
 ## Higher Resolution 
