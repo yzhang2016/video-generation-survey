@@ -605,6 +605,13 @@
 
 [arxiv 2023.11]Holistic Evaluation of Text-To-Image Models [[PDF](https://arxiv.org/abs/2311.04287)]
 
+[arxiv 2023.11]On the Limitation of Diffusion Models for Synthesizing Training Datasets [[PDF](https://arxiv.org/abs/2311.13090)]
+
+
+## Feedback
+[arxiv 2023.11]Using Human Feedback to Fine-tune Diffusion Models without Any Reward Model [[PDF](https://arxiv.org/abs/2311.13231)]
+
+
 
 ## Related 
 
@@ -640,6 +647,8 @@
 [arxiv 2023.03]One Transformer Fits All Distributions in Multi-Modal Diffusion at Scale [[PDF](https://arxiv.org/pdf/2303.06285.pdf)]
 
 [arxiv 2023.03]Align, Adapt and Inject: Sound-guided Unified Image Generation [[PDF](https://arxiv.org/pdf/2306.11504.pdf)]
+
+
 
 ## Repository
 ***DIFFUSERS*** Hugging-face sota repository. \[[DIFFUSERS](https://github.com/huggingface/diffusers)\]
