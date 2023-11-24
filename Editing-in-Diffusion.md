@@ -142,6 +142,8 @@
 
 [arxiv 2023.09]InstructDiffusion: A Generalist Modeling Interface for Vision Tasks [[PDF](https://arxiv.org/abs/2309.03895)]
 
+[arxiv 2023.09]InstaFlow: One Step is Enough for High-Quality Diffusion-Based Text-to-Image Generation [[PDF](https://arxiv.org/abs/2309.06380),[Page](https://github.com/gnobitab/InstaFlow)]
+
 [arxiv 2023.09]ITI-GEN: Inclusive Text-to-Image Generation [[PDF](https://arxiv.org/pdf/2309.05569.pdf), [Page](https://czhang0528.github.io/iti-gen)]
 
 [arxiv 2023.09]MaskDiffusion: Boosting Text-to-Image Consistency with Conditional Mask [[PDF](https://arxiv.org/pdf/2309.04399.pdf)]
