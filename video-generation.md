@@ -250,6 +250,11 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2023.11]Make Pixels Dance: High-Dynamic Video Generation[[PDF](),[Page](https://makepixelsdance.github.io/)]
 
+[arxiv 2023.11]Decouple Content and Motion for Conditional Image-to-Video Generation [[PDF](https://arxiv.org/abs/2311.14294)]
+
+
+
+
 ## 4D generation 
 [arxiv 2023.11]Animate124: Animating One Image to 4D Dynamic Scene [[PDF](https://arxiv.org/abs/2311.14603),[Page](https://animate124.github.io/)]
 
@@ -361,8 +366,11 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 [[PDF](https://arxiv.org/abs/2307.00040), [Page](https://disco-dance.github.io/)]
 
 
-## domain transfer 
+## style transfer 
 [arxiv 2023.06]Probabilistic Adaptation of Text-to-Video Models [[PDF](https://arxiv.org/abs/2306.01872)]
+
+[arxiv 2023.11]Highly Detailed and Temporal Consistent Video Stylization via Synchronized Multi-Frame Diffusion[[PDF](https://arxiv.org/abs/2311.14343)]
+
 
 ## Evaluation 
 [arxiv 2023.10]EvalCrafter: Benchmarking and Evaluating Large Video Generation Models [[PDF](https://arxiv.org/abs/2310.11440),[Page](https://evalcrafter.github.io/)]
