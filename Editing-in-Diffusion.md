@@ -272,6 +272,10 @@
 
 [arxiv 2023.11]An Image is Worth Multiple Words: Multi-attribute Inversion for Constrained Text-to-Image Synthesis [[PDF](https://arxiv.org/abs/2311.11919)]
 
+[arxiv 2023.11]CatVersion: Concatenating Embeddings for Diffusion-Based Text-to-Image Personalization [[PDF](https://arxiv.org/abs/2311.14631),[Page](https://royzhao926.github.io/CatVersion-page/)]
+
+
+
 ## Story-telling
 
 **[ECCV 2022]** ***Story Dall-E***: Adapting pretrained text-to-image transformers for story continuation [[PDF](https://arxiv.org/pdf/2209.06192.pdf), [code](https://github.com/adymaharana/storydalle)]  
