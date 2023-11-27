@@ -541,7 +541,7 @@
 ## downstreeam apps
 [arxiv 2023.11]Text-to-Sticker: Style Tailoring Latent Diffusion Models for Human Expression [[PDF](https://arxiv.org/abs/2311.10794)]
 
-
+[arxiv 2023.11]Paragraph-to-Image Generation with Information-Enriched Diffusion Model [[PDF](https://arxiv.org/abs/2311.14284),[Page](https://weijiawu.github.io/ParaDiffusionPage/)]
 
 ## disentanglement
 [ICMR 2023]Not Only Generative Art: Stable Diffusion for Content-Style Disentanglement in Art Analysis [[PDF](https://arxiv.org/abs/2304.10278)]
@@ -653,6 +653,9 @@
 [arxiv 2023.03]One Transformer Fits All Distributions in Multi-Modal Diffusion at Scale [[PDF](https://arxiv.org/pdf/2303.06285.pdf)]
 
 [arxiv 2023.03]Align, Adapt and Inject: Sound-guided Unified Image Generation [[PDF](https://arxiv.org/pdf/2306.11504.pdf)]
+
+[arxiv 2023.11]ToddlerDiffusion: Flash Interpretable Controllable Diffusion Model [[PDF](https://arxiv.org/abs/2311.14542)]
+
 
 
 
