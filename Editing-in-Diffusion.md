@@ -490,6 +490,10 @@
 
 [arxiv 2023.08]DiffBIR: Towards Blind Image Restoration with Generative Diffusion Prior [[PDF](https://arxiv.org/abs/2308.15070),[Page](https://github.com/XPixelGroup/DiffBIR?ref=aiartweekly)]
 
+[arxiv 2023.11]Image Super-Resolution with Text Prompt Diffusion [[PDF](https://arxiv.org/abs/2311.14282),[Page](https://github.com/zhengchen1999/PromptSR)]
+
+
+
 
 ## Style transfer 
 [arxiv 22.11; kuaishou] ***DiffStyler***: Controllable Dual Diffusion for Text-Driven Image Stylization \[[PDF](https://arxiv.org/pdf/2211.10682.pdf), code\]  
