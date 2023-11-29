@@ -220,6 +220,14 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2023.11]MagicDance: Realistic Human Dance Video Generation with Motions & Facial Expressions Transfer [[PDF](https://arxiv.org/abs/2311.12052), [Page](https://boese0601.github.io/magicdance/)]
 
+[arxiv 2023.11]Space-Time Diffusion Features for Zero-Shot Text-Driven Motion Transfer[[PDF](https://arxiv.org/abs/2311.17009),[Page](https://diffusion-motion-transfer.github.io/)]
+
+[arxiv 2023.11]SparseCtrl: Adding Sparse Controls to Text-to-Video Diffusion Models[[PDF](https://arxiv.org/abs/2311.16933), [Page](https://guoyww.github.io/projects/SparseCtrl)]
+
+[arxiv 2023.11]MagicAnimate: Temporally Consistent Human Image Animation using Diffusion Model [[PDF](https://arxiv.org/abs/2311.16498), [Page](https://showlab.github.io/magicanimate)]
+
+
+
 
 ## Video in/outpainting 
 [MM 2023.09]Hierarchical Masked 3D Diffusion Model for Video Outpainting [[PDF](https://arxiv.org/abs/2309.02119)]
@@ -358,6 +366,9 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 [arxiv 2023.11]LATENTWARP: CONSISTENT DIFFUSION LATENTS FOR ZERO-SHOT VIDEO-TO-VIDEO TRANSLATION [[PDF](https://arxiv.org/pdf/2311.00353.pdf)]
 
 [arxiv 2023.11]Cut-and-Paste: Subject-Driven Video Editing with Attention Control[[PDF](https://arxiv.org/abs/2311.11697)]
+
+[arxiv 2023.11]MotionZero:Exploiting Motion Priors for Zero-shot Text-to-Video Generation [[PDF](https://arxiv.org/abs/2311.16635)]
+
 
 
 
