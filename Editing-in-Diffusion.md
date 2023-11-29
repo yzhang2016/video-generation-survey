@@ -190,7 +190,9 @@
 
 [arxiv 2023.11]Emu Edit: Precise Image Editing via Recognition and Generation Tasks[[PDF](https://arxiv.org/abs/2311.10089)]
 
+[arxiv 2023.11]Fine-grained Appearance Transfer with Diffusion Models [[PDF](https://arxiv.org/abs/2311.16513), [Page](https://github.com/babahui/Fine-grained-Appearance-Transfer)]
 
+[arxiv 2023.11]Text-Driven Image Editing via Learnable Regions [[PDF](https://arxiv.org/abs/2311.16432), [Page](https://yuanze-lin.me/LearnableRegions_page)]
 
 
 ##  Improve T2I base modules
@@ -198,6 +200,7 @@
 
 [arxiv 2023.11]Enhancing Diffusion Models with Text-Encoder Reinforcement Learning [[PDF](https://arxiv.org/abs/2311.15657)]
 
+[arxiv 2023.11]Ranni: Taming Text-to-Image Diffusion for Accurate Instruction Following [[PDF](https://arxiv.org/abs/2311.17002)]
 
  
 ## Concept 
@@ -503,6 +506,9 @@
 
 [arxiv 2023.11]SinSR: Diffusion-Based Image Super-Resolution in a Single Step [[PDF](https://arxiv.org/abs/2311.14760)]
 
+[arxiv 2023.11]SeeSR: Towards Semantics-Aware Real-World Image Super-Resolution [[PDF](https://arxiv.org/abs/2311.16518)]
+
+[arxiv 2023.11]LFSRDiff: Light Field Image Super-Resolution via Diffusion Models [[PDF](https://arxiv.org/abs/2311.16517)]
 
 
 ## action transfer 
@@ -597,6 +603,9 @@
 
 [arxiv 2023.11]AdaDiff: Adaptive Step Selection for Fast Diffusion [[PDF](https://arxiv.org/abs/2311.14768)]
 
+[arxiv 2023.11]MobileDiffusion: Subsecond Text-to-Image Generation on Mobile Devices [[PDF](https://arxiv.org/abs/2311.16567)]
+
+[arxiv 2023.11]Manifold Preserving Guided Diffusion [[PDF](https://arxiv.org/abs/2311.16424)]
 
 
 ## limited data 
