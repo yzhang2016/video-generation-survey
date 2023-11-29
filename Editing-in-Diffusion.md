@@ -191,6 +191,14 @@
 [arxiv 2023.11]Emu Edit: Precise Image Editing via Recognition and Generation Tasks[[PDF](https://arxiv.org/abs/2311.10089)]
 
 
+
+
+##  Improve T2I base modules
+[arxiv 2023.11]Self-correcting LLM-controlled Diffusion Models [[PDF](https://arxiv.org/abs/2311.16090)]
+
+[arxiv 2023.11]Enhancing Diffusion Models with Text-Encoder Reinforcement Learning [[PDF](https://arxiv.org/abs/2311.15657)]
+
+
  
 ## Concept 
 *[Arxiv.2208; NVIDIA]  ***An Image is Worth One Word:*** Personalizing Text-to-Image Generation using Textual Inversion [[PDF](https://arxiv.org/abs/2208.01618), [Page](https://github.com/rinongal/textual_inversion), [Code](https://github.com/rinongal/textual_inversion) ]
@@ -332,6 +340,7 @@
 
 [arxiv 2023.11]Retrieval-Augmented Layout Transformer for Content-Aware Layout Generation [[PDF](https://arxiv.org/abs/2311.13602),[Page](https://udonda.github.io/RALF/)]
 
+[arxiv 2023.11]Check, Locate, Rectify: A Training-Free Layout Calibration System for Text-to-Image Generation [[PDF](https://arxiv.org/abs/2311.15773)]
 
 
 
@@ -492,6 +501,12 @@
 
 [arxiv 2023.11]Image Super-Resolution with Text Prompt Diffusion [[PDF](https://arxiv.org/abs/2311.14282),[Page](https://github.com/zhengchen1999/PromptSR)]
 
+[arxiv 2023.11]SinSR: Diffusion-Based Image Super-Resolution in a Single Step [[PDF](https://arxiv.org/abs/2311.14760)]
+
+
+
+## action transfer 
+[arxiv 2023.11]Learning Disentangled Identifiers for Action-Customized Text-to-Image Generation [[PDF](https://arxiv.org/abs/2311.15841)]
 
 
 
@@ -539,6 +554,7 @@
 
 [arxiv 2023.11]Soulstyler: Using Large Language Model to Guide Image Style Transfer for Target Object [[PDf](https://arxiv.org/abs/2311.13562)]
 
+[arxiv 2023.11]InstaStyle: Inversion Noise of a Stylized Image is Secretly a Style Adviser[[PDF](https://arxiv.org/abs/2311.15040)]
 
 
 
@@ -578,6 +594,9 @@
 [arxiv 2023.06]Masked Diffusion Models are Fast Learners [[PDF](https://arxiv.org/abs/2306.11363)]
 
 [arxiv 2023.11]UFOGen: You Forward Once Large Scale Text-to-Image Generation via Diffusion GANs [[PDF](https://arxiv.org/abs/2311.09257)]
+
+[arxiv 2023.11]AdaDiff: Adaptive Step Selection for Fast Diffusion [[PDF](https://arxiv.org/abs/2311.14768)]
+
 
 
 ## limited data 
