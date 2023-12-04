@@ -40,6 +40,8 @@
 
 [arxiv 2023.07]Spatial-Frequency U-Net for Denoising Diffusion Probabilistic Models[[PDF](https://arxiv.org/pdf/2307.14648.pdf)]
 
+[arxiv 2023.12]Diffusion Models Without Attention [[PDF](https://arxiv.org/abs/2311.18257)]
+
 
 ## Architecture
 [arxiv 2023.03]Masked Diffusion Transformer is a Strong Image Synthesizer [[PDF](https://arxiv.org/abs/2303.14389)]
