@@ -168,8 +168,6 @@
 
 [arxiv 2023.10]JOINTNET: EXTENDING TEXT-TO-IMAGE DIFFUSION FOR DENSE DISTRIBUTION MODELING [[PDF](https://arxiv.org/pdf/2310.06347.pdf)]
 
-[arxiv 2023.10] ScaleCrafter: Tuning-free Higher-Resolution Visual Generation with Diffusion Models [[PDF](https://arxiv.org/abs/2310.07702), [Page](https://yingqinghe.github.io/scalecrafter/)]
-
 [arxiv 2023.10]Uni-paint: A Unified Framework for Multimodal Image Inpainting with Pretrained Diffusion Model [[PDF](https://arxiv.org/abs/2310.07222)]
 
 [arxiv 2023.10]Unsupervised Discovery of Interpretable Directions in h-space of Pre-trained Diffusion Models [[PDF](https://arxiv.org/abs/2310.09912)]
@@ -477,7 +475,7 @@
 ## Image Variation 
 [arxiv 2023.08]IP-Adapter: Text Compatible Image Prompt Adapter for Text-to-Image Diffusion Models [[PDF](https://arxiv.org/pdf/2308.06721.pdf), [Page](https://ip-adapter.github.io/)]
 
-## Super-Resolution & restoration
+## Super-Resolution & restoration & Higher-resolution generation
 [arxiv 2022.12]ADIR: Adaptive Diffusion for Image Reconstruction  \[[PDF](https://shadyabh.github.io/ADIR/ADIR_files/ADIR.pdf)
 
 [arxiv 2023.03]Denoising Diffusion Probabilistic Models for Robust Image Super-Resolution in the Wild [[PDF](https://arxiv.org/abs/2302.07864)]
@@ -502,6 +500,8 @@
 
 [arxiv 2023.08]DiffBIR: Towards Blind Image Restoration with Generative Diffusion Prior [[PDF](https://arxiv.org/abs/2308.15070),[Page](https://github.com/XPixelGroup/DiffBIR?ref=aiartweekly)]
 
+[arxiv 2023.10] ScaleCrafter: Tuning-free Higher-Resolution Visual Generation with Diffusion Models [[PDF](https://arxiv.org/abs/2310.07702), [Page](https://yingqinghe.github.io/scalecrafter/)]
+
 [arxiv 2023.11]Image Super-Resolution with Text Prompt Diffusion [[PDF](https://arxiv.org/abs/2311.14282),[Page](https://github.com/zhengchen1999/PromptSR)]
 
 [arxiv 2023.11]SinSR: Diffusion-Based Image Super-Resolution in a Single Step [[PDF](https://arxiv.org/abs/2311.14760)]
@@ -509,6 +509,10 @@
 [arxiv 2023.11]SeeSR: Towards Semantics-Aware Real-World Image Super-Resolution [[PDF](https://arxiv.org/abs/2311.16518)]
 
 [arxiv 2023.11]LFSRDiff: Light Field Image Super-Resolution via Diffusion Models [[PDF](https://arxiv.org/abs/2311.16517)]
+
+[arxiv 2023.12]ElasticDiffusion: Training-free Arbitrary Size Image Generation [[PDF](https://arxiv.org/abs/2311.18822),[Code](https://github.com/MoayedHajiAli/ElasticDiffusion-official.git)]
+
+
 
 
 ## action transfer 
@@ -606,6 +610,9 @@
 [arxiv 2023.11]MobileDiffusion: Subsecond Text-to-Image Generation on Mobile Devices [[PDF](https://arxiv.org/abs/2311.16567)]
 
 [arxiv 2023.11]Manifold Preserving Guided Diffusion [[PDF](https://arxiv.org/abs/2311.16424)]
+
+[arxiv 2023.12]One-step Diffusion with Distribution Matching Distillation [[PDF](https://arxiv.org/abs/2311.18828),[Page](https://tianweiy.github.io/dmd/)]
+
 
 
 ## limited data 
