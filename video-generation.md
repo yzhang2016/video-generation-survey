@@ -282,6 +282,9 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 ## 4D generation 
 [arxiv 2023.11]Animate124: Animating One Image to 4D Dynamic Scene [[PDF](https://arxiv.org/abs/2311.14603),[Page](https://animate124.github.io/)]
 
+[arxiv 2023.12]4D-fy: Text-to-4D Generation Using Hybrid Score Distillation Sampling[[PDF](https://arxiv.org/abs/2311.17984), [Page](https://sherwinbahmani.github.io/4dfy)]
+
+
 ## long video generation 
 [arxiv 2023.]Gen-L-Video: Long Video Generation via Temporal Co-Denoising [[PDF](https://arxiv.org/abs/2305.18264), [Page](https://g-u-n.github.io/projects/gen-long-video/index.html)]
 
@@ -431,8 +434,9 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2023.10]EvalCrafter: Benchmarking and Evaluating Large Video Generation Models[[PDF](https://arxiv.org/abs/2310.11440), [Page](https://arxiv.org/abs/2310.11440)]
 
-
 [arxiv 2023.11]HIDRO-VQA: High Dynamic Range Oracle for Video Quality Assessment [[PDF](https://arxiv.org/abs/2311.11059)]
+
+[arxiv 2023.12]VBench: Comprehensive Benchmark Suite for Video Generative Models [[PDF](https://arxiv.org/abs/2311.17982), [Page](https://vchitect.github.io/VBench-project/)]
 
 
 
