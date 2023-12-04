@@ -272,6 +272,10 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2023.11]Decouple Content and Motion for Conditional Image-to-Video Generation [[PDF](https://arxiv.org/abs/2311.14294)]
 
+[arxiv 2023.12]ART•V: Auto-Regressive Text-to-Video Generation with Diffusion Models [[PDF](https://arxiv.org/abs/2311.18834), [Page](https://warranweng.github.io/art.v)]
+
+[arxiv 2023.12]MicroCinema: A Divide-and-Conquer Approach for Text-to-Video Generation [[PDF](https://arxiv.org/abs/2311.18829), [Page](https://wangyanhui666.github.io/MicroCinema.github.io/)]
+
 
 
 
@@ -283,10 +287,21 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2023.10]FreeNoise: Tuning-Free Longer Video Diffusion Via Noise Rescheduling [[PDF](https://arxiv.org/abs/2310.15169),[Page](http://haonanqiu.com/projects/FreeNoise.html)]
 
+[arxiv 2023.12]VIDiff: Translating Videos via Multi-Modal Instructions with Diffusion Models[[PDF](https://arxiv.org/abs/2311.18837),[Page](https://chenhsing.github.io/VIDiff)]
+
 
 
 ## Audio-to-video Generation
 [arxiv 2023.09]Diverse and Aligned Audio-to-Video Generation via Text-to-Video Model Adaptation [[PDF](https://arxiv.org/abs/2309.16429)]
+
+
+
+## Video editing wiht video models 
+[arxiv 2023.12]VIDiff: Translating Videos via Multi-Modal Instructions with Diffusion Models[[PDF](https://arxiv.org/abs/2311.18837),[Page](https://chenhsing.github.io/VIDiff)]
+
+
+
+
 
 
 
@@ -380,13 +395,16 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 *[arxiv 2023.03]Seer: Language Instructed Video Prediction with Latent Diffusion Models [[PDF](https://arxiv.org/abs/2303.14897)]
 
 
-## animation 
+## motion transfer 
 [arxiv 2023.05]LEO: Generative Latent Image Animator for Human Video Synthesis [[PDF](https://arxiv.org/abs/2305.03989),[Page](https://wyhsirius.github.io/LEO-project/)]
 
 *[arxiv 2023.03]Conditional Image-to-Video Generation with Latent Flow Diffusion Models [[PDF](https://arxiv.org/abs/2303.13744)]
 
 [arxiv 2023.07]DisCo: Disentangled Control for Referring Human Dance Generation in Real World
 [[PDF](https://arxiv.org/abs/2307.00040), [Page](https://disco-dance.github.io/)]
+
+[arxiv 2023.12]MotionEditor: Editing Video Motion via Content-Aware Diffusion [[PDF](https://arxiv.org/abs/2311.18830),[Page](https://francis-rings.github.io/MotionEditor/)]
+
 
 
 ## style transfer 
