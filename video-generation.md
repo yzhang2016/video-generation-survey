@@ -251,6 +251,10 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2023.11]VideoDreamer: Customized Multi-Subject Text-to-Video Generation with Disen-Mix Finetuning[[PDF](https://arxiv.org/pdf/%3CARXIV%20PAPER%20ID%3E.pdf),[Page](https://videodreamer23.github.io/)]
 
+[arxiv 2023.12]VideoAssembler: Identity-Consistent Video Generation with Reference Entities using Diffusion Model [[PDF](https://arxiv.org/abs/2311.17338),[Page](https://gulucaptain.github.io/videoassembler/)]
+
+[arxiv 2023.12]VideoBooth: Diffusion-based Video Generation with Image Prompts [[PDF](https://arxiv.org/abs/2312.00777),[Page](https://vchitect.github.io/VideoBooth-project/)]
+
 
 ## Image-to-video Generation 
 [arxiv 2023.09]VideoGen: A Reference-Guided Latent Diffusion Approach for High Definition Text-to-Video Generation [[PDF](https://arxiv.org/abs/2309.00398)]
@@ -387,7 +391,7 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2023.11]MotionZero:Exploiting Motion Priors for Zero-shot Text-to-Video Generation [[PDF](https://arxiv.org/abs/2311.16635)]
 
-
+[arxiv 2023.12]Motion-Conditioned Image Animation for Video Editing [[PDF](https://arxiv.org/pdf/2311.18827.pdf), [Page](https://facebookresearch.github.io/MoCA/)]
 
 
 ## :point_right: Video Completion (animation, interpolation, prediction)
@@ -414,6 +418,9 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 [arxiv 2023.06]Probabilistic Adaptation of Text-to-Video Models [[PDF](https://arxiv.org/abs/2306.01872)]
 
 [arxiv 2023.11]Highly Detailed and Temporal Consistent Video Stylization via Synchronized Multi-Frame Diffusion[[PDF](https://arxiv.org/abs/2311.14343)]
+
+[arxiv 2023.12]StyleCrafter: Enhancing Stylized Text-to-Video Generation with Style Adapter[[PDF](https://arxiv.org/abs/2312.00330),[Page](https://gongyeliu.github.io/StyleCrafter.github.io/)]
+
 
 
 ## Evaluation 
