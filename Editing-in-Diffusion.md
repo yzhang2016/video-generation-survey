@@ -192,6 +192,8 @@
 
 [arxiv 2023.11]Text-Driven Image Editing via Learnable Regions [[PDF](https://arxiv.org/abs/2311.16432), [Page](https://yuanze-lin.me/LearnableRegions_page)]
 
+[arxiv 2023.12]Contrastive Denoising Score for Text-guided Latent Diffusion Image Editing [[PDF](https://arxiv.org/abs/2311.18608),[Page](https://hyelinnam.github.io/CDS/)]
+
 
 ##  Improve T2I base modules
 [arxiv 2023.11]Self-correcting LLM-controlled Diffusion Models [[PDF](https://arxiv.org/abs/2311.16090)]
