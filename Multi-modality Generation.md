@@ -10,3 +10,5 @@
 [arxiv 2023.10]Making LLaMA SEE and Draw with SEED Tokenizer [[PDF](https://arxiv.org/abs/2310.01218),[Page](https://github.com/AILab-CVC/SEED)]
 
 [arxiv 2023.10]Iterative Self-Refinement with GPT-4V(ision) for Automatic Image Design and Generation [[PDf](https://arxiv.org/abs/2310.08541),[Page](https://idea2img.github.io/)]
+
+[arxiv 2023.12]CoDi-2: In-Context, Interleaved, and Interactive Any-to-Any Generation[[PDF](https://arxiv.org/abs/2311.18775),[Page](https://codi-2.github.io/)]
