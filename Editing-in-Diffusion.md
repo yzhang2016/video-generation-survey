@@ -202,6 +202,11 @@
 
 [arxiv 2023.11]Ranni: Taming Text-to-Image Diffusion for Accurate Instruction Following [[PDF](https://arxiv.org/abs/2311.17002)]
 
+[arxiv 2023.12]Unlocking Spatial Comprehension in Text-to-Image Diffusion Models [[PDF](https://arxiv.org/abs/2311.17937)]
+
+[arxiv 2023.12]Fair Text-to-Image Diffusion via Fair Mapping [[PDF](https://arxiv.org/abs/2311.17695)]
+
+
  
 ## Concept 
 *[Arxiv.2208; NVIDIA]  ***An Image is Worth One Word:*** Personalizing Text-to-Image Generation using Textual Inversion [[PDF](https://arxiv.org/abs/2208.01618), [Page](https://github.com/rinongal/textual_inversion), [Code](https://github.com/rinongal/textual_inversion) ]
@@ -344,6 +349,8 @@
 [arxiv 2023.11]Retrieval-Augmented Layout Transformer for Content-Aware Layout Generation [[PDF](https://arxiv.org/abs/2311.13602),[Page](https://udonda.github.io/RALF/)]
 
 [arxiv 2023.11]Check, Locate, Rectify: A Training-Free Layout Calibration System for Text-to-Image Generation [[PDF](https://arxiv.org/abs/2311.15773)]
+
+[arxiv 2023.12]Reason out Your Layout: Evoking the Layout Master from Large Language Models for Text-to-Image Synthesis [[PDF](https://arxiv.org/abs/2311.17126)]
 
 
 
