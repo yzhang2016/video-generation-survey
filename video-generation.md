@@ -33,6 +33,7 @@ A reading list of video generation
 
 * **PlaiDay** [[Discord](https://discord.gg/6f6Q9pWb)]
 
+* **Nerverends** [[Page](https://neverends.life/create)]
 
 ## :point_right: Databases
 
