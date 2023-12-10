@@ -35,6 +35,8 @@ A reading list of video generation
 
 * **Nerverends** [[Page](https://neverends.life/create)]
 
+* **HiDream.ai/Pixeling** [[Page](https://hidream.ai/#/Pixeling)]
+
 ## :point_right: Databases
 
 * **HowTo100M**
