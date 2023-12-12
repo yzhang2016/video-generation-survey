@@ -42,6 +42,9 @@
 
 [arxiv 2023.12]Diffusion Models Without Attention [[PDF](https://arxiv.org/abs/2311.18257)]
 
+[arxiv 2023.12]Analyzing and Improving the Training Dynamics of Diffusion Models[[PDF](https://arxiv.org/abs/2312.02696)]
+
+
 
 ## Architecture
 [arxiv 2023.03]Masked Diffusion Transformer is a Strong Image Synthesizer [[PDF](https://arxiv.org/abs/2303.14389)]
