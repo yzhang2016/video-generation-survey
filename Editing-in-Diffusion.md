@@ -198,7 +198,7 @@
 
 [arxiv 2023.12]ControlNet-XS: Designing an Efficient and Effective Architecture for Controlling Text-to-Image Diffusion Models [[PDF](https://arxiv.org/abs/2312.06573)]
 
-
+[arxiv 2023.12]Emu Edit: Precise Image Editing via Recognition and Generation Tasks [[PDF](https://emu-edit.metademolab.com/assets/emu_edit.pdf),[Page](https://emu-edit.metademolab.com/)]
 
 
 ##  Improve T2I base modules
