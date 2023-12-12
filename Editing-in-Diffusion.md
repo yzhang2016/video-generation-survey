@@ -194,6 +194,9 @@
 
 [arxiv 2023.12]Contrastive Denoising Score for Text-guided Latent Diffusion Image Editing [[PDF](https://arxiv.org/abs/2311.18608),[Page](https://hyelinnam.github.io/CDS/)]
 
+[arxiv 2023.12]Smooth Diffusion: Crafting Smooth Latent Spaces in Diffusion Models [[PDF](https://arxiv.org/abs/2312.04410),[Page](https://github.com/SHI-Labs/Smooth-Diffusion)]
+
+
 
 ##  Improve T2I base modules
 [arxiv 2023.11]Self-correcting LLM-controlled Diffusion Models [[PDF](https://arxiv.org/abs/2311.16090)]
@@ -293,6 +296,8 @@
 [arxiv 2023.11]An Image is Worth Multiple Words: Multi-attribute Inversion for Constrained Text-to-Image Synthesis [[PDF](https://arxiv.org/abs/2311.11919)]
 
 [arxiv 2023.11]CatVersion: Concatenating Embeddings for Diffusion-Based Text-to-Image Personalization [[PDF](https://arxiv.org/abs/2311.14631),[Page](https://royzhao926.github.io/CatVersion-page/)]
+
+[arxiv 2023.12]PhotoMaker: Customizing Realistic Human Photos via Stacked ID Embedding [[PDF](https://arxiv.org/abs/2312.04461),[Page](https://photo-maker.github.io/)]
 
 
 
@@ -485,6 +490,8 @@
 [arxiv 2023.11]Cross-Image Attention for Zero-Shot Appearance Transfer[[PDF](https://arxiv.org/abs/2311.03335), [Page](https://garibida.github.io/cross-image-attention)]
 
 [arxiv 2023.12]SmartMask: Context Aware High-Fidelity Mask Generation for Fine-grained Object Insertion and Layout Control [[PDF](https://arxiv.org/abs/2312.05039), [Page](https://smartmask-gen.github.io/)]
+
+[arxiv 2023.12]DreamInpainter: Text-Guided Subject-Driven Image Inpainting with Diffusion Models [[PDF](https://arxiv.org/abs/2312.03771)]
 
 
 
