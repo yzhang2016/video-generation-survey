@@ -42,6 +42,8 @@
 
 [arxiv 2023.10]Matryoshka Diffusion Models [[PDF](https://arxiv.org/abs/2310.15111)]
 
+[arxiv 2023.12]Kandinsky-3: Text-to-image diffusion model [[PDF](https://arxiv.org/abs/2312.03511),[Page](https://github.com/ai-forever/Kandinsky-3)]
+
 
 
 ## GAN/VAE/Transformer-based 
