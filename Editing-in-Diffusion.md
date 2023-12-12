@@ -519,6 +519,7 @@
 
 [arxiv 2023.12]Disentangled Representation Learning for Controllable Person Image Generation [[PDF](https://arxiv.org/abs/2312.05798)]
 
+[arxiv 2023.12]A Task is Worth One Word: Learning with Task Prompts for High-Quality Versatile Image Inpainting [[PDF](https://arxiv.org/abs/2312.03594), [Page](https://powerpaint.github.io/)]
 
 
 
