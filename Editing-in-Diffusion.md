@@ -207,6 +207,10 @@
 [arxiv 2023.12]Fair Text-to-Image Diffusion via Fair Mapping [[PDF](https://arxiv.org/abs/2311.17695)]
 
 
+## Text 
+[arxiv 2023.12]UDiffText: A Unified Framework for High-quality Text Synthesis in Arbitrary Images via Character-aware Diffusion Models [[PDF](https://arxiv.org/abs/2312.04884)]
+
+
  
 ## Concept 
 *[Arxiv.2208; NVIDIA]  ***An Image is Worth One Word:*** Personalizing Text-to-Image Generation using Textual Inversion [[PDF](https://arxiv.org/abs/2208.01618), [Page](https://github.com/rinongal/textual_inversion), [Code](https://github.com/rinongal/textual_inversion) ]
@@ -480,6 +484,9 @@
 
 [arxiv 2023.11]Cross-Image Attention for Zero-Shot Appearance Transfer[[PDF](https://arxiv.org/abs/2311.03335), [Page](https://garibida.github.io/cross-image-attention)]
 
+[arxiv 2023.12]SmartMask: Context Aware High-Fidelity Mask Generation for Fine-grained Object Insertion and Layout Control [[PDF](https://arxiv.org/abs/2312.05039), [Page](https://smartmask-gen.github.io/)]
+
+
 
 ## Image Variation 
 [arxiv 2023.08]IP-Adapter: Text Compatible Image Prompt Adapter for Text-to-Image Diffusion Models [[PDF](https://arxiv.org/pdf/2308.06721.pdf), [Page](https://ip-adapter.github.io/)]
@@ -621,6 +628,8 @@
 [arxiv 2023.11]Manifold Preserving Guided Diffusion [[PDF](https://arxiv.org/abs/2311.16424)]
 
 [arxiv 2023.12]One-step Diffusion with Distribution Matching Distillation [[PDF](https://arxiv.org/abs/2311.18828),[Page](https://tianweiy.github.io/dmd/)]
+
+[arxiv 2023.12]SwiftBrush: One-Step Text-to-Image Diffusion Model with Variational Score Distillation [[PDF](https://arxiv.org/abs/2312.05239), [Page](https://thuanz123.github.io/swiftbrush/)]
 
 
 
