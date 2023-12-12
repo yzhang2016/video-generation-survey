@@ -196,6 +196,9 @@
 
 [arxiv 2023.12]Smooth Diffusion: Crafting Smooth Latent Spaces in Diffusion Models [[PDF](https://arxiv.org/abs/2312.04410),[Page](https://github.com/SHI-Labs/Smooth-Diffusion)]
 
+[arxiv 2023.12]ControlNet-XS: Designing an Efficient and Effective Architecture for Controlling Text-to-Image Diffusion Models [[PDF](https://arxiv.org/abs/2312.06573)]
+
+
 
 
 ##  Improve T2I base modules
@@ -208,6 +211,12 @@
 [arxiv 2023.12]Unlocking Spatial Comprehension in Text-to-Image Diffusion Models [[PDF](https://arxiv.org/abs/2311.17937)]
 
 [arxiv 2023.12]Fair Text-to-Image Diffusion via Fair Mapping [[PDF](https://arxiv.org/abs/2311.17695)]
+
+[arxiv 2023.12]CONFORM: Contrast is All You Need For High-Fidelity Text-to-Image Diffusion Models[[PDF](https://arxiv.org/abs/2312.06059)]
+
+
+## Model adapatation 
+[arxiv 2023.12]X-Adapter: Adding Universal Compatibility of Plugins for Upgraded Diffusion Model [[PDF](https://arxiv.org/abs/2312.02238),[Page](https://showlab.github.io/X-Adapter/)]
 
 
 ## Text 
@@ -299,6 +308,18 @@
 
 [arxiv 2023.12]PhotoMaker: Customizing Realistic Human Photos via Stacked ID Embedding [[PDF](https://arxiv.org/abs/2312.04461),[Page](https://photo-maker.github.io/)]
 
+[arxiv 2023.12]Context Diffusion: In-Context Aware Image Generation [[PDF](https://arxiv.org/abs/2312.03584)]
+
+[arxiv 2023.12]Customization Assistant for Text-to-image Generation [[PDF](https://arxiv.org/abs/2312.03045)]
+
+[arxiv 2023.12]InstructBooth: Instruction-following Personalized Text-to-Image Generation [[PDF](https://arxiv.org/abs/2312.03011)]
+
+[arxiv 2023.12]FaceStudio: Put Your Face Everywhere in Seconds [[PDF](https://arxiv.org/abs/2312.02663),[Page](https://icoz69.github.io/facestudio/)]
+
+[arxiv 2023.12]Orthogonal Adaptation for Modular Customization of Diffusion Models [[PDF](https://arxiv.org/abs/2312.02432),[Page](https://ryanpo.com/ortha/)]
+
+
+
 
 
 ## Story-telling
@@ -360,6 +381,7 @@
 [arxiv 2023.11]Check, Locate, Rectify: A Training-Free Layout Calibration System for Text-to-Image Generation [[PDF](https://arxiv.org/abs/2311.15773)]
 
 [arxiv 2023.12]Reason out Your Layout: Evoking the Layout Master from Large Language Models for Text-to-Image Synthesis [[PDF](https://arxiv.org/abs/2311.17126)]
+
 
 
 
@@ -493,6 +515,11 @@
 
 [arxiv 2023.12]DreamInpainter: Text-Guided Subject-Driven Image Inpainting with Diffusion Models [[PDF](https://arxiv.org/abs/2312.03771)]
 
+[arxiv 2023.12]InteractDiffusion: Interaction Control in Text-to-Image Diffusion Models [[PDF](https://arxiv.org/abs/2312.05849),[Page](https://jiuntian.github.io/interactdiffusion/)]
+
+[arxiv 2023.12]Disentangled Representation Learning for Controllable Person Image Generation [[PDF](https://arxiv.org/abs/2312.05798)]
+
+
 
 
 ## Image Variation 
@@ -535,6 +562,7 @@
 
 [arxiv 2023.12]ElasticDiffusion: Training-free Arbitrary Size Image Generation [[PDF](https://arxiv.org/abs/2311.18822),[Code](https://github.com/MoayedHajiAli/ElasticDiffusion-official.git)]
 
+[arxiv 2023.12]UIEDP:Underwater Image Enhancement with Diffusion Prior [[PDF](https://arxiv.org/abs/2312.06240)]
 
 
 
@@ -589,6 +617,7 @@
 
 [arxiv 2023.11]InstaStyle: Inversion Noise of a Stylized Image is Secretly a Style Adviser[[PDF](https://arxiv.org/abs/2311.15040)]
 
+[arxiv 2023.12]Portrait Diffusion: Training-free Face Stylization with Chain-of-Painting [[PDF](https://arxiv.org/abs/2312.02212)]
 
 
 ## downstreeam apps
