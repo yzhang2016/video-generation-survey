@@ -204,13 +204,29 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2023.11]Kandinsky Video [[PDF](https://arxiv.org/abs/2311.13073),[Page](https://ai-forever.github.io/kandinsky-video/)]
 
+[arxiv 2023.11] Emu Video: Factorizing Text-to-Video Generation by Explicit Image Conditioning [[PDF](https://arxiv.org/abs/2311.10709),[Page](https://emu-video.metademolab.com/)]
+
 [arxiv 2023.12]GenDeF: Learning Generative Deformation Field for Video Generation [[PDF](https://arxiv.org/abs/2312.04561),[Page](https://aim-uofa.github.io/GenDeF/)]
 
+[arxiv 2023.12]GenTron: Delving Deep into Diffusion Transformers for Image and Video Generation [[PDF](https://arxiv.org/abs/2312.04557),[Page](https://www.shoufachen.com/gentron_website/)]
 
+[arxiv 2023.12]Hierarchical Spatio-temporal Decoupling for Text-to-Video Generation [[PDF](https://arxiv.org/abs/2312.04483), [Page](https://higen-t2v.github.io/)]
+
+[arxiv 2023.12]AnimateZero:Video Diffusion Models are Zero-Shot Image Animators [[PDF](https://arxiv.org/abs/2312.03793),[Page](https://vvictoryuki.github.io/animatezero.github.io/)]
+
+
+
+## multi-prompt  & long video generation
+[arxiv 2023.12]MTVG : Multi-text Video Generation with Text-to-Video Models [[PDF](https://arxiv.org/abs/2312.04086)]
+
+[arxiv 2023.12]AVID: Any-Length Video Inpainting with Diffusion Model [[PDF](https://arxiv.org/abs/2312.03816),[Page](https://zhang-zx.github.io/AVID/)]
 
 
 ## Higher Resolution 
 [arxiv 2023.10] ScaleCrafter: Tuning-free Higher-Resolution Visual Generation with Diffusion Models [[PDF](https://arxiv.org/abs/2310.07702), [Page](https://yingqinghe.github.io/scalecrafter/)]
+
+## infinity scene 
+[arxiv 2023.12]Going from Anywhere to Everywhere[[PDF](https://arxiv.org/abs/2312.03884),[Page](https://kovenyu.com/wonderjourney/)]
 
 
 ## :point_right: Controllable Video Generation 
@@ -262,6 +278,9 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 [arxiv 2023.12]VideoAssembler: Identity-Consistent Video Generation with Reference Entities using Diffusion Model [[PDF](https://arxiv.org/abs/2311.17338),[Page](https://gulucaptain.github.io/videoassembler/)]
 
 [arxiv 2023.12]VideoBooth: Diffusion-based Video Generation with Image Prompts [[PDF](https://arxiv.org/abs/2312.00777),[Page](https://vchitect.github.io/VideoBooth-project/)]
+
+[arxiv 2023.12]DreamVideo: Composing Your Dream Videos with Customized Subject and Motion [[PDF](https://arxiv.org/abs/2312.04433),[Page](https://dreamvideo-t2v.github.io/)]
+
 
 
 ## Image-to-video Generation 
@@ -400,6 +419,11 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 [arxiv 2023.11]MotionZero:Exploiting Motion Priors for Zero-shot Text-to-Video Generation [[PDF](https://arxiv.org/abs/2311.16635)]
 
 [arxiv 2023.12]Motion-Conditioned Image Animation for Video Editing [[PDF](https://arxiv.org/pdf/2311.18827.pdf), [Page](https://facebookresearch.github.io/MoCA/)]
+
+[arxiv 2023.12]RAVE: Randomized Noise Shuffling for Fast and Consistent Video Editing with Diffusion Models [[PDF](https://arxiv.org/abs/2312.04524),[Page](https://rave-video.github.io/)]
+
+[arxiv 2023.12]DiffusionAtlas: High-Fidelity Consistent Diffusion Video Editing [[PDF](https://arxiv.org/abs/2312.03772)]
+
 
 
 ## :point_right: Video Completion (animation, interpolation, prediction)
