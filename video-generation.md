@@ -204,6 +204,10 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2023.11]Kandinsky Video [[PDF](https://arxiv.org/abs/2311.13073),[Page](https://ai-forever.github.io/kandinsky-video/)]
 
+[arxiv 2023.12]GenDeF: Learning Generative Deformation Field for Video Generation [[PDF](https://arxiv.org/abs/2312.04561),[Page](https://aim-uofa.github.io/GenDeF/)]
+
+
+
 
 ## Higher Resolution 
 [arxiv 2023.10] ScaleCrafter: Tuning-free Higher-Resolution Visual Generation with Diffusion Models [[PDF](https://arxiv.org/abs/2310.07702), [Page](https://yingqinghe.github.io/scalecrafter/)]
@@ -229,6 +233,7 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2023.11]MagicAnimate: Temporally Consistent Human Image Animation using Diffusion Model [[PDF](https://arxiv.org/abs/2311.16498), [Page](https://showlab.github.io/magicanimate)]
 
+[arxiv 2023.12]DreaMoving: A Human Dance Video Generation Framework based on Diffusion Models [[PDF](https://arxiv.org/abs/2312.05107), [Page](https://dreamoving.github.io/dreamoving)]
 
 
 
@@ -415,6 +420,7 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2023.12]MotionEditor: Editing Video Motion via Content-Aware Diffusion [[PDF](https://arxiv.org/abs/2311.18830),[Page](https://francis-rings.github.io/MotionEditor/)]
 
+[arxiv 2023.12]Customizing Motion in Text-to-Video Diffusion Models [[PDF](https://arxiv.org/abs/2312.04966),[Page](https://joaanna.github.io/customizing_motion/)]
 
 
 ## style transfer 
