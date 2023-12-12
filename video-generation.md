@@ -214,16 +214,30 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2023.12]AnimateZero:Video Diffusion Models are Zero-Shot Image Animators [[PDF](https://arxiv.org/abs/2312.03793),[Page](https://vvictoryuki.github.io/animatezero.github.io/)]
 
+[arxiv 2023.12]Photorealistic Video Generation with Diffusion Models [[PDF](https://arxiv.org/abs/2312.06662),[Page](https://walt-video-diffusion.github.io/)]
+
 
 
 ## multi-prompt  & long video generation
 [arxiv 2023.12]MTVG : Multi-text Video Generation with Text-to-Video Models [[PDF](https://arxiv.org/abs/2312.04086)]
 
+
+## long video generation 
+[arxiv 2023.]Gen-L-Video: Long Video Generation via Temporal Co-Denoising [[PDF](https://arxiv.org/abs/2305.18264), [Page](https://g-u-n.github.io/projects/gen-long-video/index.html)]
+
+[arxiv 2023.10]FreeNoise: Tuning-Free Longer Video Diffusion Via Noise Rescheduling [[PDF](https://arxiv.org/abs/2310.15169),[Page](http://haonanqiu.com/projects/FreeNoise.html)]
+
+[arxiv 2023.12]VIDiff: Translating Videos via Multi-Modal Instructions with Diffusion Models[[PDF](https://arxiv.org/abs/2311.18837),[Page](https://chenhsing.github.io/VIDiff)]
+
 [arxiv 2023.12]AVID: Any-Length Video Inpainting with Diffusion Model [[PDF](https://arxiv.org/abs/2312.03816),[Page](https://zhang-zx.github.io/AVID/)]
+
 
 
 ## Higher Resolution 
 [arxiv 2023.10] ScaleCrafter: Tuning-free Higher-Resolution Visual Generation with Diffusion Models [[PDF](https://arxiv.org/abs/2310.07702), [Page](https://yingqinghe.github.io/scalecrafter/)]
+
+
+
 
 ## infinity scene 
 [arxiv 2023.12]Going from Anywhere to Everywhere[[PDF](https://arxiv.org/abs/2312.03884),[Page](https://kovenyu.com/wonderjourney/)]
@@ -251,6 +265,12 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2023.12]DreaMoving: A Human Dance Video Generation Framework based on Diffusion Models [[PDF](https://arxiv.org/abs/2312.05107), [Page](https://dreamoving.github.io/dreamoving)]
 
+[arxiv 2023.12]MotionCtrl: A Unified and Flexible Motion Controller for Video Generation [[PDF](https://arxiv.org/abs/2312.03641),[Page](https://wzhouxiff.github.io/projects/MotionCtrl/)]
+
+[arxiv 2023.12]Fine-grained Controllable Video Generation via Object Appearance and Context [[PDF](https://arxiv.org/abs/2312.02919),[Page](https://hhsinping.github.io/factor)]
+
+[arxiv 2023.12]Drag-A-Video: Non-rigid Video Editing with Point-based Interaction [[PDF](https://arxiv.org/abs/2312.02936),[Page](https://drag-a-video.github.io/)]
+
 
 
 ## Video in/outpainting 
@@ -262,6 +282,9 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 ## Video SR 
 [arxiv 2023.11]Enhancing Perceptual Quality in Video Super-Resolution through Temporally-Consistent Detail Synthesis using Diffusion Models [[PDF](https://arxiv.org/abs/2311.15908)]
+
+[arxiv 2023.12]Upscale-A-Video: Temporal-Consistent Diffusion Model for Real-World Video Super-Resolution [[PDF](https://arxiv.org/abs/2312.06640),[Page](https://shangchenzhou.com/projects/upscale-a-video/)]
+
 
 
 ## downstream apps
@@ -307,6 +330,10 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2023.12]MicroCinema: A Divide-and-Conquer Approach for Text-to-Video Generation [[PDF](https://arxiv.org/abs/2311.18829), [Page](https://wangyanhui666.github.io/MicroCinema.github.io/)]
 
+[arxiv 2023.12]DreamVideo: High-Fidelity Image-to-Video Generation with Image Retention and Text Guidance [[PDF](https://arxiv.org/abs/2312.03018),[Page](https://anonymous0769.github.io/DreamVideo/)]
+
+[arxiv 2023.12]LivePhoto: Real Image Animation with Text-guided Motion Control [[PDF](https://arxiv.org/abs/2312.02928), [Page](https://xavierchen34.github.io/LivePhoto-Page/)]
+
 
 
 
@@ -315,13 +342,6 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2023.12]4D-fy: Text-to-4D Generation Using Hybrid Score Distillation Sampling[[PDF](https://arxiv.org/abs/2311.17984), [Page](https://sherwinbahmani.github.io/4dfy)]
 
-
-## long video generation 
-[arxiv 2023.]Gen-L-Video: Long Video Generation via Temporal Co-Denoising [[PDF](https://arxiv.org/abs/2305.18264), [Page](https://g-u-n.github.io/projects/gen-long-video/index.html)]
-
-[arxiv 2023.10]FreeNoise: Tuning-Free Longer Video Diffusion Via Noise Rescheduling [[PDF](https://arxiv.org/abs/2310.15169),[Page](http://haonanqiu.com/projects/FreeNoise.html)]
-
-[arxiv 2023.12]VIDiff: Translating Videos via Multi-Modal Instructions with Diffusion Models[[PDF](https://arxiv.org/abs/2311.18837),[Page](https://chenhsing.github.io/VIDiff)]
 
 
 
@@ -424,6 +444,12 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2023.12]DiffusionAtlas: High-Fidelity Consistent Diffusion Video Editing [[PDF](https://arxiv.org/abs/2312.03772)]
 
+[arxiv 2023.12]MagicStick: Controllable Video Editing via Control Handle Transformations [[PDF](https://arxiv.org/abs/2312.03047),[Page](https://github.com/mayuelala/MagicStick)]
+
+[arxiv 2023.12]SAVE: Protagonist Diversification with Structure Agnostic Video Editing [[PDF](https://arxiv.org/abs/2312.02503),[Page](https://ldynx.github.io/SAVE/)]
+
+
+
 
 
 ## :point_right: Video Completion (animation, interpolation, prediction)
@@ -446,6 +472,10 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2023.12]Customizing Motion in Text-to-Video Diffusion Models [[PDF](https://arxiv.org/abs/2312.04966),[Page](https://joaanna.github.io/customizing_motion/)]
 
+[arxiv 2023.12]MotionCrafter: One-Shot Motion Customization of Diffusion Models [[PDF](https://arxiv.org/abs/2312.05288)]
+
+
+
 
 ## style transfer 
 [arxiv 2023.06]Probabilistic Adaptation of Text-to-Video Models [[PDF](https://arxiv.org/abs/2306.01872)]
@@ -453,6 +483,9 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 [arxiv 2023.11]Highly Detailed and Temporal Consistent Video Stylization via Synchronized Multi-Frame Diffusion[[PDF](https://arxiv.org/abs/2311.14343)]
 
 [arxiv 2023.12]StyleCrafter: Enhancing Stylized Text-to-Video Generation with Style Adapter[[PDF](https://arxiv.org/abs/2312.00330),[Page](https://gongyeliu.github.io/StyleCrafter.github.io/)]
+
+[arxiv 2023.12]DragVideo: Interactive Drag-style Video Editing [[PDF](https://arxiv.org/abs/2312.02216)]
+
 
 
 
@@ -477,6 +510,11 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 [arxiv 2023.11]HIDRO-VQA: High Dynamic Range Oracle for Video Quality Assessment [[PDF](https://arxiv.org/abs/2311.11059)]
 
 [arxiv 2023.12]VBench: Comprehensive Benchmark Suite for Video Generative Models [[PDF](https://arxiv.org/abs/2311.17982), [Page](https://vchitect.github.io/VBench-project/)]
+
+
+## Speed 
+[arxiv 2023.12]F3-Pruning: A Training-Free and Generalized Pruning Strategy towards Faster and Finer Text-to-Video Synthesis [[PDF](https://arxiv.org/abs/2312.03459)]
+
 
 
 
