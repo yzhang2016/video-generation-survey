@@ -217,6 +217,9 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 [arxiv 2023.12]Photorealistic Video Generation with Diffusion Models [[PDF](https://arxiv.org/abs/2312.06662),[Page](https://walt-video-diffusion.github.io/)]
 
 
+## improve Video Diffusion models 
+[arxiv 2023]FreeInit: Bridging Initialization Gap in Video Diffusion Models [[PDF](https://arxiv.org/abs/2312.07537),[Page](https://tianxingwu.github.io/pages/FreeInit/)]
+
 
 ## multi-prompt  & long video generation
 [arxiv 2023.12]MTVG : Multi-text Video Generation with Text-to-Video Models [[PDF](https://arxiv.org/abs/2312.04086)]
@@ -271,7 +274,7 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2023.12]Drag-A-Video: Non-rigid Video Editing with Point-based Interaction [[PDF](https://arxiv.org/abs/2312.02936),[Page](https://drag-a-video.github.io/)]
 
-
+[arxiv 2023.12]Peekaboo: Interactive Video Generation via Masked-Diffusion [[PDF](https://arxiv.org/abs/2312.07509),[Page](https://jinga-lala.github.io/projects/Peekaboo/)]
 
 ## Video in/outpainting 
 [MM 2023.09]Hierarchical Masked 3D Diffusion Model for Video Outpainting [[PDF](https://arxiv.org/abs/2309.02119)]
