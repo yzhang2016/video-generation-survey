@@ -14,3 +14,5 @@
 [arxiv 2023.12]CoDi-2: In-Context, Interleaved, and Interactive Any-to-Any Generation[[PDF](https://arxiv.org/abs/2311.18775),[Page](https://codi-2.github.io/)]
 
 [arxiv 2023.12]SmartEdit: Exploring Complex Instruction-based Image Editing with Multimodal Large Language Models [[PDF](https://arxiv.org/abs/2312.06739),[Page](https://yuzhou914.github.io/SmartEdit/)]
+
+[arxiv 2023.12]InstructAny2Pix: Flexible Visual Editing via Multimodal Instruction Following [[PDF](https://arxiv.org/abs/2312.06738), [Page](https://github.com/jacklishufan/InstructAny2Pix.git)]
