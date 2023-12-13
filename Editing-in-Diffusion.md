@@ -200,6 +200,10 @@
 
 [arxiv 2023.12]Emu Edit: Precise Image Editing via Recognition and Generation Tasks [[PDF](https://emu-edit.metademolab.com/assets/emu_edit.pdf),[Page](https://emu-edit.metademolab.com/)]
 
+[arxiv 2023.12]DiffMorpher: Unleashing the Capability of Diffusion Models for Image Morphing [[PDF](https://arxiv.org/abs/2312.07409)]
+
+
+
 
 ##  Improve T2I base modules
 [arxiv 2023.11]Self-correcting LLM-controlled Diffusion Models [[PDF](https://arxiv.org/abs/2311.16090)]
@@ -521,6 +525,9 @@
 
 [arxiv 2023.12]A Task is Worth One Word: Learning with Task Prompts for High-Quality Versatile Image Inpainting [[PDF](https://arxiv.org/abs/2312.03594), [Page](https://powerpaint.github.io/)]
 
+[arxiv 2023.12]FreeControl: Training-Free Spatial Control of Any Text-to-Image Diffusion Model with Any Condition [[PDF](https://arxiv.org/abs/2312.07536),[Page](https://genforce.github.io/freecontrol/)]
+
+[]
 
 
 ## Image Variation 
