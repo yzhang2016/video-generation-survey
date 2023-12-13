@@ -322,6 +322,7 @@
 
 [arxiv 2023.12]Orthogonal Adaptation for Modular Customization of Diffusion Models [[PDF](https://arxiv.org/abs/2312.02432),[Page](https://ryanpo.com/ortha/)]
 
+[arxiv 2023.12]Separate-and-Enhance: Compositional Finetuning for Text2Image Diffusion Models [[PDF](https://arxiv.org/abs/2312.06712), [Page](https://zpbao.github.io/projects/SepEn/)]
 
 
 
