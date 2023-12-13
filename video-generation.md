@@ -356,6 +356,7 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 ## Video editing wiht video models 
 [arxiv 2023.12]VIDiff: Translating Videos via Multi-Modal Instructions with Diffusion Models[[PDF](https://arxiv.org/abs/2311.18837),[Page](https://chenhsing.github.io/VIDiff)]
 
+[arxiv 2023.12]Neutral Editing Framework for Diffusion-based Video Editing [[PDF](https://arxiv.org/abs/2312.06708),[Page](https://neuedit.github.io/)]
 
 
 
