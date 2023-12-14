@@ -218,7 +218,13 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 
 ## improve Video Diffusion models 
-[arxiv 2023]FreeInit: Bridging Initialization Gap in Video Diffusion Models [[PDF](https://arxiv.org/abs/2312.07537),[Page](https://tianxingwu.github.io/pages/FreeInit/)]
+[arxiv 2023.10]ScaleCrafter: Tuning-free Higher-Resolution Visual Generation with Diffusion Models [[PDF](https://arxiv.org/abs/2310.07702), [Page](https://yingqinghe.github.io/scalecrafter/)]
+
+[arxiv 2023.10]FreeU: Free Lunch in Diffusion U-Net [[PDF](https://arxiv.org/pdf/2309.11497.pdf), [Page](https://chenyangsi.top/FreeU/)]
+
+[arxiv 2023.12]FreeInit: Bridging Initialization Gap in Video Diffusion Models [[PDF](https://arxiv.org/abs/2312.07537),[Page](https://tianxingwu.github.io/pages/FreeInit/)]
+
+
 
 
 ## multi-prompt  & long video generation
