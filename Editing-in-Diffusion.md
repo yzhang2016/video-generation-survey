@@ -202,6 +202,7 @@
 
 [arxiv 2023.12]DiffMorpher: Unleashing the Capability of Diffusion Models for Image Morphing [[PDF](https://arxiv.org/abs/2312.07409)]
 
+[arxiv 2023.12]AdapEdit: Spatio-Temporal Guided Adaptive Editing Algorithm for Text-Based Continuity-Sensitive Image Editing [[PDF](https://arxiv.org/abs/2312.08019)]
 
 
 
@@ -324,6 +325,11 @@
 
 [arxiv 2023.12]Separate-and-Enhance: Compositional Finetuning for Text2Image Diffusion Models [[PDF](https://arxiv.org/abs/2312.06712), [Page](https://zpbao.github.io/projects/SepEn/)]
 
+[arxiv 2023.12]Compositional Inversion for Stable Diffusion Models [[PDF](https://arxiv.org/abs/2312.08048),[Page](https://github.com/zhangxulu1996/Compositional-Inversion)]
+
+[arxiv 2023.12]SimAC: A Simple Anti-Customization Method against Text-to-Image Synthesis of Diffusion Models [[PDF](https://arxiv.org/abs/2312.07865)]
+
+[arxiv 2023.12]InstantID : Zero-shot Identity-Preserving Generation in Seconds [[PDF](),[Page](https://instantid.github.io/)]
 
 
 
@@ -350,6 +356,9 @@
 [arxiv 2023.08]StoryBench: A Multifaceted Benchmark for Continuous Story Visualization [[PDF](https://arxiv.org/pdf/2308.11606.pdf), [Page](https://github.com/google/storybench)]
 
 [arxiv 2023.11]AutoStory: Generating Diverse Storytelling Images with Minimal Human Effort[[PDf](https://arxiv.org/abs/2311.11243),[Page](https://aim-uofa.github.io/AutoStory/)]
+
+[arxiv 2023.12]Make-A-Storyboard: A General Framework for Storyboard with Disentangled and Merged Control [[PDF](https://arxiv.org/abs/2312.07549)]
+
 
 
 ## Layout Generation 
