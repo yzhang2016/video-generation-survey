@@ -204,6 +204,11 @@
 
 [arxiv 2023.12]AdapEdit: Spatio-Temporal Guided Adaptive Editing Algorithm for Text-Based Continuity-Sensitive Image Editing [[PDF](https://arxiv.org/abs/2312.08019)]
 
+[arxiv 2023.12]LIME: Localized Image Editing via Attention Regularization in Diffusion Models [[PDF](https://arxiv.org/abs/2312.09256)]
+
+[arxiv 2023.12]Diffusion Cocktail: Fused Generation from Diffusion Models [[PDF](https://arxiv.org/abs/2312.08873)]
+
+
 
 
 ##  Improve T2I base modules
@@ -537,7 +542,10 @@
 
 [arxiv 2023.12]FreeControl: Training-Free Spatial Control of Any Text-to-Image Diffusion Model with Any Condition [[PDF](https://arxiv.org/abs/2312.07536),[Page](https://genforce.github.io/freecontrol/)]
 
-[]
+[arxiv 2023.12]FineControlNet: Fine-level Text Control for Image Generation with Spatially Aligned Text Control Injection [[PDF](https://arxiv.org/abs/2312.09252),[Page](https://samsunglabs.github.io/FineControlNet-project-page/)]
+
+[arxiv 2023.12]Local Conditional Controlling for Text-to-Image Diffusion Models [[PDF](https://arxiv.org/abs/2312.08768)]
+
 
 
 ## Image Variation 
@@ -637,6 +645,9 @@
 
 [arxiv 2023.12]Portrait Diffusion: Training-free Face Stylization with Chain-of-Painting [[PDF](https://arxiv.org/abs/2312.02212)]
 
+[arxiv 2023.12]Style Injection in Diffusion: A Training-free Approach for Adapting Large-scale Diffusion Models for Style Transfer [[PDF](https://arxiv.org/abs/2312.09008)]
+
+
 
 ## downstreeam apps
 [arxiv 2023.11]Text-to-Sticker: Style Tailoring Latent Diffusion Models for Human Expression [[PDF](https://arxiv.org/abs/2311.10794)]
@@ -684,6 +695,8 @@
 [arxiv 2023.12]One-step Diffusion with Distribution Matching Distillation [[PDF](https://arxiv.org/abs/2311.18828),[Page](https://tianweiy.github.io/dmd/)]
 
 [arxiv 2023.12]SwiftBrush: One-Step Text-to-Image Diffusion Model with Variational Score Distillation [[PDF](https://arxiv.org/abs/2312.05239), [Page](https://thuanz123.github.io/swiftbrush/)]
+
+[arxiv 2023.12]SpeedUpNet: A Plug-and-Play Hyper-Network for Accelerating Text-to-Image Diffusion Models [[PDF](https://arxiv.org/abs/2312.08887)]
 
 
 
