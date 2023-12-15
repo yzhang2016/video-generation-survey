@@ -527,6 +527,8 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 ## Speed 
 [arxiv 2023.12]F3-Pruning: A Training-Free and Generalized Pruning Strategy towards Faster and Finer Text-to-Video Synthesis [[PDF](https://arxiv.org/abs/2312.03459)]
 
+[arxiv 2023.12]VideoLCM: Video Latent Consistency Model [[PDF](https://arxiv.org/abs/2312.09109)]
+
 
 
 
