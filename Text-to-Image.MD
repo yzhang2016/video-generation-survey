@@ -40,6 +40,8 @@
 
 [arxiv 2023.09]Emu: Enhancing Image Generation Models Using Photogenic Needles in a Haystack [[PDF](https://arxiv.org/abs/2309.15807),[Page](https://ai.meta.com/research/publications/emu-enhancing-image-generation-models-using-photogenic-needles-in-a-haystack/)]
 
+[tech report] DALLE-3: Improving Image Generation with Better Captions [[PDF](https://cdn.openai.com/papers/dall-e-3.pdf),[Page](https://openai.com/dall-e-3)]
+
 [arxiv 2023.10]Matryoshka Diffusion Models [[PDF](https://arxiv.org/abs/2310.15111)]
 
 [arxiv 2023.12]Kandinsky-3: Text-to-image diffusion model [[PDF](https://arxiv.org/abs/2312.03511),[Page](https://github.com/ai-forever/Kandinsky-3)]
