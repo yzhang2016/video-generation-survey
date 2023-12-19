@@ -419,6 +419,14 @@
 
 [arxiv 2023.09]Deep Geometrized Cartoon Line Inbetweening [[PDF](https://arxiv.org/abs/2309.16643),[Page](https://github.com/lisiyao21/AnimeInbet)]
 
+[arxiv 2023.12]VecFusion: Vector Font Generation with Diffusion [[PDF](https://arxiv.org/abs/2312.10540)]
+
+
+
+
+
+
+
 ## Translation & composition
 [arxiv 2022; Google]Sketch-Guided Text-to-Image Diffusion Models \[[PDF](https://arxiv.org/pdf/2211.13752.pdf), code\]  
 
@@ -742,6 +750,10 @@
 [arxiv 2023.11]Holistic Evaluation of Text-To-Image Models [[PDF](https://arxiv.org/abs/2311.04287)]
 
 [arxiv 2023.11]On the Limitation of Diffusion Models for Synthesizing Training Datasets [[PDF](https://arxiv.org/abs/2311.13090)]
+
+[arxiv 2023.12]Rich Human Feedback for Text-to-Image Generation [[PDF](https://arxiv.org/abs/2312.10240)]
+
+
 
 
 ## Feedback
