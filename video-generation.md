@@ -460,6 +460,7 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2023.12]SAVE: Protagonist Diversification with Structure Agnostic Video Editing [[PDF](https://arxiv.org/abs/2312.02503),[Page](https://ldynx.github.io/SAVE/)]
 
+[arxiv 2023.12]VidToMe: Video Token Merging for Zero-Shot Video Editing [[PDF](https://arxiv.org/abs/2312.10656),[Page](https://vidtome-diffusion.github.io/)]
 
 
 
