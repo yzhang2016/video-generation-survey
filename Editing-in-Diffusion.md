@@ -233,6 +233,7 @@
 [arxiv 2023.12]UDiffText: A Unified Framework for High-quality Text Synthesis in Arbitrary Images via Character-aware Diffusion Models [[PDF](https://arxiv.org/abs/2312.04884)]
 
 
+
  
 ## Concept 
 *[Arxiv.2208; NVIDIA]  ***An Image is Worth One Word:*** Personalizing Text-to-Image Generation using Textual Inversion [[PDF](https://arxiv.org/abs/2208.01618), [Page](https://github.com/rinongal/textual_inversion), [Code](https://github.com/rinongal/textual_inversion) ]
@@ -364,6 +365,7 @@
 
 [arxiv 2023.12]Make-A-Storyboard: A General Framework for Storyboard with Disentangled and Merged Control [[PDF](https://arxiv.org/abs/2312.07549)]
 
+[arxiv 2023.12]CogCartoon: Towards Practical Story Visualization [[PDF](https://arxiv.org/abs/2312.10718)]
 
 
 ## Layout Generation 
@@ -545,6 +547,10 @@
 [arxiv 2023.12]FineControlNet: Fine-level Text Control for Image Generation with Spatially Aligned Text Control Injection [[PDF](https://arxiv.org/abs/2312.09252),[Page](https://samsunglabs.github.io/FineControlNet-project-page/)]
 
 [arxiv 2023.12]Local Conditional Controlling for Text-to-Image Diffusion Models [[PDF](https://arxiv.org/abs/2312.08768)]
+
+[arxiv 2023.12]SCEdit: Efficient and Controllable Image Diffusion Generation via Skip Connection Editing [[PDF](https://arxiv.org/abs/2312.11392), [Page](https://scedit.github.io/)]
+
+
 
 
 
