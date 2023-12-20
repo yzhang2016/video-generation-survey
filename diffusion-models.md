@@ -45,6 +45,8 @@
 [arxiv 2023.12]Analyzing and Improving the Training Dynamics of Diffusion Models[[PDF](https://arxiv.org/abs/2312.02696)]
 
 
+[arxiv 2023.12]On Inference Stability for Diffusion Models [[PDF](https://arxiv.org/abs/2312.12431)]
+
 
 ## Architecture
 [arxiv 2023.03]Masked Diffusion Transformer is a Strong Image Synthesizer [[PDF](https://arxiv.org/abs/2303.14389)]
