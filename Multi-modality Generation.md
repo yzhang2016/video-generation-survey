@@ -24,3 +24,5 @@
 [arxiv 2023.12]InstructAny2Pix: Flexible Visual Editing via Multimodal Instruction Following [[PDF](https://arxiv.org/abs/2312.06738), [Page](https://github.com/jacklishufan/InstructAny2Pix.git)]
 
 [arxiv 2023.12]Massively Multimodal Masked Modeling [[PDF](https://arxiv.org/abs/2312.06647),[Page](https://4m.epfl.ch/)]
+
+[arxiv 2023.12]Gemini: A Family of Highly Capable Multimodal Models [[PDF](https://arxiv.org/abs/2312.11805)]
