@@ -240,6 +240,7 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2023.12]AVID: Any-Length Video Inpainting with Diffusion Model [[PDF](https://arxiv.org/abs/2312.03816),[Page](https://zhang-zx.github.io/AVID/)]
 
+[arxiv 2023.12]RealCraft: Attention Control as A Solution for Zero-shot Long Video Editing [[PDF](https://arxiv.org/abs/2312.12635)]
 
 
 ## Higher Resolution 
@@ -281,6 +282,10 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 [arxiv 2023.12]Drag-A-Video: Non-rigid Video Editing with Point-based Interaction [[PDF](https://arxiv.org/abs/2312.02936),[Page](https://drag-a-video.github.io/)]
 
 [arxiv 2023.12]Peekaboo: Interactive Video Generation via Masked-Diffusion [[PDF](https://arxiv.org/abs/2312.07509),[Page](https://jinga-lala.github.io/projects/Peekaboo/)]
+
+[arxiv 2023.12]InstructVideo: Instructing Video Diffusion Models with Human Feedback [[PDF](https://arxiv.org/abs/2312.12490),[Page](https://instructvideo.github.io/)]
+
+
 
 ## Video in/outpainting 
 [MM 2023.09]Hierarchical Masked 3D Diffusion Model for Video Outpainting [[PDF](https://arxiv.org/abs/2309.02119)]
