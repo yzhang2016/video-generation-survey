@@ -214,7 +214,7 @@
 
 [arxiv 2023.12]StreamDiffusion: A Pipeline-level Solution for Real-time Interactive Generation [[PDF](https://arxiv.org/abs/2312.12491)]
 
-
+[arxiv 2023.12]MAG-Edit: Localized Image Editing in Complex Scenarios via Mask-Based Attention-Adjusted Guidance [[PDF](https://arxiv.org/abs/2312.11396),[Page](https://mag-edit.github.io/)]
 
 
 ##  Improve T2I base modules
@@ -229,6 +229,9 @@
 [arxiv 2023.12]Fair Text-to-Image Diffusion via Fair Mapping [[PDF](https://arxiv.org/abs/2311.17695)]
 
 [arxiv 2023.12]CONFORM: Contrast is All You Need For High-Fidelity Text-to-Image Diffusion Models[[PDF](https://arxiv.org/abs/2312.06059)]
+
+
+
 
 
 ## Model adapatation 
