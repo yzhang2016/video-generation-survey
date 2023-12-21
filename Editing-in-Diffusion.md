@@ -208,6 +208,10 @@
 
 [arxiv 2023.12]Diffusion Cocktail: Fused Generation from Diffusion Models [[PDF](https://arxiv.org/abs/2312.08873)]
 
+[arxiv 2023.12]Prompting Hard or Hardly Prompting: Prompt Inversion for Text-to-Image Diffusion Models [[PDF](https://arxiv.org/abs/2312.12416)]
+
+
+
 
 
 
@@ -231,6 +235,8 @@
 
 ## Text 
 [arxiv 2023.12]UDiffText: A Unified Framework for High-quality Text Synthesis in Arbitrary Images via Character-aware Diffusion Models [[PDF](https://arxiv.org/abs/2312.04884)]
+
+[arxiv 2023.12]Brush Your Text: Synthesize Any Scene Text on Images via Diffusion Model [[PDF](https://arxiv.org/abs/2312.12232)]
 
 
 
