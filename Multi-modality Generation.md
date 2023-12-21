@@ -26,3 +26,6 @@
 [arxiv 2023.12]Massively Multimodal Masked Modeling [[PDF](https://arxiv.org/abs/2312.06647),[Page](https://4m.epfl.ch/)]
 
 [arxiv 2023.12]Gemini: A Family of Highly Capable Multimodal Models [[PDF](https://arxiv.org/abs/2312.11805)]
+
+[arxiv 2023.12]Generative Multimodal Models are In-Context Learners [[PDF](https://arxiv.org/abs/2312.13286),[Page](https://baaivision.github.io/emu2)]
+
