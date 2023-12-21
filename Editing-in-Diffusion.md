@@ -210,7 +210,9 @@
 
 [arxiv 2023.12]Prompting Hard or Hardly Prompting: Prompt Inversion for Text-to-Image Diffusion Models [[PDF](https://arxiv.org/abs/2312.12416)]
 
+[arxiv 2023.12]Fixed-point Inversion for Text-to-image diffusion models [[PDF](https://arxiv.org/abs/2312.12540)]
 
+[arxiv 2023.12]StreamDiffusion: A Pipeline-level Solution for Real-time Interactive Generation [[PDF](https://arxiv.org/abs/2312.12491)]
 
 
 
@@ -343,6 +345,7 @@
 
 [arxiv 2023.12]InstantID : Zero-shot Identity-Preserving Generation in Seconds [[PDF](),[Page](https://instantid.github.io/)]
 
+[arxiv 2023.12]All but One: Surgical Concept Erasing with Model Preservation in Text-to-Image Diffusion Models[[PDf](https://arxiv.org/abs/2312.12807)]
 
 
 ## Story-telling
