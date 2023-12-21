@@ -47,6 +47,9 @@
 
 [arxiv 2023.12]On Inference Stability for Diffusion Models [[PDF](https://arxiv.org/abs/2312.12431)]
 
+[arxiv 2023.12]Diffusion Models With Learned Adaptive Noise [[PDF](https://arxiv.org/abs/2312.13236)]
+
+
 
 ## Architecture
 [arxiv 2023.03]Masked Diffusion Transformer is a Strong Image Synthesizer [[PDF](https://arxiv.org/abs/2303.14389)]
