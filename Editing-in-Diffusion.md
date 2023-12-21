@@ -613,6 +613,7 @@
 
 [arxiv 2023.12]UIEDP:Underwater Image Enhancement with Diffusion Prior [[PDF](https://arxiv.org/abs/2312.06240)]
 
+[arxiv 2023.12]MagicScroll: Nontypical Aspect-Ratio Image Generation for Visual Storytelling via Multi-Layered Semantic-Aware Denoisin [[PDF](https://arxiv.org/abs/2312.10899),[Page](https://magicscroll.github.io/)]
 
 
 ## action transfer 
