@@ -433,7 +433,7 @@
 
 [arxiv 2023.12]VecFusion: Vector Font Generation with Diffusion [[PDF](https://arxiv.org/abs/2312.10540)]
 
-
+[arxiv 2023.12]StarVector: Generating Scalable Vector Graphics Code from Images[[PDF](https://arxiv.org/abs/2312.11556), [Page](https://github.com/joanrod/star-vector)]
 
 
 
