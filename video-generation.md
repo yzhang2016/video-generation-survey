@@ -217,6 +217,11 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 [arxiv 2023.12]Photorealistic Video Generation with Diffusion Models [[PDF](https://arxiv.org/abs/2312.06662),[Page](https://walt-video-diffusion.github.io/)]
 
 
+## LLMs-based 
+[arxiv 2023.12]VideoPoet: A Large Language Model for Zero-Shot Video Generation [[PDF](https://arxiv.org/abs/2312.14125),[Page](http://sites.research.google/videopoet/)]
+
+
+
 ## improve Video Diffusion models 
 [arxiv 2023.10]ScaleCrafter: Tuning-free Higher-Resolution Visual Generation with Diffusion Models [[PDF](https://arxiv.org/abs/2310.07702), [Page](https://yingqinghe.github.io/scalecrafter/)]
 
@@ -319,6 +324,8 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 [arxiv 2023.12]VideoBooth: Diffusion-based Video Generation with Image Prompts [[PDF](https://arxiv.org/abs/2312.00777),[Page](https://vchitect.github.io/VideoBooth-project/)]
 
 [arxiv 2023.12]DreamVideo: Composing Your Dream Videos with Customized Subject and Motion [[PDF](https://arxiv.org/abs/2312.04433),[Page](https://dreamvideo-t2v.github.io/)]
+
+[arxiv 2023.12]PIA: Your Personalized Image Animator via Plug-and-Play Modules in Text-to-Image Models [[PDF](https://pi-animator.github.io/)]
 
 
 
@@ -467,7 +474,7 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2023.12]VidToMe: Video Token Merging for Zero-Shot Video Editing [[PDF](https://arxiv.org/abs/2312.10656),[Page](https://vidtome-diffusion.github.io/)]
 
-
+[arxiv 2023.12]Fairy: Fast Parallelized Instruction-Guided Video-to-Video Synthesis [[PDF](https://arxiv.org/abs/2312.13834),[Page](https://fairy-video2video.github.io/)]
 
 
 ## :point_right: Video Completion (animation, interpolation, prediction)
