@@ -216,6 +216,10 @@
 
 [arxiv 2023.12]MAG-Edit: Localized Image Editing in Complex Scenarios via Mask-Based Attention-Adjusted Guidance [[PDF](https://arxiv.org/abs/2312.11396),[Page](https://mag-edit.github.io/)]
 
+[arxiv 2023.12]Tuning-Free Inversion-Enhanced Control for Consistent Image Editing [[PDF](https://arxiv.org/abs/2312.14611)]
+
+
+
 
 ##  Improve T2I base modules
 [arxiv 2023.11]Self-correcting LLM-controlled Diffusion Models [[PDF](https://arxiv.org/abs/2311.16090)]
@@ -230,7 +234,7 @@
 
 [arxiv 2023.12]CONFORM: Contrast is All You Need For High-Fidelity Text-to-Image Diffusion Models[[PDF](https://arxiv.org/abs/2312.06059)]
 
-
+[arxiv 2023.120]DreamDistribution: Prompt Distribution Learning for Text-to-Image Diffusion Models[ [PDF](https://arxiv.org/abs/2312.14216),[Page](https://briannlongzhao.github.io/DreamDistribution)]
 
 
 
@@ -570,6 +574,7 @@
 
 [arxiv 2023.12]SCEdit: Efficient and Controllable Image Diffusion Generation via Skip Connection Editing [[PDF](https://arxiv.org/abs/2312.11392), [Page](https://scedit.github.io/)]
 
+[arxiv 2023.12]HD-Painter: High-Resolution and Prompt-Faithful Text-Guided Image Inpainting with Diffusion Models [[PDF](https://arxiv.org/abs/2312.14091)]
 
 
 
@@ -725,6 +730,7 @@
 
 [arxiv 2023.12]SpeedUpNet: A Plug-and-Play Hyper-Network for Accelerating Text-to-Image Diffusion Models [[PDF](https://arxiv.org/abs/2312.08887)]
 
+[arxiv 2023.12]Not All Steps are Equal: Efficient Generation with Progressive Diffusion Models [[PDF](https://arxiv.org/abs/2312.13307)]
 
 
 ## limited data 
