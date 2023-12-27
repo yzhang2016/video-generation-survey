@@ -216,6 +216,8 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2023.12]Photorealistic Video Generation with Diffusion Models [[PDF](https://arxiv.org/abs/2312.06662),[Page](https://walt-video-diffusion.github.io/)]
 
+[arxiv 2023.12]A Recipe for Scaling up Text-to-Video Generation with Text-free Videos [[PDF](A Recipe for Scaling up Text-to-Video Generation with Text-free Videos),[Page](https://tf-t2v.github.io/)]
+
 
 ## LLMs-based 
 [arxiv 2023.12]VideoPoet: A Large Language Model for Zero-Shot Video Generation [[PDF](https://arxiv.org/abs/2312.14125),[Page](http://sites.research.google/videopoet/)]
