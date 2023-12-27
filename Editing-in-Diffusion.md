@@ -218,6 +218,7 @@
 
 [arxiv 2023.12]Tuning-Free Inversion-Enhanced Control for Consistent Image Editing [[PDF](https://arxiv.org/abs/2312.14611)]
 
+[arxiv 2023.12]High-Fidelity Diffusion-based Image Editing [[PDF](https://arxiv.org/abs/2312.15707)]
 
 
 
@@ -353,6 +354,9 @@
 [arxiv 2023.12]InstantID : Zero-shot Identity-Preserving Generation in Seconds [[PDF](),[Page](https://instantid.github.io/)]
 
 [arxiv 2023.12]All but One: Surgical Concept Erasing with Model Preservation in Text-to-Image Diffusion Models[[PDf](https://arxiv.org/abs/2312.12807)]
+
+[arxiv 2023.12]Cross Initialization for Personalized Text-to-Image Generation [[PDF](https://arxiv.org/abs/2312.15905)]
+
 
 
 ## Story-telling
@@ -576,6 +580,7 @@
 
 [arxiv 2023.12]HD-Painter: High-Resolution and Prompt-Faithful Text-Guided Image Inpainting with Diffusion Models [[PDF](https://arxiv.org/abs/2312.14091)]
 
+[arxiv 2023.12]Semantic Guidance Tuning for Text-To-Image Diffusion Models[[PDF](https://arxiv.org/abs/2312.15964),[Page](https://korguy.github.io/)]
 
 
 
