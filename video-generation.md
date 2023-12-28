@@ -37,6 +37,8 @@ A reading list of video generation
 
 * **HiDream.ai/Pixeling** [[Page](https://hidream.ai/#/Pixeling)]
 
+* **Assistant++** [[Page](https://assistive.chat/video)]
+
 ## :point_right: Databases
 
 * **HowTo100M**
