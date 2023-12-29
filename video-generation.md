@@ -363,6 +363,7 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2023.12]LivePhoto: Real Image Animation with Text-guided Motion Control [[PDF](https://arxiv.org/abs/2312.02928), [Page](https://xavierchen34.github.io/LivePhoto-Page/)]
 
+[arxiv 2023.12]I2V-Adapter: A General Image-to-Video Adapter for Video Diffusion Models [[PDF](https://arxiv.org/abs/2312.16693)]
 
 
 
