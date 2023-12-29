@@ -221,6 +221,9 @@
 [arxiv 2023.12]High-Fidelity Diffusion-based Image Editing [[PDF](https://arxiv.org/abs/2312.15707)]
 
 
+[arxiv 2023.12]ZONE: Zero-Shot Instruction-Guided Local Editing [[PDF](https://arxiv.org/abs/2312.16794)]
+
+
 
 ##  Improve T2I base modules
 [arxiv 2023.11]Self-correcting LLM-controlled Diffusion Models [[PDF](https://arxiv.org/abs/2311.16090)]
@@ -237,6 +240,7 @@
 
 [arxiv 2023.120]DreamDistribution: Prompt Distribution Learning for Text-to-Image Diffusion Models[ [PDF](https://arxiv.org/abs/2312.14216),[Page](https://briannlongzhao.github.io/DreamDistribution)]
 
+[arxiv 2023.12]Prompt Expansion for Adaptive Text-to-Image Generation [[PDF](https://arxiv.org/abs/2312.16720)]
 
 
 ## Model adapatation 
@@ -443,6 +447,7 @@
 
 [arxiv 2023.12]StarVector: Generating Scalable Vector Graphics Code from Images[[PDF](https://arxiv.org/abs/2312.11556), [Page](https://github.com/joanrod/star-vector)]
 
+[arxiv 2023.12]SVGDreamer: Text Guided SVG Generation with Diffusion Model [[PDF](https://arxiv.org/abs/2312.16476)]
 
 
 
