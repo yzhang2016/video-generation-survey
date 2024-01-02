@@ -372,6 +372,9 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2023.12]4D-fy: Text-to-4D Generation Using Hybrid Score Distillation Sampling[[PDF](https://arxiv.org/abs/2311.17984), [Page](https://sherwinbahmani.github.io/4dfy)]
 
+[arxiv 2023.12]4DGen: Grounded 4D Content Generation with Spatial-temporal Consistency [[PDF](https://arxiv.org/abs/2312.17225),[Page](https://vita-group.github.io/4DGen/)]
+
+[arxiv 2023.12]DreamGaussian4D: Generative 4D Gaussian Splatting [[PDF](https://arxiv.org/abs/2312.17142), [Page](https://jiawei-ren.github.io/projects/dreamgaussian4d)]
 
 
 
@@ -380,12 +383,12 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 
 
-## Video editing wiht video models 
+## Video editing with video models 
 [arxiv 2023.12]VIDiff: Translating Videos via Multi-Modal Instructions with Diffusion Models[[PDF](https://arxiv.org/abs/2311.18837),[Page](https://chenhsing.github.io/VIDiff)]
 
 [arxiv 2023.12]Neutral Editing Framework for Diffusion-based Video Editing [[PDF](https://arxiv.org/abs/2312.06708),[Page](https://neuedit.github.io/)]
 
-
+[arxiv 2024.01]FlowVid: Taming Imperfect Optical Flows for Consistent Video-to-Video Synthesis[[PDF](https://arxiv.org/abs/2312.17681),[Page](https://jeff-liangf.github.io/projects/flowvid/)]
 
 
 
