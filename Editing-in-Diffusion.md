@@ -633,6 +633,9 @@
 
 [arxiv 2023.12]MagicScroll: Nontypical Aspect-Ratio Image Generation for Visual Storytelling via Multi-Layered Semantic-Aware Denoisin [[PDF](https://arxiv.org/abs/2312.10899),[Page](https://magicscroll.github.io/)]
 
+[arxiv 2024.01]Diffusion Models, Image Super-Resolution And Everything: A Survey
+
+
 
 ## action transfer 
 [arxiv 2023.11]Learning Disentangled Identifiers for Action-Customized Text-to-Image Generation [[PDF](https://arxiv.org/abs/2311.15841)]
