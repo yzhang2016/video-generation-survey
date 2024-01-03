@@ -242,6 +242,8 @@
 
 [arxiv 2023.12]Prompt Expansion for Adaptive Text-to-Image Generation [[PDF](https://arxiv.org/abs/2312.16720)]
 
+[arxiv 2023.12]Diffusion Model with Perceptual Loss [[PDF](https://arxiv.org/abs/2401.00110)]
+
 
 ## Model adapatation 
 [arxiv 2023.12]X-Adapter: Adding Universal Compatibility of Plugins for Upgraded Diffusion Model [[PDF](https://arxiv.org/abs/2312.02238),[Page](https://showlab.github.io/X-Adapter/)]
