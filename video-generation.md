@@ -552,6 +552,7 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2023.12]VideoLCM: Video Latent Consistency Model [[PDF](https://arxiv.org/abs/2312.09109)]
 
+[arxiv 2024.01]FlashVideo: A Framework for Swift Inference in Text-to-Video Generation [[PDF](https://arxiv.org/abs/2401.00869)]
 
 
 
