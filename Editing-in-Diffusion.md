@@ -745,6 +745,9 @@
 
 [arxiv 2023.12]Not All Steps are Equal: Efficient Generation with Progressive Diffusion Models [[PDF](https://arxiv.org/abs/2312.13307)]
 
+[arxiv 2024.01]Fast Inference Through The Reuse Of Attention Maps In Diffusion Models [[PDF](https://arxiv.org/abs/2401.01008)]
+
+
 
 ## limited data 
 [arxiv 2023.06]Decompose and Realign: Tackling Condition Misalignment in Text-to-Image Diffusion Models [[PDF](https://arxiv.org/abs/2306.14153)]
