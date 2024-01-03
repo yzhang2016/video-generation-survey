@@ -635,6 +635,7 @@
 
 [arxiv 2024.01]Diffusion Models, Image Super-Resolution And Everything: A Survey
 
+[arxiv 2024.01]Improving the Stability of Diffusion Models for Content Consistent Super-Resolution [[PDF](https://arxiv.org/abs/2401.00877)]
 
 
 ## action transfer 
