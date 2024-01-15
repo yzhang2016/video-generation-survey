@@ -222,10 +222,9 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2023.12]A Recipe for Scaling up Text-to-Video Generation with Text-free Videos [[PDF](A Recipe for Scaling up Text-to-Video Generation with Text-free Videos),[Page](https://tf-t2v.github.io/)]
 
-
 [arxiv 2023.12]MagicVideo-V2: Multi-Stage High-Aesthetic Video Generation [[PDF](https://arxiv.org/pdf/2401.04468.pdf), [Page](https://magicvideov2.github.io/)]
 
-
+[arxiv 2024.1]Latte: Latent Diffusion Transformer for Video Generation [[PDF](https://arxiv.org/abs/2401.03048),[Page](https://maxin-cn.github.io/latte_project)]
 
 ## LLMs-based 
 [arxiv 2023.12]VideoPoet: A Large Language Model for Zero-Shot Video Generation [[PDF](https://arxiv.org/abs/2312.14125),[Page](http://sites.research.google/videopoet/)]
@@ -489,6 +488,11 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 [arxiv 2023.12]VidToMe: Video Token Merging for Zero-Shot Video Editing [[PDF](https://arxiv.org/abs/2312.10656),[Page](https://vidtome-diffusion.github.io/)]
 
 [arxiv 2023.12]Fairy: Fast Parallelized Instruction-Guided Video-to-Video Synthesis [[PDF](https://arxiv.org/abs/2312.13834),[Page](https://fairy-video2video.github.io/)]
+
+[arxiv 2024.1]Object-Centric Diffusion for Efficient Video Editing [[PDF](https://arxiv.org/abs/2401.05735)]
+
+[arxiv 2024.1]VASE: Object-Centric Shape and Appearance Manipulation of Real Videos [[PDF](https://arxiv.org/abs/2401.02473),[Page](https://helia95.github.io/vase-website/)]
+
 
 
 ## :point_right: Video Completion (animation, interpolation, prediction)
