@@ -220,9 +220,9 @@
 
 [arxiv 2023.12]High-Fidelity Diffusion-based Image Editing [[PDF](https://arxiv.org/abs/2312.15707)]
 
-
 [arxiv 2023.12]ZONE: Zero-Shot Instruction-Guided Local Editing [[PDF](https://arxiv.org/abs/2312.16794)]
 
+[arxiv 2024.1]PIXART-δ: Fast and Controllable Image Generation with Latent Consistency Models [[PDF](https://arxiv.org/abs/2401.05252)]
 
 
 ##  Improve T2I base modules
@@ -243,6 +243,9 @@
 [arxiv 2023.12]Prompt Expansion for Adaptive Text-to-Image Generation [[PDF](https://arxiv.org/abs/2312.16720)]
 
 [arxiv 2023.12]Diffusion Model with Perceptual Loss [[PDF](https://arxiv.org/abs/2401.00110)]
+
+[arxiv 2024.01]EmoGen: Emotional Image Content Generation with Text-to-Image Diffusion Models [[PDF](https://arxiv.org/abs/2401.04608)]
+
 
 
 ## Model adapatation 
@@ -362,6 +365,8 @@
 [arxiv 2023.12]All but One: Surgical Concept Erasing with Model Preservation in Text-to-Image Diffusion Models[[PDf](https://arxiv.org/abs/2312.12807)]
 
 [arxiv 2023.12]Cross Initialization for Personalized Text-to-Image Generation [[PDF](https://arxiv.org/abs/2312.15905)]
+
+[arxiv 2023.12]PALP: Prompt Aligned Personalization of Text-to-Image Models[[PDF](https://arxiv.org/abs/2401.06105), [Page](https://prompt-aligned.github.io/)]
 
 
 
