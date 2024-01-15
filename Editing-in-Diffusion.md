@@ -594,6 +594,7 @@
 
 [arxiv 2023.12]Semantic Guidance Tuning for Text-To-Image Diffusion Models[[PDF](https://arxiv.org/abs/2312.15964),[Page](https://korguy.github.io/)]
 
+[arxiv 2024.1]ReplaceAnything as you want: Ultra-high quality content replacement[[PDF](),[Page](https://aigcdesigngroup.github.io/replace-anything/?ref=aiartweekly)]
 
 
 ## Image Variation 
