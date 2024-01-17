@@ -208,8 +208,6 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2023.11]Kandinsky Video [[PDF](https://arxiv.org/abs/2311.13073),[Page](https://ai-forever.github.io/kandinsky-video/)]
 
-[arxiv 2023.11] Emu Video: Factorizing Text-to-Video Generation by Explicit Image Conditioning [[PDF](https://arxiv.org/abs/2311.10709),[Page](https://emu-video.metademolab.com/)]
-
 [arxiv 2023.12]GenDeF: Learning Generative Deformation Field for Video Generation [[PDF](https://arxiv.org/abs/2312.04561),[Page](https://aim-uofa.github.io/GenDeF/)]
 
 [arxiv 2023.12]GenTron: Delving Deep into Diffusion Transformers for Image and Video Generation [[PDF](https://arxiv.org/abs/2312.04557),[Page](https://www.shoufachen.com/gentron_website/)]
@@ -372,7 +370,7 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2023.12]I2V-Adapter: A General Image-to-Video Adapter for Video Diffusion Models [[PDF](https://arxiv.org/abs/2312.16693)]
 
-
+[arxiv 2023.11] Emu Video: Factorizing Text-to-Video Generation by Explicit Image Conditioning [[PDF](https://arxiv.org/abs/2311.10709),[Page](https://emu-video.metademolab.com/)]
 
 ## 4D generation 
 [arxiv 2023.11]Animate124: Animating One Image to 4D Dynamic Scene [[PDF](https://arxiv.org/abs/2311.14603),[Page](https://animate124.github.io/)]
