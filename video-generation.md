@@ -224,6 +224,7 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2024.1]Latte: Latent Diffusion Transformer for Video Generation [[PDF](https://arxiv.org/abs/2401.03048),[Page](https://maxin-cn.github.io/latte_project)]
 
+[arxiv 2024.1]VideoCrafter2: Overcoming Data Limitations for High-Quality Video Diffusion Models []
 
 
 ## LLMs-based 
@@ -266,6 +267,16 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 [arxiv 2023.12]Going from Anywhere to Everywhere[[PDF](https://arxiv.org/abs/2312.03884),[Page](https://kovenyu.com/wonderjourney/)]
 
 [arxiv 2024.1]360DVD: Controllable Panorama Video Generation with 360-Degree Video Diffusion Model [[PDF](https://arxiv.org/abs/2401.06578)]
+
+## Video Story 
+[arxiv 2023.05]TaleCrafter: Interactive Story Visualization with Multiple Characters [[PDF](https://arxiv.org/abs/2305.18247), [Page](https://videocrafter.github.io/TaleCrafter/)]
+
+[arxiv 2023.07]Animate-A-Story: Storytelling with Retrieval-Augmented Video Generation [[PDF](https://arxiv.org/abs/2307.06940), [Page](https://videocrafter.github.io/Animate-A-Story)]
+
+[arxiv 2024.01]VideoDrafter: Content-Consistent Multi-Scene Video Generation with LLM [[PDF](https://arxiv.org/abs/2401.01256), [Page](https://videodrafter.github.io/)]
+
+[arxiv 2024.01]Vlogger: Make Your Dream A Vlog [[PDF](https://arxiv.org/abs/2401.09414),[Page](https://github.com/zhuangshaobin/Vlogger)]
+
 
 
 
@@ -371,6 +382,10 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 [arxiv 2023.12]I2V-Adapter: A General Image-to-Video Adapter for Video Diffusion Models [[PDF](https://arxiv.org/abs/2312.16693)]
 
 [arxiv 2023.11] Emu Video: Factorizing Text-to-Video Generation by Explicit Image Conditioning [[PDF](https://arxiv.org/abs/2311.10709),[Page](https://emu-video.metademolab.com/)]
+
+[arxiv 2024.01]UniVG: Towards UNIfied-modal Video Generation [[PDF](https://arxiv.org/abs/2401.09084),[Page](https://univg-baidu.github.io/)]
+
+
 
 ## 4D generation 
 [arxiv 2023.11]Animate124: Animating One Image to 4D Dynamic Scene [[PDF](https://arxiv.org/abs/2311.14603),[Page](https://animate124.github.io/)]
