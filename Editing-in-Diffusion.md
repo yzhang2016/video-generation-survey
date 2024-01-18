@@ -596,6 +596,10 @@
 
 [arxiv 2024.1]ReplaceAnything as you want: Ultra-high quality content replacement[[PDF](),[Page](https://aigcdesigngroup.github.io/replace-anything/?ref=aiartweekly)]
 
+[arxiv 2024.01]Compose and Conquer: Diffusion-Based 3D Depth Aware Composable Image Synthesis [[PDF](https://arxiv.org/abs/2401.09048), [Page](https://github.com/tomtom1103/compose-and-conquer/)]
+
+
+
 
 ## Image Variation 
 [arxiv 2023.08]IP-Adapter: Text Compatible Image Prompt Adapter for Text-to-Image Diffusion Models [[PDF](https://arxiv.org/pdf/2308.06721.pdf), [Page](https://ip-adapter.github.io/)]
