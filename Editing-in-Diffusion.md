@@ -224,6 +224,10 @@
 
 [arxiv 2024.1]PIXART-δ: Fast and Controllable Image Generation with Latent Consistency Models [[PDF](https://arxiv.org/abs/2401.05252)]
 
+[arxiv 2024.1]Wavelet-Guided Acceleration of Text Inversion in Diffusion-Based Image Editing [[PDF](https://arxiv.org/abs/2401.09794)]
+
+
+
 
 ##  Improve T2I base modules
 [arxiv 2023.11]Self-correcting LLM-controlled Diffusion Models [[PDF](https://arxiv.org/abs/2311.16090)]
@@ -246,6 +250,7 @@
 
 [arxiv 2024.01]EmoGen: Emotional Image Content Generation with Text-to-Image Diffusion Models [[PDF](https://arxiv.org/abs/2401.04608)]
 
+[arxiv 2024.01]DiffusionGPT: LLM-Driven Text-to-Image Generation System [[PDF](https://arxiv.org/abs/2401.10061)]
 
 
 ## Model adapatation 
@@ -801,7 +806,7 @@
 
 [arxiv 2023.12]Rich Human Feedback for Text-to-Image Generation [[PDF](https://arxiv.org/abs/2312.10240)]
 
-
+[arxiv 2024.1]Rethinking FID: Towards a Better Evaluation Metric for Image Generation [[PDF](https://arxiv.org/abs/2401.09603)]
 
 
 ## Feedback
