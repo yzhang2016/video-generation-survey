@@ -312,6 +312,7 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2023.12]InstructVideo: Instructing Video Diffusion Models with Human Feedback [[PDF](https://arxiv.org/abs/2312.12490),[Page](https://instructvideo.github.io/)]
 
+[arxiv 2024.01]Motion-Zero: Zero-Shot Moving Object Control Framework for Diffusion-Based Video Generation[[PDF](https://arxiv.org/abs/2401.10150)]
 
 
 ## Video in/outpainting 
@@ -349,6 +350,7 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2023.12]PIA: Your Personalized Image Animator via Plug-and-Play Modules in Text-to-Image Models [[PDF](https://pi-animator.github.io/)]
 
+[arxiv 2024.01]CustomVideo: Customizing Text-to-Video Generation with Multiple Subjects [[PDF](https://arxiv.org/abs/2401.09962)]
 
 
 ## Image-to-video Generation 
