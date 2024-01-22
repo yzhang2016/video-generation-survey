@@ -320,6 +320,10 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2023.11]Flow-Guided Diffusion for Video Inpainting [[PDF](https://arxiv.org/abs/2311.15368)]
 
+[arxiv 2024.01]ActAnywhere: Subject-Aware Video Background Generation [[PDF](https://arxiv.org/abs/2401.10822), [Page](https://actanywhere.github.io/)]
+
+
+
 
 
 ## Video SR 
