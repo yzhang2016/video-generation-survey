@@ -224,7 +224,10 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2024.1]Latte: Latent Diffusion Transformer for Video Generation [[PDF](https://arxiv.org/abs/2401.03048),[Page](https://maxin-cn.github.io/latte_project)]
 
-[arxiv 2024.1]VideoCrafter2: Overcoming Data Limitations for High-Quality Video Diffusion Models []
+[arxiv 2024.1]VideoCrafter2: Overcoming Data Limitations for High-Quality Video Diffusion Models [[PDF](https://arxiv.org/abs/2401.09047),[Page](https://ailab-cvc.github.io/videocrafter2/)]
+
+[arxiv 2024.1]Lumiere: A Space-Time Diffusion Model for Video Generation [[PDF](https://arxiv.org/abs/2401.12945), [Page](https://lumiere-video.github.io/)]
+
 
 
 ## LLMs-based 
