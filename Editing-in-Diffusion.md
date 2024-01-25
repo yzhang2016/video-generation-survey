@@ -228,6 +228,7 @@
 
 [arxiv 2024.1]Edit One for All: Interactive Batch Image Editing [[PDF](https://arxiv.org/abs/2401.10219),[Page](https://thaoshibe.github.io/edit-one-for-all/)]
 
+[arxiv 2024.01]UNIMO-G: Unified Image Generation through Multimodal Conditional Diffusion [[PDF](https://arxiv.org/abs/2401.13388)]
 
 
 ##  Improve T2I base modules
