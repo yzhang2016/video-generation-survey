@@ -29,3 +29,6 @@
 
 [arxiv 2023.12]Generative Multimodal Models are In-Context Learners [[PDF](https://arxiv.org/abs/2312.13286),[Page](https://baaivision.github.io/emu2)]
 
+[arxiv 2024.1]DiffusionGPT: LLM-Driven Text-to-Image Generation System [[PDF](https://arxiv.org/abs/2401.10061)]
+
+
