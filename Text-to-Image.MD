@@ -114,6 +114,8 @@
 # Diffusion related 
 *[arxiv 2022.12] Scalable Diffusion Models with Transformers [[PDF](https://arxiv.org/abs/2212.09748), [Page](https://www.wpeebles.com/DiT)]
 
+[arxiv 2024.01]Scalable High-Resolution Pixel-Space Image Synthesis with Hourglass Diffusion Transformers [[PDF](https://arxiv.org/abs/2401.11605),[Page](https://crowsonkb.github.io/hourglass-diffusion-transformers/)]
+
 
 ## Benchmark 
 [arxiv 2023.10]DEsignBench: Exploring and Benchmarking DALL-E 3 for Imagining Visual Design [[PDF](https://arxiv.org/abs/2310.15144), [Page](https://design-bench.github.io/)]
