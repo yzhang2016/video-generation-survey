@@ -226,6 +226,7 @@
 
 [arxiv 2024.1]Wavelet-Guided Acceleration of Text Inversion in Diffusion-Based Image Editing [[PDF](https://arxiv.org/abs/2401.09794)]
 
+[arxiv 2024.1]Edit One for All: Interactive Batch Image Editing [[PDF](https://arxiv.org/abs/2401.10219),[Page](https://thaoshibe.github.io/edit-one-for-all/)]
 
 
 
@@ -654,6 +655,11 @@
 
 [arxiv 2024.01]Improving the Stability of Diffusion Models for Content Consistent Super-Resolution [[PDF](https://arxiv.org/abs/2401.00877)]
 
+[arxiv 2024.01]Scaling Up to Excellence: Practicing Model Scaling for Photo-Realistic Image Restoration In the Wild [[PDF](https://arxiv.org/abs/2401.13627), [Page](https://supir.xpixel.group/)]
+
+
+
+
 
 ## action transfer 
 [arxiv 2023.11]Learning Disentangled Identifiers for Action-Customized Text-to-Image Generation [[PDF](https://arxiv.org/abs/2311.15841)]
@@ -807,6 +813,9 @@
 [arxiv 2023.12]Rich Human Feedback for Text-to-Image Generation [[PDF](https://arxiv.org/abs/2312.10240)]
 
 [arxiv 2024.1]Rethinking FID: Towards a Better Evaluation Metric for Image Generation [[PDF](https://arxiv.org/abs/2401.09603)]
+
+[arxiv 2024.1]Resolution Chromatography of Diffusion Models [[PDF](https://arxiv.org/abs/2401.10247)]
+
 
 
 ## Feedback
