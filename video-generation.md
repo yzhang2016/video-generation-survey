@@ -147,7 +147,7 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2023.11]Optimal Noise pursuit for Augmenting Text-to-Video Generation [[PDF](https://arxiv.org/abs/2311.00949)]
 
-
+[arxiv 2024.01]WorldDreamer: Towards General World Models for Video Generation via Predicting Masked Tokens [[PDF](https://arxiv.org/abs/2401.09985),[Page](https://world-dreamer.github.io/)]
 
 ## :point_right: Diffusion-based methods 
 *[NIPS 2022; Google] **---VDM--**  Video Diffusion Models \[[PDF](https://arxiv.org/pdf/2204.03458.pdf), [code](https://github.com/lucidrains/video-diffusion-pytorch) \]
@@ -316,6 +316,10 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 [arxiv 2023.12]InstructVideo: Instructing Video Diffusion Models with Human Feedback [[PDF](https://arxiv.org/abs/2312.12490),[Page](https://instructvideo.github.io/)]
 
 [arxiv 2024.01]Motion-Zero: Zero-Shot Moving Object Control Framework for Diffusion-Based Video Generation[[PDF](https://arxiv.org/abs/2401.10150)]
+
+[arxiv 2024.01]Synthesizing Moving People with 3D Control [[PDF](https://arxiv.org/abs/2401.10889),[PDF](https://boyiliee.github.io/3DHM.github.io/)]
+
+
 
 
 ## Video in/outpainting 
@@ -542,6 +546,8 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 [arxiv 2023.12]Customizing Motion in Text-to-Video Diffusion Models [[PDF](https://arxiv.org/abs/2312.04966),[Page](https://joaanna.github.io/customizing_motion/)]
 
 [arxiv 2023.12]MotionCrafter: One-Shot Motion Customization of Diffusion Models [[PDF](https://arxiv.org/abs/2312.05288)]
+
+[arxiv 2024.01]Motion-Zero: Zero-Shot Moving Object Control Framework for Diffusion-Based Video Generation[[PDF](https://arxiv.org/abs/2401.10150)]
 
 
 
