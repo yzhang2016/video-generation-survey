@@ -41,6 +41,8 @@ A reading list of video generation
 
 * **Assistant++** [[Page](https://assistive.chat/video)]
 
+* **PixVerse**[[Page](https://pixverse.ai/)]
+
 ## :point_right: Databases
 
 * **HowTo100M**
