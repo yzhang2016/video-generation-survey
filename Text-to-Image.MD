@@ -46,6 +46,7 @@
 
 [arxiv 2023.12]Kandinsky-3: Text-to-image diffusion model [[PDF](https://arxiv.org/abs/2312.03511),[Page](https://github.com/ai-forever/Kandinsky-3)]
 
+[arxiv 2024.01]Taiyi-Diffusion-XL: Advancing Bilingual Text-to-Image Generation with Large Vision-Language Model Support [[PDF](https://arxiv.org/abs/2401.14688)]
 
 
 ## GAN/VAE/Transformer-based 
