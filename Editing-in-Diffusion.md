@@ -230,6 +230,9 @@
 
 [arxiv 2024.01]UNIMO-G: Unified Image Generation through Multimodal Conditional Diffusion [[PDF](https://arxiv.org/abs/2401.13388)]
 
+[arxiv 2024.01]Text Image Inpainting via Global Structure-Guided Diffusion Models [[PDF](https://arxiv.org/abs/2401.14832)]
+
+
 
 ##  Improve T2I base modules
 [arxiv 2023.11]Self-correcting LLM-controlled Diffusion Models [[PDF](https://arxiv.org/abs/2311.16090)]
