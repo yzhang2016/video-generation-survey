@@ -257,6 +257,9 @@
 
 [arxiv 2024.01]DiffusionGPT: LLM-Driven Text-to-Image Generation System [[PDF](https://arxiv.org/abs/2401.10061)]
 
+[arxiv 2024.01]Divide and Conquer: Language Models can Plan and Self-Correct for Compositional Text-to-Image Generation[[PDF](https://arxiv.org/abs/2401.15688)]
+
+
 
 ## Model adapatation 
 [arxiv 2023.12]X-Adapter: Adding Universal Compatibility of Plugins for Upgraded Diffusion Model [[PDF](https://arxiv.org/abs/2312.02238),[Page](https://showlab.github.io/X-Adapter/)]
@@ -608,6 +611,7 @@
 
 [arxiv 2024.01]Compose and Conquer: Diffusion-Based 3D Depth Aware Composable Image Synthesis [[PDF](https://arxiv.org/abs/2401.09048), [Page](https://github.com/tomtom1103/compose-and-conquer/)]
 
+[arxiv 2024.01]Spatial-Aware Latent Initialization for Controllable Image Generation [[PDF](https://arxiv.org/abs/2401.16157)]
 
 
 
