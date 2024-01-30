@@ -724,7 +724,7 @@
 
 [arxiv 2023.12]Style Injection in Diffusion: A Training-free Approach for Adapting Large-scale Diffusion Models for Style Transfer [[PDF](https://arxiv.org/abs/2312.09008)]
 
-
+[arxiv 2024.01]FreeStyle : Free Lunch for Text-guided Style Transfer using Diffusion Models [[PDF](https://arxiv.org/abs/2401.15636), [Page](https://freestylefreelunch.github.io/)]
 
 ## downstreeam apps
 [arxiv 2023.11]Text-to-Sticker: Style Tailoring Latent Diffusion Models for Human Expression [[PDF](https://arxiv.org/abs/2311.10794)]
