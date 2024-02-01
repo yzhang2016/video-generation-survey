@@ -8,6 +8,10 @@
 
 [arxiv 2023.01]Shape-aware Text-driven Layered Video Editing [[PDF](https://arxiv.org/abs/2301.13173), [Page](https://text-video-edit.github.io/)]
 
+[arxiv 2024.2]Anything in Any Scene: Photorealistic Video Object Insertion [[PDF](https://arxiv.org/abs/2401.17509),[Page](https://anythinginanyscene.github.io/)]
+
+
+
 ## Diffusion-based 
 [arxiv 2022.12]Diffusion Video Autoencoders: Toward Temporally Consistent Face Video Editing via Disentangled Video Encoding \[[PDF](https://arxiv.org/pdf/2212.02802.pdf)\]
 
