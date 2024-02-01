@@ -232,6 +232,9 @@
 
 [arxiv 2024.01]Text Image Inpainting via Global Structure-Guided Diffusion Models [[PDF](https://arxiv.org/abs/2401.14832)]
 
+[arxiv 2024.01]Motion Guidance: Diffusion-Based Image Editing with Differentiable Motion Estimators [[PDF](https://arxiv.org/abs/2401.18085)]
+
+
 
 
 ##  Improve T2I base modules
@@ -617,6 +620,8 @@
 
 ## Image Variation 
 [arxiv 2023.08]IP-Adapter: Text Compatible Image Prompt Adapter for Text-to-Image Diffusion Models [[PDF](https://arxiv.org/pdf/2308.06721.pdf), [Page](https://ip-adapter.github.io/)]
+
+
 
 ## Super-Resolution & restoration & Higher-resolution generation
 [arxiv 2022.12]ADIR: Adaptive Diffusion for Image Reconstruction  \[[PDF](https://shadyabh.github.io/ADIR/ADIR_files/ADIR.pdf)
