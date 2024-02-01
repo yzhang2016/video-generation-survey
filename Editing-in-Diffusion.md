@@ -384,6 +384,9 @@
 
 [arxiv 2023.12]PALP: Prompt Aligned Personalization of Text-to-Image Models[[PDF](https://arxiv.org/abs/2401.06105), [Page](https://prompt-aligned.github.io/)]
 
+[arxiv 2024.02]Pick-and-Draw: Training-free Semantic Guidance for Text-to-Image Personalization [[PDF](https://arxiv.org/abs/2401.16762)]
+
+
 
 
 ## Story-telling
@@ -472,6 +475,7 @@
 
 [arxiv 2023.12]SVGDreamer: Text Guided SVG Generation with Diffusion Model [[PDF](https://arxiv.org/abs/2312.16476)]
 
+[arxiv 2024.2]StrokeNUWA: Tokenizing Strokes for Vector Graphic Synthesis [[PDF](https://arxiv.org/abs/2401.17093)]
 
 
 
@@ -616,6 +620,8 @@
 
 [arxiv 2024.01]Spatial-Aware Latent Initialization for Controllable Image Generation [[PDF](https://arxiv.org/abs/2401.16157)]
 
+[arxiv 2024.02]Repositioning the Subject within Image [[PDF](https://arxiv.org/abs/2401.16861),[Page](https://yikai-wang.github.io/seele/)]
+
 
 
 ## Image Variation 
@@ -672,7 +678,7 @@
 
 [arxiv 2024.1]Spatial-and-Frequency-aware Restoration method for Images based on Diffusion Models [[PDF](https://arxiv.org/abs/2401.17629)]
 
-
+[arxiv 2024.2]You Only Need One Step: Fast Super-Resolution with Stable Diffusion via Scale Distillation [[PDF](https://arxiv.org/abs/2401.17258)]
 
 
 ## action transfer 
