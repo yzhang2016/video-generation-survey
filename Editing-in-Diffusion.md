@@ -670,6 +670,7 @@
 
 [arxiv 2024.01]Scaling Up to Excellence: Practicing Model Scaling for Photo-Realistic Image Restoration In the Wild [[PDF](https://arxiv.org/abs/2401.13627), [Page](https://supir.xpixel.group/)]
 
+[arxiv 2024.1]Spatial-and-Frequency-aware Restoration method for Images based on Diffusion Models [[PDF](https://arxiv.org/abs/2401.17629)]
 
 
 
