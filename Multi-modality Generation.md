@@ -4,9 +4,6 @@
 ### [Awesome-Multimodal-Large-Language-Models](https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models)
 
 
-
-
-
 [arxiv 2023.07]Generative Pretraining in Multimodality [[PDF](https://arxiv.org/abs/2307.05222),[Page](https://github.com/baaivision/Emu)]
 
 [arxiv 2023.07]Generating Images with Multimodal Language Models [[PDF](https://arxiv.org/abs/2305.17216),[Page](https://jykoh.com/gill)]
@@ -31,4 +28,5 @@
 
 [arxiv 2024.1]DiffusionGPT: LLM-Driven Text-to-Image Generation System [[PDF](https://arxiv.org/abs/2401.10061)]
 
+[arxiv 2024.1]Image Anything: Towards Reasoning-coherent and Training-free Multi-modal Image Generation [[PDF](https://arxiv.org/abs/2401.17664),[Page](https://vlislab22.github.io/ImageAnything/)]
 
