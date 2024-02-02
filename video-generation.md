@@ -1,8 +1,10 @@
 # Video Generation Survey
 A reading list of video generation
 
-### [Related Text-to-image Generation and Super-resolution](https://github.com/yzhang2016/video-generation-survey/blob/main/Text-to-Image.MD)
+## Related surveys 
+[Awesome-Video-Diffusion-Models](https://github.com/ChenHsing/Awesome-Video-Diffusion-Models?tab=readme-ov-file)
 
+[Awesome-Text-to-Image](https://github.com/Yutong-Zhou-cv/Awesome-Text-to-Image?tab=readme-ov-file#head-ti2i)
 
 ## :point_right: Models to play with
 
@@ -633,8 +635,6 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 
 
-## Other surveys 
-[Awesome-Video-Diffusion-Models](https://github.com/ChenHsing/Awesome-Video-Diffusion-Models?tab=readme-ov-file)
 
 
 ## Speech 
