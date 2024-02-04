@@ -599,6 +599,7 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2024.01]FlashVideo: A Framework for Swift Inference in Text-to-Video Generation [[PDF](https://arxiv.org/abs/2401.00869)]
 
+[arxiv 2024.01]AnimateLCM: Accelerating the Animation of Personalized Diffusion Models and Adapters with Decoupled Consistency Learning [[PDF](https://arxiv.org/abs/2402.00769),[Page](https://animatelcm.github.io/)]
 
 
 ## Others 
