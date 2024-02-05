@@ -622,6 +622,8 @@
 
 [arxiv 2024.02]Repositioning the Subject within Image [[PDF](https://arxiv.org/abs/2401.16861),[Page](https://yikai-wang.github.io/seele/)]
 
+[arxiv 2024.02]Cross-view Masked Diffusion Transformers for Person Image Synthesis [[PDF](https://arxiv.org/abs/2402.01516)]
+
 
 
 ## Image Variation 
