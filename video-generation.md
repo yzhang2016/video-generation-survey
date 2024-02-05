@@ -324,6 +324,7 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2024.01]Synthesizing Moving People with 3D Control [[PDF](https://arxiv.org/abs/2401.10889),[PDF](https://boyiliee.github.io/3DHM.github.io/)]
 
+[arxiv 2024.02]Boximator: Generating Rich and Controllable Motions for Video Synthesis [[PDF](https://arxiv.org/abs/2402.01566),[Page](https://boximator.github.io/)]
 
 
 
