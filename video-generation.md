@@ -326,6 +326,7 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2024.02]Boximator: Generating Rich and Controllable Motions for Video Synthesis [[PDF](https://arxiv.org/abs/2402.01566),[Page](https://boximator.github.io/)]
 
+[arxiv 2024.02]InteractiveVideo: User-Centric Controllable Video Generation with Synergistic Multimodal Instructions [[PDF](https://arxiv.org/abs/2402.03040),[Page](https://github.com/invictus717/InteractiveVideo)]
 
 
 ## Video in/outpainting 
@@ -352,6 +353,9 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 [arxiv 2023.11]Breathing Life Into Sketches Using Text-to-Video Priors [[PDF](https://arxiv.org/abs/2311.13608),[Page](https://livesketch.github.io/)]
 
 [arxiv 2023.11]Flow-Guided Diffusion for Video Inpainting [[PDF](https://arxiv.org/abs/2311.15368)]
+
+[arxiv 2024.02]Animated Stickers: Bringing Stickers to Life with Video Diffusion [[PDF](https://arxiv.org/abs/2402.06088)]
+
 
 
 ## Video Concept 
@@ -576,6 +580,7 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 [arxiv 2023.11]FETV: A Benchmark for Fine-Grained Evaluation of Open-Domain Text-to-Video Generation [[PDF](https://arxiv.org/abs/2311.01813)]
 
 [arxiv 2023.11]Online Video Quality Enhancement with Spatial-Temporal Look-up Tables [[PDF](https://arxiv.org/abs/2311.13616)]
+]
 
 
 ## Survey
@@ -591,6 +596,9 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 [arxiv 2023.11]HIDRO-VQA: High Dynamic Range Oracle for Video Quality Assessment [[PDF](https://arxiv.org/abs/2311.11059)]
 
 [arxiv 2023.12]VBench: Comprehensive Benchmark Suite for Video Generative Models [[PDF](https://arxiv.org/abs/2311.17982), [Page](https://vchitect.github.io/VBench-project/)]
+
+[arxiv 2024.02]Perceptual Video Quality Assessment: A Survey [[PDF](https://arxiv.org/abs/2402.03413)]
+
 
 
 ## Speed 
