@@ -262,6 +262,13 @@
 
 [arxiv 2024.01]Divide and Conquer: Language Models can Plan and Self-Correct for Compositional Text-to-Image Generation[[PDF](https://arxiv.org/abs/2401.15688)]
 
+[arxiv 2024.02]MIGC: Multi-Instance Generation Controller for Text-to-Image Synthesis [[PDF](https://arxiv.org/pdf/2402.05408.pdf),[Page](https://migcproject.github.io/)]
+
+[arxiv 2024.02]Get What You Want, Not What You Don't: Image Content Suppression for Text-to-Image Diffusion Models [[PDF](https://arxiv.org/abs/2402.05375),[Page](https://github.com/sen-mao/SuppressEOT)]
+
+[arxiv 2024.02]InstanceDiffusion: Instance-level Control for Image Generation [[PDF](https://arxiv.org/abs/2402.03290),[Page](https://people.eecs.berkeley.edu/~xdwang/projects/InstDiff/)]
+
+
 
 
 ## Model adapatation 
@@ -386,6 +393,11 @@
 
 [arxiv 2024.02]Pick-and-Draw: Training-free Semantic Guidance for Text-to-Image Personalization [[PDF](https://arxiv.org/abs/2401.16762)]
 
+[arxiv 2024.02]Separable Multi-Concept Erasure from Diffusion Models[[PDF](https://arxiv.org/abs/2402.05947)]
+
+[arxiv 2024.02]λ-ECLIPSE: Multi-Concept Personalized Text-to-Image Diffusion Models by Leveraging CLIP Latent Space[[PDF](https://arxiv.org/abs/2402.05195),[Page](https://eclipse-t2i.github.io/Lambda-ECLIPSE/)]
+
+[arxiv 2024.02]Training-Free Consistent Text-to-Image Generation [[PDF](https://arxiv.org/abs/2402.03286),[Page](https://consistory-paper.github.io/)]
 
 
 
@@ -740,10 +752,14 @@
 
 [arxiv 2024.01]FreeStyle : Free Lunch for Text-guided Style Transfer using Diffusion Models [[PDF](https://arxiv.org/abs/2401.15636), [Page](https://freestylefreelunch.github.io/)]
 
-## downstreeam apps
+## downstream apps
 [arxiv 2023.11]Text-to-Sticker: Style Tailoring Latent Diffusion Models for Human Expression [[PDF](https://arxiv.org/abs/2311.10794)]
 
 [arxiv 2023.11]Paragraph-to-Image Generation with Information-Enriched Diffusion Model [[PDF](https://arxiv.org/abs/2311.14284),[Page](https://weijiawu.github.io/ParaDiffusionPage/)]
+
+[arxiv 2024.02]Text2Street: Controllable Text-to-image Generation for Street Views [[PDf](https://arxiv.org/abs/2402.04504)]
+
+
 
 ## disentanglement
 [ICMR 2023]Not Only Generative Art: Stable Diffusion for Content-Style Disentanglement in Art Analysis [[PDF](https://arxiv.org/abs/2304.10278)]
