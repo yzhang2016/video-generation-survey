@@ -599,6 +599,7 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2024.02]Perceptual Video Quality Assessment: A Survey [[PDF](https://arxiv.org/abs/2402.03413)]
 
+[arxiv 2024.02]KVQ: Kaleidoscope Video Quality Assessment for Short-form Videos [[PDf](https://arxiv.org/abs/2402.07220)]
 
 
 ## Speed 
