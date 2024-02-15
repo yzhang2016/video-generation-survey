@@ -234,6 +234,7 @@
 
 [arxiv 2024.01]Motion Guidance: Diffusion-Based Image Editing with Differentiable Motion Estimators [[PDF](https://arxiv.org/abs/2401.18085)]
 
+[arxiv 2024.02]Latent Inversion with Timestep-aware Sampling for Training-free Non-rigid Editing [[PDf](https://arxiv.org/abs/2402.08601)]
 
 
 
@@ -268,6 +269,7 @@
 
 [arxiv 2024.02]InstanceDiffusion: Instance-level Control for Image Generation [[PDF](https://arxiv.org/abs/2402.03290),[Page](https://people.eecs.berkeley.edu/~xdwang/projects/InstDiff/)]
 
+[arxiv 2024.02]Learning Continuous 3D Words for Text-to-Image Generation[[PDF](https://ttchengab.github.io/continuous_3d_words/c3d_words.pdf),[Page](https://ttchengab.github.io/continuous_3d_words/)]
 
 
 
