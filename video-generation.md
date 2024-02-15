@@ -373,6 +373,8 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2024.01]CustomVideo: Customizing Text-to-Video Generation with Multiple Subjects [[PDF](https://arxiv.org/abs/2401.09962)]
 
+[arxiv 2024.02]Magic-Me: Identity-Specific Video Customized Diffusion [[PDf](https://arxiv.org/abs/2402.09368),[Page](https://magic-me-webpage.github.io/)]
+
 
 ## Image-to-video Generation 
 [arxiv 2023.09]VideoGen: A Reference-Guided Latent Diffusion Approach for High Definition Text-to-Video Generation [[PDF](https://arxiv.org/abs/2309.00398)]
