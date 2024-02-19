@@ -643,6 +643,9 @@
 
 [arxiv 2024.02]Cross-view Masked Diffusion Transformers for Person Image Synthesis [[PDF](https://arxiv.org/abs/2402.01516)]
 
+[arxiv 2024.02]Image Sculpting: Precise Object Editing with 3D Geometry Control[[PDF](https://arxiv.org/abs/2401.01702),[Page](https://image-sculpting.github.io/)]
+
+
 
 
 ## Image Variation 
