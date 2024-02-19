@@ -271,6 +271,8 @@
 
 [arxiv 2024.02]Learning Continuous 3D Words for Text-to-Image Generation[[PDF](https://ttchengab.github.io/continuous_3d_words/c3d_words.pdf),[Page](https://ttchengab.github.io/continuous_3d_words/)]
 
+[arxiv 2024.02]Self-Play Fine-Tuning of Diffusion Models for Text-to-Image Generation[[PDF](https://arxiv.org/abs/2402.10210)]
+
 
 
 ## Model adapatation 
@@ -401,6 +403,9 @@
 
 [arxiv 2024.02]Training-Free Consistent Text-to-Image Generation [[PDF](https://arxiv.org/abs/2402.03286),[Page](https://consistory-paper.github.io/)]
 
+[arxiv 2024.02]Textual Localization: Decomposing Multi-concept Images for Subject-Driven Text-to-Image Generation [[PDF](https://arxiv.org/abs/2402.09966),[Page](https://github.com/junjie-shentu/Textual-Localization)]
+
+[arxiv 2024.02]DreamMatcher: Appearance Matching Self-Attention for Semantically-Consistent Text-to-Image Personalization [[PDF](https://arxiv.org/abs/2402.09812), [Page](https://ku-cvlab.github.io/DreamMatcher/)]
 
 
 ## Story-telling
@@ -696,6 +701,8 @@
 
 [arxiv 2024.2]You Only Need One Step: Fast Super-Resolution with Stable Diffusion via Scale Distillation [[PDF](https://arxiv.org/abs/2401.17258)]
 
+[arxiv 2024.02]Make a Cheap Scaling : A Self-Cascade Diffusion Model for Higher-Resolution Adaptation[[PDF](https://arxiv.org/abs/2402.10491),[Page](https://guolanqing.github.io/Self-Cascade/)]
+
 
 ## action transfer 
 [arxiv 2023.11]Learning Disentangled Identifiers for Action-Customized Text-to-Image Generation [[PDF](https://arxiv.org/abs/2311.15841)]
@@ -753,6 +760,9 @@
 [arxiv 2023.12]Style Injection in Diffusion: A Training-free Approach for Adapting Large-scale Diffusion Models for Style Transfer [[PDF](https://arxiv.org/abs/2312.09008)]
 
 [arxiv 2024.01]FreeStyle : Free Lunch for Text-guided Style Transfer using Diffusion Models [[PDF](https://arxiv.org/abs/2401.15636), [Page](https://freestylefreelunch.github.io/)]
+
+[arxiv 2024.02]Control Color: Multimodal Diffusion-based Interactive Image Colorization [[PDF](https://arxiv.org/abs/2402.10855), [Page](https://zhexinliang.github.io/Control_Color/)]
+
 
 ## downstream apps
 [arxiv 2023.11]Text-to-Sticker: Style Tailoring Latent Diffusion Models for Human Expression [[PDF](https://arxiv.org/abs/2311.10794)]
