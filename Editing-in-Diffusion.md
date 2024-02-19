@@ -910,7 +910,7 @@
 
 [arxiv 2023.11]ToddlerDiffusion: Flash Interpretable Controllable Diffusion Model [[PDF](https://arxiv.org/abs/2311.14542)]
 
-
+[arxiv 2023.02]DoRA: Weight-Decomposed Low-Rank Adaptation [[PDF](https://arxiv.org/pdf/2402.09353.pdf)]
 
 
 ## Repository
