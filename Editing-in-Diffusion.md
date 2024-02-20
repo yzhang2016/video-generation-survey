@@ -236,6 +236,8 @@
 
 [arxiv 2024.02]Latent Inversion with Timestep-aware Sampling for Training-free Non-rigid Editing [[PDf](https://arxiv.org/abs/2402.08601)]
 
+[arxiv 2024.02]DiLightNet: Fine-grained Lighting Control for Diffusion-based Image Generation[[PDF](https://arxiv.org/abs/2402.11929)]
+
 
 
 ##  Improve T2I base modules
@@ -406,6 +408,12 @@
 [arxiv 2024.02]Textual Localization: Decomposing Multi-concept Images for Subject-Driven Text-to-Image Generation [[PDF](https://arxiv.org/abs/2402.09966),[Page](https://github.com/junjie-shentu/Textual-Localization)]
 
 [arxiv 2024.02]DreamMatcher: Appearance Matching Self-Attention for Semantically-Consistent Text-to-Image Personalization [[PDF](https://arxiv.org/abs/2402.09812), [Page](https://ku-cvlab.github.io/DreamMatcher/)]
+
+[arxiv 2024.02]Direct Consistency Optimization for Compositional Text-to-Image Personalization [[PDF](https://arxiv.org/abs/2402.12004),[Page](https://dco-t2i.github.io/)]
+
+[arxiv 2024.02]ComFusion: Personalized Subject Generation in Multiple Specific Scenes From Single Image [[PDF](https://arxiv.org/abs/2402.11849)]
+
+
 
 
 ## Story-telling
