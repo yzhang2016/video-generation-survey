@@ -275,6 +275,10 @@
 
 [arxiv 2024.02]Self-Play Fine-Tuning of Diffusion Models for Text-to-Image Generation[[PDF](https://arxiv.org/abs/2402.10210)]
 
+[arxiv 2024.02]RealCompo: Dynamic Equilibrium between Realism and Compositionality Improves Text-to-Image Diffusion Models [[PDF](https://arxiv.org/abs/2402.12908),[Page](https://github.com/YangLing0818/RealCompo)]
+
+[arxiv 2024.02]A User-Friendly Framework for Generating Model-Preferred Prompts in Text-to-Image Synthesis [[PDF](https://arxiv.org/abs/2402.12760)]
+
 
 
 ## Model adapatation 
