@@ -438,6 +438,7 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2024.01]FlowVid: Taming Imperfect Optical Flows for Consistent Video-to-Video Synthesis[[PDF](https://arxiv.org/abs/2312.17681),[Page](https://jeff-liangf.github.io/projects/flowvid/)]
 
+[arxiv 2024.02]UniEdit: A Unified Tuning-Free Framework for Video Motion and Appearance Editing [[PDF](https://arxiv.org/abs/2402.13185),[Page](https://jianhongbai.github.io/UniEdit/)]
 
 
 
