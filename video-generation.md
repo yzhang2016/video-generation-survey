@@ -46,6 +46,9 @@ A reading list of video generation
 
 * **PixVerse**[[Page](https://pixverse.ai/)]
 
+### Translation 
+* **Goenhance.ai**[[Page](https://www.goenhance.ai/)]
+
 ## :point_right: Databases
 
 * **HowTo100M**
