@@ -279,6 +279,8 @@
 
 [arxiv 2024.02]A User-Friendly Framework for Generating Model-Preferred Prompts in Text-to-Image Synthesis [[PDF](https://arxiv.org/abs/2402.12760)]
 
+[arxiv 2024.02]Contrastive Prompts Improve Disentanglement in Text-to-Image Diffusion Models [[PDF](https://arxiv.org/abs/2402.13490)]
+
 
 
 ## Model adapatation 
@@ -484,6 +486,8 @@
 
 [arxiv 2023.12]Reason out Your Layout: Evoking the Layout Master from Large Language Models for Text-to-Image Synthesis [[PDF](https://arxiv.org/abs/2311.17126)]
 
+[arxiv 2024.02]Layout-to-Image Generation with Localized Descriptions using ControlNet with
+Cross-Attention Control [[PDF](https://arxiv.org/abs/2402.13404)]
 
 
 
