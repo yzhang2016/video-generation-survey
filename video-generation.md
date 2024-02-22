@@ -236,6 +236,8 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2024.1]Lumiere: A Space-Time Diffusion Model for Video Generation [[PDF](https://arxiv.org/abs/2401.12945), [Page](https://lumiere-video.github.io/)]
 
+[arxiv 2024.02]Hybrid Video Diffusion Models with 2D Triplane and 3D Wavelet Representation [[PDF](https://arxiv.org/abs/2402.13729)]
+
 
 
 ## LLMs-based 
