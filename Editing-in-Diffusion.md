@@ -836,6 +836,8 @@
 
 [arxiv 2024.01]Fast Inference Through The Reuse Of Attention Maps In Diffusion Models [[PDF](https://arxiv.org/abs/2401.01008)]
 
+[arxiv 2024.02]SDXL-Lightning: Progressive Adversarial Diffusion Distillation[[PDF](https://arxiv.org/abs/2402.13929),[Page](https://huggingface.co/ByteDance/SDXL-Lightning)]
+
 
 
 ## limited data 
