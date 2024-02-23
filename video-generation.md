@@ -239,6 +239,8 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 [arxiv 2024.02]Hybrid Video Diffusion Models with 2D Triplane and 3D Wavelet Representation [[PDF](https://arxiv.org/abs/2402.13729)]
 
 
+[arxiv 2024.02]Snap Video: Scaled Spatiotemporal Transformers for Text-to-Video Synthesis[[PDF](https://arxiv.org/abs/2402.14797),[Page](https://snap-research.github.io/snapvideo/)]
+
 
 ## LLMs-based 
 [arxiv 2023.12]VideoPoet: A Large Language Model for Zero-Shot Video Generation [[PDF](https://arxiv.org/abs/2312.14125),[Page](http://sites.research.google/videopoet/)]
@@ -442,6 +444,7 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2024.02]UniEdit: A Unified Tuning-Free Framework for Video Motion and Appearance Editing [[PDF](https://arxiv.org/abs/2402.13185),[Page](https://jianhongbai.github.io/UniEdit/)]
 
+[arxiv 2024.02]Customize-A-Video: One-Shot Motion Customization of Text-to-Video Diffusion Models [[PDF](https://arxiv.org/abs/2402.14780),[Page](https://anonymous-314.github.io/)]
 
 
 ## Image Model for video generation and editing 
