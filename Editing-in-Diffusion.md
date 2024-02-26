@@ -419,7 +419,7 @@
 
 [arxiv 2024.02]ComFusion: Personalized Subject Generation in Multiple Specific Scenes From Single Image [[PDF](https://arxiv.org/abs/2402.11849)]
 
-
+[arxiv 2024.02]Gen4Gen: Generative Data Pipeline for Generative Multi-Concept Composition[[PDF](https://arxiv.org/abs/2402.15504), [Page](https://danielchyeh.github.io/Gen4Gen/)]
 
 
 ## Story-telling
