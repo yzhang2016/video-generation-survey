@@ -489,7 +489,7 @@
 [arxiv 2024.02]Layout-to-Image Generation with Localized Descriptions using ControlNet with
 Cross-Attention Control [[PDF](https://arxiv.org/abs/2402.13404)]
 
-
+[arxiv 2024.02]Multi-LoRA Composition for Image Generation [[PDF](https://arxiv.org/abs/2402.16843),[Page](https://maszhongming.github.io/Multi-LoRA-Composition/)]
 
 ## SVG
 [arxiv 2022.11; UCB] VectorFusion: Text-to-SVG by Abstracting Pixel-Based Diffusion Models \[[PDF](https://arxiv.org/abs/2211.11319)\]
@@ -661,6 +661,7 @@ Cross-Attention Control [[PDF](https://arxiv.org/abs/2402.13404)]
 
 [arxiv 2024.02]Image Sculpting: Precise Object Editing with 3D Geometry Control[[PDF](https://arxiv.org/abs/2401.01702),[Page](https://image-sculpting.github.io/)]
 
+[arxiv 2024.02]Outline-Guided Object Inpainting with Diffusion Models [[PDF](https://arxiv.org/abs/2402.16421)]
 
 
 
