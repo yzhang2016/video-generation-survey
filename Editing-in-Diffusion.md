@@ -792,6 +792,8 @@ Cross-Attention Control [[PDF](https://arxiv.org/abs/2402.13404)]
 
 [arxiv 2024.02]One-Shot Structure-Aware Stylized Image Synthesis [[PDF](https://arxiv.org/abs/2402.17275)]
 
+[arxiv 2024.02]Visual Style Prompting with Swapping Self-Attention [[PDF](https://arxiv.org/abs/2402.12974),[Page](https://curryjung.github.io/VisualStylePrompt/?ref=aiartweekly)]
+
 
 ## downstream apps
 [arxiv 2023.11]Text-to-Sticker: Style Tailoring Latent Diffusion Models for Human Expression [[PDF](https://arxiv.org/abs/2311.10794)]
