@@ -49,6 +49,9 @@
 [arxiv 2024.01]Taiyi-Diffusion-XL: Advancing Bilingual Text-to-Image Generation with Large Vision-Language Model Support [[PDF](https://arxiv.org/abs/2401.14688)]
 
 
+[arxiv 2024.02]Playground v2.5: Three Insights towards Enhancing Aesthetic Quality in Text-to-Image Generation [[PDF](https://arxiv.org/abs/2402.17245),[Page](https://huggingface.co/playgroundai/playground-v2.5-1024px-aesthetic)]
+
+
 ## GAN/VAE/Transformer-based 
 
 [ICML 2021; OpenAI ] Zero-Shot Text-to-Image Generation \[[PDF](https://arxiv.org/pdf/2102.12092.pdf), [Code 3](https://github.com/YoadTew/zero-shot-image-to-text)\]
