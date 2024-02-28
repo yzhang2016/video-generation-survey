@@ -335,6 +335,9 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2024.02]InteractiveVideo: User-Centric Controllable Video Generation with Synergistic Multimodal Instructions [[PDF](https://arxiv.org/abs/2402.03040),[Page](https://github.com/invictus717/InteractiveVideo)]
 
+[arxiv 2024.02]EMO: Emote Portrait Alive - Generating Expressive Portrait Videos with Audio2Video Diffusion Model under Weak Conditions[[PDF](https://arxiv.org/abs/2402.17485),[Page](https://humanaigc.github.io/emote-portrait-alive/)]
+
+
 
 ## Video in/outpainting 
 [MM 2023.09]Hierarchical Masked 3D Diffusion Model for Video Outpainting [[PDF](https://arxiv.org/abs/2309.02119)]
