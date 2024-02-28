@@ -238,6 +238,7 @@
 
 [arxiv 2024.02]DiLightNet: Fine-grained Lighting Control for Diffusion-based Image Generation[[PDF](https://arxiv.org/abs/2402.11929)]
 
+[arxiv 2024.02]CustomSketching: Sketch Concept Extraction for Sketch-based Image Synthesis and Editing [[PDF](https://arxiv.org/abs/2402.17624)]
 
 
 ##  Improve T2I base modules
@@ -281,7 +282,7 @@
 
 [arxiv 2024.02]Contrastive Prompts Improve Disentanglement in Text-to-Image Diffusion Models [[PDF](https://arxiv.org/abs/2402.13490)]
 
-
+[arxiv 2024.02]Structure-Guided Adversarial Training of Diffusion Models[[PDF](https://arxiv.org/abs/2402.17563)]
 
 ## Model adapatation 
 [arxiv 2023.12]X-Adapter: Adding Universal Compatibility of Plugins for Upgraded Diffusion Model [[PDF](https://arxiv.org/abs/2312.02238),[Page](https://showlab.github.io/X-Adapter/)]
