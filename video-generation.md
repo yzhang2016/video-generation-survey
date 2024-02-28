@@ -433,6 +433,7 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 ## Audio-to-video Generation
 [arxiv 2023.09]Diverse and Aligned Audio-to-Video Generation via Text-to-Video Model Adaptation [[PDF](https://arxiv.org/abs/2309.16429)]
 
+[arxiv 2024.02]Seeing and Hearing Open-domain Visual-Audio Generation with Diffusion Latent Aligners [[PDF](https://arxiv.org/abs/2402.17723),[Page](https://yzxing87.github.io/Seeing-and-Hearing/)]
 
 
 ## Video editing with video models 
