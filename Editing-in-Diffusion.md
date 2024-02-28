@@ -422,6 +422,8 @@
 
 [arxiv 2024.02]Gen4Gen: Generative Data Pipeline for Generative Multi-Concept Composition[[PDF](https://arxiv.org/abs/2402.15504), [Page](https://danielchyeh.github.io/Gen4Gen/)]
 
+[arxiv 2024.02]DiffuseKronA: A Parameter Efficient Fine-tuning Method for Personalized Diffusion Model [[PDF](https://arxiv.org/abs/2402.17412),[Page](https://diffusekrona.github.io/)]
+
 
 ## Story-telling
 
@@ -724,6 +726,10 @@ Cross-Attention Control [[PDF](https://arxiv.org/abs/2402.13404)]
 
 [arxiv 2024.02]Make a Cheap Scaling : A Self-Cascade Diffusion Model for Higher-Resolution Adaptation[[PDF](https://arxiv.org/abs/2402.10491),[Page](https://guolanqing.github.io/Self-Cascade/)]
 
+[arxiv 2024.02]SAM-DiffSR: Structure-Modulated Diffusion Model for Image Super-Resolution [[PDF](https://arxiv.org/abs/2402.17133)]
+
+
+
 
 ## action transfer 
 [arxiv 2023.11]Learning Disentangled Identifiers for Action-Customized Text-to-Image Generation [[PDF](https://arxiv.org/abs/2311.15841)]
@@ -783,6 +789,8 @@ Cross-Attention Control [[PDF](https://arxiv.org/abs/2402.13404)]
 [arxiv 2024.01]FreeStyle : Free Lunch for Text-guided Style Transfer using Diffusion Models [[PDF](https://arxiv.org/abs/2401.15636), [Page](https://freestylefreelunch.github.io/)]
 
 [arxiv 2024.02]Control Color: Multimodal Diffusion-based Interactive Image Colorization [[PDF](https://arxiv.org/abs/2402.10855), [Page](https://zhexinliang.github.io/Control_Color/)]
+
+[arxiv 2024.02]One-Shot Structure-Aware Stylized Image Synthesis [[PDF](https://arxiv.org/abs/2402.17275)]
 
 
 ## downstream apps
