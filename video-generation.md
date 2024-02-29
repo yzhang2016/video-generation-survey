@@ -46,6 +46,8 @@ A reading list of video generation
 
 * **PixVerse**[[Page](https://pixverse.ai/)]
 
+* **ltx.studio**[[Page]](https://ltx.studio/)
+
 ### Translation 
 * **Goenhance.ai**[[Page](https://www.goenhance.ai/)]
 
