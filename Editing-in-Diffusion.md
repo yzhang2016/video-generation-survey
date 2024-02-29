@@ -802,6 +802,7 @@ Cross-Attention Control [[PDF](https://arxiv.org/abs/2402.13404)]
 
 [arxiv 2024.02]Text2Street: Controllable Text-to-image Generation for Street Views [[PDf](https://arxiv.org/abs/2402.04504)]
 
+[arxiv 2024.02]FineDiffusion : Scaling up Diffusion Models for Fine-grained Image Generation with 10,000 Classes[[PDF](https://arxiv.org/abs/2402.18331),[Page](https://finediffusion.github.io/)]
 
 
 ## disentanglement
