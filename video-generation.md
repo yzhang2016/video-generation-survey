@@ -101,6 +101,9 @@ A reading list of video generation
 
   [arxiv 2023.06]VideoFactory: Swap Attention in Spatiotemporal Diffusions for Text-to-Video Generation [[PDF](https://arxiv.org/abs/2305.10874), [Page](https://github.com/daooshee/HD-VG-130M)]
 
+* **Panda-70M**
+
+[arxiv 2024.03]A Large-Scale Dataset with 70M High-Quality Video-Caption Pairs [[PDF](https://arxiv.org/pdf/2402.00000.pdf), [Page](https://snap-research.github.io/Panda-70M/)]
 
 
 
@@ -617,6 +620,10 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 [arxiv 2024.02]Perceptual Video Quality Assessment: A Survey [[PDF](https://arxiv.org/abs/2402.03413)]
 
 [arxiv 2024.02]KVQ: Kaleidoscope Video Quality Assessment for Short-form Videos [[PDf](https://arxiv.org/abs/2402.07220)]
+
+[arxiv 2024.03]Modular Blind Video Quality Assessment [[PDF](https://arxiv.org/abs/2402.19276)]
+
+
 
 
 ## Speed 
