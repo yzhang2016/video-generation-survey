@@ -666,7 +666,7 @@ Cross-Attention Control [[PDF](https://arxiv.org/abs/2402.13404)]
 
 [arxiv 2024.02]Outline-Guided Object Inpainting with Diffusion Models [[PDF](https://arxiv.org/abs/2402.16421)]
 
-
+[arxiv 2024.03]Differential Diffusion: Giving Each Pixel Its Strength [[PDF](https://arxiv.org/abs/2306.00950),[Page](https://differential-diffusion.github.io/)]
 
 ## Image Variation 
 [arxiv 2023.08]IP-Adapter: Text Compatible Image Prompt Adapter for Text-to-Image Diffusion Models [[PDF](https://arxiv.org/pdf/2308.06721.pdf), [Page](https://ip-adapter.github.io/)]
@@ -855,6 +855,7 @@ Cross-Attention Control [[PDF](https://arxiv.org/abs/2402.13404)]
 
 [arxiv 2024.02]SDXL-Lightning: Progressive Adversarial Diffusion Distillation[[PDF](https://arxiv.org/abs/2402.13929),[Page](https://huggingface.co/ByteDance/SDXL-Lightning)]
 
+[arxiv 2024.03]DistriFusion: Distributed Parallel Inference for High-Resolution Diffusion Models [[PDF](https://arxiv.org/abs/2402.19481), [Page](https://hanlab.mit.edu/projects/distrifusion)]
 
 
 ## limited data 
