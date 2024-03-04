@@ -240,6 +240,11 @@
 
 [arxiv 2024.02]CustomSketching: Sketch Concept Extraction for Sketch-based Image Synthesis and Editing [[PDF](https://arxiv.org/abs/2402.17624)]
 
+[arxiv 2024.03]Diff-Plugin: Revitalizing Details for Diffusion-based Low-level Tasks [[PDF](https://arxiv.org/abs/2403.00644)]
+
+[arxiv 2024.03]LoMOE: Localized Multi-Object Editing via Multi-Diffusion [[PDF](https://arxiv.org/abs/2403.00437)]
+
+
 
 ##  Improve T2I base modules
 [arxiv 2023.11]Self-correcting LLM-controlled Diffusion Models [[PDF](https://arxiv.org/abs/2311.16090)]
@@ -423,6 +428,10 @@
 [arxiv 2024.02]Gen4Gen: Generative Data Pipeline for Generative Multi-Concept Composition[[PDF](https://arxiv.org/abs/2402.15504), [Page](https://danielchyeh.github.io/Gen4Gen/)]
 
 [arxiv 2024.02]DiffuseKronA: A Parameter Efficient Fine-tuning Method for Personalized Diffusion Model [[PDF](https://arxiv.org/abs/2402.17412),[Page](https://diffusekrona.github.io/)]
+
+[arxiv 2024.03]RealCustom: Narrowing Real Text Word for Real-Time Open-Domain Text-to-Image Customization [[PDF](https://arxiv.org/abs/2403.00483),[Page](https://corleone-huang.github.io/realcustom/)]
+
+
 
 
 ## Story-telling
