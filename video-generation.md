@@ -425,7 +425,7 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2024.01]UniVG: Towards UNIfied-modal Video Generation [[PDF](https://arxiv.org/abs/2401.09084),[Page](https://univg-baidu.github.io/)]
 
-
+[arxiv 2024.03]Tuning-Free Noise Rectification for High Fidelity Image-to-Video Generation [[PDF](https://arxiv.org/abs/2403.02827),[Page](https://noise-rectification.github.io/)]
 
 ## 4D generation 
 [arxiv 2023.11]Animate124: Animating One Image to 4D Dynamic Scene [[PDF](https://arxiv.org/abs/2311.14603),[Page](https://animate124.github.io/)]
