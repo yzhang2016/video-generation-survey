@@ -51,6 +51,9 @@
 
 [arxiv 2024.02]Playground v2.5: Three Insights towards Enhancing Aesthetic Quality in Text-to-Image Generation [[PDF](https://arxiv.org/abs/2402.17245),[Page](https://huggingface.co/playgroundai/playground-v2.5-1024px-aesthetic)]
 
+[arxiv 2024.03]SD3: Scaling Rectified Flow Transformers for High-Resolution Image Synthesis [[PDF](https://arxiv.org/abs/2403.03206)]
+
+
 
 ## GAN/VAE/Transformer-based 
 
