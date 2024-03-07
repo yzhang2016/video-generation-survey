@@ -244,6 +244,7 @@
 
 [arxiv 2024.03]LoMOE: Localized Multi-Object Editing via Multi-Diffusion [[PDF](https://arxiv.org/abs/2403.00437)]
 
+[arxiv 2024.03]Towards Understanding Cross and Self-Attention in Stable Diffusion for Text-Guided Image Editing [[PDF](https://arxiv.org/abs/2403.03431)]
 
 
 ##  Improve T2I base modules
@@ -502,6 +503,10 @@
 Cross-Attention Control [[PDF](https://arxiv.org/abs/2402.13404)]
 
 [arxiv 2024.02]Multi-LoRA Composition for Image Generation [[PDF](https://arxiv.org/abs/2402.16843),[Page](https://maszhongming.github.io/Multi-LoRA-Composition/)]
+
+[arxiv 2024.03]NoiseCollage: A Layout-Aware Text-to-Image Diffusion Model Based on Noise Cropping and Merging [[PDF](https://arxiv.org/abs/2403.03485)]
+
+
 
 ## SVG
 [arxiv 2022.11; UCB] VectorFusion: Text-to-SVG by Abstracting Pixel-Based Diffusion Models \[[PDF](https://arxiv.org/abs/2211.11319)\]
