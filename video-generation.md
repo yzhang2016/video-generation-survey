@@ -1,6 +1,13 @@
 # Video Generation Survey
 A reading list of video generation
 
+## Repo for open-sora
+
+[2024.03] [Open-Sora](https://github.com/hpcaitech/Open-Sora) 
+
+[2024.03] [Open-Sora Plan](https://github.com/PKU-YuanGroup/Open-Sora-Plan)
+
+
 ## Related surveys 
 [Awesome-Video-Diffusion-Models](https://github.com/ChenHsing/Awesome-Video-Diffusion-Models?tab=readme-ov-file)
 
