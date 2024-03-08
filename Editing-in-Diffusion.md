@@ -246,6 +246,11 @@
 
 [arxiv 2024.03]Towards Understanding Cross and Self-Attention in Stable Diffusion for Text-Guided Image Editing [[PDF](https://arxiv.org/abs/2403.03431)]
 
+[arxiv 2024.03]StableDrag: Stable Dragging for Point-based Image Editing[[PDF](https://arxiv.org/abs/2403.04437)]
+
+
+
+
 
 ##  Improve T2I base modules
 [arxiv 2023.11]Self-correcting LLM-controlled Diffusion Models [[PDF](https://arxiv.org/abs/2311.16090)]
