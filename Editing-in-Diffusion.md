@@ -511,6 +511,8 @@ Cross-Attention Control [[PDF](https://arxiv.org/abs/2402.13404)]
 
 [arxiv 2024.03]NoiseCollage: A Layout-Aware Text-to-Image Diffusion Model Based on Noise Cropping and Merging [[PDF](https://arxiv.org/abs/2403.03485)]
 
+[arxiv 2024.03]Discriminative Probing and Tuning for Text-to-Image Generation [[PDF](https://arxiv.org/abs/2403.04321),[Page](https://dpt-t2i.github.io/)]
+
 
 
 ## SVG
