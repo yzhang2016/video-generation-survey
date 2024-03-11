@@ -360,7 +360,8 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 
 
-
+## Video Quality 
+[arxiv 2024.03]VideoElevator : Elevating Video Generation Quality with Versatile Text-to-Image Diffusion Models[[PDF](https://arxiv.org/abs/2403.05438),[Page](https://videoelevator.github.io/)]
 
 ## Video SR 
 [arxiv 2023.11]Enhancing Perceptual Quality in Video Super-Resolution through Temporally-Consistent Detail Synthesis using Diffusion Models [[PDF](https://arxiv.org/abs/2311.15908)]
