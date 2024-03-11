@@ -55,6 +55,11 @@
 
 [arxiv 2024.03]PixArt-Σ: Weak-to-Strong Training of Diffusion Transformer for 4K Text-to-Image Generation [[PDF](https://arxiv.org/abs/2403.04692),[Page](https://pixart-alpha.github.io/PixArt-sigma-project/)]
 
+[arxiv 2024.03]CogView3: Finer and Faster Text-to-Image Generation via Relay Diffusion [[PDF](https://arxiv.org/abs/2403.05121)]
+
+
+
+
 
 ## GAN/VAE/Transformer-based 
 
@@ -89,6 +94,8 @@
 [arxiv 2023.07]Scaling Autoregressive Multi-Modal Models: Pretraining and Instruction Tuning [[PDF](https://ai.meta.com/research/publications/scaling-autoregressive-multi-modal-models-pretraining-and-instruction-tuning/)]
 
 [arxiv 2023.10]PIXART-α: Fast Training of Diffusion Transformer for Photorealistic Text-to-Image Synthesis [[PDF](https://arxiv.org/abs/2310.00426), [Page](https://pixart-alpha.github.io/)]
+
+
 
 # Generation & Super-resolution 
 
