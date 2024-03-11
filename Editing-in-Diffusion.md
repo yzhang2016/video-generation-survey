@@ -248,7 +248,9 @@
 
 [arxiv 2024.03]StableDrag: Stable Dragging for Point-based Image Editing[[PDF](https://arxiv.org/abs/2403.04437)]
 
+[arxiv 2024.03]InstructGIE: Towards Generalizable Image Editing [[PDF](https://arxiv.org/abs/2403.05018)]
 
+[arxiv 2024.03]An Item is Worth a Prompt: Versatile Image Editing with Disentangled Control [[PDF](https://arxiv.org/abs/2403.04880)]
 
 
 
@@ -436,6 +438,10 @@
 [arxiv 2024.02]DiffuseKronA: A Parameter Efficient Fine-tuning Method for Personalized Diffusion Model [[PDF](https://arxiv.org/abs/2402.17412),[Page](https://diffusekrona.github.io/)]
 
 [arxiv 2024.03]RealCustom: Narrowing Real Text Word for Real-Time Open-Domain Text-to-Image Customization [[PDF](https://arxiv.org/abs/2403.00483),[Page](https://corleone-huang.github.io/realcustom/)]
+
+[arxiv 2024.03]Face2Diffusion for Fast and Editable Face Personalization [[PDF](https://arxiv.org/abs/2403.05094),[Page](https://mapooon.github.io/Face2DiffusionPage/)]
+
+
 
 
 
@@ -751,9 +757,9 @@ Cross-Attention Control [[PDF](https://arxiv.org/abs/2402.13404)]
 
 [arxiv 2024.03]Scaling Up to Excellence: Practicing Model Scaling for Photo-Realistic Image Restoration In the Wild [[PDF](https://arxiv.org/abs/2401.13627),[Page](https://github.com/Fanghua-Yu/SUPIR)]
 
-[arxiv 2023.03]ResAdapter: Domain Consistent Resolution Adapter for Diffusion Models [[PDF](https://arxiv.org/abs/2403.02084), [PDF](https://res-adapter.github.io/)]
+[arxiv 2024.03]ResAdapter: Domain Consistent Resolution Adapter for Diffusion Models [[PDF](https://arxiv.org/abs/2403.02084), [PDF](https://res-adapter.github.io/)]
 
-
+[arxiv 0224.03]XPSR: Cross-modal Priors for Diffusion-based Image Super-Resolution [[PDF](https://arxiv.org/abs/2403.05049)]
 
 
 
