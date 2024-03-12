@@ -446,6 +446,7 @@
 
 [arxiv 2024.03]Face2Diffusion for Fast and Editable Face Personalization [[PDF](https://arxiv.org/abs/2403.05094),[Page](https://mapooon.github.io/Face2DiffusionPage/)]
 
+[arxiv 2024.03]FaceChain-SuDe: Building Derived Class to Inherit Category Attributes for One-shot Subject-Driven Generation [[PDF](https://arxiv.org/abs/2403.06775),[Page](https://github.com/modelscope/facechain)]
 
 
 
