@@ -297,6 +297,11 @@
 
 [arxiv 2024.02]Structure-Guided Adversarial Training of Diffusion Models[[PDF](https://arxiv.org/abs/2402.17563)]
 
+[arxiv 2024.03]SELMA: Learning and Merging Skill-Specific Text-to-Image Experts with Auto-Generated Data [[PDF](https://arxiv.org/abs/2403.06952),[Page](https://selma-t2i.github.io/)]
+
+
+
+
 ## Model adapatation 
 [arxiv 2023.12]X-Adapter: Adding Universal Compatibility of Plugins for Upgraded Diffusion Model [[PDF](https://arxiv.org/abs/2312.02238),[Page](https://showlab.github.io/X-Adapter/)]
 
@@ -695,6 +700,11 @@ Cross-Attention Control [[PDF](https://arxiv.org/abs/2402.13404)]
 
 [arxiv 2024.03]Differential Diffusion: Giving Each Pixel Its Strength [[PDF](https://arxiv.org/abs/2306.00950),[Page](https://differential-diffusion.github.io/)]
 
+[arxiv 2024.03]BrushNet: A Plug-and-Play Image Inpainting Model with Decomposed Dual-Branch Diffusion [[PDF](https://arxiv.org/abs/2403.06976),[Page](https://github.com/TencentARC/BrushNet)]
+
+
+
+
 ## Image Variation 
 [arxiv 2023.08]IP-Adapter: Text Compatible Image Prompt Adapter for Text-to-Image Diffusion Models [[PDF](https://arxiv.org/pdf/2308.06721.pdf), [Page](https://ip-adapter.github.io/)]
 
@@ -825,6 +835,10 @@ Cross-Attention Control [[PDF](https://arxiv.org/abs/2402.13404)]
 [arxiv 2024.02]One-Shot Structure-Aware Stylized Image Synthesis [[PDF](https://arxiv.org/abs/2402.17275)]
 
 [arxiv 2024.02]Visual Style Prompting with Swapping Self-Attention [[PDF](https://arxiv.org/abs/2402.12974),[Page](https://curryjung.github.io/VisualStylePrompt/?ref=aiartweekly)]
+
+[arxiv 2024.03]DEADiff: An Efficient Stylization Diffusion Model with Disentangled Representations [[PDF](https://arxiv.org/abs/2403.06951),[Page](https://tianhao-qi.github.io/DEADiff/)]
+
+
 
 
 ## downstream apps
