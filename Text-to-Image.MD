@@ -58,7 +58,7 @@
 [arxiv 2024.03]CogView3: Finer and Faster Text-to-Image Generation via Relay Diffusion [[PDF](https://arxiv.org/abs/2403.05121)]
 
 
-
+[arxiv 2024.03]Multistep Consistency Models [[PDF](https://arxiv.org/abs/2403.06807)]
 
 
 ## GAN/VAE/Transformer-based 
