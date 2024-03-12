@@ -476,6 +476,11 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2024.02]Customize-A-Video: One-Shot Motion Customization of Text-to-Video Diffusion Models [[PDF](https://arxiv.org/abs/2402.14780),[Page](https://anonymous-314.github.io/)]
 
+[arxiv 2024.03]FastVideoEdit: Leveraging Consistency Models for Efficient Text-to-Video Editing[[PDF](https://arxiv.org/abs/2403.06269)]
+
+
+
+
 
 ## Image Model for video generation and editing 
 *[arxiv 2022.12]Tune-A-Video: One-Shot Tuning of Image Diffusion Models for Text-to-Video Generation [[PDF](https://arxiv.org/abs/2212.11565), [Page](https://tuneavideo.github.io/)]
