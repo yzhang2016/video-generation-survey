@@ -299,7 +299,7 @@
 
 [arxiv 2024.03]SELMA: Learning and Merging Skill-Specific Text-to-Image Experts with Auto-Generated Data [[PDF](https://arxiv.org/abs/2403.06952),[Page](https://selma-t2i.github.io/)]
 
-
+[arxiv 2024.03]ELLA: Equip Diffusion Models with LLM for Enhanced Semantic Alignment [[PDF](https://arxiv.org/abs/2403.05135),[Page](https://ella-diffusion.github.io/)]
 
 
 ## Model adapatation 
