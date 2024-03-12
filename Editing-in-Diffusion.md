@@ -524,6 +524,9 @@ Cross-Attention Control [[PDF](https://arxiv.org/abs/2402.13404)]
 
 [arxiv 2024.03]Discriminative Probing and Tuning for Text-to-Image Generation [[PDF](https://arxiv.org/abs/2403.04321),[Page](https://dpt-t2i.github.io/)]
 
+[arxiv 2024.03]DivCon: Divide and Conquer for Progressive Text-to-Image Generation [[PDF](https://arxiv.org/abs/2403.06400)]
+
+
 
 
 ## SVG
