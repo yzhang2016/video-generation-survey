@@ -379,6 +379,11 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2024.02]Animated Stickers: Bringing Stickers to Life with Video Diffusion [[PDF](https://arxiv.org/abs/2402.06088)]
 
+[arxiv 2024.03]DriveDreamer-2: LLM-Enhanced World Models for Diverse Driving Video Generation [[PDF](https://arxiv.org/abs/2403.06845),[Page](https://drivedreamer2.github.io/)]
+
+
+
+
 
 
 ## Video Concept 
