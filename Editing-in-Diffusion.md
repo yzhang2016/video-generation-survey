@@ -256,6 +256,10 @@
 
 
 
+## DiT 
+[arxiv 2024.03]Switch Diffusion Transformer: Synergizing Denoising Tasks with Sparse Mixture-of-Experts [[PDF](https://arxiv.org/abs/2403.09176),[Page](https://byeongjun-park.github.io/Switch-DiT/)]
+
+
 ##  Improve T2I base modules
 [arxiv 2023.11]Self-correcting LLM-controlled Diffusion Models [[PDF](https://arxiv.org/abs/2311.16090)]
 
