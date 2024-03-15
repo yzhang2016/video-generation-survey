@@ -252,6 +252,8 @@
 
 [arxiv 2024.03]An Item is Worth a Prompt: Versatile Image Editing with Disentangled Control [[PDF](https://arxiv.org/abs/2403.04880)]
 
+[arxiv 2024.03]Holo-Relighting: Controllable Volumetric Portrait Relighting from a Single Image [PDF(https://arxiv.org/abs/2403.09632)]
+
 
 
 ##  Improve T2I base modules
@@ -706,7 +708,7 @@ Cross-Attention Control [[PDF](https://arxiv.org/abs/2402.13404)]
 
 [arxiv 2024.03]BrushNet: A Plug-and-Play Image Inpainting Model with Decomposed Dual-Branch Diffusion [[PDF](https://arxiv.org/abs/2403.06976),[Page](https://github.com/TencentARC/BrushNet)]
 
-
+[arxiv 2024.03]SCP-Diff: Photo-Realistic Semantic Image Synthesis with Spatial-Categorical Joint Prior [[PDF](https://arxiv.org/pdf/2403.09638.pdf),[Page](https://air-discover.github.io/SCP-Diff/)]
 
 
 ## Image Variation 
