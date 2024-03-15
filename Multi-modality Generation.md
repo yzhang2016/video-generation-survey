@@ -30,3 +30,5 @@
 
 [arxiv 2024.1]Image Anything: Towards Reasoning-coherent and Training-free Multi-modal Image Generation [[PDF](https://arxiv.org/abs/2401.17664),[Page](https://vlislab22.github.io/ImageAnything/)]
 
+[arxiv 2024.03]3D-VLA 3D Vision-Language-Action Generative World Model[[PDF](https://arxiv.org/abs/2403.09631),[Page](https://vis-www.cs.umass.edu/3dvla/)]
+
