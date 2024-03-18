@@ -791,8 +791,9 @@ Cross-Attention Control [[PDF](https://arxiv.org/abs/2402.13404)]
 
 [arxiv 2024.03]ResAdapter: Domain Consistent Resolution Adapter for Diffusion Models [[PDF](https://arxiv.org/abs/2403.02084), [PDF](https://res-adapter.github.io/)]
 
-[arxiv 0224.03]XPSR: Cross-modal Priors for Diffusion-based Image Super-Resolution [[PDF](https://arxiv.org/abs/2403.05049)]
+[arxiv 2024.03]XPSR: Cross-modal Priors for Diffusion-based Image Super-Resolution [[PDF](https://arxiv.org/abs/2403.05049)]
 
+[arxiv 2024.03]BlindDiff: Empowering Degradation Modelling in Diffusion Models for Blind Image Super-Resolution [[PDF](https://arxiv.org/abs/2403.10211)]
 
 
 ## action transfer 
