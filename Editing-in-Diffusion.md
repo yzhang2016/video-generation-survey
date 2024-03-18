@@ -255,6 +255,10 @@
 [arxiv 2024.03]Holo-Relighting: Controllable Volumetric Portrait Relighting from a Single Image [PDF(https://arxiv.org/abs/2403.09632)]
 
 
+[arxiv 2024.03]Time-Efficient and Identity-Consistent Virtual Try-On Using A Variant of Altered Diffusion Models [[PDF](https://arxiv.org/abs/2403.07371)]
+
+
+
 
 ## DiT 
 [arxiv 2024.03]Switch Diffusion Transformer: Synergizing Denoising Tasks with Sparse Mixture-of-Experts [[PDF](https://arxiv.org/abs/2403.09176),[Page](https://byeongjun-park.github.io/Switch-DiT/)]
@@ -309,6 +313,7 @@
 
 [arxiv 2024.03]Bridging Different Language Models and Generative Vision Models for Text-to-Image Generation [[PDF](https://arxiv.org/abs/2403.07860),[Page](https://github.com/ShihaoZhaoZSH/LaVi-Bridge)]
 
+[arxiv 2024.03]Optimizing Negative Prompts for Enhanced Aesthetics and Fidelity in Text-To-Image Generation [[PDF](https://arxiv.org/abs/2403.07605)]
 
 
 
@@ -325,7 +330,7 @@
 
 
  
-## Concept 
+## Concept / personalization
 *[Arxiv.2208; NVIDIA]  ***An Image is Worth One Word:*** Personalizing Text-to-Image Generation using Textual Inversion [[PDF](https://arxiv.org/abs/2208.01618), [Page](https://github.com/rinongal/textual_inversion), [Code](https://github.com/rinongal/textual_inversion) ]
 
 [NIPS 22; google] ***DreamBooth***: Fine Tuning Text-to-Image Diffusion Models for Subject-Driven Generation [[PDF](https://arxiv.org/abs/2208.12242), [Page](https://dreambooth.github.io/), [Code](https://github.com/XavierXiao/Dreambooth-Stable-Diffusion)]
@@ -458,6 +463,8 @@
 [arxiv 2024.03]Face2Diffusion for Fast and Editable Face Personalization [[PDF](https://arxiv.org/abs/2403.05094),[Page](https://mapooon.github.io/Face2DiffusionPage/)]
 
 [arxiv 2024.03]FaceChain-SuDe: Building Derived Class to Inherit Category Attributes for One-shot Subject-Driven Generation [[PDF](https://arxiv.org/abs/2403.06775),[Page](https://github.com/modelscope/facechain)]
+
+[arxiv 2024.03]Block-wise LoRA: Revisiting Fine-grained LoRA for Effective Personalization and Stylization in Text-to-Image Generation [[PDF](https://arxiv.org/abs/2403.07500)]
 
 
 
@@ -864,6 +871,9 @@ Cross-Attention Control [[PDF](https://arxiv.org/abs/2402.13404)]
 [arxiv 2024.02]Text2Street: Controllable Text-to-image Generation for Street Views [[PDf](https://arxiv.org/abs/2402.04504)]
 
 [arxiv 2024.02]FineDiffusion : Scaling up Diffusion Models for Fine-grained Image Generation with 10,000 Classes[[PDF](https://arxiv.org/abs/2402.18331),[Page](https://finediffusion.github.io/)]
+
+[arxiv 2024.03]Text-to-Image Diffusion Models are Great Sketch-Photo Matchmakers [[PDF](https://arxiv.org/abs/2403.07214)]
+
 
 
 ## disentanglement
