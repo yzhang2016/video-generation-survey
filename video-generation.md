@@ -444,6 +444,7 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2024.03]Pix2Gif: Motion-Guided Diffusion for GIF Generation[[PDF](https://arxiv.org/abs/2403.04634),[Page](https://hiteshk03.github.io/Pix2Gif/)]
 
+[arxiv 2024.03]Follow-Your-Click: Open-domain Regional Image Animation via Short Prompts [[PDF](https://arxiv.org/abs/2403.08268),[Page](https://github.com/mayuelala/FollowYourClick)]
 
 
 
