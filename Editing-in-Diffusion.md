@@ -906,6 +906,8 @@ Cross-Attention Control [[PDF](https://arxiv.org/abs/2402.13404)]
 
 [arxiv 2023.06]Masked Diffusion Models are Fast Learners [[PDF](https://arxiv.org/abs/2306.11363)]
 
+[arxiv 2023.06]Latent Consistency Models: Synthesizing High-Resolution Images with Few-Step Inference [[PDF](https://arxiv.org/abs/2310.04378)]
+
 [arxiv 2023.11]UFOGen: You Forward Once Large Scale Text-to-Image Generation via Diffusion GANs [[PDF](https://arxiv.org/abs/2311.09257)]
 
 [arxiv 2023.11]AdaDiff: Adaptive Step Selection for Fast Diffusion [[PDF](https://arxiv.org/abs/2311.14768)]
@@ -913,6 +915,10 @@ Cross-Attention Control [[PDF](https://arxiv.org/abs/2402.13404)]
 [arxiv 2023.11]MobileDiffusion: Subsecond Text-to-Image Generation on Mobile Devices [[PDF](https://arxiv.org/abs/2311.16567)]
 
 [arxiv 2023.11]Manifold Preserving Guided Diffusion [[PDF](https://arxiv.org/abs/2311.16424)]
+
+[arxiv 2023.11]LCM-LoRA: A Universal Stable-Diffusion Acceleration Module [[PDF](https://arxiv.org/abs/2311.05556),[Page](https://github.com/luosiallen/latent-consistency-model)]
+
+[arxiv 2023.11]Adversarial Diffusion Distillation [[PDF](https://arxiv.org/abs/2311.17042),[Page](https://huggingface.co/stabilityai/)]
 
 [arxiv 2023.12]One-step Diffusion with Distribution Matching Distillation [[PDF](https://arxiv.org/abs/2311.18828),[Page](https://tianweiy.github.io/dmd/)]
 
