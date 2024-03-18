@@ -357,6 +357,7 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2024.02]EMO: Emote Portrait Alive - Generating Expressive Portrait Videos with Audio2Video Diffusion Model under Weak Conditions[[PDF](https://arxiv.org/abs/2402.17485),[Page](https://humanaigc.github.io/emote-portrait-alive/)]
 
+[arxiv 2024.03]Animate Your Motion: Turning Still Images into Dynamic Videos [[PDF](https://arxiv.org/abs/2403.10179),[Page](https://mingxiao-li.github.io/smcd/)]
 
 
 ## Video in/outpainting 
@@ -636,6 +637,8 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2023.11]Online Video Quality Enhancement with Spatial-Temporal Look-up Tables [[PDF](https://arxiv.org/abs/2311.13616)]
 ]
+
+[arxiv 2024.03]STREAM: Spatio-TempoRal Evaluation and Analysis Metric for Video Generative Models [[PDF](https://arxiv.org/abs/2403.09669)]
 
 
 ## Survey
