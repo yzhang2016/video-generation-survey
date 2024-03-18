@@ -307,6 +307,11 @@
 
 [arxiv 2024.03]ELLA: Equip Diffusion Models with LLM for Enhanced Semantic Alignment [[PDF](https://arxiv.org/abs/2403.05135),[Page](https://ella-diffusion.github.io/)]
 
+[arxiv 2024.03]Bridging Different Language Models and Generative Vision Models for Text-to-Image Generation [[PDF](https://arxiv.org/abs/2403.07860),[Page](https://github.com/ShihaoZhaoZSH/LaVi-Bridge)]
+
+
+
+
 
 ## Model adapatation 
 [arxiv 2023.12]X-Adapter: Adding Universal Compatibility of Plugins for Upgraded Diffusion Model [[PDF](https://arxiv.org/abs/2312.02238),[Page](https://showlab.github.io/X-Adapter/)]
