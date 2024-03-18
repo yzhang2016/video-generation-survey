@@ -304,6 +304,7 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2024.01]Vlogger: Make Your Dream A Vlog [[PDF](https://arxiv.org/abs/2401.09414),[Page](https://github.com/zhuangshaobin/Vlogger)]
 
+[arxiv 2024.03]AesopAgent: Agent-driven Evolutionary System on Story-to-Video Production [[PDF](https://arxiv.org/abs/2403.07952),[Page](https://aesopai.github.io/)]
 
 
 
