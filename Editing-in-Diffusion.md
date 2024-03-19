@@ -466,8 +466,12 @@
 
 [arxiv 2024.03]Block-wise LoRA: Revisiting Fine-grained LoRA for Effective Personalization and Stylization in Text-to-Image Generation [[PDF](https://arxiv.org/abs/2403.07500)]
 
+[arxiv 2024.03]LoRA-Composer: Leveraging Low-Rank Adaptation for Multi-Concept Customization in Training-Free Diffusion Models [[PDF](https://arxiv.org/abs/2403.11627),[Page](https://github.com/Young98CN/LoRA_Composer)]
+
+[arxiv 2024.03]OSTAF: A One-Shot Tuning Method for Improved Attribute-Focused T2I Personalization [[PDF](https://arxiv.org/abs/2403.11053)]
 
 
+[arxiv 2024.03]OMG: Occlusion-friendly Personalized Multi-concept Generation in Diffusion Models [[PDF](https://arxiv.org/abs/2403.10983), [Page](https://kongzhecn.github.io/omg-project/)]
 
 
 ## Story-telling
@@ -497,6 +501,9 @@
 [arxiv 2023.12]Make-A-Storyboard: A General Framework for Storyboard with Disentangled and Merged Control [[PDF](https://arxiv.org/abs/2312.07549)]
 
 [arxiv 2023.12]CogCartoon: Towards Practical Story Visualization [[PDF](https://arxiv.org/abs/2312.10718)]
+
+[arxiv 2024.03]TARN-VIST: Topic Aware Reinforcement Network for Visual Storytelling [[PDF](https://arxiv.org/abs/2403.11550)]
+
 
 
 ## Layout Generation 
@@ -726,6 +733,11 @@ Cross-Attention Control [[PDF](https://arxiv.org/abs/2402.13404)]
 
 [arxiv 2024.03]SCP-Diff: Photo-Realistic Semantic Image Synthesis with Spatial-Categorical Joint Prior [[PDF](https://arxiv.org/pdf/2403.09638.pdf),[Page](https://air-discover.github.io/SCP-Diff/)]
 
+[arxiv 2024.03]One-Step Image Translation with Text-to-Image Models [[PDF](https://arxiv.org/abs/2403.12036), [Page](https://github.com/GaParmar/img2img-turbo)]
+
+[arxiv 2024.03]LayerDiff: Exploring Text-guided Multi-layered Composable Image Synthesis via Layer-Collaborative Diffusion Model [[PDF](https://arxiv.org/abs/2403.11929)]
+
+
 
 ## Image Variation 
 [arxiv 2023.08]IP-Adapter: Text Compatible Image Prompt Adapter for Text-to-Image Diffusion Models [[PDF](https://arxiv.org/pdf/2308.06721.pdf), [Page](https://ip-adapter.github.io/)]
@@ -934,6 +946,9 @@ Cross-Attention Control [[PDF](https://arxiv.org/abs/2402.13404)]
 [arxiv 2024.02]SDXL-Lightning: Progressive Adversarial Diffusion Distillation[[PDF](https://arxiv.org/abs/2402.13929),[Page](https://huggingface.co/ByteDance/SDXL-Lightning)]
 
 [arxiv 2024.03]DistriFusion: Distributed Parallel Inference for High-Resolution Diffusion Models [[PDF](https://arxiv.org/abs/2402.19481), [Page](https://hanlab.mit.edu/projects/distrifusion)]
+
+[arxiv 2024.03]Fast High-Resolution Image Synthesis with Latent Adversarial Diffusion Distillation [[PDF](https://arxiv.org/abs/2403.12015)]
+
 
 
 ## limited data 
