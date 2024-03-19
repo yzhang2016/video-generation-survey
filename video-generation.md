@@ -367,6 +367,8 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2024.01]ActAnywhere: Subject-Aware Video Background Generation [[PDF](https://arxiv.org/abs/2401.10822), [Page](https://actanywhere.github.io/)]
 
+[arxiv 2024.04]CoCoCo: Improving Text-Guided Video Inpainting for Better Consistency, Controllability and Compatibility [[PDF](https://arxiv.org/abs/2403.12035),[Page](https://cococozibojia.github.io/)]
+
 
 
 ## Video Quality 
@@ -488,7 +490,9 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2024.03]FastVideoEdit: Leveraging Consistency Models for Efficient Text-to-Video Editing[[PDF](https://arxiv.org/abs/2403.06269)]
 
+[arxiv 2024.03]DreamMotion: Space-Time Self-Similarity Score Distillation for Zero-Shot Video Editing [[PDF](https://arxiv.org/abs/2403.12002),[Page](https://hyeonho99.github.io/dreammotion/)]
 
+[arxiv 2024.03]EffiVED:Efficient Video Editing via Text-instruction Diffusion Models [[PDF](https://arxiv.org/abs/2403.11568)]
 
 
 
@@ -639,6 +643,9 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 ]
 
 [arxiv 2024.03]STREAM: Spatio-TempoRal Evaluation and Analysis Metric for Video Generative Models [[PDF](https://arxiv.org/abs/2403.09669)]
+
+[arxiv 2024.03]Subjective-Aligned Dateset and Metric for Text-to-Video Quality Assessment [[PDF](https://arxiv.org/abs/2403.11956)]
+
 
 
 ## Survey
