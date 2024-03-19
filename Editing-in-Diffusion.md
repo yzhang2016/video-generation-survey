@@ -330,7 +330,7 @@
 ## face swapping 
 [arxiv 2024.03]Infinite-ID: Identity-preserved Personalization via ID-semantics Decoupling Paradigm [[PDF](https://arxiv.org/abs/2403.11781),[Page](https://infinite-id.github.io/)]
 
-
+[github] [Reactor](https://github.com/Gourieff/sd-webui-reactor)
 
  
 ## Concept / personalization
