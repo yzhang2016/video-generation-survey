@@ -278,8 +278,9 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 
 
-## multi-prompt  & long video generation
+## multi-prompt 
 [arxiv 2023.12]MTVG : Multi-text Video Generation with Text-to-Video Models [[PDF](https://arxiv.org/abs/2312.04086)]
+
 
 
 ## long video generation 
@@ -292,6 +293,10 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 [arxiv 2023.12]AVID: Any-Length Video Inpainting with Diffusion Model [[PDF](https://arxiv.org/abs/2312.03816),[Page](https://zhang-zx.github.io/AVID/)]
 
 [arxiv 2023.12]RealCraft: Attention Control as A Solution for Zero-shot Long Video Editing [[PDF](https://arxiv.org/abs/2312.12635)]
+
+[arxiv 2024.03]VSTAR: Generative Temporal Nursing for Longer Dynamic Video Synthesis [[PDF](https://arxiv.org/pdf/2403.13501.pdf),[Page](https://yumengli007.github.io/VSTAR/)]
+
+
 
 
 ## Higher Resolution 
@@ -369,7 +374,9 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2024.01]ActAnywhere: Subject-Aware Video Background Generation [[PDF](https://arxiv.org/abs/2401.10822), [Page](https://actanywhere.github.io/)]
 
-[arxiv 2024.04]CoCoCo: Improving Text-Guided Video Inpainting for Better Consistency, Controllability and Compatibility [[PDF](https://arxiv.org/abs/2403.12035),[Page](https://cococozibojia.github.io/)]
+[arxiv 2024.03]CoCoCo: Improving Text-Guided Video Inpainting for Better Consistency, Controllability and Compatibility [[PDF](https://arxiv.org/abs/2403.12035),[Page](https://cococozibojia.github.io/)]
+
+[arxiv 2024.03]Be-Your-Outpainter: Mastering Video Outpainting through Input-Specific Adaptation [[PDF](https://arxiv.org/abs/2403.13745),[Page](https://github.com/G-U-N/Be-Your-Outpainter)]
 
 
 
@@ -459,6 +466,7 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2024.03]Follow-Your-Click: Open-domain Regional Image Animation via Short Prompts [[PDF](https://arxiv.org/abs/2403.08268),[Page](https://github.com/mayuelala/FollowYourClick)]
 
+[arxiv 2024.03]TimeRewind: Rewinding Time with Image-and-Events Video Diffusion [[PDF](https://arxiv.org/abs/2403.13800),[Page](https://timerewind.github.io/)]
 
 
 
@@ -595,6 +603,9 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2024.1]VASE: Object-Centric Shape and Appearance Manipulation of Real Videos [[PDF](https://arxiv.org/abs/2401.02473),[Page](https://helia95.github.io/vase-website/)]
 
+[arxiv 2024.03]FRESCO: Spatial-Temporal Correspondence for Zero-Shot Video Translation [[PDF](https://arxiv.org/abs/2403.12962),[Page](https://www.mmlab-ntu.com/project/fresco/)]
+
+
 
 
 ## :point_right: Video Completion (animation, interpolation, prediction)
@@ -681,6 +692,10 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 [arxiv 2024.01]FlashVideo: A Framework for Swift Inference in Text-to-Video Generation [[PDF](https://arxiv.org/abs/2401.00869)]
 
 [arxiv 2024.01]AnimateLCM: Accelerating the Animation of Personalized Diffusion Models and Adapters with Decoupled Consistency Learning [[PDF](https://arxiv.org/abs/2402.00769),[Page](https://animatelcm.github.io/)]
+
+[arxiv 2024.03]AnimateDiff-Lightning: Cross-Model Diffusion Distillation [[PDF](https://arxiv.org/abs/2403.12706)]
+
+
 
 
 ## Others 
