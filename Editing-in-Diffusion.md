@@ -254,9 +254,17 @@
 
 [arxiv 2024.03]Holo-Relighting: Controllable Volumetric Portrait Relighting from a Single Image [PDF(https://arxiv.org/abs/2403.09632)]
 
-
 [arxiv 2024.03]Time-Efficient and Identity-Consistent Virtual Try-On Using A Variant of Altered Diffusion Models [[PDF](https://arxiv.org/abs/2403.07371)]
 
+[arxiv 2024.03]Editing Massive Concepts in Text-to-Image Diffusion Models [[PDF](https://arxiv.org/abs/2403.13807),[Page](https://silentview.github.io/EMCID/)]
+
+[arxiv 2024.03]Ground-A-Score: Scaling Up the Score Distillation for Multi-Attribute Editing [[PDF](https://arxiv.org/abs/2403.13551)]
+
+[arxiv 2024.03]Magic Fixup: Streamlining Photo Editing by Watching Dynamic Videos [[PDF](https://magic-fixup.github.io/magic_fixup.pdf),[Page](https://magic-fixup.github.io/)]
+
+[arxiv 2024.03]Wear-Any-Way: Manipulable Virtual Try-on via Sparse Correspondence Alignment [[PDF](https://arxiv.org/abs/2403.12965),[Page](https://mengtingchen.github.io/wear-any-way-page/)]
+
+[arxiv 2024.03]LASPA: Latent Spatial Alignment for Fast Training-free Single Image Editing [[PDF](https://arxiv.org/abs/2403.12585)]
 
 
 
@@ -315,6 +323,7 @@
 
 [arxiv 2024.03]Optimizing Negative Prompts for Enhanced Aesthetics and Fidelity in Text-To-Image Generation [[PDF](https://arxiv.org/abs/2403.07605)]
 
+[arxiv 2024.03]FouriScale: A Frequency Perspective on Training-Free High-Resolution Image Synthesis [[PDF](https://arxiv.org/abs/2403.12963)]
 
 
 
@@ -473,8 +482,12 @@
 
 [arxiv 2024.03]OSTAF: A One-Shot Tuning Method for Improved Attribute-Focused T2I Personalization [[PDF](https://arxiv.org/abs/2403.11053)]
 
-
 [arxiv 2024.03]OMG: Occlusion-friendly Personalized Multi-concept Generation in Diffusion Models [[PDF](https://arxiv.org/abs/2403.10983), [Page](https://kongzhecn.github.io/omg-project/)]
+
+[arxiv 2024.03]IDAdapter: Learning Mixed Features for Tuning-Free Personalization of Text-to-Image Models [[PDF](https://arxiv.org/abs/2403.13535)]
+
+[arxiv 2024.03]Tuning-Free Image Customization with Image and Text Guidance [[PDF](https://arxiv.org/abs/2403.12658)]
+
 
 
 ## Story-telling
@@ -877,8 +890,6 @@ Cross-Attention Control [[PDF](https://arxiv.org/abs/2402.13404)]
 [arxiv 2024.03]DEADiff: An Efficient Stylization Diffusion Model with Disentangled Representations [[PDF](https://arxiv.org/abs/2403.06951),[Page](https://tianhao-qi.github.io/DEADiff/)]
 
 
-
-
 ## downstream apps
 [arxiv 2023.11]Text-to-Sticker: Style Tailoring Latent Diffusion Models for Human Expression [[PDF](https://arxiv.org/abs/2311.10794)]
 
@@ -952,6 +963,7 @@ Cross-Attention Control [[PDF](https://arxiv.org/abs/2402.13404)]
 
 [arxiv 2024.03]Fast High-Resolution Image Synthesis with Latent Adversarial Diffusion Distillation [[PDF](https://arxiv.org/abs/2403.12015)]
 
+[arxiv 2024.03]You Only Sample Once: Taming One-Step Text-To-Image Synthesis by Self-Cooperative Diffusion GANs [[PDF](https://arxiv.org/abs/2403.12931)]
 
 
 ## limited data 
@@ -1002,6 +1014,7 @@ Cross-Attention Control [[PDF](https://arxiv.org/abs/2402.13404)]
 ## Feedback
 [arxiv 2023.11]Using Human Feedback to Fine-tune Diffusion Models without Any Reward Model [[PDF](https://arxiv.org/abs/2311.13231)]
 
+[arxiv 2024.03]AGFSync: Leveraging AI-Generated Feedback for Preference Optimization in Text-to-Image Generation [[PDF](https://arxiv.org/abs/2403.13352)]
 
 
 ## Related 
