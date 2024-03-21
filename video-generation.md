@@ -250,12 +250,14 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2024.02]Hybrid Video Diffusion Models with 2D Triplane and 3D Wavelet Representation [[PDF](https://arxiv.org/abs/2402.13729)]
 
-
 [arxiv 2024.02]Snap Video: Scaled Spatiotemporal Transformers for Text-to-Video Synthesis[[PDF](https://arxiv.org/abs/2402.14797),[Page](https://snap-research.github.io/snapvideo/)]
+
+[arxiv 2024.03]Mora: Enabling Generalist Video Generation via A Multi-Agent Framework[[PDF](https://arxiv.org/html/2403.13248v1)]
 
 
 ## LLMs-based 
 [arxiv 2023.12]VideoPoet: A Large Language Model for Zero-Shot Video Generation [[PDF](https://arxiv.org/abs/2312.14125),[Page](http://sites.research.google/videopoet/)]
+
 
 
 
