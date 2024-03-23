@@ -877,6 +877,8 @@ Cross-Attention Control [[PDF](https://arxiv.org/abs/2402.13404)]
 
 [arxiv 2023.12]Portrait Diffusion: Training-free Face Stylization with Chain-of-Painting [[PDF](https://arxiv.org/abs/2312.02212)]
 
+[arxiv 2023.12]StyleCrafter: Enhancing Stylized Text-to-Video Generation with Style Adapter[[PDF](https://arxiv.org/abs/2312.00330),[Page](https://gongyeliu.github.io/StyleCrafter.github.io/)]
+
 [arxiv 2023.12]Style Injection in Diffusion: A Training-free Approach for Adapting Large-scale Diffusion Models for Style Transfer [[PDF](https://arxiv.org/abs/2312.09008)]
 
 [arxiv 2024.01]FreeStyle : Free Lunch for Text-guided Style Transfer using Diffusion Models [[PDF](https://arxiv.org/abs/2401.15636), [Page](https://freestylefreelunch.github.io/)]
