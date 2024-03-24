@@ -14,4 +14,4 @@ A reading list of video generation
 
 Basics 
 
-* [Diffuison Models](https://github.com/yzhang2016/video-generation-survey/blob/main/diffusion-models.md)
+* [Diffusion Models](https://github.com/yzhang2016/video-generation-survey/blob/main/diffusion-models.md)
