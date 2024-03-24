@@ -656,6 +656,7 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2023.12]DragVideo: Interactive Drag-style Video Editing [[PDF](https://arxiv.org/abs/2312.02216)]
 
+[arxiv 2024.03]FRESCO: Spatial-Temporal Correspondence for Zero-Shot Video Translation [[PDF](https://arxiv.org/abs/2403.12962),[Page](https://github.com/williamyang1991/fresco)]
 
 
 
