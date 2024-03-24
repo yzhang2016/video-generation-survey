@@ -504,6 +504,7 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2024.03]EffiVED:Efficient Video Editing via Text-instruction Diffusion Models [[PDF](https://arxiv.org/abs/2403.11568)]
 
+[arxiv 2024.03]Videoshop: Localized Semantic Video Editing with Noise-Extrapolated Diffusion Inversion [[PDF](https://arxiv.org/abs/2403.14617),[Page](https://videoshop-editing.github.io/)]
 
 
 ## Image Model for video generation and editing 
