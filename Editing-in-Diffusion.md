@@ -266,6 +266,10 @@
 
 [arxiv 2024.03]LASPA: Latent Spatial Alignment for Fast Training-free Single Image Editing [[PDF](https://arxiv.org/abs/2403.12585)]
 
+[arxiv 2024.03]ReNoise: Real Image Inversion Through Iterative Noising[[PDF](https://arxiv.org/abs/2403.14602),[Page](https://garibida.github.io/ReNoise-Inversion/)]
+
+
+
 
 
 ## DiT 
@@ -890,6 +894,10 @@ Cross-Attention Control [[PDF](https://arxiv.org/abs/2402.13404)]
 [arxiv 2024.02]Visual Style Prompting with Swapping Self-Attention [[PDF](https://arxiv.org/abs/2402.12974),[Page](https://curryjung.github.io/VisualStylePrompt/?ref=aiartweekly)]
 
 [arxiv 2024.03]DEADiff: An Efficient Stylization Diffusion Model with Disentangled Representations [[PDF](https://arxiv.org/abs/2403.06951),[Page](https://tianhao-qi.github.io/DEADiff/)]
+
+[arxiv 2024.03]Implicit Style-Content Separation using B-LoRA [[PDF](https://arxiv.org/abs/2403.14572),[Page](https://b-lora.github.io/B-LoRA/)]
+
+
 
 
 ## downstream apps
