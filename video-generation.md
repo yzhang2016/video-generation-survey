@@ -506,6 +506,9 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2024.03]Videoshop: Localized Semantic Video Editing with Noise-Extrapolated Diffusion Inversion [[PDF](https://arxiv.org/abs/2403.14617),[Page](https://videoshop-editing.github.io/)]
 
+[arxiv 2024.03]AnyV2V: A Plug-and-Play Framework For Any Video-to-Video Editing Tasks  [[PDF](https://arxiv.org/pdf/2403.14468.pdf),[Page](https://tiger-ai-lab.github.io/AnyV2V/)]
+
+
 
 ## Image Model for video generation and editing 
 *[arxiv 2022.12]Tune-A-Video: One-Shot Tuning of Image Diffusion Models for Text-to-Video Generation [[PDF](https://arxiv.org/abs/2212.11565), [Page](https://tuneavideo.github.io/)]
