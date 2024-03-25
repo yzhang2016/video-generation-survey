@@ -371,6 +371,10 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 [arxiv 2024.03]Animate Your Motion: Turning Still Images into Dynamic Videos [[PDF](https://arxiv.org/abs/2403.10179),[Page](https://mingxiao-li.github.io/smcd/)]
 
 
+[arxiv 2024.03]Champ: Controllable and Consistent Human Image Animation with 3D Parametric Guidance [[PDF](https://arxiv.org/pdf/2403.14781.pdf),[Page](https://fudan-generative-vision.github.io/champ/#/)]
+
+
+
 ## Video in/outpainting 
 [MM 2023.09]Hierarchical Masked 3D Diffusion Model for Video Outpainting [[PDF](https://arxiv.org/abs/2309.02119)]
 
