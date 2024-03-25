@@ -299,6 +299,7 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2024.03]VSTAR: Generative Temporal Nursing for Longer Dynamic Video Synthesis [[PDF](https://arxiv.org/pdf/2403.13501.pdf),[Page](https://yumengli007.github.io/VSTAR/)]
 
+[arxiv 2024.03]StreamingT2V: Consistent, Dynamic, and Extendable Long Video Generation from Text [[PDF](https://arxiv.org/abs/2403.14773)]
 
 
 
@@ -644,6 +645,7 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2024.01]Motion-Zero: Zero-Shot Moving Object Control Framework for Diffusion-Based Video Generation[[PDF](https://arxiv.org/abs/2401.10150)]
 
+[arxiv 2024.03]Spectral Motion Alignment for Video Motion Transfer using Diffusion Models[[PDF](https://arxiv.org/abs/2403.15249),[Page](https://geonyeong-park.github.io/spectral-motion-alignment/)]
 
 
 
