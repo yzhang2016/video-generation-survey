@@ -76,3 +76,10 @@
 [arxiv 2023.06]SnapFusion: Text-to-Image Diffusion Model on Mobile Devices within Two Seconds [[PDF](https://arxiv.org/abs/2306.00980), [Page](https://snap-research.github.io/SnapFusion/)]
 
 [arxiv 2023.10]LATENT CONSISTENCY MODELS: SYNTHESIZING HIGH-RESOLUTION IMAGES WITH FEW-STEP INFERENCE [[PDF](https://arxiv.org/abs/2310.04378.pdf),[Page](https://latent-consistency-models.github.io/)]
+
+## Training strategy 
+[arxiv 2024.03]DiffusionMTL: Learning Multi-Task Denoising Diffusion Model from Partially Annotated Data [[PDF](https://arxiv.org/abs/2403.15389),[Page](https://prismformore.github.io/diffusionmtl/)]
+
+
+
+
