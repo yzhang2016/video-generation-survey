@@ -32,3 +32,6 @@
 
 [arxiv 2024.03]3D-VLA 3D Vision-Language-Action Generative World Model[[PDF](https://arxiv.org/abs/2403.09631),[Page](https://vis-www.cs.umass.edu/3dvla/)]
 
+[arxiv 2024.03]LLaVA-PruMerge: Adaptive Token Reduction for Efficient Large Multimodal Models [[PDF](https://arxiv.org/abs/2403.15388),[Page](https://llava-prumerge.github.io/)]
+
+
