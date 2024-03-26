@@ -819,8 +819,6 @@ Cross-Attention Control [[PDF](https://arxiv.org/abs/2402.13404)]
 
 [arxiv 2024.02]SAM-DiffSR: Structure-Modulated Diffusion Model for Image Super-Resolution [[PDF](https://arxiv.org/abs/2402.17133)]
 
-[arxiv 2024.03]Scaling Up to Excellence: Practicing Model Scaling for Photo-Realistic Image Restoration In the Wild [[PDF](https://arxiv.org/abs/2401.13627),[Page](https://github.com/Fanghua-Yu/SUPIR)]
-
 [arxiv 2024.03]ResAdapter: Domain Consistent Resolution Adapter for Diffusion Models [[PDF](https://arxiv.org/abs/2403.02084), [PDF](https://res-adapter.github.io/)]
 
 [arxiv 2024.03]XPSR: Cross-modal Priors for Diffusion-based Image Super-Resolution [[PDF](https://arxiv.org/abs/2403.05049)]
