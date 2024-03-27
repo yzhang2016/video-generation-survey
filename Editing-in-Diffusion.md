@@ -268,6 +268,8 @@
 
 [arxiv 2024.03]ReNoise: Real Image Inversion Through Iterative Noising[[PDF](https://arxiv.org/abs/2403.14602),[Page](https://garibida.github.io/ReNoise-Inversion/)]
 
+[arxiv 2024.03]AID: Attention Interpolation of Text-to-Image Diffusion [[PDF](https://arxiv.org/abs/2403.17924),[Page](https://github.com/QY-H00/attention-interpolation-diffusion)]
+
 
 
 
@@ -493,6 +495,16 @@
 [arxiv 2024.03]Tuning-Free Image Customization with Image and Text Guidance [[PDF](https://arxiv.org/abs/2403.12658)]
 
 [ariv 2024.03]Harmonizing Visual and Textual Embeddings for Zero-Shot Text-to-Image Customization [[PDF](https://arxiv.org/abs/2403.14155),[Page](https://ldynx.github.io/harmony-zero-t2i/)]
+
+[arxiv 2024.03]FlashFace: Human Image Personalization with High-fidelity Identity Preservation [[PDF](https://arxiv.org/abs/2403.17008),[Page](https://jshilong.github.io/flashface-page)]
+
+
+
+
+
+
+
+
 
 ## Story-telling
 
