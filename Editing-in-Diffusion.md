@@ -498,7 +498,9 @@
 
 [arxiv 2024.03]FlashFace: Human Image Personalization with High-fidelity Identity Preservation [[PDF](https://arxiv.org/abs/2403.17008),[Page](https://jshilong.github.io/flashface-page)]
 
+[arxiv 2024.03]Be Yourself: Bounded Attention for Multi-Subject Text-to-Image Generation [[PDF](https://arxiv.org/abs/2403.16990),[Page](https://omer11a.github.io/bounded-attention/)]
 
+[arxiv 2024.03]Isolated Diffusion: Optimizing Multi-Concept Text-to-Image Generation Training-Freely with Isolated Diffusion Guidance [[PDF](https://arxiv.org/abs/2403.16954)]
 
 
 
