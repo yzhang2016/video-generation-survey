@@ -476,6 +476,8 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2024.03]TimeRewind: Rewinding Time with Image-and-Events Video Diffusion [[PDF](https://arxiv.org/abs/2403.13800),[Page](https://timerewind.github.io/)]
 
+[arxiv 2024.03]TRIP: Temporal Residual Learning with Image Noise Prior for Image-to-Video Diffusion Models [[PDF](https://arxiv.org/abs/2403.17005),[Page](https://trip-i2v.github.io/TRIP/)]
+
 
 
 ## 4D generation 
