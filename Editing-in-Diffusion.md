@@ -502,6 +502,7 @@
 
 [arxiv 2024.03]Isolated Diffusion: Optimizing Multi-Concept Text-to-Image Generation Training-Freely with Isolated Diffusion Guidance [[PDF](https://arxiv.org/abs/2403.16954)]
 
+[arxiv 2024.03]Improving Text-to-Image Consistency via Automatic Prompt Optimization [[PDF](https://arxiv.org/abs/2403.17804)]
 
 
 
