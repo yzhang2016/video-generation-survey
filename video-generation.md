@@ -370,8 +370,10 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2024.03]Animate Your Motion: Turning Still Images into Dynamic Videos [[PDF](https://arxiv.org/abs/2403.10179),[Page](https://mingxiao-li.github.io/smcd/)]
 
-
 [arxiv 2024.03]Champ: Controllable and Consistent Human Image Animation with 3D Parametric Guidance [[PDF](https://arxiv.org/pdf/2403.14781.pdf),[Page](https://fudan-generative-vision.github.io/champ/#/)]
+
+[arxiv 2024.03]Make-Your-Anchor: A Diffusion-based 2D Avatar Generation Framework [[PDF](https://arxiv.org/abs/2403.16510), [Page](https://github.com/ICTMCG/Make-Your-Anchor)]
+
 
 
 
@@ -433,6 +435,10 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 [arxiv 2024.01]CustomVideo: Customizing Text-to-Video Generation with Multiple Subjects [[PDF](https://arxiv.org/abs/2401.09962)]
 
 [arxiv 2024.02]Magic-Me: Identity-Specific Video Customized Diffusion [[PDf](https://arxiv.org/abs/2402.09368),[Page](https://magic-me-webpage.github.io/)]
+
+[arxiv 2024.03]EVA: Zero-shot Accurate Attributes and Multi-Object Video Editing [[PDF](https://arxiv.org/abs/2403.16111),[Page](https://knightyxp.github.io/EVA/)]
+
+
 
 
 ## Image-to-video Generation 
