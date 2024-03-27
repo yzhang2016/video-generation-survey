@@ -398,6 +398,9 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2023.12]Video Dynamics Prior: An Internal Learning Approach for Robust Video Enhancements [[PDF](https://arxiv.org/abs/2312.07835),[Page](http://www.cs.umd.edu/~gauravsh/vdp.html)]
 
+[arxiv 2024.03]Learning Spatial Adaptation and Temporal Coherence in Diffusion Models for Video Super-Resolution [[PDF](https://arxiv.org/abs/2403.17000)]
+
+
 
 
 ## downstream apps
