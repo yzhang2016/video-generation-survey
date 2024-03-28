@@ -270,6 +270,7 @@
 
 [arxiv 2024.03]AID: Attention Interpolation of Text-to-Image Diffusion [[PDF](https://arxiv.org/abs/2403.17924),[Page](https://github.com/QY-H00/attention-interpolation-diffusion)]
 
+[arxiv 2024.03]InstructBrush: Learning Attention-based Instruction Optimization for Image Editing [[PDF](https://arxiv.org/abs/2403.18660)]
 
 
 
@@ -504,7 +505,7 @@
 
 [arxiv 2024.03]Improving Text-to-Image Consistency via Automatic Prompt Optimization [[PDF](https://arxiv.org/abs/2403.17804)]
 
-
+[arxiv 2024.03]Attention Calibration for Disentangled Text-to-Image Personalization [[PDF](https://github.com/Monalissaa/DisenDiff),[Page](https://arxiv.org/pdf/2403.18551.pdf)]
 
 
 
@@ -587,7 +588,7 @@ Cross-Attention Control [[PDF](https://arxiv.org/abs/2402.13404)]
 
 [arxiv 2024.03]DivCon: Divide and Conquer for Progressive Text-to-Image Generation [[PDF](https://arxiv.org/abs/2403.06400)]
 
-
+[arxiv 2024.03]LayoutFlow: Flow Matching for Layout Generation [[PDF](https://arxiv.org/pdf/2403.18187.pdf)]
 
 
 ## SVG
@@ -772,6 +773,11 @@ Cross-Attention Control [[PDF](https://arxiv.org/abs/2402.13404)]
 
 [arxiv 2024.03]LayerDiff: Exploring Text-guided Multi-layered Composable Image Synthesis via Layer-Collaborative Diffusion Model [[PDF](https://arxiv.org/abs/2403.11929)]
 
+[arxiv 2024.03]FlexEdit Flexible and Controllable Diffusion-based Object-centric Image Editing [[PDF](https://arxiv.org/abs/2403.18605),[Page](https://flex-edit.github.io/)]
+
+[arxiv 2024.03]U-Sketch: An Efficient Approach for Sketch to Image Diffusion Models [[PDF](https://arxiv.org/abs/2403.18425)]
+
+[arxiv 2024.03]ECNet: Effective Controllable Text-to-Image Diffusion Models [[PDF](https://arxiv.org/pdf/2403.18417.pdf)]
 
 
 ## Image Variation 
