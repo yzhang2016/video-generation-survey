@@ -916,6 +916,7 @@ Cross-Attention Control [[PDF](https://arxiv.org/abs/2402.13404)]
 
 [arxiv 2024.03]Implicit Style-Content Separation using B-LoRA [[PDF](https://arxiv.org/abs/2403.14572),[Page](https://b-lora.github.io/B-LoRA/)]
 
+[arxiv 2024.03]Break-for-Make: Modular Low-Rank Adaptations for Composable Content-Style Customization [[PDF](https://arxiv.org/abs/2403.19456)]
 
 
 
