@@ -272,7 +272,7 @@
 
 [arxiv 2024.03]InstructBrush: Learning Attention-based Instruction Optimization for Image Editing [[PDF](https://arxiv.org/abs/2403.18660)]
 
-
+[arxiv 2024.03]TextCraftor: Your Text Encoder Can be Image Quality Controller [[PDF](https://arxiv.org/abs/2403.18978)]
 
 
 ## DiT 
