@@ -779,6 +779,10 @@ Cross-Attention Control [[PDF](https://arxiv.org/abs/2402.13404)]
 
 [arxiv 2024.03]ECNet: Effective Controllable Text-to-Image Diffusion Models [[PDF](https://arxiv.org/pdf/2403.18417.pdf)]
 
+[arxiv 2024.03]ObjectDrop: Bootstrapping Counterfactuals for Photorealistic Object Removal and Insertion [[PDF](https://arxiv.org/abs/2403.18818),[Page](https://objectdrop.github.io/)]
+
+
+
 
 ## Image Variation 
 [arxiv 2023.08]IP-Adapter: Text Compatible Image Prompt Adapter for Text-to-Image Diffusion Models [[PDF](https://arxiv.org/pdf/2308.06721.pdf), [Page](https://ip-adapter.github.io/)]
