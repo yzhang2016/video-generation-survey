@@ -374,6 +374,7 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2024.03]Make-Your-Anchor: A Diffusion-based 2D Avatar Generation Framework [[PDF](https://arxiv.org/abs/2403.16510), [Page](https://github.com/ICTMCG/Make-Your-Anchor)]
 
+[arxiv 2024.04]Motion Inversion for Video Customization [[PDF](https://arxiv.org/abs/2403.20193),[Page](https://wileewang.github.io/MotionInversion/)]
 
 
 
