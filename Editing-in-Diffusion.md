@@ -507,6 +507,9 @@
 
 [arxiv 2024.03]Attention Calibration for Disentangled Text-to-Image Personalization [[PDF](https://github.com/Monalissaa/DisenDiff),[Page](https://arxiv.org/pdf/2403.18551.pdf)]
 
+[arxiv 2024.04]CLoRA: A Contrastive Approach to Compose Multiple LoRA Models [[PDF](https://arxiv.org/abs/2403.19776),[Page](https://clora-diffusion.github.io/)]
+
+
 
 
 
