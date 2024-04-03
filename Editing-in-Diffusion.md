@@ -785,6 +785,9 @@ Cross-Attention Control [[PDF](https://arxiv.org/abs/2402.13404)]
 [arxiv 2024.03]ObjectDrop: Bootstrapping Counterfactuals for Photorealistic Object Removal and Insertion [[PDF](https://arxiv.org/abs/2403.18818),[Page](https://objectdrop.github.io/)]
 
 
+[arxiv 2024.04]LayerDiffuse:Transparent Image Layer Diffusion using Latent Transparency [[PDF](https://arxiv.org/abs/2402.17113),[Page](https://github.com/layerdiffusion/LayerDiffuse)]
+
+
 
 
 ## Image Variation 
