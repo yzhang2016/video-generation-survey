@@ -50,6 +50,9 @@
 [arxiv 2023.12]Diffusion Models With Learned Adaptive Noise [[PDF](https://arxiv.org/abs/2312.13236)]
 
 
+[arxiv 2024.04]Denoising Monte Carlo Renders With Diffusion Models [[PDF](https://arxiv.org/abs/2404.00491)]
+
+
 
 ## Architecture
 [arxiv 2023.03]Masked Diffusion Transformer is a Strong Image Synthesizer [[PDF](https://arxiv.org/abs/2303.14389)]
