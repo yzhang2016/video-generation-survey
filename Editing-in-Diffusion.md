@@ -867,6 +867,7 @@ Cross-Attention Control [[PDF](https://arxiv.org/abs/2402.13404)]
 
 [arxiv 2024.04]Upsample Guidance: Scale Up Diffusion Models without Training [[PDF](https://arxiv.org/abs/2404.01709)]
 
+[arxiv 2024.04]DeeDSR: Towards Real-World Image Super-Resolution via Degradation-Aware Stable Diffusion [[PDF](https://arxiv.org/abs/2404.00661)]
 
 
 
