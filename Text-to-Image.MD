@@ -57,8 +57,9 @@
 
 [arxiv 2024.03]CogView3: Finer and Faster Text-to-Image Generation via Relay Diffusion [[PDF](https://arxiv.org/abs/2403.05121)]
 
-
 [arxiv 2024.03]Multistep Consistency Models [[PDF](https://arxiv.org/abs/2403.06807)]
+
+[arxiv 2024.04]CosmicMan: A Text-to-Image Foundation Model for Humans [[PDF](https://arxiv.org/abs/2404.01294),[Page](https://cosmicman-cvpr2024.github.io/)]
 
 
 ## GAN/VAE/Transformer-based 
