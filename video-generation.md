@@ -256,6 +256,9 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2024.03]Efficient Video Diffusion Models via Content-Frame Motion-Latent Decomposition [[PDF](https://arxiv.org/abs/2403.14148),[Page](https://arxiv.org/abs/2403.14148)]
 
+[arxiv 2024.04]Grid Diffusion Models for Text-to-Video Generation [[PDF](https://arxiv.org/abs/2404.00234)]
+
+
 
 
 ## LLMs-based 
