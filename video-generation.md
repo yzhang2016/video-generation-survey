@@ -27,6 +27,8 @@ A reading list of video generation
 
 * **Zeroscope V2 XL** [[Page](https://huggingface.co/cerspense/zeroscope_v2_XL)]
 
+* **MuseV** [[Page](https://github.com/TMElyralab/MuseV)] 
+
 ### Non-open source
 
 * **Gen-1/Gen-2** [[Page](https://research.runwayml.com/gen2)]
