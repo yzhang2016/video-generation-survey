@@ -1053,6 +1053,10 @@ Cross-Attention Control [[PDF](https://arxiv.org/abs/2402.13404)]
 
 [arxiv 2024.1]Resolution Chromatography of Diffusion Models [[PDF](https://arxiv.org/abs/2401.10247)]
 
+[arxiv 0224.04]Bigger is not Always Better: Scaling Properties of Latent Diffusion Models [[PDF(https://arxiv.org/abs/2404.01367)]
+
+[arxiv 2024.04]Evaluating Text-to-Visual Generation with Image-to-Text Generation [[PDF](https://arxiv.org/pdf/2404.01291.pdf),[Page](https://linzhiqiu.github.io/papers/vqascore/)]
+
 
 
 ## Feedback
