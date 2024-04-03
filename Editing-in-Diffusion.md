@@ -856,6 +856,10 @@ Cross-Attention Control [[PDF](https://arxiv.org/abs/2402.13404)]
 
 [arxiv 2024.03]BlindDiff: Empowering Degradation Modelling in Diffusion Models for Blind Image Super-Resolution [[PDF](https://arxiv.org/abs/2403.10211)]
 
+[arxiv 2024.04]Upsample Guidance: Scale Up Diffusion Models without Training [[PDF](https://arxiv.org/abs/2404.01709)]
+
+
+
 
 ## action transfer 
 [arxiv 2023.11]Learning Disentangled Identifiers for Action-Customized Text-to-Image Generation [[PDF](https://arxiv.org/abs/2311.15841)]
