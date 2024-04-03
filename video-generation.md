@@ -649,6 +649,9 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2024.03]Explorative Inbetweening of Time and Space [[PDF](https://time-reversal.github.io/),[Page](https://time-reversal.github.io/)]
 
+[arxiv 2024.04]Video Interpolation With Diffusion Models [[PDF](https://arxiv.org/abs/2404.01203),[Page](https://vidim-interpolation.github.io/)]
+
+
 
 ## motion transfer 
 [arxiv 2023.05]LEO: Generative Latent Image Animator for Human Video Synthesis [[PDF](https://arxiv.org/abs/2305.03989),[Page](https://wyhsirius.github.io/LEO-project/)]
