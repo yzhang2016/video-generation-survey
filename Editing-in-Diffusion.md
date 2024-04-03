@@ -274,6 +274,13 @@
 
 [arxiv 2024.03]TextCraftor: Your Text Encoder Can be Image Quality Controller [[PDF](https://arxiv.org/abs/2403.18978)]
 
+[arxiv 2024.04]Texture-Preserving Diffusion Models for High-Fidelity Virtual Try-On [[PDF](https://arxiv.org/abs/2404.01089)]
+
+[arxiv 2024.04]Drag Your Noise: Interactive Point-based Editing via Diffusion Semantic Propagation [[PDF](https://arxiv.org/abs/2404.01050),[Page](https://github.com/haofengl/DragNoise)]
+
+[arxiv 2024.04]TryOn-Adapter: Efficient Fine-Grained Clothing Identity Adaptation for High-Fidelity Virtual Try-On [[PDF](https://arxiv.org/abs/2404.00878),[Page](https://github.com/jiazheng-xing/TryOn-Adapter)]
+
+
 
 ## DiT 
 [arxiv 2024.03]Switch Diffusion Transformer: Synergizing Denoising Tasks with Sparse Mixture-of-Experts [[PDF](https://arxiv.org/abs/2403.09176),[Page](https://byeongjun-park.github.io/Switch-DiT/)]
@@ -331,6 +338,8 @@
 [arxiv 2024.03]Optimizing Negative Prompts for Enhanced Aesthetics and Fidelity in Text-To-Image Generation [[PDF](https://arxiv.org/abs/2403.07605)]
 
 [arxiv 2024.03]FouriScale: A Frequency Perspective on Training-Free High-Resolution Image Synthesis [[PDF](https://arxiv.org/abs/2403.12963)]
+
+[arxiv 2024.04]Getting it Right: Improving Spatial Consistency in Text-to-Image Models [[PDF](https://arxiv.org/abs/2404.01197),[Page](https://spright-t2i.github.io/)]
 
 
 
