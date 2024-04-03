@@ -348,7 +348,6 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2023.12]DreaMoving: A Human Dance Video Generation Framework based on Diffusion Models [[PDF](https://arxiv.org/abs/2312.05107), [Page](https://dreamoving.github.io/dreamoving)]
 
-[arxiv 2023.12]MotionCtrl: A Unified and Flexible Motion Controller for Video Generation [[PDF](https://arxiv.org/abs/2312.03641),[Page](https://wzhouxiff.github.io/projects/MotionCtrl/)]
 
 [arxiv 2023.12]Fine-grained Controllable Video Generation via Object Appearance and Context [[PDF](https://arxiv.org/abs/2312.02919),[Page](https://hhsinping.github.io/factor)]
 
@@ -375,6 +374,12 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 [arxiv 2024.03]Make-Your-Anchor: A Diffusion-based 2D Avatar Generation Framework [[PDF](https://arxiv.org/abs/2403.16510), [Page](https://github.com/ICTMCG/Make-Your-Anchor)]
 
 [arxiv 2024.04]Motion Inversion for Video Customization [[PDF](https://arxiv.org/abs/2403.20193),[Page](https://wileewang.github.io/MotionInversion/)]
+
+
+## Camera 
+[arxiv 2023.12]MotionCtrl: A Unified and Flexible Motion Controller for Video Generation [[PDF](https://arxiv.org/abs/2312.03641),[Page](https://wzhouxiff.github.io/projects/MotionCtrl/)]
+
+[arxiv 2024.04]CameraCtrl: Enabling Camera Control for Text-to-Video Generation [[PDF](https://arxiv.org/abs/2404.02101),[Page](https://hehao13.github.io/projects-CameraCtrl/)]
 
 
 
