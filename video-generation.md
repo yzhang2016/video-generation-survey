@@ -384,6 +384,8 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 ## Camera 
 [arxiv 2023.12]MotionCtrl: A Unified and Flexible Motion Controller for Video Generation [[PDF](https://arxiv.org/abs/2312.03641),[Page](https://wzhouxiff.github.io/projects/MotionCtrl/)]
 
+[arxiv 2024.02]Direct-a-Video: Customized Video Generation with User-Directed Camera Movement and Object Motion [[PDF](https://arxiv.org/pdf/2402.03162.pdf),[Page](https://direct-a-video.github.io/)]
+
 [arxiv 2024.04]CameraCtrl: Enabling Camera Control for Text-to-Video Generation [[PDF](https://arxiv.org/abs/2404.02101),[Page](https://hehao13.github.io/projects-CameraCtrl/)]
 
 
