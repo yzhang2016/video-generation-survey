@@ -55,7 +55,12 @@ A reading list of video generation
 
 * **PixVerse**[[Page](https://pixverse.ai/)]
 
-* **ltx.studio**[[Page]](https://ltx.studio/)
+* **ltx.studio**[[Page](https://ltx.studio/)]
+
+  
+* **Haiper** [[Page](https://app.haiper.ai/explore)]
+
+
 
 ### Translation 
 * **Goenhance.ai**[[Page](https://www.goenhance.ai/)]
