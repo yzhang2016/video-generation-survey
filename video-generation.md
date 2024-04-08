@@ -385,6 +385,8 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2024.04]Motion Inversion for Video Customization [[PDF](https://arxiv.org/abs/2403.20193),[Page](https://wileewang.github.io/MotionInversion/)]
 
+[arxiv 2023.12]Generative Rendering: Controllable 4D-Guided Video Generation with 2D Diffusion Models [[PDF](https://arxiv.org/abs/2312.01409),[Page](https://primecai.github.io/generative_rendering/)]
+
 
 ## Camera 
 [arxiv 2023.12]MotionCtrl: A Unified and Flexible Motion Controller for Video Generation [[PDF](https://arxiv.org/abs/2312.03641),[Page](https://wzhouxiff.github.io/projects/MotionCtrl/)]
