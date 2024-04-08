@@ -1030,6 +1030,8 @@ Cross-Attention Control [[PDF](https://arxiv.org/abs/2402.13404)]
 
 [arxiv 2024.03]You Only Sample Once: Taming One-Step Text-To-Image Synthesis by Self-Cooperative Diffusion GANs [[PDF](https://arxiv.org/abs/2403.12931)]
 
+[arxiv 2024.04]T-GATE: Cross-Attention Makes Inference Cumbersome in Text-to-Image Diffusion Models [[PDF](https://arxiv.org/abs/2404.02747),[Page](https://github.com/HaozheLiu-ST/T-GATE)]
+
 
 ## limited data 
 [arxiv 2023.06]Decompose and Realign: Tackling Condition Misalignment in Text-to-Image Diffusion Models [[PDF](https://arxiv.org/abs/2306.14153)]
