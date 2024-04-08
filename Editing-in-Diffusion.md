@@ -280,6 +280,9 @@
 
 [arxiv 2024.04]TryOn-Adapter: Efficient Fine-Grained Clothing Identity Adaptation for High-Fidelity Virtual Try-On [[PDF](https://arxiv.org/abs/2404.00878),[Page](https://github.com/jiazheng-xing/TryOn-Adapter)]
 
+[arxiv 2024.04]Cross-Attention Makes Inference Cumbersome in Text-to-Image Diffusion Models [[PDF](https://arxiv.org/abs/2404.02747)]
+
+
 
 
 ## DiT 
@@ -341,6 +344,9 @@
 
 [arxiv 2024.04]Getting it Right: Improving Spatial Consistency in Text-to-Image Models [[PDF](https://arxiv.org/abs/2404.01197),[Page](https://spright-t2i.github.io/)]
 
+[arxiv 2024.04]Dynamic Prompt Optimizing for Text-to-Image Generation [[PDF](https://arxiv.org/abs/2404.04095)]
+
+[arxiv 2024.04]Aligning Text-to-Image Diffusion Model with Image-to-Text Concept Matching [[PDF](https://arxiv.org/abs/2404.03653),[Page](https://caraj7.github.io/comat/)]
 
 
 ## Model adapatation 
@@ -518,7 +524,11 @@
 
 [arxiv 2024.04]CLoRA: A Contrastive Approach to Compose Multiple LoRA Models [[PDF](https://arxiv.org/abs/2403.19776),[Page](https://clora-diffusion.github.io/)]
 
+[arxiv 2024.04]MuDI: Identity Decoupling for Multi-Subject Personalization of Text-to-Image Models [[PDF](https://arxiv.org/abs/2404.04243),[Page](https://mudi-t2i.github.io/)]
 
+[arxiv 2024.04]Concept Weaver: Enabling Multi-Concept Fusion in Text-to-Image Models [[PDF](https://arxiv.org/abs/2404.03913)]
+
+[arxiv 2024.04]LCM-Lookahead for Encoder-based Text-to-Image Personalization [[PDF](https://arxiv.org/abs/2404.03620)]
 
 
 
@@ -942,6 +952,7 @@ Cross-Attention Control [[PDF](https://arxiv.org/abs/2402.13404)]
 
 [arxiv 2024.03]Break-for-Make: Modular Low-Rank Adaptations for Composable Content-Style Customization [[PDF](https://arxiv.org/abs/2403.19456)]
 
+[arxiv 2024.04]InstantStyle: Free Lunch towards Style-Preserving in Text-to-Image Generation [[PDF](https://arxiv.org/abs/2404.02733)]
 
 
 ## downstream apps
@@ -1059,13 +1070,23 @@ Cross-Attention Control [[PDF](https://arxiv.org/abs/2402.13404)]
 
 [arxiv 2023.12]Rich Human Feedback for Text-to-Image Generation [[PDF](https://arxiv.org/abs/2312.10240)]
 
-[arxiv 2024.1]Rethinking FID: Towards a Better Evaluation Metric for Image Generation [[PDF](https://arxiv.org/abs/2401.09603)]
-
 [arxiv 2024.1]Resolution Chromatography of Diffusion Models [[PDF](https://arxiv.org/abs/2401.10247)]
 
 [arxiv 0224.04]Bigger is not Always Better: Scaling Properties of Latent Diffusion Models [[PDF(https://arxiv.org/abs/2404.01367)]
 
+
+
+
+
+## Evaluation 
+
+[arxiv 2024.1]Rethinking FID: Towards a Better Evaluation Metric for Image Generation [[PDF](https://arxiv.org/abs/2401.09603)]
+
 [arxiv 2024.04]Evaluating Text-to-Visual Generation with Image-to-Text Generation [[PDF](https://arxiv.org/pdf/2404.01291.pdf),[Page](https://linzhiqiu.github.io/papers/vqascore/)]
+
+[arxiv 2024.04]Who Evaluates the Evaluations? Objectively Scoring Text-to-Image Prompt Coherence Metrics with T2IScoreScore (TS2) [[PDF](https://arxiv.org/abs/2404.04251)]
+
+
 
 
 
@@ -1073,6 +1094,10 @@ Cross-Attention Control [[PDF](https://arxiv.org/abs/2402.13404)]
 [arxiv 2023.11]Using Human Feedback to Fine-tune Diffusion Models without Any Reward Model [[PDF](https://arxiv.org/abs/2311.13231)]
 
 [arxiv 2024.03]AGFSync: Leveraging AI-Generated Feedback for Preference Optimization in Text-to-Image Generation [[PDF](https://arxiv.org/abs/2403.13352)]
+
+[arxiv 2024.04]RL for Consistency Models: Faster Reward Guided Text-to-Image Generation [[PDF](https://arxiv.org/abs/2404.03673)]
+
+
 
 
 ## Related 
@@ -1113,6 +1138,10 @@ Cross-Attention Control [[PDF](https://arxiv.org/abs/2402.13404)]
 [arxiv 2023.11]ToddlerDiffusion: Flash Interpretable Controllable Diffusion Model [[PDF](https://arxiv.org/abs/2311.14542)]
 
 [arxiv 2023.02]DoRA: Weight-Decomposed Low-Rank Adaptation [[PDF](https://arxiv.org/pdf/2402.09353.pdf)]
+
+[arxiv 2024.04]Many-to-many Image Generation with Auto-regressive Diffusion Models [[PDF](https://arxiv.org/abs/2404.03109)]
+
+[arxiv 2024.04]On the Scalability of Diffusion-based Text-to-Image Generation [[PDF](https://arxiv.org/abs/2404.02883)]
 
 
 ## Repository
