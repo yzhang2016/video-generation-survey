@@ -893,6 +893,8 @@ Cross-Attention Control [[PDF](https://arxiv.org/abs/2402.13404)]
 
 [arxiv 2024.04]DeeDSR: Towards Real-World Image Super-Resolution via Degradation-Aware Stable Diffusion [[PDF](https://arxiv.org/abs/2404.00661)]
 
+[arxiv 2024.04]BeyondScene: Higher-Resolution Human-Centric Scene Generation With Pretrained Diffusion [[PDF](https://arxiv.org/abs/2404.04544), [Page](https://janeyeon.github.io/beyond-scene)]
+
 
 
 ## action transfer 
