@@ -1118,6 +1118,8 @@ Cross-Attention Control [[PDF](https://arxiv.org/abs/2402.13404)]
 
 [arxiv 2024.04]RL for Consistency Models: Faster Reward Guided Text-to-Image Generation [[PDF](https://arxiv.org/abs/2404.03673)]
 
+[arxiv 2024.04]Aligning Diffusion Models by Optimizing Human Utility [[PDF](https://arxiv.org/abs/2404.04465)]
+
 
 
 
