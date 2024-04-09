@@ -282,6 +282,13 @@
 
 [arxiv 2024.04]Cross-Attention Makes Inference Cumbersome in Text-to-Image Diffusion Models [[PDF](https://arxiv.org/abs/2404.02747)]
 
+[arxiv 2024.04]SwapAnything: Enabling Arbitrary Object Swapping in Personalized Visual Editing [[PDF](https://arxiv.org/abs/2404.05717)]
+
+[arxiv 2024.04]Responsible Visual Editing [[PDF](https://arxiv.org/abs/2404.05580)]
+
+[arxiv 2024.04]ByteEdit: Boost, Comply and Accelerate Generative Image Editing [[PDF](https://arxiv.org/abs/2404.04860)]
+
+[arxiv 2024.04]ShoeModel: Learning to Wear on the User-specified Shoes via Diffusion Model [[PDF](https://arxiv.org/abs/2404.04833)]
 
 
 
@@ -529,6 +536,13 @@
 [arxiv 2024.04]Concept Weaver: Enabling Multi-Concept Fusion in Text-to-Image Models [[PDF](https://arxiv.org/abs/2404.03913)]
 
 [arxiv 2024.04]LCM-Lookahead for Encoder-based Text-to-Image Personalization [[PDF](https://arxiv.org/abs/2404.03620)]
+
+[arxiv 2024.04]MoMA: Multimodal LLM Adapter for Fast Personalized Image Generation [[PDF](https://arxiv.org/abs/2404.05674),[Page](https://moma-adapter.github.io/)]
+
+[arxiv 2024.04]MC2: Multi-concept Guidance for Customized Multi-concept Generation [[PDF](https://arxiv.org/abs/2404.05268)]
+
+[arxiv 2024.04]Strictly-ID-Preserved and Controllable Accessory Advertising Image Generation [[PDF](https://arxiv.org/abs/2404.04828)]
+
 
 
 
@@ -1031,6 +1045,9 @@ Cross-Attention Control [[PDF](https://arxiv.org/abs/2402.13404)]
 [arxiv 2024.03]You Only Sample Once: Taming One-Step Text-To-Image Synthesis by Self-Cooperative Diffusion GANs [[PDF](https://arxiv.org/abs/2403.12931)]
 
 [arxiv 2024.04]T-GATE: Cross-Attention Makes Inference Cumbersome in Text-to-Image Diffusion Models [[PDF](https://arxiv.org/abs/2404.02747),[Page](https://github.com/HaozheLiu-ST/T-GATE)]
+
+[arxiv 2024.04]BinaryDM: Towards Accurate Binarization of Diffusion Model [[PDF](https://arxiv.org/abs/2404.05662), [Page](https://github.com/Xingyu-Zheng/BinaryDM)]
+
 
 
 ## limited data 
