@@ -265,6 +265,7 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2024.04]Grid Diffusion Models for Text-to-Video Generation [[PDF](https://arxiv.org/abs/2404.00234)]
 
+[arxiv 2024.04]MagicTime: Time-lapse Video Generation Models as Metamorphic Simulators [[PDF](https://arxiv.org/abs/2404.05014)]
 
 
 
@@ -546,6 +547,8 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 [arxiv 2024.03]Videoshop: Localized Semantic Video Editing with Noise-Extrapolated Diffusion Inversion [[PDF](https://arxiv.org/abs/2403.14617),[Page](https://videoshop-editing.github.io/)]
 
 [arxiv 2024.03]AnyV2V: A Plug-and-Play Framework For Any Video-to-Video Editing Tasks  [[PDF](https://arxiv.org/pdf/2403.14468.pdf),[Page](https://tiger-ai-lab.github.io/AnyV2V/)]
+
+[arxiv 2024.04]Investigating the Effectiveness of Cross-Attention to Unlock Zero-Shot Editing of Text-to-Video Diffusion Models [[PDF](https://arxiv.org/abs/2404.05519)]
 
 
 
