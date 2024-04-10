@@ -52,6 +52,8 @@
 
 [arxiv 2024.04]Denoising Monte Carlo Renders With Diffusion Models [[PDF](https://arxiv.org/abs/2404.00491)]
 
+[arxiv 2024.04]Diffusion-RWKV: Scaling RWKV-Like Architectures for Diffusion Models [[PDF](https://arxiv.org/abs/2404.04478)]
+
 
 
 ## Architecture
