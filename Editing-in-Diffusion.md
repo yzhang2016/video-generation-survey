@@ -290,6 +290,7 @@
 
 [arxiv 2024.04]ShoeModel: Learning to Wear on the User-specified Shoes via Diffusion Model [[PDF](https://arxiv.org/abs/2404.04833)]
 
+[arxiv 2024.040]GoodDrag: Towards Good Practices for Drag Editing with Diffusion Models[[PDF](https://arxiv.org/abs/2404.07206),[Page](https://arxiv.org/abs/2404.07206)]
 
 
 ## DiT 
@@ -817,9 +818,9 @@ Cross-Attention Control [[PDF](https://arxiv.org/abs/2402.13404)]
 
 [arxiv 2024.03]ObjectDrop: Bootstrapping Counterfactuals for Photorealistic Object Removal and Insertion [[PDF](https://arxiv.org/abs/2403.18818),[Page](https://objectdrop.github.io/)]
 
-
 [arxiv 2024.04]LayerDiffuse:Transparent Image Layer Diffusion using Latent Transparency [[PDF](https://arxiv.org/abs/2402.17113),[Page](https://github.com/layerdiffusion/LayerDiffuse)]
 
+[arxiv 2024.04]Move Anything with Layered Scene Diffusion [[PDF](https://arxiv.org/abs/2404.07178)]
 
 
 
@@ -969,6 +970,10 @@ Cross-Attention Control [[PDF](https://arxiv.org/abs/2402.13404)]
 [arxiv 2024.03]Break-for-Make: Modular Low-Rank Adaptations for Composable Content-Style Customization [[PDF](https://arxiv.org/abs/2403.19456)]
 
 [arxiv 2024.04]InstantStyle: Free Lunch towards Style-Preserving in Text-to-Image Generation [[PDF](https://arxiv.org/abs/2404.02733)]
+
+[arxiv 2024.04]Tuning-Free Adaptive Style Incorporation for Structure-Consistent Text-Driven Style Transfer [[PDF](https://arxiv.org/abs/2404.06835)]
+
+
 
 
 ## downstream apps
