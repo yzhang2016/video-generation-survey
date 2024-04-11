@@ -82,6 +82,13 @@
 
 [arxiv 2023.10]LATENT CONSISTENCY MODELS: SYNTHESIZING HIGH-RESOLUTION IMAGES WITH FEW-STEP INFERENCE [[PDF](https://arxiv.org/abs/2310.04378.pdf),[Page](https://latent-consistency-models.github.io/)]
 
+[arxiv 2024.04]Efficient Denoising using Score Embedding in Score-based Diffusion Models [[PDF](https://arxiv.org/abs/2404.06661)]
+
+
+
+
+
+
 ## Training strategy 
 [arxiv 2024.03]DiffusionMTL: Learning Multi-Task Denoising Diffusion Model from Partially Annotated Data [[PDF](https://arxiv.org/abs/2403.15389),[Page](https://prismformore.github.io/diffusionmtl/)]
 
