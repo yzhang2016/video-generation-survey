@@ -822,6 +822,7 @@ Cross-Attention Control [[PDF](https://arxiv.org/abs/2402.13404)]
 
 [arxiv 2024.04]Move Anything with Layered Scene Diffusion [[PDF](https://arxiv.org/abs/2404.07178)]
 
+[arxiv 2024.04]ControlNet++: Improving Conditional Controls with Efficient Consistency Feedback [[PDF](https://arxiv.org/abs/2404.07987),[Page](https://liming-ai.github.io/ControlNet_Plus_Plus)]
 
 
 ## Image Variation 
