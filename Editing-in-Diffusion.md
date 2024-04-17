@@ -990,6 +990,7 @@ Cross-Attention Control [[PDF](https://arxiv.org/abs/2402.13404)]
 
 [arxiv 2024.04]Tuning-Free Adaptive Style Incorporation for Structure-Consistent Text-Driven Style Transfer [[PDF](https://arxiv.org/abs/2404.06835)]
 
+[arxiv 2024.04]DEADiff: An Efficient Stylization Diffusion Model with Disentangled Representations [[PDF](https://arxiv.org/abs/2403.06951),[Page](https://github.com/bytedance/DEADiff)]
 
 
 
