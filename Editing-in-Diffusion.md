@@ -374,6 +374,9 @@
 
 [arxiv 2023.12]Brush Your Text: Synthesize Any Scene Text on Images via Diffusion Model [[PDF](https://arxiv.org/abs/2312.12232)]
 
+[arxiv 2024.04]Glyph-ByT5: A Customized Text Encoder for Accurate Visual Text Rendering [[PDF](https://arxiv.org/abs/2403.09622),[Page](https://glyph-byt5.github.io/)]
+
+
 ## face swapping 
 [arxiv 2024.03]Infinite-ID: Identity-preserved Personalization via ID-semantics Decoupling Paradigm [[PDF](https://arxiv.org/abs/2403.11781),[Page](https://infinite-id.github.io/)]
 
