@@ -292,6 +292,14 @@
 
 [arxiv 2024.040]GoodDrag: Towards Good Practices for Drag Editing with Diffusion Models[[PDF](https://arxiv.org/abs/2404.07206),[Page](https://arxiv.org/abs/2404.07206)]
 
+[arxiv 2024.04]HQ-Edit: A High-Quality Dataset for Instruction-based Image Editing [[PDF](https://arxiv.org/abs/2404.09990)]
+
+[arxiv 2024.04]MaxFusion: Plug&Play Multi-Modal Generation in Text-to-Image Diffusion Models [[PDF](https://arxiv.org/abs/2404.09977)]
+
+[arxiv 2024.04]Magic Clothing: Controllable Garment-Driven Image Synthesis [[PDF](https://arxiv.org/abs/2404.09512)]
+
+
+
 
 ## DiT 
 [arxiv 2024.03]Switch Diffusion Transformer: Synergizing Denoising Tasks with Sparse Mixture-of-Experts [[PDF](https://arxiv.org/abs/2403.09176),[Page](https://byeongjun-park.github.io/Switch-DiT/)]
@@ -543,6 +551,8 @@
 [arxiv 2024.04]MC2: Multi-concept Guidance for Customized Multi-concept Generation [[PDF](https://arxiv.org/abs/2404.05268)]
 
 [arxiv 2024.04]Strictly-ID-Preserved and Controllable Accessory Advertising Image Generation [[PDF](https://arxiv.org/abs/2404.04828)]
+
+[arxiv 2024.04]OneActor: Consistent Character Generation via Cluster-Conditioned Guidance [[PDF](https://arxiv.org/abs/2404.10267)]
 
 
 
@@ -824,6 +834,10 @@ Cross-Attention Control [[PDF](https://arxiv.org/abs/2402.13404)]
 
 [arxiv 2024.04]ControlNet++: Improving Conditional Controls with Efficient Consistency Feedback [[PDF](https://arxiv.org/abs/2404.07987),[Page](https://liming-ai.github.io/ControlNet_Plus_Plus)]
 
+[arxiv 2024.04]Salient Object-Aware Background Generation using Text-Guided Diffusion Models [[PDF](https://arxiv.org/abs/2404.10157)]
+
+[arxiv 2024.04]Ctrl-Adapter: An Efficient and Versatile Framework for Adapting Diverse Controls to Any Diffusion Model [[PDF](https://arxiv.org/abs/2404.09967), [Page](https://ctrl-adapter.github.io/)]
+
 
 ## Image Variation 
 [arxiv 2023.08]IP-Adapter: Text Compatible Image Prompt Adapter for Text-to-Image Diffusion Models [[PDF](https://arxiv.org/pdf/2308.06721.pdf), [Page](https://ip-adapter.github.io/)]
@@ -896,6 +910,8 @@ Cross-Attention Control [[PDF](https://arxiv.org/abs/2402.13404)]
 [arxiv 2024.04]DeeDSR: Towards Real-World Image Super-Resolution via Degradation-Aware Stable Diffusion [[PDF](https://arxiv.org/abs/2404.00661)]
 
 [arxiv 2024.04]BeyondScene: Higher-Resolution Human-Centric Scene Generation With Pretrained Diffusion [[PDF](https://arxiv.org/abs/2404.04544), [Page](https://janeyeon.github.io/beyond-scene)]
+
+
 
 
 
