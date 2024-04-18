@@ -1083,6 +1083,9 @@ Cross-Attention Control [[PDF](https://arxiv.org/abs/2402.13404)]
 
 [arxiv 2024.04]BinaryDM: Towards Accurate Binarization of Diffusion Model [[PDF](https://arxiv.org/abs/2404.05662), [Page](https://github.com/Xingyu-Zheng/BinaryDM)]
 
+[arxiv 2024.04]LAPTOP-Diff: Layer Pruning and Normalized Distillation for Compressing Diffusion Models [[PDF](https://arxiv.org/abs/2404.11098)]
+
+
 
 
 ## limited data 
