@@ -298,6 +298,9 @@
 
 [arxiv 2024.04]Magic Clothing: Controllable Garment-Driven Image Synthesis [[PDF](https://arxiv.org/abs/2404.09512)]
 
+[arxiv 2024.04]Factorized Diffusion: Perceptual Illusions by Noise Decomposition [[PDF](https://arxiv.org/abs/2404.11615),[Page](https://dangeng.github.io/factorized_diffusion/)]
+
+[arxiv 2024.04]TiNO-Edit: Timestep and Noise Optimization for Robust Diffusion-Based Image Editing [[PDF](https://arxiv.org/abs/2404.11120)]
 
 
 
@@ -558,6 +561,7 @@
 [arxiv 2024.04]OneActor: Consistent Character Generation via Cluster-Conditioned Guidance [[PDF](https://arxiv.org/abs/2404.10267)]
 
 
+[arxiv 2024.04] MoA: Mixture-of-Attention for Subject-Context Disentanglement in Personalized Image Generation [[PDF](https://arxiv.org/abs/2404.11565),[Page](https://snap-research.github.io/mixture-of-attention)]
 
 
 ## Story-telling
@@ -994,6 +998,9 @@ Cross-Attention Control [[PDF](https://arxiv.org/abs/2402.13404)]
 [arxiv 2024.04]Tuning-Free Adaptive Style Incorporation for Structure-Consistent Text-Driven Style Transfer [[PDF](https://arxiv.org/abs/2404.06835)]
 
 [arxiv 2024.04]DEADiff: An Efficient Stylization Diffusion Model with Disentangled Representations [[PDF](https://arxiv.org/abs/2403.06951),[Page](https://github.com/bytedance/DEADiff)]
+
+[arxiv 2024.04]Towards Highly Realistic Artistic Style Transfer via Stable Diffusion with Step-aware and Layer-aware Prompt [[PDF](https://arxiv.org/abs/2404.11474)]
+
 
 
 
