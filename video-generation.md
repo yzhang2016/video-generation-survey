@@ -670,6 +670,7 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2024.04]Sparse Global Matching for Video Frame Interpolation with Large Motion [[PDF](https://arxiv.org/abs/2404.06913),[Page](https://sgm-vfi.github.io/)]
 
+[arxiv 2024.04]LADDER: An Efficient Framework for Video Frame Interpolation [[PDF](https://arxiv.org/abs/2404.11108)]
 
 
 
