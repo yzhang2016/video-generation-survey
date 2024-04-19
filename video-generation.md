@@ -423,7 +423,7 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2024.03]Learning Spatial Adaptation and Temporal Coherence in Diffusion Models for Video Super-Resolution [[PDF](https://arxiv.org/abs/2403.17000)]
 
-
+[arxiv 2024.04]VideoGigaGAN: Towards Detail-rich Video Super-Resolution [[PDF](https://videogigagan.github.io/assets/paper.pdf), [Page](https://videogigagan.github.io/)]
 
 
 ## downstream apps
