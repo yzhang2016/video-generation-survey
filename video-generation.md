@@ -396,6 +396,8 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2024.04]CameraCtrl: Enabling Camera Control for Text-to-Video Generation [[PDF](https://arxiv.org/abs/2404.02101),[Page](https://hehao13.github.io/projects-CameraCtrl/)]
 
+[arxiv 2024.04]Customizing Text-to-Image Diffusion with Camera Viewpoint Control [[PDF](https://arxiv.org/abs/2404.12333),[Page](https://customdiffusion360.github.io/)]
+
 
 
 ## Video in/outpainting 
@@ -437,6 +439,7 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2024.03]Intention-driven Ego-to-Exo Video Generation [[PDF](https://arxiv.org/abs/2403.09194)]
 
+[arxiv 2024.04]PhysDreamer: Physics-Based Interaction with 3D Objects via Video Generation [[PDF](https://arxiv.org/abs/2404.13026),[Page](https://physdreamer.github.io/)]
 
 
 
@@ -458,6 +461,8 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 [arxiv 2024.02]Magic-Me: Identity-Specific Video Customized Diffusion [[PDf](https://arxiv.org/abs/2402.09368),[Page](https://magic-me-webpage.github.io/)]
 
 [arxiv 2024.03]EVA: Zero-shot Accurate Attributes and Multi-Object Video Editing [[PDF](https://arxiv.org/abs/2403.16111),[Page](https://knightyxp.github.io/EVA/)]
+
+[arxiv 2024.04]AniClipart: Clipart Animation with Text-to-Video Priors [[PDF](https://arxiv.org/abs/2404.12347),[Page](https://aniclipart.github.io/)]
 
 
 
@@ -651,6 +656,7 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2024.03]FRESCO: Spatial-Temporal Correspondence for Zero-Shot Video Translation [[PDF](https://arxiv.org/abs/2403.12962),[Page](https://www.mmlab-ntu.com/project/fresco/)]
 
+[arxiv 2024.04]GenVideo: One-shot Target-image and Shape Aware Video Editing using T2I Diffusion Models [[PDF](https://arxiv.org/abs/2404.12541)]
 
 
 
