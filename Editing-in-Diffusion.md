@@ -302,6 +302,15 @@
 
 [arxiv 2024.04]TiNO-Edit: Timestep and Noise Optimization for Robust Diffusion-Based Image Editing [[PDF](https://arxiv.org/abs/2404.11120)]
 
+[arxiv 2024.04]Lazy Diffusion Transformer for Interactive Image Editing [[PDF](https://arxiv.org/abs/2404.12382)]
+
+
+[arxiv 2024.04]FreeDiff: Progressive Frequency Truncation for Image Editing with Diffusion Models [[PDF](https://arxiv.org/abs/2404.11895)]
+
+
+
+
+
 
 
 ## DiT 
@@ -366,6 +375,10 @@
 [arxiv 2024.04]Dynamic Prompt Optimizing for Text-to-Image Generation [[PDF](https://arxiv.org/abs/2404.04095)]
 
 [arxiv 2024.04]Aligning Text-to-Image Diffusion Model with Image-to-Text Concept Matching [[PDF](https://arxiv.org/abs/2404.03653),[Page](https://caraj7.github.io/comat/)]
+
+
+
+
 
 
 ## Model adapatation 
@@ -1000,6 +1013,9 @@ Cross-Attention Control [[PDF](https://arxiv.org/abs/2402.13404)]
 [arxiv 2024.04]DEADiff: An Efficient Stylization Diffusion Model with Disentangled Representations [[PDF](https://arxiv.org/abs/2403.06951),[Page](https://github.com/bytedance/DEADiff)]
 
 [arxiv 2024.04]Towards Highly Realistic Artistic Style Transfer via Stable Diffusion with Step-aware and Layer-aware Prompt [[PDF](https://arxiv.org/abs/2404.11474)]
+
+
+[arxiv 2024.04]StyleBooth: Image Style Editing with Multimodal Instruction [[PDF](https://arxiv.org/abs/2404.12154)]
 
 
 
