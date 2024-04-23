@@ -304,11 +304,11 @@
 
 [arxiv 2024.04]Lazy Diffusion Transformer for Interactive Image Editing [[PDF](https://arxiv.org/abs/2404.12382)]
 
-
 [arxiv 2024.04]FreeDiff: Progressive Frequency Truncation for Image Editing with Diffusion Models [[PDF](https://arxiv.org/abs/2404.11895)]
 
+[arxiv 2024.04]GeoDiffuser: Geometry-Based Image Editing with Diffusion Models [[PDF](https://arxiv.org/abs/2404.14403)]
 
-
+[arxiv 2024.04]FLDM-VTON: Faithful Latent Diffusion Model for Virtual Try-on [[PDF](https://arxiv.org/abs/2404.14162)]
 
 
 
@@ -375,7 +375,6 @@
 [arxiv 2024.04]Dynamic Prompt Optimizing for Text-to-Image Generation [[PDF](https://arxiv.org/abs/2404.04095)]
 
 [arxiv 2024.04]Aligning Text-to-Image Diffusion Model with Image-to-Text Concept Matching [[PDF](https://arxiv.org/abs/2404.03653),[Page](https://caraj7.github.io/comat/)]
-
 
 
 
@@ -575,6 +574,12 @@
 
 
 [arxiv 2024.04] MoA: Mixture-of-Attention for Subject-Context Disentanglement in Personalized Image Generation [[PDF](https://arxiv.org/abs/2404.11565),[Page](https://snap-research.github.io/mixture-of-attention)]
+
+[arxiv 2024.04]MultiBooth: Towards Generating All Your Concepts in an Image from Text[[PDF](https://arxiv.org/abs/2404.14239),[Page](https://multibooth.github.io/)]
+
+[arxiv 2024.04]Infusion: Preventing Customized Text-to-Image Diffusion from Overfitting [[PDF](https://arxiv.org/abs/2404.14007)]
+
+
 
 
 ## Story-telling
@@ -931,6 +936,7 @@ Cross-Attention Control [[PDF](https://arxiv.org/abs/2402.13404)]
 
 [arxiv 2024.04]BeyondScene: Higher-Resolution Human-Centric Scene Generation With Pretrained Diffusion [[PDF](https://arxiv.org/abs/2404.04544), [Page](https://janeyeon.github.io/beyond-scene)]
 
+[arxiv 2024.04]LTOS: Layout-controllable Text-Object Synthesis via Adaptive Cross-attention Fusions [[PDF](https://arxiv.org/abs/2404.13579)]
 
 
 
@@ -1017,6 +1023,7 @@ Cross-Attention Control [[PDF](https://arxiv.org/abs/2402.13404)]
 
 [arxiv 2024.04]StyleBooth: Image Style Editing with Multimodal Instruction [[PDF](https://arxiv.org/abs/2404.12154)]
 
+[arxiv 2024.04]FilterPrompt: Guiding Image Transfer in Diffusion Models [[PDF](https://arxiv.org/abs/2404.13263)]
 
 
 
