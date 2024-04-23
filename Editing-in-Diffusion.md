@@ -310,7 +310,7 @@
 
 [arxiv 2024.04]FLDM-VTON: Faithful Latent Diffusion Model for Virtual Try-on [[PDF](https://arxiv.org/abs/2404.14162)]
 
-
+[arxiv 2024.03]Improving Diffusion Models for Authentic Virtual Try-on in the Wild [[PDF](https://arxiv.org/abs/2403.05139),[Page](https://idm-vton.github.io/)]
 
 
 ## DiT 
