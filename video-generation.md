@@ -513,6 +513,8 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2024.03]TRIP: Temporal Residual Learning with Image Noise Prior for Image-to-Video Diffusion Models [[PDF](https://arxiv.org/abs/2403.17005),[Page](https://trip-i2v.github.io/TRIP/)]
 
+[arxiv 2024.04]LASER: Tuning-Free LLM-Driven Attention Control for Efficient Text-conditioned Image-to-Animation [[PDF](https://arxiv.org/abs/2404.13558)]
+
 
 
 ## 4D generation 
@@ -530,6 +532,10 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 [arxiv 2023.09]Diverse and Aligned Audio-to-Video Generation via Text-to-Video Model Adaptation [[PDF](https://arxiv.org/abs/2309.16429)]
 
 [arxiv 2024.02]Seeing and Hearing Open-domain Visual-Audio Generation with Diffusion Latent Aligners [[PDF](https://arxiv.org/abs/2402.17723),[Page](https://yzxing87.github.io/Seeing-and-Hearing/)]
+
+
+[arxiv 2024.04]TAVGBench: Benchmarking Text to Audible-Video Generation [[PDF](https://arxiv.org/abs/2404.14381),[Page](https://github.com/OpenNLPLab/TAVGBench)]
+
 
 
 ## Video editing with video models 
@@ -677,6 +683,9 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 [arxiv 2024.04]Sparse Global Matching for Video Frame Interpolation with Large Motion [[PDF](https://arxiv.org/abs/2404.06913),[Page](https://sgm-vfi.github.io/)]
 
 [arxiv 2024.04]LADDER: An Efficient Framework for Video Frame Interpolation [[PDF](https://arxiv.org/abs/2404.11108)]
+
+[arxiv 2024.04]Motion-aware Latent Diffusion Models for Video Frame Interpolation [[PDF](https://arxiv.org/abs/2404.13534)]
+
 
 
 
