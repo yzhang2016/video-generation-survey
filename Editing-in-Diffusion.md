@@ -1108,6 +1108,8 @@ Cross-Attention Control [[PDF](https://arxiv.org/abs/2402.13404)]
 
 [arxiv 2024.04]LAPTOP-Diff: Layer Pruning and Normalized Distillation for Compressing Diffusion Models [[PDF](https://arxiv.org/abs/2404.11098)]
 
+[arxiv 2024.04]Hyper-SD: Trajectory Segmented Consistency Model for Efficient Image Synthesis [[PDF](https://arxiv.org/abs/2404.13686)]
+
 
 
 
