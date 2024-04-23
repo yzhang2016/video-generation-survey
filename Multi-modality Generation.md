@@ -34,4 +34,5 @@
 
 [arxiv 2024.03]LLaVA-PruMerge: Adaptive Token Reduction for Efficient Large Multimodal Models [[PDF](https://arxiv.org/abs/2403.15388),[Page](https://llava-prumerge.github.io/)]
 
+[arxiv 2024.04]SEED-X: Multimodal Models with Unified Multi-granularity Comprehension and Generation [[PDF](https://arxiv.org/abs/2404.14396)]
 
