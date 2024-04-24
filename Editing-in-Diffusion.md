@@ -376,6 +376,7 @@
 
 [arxiv 2024.04]Aligning Text-to-Image Diffusion Model with Image-to-Text Concept Matching [[PDF](https://arxiv.org/abs/2404.03653),[Page](https://caraj7.github.io/comat/)]
 
+[arxiv 2024.04]Align Your Steps: Optimizing Sampling Schedules in Diffusion Models [[PDF](https://arxiv.org/abs/2404.14507),[Page](https://research.nvidia.com/labs/toronto-ai/AlignYourSteps/)]
 
 
 
@@ -579,6 +580,7 @@
 
 [arxiv 2024.04]Infusion: Preventing Customized Text-to-Image Diffusion from Overfitting [[PDF](https://arxiv.org/abs/2404.14007)]
 
+[arxiv 2024.04]UVMap-ID: A Controllable and Personalized UV Map Generative Model [[PDF](https://arxiv.org/abs/2404.14568)]
 
 
 
@@ -862,6 +864,11 @@ Cross-Attention Control [[PDF](https://arxiv.org/abs/2402.13404)]
 [arxiv 2024.04]Salient Object-Aware Background Generation using Text-Guided Diffusion Models [[PDF](https://arxiv.org/abs/2404.10157)]
 
 [arxiv 2024.04]Ctrl-Adapter: An Efficient and Versatile Framework for Adapting Diverse Controls to Any Diffusion Model [[PDF](https://arxiv.org/abs/2404.09967), [Page](https://ctrl-adapter.github.io/)]
+
+[arxiv 2024.04]Enhancing Prompt Following with Visual Control Through Training-Free Mask-Guided Diffusion [[PDF](https://arxiv.org/abs/2404.14768)]
+
+
+
 
 
 ## Image Variation 
