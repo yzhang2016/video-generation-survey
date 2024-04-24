@@ -464,6 +464,7 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2024.04]AniClipart: Clipart Animation with Text-to-Video Priors [[PDF](https://arxiv.org/abs/2404.12347),[Page](https://aniclipart.github.io/)]
 
+[arxiv 2024.04]ID-Animator: Zero-Shot Identity-Preserving Human Video Generation [[PDF](),[Page](https://id-animator.github.io/)]
 
 
 
