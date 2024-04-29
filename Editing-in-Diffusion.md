@@ -312,6 +312,11 @@
 
 [arxiv 2024.03]Improving Diffusion Models for Authentic Virtual Try-on in the Wild [[PDF](https://arxiv.org/abs/2403.05139),[Page](https://idm-vton.github.io/)]
 
+[arxiv 2024.04]MV-VTON: Multi-View Virtual Try-On with Diffusion Models [[PDF](https://arxiv.org/abs/2404.17364)]
+
+
+
+
 
 ## DiT 
 [arxiv 2024.03]Switch Diffusion Transformer: Synergizing Denoising Tasks with Sparse Mixture-of-Experts [[PDF](https://arxiv.org/abs/2403.09176),[Page](https://byeongjun-park.github.io/Switch-DiT/)]
@@ -377,6 +382,7 @@
 [arxiv 2024.04]Aligning Text-to-Image Diffusion Model with Image-to-Text Concept Matching [[PDF](https://arxiv.org/abs/2404.03653),[Page](https://caraj7.github.io/comat/)]
 
 [arxiv 2024.04]Align Your Steps: Optimizing Sampling Schedules in Diffusion Models [[PDF](https://arxiv.org/abs/2404.14507),[Page](https://research.nvidia.com/labs/toronto-ai/AlignYourSteps/)]
+
 
 
 
@@ -581,6 +587,11 @@
 [arxiv 2024.04]Infusion: Preventing Customized Text-to-Image Diffusion from Overfitting [[PDF](https://arxiv.org/abs/2404.14007)]
 
 [arxiv 2024.04]UVMap-ID: A Controllable and Personalized UV Map Generative Model [[PDF](https://arxiv.org/abs/2404.14568)]
+
+[arxix 2024.04]ConsistentID: Portrait Generation with Multimodal Fine-Grained Identity Preserving [[PDF](https://arxiv.org/abs/2404.16771),[Page](https://ssugarwh.github.io/consistentid.github.io/)]
+
+
+
 
 
 
@@ -867,7 +878,7 @@ Cross-Attention Control [[PDF](https://arxiv.org/abs/2402.13404)]
 
 [arxiv 2024.04]Enhancing Prompt Following with Visual Control Through Training-Free Mask-Guided Diffusion [[PDF](https://arxiv.org/abs/2404.14768)]
 
-
+[arxiv 2024.04]ObjectAdd: Adding Objects into Image via a Training-Free Diffusion Modification Fashion [[PDF](https://arxiv.org/abs/2404.17230)]
 
 
 
