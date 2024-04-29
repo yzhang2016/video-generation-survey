@@ -441,6 +441,8 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2024.04]PhysDreamer: Physics-Based Interaction with 3D Objects via Video Generation [[PDF](https://arxiv.org/abs/2404.13026),[Page](https://physdreamer.github.io/)]
 
+[arxiv 2024.04]Tunnel Try-on: Excavating Spatial-temporal Tunnels for High-quality Virtual Try-on in Videos [[PDF](https://arxiv.org/abs/2404.17571),[Page](https://mengtingchen.github.io/tunnel-try-on-page/)]
+
 
 
 ## Video Concept 
