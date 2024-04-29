@@ -590,8 +590,9 @@
 
 [arxix 2024.04]ConsistentID: Portrait Generation with Multimodal Fine-Grained Identity Preserving [[PDF](https://arxiv.org/abs/2404.16771),[Page](https://ssugarwh.github.io/consistentid.github.io/)]
 
+[arxiv 2024.04]PuLID: Pure and Lightning ID Customization via Contrastive Alignment [[PDF](https://arxiv.org/abs/2404.16022), [Page](https://github.com/ToTheBeginning/PuLID)]
 
-
+[arxiv 2024.04]CharacterFactory: Sampling Consistent Characters with GANs for Diffusion Models [[PDF](https://arxiv.org/abs/2404.15677), [Page](https://github.com/qinghew/CharacterFactory)]
 
 
 
