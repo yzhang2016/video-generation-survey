@@ -398,6 +398,8 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2024.04]Customizing Text-to-Image Diffusion with Camera Viewpoint Control [[PDF](https://arxiv.org/abs/2404.12333),[Page](https://customdiffusion360.github.io/)]
 
+[arxiv 2024.04]MotionMaster: Training-free Camera Motion Transfer For Video Generation[[PDF](https://arxiv.org/abs/2404.15789)]
+
 
 
 ## Video in/outpainting 
@@ -520,6 +522,9 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 [arxiv 2024.03]TRIP: Temporal Residual Learning with Image Noise Prior for Image-to-Video Diffusion Models [[PDF](https://arxiv.org/abs/2403.17005),[Page](https://trip-i2v.github.io/TRIP/)]
 
 [arxiv 2024.04]LASER: Tuning-Free LLM-Driven Attention Control for Efficient Text-conditioned Image-to-Animation [[PDF](https://arxiv.org/abs/2404.13558)]
+
+[arxiv 2024.04]TI2V-Zero: Zero-Shot Image Conditioning for Text-to-Video Diffusion Models [[PDF](https://arxiv.org/abs/2404.16306),[Page](https://merl.com/research/highlights/TI2V-Zero)]
+
 
 
 
