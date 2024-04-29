@@ -411,6 +411,9 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2024.03]Be-Your-Outpainter: Mastering Video Outpainting through Input-Specific Adaptation [[PDF](https://arxiv.org/abs/2403.13745),[Page](https://github.com/G-U-N/Be-Your-Outpainter)]
 
+[arxiv 2024.04]AudioScenic: Audio-Driven Video Scene Editing [[PDF](https://arxiv.org/abs/2404.16581)]
+
+
 
 
 ## Video Quality 
