@@ -383,6 +383,7 @@
 
 [arxiv 2024.04]Align Your Steps: Optimizing Sampling Schedules in Diffusion Models [[PDF](https://arxiv.org/abs/2404.14507),[Page](https://research.nvidia.com/labs/toronto-ai/AlignYourSteps/)]
 
+[arxiv 2024.04]Stylus: Automatic Adapter Selection for Diffusion Models [[PDF](https://arxiv.org/abs/2404.18928),[Page](https://stylus-diffusion.github.io/)]
 
 
 
@@ -593,6 +594,9 @@
 [arxiv 2024.04]PuLID: Pure and Lightning ID Customization via Contrastive Alignment [[PDF](https://arxiv.org/abs/2404.16022), [Page](https://github.com/ToTheBeginning/PuLID)]
 
 [arxiv 2024.04]CharacterFactory: Sampling Consistent Characters with GANs for Diffusion Models [[PDF](https://arxiv.org/abs/2404.15677), [Page](https://github.com/qinghew/CharacterFactory)]
+
+[arxiv 2024.04]TheaterGen: Character Management with LLM for Consistent Multi-turn Image Generation [[PDF](https://arxiv.org/abs/2404.18919),[Page](https://howe140.github.io/theatergen.io/)]
+
 
 
 
@@ -880,6 +884,10 @@ Cross-Attention Control [[PDF](https://arxiv.org/abs/2402.13404)]
 [arxiv 2024.04]Enhancing Prompt Following with Visual Control Through Training-Free Mask-Guided Diffusion [[PDF](https://arxiv.org/abs/2404.14768)]
 
 [arxiv 2024.04]ObjectAdd: Adding Objects into Image via a Training-Free Diffusion Modification Fashion [[PDF](https://arxiv.org/abs/2404.17230)]
+
+[arxiv 2024.04]Anywhere: A Multi-Agent Framework for Reliable and Diverse Foreground-Conditioned Image Inpainting [[PDF](https://arxiv.org/abs/2404.18598),[Page](https://anywheremultiagent.github.io/)]
+
+[arxiv 2024.04]Paint by Inpaint: Learning to Add Image Objects by Removing Them First [[PDF](https://arxiv.org/abs/2404.18212), [Page](https://rotsteinnoam.github.io/Paint-by-Inpaint/)]
 
 
 
