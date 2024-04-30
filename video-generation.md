@@ -312,6 +312,9 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2024.03]StreamingT2V: Consistent, Dynamic, and Extendable Long Video Generation from Text [[PDF](https://arxiv.org/abs/2403.14773)]
 
+[arxiv 2024.04]FlexiFilm: Long Video Generation with Flexible Conditions [[PDF](https://arxiv.org/abs/2404.18620)]
+
+
 
 
 ## Higher Resolution 
@@ -697,6 +700,7 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2024.04]Motion-aware Latent Diffusion Models for Video Frame Interpolation [[PDF](https://arxiv.org/abs/2404.13534)]
 
+[arxiv 2024.04]Event-based Video Frame Interpolation with Edge Guided Motion Refinement [[PDF](https://arxiv.org/abs/2404.18156)]
 
 
 
