@@ -316,6 +316,11 @@
 
 [arxiv 2024.04]LocInv: Localization-aware Inversion for Text-Guided Image Editing [[PDF](https://arxiv.org/abs/2405.01496)]
 
+[arxiv 2024.05]SonicDiffusion: Audio-Driven Image Generation and Editing with Pretrained Diffusion Models[[PDF](https://arxiv.org/abs/2405.00878)]
+
+[arxiv 2024.05]MMTryon: Multi-Modal Multi-Reference Control for High-Quality Fashion Generation [[PDF(https://arxiv.org/abs/2405.00448)]
+
+[arxiv 2024.05]Streamlining Image Editing with Layered Diffusion Brushes [[PDF](https://arxiv.org/abs/2405.00313)]
 
 
 
@@ -386,6 +391,7 @@
 
 [arxiv 2024.04]Stylus: Automatic Adapter Selection for Diffusion Models [[PDF](https://arxiv.org/abs/2404.18928),[Page](https://stylus-diffusion.github.io/)]
 
+[arxiv 2024.05]Deep Reward Supervisions for Tuning Text-to-Image Diffusion Models [[PDF](https://arxiv.org/abs/2405.00760)]
 
 
 
@@ -598,7 +604,14 @@
 
 [arxiv 2024.04]TheaterGen: Character Management with LLM for Consistent Multi-turn Image Generation [[PDF](https://arxiv.org/abs/2404.18919),[Page](https://howe140.github.io/theatergen.io/)]
 
-[arxiv 2024.04]Customizing Text-to-Image Models with a Single Image Pair[[PDF](https://arxiv.org/abs/2405.01536),[Page](https://paircustomization.github.io/)]
+[arxiv 2024.05]Customizing Text-to-Image Models with a Single Image Pair[[PDF](https://arxiv.org/abs/2405.01536),[Page](https://paircustomization.github.io/)]
+
+[arxiv 2024.05]InstantFamily: Masked Attention for Zero-shot Multi-ID Image Generation [[PDF](https://arxiv.org/abs/2404.19427)]
+
+
+
+
+
 
 
 ## Story-telling
