@@ -314,6 +314,7 @@
 
 [arxiv 2024.04]MV-VTON: Multi-View Virtual Try-On with Diffusion Models [[PDF](https://arxiv.org/abs/2404.17364)]
 
+[arxiv 2024.04]LocInv: Localization-aware Inversion for Text-Guided Image Editing [[PDF](https://arxiv.org/abs/2405.01496)]
 
 
 
@@ -597,7 +598,7 @@
 
 [arxiv 2024.04]TheaterGen: Character Management with LLM for Consistent Multi-turn Image Generation [[PDF](https://arxiv.org/abs/2404.18919),[Page](https://howe140.github.io/theatergen.io/)]
 
-
+[arxiv 2024.04]Customizing Text-to-Image Models with a Single Image Pair[[PDF](https://arxiv.org/abs/2405.01536),[Page](https://paircustomization.github.io/)]
 
 
 ## Story-telling
