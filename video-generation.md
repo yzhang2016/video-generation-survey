@@ -338,6 +338,8 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2024.03]AesopAgent: Agent-driven Evolutionary System on Story-to-Video Production [[PDF](https://arxiv.org/abs/2403.07952),[Page](https://aesopai.github.io/)]
 
+[arxiv 2024.04]StoryDiffusion: Consistent Self-Attention for Long-Range Image and Video Generation [[PDF](https://arxiv.org/abs/2405.01434),[Page](https://github.com/HVision-NKU/StoryDiffusion)]
+
 
 
 ## :point_right: Controllable Video Generation 
@@ -417,6 +419,8 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 [arxiv 2024.03]Be-Your-Outpainter: Mastering Video Outpainting through Input-Specific Adaptation [[PDF](https://arxiv.org/abs/2403.13745),[Page](https://github.com/G-U-N/Be-Your-Outpainter)]
 
 [arxiv 2024.04]AudioScenic: Audio-Driven Video Scene Editing [[PDF](https://arxiv.org/abs/2404.16581)]
+
+[arxiv 2024.05]Semantically Consistent Video Inpainting with Conditional Diffusion Models [[PDF(https://arxiv.org/abs/2405.00251)]
 
 
 
@@ -701,6 +705,9 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 [arxiv 2024.04]Motion-aware Latent Diffusion Models for Video Frame Interpolation [[PDF](https://arxiv.org/abs/2404.13534)]
 
 [arxiv 2024.04]Event-based Video Frame Interpolation with Edge Guided Motion Refinement [[PDF](https://arxiv.org/abs/2404.18156)]
+
+[arxiv 2024.04]StoryDiffusion: Consistent Self-Attention for Long-Range Image and Video Generation [[PDF](https://arxiv.org/abs/2405.01434),[Page](https://github.com/HVision-NKU/StoryDiffusion)]
+
 
 
 
