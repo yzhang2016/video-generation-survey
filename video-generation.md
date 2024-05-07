@@ -267,6 +267,10 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2024.04]MagicTime: Time-lapse Video Generation Models as Metamorphic Simulators [[PDF](https://arxiv.org/abs/2404.05014)]
 
+[arxiv 2024.05]Matten: Video Generation with Mamba-Attention [[PDF](https://arxiv.org/abs/2405.03025)]
+
+
+
 
 
 ## LLMs-based 
@@ -761,6 +765,8 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 ## Survey
 [arxiv 2023.03]A Survey on Video Diffusion Models [[PDF](https://arxiv.org/abs/2310.10647)]
 
+[arxiv 2024.05]Video Diffusion Models: A Survey [[PDF](https://arxiv.org/abs/2405.03150)]
+
 
 
 ## Evaluation 
@@ -820,6 +826,10 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 [arxiv 2023.02 Google]Scaling Vision Transformers to 22 Billion Parameters [[PDF](https://arxiv.org/abs/2302.05442)]
 
 [arxiv 2023.05]VDT: An Empirical Study on Video Diffusion with Transformers [[PDF](https://arxiv.org/abs/2305.13311), [code](https://github.com/RERV/VDT)]
+
+
+
+
 
 
 ## NLP related
