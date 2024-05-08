@@ -393,6 +393,8 @@
 
 [arxiv 2024.05]Deep Reward Supervisions for Tuning Text-to-Image Diffusion Models [[PDF](https://arxiv.org/abs/2405.00760)]
 
+[arxiv 2024.05]Simple Drop-in LoRA Conditioning on Attention Layers Will Improve Your Diffusion Model [[PDF](https://arxiv.org/abs/2405.03958)]
+
 
 
 ## Model adapatation 
