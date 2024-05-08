@@ -269,6 +269,7 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2024.05]Matten: Video Generation with Mamba-Attention [[PDF](https://arxiv.org/abs/2405.03025)]
 
+[arxiv 2024.05]Vidu: a Highly Consistent, Dynamic and Skilled Text-to-Video Generator with Diffusion Models [[PDF](https://arxiv.org/abs/2405.04233),[Page](https://www.shengshu-ai.com/vidu)]
 
 
 
@@ -686,6 +687,7 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2024.04]GenVideo: One-shot Target-image and Shape Aware Video Editing using T2I Diffusion Models [[PDF](https://arxiv.org/abs/2404.12541)]
 
+[arxiv 2024.05]Edit-Your-Motion: Space-Time Diffusion Decoupling Learning for Video Motion Editing [[PDF](https://arxiv.org/abs/2405.04496),[Page](https://github.com/yiiizuo/Edit-Your-Motion)]
 
 
 ## :point_right: Video Completion (animation, interpolation, prediction)
