@@ -299,6 +299,8 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 ## multi-prompt 
 [arxiv 2023.12]MTVG : Multi-text Video Generation with Text-to-Video Models [[PDF](https://arxiv.org/abs/2312.04086)]
 
+[arxiv 2024.05]TALC: Time-Aligned Captions for Multi-Scene Text-to-Video Generation [[PDF](https://arxiv.org/abs/2405.04682),[Page](https://talc-mst2v.github.io/)]
+
 
 
 ## long video generation 
