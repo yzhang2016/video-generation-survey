@@ -395,6 +395,9 @@
 
 [arxiv 2024.05]Simple Drop-in LoRA Conditioning on Attention Layers Will Improve Your Diffusion Model [[PDF](https://arxiv.org/abs/2405.03958)]
 
+[arxiv 2024.05]Attention-Driven Training-Free Efficiency Enhancement of Diffusion Models [[PDF](https://arxiv.org/abs/2405.05252)]
+
+
 
 
 ## Model adapatation 
@@ -904,6 +907,9 @@ Cross-Attention Control [[PDF](https://arxiv.org/abs/2402.13404)]
 [arxiv 2024.04]Anywhere: A Multi-Agent Framework for Reliable and Diverse Foreground-Conditioned Image Inpainting [[PDF](https://arxiv.org/abs/2404.18598),[Page](https://anywheremultiagent.github.io/)]
 
 [arxiv 2024.04]Paint by Inpaint: Learning to Add Image Objects by Removing Them First [[PDF](https://arxiv.org/abs/2404.18212), [Page](https://rotsteinnoam.github.io/Paint-by-Inpaint/)]
+
+[arxiv 2024.05]FlexEControl: Flexible and Efficient Multimodal Control for Text-to-Image Generation [[PDF](https://arxiv.org/abs/2405.04834)]
+
 
 
 
