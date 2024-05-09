@@ -136,7 +136,6 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [CVPR 2019; CVL ETH] **---SWGAN---** Sliced Wasserstein Generative Models \[[PDF](https://openaccess.thecvf.com/content_CVPR_2019/papers/Wu_Sliced_Wasserstein_Generative_Models_CVPR_2019_paper.pdf), [code](https://github.com/skolouri/swae) \]
 
-
 [NIPS 2019; NVLabs] **---vid2vid---** Few-shot Video-to-Video Synthesis \[[PDF](https://nvlabs.github.io/few-shot-vid2vid/main.pdf), [code](https://github.com/NVlabs/few-shot-vid2vid) \]
 
 [arxiv 2020; Deepmind] **---DVD-GAN---** ADVERSARIAL VIDEO GENERATION ON COMPLEX DATASETS \[[PDF](https://arxiv.org/pdf/1907.06571.pdf), [code](https://github.com/Harrypotterrrr/DVD-GAN) \]
@@ -829,7 +828,7 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2023.05]VDT: An Empirical Study on Video Diffusion with Transformers [[PDF](https://arxiv.org/abs/2305.13311), [code](https://github.com/RERV/VDT)]
 
-
+[arxiv 2024] MAGVIT-V2 : Language Model Beats Diffusion -- Tokenizer is Key to Visual Generation [[PDF](https://arxiv.org/abs/2310.05737)]
 
 
 
