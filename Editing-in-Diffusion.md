@@ -399,6 +399,11 @@
 
 
 
+## Distill Diffusion Model 
+[arxiv 2024.05]Distilling Diffusion Models into Conditional GANs [[PDF](https://arxiv.org/abs/2405.05967),[Page](https://mingukkang.github.io/Diffusion2GAN/)]
+
+
+
 
 ## Model adapatation 
 [arxiv 2023.12]X-Adapter: Adding Universal Compatibility of Plugins for Upgraded Diffusion Model [[PDF](https://arxiv.org/abs/2312.02238),[Page](https://showlab.github.io/X-Adapter/)]
@@ -613,6 +618,7 @@
 
 [arxiv 2024.05]InstantFamily: Masked Attention for Zero-shot Multi-ID Image Generation [[PDF](https://arxiv.org/abs/2404.19427)]
 
+[arxiv 2024.05]MasterWeaver: Taming Editability and Identity for Personalized Text-to-Image Generation [[PDF](https://arxiv.org/abs/2405.05806),[Page](https://github.com/csyxwei/MasterWeaver)]
 
 
 
