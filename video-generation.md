@@ -244,7 +244,7 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2023.12]Photorealistic Video Generation with Diffusion Models [[PDF](https://arxiv.org/abs/2312.06662),[Page](https://walt-video-diffusion.github.io/)]
 
-[arxiv 2023.12]A Recipe for Scaling up Text-to-Video Generation with Text-free Videos [[PDF](A Recipe for Scaling up Text-to-Video Generation with Text-free Videos),[Page](https://tf-t2v.github.io/)]
+[arxiv 2023.12]A Recipe for Scaling up Text-to-Video Generation with Text-free Videos [[PDF](https://arxiv.org/abs/2312.15770),[Page](https://tf-t2v.github.io/)]
 
 [arxiv 2023.12]MagicVideo-V2: Multi-Stage High-Aesthetic Video Generation [[PDF](https://arxiv.org/pdf/2401.04468.pdf), [Page](https://magicvideov2.github.io/)]
 
