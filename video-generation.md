@@ -715,7 +715,7 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2024.04]StoryDiffusion: Consistent Self-Attention for Long-Range Image and Video Generation [[PDF](https://arxiv.org/abs/2405.01434),[Page](https://github.com/HVision-NKU/StoryDiffusion)]
 
-
+[arxiv 2024.04]Frame Interpolation with Consecutive Brownian Bridge Diffusion[[PDF](https://arxiv.org/abs/2405.05953),[Page](https://zonglinl.github.io/videointerp/)]
 
 
 ## motion transfer 
