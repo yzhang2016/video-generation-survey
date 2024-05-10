@@ -270,6 +270,7 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2024.05]Vidu: a Highly Consistent, Dynamic and Skilled Text-to-Video Generator with Diffusion Models [[PDF](https://arxiv.org/abs/2405.04233),[Page](https://www.shengshu-ai.com/vidu)]
 
+[arxiv 2024.05]Lumina-T2X: Transforming Text into Any Modality, Resolution, and Duration via Flow-based Large Diffusion Transformers [[PDF](https://arxiv.org/abs/2405.05945),[Page](https://github.com/Alpha-VLLM/Lumina-T2X)]
 
 
 
