@@ -61,6 +61,9 @@
 
 [arxiv 2024.04]CosmicMan: A Text-to-Image Foundation Model for Humans [[PDF](https://arxiv.org/abs/2404.01294),[Page](https://cosmicman-cvpr2024.github.io/)]
 
+[arxiv 2024.05] Hunyuan-DiT : A Powerful Multi-Resolution Diffusion Transformer with Fine-Grained Chinese Understanding [[PDF](https://tencent.github.io/HunyuanDiT/asset/Hunyuan_DiT_Tech_Report_05140553.pdf),[Page](https://github.com/Tencent/HunyuanDiT?tab=readme-ov-file)]
+
+
 
 ## GAN/VAE/Transformer-based 
 
