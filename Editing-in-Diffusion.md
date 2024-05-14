@@ -620,8 +620,9 @@
 
 [arxiv 2024.05]MasterWeaver: Taming Editability and Identity for Personalized Text-to-Image Generation [[PDF](https://arxiv.org/abs/2405.05806),[Page](https://github.com/csyxwei/MasterWeaver)]
 
+[arxiv 2024.05]Training-free Subject-Enhanced Attention Guidance for Compositional Text-to-image Generation [[PDF](https://arxiv.org/abs/2405.06948)]
 
-
+[arxiv  2024.05]Non-confusing Generation of Customized Concepts in Diffusion Models [[PDF](https://arxiv.org/abs/2405.06914),[Page](https://clif-official.github.io/clif/)]
 
 
 
@@ -916,7 +917,7 @@ Cross-Attention Control [[PDF](https://arxiv.org/abs/2402.13404)]
 
 [arxiv 2024.05]FlexEControl: Flexible and Efficient Multimodal Control for Text-to-Image Generation [[PDF](https://arxiv.org/abs/2405.04834)]
 
-
+[arxiv 2024.05]CTRLorALTer: Conditional LoRAdapter for Efficient 0-Shot Control & Altering of T2I Models [[PDF](https://arxiv.org/abs/2405.07913),[Page](https://compvis.github.io/LoRAdapter/)]
 
 
 ## Image Variation 
@@ -993,6 +994,7 @@ Cross-Attention Control [[PDF](https://arxiv.org/abs/2402.13404)]
 
 [arxiv 2024.04]LTOS: Layout-controllable Text-Object Synthesis via Adaptive Cross-attention Fusions [[PDF](https://arxiv.org/abs/2404.13579)]
 
+[arxiv 2024.05]CDFormer:When Degradation Prediction Embraces Diffusion Model for Blind Image Super-Resolution [[PDF](https://arxiv.org/abs/2405.07648)]
 
 
 
