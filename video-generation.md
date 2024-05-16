@@ -347,6 +347,9 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2024.04]StoryDiffusion: Consistent Self-Attention for Long-Range Image and Video Generation [[PDF](https://arxiv.org/abs/2405.01434),[Page](https://github.com/HVision-NKU/StoryDiffusion)]
 
+[arxiv 2024.05]The Lost Melody: Empirical Observations on Text-to-Video Generation From A Storytelling Perspective [[PDF](https://arxiv.org/abs/2405.08720)]
+
+
 
 
 ## :point_right: Controllable Video Generation 
@@ -461,6 +464,9 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 [arxiv 2024.04]PhysDreamer: Physics-Based Interaction with 3D Objects via Video Generation [[PDF](https://arxiv.org/abs/2404.13026),[Page](https://physdreamer.github.io/)]
 
 [arxiv 2024.04]Tunnel Try-on: Excavating Spatial-temporal Tunnels for High-quality Virtual Try-on in Videos [[PDF](https://arxiv.org/abs/2404.17571),[Page](https://mengtingchen.github.io/tunnel-try-on-page/)]
+
+[arxiv 2024.04]Dance Any Beat: Blending Beats with Visuals in Dance Video Generation [[PDF](https://arxiv.org/abs/2405.09266), [Page](https://dabfusion.github.io/)]
+
 
 
 
