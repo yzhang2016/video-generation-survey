@@ -322,6 +322,8 @@
 
 [arxiv 2024.05]Streamlining Image Editing with Layered Diffusion Brushes [[PDF](https://arxiv.org/abs/2405.00313)]
 
+[arxiv 2024.05]SOEDiff: Efficient Distillation for Small Object Editing [[PDF](https://arxiv.org/abs/2405.09114)]
+
 
 
 ## DiT 
