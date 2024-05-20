@@ -324,6 +324,7 @@
 
 [arxiv 2024.05]SOEDiff: Efficient Distillation for Small Object Editing [[PDF](https://arxiv.org/abs/2405.09114)]
 
+[arxiv 2024.05]Analogist: Out-of-the-box Visual In-Context Learning with Image Diffusion Model [[PDF](https://arxiv.org/abs/2405.10316),[Page](https://analogist2d.github.io/)]
 
 
 ## DiT 
@@ -997,6 +998,9 @@ Cross-Attention Control [[PDF](https://arxiv.org/abs/2402.13404)]
 [arxiv 2024.04]LTOS: Layout-controllable Text-Object Synthesis via Adaptive Cross-attention Fusions [[PDF](https://arxiv.org/abs/2404.13579)]
 
 [arxiv 2024.05]CDFormer:When Degradation Prediction Embraces Diffusion Model for Blind Image Super-Resolution [[PDF](https://arxiv.org/abs/2405.07648)]
+
+[arxiv 2024.05]Frequency-Domain Refinement with Multiscale Diffusion for Super Resolution [[PDF](https://arxiv.org/abs/2405.10014)]
+
 
 
 
