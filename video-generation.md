@@ -60,7 +60,7 @@ A reading list of video generation
   
 * **Haiper** [[Page](https://app.haiper.ai/explore)]
 
-
+* **vivago.ai**[[Page](https://vivago.ai/video)]
 
 ### Translation 
 * **Goenhance.ai**[[Page](https://www.goenhance.ai/)]
