@@ -326,6 +326,15 @@
 
 [arxiv 2024.05]Analogist: Out-of-the-box Visual In-Context Learning with Image Diffusion Model [[PDF](https://arxiv.org/abs/2405.10316),[Page](https://analogist2d.github.io/)]
 
+[arxiv 2024.05]Face Adapter for Pre-Trained Diffusion Models with Fine-Grained ID and Attribute Control [[PDF](https://arxiv.org/abs/2405.12970),[Page](https://faceadapter.github.io/face-adapter.github.io/)]
+
+
+[arxiv 2024.05] EmoEdit: Evoking Emotions through Image Manipulation  [[PDF](https://arxiv.org/abs/2405.12661)]
+
+[arxiv 2024.05]   [[PDF](),[Page]()]
+
+
+
 
 ## DiT 
 [arxiv 2024.03]Switch Diffusion Transformer: Synergizing Denoising Tasks with Sparse Mixture-of-Experts [[PDF](https://arxiv.org/abs/2403.09176),[Page](https://byeongjun-park.github.io/Switch-DiT/)]
@@ -400,6 +409,11 @@
 
 [arxiv 2024.05]Attention-Driven Training-Free Efficiency Enhancement of Diffusion Models [[PDF](https://arxiv.org/abs/2405.05252)]
 
+[arxiv 2024.05]An Empirical Study and Analysis of Text-to-Image Generation Using Large Language Model-Powered Textual Representation [[PDF](https://arxiv.org/abs/2405.12914)]
+
+
+
+
 
 
 ## Distill Diffusion Model 
@@ -418,6 +432,10 @@
 [arxiv 2023.12]Brush Your Text: Synthesize Any Scene Text on Images via Diffusion Model [[PDF](https://arxiv.org/abs/2312.12232)]
 
 [arxiv 2024.04]Glyph-ByT5: A Customized Text Encoder for Accurate Visual Text Rendering [[PDF](https://arxiv.org/abs/2403.09622),[Page](https://glyph-byt5.github.io/)]
+
+[arxiv 2024.05] CustomText: Customized Textual Image Generation using Diffusion Models [[PDF](https://arxiv.org/abs/2405.12531)]
+
+[arxiv 2024.05]    [[PDF](), [Page]()]
 
 
 ## face swapping 
@@ -626,6 +644,10 @@
 [arxiv 2024.05]Training-free Subject-Enhanced Attention Guidance for Compositional Text-to-image Generation [[PDF](https://arxiv.org/abs/2405.06948)]
 
 [arxiv  2024.05]Non-confusing Generation of Customized Concepts in Diffusion Models [[PDF](https://arxiv.org/abs/2405.06914),[Page](https://clif-official.github.io/clif/)]
+
+[arxiv 2024.05]Personalized Residuals for Concept-Driven Text-to-Image Generation [[PDF](https://arxiv.org/abs/2405.12978),[Page](https://cusuh.github.io/personalized-residuals/)]
+
+
 
 
 
