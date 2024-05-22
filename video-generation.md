@@ -334,7 +334,7 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2024.1]360DVD: Controllable Panorama Video Generation with 360-Degree Video Diffusion Model [[PDF](https://arxiv.org/abs/2401.06578)]
 
-## Video Story 
+## Video Story /  Concept 
 [arxiv 2023.05]TaleCrafter: Interactive Story Visualization with Multiple Characters [[PDF](https://arxiv.org/abs/2305.18247), [Page](https://videocrafter.github.io/TaleCrafter/)]
 
 [arxiv 2023.07]Animate-A-Story: Storytelling with Retrieval-Augmented Video Generation [[PDF](https://arxiv.org/abs/2307.06940), [Page](https://videocrafter.github.io/Animate-A-Story)]
@@ -349,7 +349,9 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2024.05]The Lost Melody: Empirical Observations on Text-to-Video Generation From A Storytelling Perspective [[PDF](https://arxiv.org/abs/2405.08720)]
 
+[arxiv 2024.05]DisenStudio: Customized Multi-subject Text-to-Video Generation with Disentangled Spatial Control [[PDF](https://arxiv.org/abs/2405.12796),[Page](https://forchchch.github.io/disenstudio.github.io/)]
 
+[arxiv 2024.05]  [[PDF](),[Page]()]
 
 
 ## :point_right: Controllable Video Generation 
