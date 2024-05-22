@@ -321,7 +321,10 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2024.04]FlexiFilm: Long Video Generation with Flexible Conditions [[PDF](https://arxiv.org/abs/2404.18620)]
 
+[arxiv 2024.05] FIFO-Diffusion: Generating Infinite Videos from Text without Training [[PDF](https://arxiv.org/abs/2405.11473),[Page](https://jjihwan.github.io/projects/FIFO-Diffusion)]
 
+
+[arxiv 2024.05]   [[PDF](),[Page]()]
 
 
 ## Higher Resolution 
@@ -440,6 +443,9 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 ## Video Quality 
 [arxiv 2024.03]VideoElevator : Elevating Video Generation Quality with Versatile Text-to-Image Diffusion Models[[PDF](https://arxiv.org/abs/2403.05438),[Page](https://videoelevator.github.io/)]
 
+
+
+
 ## Video SR 
 [arxiv 2023.11]Enhancing Perceptual Quality in Video Super-Resolution through Temporally-Consistent Detail Synthesis using Diffusion Models [[PDF](https://arxiv.org/abs/2311.15908)]
 
@@ -469,7 +475,9 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2024.04]Dance Any Beat: Blending Beats with Visuals in Dance Video Generation [[PDF](https://arxiv.org/abs/2405.09266), [Page](https://dabfusion.github.io/)]
 
+[arxiv 2024.05] ViViD: Video Virtual Try-on using Diffusion Models  [[PDF](https://arxiv.org/abs/2405.11794),[Page](https://becauseimbatman0.github.io/ViViD)]
 
+[arxiv 2024.05]   [[PDF](),[Page]()]
 
 
 ## Video Concept 
@@ -698,6 +706,10 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 [arxiv 2024.04]GenVideo: One-shot Target-image and Shape Aware Video Editing using T2I Diffusion Models [[PDF](https://arxiv.org/abs/2404.12541)]
 
 [arxiv 2024.05]Edit-Your-Motion: Space-Time Diffusion Decoupling Learning for Video Motion Editing [[PDF](https://arxiv.org/abs/2405.04496),[Page](https://github.com/yiiizuo/Edit-Your-Motion)]
+
+[arxiv 2024.05] Slicedit: Zero-Shot Video Editing With Text-to-Image Diffusion Models Using Spatio-Temporal Slices  [[PDF](https://arxiv.org/abs/2405.12211),[Page](https://matankleiner.github.io/slicedit/)]
+
+[arxiv 2024.05]  [[PDF](),[Page]()]
 
 
 ## :point_right: Video Completion (animation, interpolation, prediction)
