@@ -328,12 +328,11 @@
 
 [arxiv 2024.05]Face Adapter for Pre-Trained Diffusion Models with Fine-Grained ID and Attribute Control [[PDF](https://arxiv.org/abs/2405.12970),[Page](https://faceadapter.github.io/face-adapter.github.io/)]
 
-
 [arxiv 2024.05] EmoEdit: Evoking Emotions through Image Manipulation  [[PDF](https://arxiv.org/abs/2405.12661)]
 
+[arxiv 2024.05] ReasonPix2Pix: Instruction Reasoning Dataset for Advanced Image Editing [[PDF](https://arxiv.org/abs/2405.11190)]
+
 [arxiv 2024.05]   [[PDF](),[Page]()]
-
-
 
 
 ## DiT 
@@ -682,6 +681,9 @@
 [arxiv 2024.03]TARN-VIST: Topic Aware Reinforcement Network for Visual Storytelling [[PDF](https://arxiv.org/abs/2403.11550)]
 
 
+[arxiv 2024.05] Evolving Storytelling: Benchmarks and Methods for New Character Customization with Diffusion Models  [[PDF](https://arxiv.org/abs/2405.11852)]
+
+[arxiv 2024.05]   [[PDF](),[Page]()]
 
 ## Layout Generation 
 [arxiv 2022.08]Layout-Bridging Text-to-Image Synthesis [[PDF](https://arxiv.org/pdf/2208.06162.pdf)]
