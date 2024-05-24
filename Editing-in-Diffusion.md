@@ -332,11 +332,17 @@
 
 [arxiv 2024.05] ReasonPix2Pix: Instruction Reasoning Dataset for Advanced Image Editing [[PDF](https://arxiv.org/abs/2405.11190)]
 
+[arxiv 2024.05] EditWorld: Simulating World Dynamics for Instruction-Following Image Editing [[PDF](https://arxiv.org/abs/2405.14785),[Page](https://github.com/YangLing0818/EditWorld)]
+
+
+
 [arxiv 2024.05]   [[PDF](),[Page]()]
 
 
 ## DiT 
 [arxiv 2024.03]Switch Diffusion Transformer: Synergizing Denoising Tasks with Sparse Mixture-of-Experts [[PDF](https://arxiv.org/abs/2403.09176),[Page](https://byeongjun-park.github.io/Switch-DiT/)]
+
+[arxiv 2024.05] TerDiT: Ternary Diffusion Models with Transformers [[PDF](https://arxiv.org/abs/2405.14854),[Page](https://github.com/Lucky-Lance/TerDiT)]
 
 
 ##  Improve T2I base modules
@@ -410,9 +416,9 @@
 
 [arxiv 2024.05]An Empirical Study and Analysis of Text-to-Image Generation Using Large Language Model-Powered Textual Representation [[PDF](https://arxiv.org/abs/2405.12914)]
 
+[arxiv 2024.05] Learning Multi-dimensional Human Preference for Text-to-Image Generation  [[PDF](https://arxiv.org/abs/2405.14705)]
 
-
-
+[arxiv 2024.05]   [[PDF](),[Page]()]
 
 
 ## Distill Diffusion Model 
@@ -1197,7 +1203,11 @@ Cross-Attention Control [[PDF](https://arxiv.org/abs/2402.13404)]
 
 [arxiv 2024.04]Hyper-SD: Trajectory Segmented Consistency Model for Efficient Image Synthesis [[PDF](https://arxiv.org/abs/2404.13686)]
 
+[arxiv 2024.05] Improved Distribution Matching Distillation for Fast Image Synthesis [[PDF](https://arxiv.org/abs/2405.14867), [Page](https://tianweiy.github.io/dmd2)]
 
+[arxiv 2024.05]PaGoDA: Progressive Growing of a One-Step Generator from a Low-Resolution Diffusion Teacher [[PDF](https://arxiv.org/abs/2405.14822)]
+
+[arxiv 2024.05] [[PDF](), [Page]()]
 
 
 ## limited data 
