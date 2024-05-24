@@ -99,6 +99,8 @@
 
 [arxiv 2023.10]PIXART-α: Fast Training of Diffusion Transformer for Photorealistic Text-to-Image Synthesis [[PDF](https://arxiv.org/abs/2310.00426), [Page](https://pixart-alpha.github.io/)]
 
+[arxiv 2024.04]Visual Autoregressive Modeling: Scalable Image Generation via Next-Scale Prediction [[PDF](https://arxiv.org/abs/2404.02905), [Page](https://github.com/FoundationVision/VAR)]
+
 
 
 # Generation & Super-resolution 
