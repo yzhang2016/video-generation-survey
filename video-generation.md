@@ -409,6 +409,9 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 [arxiv 2023.12]Generative Rendering: Controllable 4D-Guided Video Generation with 2D Diffusion Models [[PDF](https://arxiv.org/abs/2312.01409),[Page](https://primecai.github.io/generative_rendering/)]
 
 
+
+
+
 ## Camera 
 [arxiv 2023.12]MotionCtrl: A Unified and Flexible Motion Controller for Video Generation [[PDF](https://arxiv.org/abs/2312.03641),[Page](https://wzhouxiff.github.io/projects/MotionCtrl/)]
 
@@ -419,6 +422,10 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 [arxiv 2024.04]Customizing Text-to-Image Diffusion with Camera Viewpoint Control [[PDF](https://arxiv.org/abs/2404.12333),[Page](https://customdiffusion360.github.io/)]
 
 [arxiv 2024.04]MotionMaster: Training-free Camera Motion Transfer For Video Generation[[PDF](https://arxiv.org/abs/2404.15789)]
+
+[arxiv 2024.05] Video Diffusion Models are Training-free Motion Interpreter and Controller[[PDF](https://arxiv.org/abs/2405.14864),[Page](https://xizaoqu.github.io/moft/)]
+
+[arxiv 2024.05]  [[PDF](),[Page]()]
 
 
 
