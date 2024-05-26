@@ -334,6 +334,7 @@
 
 [arxiv 2024.05] EditWorld: Simulating World Dynamics for Instruction-Following Image Editing [[PDF](https://arxiv.org/abs/2405.14785),[Page](https://github.com/YangLing0818/EditWorld)]
 
+[arxiv 2024.05]InstaDrag: Lightning Fast and Accurate Drag-based Image Editing Emerging from Videos [[PDF](https://arxiv.org/abs/2405.13722),[Page](https://instadrag.github.io/)]
 
 
 [arxiv 2024.05]   [[PDF](),[Page]()]
@@ -417,6 +418,12 @@
 [arxiv 2024.05]An Empirical Study and Analysis of Text-to-Image Generation Using Large Language Model-Powered Textual Representation [[PDF](https://arxiv.org/abs/2405.12914)]
 
 [arxiv 2024.05] Learning Multi-dimensional Human Preference for Text-to-Image Generation  [[PDF](https://arxiv.org/abs/2405.14705)]
+
+[arxiv 2024.05] Class-Conditional self-reward mechanism for improved Text-to-Image models  [[PDF](https://arxiv.org/abs/2405.13473)]
+
+[arxiv 2024.05]  LiteVAE: Lightweight and Efficient Variational Autoencoders for Latent Diffusion Models [[PDF](https://arxiv.org/abs/2405.14477)]
+
+
 
 [arxiv 2024.05]   [[PDF](),[Page]()]
 
