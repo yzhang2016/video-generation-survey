@@ -653,6 +653,7 @@
 [arxiv 2024.05]Personalized Residuals for Concept-Driven Text-to-Image Generation [[PDF](https://arxiv.org/abs/2405.12978),[Page](https://cusuh.github.io/personalized-residuals/)]
 
 
+[arxiv 2024.05] FreeCustom: Tuning-Free Customized Image Generation for Multi-Concept Composition [[PDF](https://arxiv.org/abs/2405.13870),[Page](https://github.com/aim-uofa/FreeCustom)]
 
 
 
@@ -738,6 +739,12 @@ Cross-Attention Control [[PDF](https://arxiv.org/abs/2402.13404)]
 [arxiv 2024.03]DivCon: Divide and Conquer for Progressive Text-to-Image Generation [[PDF](https://arxiv.org/abs/2403.06400)]
 
 [arxiv 2024.03]LayoutFlow: Flow Matching for Layout Generation [[PDF](https://arxiv.org/pdf/2403.18187.pdf)]
+
+[arxiv 2024.05] Enhancing Image Layout Control with Loss-Guided Diffusion Models [[PDF](https://arxiv.org/abs/2405.14101)]
+
+
+[arxiv 2024.05]  [[PDF](),[Page]()]
+
 
 
 ## SVG
@@ -1118,7 +1125,11 @@ Cross-Attention Control [[PDF](https://arxiv.org/abs/2402.13404)]
 
 [arxiv 2024.04]FilterPrompt: Guiding Image Transfer in Diffusion Models [[PDF](https://arxiv.org/abs/2404.13263)]
 
+[arxiv 2024.05]FreeTuner: Any Subject in Any Style with Training-free Diffusion[[PDF](https://arxiv.org/abs/2405.14201)]
 
+
+
+[arxiv 2024.05]   [[PDF](),[Page]()]
 
 ## downstream apps
 [arxiv 2023.11]Text-to-Sticker: Style Tailoring Latent Diffusion Models for Human Expression [[PDF](https://arxiv.org/abs/2311.10794)]
@@ -1206,6 +1217,8 @@ Cross-Attention Control [[PDF](https://arxiv.org/abs/2402.13404)]
 [arxiv 2024.05] Improved Distribution Matching Distillation for Fast Image Synthesis [[PDF](https://arxiv.org/abs/2405.14867), [Page](https://tianweiy.github.io/dmd2)]
 
 [arxiv 2024.05]PaGoDA: Progressive Growing of a One-Step Generator from a Low-Resolution Diffusion Teacher [[PDF](https://arxiv.org/abs/2405.14822)]
+
+[arxiv 2024.05]PipeFusion: Displaced Patch Pipeline Parallelism for Inference of Diffusion Transformer Models [[PDF](https://arxiv.org/abs/2405.14430)]
 
 [arxiv 2024.05] [[PDF](), [Page]()]
 
