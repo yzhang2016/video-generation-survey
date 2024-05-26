@@ -429,7 +429,7 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 
 
-## Video in/outpainting 
+## inpainting / outpainting 
 [MM 2023.09]Hierarchical Masked 3D Diffusion Model for Video Outpainting [[PDF](https://arxiv.org/abs/2309.02119)]
 
 [arxiv 2023.11]Flow-Guided Diffusion for Video Inpainting [[PDF](https://arxiv.org/abs/2311.15368)]
@@ -444,6 +444,7 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2024.05]Semantically Consistent Video Inpainting with Conditional Diffusion Models [[PDF(https://arxiv.org/abs/2405.00251)]
 
+[arxiv 2024.05]ReVideo: Remake a Video with Motion and Content Control [[PDF](https://arxiv.org/abs/2405.13865),[Page](https://mc-e.github.io/project/ReVideo/)]
 
 
 
@@ -453,7 +454,7 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 
 
-## Video SR 
+## super-resolution
 [arxiv 2023.11]Enhancing Perceptual Quality in Video Super-Resolution through Temporally-Consistent Detail Synthesis using Diffusion Models [[PDF](https://arxiv.org/abs/2311.15908)]
 
 [arxiv 2023.12]Upscale-A-Video: Temporal-Consistent Diffusion Model for Real-World Video Super-Resolution [[PDF](https://arxiv.org/abs/2312.06640),[Page](https://shangchenzhou.com/projects/upscale-a-video/)]
@@ -487,7 +488,7 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 [arxiv 2024.05]   [[PDF](),[Page]()]
 
 
-## Video Concept 
+## Concept 
 [arxiv 2023.07]Animate-A-Story: Storytelling with Retrieval-Augmented Video Generation [[PDF](https://arxiv.org/abs/2307.06940), [Page](https://videocrafter.github.io/Animate-A-Story)]
 
 [arxiv 2023.11]VideoDreamer: Customized Multi-Subject Text-to-Video Generation with Disen-Mix Finetuning[[PDF](https://arxiv.org/pdf/%3CARXIV%20PAPER%20ID%3E.pdf),[Page](https://videodreamer23.github.io/)]
@@ -586,7 +587,7 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 
 
-## Video editing with video models 
+## editing with video models 
 [arxiv 2023.12]VIDiff: Translating Videos via Multi-Modal Instructions with Diffusion Models[[PDF](https://arxiv.org/abs/2311.18837),[Page](https://chenhsing.github.io/VIDiff)]
 
 [arxiv 2023.12]Neutral Editing Framework for Diffusion-based Video Editing [[PDF](https://arxiv.org/abs/2312.06708),[Page](https://neuedit.github.io/)]
@@ -611,7 +612,7 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 
 
-## Image Model for video generation and editing 
+## Editing with image model 
 *[arxiv 2022.12]Tune-A-Video: One-Shot Tuning of Image Diffusion Models for Text-to-Video Generation [[PDF](https://arxiv.org/abs/2212.11565), [Page](https://tuneavideo.github.io/)]
 
 [arxiv 2023.03]Video-P2P: Video Editing with Cross-attention Control [[PDF](https://arxiv.org/abs/2303.04761), [Page](https://video-p2p.github.io/)]
@@ -763,6 +764,11 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 [arxiv 2024.01]Motion-Zero: Zero-Shot Moving Object Control Framework for Diffusion-Based Video Generation[[PDF](https://arxiv.org/abs/2401.10150)]
 
 [arxiv 2024.03]Spectral Motion Alignment for Video Motion Transfer using Diffusion Models[[PDF](https://arxiv.org/abs/2403.15249),[Page](https://geonyeong-park.github.io/spectral-motion-alignment/)]
+
+[arxiv 2024.05]ReVideo: Remake a Video with Motion and Content Control [[PDF](https://arxiv.org/abs/2405.13865),[Page](https://mc-e.github.io/project/ReVideo/)]
+
+
+[arxiv 2024.05] [[PDF](),[Page]()]
 
 
 
