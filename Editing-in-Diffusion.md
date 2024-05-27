@@ -336,6 +336,9 @@
 
 [arxiv 2024.05]InstaDrag: Lightning Fast and Accurate Drag-based Image Editing Emerging from Videos [[PDF](https://arxiv.org/abs/2405.13722),[Page](https://instadrag.github.io/)]
 
+[arxiv 2024.05] FastDrag: Manipulate Anything in One Step [[PDF](https://arxiv.org/abs/2405.15769)]
+
+[arxiv 2024.05] Enhancing Text-to-Image Editing via Hybrid Mask-Informed Fusion  [[PDF](https://arxiv.org/abs/2405.15313)]
 
 [arxiv 2024.05]   [[PDF](),[Page]()]
 
@@ -423,7 +426,7 @@
 
 [arxiv 2024.05]  LiteVAE: Lightweight and Efficient Variational Autoencoders for Latent Diffusion Models [[PDF](https://arxiv.org/abs/2405.14477)]
 
-
+[arxiv 2024.05] SG-Adapter: Enhancing Text-to-Image Generation with Scene Graph Guidance  [[PDF](https://arxiv.org/abs/2405.15321)]
 
 [arxiv 2024.05]   [[PDF](),[Page]()]
 
@@ -774,6 +777,10 @@ Cross-Attention Control [[PDF](https://arxiv.org/abs/2402.13404)]
 [arxiv 2023.12]SVGDreamer: Text Guided SVG Generation with Diffusion Model [[PDF](https://arxiv.org/abs/2312.16476)]
 
 [arxiv 2024.2]StrokeNUWA: Tokenizing Strokes for Vector Graphic Synthesis [[PDF](https://arxiv.org/abs/2401.17093)]
+
+[arxiv 2024.05]  NIVeL: Neural Implicit Vector Layers for Text-to-Vector Generation  [[PDF](https://arxiv.org/abs/2405.15217)]
+
+[arxiv 2024.05]   [[PDF](),[Page]()]
 
 
 
@@ -1134,7 +1141,7 @@ Cross-Attention Control [[PDF](https://arxiv.org/abs/2402.13404)]
 
 [arxiv 2024.05]FreeTuner: Any Subject in Any Style with Training-free Diffusion[[PDF](https://arxiv.org/abs/2405.14201)]
 
-
+[arxiv 2024.05] StyleMaster: Towards Flexible Stylized Image Generation with Diffusion Models [[PDF](https://arxiv.org/abs/2405.15287)]
 
 [arxiv 2024.05]   [[PDF](),[Page]()]
 
