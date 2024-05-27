@@ -717,6 +717,8 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2024.05] Slicedit: Zero-Shot Video Editing With Text-to-Image Diffusion Models Using Spatio-Temporal Slices  [[PDF](https://arxiv.org/abs/2405.12211),[Page](https://matankleiner.github.io/slicedit/)]
 
+[arxiv 2024.05] Looking Backward: Streaming Video-to-Video Translation with Feature Banks [[PDF](https://arxiv.org/abs/2405.15757),[Page](https://jeff-liangf.github.io/projects/streamv2v)]
+
 [arxiv 2024.05]  [[PDF](),[Page]()]
 
 
