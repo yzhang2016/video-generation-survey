@@ -272,11 +272,15 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2024.05]Lumina-T2X: Transforming Text into Any Modality, Resolution, and Duration via Flow-based Large Diffusion Transformers [[PDF](https://arxiv.org/abs/2405.05945),[Page](https://github.com/Alpha-VLLM/Lumina-T2X)]
 
+[arxiv 2024.05] Scaling Diffusion Mamba with Bidirectional SSMs for Efficient Image and Video Generation [[PDF](https://arxiv.org/abs/2405.15881)]
+
+[arxiv 2024.05]   [[PDF](),[Page]()]
 
 
 ## LLMs-based 
 [arxiv 2023.12]VideoPoet: A Large Language Model for Zero-Shot Video Generation [[PDF](https://arxiv.org/abs/2312.14125),[Page](http://sites.research.google/videopoet/)]
 
+[arxiv 2024.05]   [[PDF](),[Page]()]
 
 
 
@@ -284,6 +288,7 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 [arxiv 2024.03]SSM Meets Video Diffusion Models: Efficient Video Generation with Structured State Spaces [[PDF](https://arxiv.org/abs/2403.07711),[Page](https://github.com/shim0114/SSM-Meets-Video-Diffusion-Models)]
 
 
+[arxiv 2024.05]   [[PDF](),[Page]()]
 
 
 
@@ -294,6 +299,7 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2023.12]FreeInit: Bridging Initialization Gap in Video Diffusion Models [[PDF](https://arxiv.org/abs/2312.07537),[Page](https://tianxingwu.github.io/pages/FreeInit/)]
 
+[arxiv 2024.05]   [[PDF](),[Page]()]
 
 
 
@@ -302,6 +308,7 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2024.05]TALC: Time-Aligned Captions for Multi-Scene Text-to-Video Generation [[PDF](https://arxiv.org/abs/2405.04682),[Page](https://talc-mst2v.github.io/)]
 
+[arxiv 2024.05]   [[PDF](),[Page]()]
 
 
 ## long video generation 
@@ -323,6 +330,8 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2024.05] FIFO-Diffusion: Generating Infinite Videos from Text without Training [[PDF](https://arxiv.org/abs/2405.11473),[Page](https://jjihwan.github.io/projects/FIFO-Diffusion)]
 
+
+[arxiv 2024.05]Controllable Long Image Animation with Diffusion Models[[PDF](https://arxiv.org/pdf/2405.17306),[Page](https://wangqiang9.github.io/Controllable.github.io/)]
 
 [arxiv 2024.05]   [[PDF](),[Page]()]
 
@@ -485,6 +494,10 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2024.05] ViViD: Video Virtual Try-on using Diffusion Models  [[PDF](https://arxiv.org/abs/2405.11794),[Page](https://becauseimbatman0.github.io/ViViD)]
 
+[arxiv 2024.05] VITON-DiT: Learning In-the-Wild Video Try-On from Human Dance Videos via Diffusion Transformers[[PDF](https://arxiv.org/abs/2405.18326),[Page](https://zhengjun-ai.github.io/viton-dit-page/)]
+
+
+
 [arxiv 2024.05]   [[PDF](),[Page]()]
 
 
@@ -585,7 +598,7 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2024.04]TAVGBench: Benchmarking Text to Audible-Video Generation [[PDF](https://arxiv.org/abs/2404.14381),[Page](https://github.com/OpenNLPLab/TAVGBench)]
 
-
+[arxiv 2024.05] [[PDF](),[Page]()]
 
 ## editing with video models 
 [arxiv 2023.12]VIDiff: Translating Videos via Multi-Modal Instructions with Diffusion Models[[PDF](https://arxiv.org/abs/2311.18837),[Page](https://chenhsing.github.io/VIDiff)]
@@ -610,6 +623,9 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2024.04]Investigating the Effectiveness of Cross-Attention to Unlock Zero-Shot Editing of Text-to-Video Diffusion Models [[PDF](https://arxiv.org/abs/2404.05519)]
 
+[arxiv 2024.05]I2VEdit: First-Frame-Guided Video Editing via Image-to-Video Diffusion Models[[PDF](https://arxiv.org/abs/2405.16537),[Page](https://i2vedit.github.io/)]
+
+[arxiv 2024.05] [[PDF](),[Page]()]
 
 
 ## Editing with image model 
@@ -748,6 +764,9 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2024.04]Frame Interpolation with Consecutive Brownian Bridge Diffusion[[PDF](https://arxiv.org/abs/2405.05953),[Page](https://zonglinl.github.io/videointerp/)]
 
+[arxiv 2024.05]ToonCrafter: Generative Cartoon Interpolation [[PDF](https://arxiv.org/abs/2405.17933),[Page](https://doubiiu.github.io/projects/ToonCrafter/)]
+
+[arxiv 2024.05] [[PDF](),[Page]()]
 
 ## motion transfer 
 [arxiv 2023.05]LEO: Generative Latent Image Animator for Human Video Synthesis [[PDF](https://arxiv.org/abs/2305.03989),[Page](https://wyhsirius.github.io/LEO-project/)]
@@ -769,6 +788,9 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2024.05]ReVideo: Remake a Video with Motion and Content Control [[PDF](https://arxiv.org/abs/2405.13865),[Page](https://mc-e.github.io/project/ReVideo/)]
 
+[arxiv 2024.05]VividPose: Advancing Stable Video Diffusion for Realistic Human Image Animation  [[PDF](https://arxiv.org/abs/2405.18156)]
+
+[arxiv 2024.05]Disentangling Foreground and Background Motion for Enhanced Realism in Human Video Generation [[PDF](https://arxiv.org/abs/2405.16393),[Page](https://liujl09.github.io/humanvideo_movingbackground/)]
 
 [arxiv 2024.05] [[PDF](),[Page]()]
 
@@ -785,7 +807,7 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2024.03]FRESCO: Spatial-Temporal Correspondence for Zero-Shot Video Translation [[PDF](https://arxiv.org/abs/2403.12962),[Page](https://github.com/williamyang1991/fresco)]
 
-
+[arxiv 2024.05] [[PDF](),[Page]()]
 
 ## Evaluation 
 [arxiv 2023.10]EvalCrafter: Benchmarking and Evaluating Large Video Generation Models [[PDF](https://arxiv.org/abs/2310.11440),[Page](https://evalcrafter.github.io/)]
@@ -799,7 +821,7 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2024.03]Subjective-Aligned Dateset and Metric for Text-to-Video Quality Assessment [[PDF](https://arxiv.org/abs/2403.11956)]
 
-
+[arxiv 2024.05] [[PDF](),[Page]()]
 
 ## Survey
 [arxiv 2023.03]A Survey on Video Diffusion Models [[PDF](https://arxiv.org/abs/2310.10647)]
