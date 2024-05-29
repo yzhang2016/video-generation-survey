@@ -340,6 +340,11 @@
 
 [arxiv 2024.05] Enhancing Text-to-Image Editing via Hybrid Mask-Informed Fusion  [[PDF](https://arxiv.org/abs/2405.15313)]
 
+[arxiv 2024.05]AnyFit: Controllable Virtual Try-on for Any Combination of Attire Across Any Scenario [[PDF](https://arxiv.org/abs/2405.18172),[Page](https://colorful-liyu.github.io/anyfit-page/)]
+
+
+
+
 [arxiv 2024.05]   [[PDF](),[Page]()]
 
 
@@ -347,6 +352,12 @@
 [arxiv 2024.03]Switch Diffusion Transformer: Synergizing Denoising Tasks with Sparse Mixture-of-Experts [[PDF](https://arxiv.org/abs/2403.09176),[Page](https://byeongjun-park.github.io/Switch-DiT/)]
 
 [arxiv 2024.05] TerDiT: Ternary Diffusion Models with Transformers [[PDF](https://arxiv.org/abs/2405.14854),[Page](https://github.com/Lucky-Lance/TerDiT)]
+
+[arxiv 2024.05] DiG: Scalable and Efficient Diffusion Models with Gated Linear Attention  [[PDF](https://arxiv.org/abs/2405.18428),[Page](https://github.com/hustvl/DiG)]
+
+[arxiv 2024.05]  ViG: Linear-complexity Visual Sequence Learning with Gated Linear Attention [[PDF](https://arxiv.org/abs/2405.18425),[Page](https://github.com/hustvl/ViG)]
+
+[arxiv 2024.05]   [[PDF](),[Page]()]
 
 
 ##  Improve T2I base modules
@@ -427,6 +438,10 @@
 [arxiv 2024.05]  LiteVAE: Lightweight and Efficient Variational Autoencoders for Latent Diffusion Models [[PDF](https://arxiv.org/abs/2405.14477)]
 
 [arxiv 2024.05] SG-Adapter: Enhancing Text-to-Image Generation with Scene Graph Guidance  [[PDF](https://arxiv.org/abs/2405.15321)]
+
+[arxiv 2024.05] Training-free Editioning of Text-to-Image Models [[PDF](https://arxiv.org/abs/2405.17069)]
+
+[arxiv 2024.05] PromptFix: You Prompt and We Fix the Photo [[PDF](https://arxiv.org/abs/2405.16785),[Page](https://github.com/yeates/PromptFix)]
 
 [arxiv 2024.05]   [[PDF](),[Page]()]
 
@@ -662,9 +677,13 @@
 
 [arxiv 2024.05]Personalized Residuals for Concept-Driven Text-to-Image Generation [[PDF](https://arxiv.org/abs/2405.12978),[Page](https://cusuh.github.io/personalized-residuals/)]
 
-
 [arxiv 2024.05] FreeCustom: Tuning-Free Customized Image Generation for Multi-Concept Composition [[PDF](https://arxiv.org/abs/2405.13870),[Page](https://github.com/aim-uofa/FreeCustom)]
 
+
+[arxiv 2024.05]AttenCraft: Attention-guided Disentanglement of Multiple Concepts for Text-to-Image Customization [[PDF](https://arxiv.org/abs/2405.17965),[Page](https://github.com/junjie-shentu/AttenCraft)]
+
+
+[arxiv 2024.05]   [[PDF](),[Page]()]
 
 
 ## Story-telling
@@ -1052,13 +1071,15 @@ Cross-Attention Control [[PDF](https://arxiv.org/abs/2402.13404)]
 
 [arxiv 2024.05]Frequency-Domain Refinement with Multiscale Diffusion for Super Resolution [[PDF](https://arxiv.org/abs/2405.10014)]
 
+[arxiv 2024.05] PatchScaler: An Efficient Patch-independent Diffusion Model for Super-Resolution  [[PDF](https://arxiv.org/abs/2405.17158), [Page](https://github.com/yongliuy/PatchScaler)]
 
+[arxiv 2024.05]   [[PDF](),[Page]()]
 
 
 ## action transfer 
 [arxiv 2023.11]Learning Disentangled Identifiers for Action-Customized Text-to-Image Generation [[PDF](https://arxiv.org/abs/2311.15841)]
 
-
+[arxiv 2024.05]   [[PDF](),[Page]()]
 
 ## Style transfer 
 [arxiv 22.11; kuaishou] ***DiffStyler***: Controllable Dual Diffusion for Text-Driven Image Stylization \[[PDF](https://arxiv.org/pdf/2211.10682.pdf), code\]  
@@ -1293,6 +1314,7 @@ Cross-Attention Control [[PDF](https://arxiv.org/abs/2402.13404)]
 [arxiv 2024.04]Who Evaluates the Evaluations? Objectively Scoring Text-to-Image Prompt Coherence Metrics with T2IScoreScore (TS2) [[PDF](https://arxiv.org/abs/2404.04251)]
 
 
+[arxiv 2024.05]FAIntbench: A Holistic and Precise Benchmark for Bias Evaluation in Text-to-Image Models [[PDF](https://arxiv.org/abs/2405.17814)]
 
 
 
