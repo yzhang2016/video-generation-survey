@@ -1255,6 +1255,8 @@ Cross-Attention Control [[PDF](https://arxiv.org/abs/2402.13404)]
 
 [arxiv 2024.05]PipeFusion: Displaced Patch Pipeline Parallelism for Inference of Diffusion Transformer Models [[PDF](https://arxiv.org/abs/2405.14430)]
 
+[arxiv 2024.05]Reward Guided Latent Consistency Distillation[[PDF](https://arxiv.org/abs/2403.11027), [Page](https://rg-lcd.github.io/)]
+
 [arxiv 2024.05] [[PDF](), [Page]()]
 
 
