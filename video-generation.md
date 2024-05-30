@@ -333,6 +333,9 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2024.05]Controllable Long Image Animation with Diffusion Models[[PDF](https://arxiv.org/pdf/2405.17306),[Page](https://wangqiang9.github.io/Controllable.github.io/)]
 
+[arxiv 2024.05]  EasyAnimate: A High-Performance Long Video Generation Method based on Transformer Architecture [[PDF](https://arxiv.org/abs/2405.18991),[Page](https://github.com/aigc-apps/EasyAnimate)]
+
+
 [arxiv 2024.05]   [[PDF](),[Page]()]
 
 
@@ -859,7 +862,9 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2024.03]AnimateDiff-Lightning: Cross-Model Diffusion Distillation [[PDF](https://arxiv.org/abs/2403.12706)]
 
+[arxiv 2024.05] T2V-Turbo: Breaking the Quality Bottleneck of Video Consistency Model with Mixed Reward Feedback[[PDF](https://arxiv.org/abs/2405.18750),[Page](https://t2v-turbo.github.io/)]
 
+[arxiv 2024.05] [[PDF](),[Page]()]
 
 
 ## Others 
