@@ -1073,6 +1073,8 @@ Cross-Attention Control [[PDF](https://arxiv.org/abs/2402.13404)]
 
 [arxiv 2024.05] PatchScaler: An Efficient Patch-independent Diffusion Model for Super-Resolution  [[PDF](https://arxiv.org/abs/2405.17158), [Page](https://github.com/yongliuy/PatchScaler)]
 
+[arxiv 2024.05]Blind Image Restoration via Fast Diffusion Inversion[[PDF](https://arxiv.org/abs/2405.19572),[Page](https://github.com/hamadichihaoui/BIRD)]
+
 [arxiv 2024.05]   [[PDF](),[Page]()]
 
 
