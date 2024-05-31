@@ -120,6 +120,11 @@ A reading list of video generation
 [arxiv 2024.03]A Large-Scale Dataset with 70M High-Quality Video-Caption Pairs [[PDF](https://arxiv.org/pdf/2402.00000.pdf), [Page](https://snap-research.github.io/Panda-70M/)]
 
 
+## Video VAE 
+[arxiv 2024.05]CV-VAE: A Compatible Video VAE for Latent Generative Video Models [[PDF](https://arxiv.org/abs/2405.20279),[Page](https://ailab-cvc.github.io/cvvae/index.html)]
+
+[arxiv 2024.05] [[PDF](),[Page]()]
+
 
 
 ## :point_right: GAN/VAE-based methods 
@@ -420,8 +425,9 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2023.12]Generative Rendering: Controllable 4D-Guided Video Generation with 2D Diffusion Models [[PDF](https://arxiv.org/abs/2312.01409),[Page](https://primecai.github.io/generative_rendering/)]
 
+[arxiv 2024.05]MOFA-Video: Controllable Image Animation via Generative Motion Field Adaptions in Frozen Image-to-Video Diffusion Model [[PDF](https://arxiv.org/abs/2405.20222),[Page](https://myniuuu.github.io/MOFA_Video/)]
 
-
+[arxiv 2024.05]  [[PDF](),[Page]()]
 
 
 ## Camera 
@@ -436,6 +442,9 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 [arxiv 2024.04]MotionMaster: Training-free Camera Motion Transfer For Video Generation[[PDF](https://arxiv.org/abs/2404.15789)]
 
 [arxiv 2024.05] Video Diffusion Models are Training-free Motion Interpreter and Controller[[PDF](https://arxiv.org/abs/2405.14864),[Page](https://xizaoqu.github.io/moft/)]
+
+[arxiv 2024.05] VidvidDream Generating 3D Scene with Ambient Dynamics [[PDF](https://arxiv.org/abs/2405.20334),[Page](https://vivid-dream-4d.github.io/)]
+
 
 [arxiv 2024.05]  [[PDF](),[Page]()]
 
@@ -628,6 +637,9 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2024.05]I2VEdit: First-Frame-Guided Video Editing via Image-to-Video Diffusion Models[[PDF](https://arxiv.org/abs/2405.16537),[Page](https://i2vedit.github.io/)]
 
+[arxiv 2024.05] Streaming Video Diffusion: Online Video Editing with Diffusion Models[[PDF](https://arxiv.org/abs/2405.1972),[Page](https://github.com/Chenfeng1271/SVDiff)]
+
+
 [arxiv 2024.05] [[PDF](),[Page]()]
 
 
@@ -800,6 +812,9 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 [arxiv 2024.05]Disentangling Foreground and Background Motion for Enhanced Realism in Human Video Generation [[PDF](https://arxiv.org/abs/2405.16393),[Page](https://liujl09.github.io/humanvideo_movingbackground/)]
 
 [arxiv 2024.05] MusePose: a Pose-Driven Image-to-Video Framework for Virtual Human Generation. [[PDF](),[Page](https://github.com/TMElyralab/MusePose?tab=readme-ov-file)]
+
+[arxiv 2024.05]MotionFollower: Editing Video Motion via Lightweight Score-Guided Diffusion [[PDF](https://arxiv.org/abs/2405.20325),[Page](https://francis-rings.github.io/MotionFollower/)]
+
 
 [arxiv 2024.05] [[PDF](),[Page]()]
 
