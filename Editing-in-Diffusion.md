@@ -679,9 +679,9 @@
 
 [arxiv 2024.05] FreeCustom: Tuning-Free Customized Image Generation for Multi-Concept Composition [[PDF](https://arxiv.org/abs/2405.13870),[Page](https://github.com/aim-uofa/FreeCustom)]
 
-
 [arxiv 2024.05]AttenCraft: Attention-guided Disentanglement of Multiple Concepts for Text-to-Image Customization [[PDF](https://arxiv.org/abs/2405.17965),[Page](https://github.com/junjie-shentu/AttenCraft)]
 
+[arxiv 2024.05]RectifID: Personalizing Rectified Flow with Anchored Classifier Guidance [[PDF](https://arxiv.org/abs/2405.14677),[Page](https://github.com/feifeiobama/RectifID)]
 
 [arxiv 2024.05]   [[PDF](),[Page]()]
 
