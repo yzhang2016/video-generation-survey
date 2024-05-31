@@ -785,6 +785,10 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2023.12]MotionCrafter: One-Shot Motion Customization of Diffusion Models [[PDF](https://arxiv.org/abs/2312.05288)]
 
+[arxiv 2023.11]MagicAnimate: Temporally Consistent Human Image Animation using Diffusion Model[[PDF](https://arxiv.org/abs/2311.16498),[Page](https://showlab.github.io/magicanimate)]
+
+[arxiv 2023.12] Animate Anyone: Consistent and Controllable Image-to-Video Synthesis for Character Animation[[PDF](https://arxiv.org/abs/2311.17117),[Page](https://humanaigc.github.io/animate-anyone/)]
+
 [arxiv 2024.01]Motion-Zero: Zero-Shot Moving Object Control Framework for Diffusion-Based Video Generation[[PDF](https://arxiv.org/abs/2401.10150)]
 
 [arxiv 2024.03]Spectral Motion Alignment for Video Motion Transfer using Diffusion Models[[PDF](https://arxiv.org/abs/2403.15249),[Page](https://geonyeong-park.github.io/spectral-motion-alignment/)]
@@ -794,6 +798,8 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 [arxiv 2024.05]VividPose: Advancing Stable Video Diffusion for Realistic Human Image Animation  [[PDF](https://arxiv.org/abs/2405.18156)]
 
 [arxiv 2024.05]Disentangling Foreground and Background Motion for Enhanced Realism in Human Video Generation [[PDF](https://arxiv.org/abs/2405.16393),[Page](https://liujl09.github.io/humanvideo_movingbackground/)]
+
+[arxiv 2024.05] MusePose: a Pose-Driven Image-to-Video Framework for Virtual Human Generation. [[PDF](),[Page](https://github.com/TMElyralab/MusePose?tab=readme-ov-file)]
 
 [arxiv 2024.05] [[PDF](),[Page]()]
 
@@ -863,6 +869,9 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 [arxiv 2024.03]AnimateDiff-Lightning: Cross-Model Diffusion Distillation [[PDF](https://arxiv.org/abs/2403.12706)]
 
 [arxiv 2024.05] T2V-Turbo: Breaking the Quality Bottleneck of Video Consistency Model with Mixed Reward Feedback[[PDF](https://arxiv.org/abs/2405.18750),[Page](https://t2v-turbo.github.io/)]
+
+[arxiv 2024.05] PCM : Phased Consistency Model[[PDF](https://arxiv.org/abs/2405.18407),[Page](https://g-u-n.github.io/projects/pcm/)]
+
 
 [arxiv 2024.05] [[PDF](),[Page]()]
 
