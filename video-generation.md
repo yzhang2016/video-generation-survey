@@ -536,6 +536,19 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2024.04]ID-Animator: Zero-Shot Identity-Preserving Human Video Generation [[PDF](),[Page](https://id-animator.github.io/)]
 
+[arxiv 2024.06] [[PDF](),[Page]()]
+
+
+## Talking Face 
+[arxiv 2024.02]EMO Emote Portrait Alive: Generating Expressive Portrait Videos with Audio2Video Diffusion Model under Weak Conditions [[PDF](https://arxiv.org/abs/2402.17485),[Page](https://humanaigc.github.io/emote-portrait-alive/)]
+
+[arxiv 2024.04] VASA-1: Lifelike Audio-Driven Talking Faces Generated in Real Time [[PDF](https://arxiv.org/abs/2404.10667),[Page](https://www.microsoft.com/en-us/research/project/vasa-1/)]
+
+[arxiv 2024.04]MuseTalk: Real-Time High Quality Lip Synchronization with Latent Space Inpainting[[PDF](),[Page](https://github.com/TMElyralab/MuseTalk)]
+
+[arxiv 2024.06]V-Express: Conditional Dropout for Progressive Training of Portrait Video Generation[[PDF](),[Page](https://github.com/tencent-ailab/V-Express)]
+
+[arxiv 2024.06] [[PDF](),[Page]()]
 
 
 ## Image-to-video Generation 
@@ -590,6 +603,8 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 
 
+[arxiv 2024.06] [[PDF](),[Page]()]
+
 
 ## 4D generation 
 [arxiv 2023.11]Animate124: Animating One Image to 4D Dynamic Scene [[PDF](https://arxiv.org/abs/2311.14603),[Page](https://animate124.github.io/)]
@@ -601,6 +616,8 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 [arxiv 2023.12]DreamGaussian4D: Generative 4D Gaussian Splatting [[PDF](https://arxiv.org/abs/2312.17142), [Page](https://jiawei-ren.github.io/projects/dreamgaussian4d)]
 
 
+[arxiv 2024.06] [[PDF](),[Page]()]
+
 
 ## Audio-to-video Generation
 [arxiv 2023.09]Diverse and Aligned Audio-to-Video Generation via Text-to-Video Model Adaptation [[PDF](https://arxiv.org/abs/2309.16429)]
@@ -610,7 +627,10 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2024.04]TAVGBench: Benchmarking Text to Audible-Video Generation [[PDF](https://arxiv.org/abs/2404.14381),[Page](https://github.com/OpenNLPLab/TAVGBench)]
 
-[arxiv 2024.05] [[PDF](),[Page]()]
+[arxiv 2024.06] [[PDF](),[Page]()]
+
+
+
 
 ## editing with video models 
 [arxiv 2023.12]VIDiff: Translating Videos via Multi-Modal Instructions with Diffusion Models[[PDF](https://arxiv.org/abs/2311.18837),[Page](https://chenhsing.github.io/VIDiff)]
@@ -640,7 +660,7 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 [arxiv 2024.05] Streaming Video Diffusion: Online Video Editing with Diffusion Models[[PDF](https://arxiv.org/abs/2405.1972),[Page](https://github.com/Chenfeng1271/SVDiff)]
 
 
-[arxiv 2024.05] [[PDF](),[Page]()]
+[arxiv 2024.06] [[PDF](),[Page]()]
 
 
 ## Editing with image model 
