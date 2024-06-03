@@ -36,3 +36,6 @@
 
 [arxiv 2024.04]SEED-X: Multimodal Models with Unified Multi-granularity Comprehension and Generation [[PDF](https://arxiv.org/abs/2404.14396)]
 
+[arxiv 2024.06]The Evolution of Multimodal Model Architectures [[PDF](https://arxiv.org/pdf/2405.17927)]
+
+
