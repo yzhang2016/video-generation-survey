@@ -345,7 +345,7 @@
 
 
 
-[arxiv 2024.05]   [[PDF](),[Page]()]
+[arxiv 2024.06]   [[PDF](),[Page]()]
 
 
 ## DiT 
@@ -357,7 +357,7 @@
 
 [arxiv 2024.05]  ViG: Linear-complexity Visual Sequence Learning with Gated Linear Attention [[PDF](https://arxiv.org/abs/2405.18425),[Page](https://github.com/hustvl/ViG)]
 
-[arxiv 2024.05]   [[PDF](),[Page]()]
+[arxiv 2024.06]   [[PDF](),[Page]()]
 
 
 ##  Improve T2I base modules
@@ -443,7 +443,9 @@
 
 [arxiv 2024.05] PromptFix: You Prompt and We Fix the Photo [[PDF](https://arxiv.org/abs/2405.16785),[Page](https://github.com/yeates/PromptFix)]
 
-[arxiv 2024.05]   [[PDF](),[Page]()]
+[arxiv 2024.06] Kaleido Diffusion: Improving Conditional Diffusion Models with Autoregressive Latent Modeling [[PDF](https://arxiv.org/abs/2405.21048)]
+
+[arxiv 2024.06]   [[PDF](),[Page]()]
 
 
 ## Distill Diffusion Model 
@@ -683,7 +685,7 @@
 
 [arxiv 2024.05]RectifID: Personalizing Rectified Flow with Anchored Classifier Guidance [[PDF](https://arxiv.org/abs/2405.14677),[Page](https://github.com/feifeiobama/RectifID)]
 
-[arxiv 2024.05]   [[PDF](),[Page]()]
+[arxiv 2024.06]   [[PDF](),[Page]()]
 
 
 ## Story-telling
@@ -719,7 +721,7 @@
 
 [arxiv 2024.05] Evolving Storytelling: Benchmarks and Methods for New Character Customization with Diffusion Models  [[PDF](https://arxiv.org/abs/2405.11852)]
 
-[arxiv 2024.05]   [[PDF](),[Page]()]
+[arxiv 2024.06]   [[PDF](),[Page]()]
 
 ## Layout Generation 
 [arxiv 2022.08]Layout-Bridging Text-to-Image Synthesis [[PDF](https://arxiv.org/pdf/2208.06162.pdf)]
@@ -799,7 +801,7 @@ Cross-Attention Control [[PDF](https://arxiv.org/abs/2402.13404)]
 
 [arxiv 2024.05]  NIVeL: Neural Implicit Vector Layers for Text-to-Vector Generation  [[PDF](https://arxiv.org/abs/2405.15217)]
 
-[arxiv 2024.05]   [[PDF](),[Page]()]
+[arxiv 2024.06]   [[PDF](),[Page]()]
 
 
 
@@ -1075,13 +1077,13 @@ Cross-Attention Control [[PDF](https://arxiv.org/abs/2402.13404)]
 
 [arxiv 2024.05]Blind Image Restoration via Fast Diffusion Inversion[[PDF](https://arxiv.org/abs/2405.19572),[Page](https://github.com/hamadichihaoui/BIRD)]
 
-[arxiv 2024.05]   [[PDF](),[Page]()]
+[arxiv 2024.06]   [[PDF](),[Page]()]
 
 
 ## action transfer 
 [arxiv 2023.11]Learning Disentangled Identifiers for Action-Customized Text-to-Image Generation [[PDF](https://arxiv.org/abs/2311.15841)]
 
-[arxiv 2024.05]   [[PDF](),[Page]()]
+[arxiv 2024.06]   [[PDF](),[Page]()]
 
 ## Style transfer 
 [arxiv 22.11; kuaishou] ***DiffStyler***: Controllable Dual Diffusion for Text-Driven Image Stylization \[[PDF](https://arxiv.org/pdf/2211.10682.pdf), code\]  
@@ -1166,7 +1168,7 @@ Cross-Attention Control [[PDF](https://arxiv.org/abs/2402.13404)]
 
 [arxiv 2024.05] StyleMaster: Towards Flexible Stylized Image Generation with Diffusion Models [[PDF](https://arxiv.org/abs/2405.15287)]
 
-[arxiv 2024.05]   [[PDF](),[Page]()]
+[arxiv 2024.06]   [[PDF](),[Page]()]
 
 ## downstream apps
 [arxiv 2023.11]Text-to-Sticker: Style Tailoring Latent Diffusion Models for Human Expression [[PDF](https://arxiv.org/abs/2311.10794)]
@@ -1259,7 +1261,9 @@ Cross-Attention Control [[PDF](https://arxiv.org/abs/2402.13404)]
 
 [arxiv 2024.05]Reward Guided Latent Consistency Distillation[[PDF](https://arxiv.org/abs/2403.11027), [Page](https://rg-lcd.github.io/)]
 
-[arxiv 2024.05] [[PDF](), [Page]()]
+[arxiv 2024.06]Diffusion Models Are Innate One-Step Generators [[PDF](https://arxiv.org/abs/2405.20750)]
+
+[arxiv 2024.06] [[PDF](), [Page]()]
 
 
 ## limited data 
@@ -1332,13 +1336,19 @@ Cross-Attention Control [[PDF](https://arxiv.org/abs/2402.13404)]
 [arxiv 2024.04]Aligning Diffusion Models by Optimizing Human Utility [[PDF](https://arxiv.org/abs/2404.04465)]
 
 
+##  Finetuning 
+[arxiv 2021.07] Low-rank Adaptation for Fast Text-to-Image Diffusion Fine-tuning [[PDF](https://arxiv.org/pdf/2106.09685.pdf), [code](https://github.com/cloneofsimo/lora)]
+
+[arxiv 2023.02]DoRA: Weight-Decomposed Low-Rank Adaptation [[PDF](https://arxiv.org/pdf/2402.09353.pdf)]
+
+[arxiv 2024.06]Spectrum-Aware Parameter Efficient Fine-Tuning for Diffusion Models [[PDF](https://arxiv.org/abs/2405.21050)]
 
 
 ## Related 
 
 [arxiv 2022.04]VQGAN-CLIP: Open Domain Image Generation and Editing with Natural Language Guidance [[PDF](https://arxiv.org/abs/2204.08583), [Code](https://github.com/EleutherAI/vqgan-clip/tree/main/notebooks)]
 
-*[arxiv 2021.07] Low-rank Adaptation for Fast Text-to-Image Diffusion Fine-tuning [[PDF](https://arxiv.org/pdf/2106.09685.pdf), [code](https://github.com/cloneofsimo/lora)]
+*
 
 [arxiv 2022.11]Investigating Prompt Engineering in Diffusion Models \[[PDF](https://arxiv.org/pdf/2211.15462.pdf)\] 
 
@@ -1371,7 +1381,6 @@ Cross-Attention Control [[PDF](https://arxiv.org/abs/2402.13404)]
 
 [arxiv 2023.11]ToddlerDiffusion: Flash Interpretable Controllable Diffusion Model [[PDF](https://arxiv.org/abs/2311.14542)]
 
-[arxiv 2023.02]DoRA: Weight-Decomposed Low-Rank Adaptation [[PDF](https://arxiv.org/pdf/2402.09353.pdf)]
 
 [arxiv 2024.04]Many-to-many Image Generation with Auto-regressive Diffusion Models [[PDF](https://arxiv.org/abs/2404.03109)]
 
