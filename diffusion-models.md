@@ -55,6 +55,12 @@
 [arxiv 2024.04]Diffusion-RWKV: Scaling RWKV-Like Architectures for Diffusion Models [[PDF](https://arxiv.org/abs/2404.04478)]
 
 
+[arxiv 2024.06] Dimba: Transformer-Mamba Diffusion Models  [[PDF](https://arxiv.org/abs/2406.01159)]
+
+
+[arxiv 2024.06]   [[PDF](),[Page]()]
+
+
 
 ## Architecture
 [arxiv 2023.03]Masked Diffusion Transformer is a Strong Image Synthesizer [[PDF](https://arxiv.org/abs/2303.14389)]
