@@ -342,8 +342,9 @@
 
 [arxiv 2024.05]AnyFit: Controllable Virtual Try-on for Any Combination of Attire Across Any Scenario [[PDF](https://arxiv.org/abs/2405.18172),[Page](https://colorful-liyu.github.io/anyfit-page/)]
 
+[arxiv 2024.06] DiffUHaul: A Training-Free Method for Object Dragging in Images  [[PDF](https://arxiv.org/abs/2406.01594),[Page](https://omriavrahami.com/diffuhaul/)]
 
-
+[arxiv 2024.06]  MultiEdits: Simultaneous Multi-Aspect Editing with Text-to-Image Diffusion Models [[PDF](https://arxiv.org/abs/2406.00985),[Page](https://mingzhenhuang.com/projects/MultiEdits.html)]
 
 [arxiv 2024.06]   [[PDF](),[Page]()]
 
@@ -360,7 +361,7 @@
 [arxiv 2024.06]   [[PDF](),[Page]()]
 
 
-##  Improve T2I base modules
+## Improve T2I base modules
 [arxiv 2023.11]Self-correcting LLM-controlled Diffusion Models [[PDF](https://arxiv.org/abs/2311.16090)]
 
 [arxiv 2023.11]Enhancing Diffusion Models with Text-Encoder Reinforcement Learning [[PDF](https://arxiv.org/abs/2311.15657)]
@@ -445,6 +446,8 @@
 
 [arxiv 2024.06] Kaleido Diffusion: Improving Conditional Diffusion Models with Autoregressive Latent Modeling [[PDF](https://arxiv.org/abs/2405.21048)]
 
+[arxiv 2024.06]Improving GFlowNets for Text-to-Image Diffusion Alignment [[PDF](https://arxiv.org/abs/2406.00633)]
+
 [arxiv 2024.06]   [[PDF](),[Page]()]
 
 
@@ -467,7 +470,10 @@
 
 [arxiv 2024.05] CustomText: Customized Textual Image Generation using Diffusion Models [[PDF](https://arxiv.org/abs/2405.12531)]
 
-[arxiv 2024.05]    [[PDF](), [Page]()]
+[arxiv 2024.06] SceneTextGen: Layout-Agnostic Scene Text Image Synthesis with Diffusion Models [[PDF](https://arxiv.org/abs/2406.01062)]
+
+[arxiv 2024.06]   [[PDF](),[Page]()]
+
 
 
 ## face swapping 
@@ -684,6 +690,11 @@
 [arxiv 2024.05]AttenCraft: Attention-guided Disentanglement of Multiple Concepts for Text-to-Image Customization [[PDF](https://arxiv.org/abs/2405.17965),[Page](https://github.com/junjie-shentu/AttenCraft)]
 
 [arxiv 2024.05]RectifID: Personalizing Rectified Flow with Anchored Classifier Guidance [[PDF](https://arxiv.org/abs/2405.14677),[Page](https://github.com/feifeiobama/RectifID)]
+
+[arxiv 2024.06] HyperDreamBooth: HyperNetworks for Fast Personalization of Text-to-Image Model  [[PDF](https://arxiv.org/abs/2307.06949),[Page](https://hyperdreambooth.github.io/)]
+
+[arxiv 2024.06]AutoStudio: Crafting Consistent Subjects in Multi-turn Interactive Image Generation [[PDF](https://arxiv.org/abs/2406.01388),[Page](https://howe183.github.io/AutoStudio.io/)]
+
 
 [arxiv 2024.06]   [[PDF](),[Page]()]
 
@@ -1076,6 +1087,9 @@ Cross-Attention Control [[PDF](https://arxiv.org/abs/2402.13404)]
 [arxiv 2024.05] PatchScaler: An Efficient Patch-independent Diffusion Model for Super-Resolution  [[PDF](https://arxiv.org/abs/2405.17158), [Page](https://github.com/yongliuy/PatchScaler)]
 
 [arxiv 2024.05]Blind Image Restoration via Fast Diffusion Inversion[[PDF](https://arxiv.org/abs/2405.19572),[Page](https://github.com/hamadichihaoui/BIRD)]
+
+[arxiv 2024.06]  FlowIE: Efficient Image Enhancement via Rectified Flow [[PDF](https://arxiv.org/abs/2406.00508),[Page](https://github.com/EternalEvan/FlowIE)]
+
 
 [arxiv 2024.06]   [[PDF](),[Page]()]
 
