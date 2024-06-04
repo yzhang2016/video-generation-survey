@@ -62,8 +62,14 @@ A reading list of video generation
 
 * **vivago.ai**[[Page](https://vivago.ai/video)]
 
+
+
 ### Translation 
 * **Goenhance.ai**[[Page](https://www.goenhance.ai/)]
+
+* **ViggleAI**[[Page](https://t.co/2GMBpUOyHL)]
+
+
 
 ## :point_right: Databases
 
@@ -123,7 +129,7 @@ A reading list of video generation
 ## Video VAE 
 [arxiv 2024.05]CV-VAE: A Compatible Video VAE for Latent Generative Video Models [[PDF](https://arxiv.org/abs/2405.20279),[Page](https://ailab-cvc.github.io/cvvae/index.html)]
 
-[arxiv 2024.05] [[PDF](),[Page]()]
+[arxiv 2024.06] [[PDF](),[Page]()]
 
 
 
@@ -801,7 +807,7 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2024.05]ToonCrafter: Generative Cartoon Interpolation [[PDF](https://arxiv.org/abs/2405.17933),[Page](https://doubiiu.github.io/projects/ToonCrafter/)]
 
-[arxiv 2024.05] [[PDF](),[Page]()]
+[arxiv 2024.06] [[PDF](),[Page]()]
 
 ## motion transfer 
 [arxiv 2023.05]LEO: Generative Latent Image Animator for Human Video Synthesis [[PDF](https://arxiv.org/abs/2305.03989),[Page](https://wyhsirius.github.io/LEO-project/)]
@@ -835,8 +841,10 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2024.05]MotionFollower: Editing Video Motion via Lightweight Score-Guided Diffusion [[PDF](https://arxiv.org/abs/2405.20325),[Page](https://francis-rings.github.io/MotionFollower/)]
 
+[arxiv 2024.06] UniAnimate: Taming Unified Video Diffusion Models for Consistent Human Image Animation[[PDF](https://arxiv.org/abs/2406.01188),[Page](https://unianimate.github.io/)]
 
-[arxiv 2024.05] [[PDF](),[Page]()]
+
+[arxiv 2024.06] [[PDF](),[Page]()]
 
 
 
@@ -851,7 +859,7 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2024.03]FRESCO: Spatial-Temporal Correspondence for Zero-Shot Video Translation [[PDF](https://arxiv.org/abs/2403.12962),[Page](https://github.com/williamyang1991/fresco)]
 
-[arxiv 2024.05] [[PDF](),[Page]()]
+[arxiv 2024.06] [[PDF](),[Page]()]
 
 ## Evaluation 
 [arxiv 2023.10]EvalCrafter: Benchmarking and Evaluating Large Video Generation Models [[PDF](https://arxiv.org/abs/2310.11440),[Page](https://evalcrafter.github.io/)]
@@ -865,7 +873,7 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2024.03]Subjective-Aligned Dateset and Metric for Text-to-Video Quality Assessment [[PDF](https://arxiv.org/abs/2403.11956)]
 
-[arxiv 2024.05] [[PDF](),[Page]()]
+[arxiv 2024.06] [[PDF](),[Page]()]
 
 ## Survey
 [arxiv 2023.03]A Survey on Video Diffusion Models [[PDF](https://arxiv.org/abs/2310.10647)]
@@ -908,7 +916,7 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 [arxiv 2024.05] PCM : Phased Consistency Model[[PDF](https://arxiv.org/abs/2405.18407),[Page](https://g-u-n.github.io/projects/pcm/)]
 
 
-[arxiv 2024.05] [[PDF](),[Page]()]
+[arxiv 2024.06] [[PDF](),[Page]()]
 
 
 ## Others 
