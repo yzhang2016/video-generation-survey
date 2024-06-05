@@ -254,7 +254,7 @@
 
 [arxiv 2024.03]Holo-Relighting: Controllable Volumetric Portrait Relighting from a Single Image [PDF(https://arxiv.org/abs/2403.09632)]
 
-[arxiv 2024.03]Time-Efficient and Identity-Consistent Virtual Try-On Using A Variant of Altered Diffusion Models [[PDF](https://arxiv.org/abs/2403.07371)]
+
 
 [arxiv 2024.03]Editing Massive Concepts in Text-to-Image Diffusion Models [[PDF](https://arxiv.org/abs/2403.13807),[Page](https://silentview.github.io/EMCID/)]
 
@@ -262,7 +262,7 @@
 
 [arxiv 2024.03]Magic Fixup: Streamlining Photo Editing by Watching Dynamic Videos [[PDF](https://magic-fixup.github.io/magic_fixup.pdf),[Page](https://magic-fixup.github.io/)]
 
-[arxiv 2024.03]Wear-Any-Way: Manipulable Virtual Try-on via Sparse Correspondence Alignment [[PDF](https://arxiv.org/abs/2403.12965),[Page](https://mengtingchen.github.io/wear-any-way-page/)]
+
 
 [arxiv 2024.03]LASPA: Latent Spatial Alignment for Fast Training-free Single Image Editing [[PDF](https://arxiv.org/abs/2403.12585)]
 
@@ -274,11 +274,10 @@
 
 [arxiv 2024.03]TextCraftor: Your Text Encoder Can be Image Quality Controller [[PDF](https://arxiv.org/abs/2403.18978)]
 
-[arxiv 2024.04]Texture-Preserving Diffusion Models for High-Fidelity Virtual Try-On [[PDF](https://arxiv.org/abs/2404.01089)]
 
 [arxiv 2024.04]Drag Your Noise: Interactive Point-based Editing via Diffusion Semantic Propagation [[PDF](https://arxiv.org/abs/2404.01050),[Page](https://github.com/haofengl/DragNoise)]
 
-[arxiv 2024.04]TryOn-Adapter: Efficient Fine-Grained Clothing Identity Adaptation for High-Fidelity Virtual Try-On [[PDF](https://arxiv.org/abs/2404.00878),[Page](https://github.com/jiazheng-xing/TryOn-Adapter)]
+
 
 [arxiv 2024.04]Cross-Attention Makes Inference Cumbersome in Text-to-Image Diffusion Models [[PDF](https://arxiv.org/abs/2404.02747)]
 
@@ -308,12 +307,6 @@
 
 [arxiv 2024.04]GeoDiffuser: Geometry-Based Image Editing with Diffusion Models [[PDF](https://arxiv.org/abs/2404.14403)]
 
-[arxiv 2024.04]FLDM-VTON: Faithful Latent Diffusion Model for Virtual Try-on [[PDF](https://arxiv.org/abs/2404.14162)]
-
-[arxiv 2024.03]Improving Diffusion Models for Authentic Virtual Try-on in the Wild [[PDF](https://arxiv.org/abs/2403.05139),[Page](https://idm-vton.github.io/)]
-
-[arxiv 2024.04]MV-VTON: Multi-View Virtual Try-On with Diffusion Models [[PDF](https://arxiv.org/abs/2404.17364)]
-
 [arxiv 2024.04]LocInv: Localization-aware Inversion for Text-Guided Image Editing [[PDF](https://arxiv.org/abs/2405.01496)]
 
 [arxiv 2024.05]SonicDiffusion: Audio-Driven Image Generation and Editing with Pretrained Diffusion Models[[PDF](https://arxiv.org/abs/2405.00878)]
@@ -340,11 +333,13 @@
 
 [arxiv 2024.05] Enhancing Text-to-Image Editing via Hybrid Mask-Informed Fusion  [[PDF](https://arxiv.org/abs/2405.15313)]
 
-[arxiv 2024.05]AnyFit: Controllable Virtual Try-on for Any Combination of Attire Across Any Scenario [[PDF](https://arxiv.org/abs/2405.18172),[Page](https://colorful-liyu.github.io/anyfit-page/)]
+
 
 [arxiv 2024.06] DiffUHaul: A Training-Free Method for Object Dragging in Images  [[PDF](https://arxiv.org/abs/2406.01594),[Page](https://omriavrahami.com/diffuhaul/)]
 
 [arxiv 2024.06]  MultiEdits: Simultaneous Multi-Aspect Editing with Text-to-Image Diffusion Models [[PDF](https://arxiv.org/abs/2406.00985),[Page](https://mingzhenhuang.com/projects/MultiEdits.html)]
+
+[arxiv 2024.06] Dreamguider: Improved Training free Diffusion-based Conditional Generation [[PDF](https://arxiv.org/abs/2406.02549),[Page](https://nithin-gk.github.io/dreamguider.github.io/)]
 
 [arxiv 2024.06]   [[PDF](),[Page]()]
 
@@ -454,6 +449,29 @@
 ## Distill Diffusion Model 
 [arxiv 2024.05]Distilling Diffusion Models into Conditional GANs [[PDF](https://arxiv.org/abs/2405.05967),[Page](https://mingukkang.github.io/Diffusion2GAN/)]
 
+[arxiv 2024.06] Plug-and-Play Diffusion Distillation [[PDF](https://arxiv.org/abs/2406.01954)]
+
+
+## Try-on 
+[arxiv 2024.03]Time-Efficient and Identity-Consistent Virtual Try-On Using A Variant of Altered Diffusion Models [[PDF](https://arxiv.org/abs/2403.07371)]
+
+[arxiv 2024.03]Wear-Any-Way: Manipulable Virtual Try-on via Sparse Correspondence Alignment [[PDF](https://arxiv.org/abs/2403.12965),[Page](https://mengtingchen.github.io/wear-any-way-page/)]
+
+[arxiv 2024.04]Texture-Preserving Diffusion Models for High-Fidelity Virtual Try-On [[PDF](https://arxiv.org/abs/2404.01089)]
+
+[arxiv 2024.04]TryOn-Adapter: Efficient Fine-Grained Clothing Identity Adaptation for High-Fidelity Virtual Try-On [[PDF](https://arxiv.org/abs/2404.00878),[Page](https://github.com/jiazheng-xing/TryOn-Adapter)]
+
+
+[arxiv 2024.04]FLDM-VTON: Faithful Latent Diffusion Model for Virtual Try-on [[PDF](https://arxiv.org/abs/2404.14162)]
+
+[arxiv 2024.03]Improving Diffusion Models for Authentic Virtual Try-on in the Wild [[PDF](https://arxiv.org/abs/2403.05139),[Page](https://idm-vton.github.io/)]
+
+[arxiv 2024.04]MV-VTON: Multi-View Virtual Try-On with Diffusion Models [[PDF](https://arxiv.org/abs/2404.17364)]
+
+[arxiv 2024.05]AnyFit: Controllable Virtual Try-on for Any Combination of Attire Across Any Scenario [[PDF](https://arxiv.org/abs/2405.18172),[Page](https://colorful-liyu.github.io/anyfit-page/)]
+
+
+[arxiv 2024.06]  GraVITON: Graph based garment warping with attention guided inversion for Virtual-tryon [[PDF](https://arxiv.org/abs/2406.02184)]
 
 
 
@@ -1005,6 +1023,9 @@ Cross-Attention Control [[PDF](https://arxiv.org/abs/2402.13404)]
 
 [arxiv 2024.05]CTRLorALTer: Conditional LoRAdapter for Efficient 0-Shot Control & Altering of T2I Models [[PDF](https://arxiv.org/abs/2405.07913),[Page](https://compvis.github.io/LoRAdapter/)]
 
+[arxiv 2024.06]Stable-Pose: Leveraging Transformers for Pose-Guided Text-to-Image Generation [[PDF](https://arxiv.org/abs/2406.02485)]
+
+
 
 ## Image Variation 
 [arxiv 2023.08]IP-Adapter: Text Compatible Image Prompt Adapter for Text-to-Image Diffusion Models [[PDF](https://arxiv.org/pdf/2308.06721.pdf), [Page](https://ip-adapter.github.io/)]
@@ -1276,6 +1297,12 @@ Cross-Attention Control [[PDF](https://arxiv.org/abs/2402.13404)]
 [arxiv 2024.05]Reward Guided Latent Consistency Distillation[[PDF](https://arxiv.org/abs/2403.11027), [Page](https://rg-lcd.github.io/)]
 
 [arxiv 2024.06]Diffusion Models Are Innate One-Step Generators [[PDF](https://arxiv.org/abs/2405.20750)]
+
+[arxiv 2024.06] ViDiT-Q: Efficient and Accurate Quantization of Diffusion Transformers for Image and Video Generation[[PDF](https://arxiv.org/abs/2406.02540), [Page](https://a-suozhang.xyz/viditq.github.io/)]
+
+[arxiv 2024.06]Flash Diffusion: Accelerating Any Conditional Diffusion Model for Few Steps Image Generation
+ [[PDF](https://arxiv.org/abs/2406.02347), [Page](https://github.com/gojasper/flash-diffusion)]
+
 
 [arxiv 2024.06] [[PDF](), [Page]()]
 
