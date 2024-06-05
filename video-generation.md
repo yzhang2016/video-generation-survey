@@ -29,6 +29,12 @@ A reading list of video generation
 
 * **MuseV** [[Page](https://github.com/TMElyralab/MuseV)] 
 
+* **opensora plan** [[Page](https://github.com/PKU-YuanGroup/Open-Sora-Plan)]
+
+* **opensora** [[Page](https://github.com/hpcaitech/Open-Sora)]
+
+*  **easyanimate** [[Page](https://github.com/aigc-apps/EasyAnimate)] 
+
 ### Non-open source
 
 * **Gen-1/Gen-2** [[Page](https://research.runwayml.com/gen2)]
