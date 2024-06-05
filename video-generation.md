@@ -301,6 +301,11 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 
 
+## DiT 
+[arxiv 2024.05]  EasyAnimate: A High-Performance Long Video Generation Method based on Transformer Architecture [[PDF](https://arxiv.org/abs/2405.18991),[Page](https://github.com/aigc-apps/EasyAnimate)]
+
+[arxiv 2024.06]   [[PDF](),[Page]()]
+
 ## State Space-based 
 [arxiv 2024.03]SSM Meets Video Diffusion Models: Efficient Video Generation with Structured State Spaces [[PDF](https://arxiv.org/abs/2403.07711),[Page](https://github.com/shim0114/SSM-Meets-Video-Diffusion-Models)]
 
@@ -350,7 +355,7 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2024.05]Controllable Long Image Animation with Diffusion Models[[PDF](https://arxiv.org/pdf/2405.17306),[Page](https://wangqiang9.github.io/Controllable.github.io/)]
 
-[arxiv 2024.05]  EasyAnimate: A High-Performance Long Video Generation Method based on Transformer Architecture [[PDF](https://arxiv.org/abs/2405.18991),[Page](https://github.com/aigc-apps/EasyAnimate)]
+
 
 
 [arxiv 2024.05]   [[PDF](),[Page]()]
@@ -457,8 +462,11 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2024.05] VidvidDream Generating 3D Scene with Ambient Dynamics [[PDF](https://arxiv.org/abs/2405.20334),[Page](https://vivid-dream-4d.github.io/)]
 
+[arxiv 2024.06] CamCo: Camera-Controllable 3D-Consistent Image-to-Video Generation [[PDF](https://arxiv.org/abs/2406.02509),[Page](https://ir1d.github.io/CamCo/)]
 
-[arxiv 2024.05]  [[PDF](),[Page]()]
+
+
+[arxiv 2024.06]  [[PDF](),[Page]()]
 
 
 
@@ -558,7 +566,10 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2024.04]MuseTalk: Real-Time High Quality Lip Synchronization with Latent Space Inpainting[[PDF](),[Page](https://github.com/TMElyralab/MuseTalk)]
 
-[arxiv 2024.06]V-Express: Conditional Dropout for Progressive Training of Portrait Video Generation[[PDF](),[Page](https://github.com/tencent-ailab/V-Express)]
+[arxiv 2024.06]V-Express: Conditional Dropout for Progressive Training of Portrait Video Generation[[PDF](https://arxiv.org/abs/2406.01900),[Page](https://github.com/tencent-ailab/V-Express)]
+
+[arxiv 2024.06]Follow-Your-Emoji: Fine-Controllable and Expressive Freestyle Portrait Animation[[PDF](),[Page](https://follow-your-emoji.github.io/)]
+
 
 [arxiv 2024.06] [[PDF](),[Page]()]
 
@@ -613,7 +624,7 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2024.04]TI2V-Zero: Zero-Shot Image Conditioning for Text-to-Video Diffusion Models [[PDF](https://arxiv.org/abs/2404.16306),[Page](https://merl.com/research/highlights/TI2V-Zero)]
 
-
+[arxiv 2024.06] I4VGen: Image as Stepping Stone for Text-to-Video Generation[[PDF](https://arxiv.org/abs/2406.02230),[Page](https://xiefan-guo.github.io/i4vgen/)]
 
 [arxiv 2024.06] [[PDF](),[Page]()]
 
