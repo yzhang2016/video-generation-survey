@@ -793,6 +793,9 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2024.05] Looking Backward: Streaming Video-to-Video Translation with Feature Banks [[PDF](https://arxiv.org/abs/2405.15757),[Page](https://jeff-liangf.github.io/projects/streamv2v)]
 
+[arxiv 2024.06]Follow-Your-Pose v2: Multiple-Condition Guided Character Image Animation for Stable Pose Control [[PDF](https://arxiv.org/abs/2406.03035)]
+
+
 [arxiv 2024.05]  [[PDF](),[Page]()]
 
 
@@ -825,6 +828,7 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 [arxiv 2024.05]ToonCrafter: Generative Cartoon Interpolation [[PDF](https://arxiv.org/abs/2405.17933),[Page](https://doubiiu.github.io/projects/ToonCrafter/)]
 
 [arxiv 2024.06] [[PDF](),[Page]()]
+
 
 ## motion transfer 
 [arxiv 2023.05]LEO: Generative Latent Image Animator for Human Video Synthesis [[PDF](https://arxiv.org/abs/2305.03989),[Page](https://wyhsirius.github.io/LEO-project/)]
@@ -859,6 +863,8 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 [arxiv 2024.05]MotionFollower: Editing Video Motion via Lightweight Score-Guided Diffusion [[PDF](https://arxiv.org/abs/2405.20325),[Page](https://francis-rings.github.io/MotionFollower/)]
 
 [arxiv 2024.06] UniAnimate: Taming Unified Video Diffusion Models for Consistent Human Image Animation[[PDF](https://arxiv.org/abs/2406.01188),[Page](https://unianimate.github.io/)]
+
+[arxiv 2024.06] Searching Priors Makes Text-to-Video Synthesis Better[[PDF](https://arxiv.org/abs/2406.03215),[Page](https://hrcheng98.github.io/Search_T2V/)]
 
 
 [arxiv 2024.06] [[PDF](),[Page]()]
