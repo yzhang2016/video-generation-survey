@@ -713,6 +713,7 @@
 
 [arxiv 2024.06]AutoStudio: Crafting Consistent Subjects in Multi-turn Interactive Image Generation [[PDF](https://arxiv.org/abs/2406.01388),[Page](https://howe183.github.io/AutoStudio.io/)]
 
+[arxiv 2024.06] Inv-Adapter: ID Customization Generation via Image Inversion and Lightweight Adapter[[PDF](https://arxiv.org/abs/2406.02881)]
 
 [arxiv 2024.06]   [[PDF](),[Page]()]
 
