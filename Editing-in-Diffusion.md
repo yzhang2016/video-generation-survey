@@ -470,8 +470,9 @@
 
 [arxiv 2024.05]AnyFit: Controllable Virtual Try-on for Any Combination of Attire Across Any Scenario [[PDF](https://arxiv.org/abs/2405.18172),[Page](https://colorful-liyu.github.io/anyfit-page/)]
 
-
 [arxiv 2024.06]  GraVITON: Graph based garment warping with attention guided inversion for Virtual-tryon [[PDF](https://arxiv.org/abs/2406.02184)]
+
+[arxiv 2024.06]M&M VTO: Multi-Garment Virtual Try-On and Editing[[PDF](https://arxiv.org/abs/2406.04542),[Page](https://mmvto.github.io/)]
 
 
 
@@ -715,7 +716,9 @@
 
 [arxiv 2024.06] Inv-Adapter: ID Customization Generation via Image Inversion and Lightweight Adapter[[PDF](https://arxiv.org/abs/2406.02881)]
 
-[arxiv 2024.06]   [[PDF](),[Page]()]
+[arxiv 2024.06] AttnDreamBooth: Towards Text-Aligned Personalized Text-to-Image Generation [[PDF](https://arxiv.org/abs/2406.05000),[Page](https://attndreambooth.github.io/)]
+
+[arxiv 2024.06] [[PDF](), [Page]()]
 
 
 ## Story-telling
@@ -803,8 +806,9 @@ Cross-Attention Control [[PDF](https://arxiv.org/abs/2402.13404)]
 
 [arxiv 2024.05] Enhancing Image Layout Control with Loss-Guided Diffusion Models [[PDF](https://arxiv.org/abs/2405.14101)]
 
+[arxiv 2024.06]Zero-Painter: Training-Free Layout Control for Text-to-Image Synthesis [[PDF](https://arxiv.org/abs/2406.04032),[Page](https://github.com/Picsart-AI-Research/Zero-Painter)] 
 
-[arxiv 2024.05]  [[PDF](),[Page]()]
+[arxiv 2024.06]    [[PDF](),[Page]()] 
 
 
 
@@ -1206,6 +1210,7 @@ Cross-Attention Control [[PDF](https://arxiv.org/abs/2402.13404)]
 
 [arxiv 2024.06]   [[PDF](),[Page]()]
 
+
 ## downstream apps
 [arxiv 2023.11]Text-to-Sticker: Style Tailoring Latent Diffusion Models for Human Expression [[PDF](https://arxiv.org/abs/2311.10794)]
 
@@ -1216,6 +1221,10 @@ Cross-Attention Control [[PDF](https://arxiv.org/abs/2402.13404)]
 [arxiv 2024.02]FineDiffusion : Scaling up Diffusion Models for Fine-grained Image Generation with 10,000 Classes[[PDF](https://arxiv.org/abs/2402.18331),[Page](https://finediffusion.github.io/)]
 
 [arxiv 2024.03]Text-to-Image Diffusion Models are Great Sketch-Photo Matchmakers [[PDF](https://arxiv.org/abs/2403.07214)]
+
+[arxiv 2024.06] Coherent Zero-Shot Visual Instruction Generation  [[PDF](https://arxiv.org/abs/2406.04337),[Page](https://instruct-vis-zero.github.io/)]
+
+[arxiv 2024.06]   [[PDF](),[Page]()]
 
 
 
