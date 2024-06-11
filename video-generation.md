@@ -636,6 +636,9 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2024.06] I4VGen: Image as Stepping Stone for Text-to-Video Generation[[PDF](https://arxiv.org/abs/2406.02230),[Page](https://xiefan-guo.github.io/i4vgen/)]
 
+[arxiv 2024.06] AID: Adapting Image2Video Diffusion Models for Instruction-based Video Prediction[[PDF](https://arxiv.org/abs/2406.06465),[Page](https://chenhsing.github.io/AID/)]
+
+
 [arxiv 2024.06] [[PDF](),[Page]()]
 
 
@@ -694,6 +697,7 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2024.06]Zero-Shot Video Editing through Adaptive Sliding Score Distillation[[PDF](https://arxiv.org/abs/2406.04888),[Page](https://nips24videoedit.github.io/zeroshot_videoedit/)]
 
+[arxiv 2024.06]FRAG: Frequency Adapting Group for Diffusion Video Editing[[PDF](https://arxiv.org/abs/2406.06044)]
 
 [arxiv 2024.06] [[PDF](),[Page]()]
 
@@ -807,8 +811,10 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2024.06]Follow-Your-Pose v2: Multiple-Condition Guided Character Image Animation for Stable Pose Control [[PDF](https://arxiv.org/abs/2406.03035)]
 
+[arxiv 2024.06]NaRCan: Natural Refined Canonical Image with Integration of Diffusion Prior for Video Editing[[PDF](https://arxiv.org/abs/2406.06523),[Page](https://koi953215.github.io/NaRCan_page/)]
 
-[arxiv 2024.05]  [[PDF](),[Page]()]
+
+[arxiv 2024.06] [[PDF](),[Page]()]
 
 
 ## :point_right: Video Completion (animation, interpolation, prediction)
@@ -878,6 +884,7 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2024.06] Searching Priors Makes Text-to-Video Synthesis Better[[PDF](https://arxiv.org/abs/2406.03215),[Page](https://hrcheng98.github.io/Search_T2V/)]
 
+[arxiv 2024.06]MotionClone: Training-Free Motion Cloning for Controllable Video Generation[[PDF](https://arxiv.org/pdf/2406.05338)]
 
 [arxiv 2024.06] [[PDF](),[Page]()]
 
