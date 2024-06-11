@@ -291,13 +291,13 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2024.05] Scaling Diffusion Mamba with Bidirectional SSMs for Efficient Image and Video Generation [[PDF](https://arxiv.org/abs/2405.15881)]
 
-[arxiv 2024.05]   [[PDF](),[Page]()]
+[arxiv 2024.06] [[PDF](), [Page]()]
 
 
 ## LLMs-based 
 [arxiv 2023.12]VideoPoet: A Large Language Model for Zero-Shot Video Generation [[PDF](https://arxiv.org/abs/2312.14125),[Page](http://sites.research.google/videopoet/)]
 
-[arxiv 2024.05]   [[PDF](),[Page]()]
+[arxiv 2024.06] [[PDF](), [Page]()]
 
 
 
@@ -310,7 +310,7 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 [arxiv 2024.03]SSM Meets Video Diffusion Models: Efficient Video Generation with Structured State Spaces [[PDF](https://arxiv.org/abs/2403.07711),[Page](https://github.com/shim0114/SSM-Meets-Video-Diffusion-Models)]
 
 
-[arxiv 2024.05]   [[PDF](),[Page]()]
+[arxiv 2024.06] [[PDF](), [Page]()]
 
 
 
@@ -321,8 +321,14 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2023.12]FreeInit: Bridging Initialization Gap in Video Diffusion Models [[PDF](https://arxiv.org/abs/2312.07537),[Page](https://tianxingwu.github.io/pages/FreeInit/)]
 
-[arxiv 2024.05]   [[PDF](),[Page]()]
+[arxiv 2024.06] [[PDF](), [Page]()]
 
+
+
+## composition 
+[arxiv 2024.06]VideoTetris: Towards Compositional Text-To-Video Generation[[PDF](https://arxiv.org/abs/2406.04277), [Page](https://videotetris.github.io/)]
+
+[arxiv 2024.06] [[PDF](), [Page]()]
 
 
 ## multi-prompt 
@@ -330,7 +336,12 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2024.05]TALC: Time-Aligned Captions for Multi-Scene Text-to-Video Generation [[PDF](https://arxiv.org/abs/2405.04682),[Page](https://talc-mst2v.github.io/)]
 
-[arxiv 2024.05]   [[PDF](),[Page]()]
+[arxiv 2024.06]VideoTetris: Towards Compositional Text-To-Video Generation[[PDF](https://arxiv.org/abs/2406.04277), [Page](https://videotetris.github.io/)]
+
+[arxiv 2024.06] [[PDF](), [Page]()]
+
+
+[arxiv 2024.06] [[PDF](), [Page]()]
 
 
 ## long video generation 
@@ -352,13 +363,12 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2024.05] FIFO-Diffusion: Generating Infinite Videos from Text without Training [[PDF](https://arxiv.org/abs/2405.11473),[Page](https://jjihwan.github.io/projects/FIFO-Diffusion)]
 
-
 [arxiv 2024.05]Controllable Long Image Animation with Diffusion Models[[PDF](https://arxiv.org/pdf/2405.17306),[Page](https://wangqiang9.github.io/Controllable.github.io/)]
 
+[arxiv 2024.06]CoNo: Consistency Noise Injection for Tuning-free Long Video Diffusion [[PDF](https://arxiv.org/abs/2406.05082), [Page](https://wxrui182.github.io/CoNo.github.io/)]
 
 
-
-[arxiv 2024.05]   [[PDF](),[Page]()]
+[arxiv 2024.06] [[PDF](), [Page]()]
 
 
 ## Higher Resolution 
@@ -530,7 +540,7 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 
 
-[arxiv 2024.05]   [[PDF](),[Page]()]
+[arxiv 2024.06] [[PDF](), [Page]()]
 
 
 ## Concept 
@@ -681,6 +691,8 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 [arxiv 2024.05]I2VEdit: First-Frame-Guided Video Editing via Image-to-Video Diffusion Models[[PDF](https://arxiv.org/abs/2405.16537),[Page](https://i2vedit.github.io/)]
 
 [arxiv 2024.05] Streaming Video Diffusion: Online Video Editing with Diffusion Models[[PDF](https://arxiv.org/abs/2405.1972),[Page](https://github.com/Chenfeng1271/SVDiff)]
+
+[arxiv 2024.06]Zero-Shot Video Editing through Adaptive Sliding Score Distillation[[PDF](https://arxiv.org/abs/2406.04888),[Page](https://nips24videoedit.github.io/zeroshot_videoedit/)]
 
 
 [arxiv 2024.06] [[PDF](),[Page]()]
@@ -890,11 +902,15 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 [arxiv 2023.11]FETV: A Benchmark for Fine-Grained Evaluation of Open-Domain Text-to-Video Generation [[PDF](https://arxiv.org/abs/2311.01813)]
 
 [arxiv 2023.11]Online Video Quality Enhancement with Spatial-Temporal Look-up Tables [[PDF](https://arxiv.org/abs/2311.13616)]
-]
 
 [arxiv 2024.03]STREAM: Spatio-TempoRal Evaluation and Analysis Metric for Video Generative Models [[PDF](https://arxiv.org/abs/2403.09669)]
 
 [arxiv 2024.03]Subjective-Aligned Dateset and Metric for Text-to-Video Quality Assessment [[PDF](https://arxiv.org/abs/2403.11956)]
+
+[arxiv 2024.06] GenAI Arena: An Open Evaluation Platform for Generative Models[[PDF](https://arxiv.org/abs/2406.04485),[Page](https://huggingface.co/spaces/TIGER-Lab/GenAI-Arena)]
+
+[arxiv 2024.06]VideoPhy: Evaluating Physical Commonsense for Video Generation [[PDF](http://arxiv.org/abs/2406.03520),[Page](https://videophy.github.io/)]
+
 
 [arxiv 2024.06] [[PDF](),[Page]()]
 
@@ -937,6 +953,8 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 [arxiv 2024.05] T2V-Turbo: Breaking the Quality Bottleneck of Video Consistency Model with Mixed Reward Feedback[[PDF](https://arxiv.org/abs/2405.18750),[Page](https://t2v-turbo.github.io/)]
 
 [arxiv 2024.05] PCM : Phased Consistency Model[[PDF](https://arxiv.org/abs/2405.18407),[Page](https://g-u-n.github.io/projects/pcm/)]
+
+[arxiv 2024.06]SF-V: Single Forward Video Generation Model [[PDF](https://arxiv.org/abs/2406.04324),[Page](https://snap-research.github.io/SF-V/)]
 
 
 [arxiv 2024.06] [[PDF](),[Page]()]
