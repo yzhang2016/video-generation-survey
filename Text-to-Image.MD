@@ -106,7 +106,9 @@
 
 [arxiv 2024.04]Visual Autoregressive Modeling: Scalable Image Generation via Next-Scale Prediction [[PDF](https://arxiv.org/abs/2404.02905), [Page](https://github.com/FoundationVision/VAR)]
 
+[arxiv 2024.06]Autoregressive Model Beats Diffusion: Llama for Scalable Image Generation[[PDF](https://arxiv.org/abs/2406.06525), [Page](https://github.com/FoundationVision/LlamaGen)]
 
+[arxiv 2024.06] [[PDF](), [Page]()]
 
 # Generation & Super-resolution 
 
