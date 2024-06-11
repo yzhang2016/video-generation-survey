@@ -718,8 +718,12 @@
 
 [arxiv 2024.06] AttnDreamBooth: Towards Text-Aligned Personalized Text-to-Image Generation [[PDF](https://arxiv.org/abs/2406.05000),[Page](https://attndreambooth.github.io/)]
 
-[arxiv 2024.06] [[PDF](), [Page]()]
+[arxiv 2024.06]Tuning-Free Visual Customization via View Iterative Self-Attention Control[[PDF](https://arxiv.org/abs/2406.06258)]
 
+[arxiv 2024.06]PaRa: Personalizing Text-to-Image Diffusion via Parameter Rank Reduction[[PDF](https://arxiv.org/pdf/2406.05641)]
+
+
+[arxiv 2024.06] [[PDF](), [Page]()]
 
 ## Story-telling
 
@@ -1360,7 +1364,7 @@ Cross-Attention Control [[PDF](https://arxiv.org/abs/2402.13404)]
 
 [arxiv 0224.04]Bigger is not Always Better: Scaling Properties of Latent Diffusion Models [[PDF(https://arxiv.org/abs/2404.01367)]
 
-
+[arxiv 2024.06] [[PDF](), [Page]()]
 
 
 
@@ -1375,7 +1379,9 @@ Cross-Attention Control [[PDF](https://arxiv.org/abs/2402.13404)]
 
 [arxiv 2024.05]FAIntbench: A Holistic and Precise Benchmark for Bias Evaluation in Text-to-Image Models [[PDF](https://arxiv.org/abs/2405.17814)]
 
+[arxiv 2024.06]GAIA: Rethinking Action Quality Assessment for AI-Generated Videos[[PDF](https://arxiv.org/abs/2406.06087)]
 
+[arxiv 2024.06] [[PDF](), [Page]()]
 
 ## Feedback
 [arxiv 2023.11]Using Human Feedback to Fine-tune Diffusion Models without Any Reward Model [[PDF](https://arxiv.org/abs/2311.13231)]
