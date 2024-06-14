@@ -443,6 +443,12 @@
 
 [arxiv 2024.06]Improving GFlowNets for Text-to-Image Diffusion Alignment [[PDF](https://arxiv.org/abs/2406.00633)]
 
+[arxiv 2024.06] Diffusion Soup: Model Merging for Text-to-Image Diffusion Models [[PDF](https://arxiv.org/abs/2406.08431),[Page]()]
+
+[arxiv 2024.06] CFG++: Manifold-constrained Classifier Free Guidance for Diffusion Models[[PDF](https://arxiv.org/abs/2406.08070),[Page](https://github.com/CFGpp-diffusion/CFGpp)]
+
+[arxiv 2024.06]Understanding and Mitigating Compositional Issues in Text-to-Image Generative Models [[PDF](https://arxiv.org/abs/2406.07844),[Page](https://github.com/ArmanZarei/Mitigating-T2I-Comp-Issues)]
+
 [arxiv 2024.06]   [[PDF](),[Page]()]
 
 
@@ -490,6 +496,9 @@
 [arxiv 2024.05] CustomText: Customized Textual Image Generation using Diffusion Models [[PDF](https://arxiv.org/abs/2405.12531)]
 
 [arxiv 2024.06] SceneTextGen: Layout-Agnostic Scene Text Image Synthesis with Diffusion Models [[PDF](https://arxiv.org/abs/2406.01062)]
+
+[arxiv 2024.06] FontStudio: Shape-Adaptive Diffusion Model for Coherent and Consistent Font Effect Generation [[PDF](https://arxiv.org/abs/2406.08392),[Page](https://font-studio.github.io/)]
+
 
 [arxiv 2024.06]   [[PDF](),[Page]()]
 
@@ -1120,6 +1129,7 @@ Cross-Attention Control [[PDF](https://arxiv.org/abs/2402.13404)]
 
 [arxiv 2024.06]  FlowIE: Efficient Image Enhancement via Rectified Flow [[PDF](https://arxiv.org/abs/2406.00508),[Page](https://github.com/EternalEvan/FlowIE)]
 
+[arxiv 2024.06]  Hierarchical Patch Diffusion Models for High-Resolution Video Generation [[PDF](https://arxiv.org/abs/2406.07792)]
 
 [arxiv 2024.06]   [[PDF](),[Page]()]
 
@@ -1381,6 +1391,8 @@ Cross-Attention Control [[PDF](https://arxiv.org/abs/2402.13404)]
 
 [arxiv 2024.06]GAIA: Rethinking Action Quality Assessment for AI-Generated Videos[[PDF](https://arxiv.org/abs/2406.06087)]
 
+[arxiv 2024.06]Words Worth a Thousand Pictures: Measuring and Understanding Perceptual Variability in Text-to-Image Generation [[PDF](https://arxiv.org/abs/2406.08482)]
+
 [arxiv 2024.06] [[PDF](), [Page]()]
 
 ## Feedback
@@ -1442,6 +1454,10 @@ Cross-Attention Control [[PDF](https://arxiv.org/abs/2402.13404)]
 [arxiv 2024.04]Many-to-many Image Generation with Auto-regressive Diffusion Models [[PDF](https://arxiv.org/abs/2404.03109)]
 
 [arxiv 2024.04]On the Scalability of Diffusion-based Text-to-Image Generation [[PDF](https://arxiv.org/abs/2404.02883)]
+
+
+## Data 
+[arxiv 2024.06]What If We Recaption Billions of Web Images with LLaMA-3? [[PDF](https://arxiv.org/abs/2406.08478), [Page](https://www.haqtu.me/Recap-Datacomp-1B/)]
 
 
 ## Repository
