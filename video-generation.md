@@ -135,6 +135,8 @@ A reading list of video generation
 ## Video VAE 
 [arxiv 2024.05]CV-VAE: A Compatible Video VAE for Latent Generative Video Models [[PDF](https://arxiv.org/abs/2405.20279),[Page](https://ailab-cvc.github.io/cvvae/index.html)]
 
+[arxiv 2024.06]OmniTokenizer: A Joint Image-Video Tokenizer for Visual Generation[[PDF](https://arxiv.org/abs/2406.09399),[Page](https://github.com/FoundationVision/OmniTokenizer)]
+
 [arxiv 2024.06] [[PDF](),[Page]()]
 
 
@@ -290,6 +292,8 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 [arxiv 2024.05]Lumina-T2X: Transforming Text into Any Modality, Resolution, and Duration via Flow-based Large Diffusion Transformers [[PDF](https://arxiv.org/abs/2405.05945),[Page](https://github.com/Alpha-VLLM/Lumina-T2X)]
 
 [arxiv 2024.05] Scaling Diffusion Mamba with Bidirectional SSMs for Efficient Image and Video Generation [[PDF](https://arxiv.org/abs/2405.15881)]
+
+[arxiv 2024.06]Hierarchical Patch Diffusion Models for High-Resolution Video Generation [[PDF](https://arxiv.org/pdf/2406.07792), [Page](https://snap-research.github.io/hpdm)]
 
 [arxiv 2024.06] [[PDF](), [Page]()]
 
@@ -474,6 +478,7 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2024.06] CamCo: Camera-Controllable 3D-Consistent Image-to-Video Generation [[PDF](https://arxiv.org/abs/2406.02509),[Page](https://ir1d.github.io/CamCo/)]
 
+[arxiv 2024.06]Training-free Camera Control for Video Generation[[PDF](https://arxiv.org/abs/2406.10126),[Page](https://lifedecoder.github.io/CamTrol/)]
 
 
 [arxiv 2024.06]  [[PDF](),[Page]()]
