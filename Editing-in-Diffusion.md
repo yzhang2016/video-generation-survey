@@ -334,12 +334,13 @@
 [arxiv 2024.05] Enhancing Text-to-Image Editing via Hybrid Mask-Informed Fusion  [[PDF](https://arxiv.org/abs/2405.15313)]
 
 
-
 [arxiv 2024.06] DiffUHaul: A Training-Free Method for Object Dragging in Images  [[PDF](https://arxiv.org/abs/2406.01594),[Page](https://omriavrahami.com/diffuhaul/)]
 
 [arxiv 2024.06]  MultiEdits: Simultaneous Multi-Aspect Editing with Text-to-Image Diffusion Models [[PDF](https://arxiv.org/abs/2406.00985),[Page](https://mingzhenhuang.com/projects/MultiEdits.html)]
 
 [arxiv 2024.06] Dreamguider: Improved Training free Diffusion-based Conditional Generation [[PDF](https://arxiv.org/abs/2406.02549),[Page](https://nithin-gk.github.io/dreamguider.github.io/)]
+
+[arxiv 2024.06]Zero-shot Image Editing with Reference Imitation [[PDF](https://arxiv.org/abs/2406.07547),[Page](https://xavierchen34.github.io/MimicBrush-Page)]
 
 [arxiv 2024.06]   [[PDF](),[Page]()]
 
@@ -352,6 +353,9 @@
 [arxiv 2024.05] DiG: Scalable and Efficient Diffusion Models with Gated Linear Attention  [[PDF](https://arxiv.org/abs/2405.18428),[Page](https://github.com/hustvl/DiG)]
 
 [arxiv 2024.05]  ViG: Linear-complexity Visual Sequence Learning with Gated Linear Attention [[PDF](https://arxiv.org/abs/2405.18425),[Page](https://github.com/hustvl/ViG)]
+
+[arxiv 2024.06] Alleviating Distortion in Image Generation via Multi-Resolution Diffusion Models[[PDF](https://arxiv.org/abs/2406.09416),[Page](https://qihao067.github.io/projects/DiMR)]
+
 
 [arxiv 2024.06]   [[PDF](),[Page]()]
 
@@ -448,6 +452,8 @@
 [arxiv 2024.06] CFG++: Manifold-constrained Classifier Free Guidance for Diffusion Models[[PDF](https://arxiv.org/abs/2406.08070),[Page](https://github.com/CFGpp-diffusion/CFGpp)]
 
 [arxiv 2024.06]Understanding and Mitigating Compositional Issues in Text-to-Image Generative Models [[PDF](https://arxiv.org/abs/2406.07844),[Page](https://github.com/ArmanZarei/Mitigating-T2I-Comp-Issues)]
+
+[arxiv 2024.06] Make It Count: Text-to-Image Generation with an Accurate Number of Objects [[PDF](https://arxiv.org/abs/2406.10210),[Page](https://make-it-count-paper.github.io/)]
 
 [arxiv 2024.06]   [[PDF](),[Page]()]
 
@@ -731,8 +737,13 @@
 
 [arxiv 2024.06]PaRa: Personalizing Text-to-Image Diffusion via Parameter Rank Reduction[[PDF](https://arxiv.org/pdf/2406.05641)]
 
+[arxiv 2024.06]MS-Diffusion: Multi-subject Zero-shot Image Personalization with Layout Guidance [[PDF](https://arxiv.org/abs/2406.07209), [Page](https://ms-diffusion.github.io/)]
+
+[arxiv 2024.06] Interpreting the Weight Space of Customized Diffusion Models[[PDF](https://arxiv.org/abs/2406.09413), [Page](https://snap-research.github.io/weights2weights)]
+
 
 [arxiv 2024.06] [[PDF](), [Page]()]
+
 
 ## Story-telling
 
@@ -1043,6 +1054,10 @@ Cross-Attention Control [[PDF](https://arxiv.org/abs/2402.13404)]
 
 [arxiv 2024.06]Stable-Pose: Leveraging Transformers for Pose-Guided Text-to-Image Generation [[PDF](https://arxiv.org/abs/2406.02485)]
 
+[arxiv 2024.06] FaithFill: Faithful Inpainting for Object Completion Using a Single Reference Image [[PDF](https://arxiv.org/abs/2406.07865)]
+
+[arxiv 2024.06]   [[PDF](),[Page]()]
+
 
 
 ## Image Variation 
@@ -1130,6 +1145,12 @@ Cross-Attention Control [[PDF](https://arxiv.org/abs/2402.13404)]
 [arxiv 2024.06]  FlowIE: Efficient Image Enhancement via Rectified Flow [[PDF](https://arxiv.org/abs/2406.00508),[Page](https://github.com/EternalEvan/FlowIE)]
 
 [arxiv 2024.06]  Hierarchical Patch Diffusion Models for High-Resolution Video Generation [[PDF](https://arxiv.org/abs/2406.07792)]
+
+[arxiv 2024.06] Is One GPU Enough? Pushing Image Generation at Higher-Resolutions with Foundation Models [[PDF](https://arxiv.org/abs/2406.07251),[Page](https://github.com/Thanos-DB/Pixelsmith)]
+
+[arxiv 2024.06]  Towards Realistic Data Generation for Real-World Super-Resolution[[PDF](https://arxiv.org/abs/2406.07255)]
+
+[arxiv 2024.06]  Crafting Parts for Expressive Object Composition [[PDF](https://arxiv.org/abs/2406.10197),[Page](https://rangwani-harsh.github.io/PartCraft)]
 
 [arxiv 2024.06]   [[PDF](),[Page]()]
 
