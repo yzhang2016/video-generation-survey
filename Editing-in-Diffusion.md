@@ -455,6 +455,9 @@
 
 [arxiv 2024.06] Make It Count: Text-to-Image Generation with an Accurate Number of Objects [[PDF](https://arxiv.org/abs/2406.10210),[Page](https://make-it-count-paper.github.io/)]
 
+[arxiv 2024.06]  AITTI: Learning Adaptive Inclusive Token for Text-to-Image Generation [[PDF](https://arxiv.org/abs/2406.12805),[Page](https://github.com/itsmag11/AITTI)]
+
+
 [arxiv 2024.06]   [[PDF](),[Page]()]
 
 
