@@ -818,8 +818,9 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2024.06]NaRCan: Natural Refined Canonical Image with Integration of Diffusion Prior for Video Editing[[PDF](https://arxiv.org/abs/2406.06523),[Page](https://koi953215.github.io/NaRCan_page/)]
 
+[arxiv 2024.06]VIA: A Spatiotemporal Video Adaptation Framework for Global and Local Video Editing [[PDF](),[Page]()]
 
-[arxiv 2024.06] [[PDF](),[Page]()]
+[arxiv 2024.06] [[PDF](https://arxiv.org/abs/2406.12831),[Page](https://via-video.github.io/)]
 
 
 ## :point_right: Video Completion (animation, interpolation, prediction)
