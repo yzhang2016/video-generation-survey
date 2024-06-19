@@ -108,6 +108,10 @@
 
 [arxiv 2024.06]Autoregressive Model Beats Diffusion: Llama for Scalable Image Generation[[PDF](https://arxiv.org/abs/2406.06525), [Page](https://github.com/FoundationVision/LlamaGen)]
 
+[arxiv 2024.06]Autoregressive Image Generation without Vector Quantization [[PDF](https://arxiv.org/abs/2406.11838),]
+
+
+
 [arxiv 2024.06] [[PDF](), [Page]()]
 
 # Generation & Super-resolution 
