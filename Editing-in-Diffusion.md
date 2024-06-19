@@ -457,8 +457,17 @@
 
 [arxiv 2024.06]  AITTI: Learning Adaptive Inclusive Token for Text-to-Image Generation [[PDF](https://arxiv.org/abs/2406.12805),[Page](https://github.com/itsmag11/AITTI)]
 
+[arxiv 2024.06] Exploring the Role of Large Language Models in Prompt Encoding for Diffusion Models  [[PDF](https://arxiv.org/abs/2406.11831)]
 
 [arxiv 2024.06]   [[PDF](),[Page]()]
+
+## VAE 
+
+[arxiv 2024.06] Scaling the Codebook Size of VQGAN to 100,000 with a Utilization Rate of 99%  [[PDF](https://arxiv.org/abs/2406.11837))]
+
+
+[arxiv 2024.06]   [[PDF](),[Page]()]
+
 
 
 ## Distill Diffusion Model 
@@ -489,6 +498,9 @@
 
 [arxiv 2024.06]M&M VTO: Multi-Garment Virtual Try-On and Editing[[PDF](https://arxiv.org/abs/2406.04542),[Page](https://mmvto.github.io/)]
 
+[arxiv 2024.06]Self-Supervised Vision Transformer for Enhanced Virtual Clothes Try-On [[PDF](https://arxiv.org/abs/2406.10539)]
+
+[arxiv 2024.06]   [[PDF](),[Page]()]
 
 
 ## Model adapatation 
@@ -1417,6 +1429,9 @@ Cross-Attention Control [[PDF](https://arxiv.org/abs/2402.13404)]
 
 [arxiv 2024.06]Words Worth a Thousand Pictures: Measuring and Understanding Perceptual Variability in Text-to-Image Generation [[PDF](https://arxiv.org/abs/2406.08482)]
 
+
+[arxiv 2024.06]PhyBench: A Physical Commonsense Benchmark for Evaluating Text-to-Image Models [[PDF](https://arxiv.org/abs/2406.11802)]
+
 [arxiv 2024.06] [[PDF](), [Page]()]
 
 ## Feedback
@@ -1478,6 +1493,15 @@ Cross-Attention Control [[PDF](https://arxiv.org/abs/2402.13404)]
 [arxiv 2024.04]Many-to-many Image Generation with Auto-regressive Diffusion Models [[PDF](https://arxiv.org/abs/2404.03109)]
 
 [arxiv 2024.04]On the Scalability of Diffusion-based Text-to-Image Generation [[PDF](https://arxiv.org/abs/2404.02883)]
+
+
+[arxiv 2024.06]Frozen CLIP: A Strong Backbone for Weakly Supervised Semantic Segmentation [[PDF](https://arxiv.org/abs/2406.11189)]
+
+
+[arxiv 2024.06]Diffusion Models in Low-Level Vision: A Survey [[PDF](https://arxiv.org/abs/2406.11138)]
+
+
+[arxiv 2024.06] [[PDF](), [Page]()]
 
 
 ## Data 
