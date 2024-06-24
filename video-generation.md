@@ -480,6 +480,8 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2024.06]Training-free Camera Control for Video Generation[[PDF](https://arxiv.org/abs/2406.10126),[Page](https://lifedecoder.github.io/CamTrol/)]
 
+[arxiv 2024.06] Image Conductor: Precision Control for Interactive Video Synthesis [[PDF](https://liyaowei-stu.github.io/project/ImageConductor/),[Page](https://liyaowei-stu.github.io/project/ImageConductor/)]
+
 
 [arxiv 2024.06]  [[PDF](),[Page]()]
 
@@ -521,6 +523,10 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2024.04]VideoGigaGAN: Towards Detail-rich Video Super-Resolution [[PDF](https://videogigagan.github.io/assets/paper.pdf), [Page](https://videogigagan.github.io/)]
 
+[arxiv 2024.06] EvTexture: Event-driven Texture Enhancement for Video Super-Resolution [[PDF](https://arxiv.org/abs/2406.13457),[Page](https://dachunkai.github.io/evtexture.github.io/)]
+
+
+[arxiv 2024.06]   [[PDF](),[Page]()]
 
 ## downstream apps
 [arxiv 2023.11]Breathing Life Into Sketches Using Text-to-Video Priors [[PDF](https://arxiv.org/abs/2311.13608),[Page](https://livesketch.github.io/)]
@@ -818,9 +824,12 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2024.06]NaRCan: Natural Refined Canonical Image with Integration of Diffusion Prior for Video Editing[[PDF](https://arxiv.org/abs/2406.06523),[Page](https://koi953215.github.io/NaRCan_page/)]
 
-[arxiv 2024.06]VIA: A Spatiotemporal Video Adaptation Framework for Global and Local Video Editing [[PDF](),[Page]()]
+[arxiv 2024.06]VIA: A Spatiotemporal Video Adaptation Framework for Global and Local Video Editing [[PDF](https://arxiv.org/abs/2406.12831),[Page](https://via-video.github.io/)]
 
-[arxiv 2024.06] [[PDF](https://arxiv.org/abs/2406.12831),[Page](https://via-video.github.io/)]
+[arxiv 2024.06]  [[PDF](),[Page]()] 
+
+
+
 
 
 ## :point_right: Video Completion (animation, interpolation, prediction)
@@ -850,6 +859,7 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 [arxiv 2024.04]Frame Interpolation with Consecutive Brownian Bridge Diffusion[[PDF](https://arxiv.org/abs/2405.05953),[Page](https://zonglinl.github.io/videointerp/)]
 
 [arxiv 2024.05]ToonCrafter: Generative Cartoon Interpolation [[PDF](https://arxiv.org/abs/2405.17933),[Page](https://doubiiu.github.io/projects/ToonCrafter/)]
+
 
 [arxiv 2024.06] [[PDF](),[Page]()]
 
