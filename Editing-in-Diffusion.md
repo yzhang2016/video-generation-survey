@@ -459,6 +459,14 @@
 
 [arxiv 2024.06] Exploring the Role of Large Language Models in Prompt Encoding for Diffusion Models  [[PDF](https://arxiv.org/abs/2406.11831)]
 
+[arxiv 2024.06] Neural Residual Diffusion Models for Deep Scalable Vision Generation [[PDF](https://arxiv.org/abs/2406.13215)]
+
+[arxiv 2024.06] ARTIST: Improving the Generation of Text-rich Images by Disentanglement  [[PDF](https://arxiv.org/abs/2406.12044),[Page]()]
+
+[arxiv 2024.06] Not All Prompts Are Made Equal: Prompt-based Pruning of Text-to-Image Diffusion Models [[PDF](https://arxiv.org/abs/2406.12042)]
+
+
+
 [arxiv 2024.06]   [[PDF](),[Page]()]
 
 ## VAE 
@@ -499,6 +507,8 @@
 [arxiv 2024.06]M&M VTO: Multi-Garment Virtual Try-On and Editing[[PDF](https://arxiv.org/abs/2406.04542),[Page](https://mmvto.github.io/)]
 
 [arxiv 2024.06]Self-Supervised Vision Transformer for Enhanced Virtual Clothes Try-On [[PDF](https://arxiv.org/abs/2406.10539)]
+
+[arxiv 2024.06] MaX4Zero: Masked Extended Attention for Zero-Shot Virtual Try-On In The Wild  [[PDF](https://nadavorzech.github.io/max4zero.github.io/),[Page](https://nadavorzech.github.io/max4zero.github.io/)]
 
 [arxiv 2024.06]   [[PDF](),[Page]()]
 
@@ -1167,6 +1177,9 @@ Cross-Attention Control [[PDF](https://arxiv.org/abs/2402.13404)]
 
 [arxiv 2024.06]  Crafting Parts for Expressive Object Composition [[PDF](https://arxiv.org/abs/2406.10197),[Page](https://rangwani-harsh.github.io/PartCraft)]
 
+
+[arxiv 2024.06] LFMamba: Light Field Image Super-Resolution with State Space Model [[PDF](https://arxiv.org/abs/2406.12463)]
+
 [arxiv 2024.06]   [[PDF](),[Page]()]
 
 
@@ -1257,6 +1270,9 @@ Cross-Attention Control [[PDF](https://arxiv.org/abs/2402.13404)]
 [arxiv 2024.05]FreeTuner: Any Subject in Any Style with Training-free Diffusion[[PDF](https://arxiv.org/abs/2405.14201)]
 
 [arxiv 2024.05] StyleMaster: Towards Flexible Stylized Image Generation with Diffusion Models [[PDF](https://arxiv.org/abs/2405.15287)]
+
+[arxiv 2024.06] Stylebreeder: Exploring and Democratizing Artistic Styles through Text-to-Image Models [[PDF](https://arxiv.org/abs/2406.14599),[Page](https://stylebreeder.github.io/)]
+
 
 [arxiv 2024.06]   [[PDF](),[Page]()]
 
@@ -1363,6 +1379,10 @@ Cross-Attention Control [[PDF](https://arxiv.org/abs/2402.13404)]
 [arxiv 2024.06]Flash Diffusion: Accelerating Any Conditional Diffusion Model for Few Steps Image Generation
  [[PDF](https://arxiv.org/abs/2406.02347), [Page](https://github.com/gojasper/flash-diffusion)]
 
+[arxiv 2024.06]Invertible Consistency Distillation for Text-Guided Image Editing in Around 7 Steps [[PDF](https://arxiv.org/abs/2406.14539), [Page](https://yandex-research.github.io/invertible-cd/)]
+
+[arxiv 2024.06]Immiscible Diffusion: Accelerating Diffusion Training with Noise Assignment[[PDF](https://arxiv.org/abs/2406.12303)]
+
 
 [arxiv 2024.06] [[PDF](), [Page]()]
 
@@ -1432,6 +1452,9 @@ Cross-Attention Control [[PDF](https://arxiv.org/abs/2402.13404)]
 
 [arxiv 2024.06]PhyBench: A Physical Commonsense Benchmark for Evaluating Text-to-Image Models [[PDF](https://arxiv.org/abs/2406.11802)]
 
+[arxiv 2024.06]Holistic Evaluation for Interleaved Text-and-Image Generation [[PDF](https://arxiv.org/abs/2406.14643), ]
+
+
 [arxiv 2024.06] [[PDF](), [Page]()]
 
 ## Feedback
@@ -1500,6 +1523,8 @@ Cross-Attention Control [[PDF](https://arxiv.org/abs/2402.13404)]
 
 [arxiv 2024.06]Diffusion Models in Low-Level Vision: A Survey [[PDF](https://arxiv.org/abs/2406.11138)]
 
+
+[arxiv 2024.06]A Survey of Multimodal-Guided Image Editing with Text-to-Image Diffusion Models [[PDF](https://arxiv.org/abs/2406.14555), [Page](https://github.com/xinchengshuai/Awesome-Image-Editing)]
 
 [arxiv 2024.06] [[PDF](), [Page]()]
 
