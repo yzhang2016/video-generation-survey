@@ -766,6 +766,10 @@
 
 [arxiv 2024.06] Interpreting the Weight Space of Customized Diffusion Models[[PDF](https://arxiv.org/abs/2406.09413), [Page](https://snap-research.github.io/weights2weights)]
 
+[arxiv 2024.06]DreamBench++: A Human-Aligned Benchmark for Personalized Image Generation [[PDF](https://arxiv.org/abs/2406.16855), [Page](https://dreambenchplus.github.io/)]
+
+[arxiv 2024.06]Character-Adapter: Prompt-Guided Region Control for High-Fidelity Character Customization[[PDF](https://arxiv.org/abs/2406.16537)]
+
 
 [arxiv 2024.06] [[PDF](), [Page]()]
 
@@ -1177,8 +1181,10 @@ Cross-Attention Control [[PDF](https://arxiv.org/abs/2402.13404)]
 
 [arxiv 2024.06]  Crafting Parts for Expressive Object Composition [[PDF](https://arxiv.org/abs/2406.10197),[Page](https://rangwani-harsh.github.io/PartCraft)]
 
-
 [arxiv 2024.06] LFMamba: Light Field Image Super-Resolution with State Space Model [[PDF](https://arxiv.org/abs/2406.12463)]
+
+[arxiv 2024.06] ResMaster: Mastering High-Resolution Image Generation via Structural and Fine-Grained Guidance
+  [[PDF](https://arxiv.org/abs/2406.16476),[Page](https://shuweis.github.io/ResMaster/)]
 
 [arxiv 2024.06]   [[PDF](),[Page]()]
 
