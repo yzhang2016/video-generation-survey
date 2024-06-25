@@ -371,6 +371,8 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2024.06]CoNo: Consistency Noise Injection for Tuning-free Long Video Diffusion [[PDF](https://arxiv.org/abs/2406.05082), [Page](https://wxrui182.github.io/CoNo.github.io/)]
 
+[arxiv 2024.06]Video-Infinity: Distributed Long Video Generation [[PDF](https://arxiv.org/abs/2406.16260), [Page](https://video-infinity.tanzhenxiong.com/)]
+
 
 [arxiv 2024.06] [[PDF](), [Page]()]
 
@@ -459,9 +461,13 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 [arxiv 2024.05]MOFA-Video: Controllable Image Animation via Generative Motion Field Adaptions in Frozen Image-to-Video Diffusion Model [[PDF](https://arxiv.org/abs/2405.20222),[Page](https://myniuuu.github.io/MOFA_Video/)]
 
 
-[arxiv 2024.05] FreeTraj: Tuning-Free Trajectory Control in Video Diffusion Models [[PDF](https://arxiv.org/abs/2406.16863),[Page](http://haonanqiu.com/projects/FreeTraj.html)]
+[arxiv 2024.06] FreeTraj: Tuning-Free Trajectory Control in Video Diffusion Models [[PDF](https://arxiv.org/abs/2406.16863),[Page](http://haonanqiu.com/projects/FreeTraj.html)]
 
-[arxiv 2024.05]  [[PDF](),[Page]()]
+
+[arxiv 2024.06] MVOC: a training-free multiple video object composition method with diffusion models [[PDF](https://arxiv.org/abs/2406.15829),[Page](https://sobeymil.github.io/mvoc.com/)]
+
+
+[arxiv 2024.06]  [[PDF](),[Page]()]
 
 
 
@@ -653,6 +659,8 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 [arxiv 2024.06] I4VGen: Image as Stepping Stone for Text-to-Video Generation[[PDF](https://arxiv.org/abs/2406.02230),[Page](https://xiefan-guo.github.io/i4vgen/)]
 
 [arxiv 2024.06] AID: Adapting Image2Video Diffusion Models for Instruction-based Video Prediction[[PDF](https://arxiv.org/abs/2406.06465),[Page](https://chenhsing.github.io/AID/)]
+
+[arxiv 2024.06] Identifying and Solving Conditional Image Leakage in Image-to-Video Generation[[PDF](https://arxiv.org/pdf/2406.15735),[Page](https://cond-image-leak.github.io/)]
 
 
 [arxiv 2024.06] [[PDF](),[Page]()]
