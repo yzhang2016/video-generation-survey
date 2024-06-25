@@ -458,7 +458,12 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2024.05]MOFA-Video: Controllable Image Animation via Generative Motion Field Adaptions in Frozen Image-to-Video Diffusion Model [[PDF](https://arxiv.org/abs/2405.20222),[Page](https://myniuuu.github.io/MOFA_Video/)]
 
+
+[arxiv 2024.05] FreeTraj: Tuning-Free Trajectory Control in Video Diffusion Models [[PDF](https://arxiv.org/abs/2406.16863),[Page](http://haonanqiu.com/projects/FreeTraj.html)]
+
 [arxiv 2024.05]  [[PDF](),[Page]()]
+
+
 
 
 ## Camera 
