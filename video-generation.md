@@ -467,9 +467,17 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 [arxiv 2024.06] MVOC: a training-free multiple video object composition method with diffusion models [[PDF](https://arxiv.org/abs/2406.15829),[Page](https://sobeymil.github.io/mvoc.com/)]
 
 
+[arxiv 2024.06] MotionBooth: Motion-Aware Customized Text-to-Video Generation [[PDF](https://arxiv.org/abs/2406.17758),[Page](https://jianzongwu.github.io/projects/motionbooth)]
+
+
 [arxiv 2024.06]  [[PDF](),[Page]()]
 
 
+
+## text 
+[arxiv 2024.06]  Text-Animator: Controllable Visual Text Video Generation[[PDF](https://arxiv.org/abs/2406.17777),[Page](https://laulampaul.github.io/text-animator.html)]
+
+[arxiv 2024.06]  [[PDF](),[Page]()]
 
 
 ## Camera 
@@ -872,6 +880,8 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 [arxiv 2024.04]Frame Interpolation with Consecutive Brownian Bridge Diffusion[[PDF](https://arxiv.org/abs/2405.05953),[Page](https://zonglinl.github.io/videointerp/)]
 
 [arxiv 2024.05]ToonCrafter: Generative Cartoon Interpolation [[PDF](https://arxiv.org/abs/2405.17933),[Page](https://doubiiu.github.io/projects/ToonCrafter/)]
+
+[arxiv 2024.06]Disentangled Motion Modeling for Video Frame Interpolation [[PDF](https://arxiv.org/abs/2406.17256),[Page](https://github.com/JHLew/MoMo)]
 
 
 [arxiv 2024.06] [[PDF](),[Page]()]
