@@ -465,6 +465,7 @@
 
 [arxiv 2024.06] Not All Prompts Are Made Equal: Prompt-based Pruning of Text-to-Image Diffusion Models [[PDF](https://arxiv.org/abs/2406.12042)]
 
+[arxiv 2024.06]Fine-tuning Diffusion Models for Enhancing Face Quality in Text-to-image Generation[[PDF](https://arxiv.org/abs/2406.17100)]
 
 
 [arxiv 2024.06]   [[PDF](),[Page]()]
@@ -769,6 +770,9 @@
 [arxiv 2024.06]DreamBench++: A Human-Aligned Benchmark for Personalized Image Generation [[PDF](https://arxiv.org/abs/2406.16855), [Page](https://dreambenchplus.github.io/)]
 
 [arxiv 2024.06]Character-Adapter: Prompt-Guided Region Control for High-Fidelity Character Customization[[PDF](https://arxiv.org/abs/2406.16537)]
+
+
+[arxiv 2024.06]LIPE: Learning Personalized Identity Prior for Non-rigid Image Editing [[PDF](https://arxiv.org/abs/2406.17236)]
 
 
 [arxiv 2024.06] [[PDF](), [Page]()]
