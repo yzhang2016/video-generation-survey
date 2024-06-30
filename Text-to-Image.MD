@@ -63,12 +63,11 @@
 
 [arxiv 2024.05] Hunyuan-DiT : A Powerful Multi-Resolution Diffusion Transformer with Fine-Grained Chinese Understanding [[PDF](https://tencent.github.io/HunyuanDiT/asset/Hunyuan_DiT_Tech_Report_05140553.pdf),[Page](https://github.com/Tencent/HunyuanDiT?tab=readme-ov-file)]
 
-
 [arxiv 2024.05] Improving the Training of Rectified Flows[[PDF](https://arxiv.org/abs/2405.20320),[Page](https://github.com/sangyun884/rfpp)]
 
-[arxiv 2024.05] [[PDF](),[Page]()]
+[arxiv 2024.06]Lumina-Next: Making Lumina-T2X Stronger and Faster with Next-DiT [[PDF](https://arxiv.org/abs/2406.18583),[Page](https://github.com/Alpha-VLLM/Lumina-T2X)]
 
-
+[arxiv 2024.06] [[PDF](),[Page]()]
 
 ## GAN/VAE/Transformer-based 
 
