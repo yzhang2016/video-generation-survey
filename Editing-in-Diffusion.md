@@ -774,6 +774,8 @@
 
 [arxiv 2024.06]LIPE: Learning Personalized Identity Prior for Non-rigid Image Editing [[PDF](https://arxiv.org/abs/2406.17236)]
 
+[arxiv 2024.06] AlignIT: Enhancing Prompt Alignment in Customization of Text-to-Image Models  [[PDF](https://arxiv.org/abs/2406.18893)]
+
 
 [arxiv 2024.06] [[PDF](), [Page]()]
 
@@ -812,6 +814,10 @@
 [arxiv 2024.05] Evolving Storytelling: Benchmarks and Methods for New Character Customization with Diffusion Models  [[PDF](https://arxiv.org/abs/2405.11852)]
 
 [arxiv 2024.06]   [[PDF](),[Page]()]
+
+
+
+
 
 ## Layout Generation 
 [arxiv 2022.08]Layout-Bridging Text-to-Image Synthesis [[PDF](https://arxiv.org/pdf/2208.06162.pdf)]
@@ -1089,8 +1095,9 @@ Cross-Attention Control [[PDF](https://arxiv.org/abs/2402.13404)]
 
 [arxiv 2024.06] FaithFill: Faithful Inpainting for Object Completion Using a Single Reference Image [[PDF](https://arxiv.org/abs/2406.07865)]
 
-[arxiv 2024.06]   [[PDF](),[Page]()]
+[arxiv 2024.06] AnyControl: Create Your Artwork with Versatile Control on Text-to-Image Generation  [[PDF](https://arxiv.org/abs/2406.18958),[Page](https://any-control.github.io/)]
 
+[arxiv 2024.06]   [[PDF](),[Page]()]
 
 
 ## Image Variation 
