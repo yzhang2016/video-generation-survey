@@ -544,6 +544,8 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2024.06] EvTexture: Event-driven Texture Enhancement for Video Super-Resolution [[PDF](https://arxiv.org/abs/2406.13457),[Page](https://dachunkai.github.io/evtexture.github.io/)]
 
+[arxiv 2024.06]  DiffIR2VR-Zero:Zero-Shot Video Restoration with Diffusion-based Image Restoration Models [[PDF](https://arxiv.org/abs/2304.06706),[Page](https://jimmycv07.github.io/DiffIR2VR_web/)]
+
 
 [arxiv 2024.06]   [[PDF](),[Page]()]
 
