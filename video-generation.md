@@ -129,7 +129,13 @@ A reading list of video generation
 
 * **Panda-70M**
 
-[arxiv 2024.03]A Large-Scale Dataset with 70M High-Quality Video-Caption Pairs [[PDF](https://arxiv.org/pdf/2402.00000.pdf), [Page](https://snap-research.github.io/Panda-70M/)]
+[arxiv 2024.06]ChronoMagic-Bench: A Benchmark for Metamorphic Evaluation of Text-to-Time-lapse Video Generation
+ [[PDF](https://arxiv.org/abs/2406.18522), [Page](https://github.com/PKU-YuanGroup/ChronoMagic-Bench)]
+
+
+* **ChronoMagic-Pro**
+
+
 
 
 ## Video VAE 
