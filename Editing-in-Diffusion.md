@@ -342,7 +342,7 @@
 
 [arxiv 2024.06]Zero-shot Image Editing with Reference Imitation [[PDF](https://arxiv.org/abs/2406.07547),[Page](https://xavierchen34.github.io/MimicBrush-Page)]
 
-[arxiv 2024.06]   [[PDF](),[Page]()]
+[arxiv 2024.07]   [[PDF](),[Page]()]
 
 
 ## DiT 
@@ -357,7 +357,8 @@
 [arxiv 2024.06] Alleviating Distortion in Image Generation via Multi-Resolution Diffusion Models[[PDF](https://arxiv.org/abs/2406.09416),[Page](https://qihao067.github.io/projects/DiMR)]
 
 
-[arxiv 2024.06]   [[PDF](),[Page]()]
+
+[arxiv 2024.07]   [[PDF](),[Page]()]
 
 
 ## Improve T2I base modules
@@ -468,14 +469,17 @@
 [arxiv 2024.06]Fine-tuning Diffusion Models for Enhancing Face Quality in Text-to-image Generation[[PDF](https://arxiv.org/abs/2406.17100)]
 
 
-[arxiv 2024.06]   [[PDF](),[Page]()]
+[arxiv 2024.07]PopAlign: Population-Level Alignment for Fair Text-to-Image Generation [[PDF](https://arxiv.org/abs/2406.19668)]
+
+
+[arxiv 2024.07]   [[PDF](),[Page]()]
 
 ## VAE 
 
 [arxiv 2024.06] Scaling the Codebook Size of VQGAN to 100,000 with a Utilization Rate of 99%  [[PDF](https://arxiv.org/abs/2406.11837))]
 
 
-[arxiv 2024.06]   [[PDF](),[Page]()]
+[arxiv 2024.07]   [[PDF](),[Page]()]
 
 
 
@@ -511,7 +515,7 @@
 
 [arxiv 2024.06] MaX4Zero: Masked Extended Attention for Zero-Shot Virtual Try-On In The Wild  [[PDF](https://nadavorzech.github.io/max4zero.github.io/),[Page](https://nadavorzech.github.io/max4zero.github.io/)]
 
-[arxiv 2024.06]   [[PDF](),[Page]()]
+[arxiv 2024.07]   [[PDF](),[Page]()]
 
 
 ## Model adapatation 
@@ -532,7 +536,7 @@
 [arxiv 2024.06] FontStudio: Shape-Adaptive Diffusion Model for Coherent and Consistent Font Effect Generation [[PDF](https://arxiv.org/abs/2406.08392),[Page](https://font-studio.github.io/)]
 
 
-[arxiv 2024.06]   [[PDF](),[Page]()]
+[arxiv 2024.07]   [[PDF](),[Page]()]
 
 
 
@@ -813,7 +817,7 @@
 
 [arxiv 2024.05] Evolving Storytelling: Benchmarks and Methods for New Character Customization with Diffusion Models  [[PDF](https://arxiv.org/abs/2405.11852)]
 
-[arxiv 2024.06]   [[PDF](),[Page]()]
+[arxiv 2024.07]   [[PDF](),[Page]()]
 
 
 
@@ -898,7 +902,7 @@ Cross-Attention Control [[PDF](https://arxiv.org/abs/2402.13404)]
 
 [arxiv 2024.05]  NIVeL: Neural Implicit Vector Layers for Text-to-Vector Generation  [[PDF](https://arxiv.org/abs/2405.15217)]
 
-[arxiv 2024.06]   [[PDF](),[Page]()]
+[arxiv 2024.07]   [[PDF](),[Page]()]
 
 
 
@@ -1097,7 +1101,7 @@ Cross-Attention Control [[PDF](https://arxiv.org/abs/2402.13404)]
 
 [arxiv 2024.06] AnyControl: Create Your Artwork with Versatile Control on Text-to-Image Generation  [[PDF](https://arxiv.org/abs/2406.18958),[Page](https://any-control.github.io/)]
 
-[arxiv 2024.06]   [[PDF](),[Page]()]
+[arxiv 2024.07]   [[PDF](),[Page]()]
 
 
 ## Image Variation 
@@ -1197,13 +1201,13 @@ Cross-Attention Control [[PDF](https://arxiv.org/abs/2402.13404)]
 [arxiv 2024.06] ResMaster: Mastering High-Resolution Image Generation via Structural and Fine-Grained Guidance
   [[PDF](https://arxiv.org/abs/2406.16476),[Page](https://shuweis.github.io/ResMaster/)]
 
-[arxiv 2024.06]   [[PDF](),[Page]()]
+[arxiv 2024.07]   [[PDF](),[Page]()]
 
 
 ## action transfer 
 [arxiv 2023.11]Learning Disentangled Identifiers for Action-Customized Text-to-Image Generation [[PDF](https://arxiv.org/abs/2311.15841)]
 
-[arxiv 2024.06]   [[PDF](),[Page]()]
+[arxiv 2024.07]   [[PDF](),[Page]()]
 
 ## Style transfer 
 [arxiv 22.11; kuaishou] ***DiffStyler***: Controllable Dual Diffusion for Text-Driven Image Stylization \[[PDF](https://arxiv.org/pdf/2211.10682.pdf), code\]  
@@ -1291,7 +1295,7 @@ Cross-Attention Control [[PDF](https://arxiv.org/abs/2402.13404)]
 [arxiv 2024.06] Stylebreeder: Exploring and Democratizing Artistic Styles through Text-to-Image Models [[PDF](https://arxiv.org/abs/2406.14599),[Page](https://stylebreeder.github.io/)]
 
 
-[arxiv 2024.06]   [[PDF](),[Page]()]
+[arxiv 2024.07]   [[PDF](),[Page]()]
 
 
 ## downstream apps
@@ -1307,7 +1311,7 @@ Cross-Attention Control [[PDF](https://arxiv.org/abs/2402.13404)]
 
 [arxiv 2024.06] Coherent Zero-Shot Visual Instruction Generation  [[PDF](https://arxiv.org/abs/2406.04337),[Page](https://instruct-vis-zero.github.io/)]
 
-[arxiv 2024.06]   [[PDF](),[Page]()]
+[arxiv 2024.07]   [[PDF](),[Page]()]
 
 
 
