@@ -471,6 +471,10 @@
 
 [arxiv 2024.07]PopAlign: Population-Level Alignment for Fair Text-to-Image Generation [[PDF](https://arxiv.org/abs/2406.19668)]
 
+[arxiv 2024.07]  LLM4GEN: Leveraging Semantic Representation of LLMs for Text-to-Image Generation  [[PDF](https://arxiv.org/pdf/2407.00737),[Page](https://xiaobul.github.io/LLM4GEN/)]
+
+[arxiv 2024.07]  Prompt Refinement with Image Pivot for Text-to-Image Generation [[PDF](https://arxiv.org/abs/2407.00247),[Page]()]
+
 
 [arxiv 2024.07]   [[PDF](),[Page]()]
 
@@ -1294,6 +1298,9 @@ Cross-Attention Control [[PDF](https://arxiv.org/abs/2402.13404)]
 
 [arxiv 2024.06] Stylebreeder: Exploring and Democratizing Artistic Styles through Text-to-Image Models [[PDF](https://arxiv.org/abs/2406.14599),[Page](https://stylebreeder.github.io/)]
 
+[arxiv 2024.07] StyleShot: A Snapshot on Any Style [[PDF](https://arxiv.org/abs/2407.01414),[Page](https://styleshot.github.io/)]
+
+[arxiv 2024.07] InstantStyle-Plus: Style Transfer with Content-Preserving in Text-to-Image Generation  [[PDF](https://arxiv.org/abs/2407.00788)]
 
 [arxiv 2024.07]   [[PDF](),[Page]()]
 
