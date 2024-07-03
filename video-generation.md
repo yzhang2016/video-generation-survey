@@ -314,7 +314,7 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 ## DiT 
 [arxiv 2024.05]  EasyAnimate: A High-Performance Long Video Generation Method based on Transformer Architecture [[PDF](https://arxiv.org/abs/2405.18991),[Page](https://github.com/aigc-apps/EasyAnimate)]
 
-[arxiv 2024.06]   [[PDF](),[Page]()]
+[arxiv 2024.07]   [[PDF](),[Page]()]
 
 ## State Space-based 
 [arxiv 2024.03]SSM Meets Video Diffusion Models: Efficient Video Generation with Structured State Spaces [[PDF](https://arxiv.org/abs/2403.07711),[Page](https://github.com/shim0114/SSM-Meets-Video-Diffusion-Models)]
@@ -552,8 +552,10 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2024.06]  DiffIR2VR-Zero:Zero-Shot Video Restoration with Diffusion-based Image Restoration Models [[PDF](https://arxiv.org/abs/2304.06706),[Page](https://jimmycv07.github.io/DiffIR2VR_web/)]
 
+[arxiv 2024.07]  DiffIR2VR-Zero: Zero-Shot Video Restoration with Diffusion-based Image Restoration Models [[PDF](https://arxiv.org/abs/2407.01519),[Page](https://jimmycv07.github.io/DiffIR2VR_web/)]
 
-[arxiv 2024.06]   [[PDF](),[Page]()]
+
+[arxiv 2024.07]   [[PDF](),[Page]()]
 
 ## downstream apps
 [arxiv 2023.11]Breathing Life Into Sketches Using Text-to-Video Priors [[PDF](https://arxiv.org/abs/2311.13608),[Page](https://livesketch.github.io/)]
