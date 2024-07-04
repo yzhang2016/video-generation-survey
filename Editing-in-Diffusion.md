@@ -475,6 +475,9 @@
 
 [arxiv 2024.07]  Prompt Refinement with Image Pivot for Text-to-Image Generation [[PDF](https://arxiv.org/abs/2407.00247),[Page]()]
 
+[arxiv 2024.07] Improved Noise Schedule for Diffusion Training  [[PDF](https://arxiv.org/abs/2407.03297)]
+
+[arxiv 2024.07]  No Training, No Problem: Rethinking Classifier-Free Guidance for Diffusion Models [[PDF](https://arxiv.org/abs/2407.02687)]
 
 [arxiv 2024.07]   [[PDF](),[Page]()]
 
@@ -818,13 +821,12 @@
 
 [arxiv 2024.03]TARN-VIST: Topic Aware Reinforcement Network for Visual Storytelling [[PDF](https://arxiv.org/abs/2403.11550)]
 
-
 [arxiv 2024.05] Evolving Storytelling: Benchmarks and Methods for New Character Customization with Diffusion Models  [[PDF](https://arxiv.org/abs/2405.11852)]
 
+[arxiv 2024.07] Boosting Consistency in Story Visualization with Rich-Contextual Conditional Diffusion Models  [[PDF](https://arxiv.org/abs/2407.02482)]
+
+
 [arxiv 2024.07]   [[PDF](),[Page]()]
-
-
-
 
 
 ## Layout Generation 
@@ -1105,6 +1107,10 @@ Cross-Attention Control [[PDF](https://arxiv.org/abs/2402.13404)]
 
 [arxiv 2024.06] AnyControl: Create Your Artwork with Versatile Control on Text-to-Image Generation  [[PDF](https://arxiv.org/abs/2406.18958),[Page](https://any-control.github.io/)]
 
+[arxiv 2024.07]  Magic Insert: Style-Aware Drag-and-Drop [[PDF](https://arxiv.org/abs/2407.02489),[Page](https://magicinsert.github.io/)]
+
+[arxiv 2024.07]MIGC++: Advanced Multi-Instance Generation Controller for Image Synthesis   [[PDF](https://arxiv.org/abs/2407.02329),[Page](https://github.com/limuloo/MIGC)]
+
 [arxiv 2024.07]   [[PDF](),[Page]()]
 
 
@@ -1301,6 +1307,10 @@ Cross-Attention Control [[PDF](https://arxiv.org/abs/2402.13404)]
 [arxiv 2024.07] StyleShot: A Snapshot on Any Style [[PDF](https://arxiv.org/abs/2407.01414),[Page](https://styleshot.github.io/)]
 
 [arxiv 2024.07] InstantStyle-Plus: Style Transfer with Content-Preserving in Text-to-Image Generation  [[PDF](https://arxiv.org/abs/2407.00788)]
+
+[arxiv 2024.07] Frequency-Controlled Diffusion Model for Versatile Text-Guided Image-to-Image Translation [[PDF](https://arxiv.org/abs/2407.03006),[Page](https://github.com/XiangGao1102/FCDiffusion)]
+
+[arxiv 2024.07] Magic Insert: Style-Aware Drag-and-Drop  [[PDF](https://arxiv.org/abs/2407.02489),[Page](https://magicinsert.github.io/)]
 
 [arxiv 2024.07]   [[PDF](),[Page]()]
 
