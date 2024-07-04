@@ -134,8 +134,10 @@ A reading list of video generation
 
 
 * **ChronoMagic-Pro**
+  
 
-
+* **OpenVid-1M**
+  [arxiv 2024.07] A Large-Scale Dataset for High-Quality Text-to-Video Generation  [[PDF](http://export.arxiv.org/pdf/2407.02371),[Page](https://nju-pcalab.github.io/projects/openvid/)]
 
 
 ## Video VAE 
@@ -143,7 +145,7 @@ A reading list of video generation
 
 [arxiv 2024.06]OmniTokenizer: A Joint Image-Video Tokenizer for Visual Generation[[PDF](https://arxiv.org/abs/2406.09399),[Page](https://github.com/FoundationVision/OmniTokenizer)]
 
-[arxiv 2024.06] [[PDF](),[Page]()]
+[arxiv 2024.07] [[PDF](),[Page]()]
 
 
 
@@ -606,7 +608,7 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2024.04]ID-Animator: Zero-Shot Identity-Preserving Human Video Generation [[PDF](),[Page](https://id-animator.github.io/)]
 
-[arxiv 2024.06] [[PDF](),[Page]()]
+[arxiv 2024.07] [[PDF](),[Page]()]
 
 
 ## Talking Face 
@@ -621,7 +623,7 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 [arxiv 2024.06]Follow-Your-Emoji: Fine-Controllable and Expressive Freestyle Portrait Animation[[PDF](),[Page](https://follow-your-emoji.github.io/)]
 
 
-[arxiv 2024.06] [[PDF](),[Page]()]
+[arxiv 2024.07] [[PDF](),[Page]()]
 
 
 ## Image-to-video Generation 
@@ -681,7 +683,7 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 [arxiv 2024.06] Identifying and Solving Conditional Image Leakage in Image-to-Video Generation[[PDF](https://arxiv.org/pdf/2406.15735),[Page](https://cond-image-leak.github.io/)]
 
 
-[arxiv 2024.06] [[PDF](),[Page]()]
+[arxiv 2024.07] [[PDF](),[Page]()]
 
 
 ## 4D generation 
@@ -694,7 +696,7 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 [arxiv 2023.12]DreamGaussian4D: Generative 4D Gaussian Splatting [[PDF](https://arxiv.org/abs/2312.17142), [Page](https://jiawei-ren.github.io/projects/dreamgaussian4d)]
 
 
-[arxiv 2024.06] [[PDF](),[Page]()]
+[arxiv 2024.07] [[PDF](),[Page]()]
 
 
 ## Audio-to-video Generation
@@ -705,7 +707,7 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2024.04]TAVGBench: Benchmarking Text to Audible-Video Generation [[PDF](https://arxiv.org/abs/2404.14381),[Page](https://github.com/OpenNLPLab/TAVGBench)]
 
-[arxiv 2024.06] [[PDF](),[Page]()]
+[arxiv 2024.07] [[PDF](),[Page]()]
 
 
 
@@ -741,7 +743,7 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2024.06]FRAG: Frequency Adapting Group for Diffusion Video Editing[[PDF](https://arxiv.org/abs/2406.06044)]
 
-[arxiv 2024.06] [[PDF](),[Page]()]
+[arxiv 2024.07] [[PDF](),[Page]()]
 
 
 ## Editing with image model 
@@ -893,8 +895,10 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2024.06]Disentangled Motion Modeling for Video Frame Interpolation [[PDF](https://arxiv.org/abs/2406.17256),[Page](https://github.com/JHLew/MoMo)]
 
+[arxiv 2024.07] VFIMamba: Video Frame Interpolation with State Space Models [[PDF](https://arxiv.org/abs/2407.02315),[Page](https://github.com/MCG-NJU/VFIMamba)]
 
-[arxiv 2024.06] [[PDF](),[Page]()]
+
+[arxiv 2024.07] [[PDF](),[Page]()]
 
 
 ## motion transfer 
@@ -935,7 +939,7 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2024.06]MotionClone: Training-Free Motion Cloning for Controllable Video Generation[[PDF](https://arxiv.org/pdf/2406.05338)]
 
-[arxiv 2024.06] [[PDF](),[Page]()]
+[arxiv 2024.07] [[PDF](),[Page]()]
 
 
 
@@ -950,7 +954,7 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2024.03]FRESCO: Spatial-Temporal Correspondence for Zero-Shot Video Translation [[PDF](https://arxiv.org/abs/2403.12962),[Page](https://github.com/williamyang1991/fresco)]
 
-[arxiv 2024.06] [[PDF](),[Page]()]
+[arxiv 2024.07] [[PDF](),[Page]()]
 
 ## Evaluation 
 [arxiv 2023.10]EvalCrafter: Benchmarking and Evaluating Large Video Generation Models [[PDF](https://arxiv.org/abs/2310.11440),[Page](https://evalcrafter.github.io/)]
@@ -968,7 +972,7 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 [arxiv 2024.06]VideoPhy: Evaluating Physical Commonsense for Video Generation [[PDF](http://arxiv.org/abs/2406.03520),[Page](https://videophy.github.io/)]
 
 
-[arxiv 2024.06] [[PDF](),[Page]()]
+[arxiv 2024.07] [[PDF](),[Page]()]
 
 ## Survey
 [arxiv 2023.03]A Survey on Video Diffusion Models [[PDF](https://arxiv.org/abs/2310.10647)]
@@ -1013,7 +1017,7 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 [arxiv 2024.06]SF-V: Single Forward Video Generation Model [[PDF](https://arxiv.org/abs/2406.04324),[Page](https://snap-research.github.io/SF-V/)]
 
 
-[arxiv 2024.06] [[PDF](),[Page]()]
+[arxiv 2024.07] [[PDF](),[Page]()]
 
 
 ## Others 
