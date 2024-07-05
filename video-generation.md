@@ -303,13 +303,13 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2024.06]Hierarchical Patch Diffusion Models for High-Resolution Video Generation [[PDF](https://arxiv.org/pdf/2406.07792), [Page](https://snap-research.github.io/hpdm)]
 
-[arxiv 2024.06] [[PDF](), [Page]()]
+[arxiv 2024.07] [[PDF](), [Page]()]
 
 
 ## LLMs-based 
 [arxiv 2023.12]VideoPoet: A Large Language Model for Zero-Shot Video Generation [[PDF](https://arxiv.org/abs/2312.14125),[Page](http://sites.research.google/videopoet/)]
 
-[arxiv 2024.06] [[PDF](), [Page]()]
+[arxiv 2024.07] [[PDF](), [Page]()]
 
 
 
@@ -322,7 +322,7 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 [arxiv 2024.03]SSM Meets Video Diffusion Models: Efficient Video Generation with Structured State Spaces [[PDF](https://arxiv.org/abs/2403.07711),[Page](https://github.com/shim0114/SSM-Meets-Video-Diffusion-Models)]
 
 
-[arxiv 2024.06] [[PDF](), [Page]()]
+[arxiv 2024.07] [[PDF](), [Page]()]
 
 
 
@@ -333,14 +333,18 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2023.12]FreeInit: Bridging Initialization Gap in Video Diffusion Models [[PDF](https://arxiv.org/abs/2312.07537),[Page](https://tianxingwu.github.io/pages/FreeInit/)]
 
-[arxiv 2024.06] [[PDF](), [Page]()]
+[arxiv 2024.07] [[PDF](), [Page]()]
 
 
 
 ## composition 
-[arxiv 2024.06]VideoTetris: Towards Compositional Text-To-Video Generation[[PDF](https://arxiv.org/abs/2406.04277), [Page](https://videotetris.github.io/)]
+[arxiv 2024.07]VideoTetris: Towards Compositional Text-To-Video Generation[[PDF](https://arxiv.org/abs/2406.04277), [Page](https://videotetris.github.io/)]
 
-[arxiv 2024.06] [[PDF](), [Page]()]
+
+[arxiv 2024.07]GVDIFF: Grounded Text-to-Video Generation with Diffusion Models[[PDF](https://arxiv.org/abs/2407.01921)]
+
+
+[arxiv 2024.07] [[PDF](), [Page]()]
 
 
 ## multi-prompt 
@@ -350,10 +354,10 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2024.06]VideoTetris: Towards Compositional Text-To-Video Generation[[PDF](https://arxiv.org/abs/2406.04277), [Page](https://videotetris.github.io/)]
 
-[arxiv 2024.06] [[PDF](), [Page]()]
+[arxiv 2024.07] [[PDF](), [Page]()]
 
 
-[arxiv 2024.06] [[PDF](), [Page]()]
+[arxiv 2024.07] [[PDF](), [Page]()]
 
 
 ## long video generation 
@@ -382,7 +386,7 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 [arxiv 2024.06]Video-Infinity: Distributed Long Video Generation [[PDF](https://arxiv.org/abs/2406.16260), [Page](https://video-infinity.tanzhenxiong.com/)]
 
 
-[arxiv 2024.06] [[PDF](), [Page]()]
+[arxiv 2024.07] [[PDF](), [Page]()]
 
 
 ## Higher Resolution 
@@ -583,7 +587,7 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 
 
-[arxiv 2024.06] [[PDF](), [Page]()]
+[arxiv 2024.07] [[PDF](), [Page]()]
 
 
 ## Concept 
