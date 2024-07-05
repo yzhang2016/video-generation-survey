@@ -556,6 +556,7 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2024.07]  DiffIR2VR-Zero: Zero-Shot Video Restoration with Diffusion-based Image Restoration Models [[PDF](https://arxiv.org/abs/2407.01519),[Page](https://jimmycv07.github.io/DiffIR2VR_web/)]
 
+[arxiv 2024.07] Zero-shot Video Restoration and Enhancement Using Pre-Trained Image Diffusion Model  [[PDF](https://arxiv.org/abs/2407.01960)]
 
 [arxiv 2024.07]   [[PDF](),[Page]()]
 
