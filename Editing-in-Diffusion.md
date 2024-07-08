@@ -912,7 +912,7 @@ Cross-Attention Control [[PDF](https://arxiv.org/abs/2402.13404)]
 
 
 
-## Translation & composition
+## composition & Translation
 [arxiv 2022; Google]Sketch-Guided Text-to-Image Diffusion Models \[[PDF](https://arxiv.org/pdf/2211.13752.pdf), code\]  
 
 [arxiv 2022.11; Microsoft]ReCo: Region-Controlled Text-to-Image Generation \[[PDF](https://arxiv.org/pdf/2211.15518.pdf), code\]  
@@ -1110,6 +1110,10 @@ Cross-Attention Control [[PDF](https://arxiv.org/abs/2402.13404)]
 [arxiv 2024.07]  Magic Insert: Style-Aware Drag-and-Drop [[PDF](https://arxiv.org/abs/2407.02489),[Page](https://magicinsert.github.io/)]
 
 [arxiv 2024.07]MIGC++: Advanced Multi-Instance Generation Controller for Image Synthesis   [[PDF](https://arxiv.org/abs/2407.02329),[Page](https://github.com/limuloo/MIGC)]
+
+[arxiv 2024.07] PartCraft: Crafting Creative Objects by Parts  [[PDF](https://arxiv.org/abs/2407.04604),[Page](https://github.com/kamwoh/partcraft)]
+
+[arxiv 2024.07] Every Pixel Has its Moments: Ultra-High-Resolution Unpaired Image-to-Image Translation via Dense Normalization  [[PDF](https://arxiv.org/abs/2407.04245),[Page](https://github.com/Kaminyou/Dense-Normalization)]
 
 [arxiv 2024.07]   [[PDF](),[Page]()]
 
@@ -1493,7 +1497,7 @@ Cross-Attention Control [[PDF](https://arxiv.org/abs/2402.13404)]
 [arxiv 2024.06]Holistic Evaluation for Interleaved Text-and-Image Generation [[PDF](https://arxiv.org/abs/2406.14643), ]
 
 
-[arxiv 2024.06] [[PDF](), [Page]()]
+[arxiv 2024.07] [[PDF](), [Page]()]
 
 ## Feedback
 [arxiv 2023.11]Using Human Feedback to Fine-tune Diffusion Models without Any Reward Model [[PDF](https://arxiv.org/abs/2311.13231)]
@@ -1503,6 +1507,11 @@ Cross-Attention Control [[PDF](https://arxiv.org/abs/2402.13404)]
 [arxiv 2024.04]RL for Consistency Models: Faster Reward Guided Text-to-Image Generation [[PDF](https://arxiv.org/abs/2404.03673)]
 
 [arxiv 2024.04]Aligning Diffusion Models by Optimizing Human Utility [[PDF](https://arxiv.org/abs/2404.04465)]
+
+[arxiv 2024.07]FDS: Feedback-guided Domain Synthesis with Multi-Source Conditional Diffusion Models for Domain Generalization [[PDF](https://arxiv.org/abs/2407.03588), [Page](https://github.com/Mehrdad-Noori/FDS)]
+
+
+[arxiv 2024.07] [[PDF](), [Page]()]
 
 
 ##  Finetuning 
