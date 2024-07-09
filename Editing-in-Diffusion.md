@@ -356,9 +356,18 @@
 
 [arxiv 2024.06] Alleviating Distortion in Image Generation via Multi-Resolution Diffusion Models[[PDF](https://arxiv.org/abs/2406.09416),[Page](https://qihao067.github.io/projects/DiMR)]
 
+[arxiv 2024.07] UltraEdit: Instruction-based Fine-Grained Image Editing at Scale [[PDF](https://arxiv.org/abs/2407.05282),[Page](https://ultra-editing.github.io/)]
+
+[arxiv 2024.07]   [[PDF](),[Page]()]
+
+## LLMs for editing 
+[arxiv 2024.07] GenArtist: Multimodal LLM as an Agent for Unified Image Generation and Editing  [[PDF](https://arxiv.org/abs/2407.05600),[Page](https://zhenyuw16.github.io/GenArtist_page/)]
+
+[arxiv 2024.07] UltraEdit: Instruction-based Fine-Grained Image Editing at Scale  [[PDF](https://arxiv.org/abs/2407.05282),[Page](https://ultra-editing.github.io/)]
 
 
 [arxiv 2024.07]   [[PDF](),[Page]()]
+
 
 
 ## Improve T2I base modules
@@ -788,7 +797,10 @@
 [arxiv 2024.06] AlignIT: Enhancing Prompt Alignment in Customization of Text-to-Image Models  [[PDF](https://arxiv.org/abs/2406.18893)]
 
 
-[arxiv 2024.06] [[PDF](), [Page]()]
+[arxiv 2024.07] JeDi: Joint-Image Diffusion Models for Finetuning-Free Personalized Text-to-Image Generation[[PDF](https://arxiv.org/abs/2407.06187), [Page](https://research.nvidia.com/labs/dir/jedi/)]
+
+
+[arxiv 2024.07] [[PDF](), [Page]()]
 
 
 ## Story-telling
@@ -1115,6 +1127,9 @@ Cross-Attention Control [[PDF](https://arxiv.org/abs/2402.13404)]
 
 [arxiv 2024.07] Every Pixel Has its Moments: Ultra-High-Resolution Unpaired Image-to-Image Translation via Dense Normalization  [[PDF](https://arxiv.org/abs/2407.04245),[Page](https://github.com/Kaminyou/Dense-Normalization)]
 
+[arxiv 2024.07]  FreeCompose: Generating Diverse Storytelling Images with Minimal Human Effort [[PDF](https://arxiv.org/abs/2407.04947),[Page](https://github.com/aim-uofa/FreeCompose)]
+
+
 [arxiv 2024.07]   [[PDF](),[Page]()]
 
 
@@ -1212,10 +1227,13 @@ Cross-Attention Control [[PDF](https://arxiv.org/abs/2402.13404)]
 
 [arxiv 2024.06] LFMamba: Light Field Image Super-Resolution with State Space Model [[PDF](https://arxiv.org/abs/2406.12463)]
 
-[arxiv 2024.06] ResMaster: Mastering High-Resolution Image Generation via Structural and Fine-Grained Guidance
-  [[PDF](https://arxiv.org/abs/2406.16476),[Page](https://shuweis.github.io/ResMaster/)]
+[arxiv 2024.06] ResMaster: Mastering High-Resolution Image Generation via Structural and Fine-Grained Guidance [[PDF](https://arxiv.org/abs/2406.16476),[Page](https://shuweis.github.io/ResMaster/)]
+
+[arxiv 2024.07] Layered Diffusion Model for One-Shot High Resolution Text-to-Image Synthesis[[PDF](https://arxiv.org/abs/2407.06079)]
+
 
 [arxiv 2024.07]   [[PDF](),[Page]()]
+
 
 
 ## action transfer 
@@ -1315,6 +1333,8 @@ Cross-Attention Control [[PDF](https://arxiv.org/abs/2402.13404)]
 [arxiv 2024.07] Frequency-Controlled Diffusion Model for Versatile Text-Guided Image-to-Image Translation [[PDF](https://arxiv.org/abs/2407.03006),[Page](https://github.com/XiangGao1102/FCDiffusion)]
 
 [arxiv 2024.07] Magic Insert: Style-Aware Drag-and-Drop  [[PDF](https://arxiv.org/abs/2407.02489),[Page](https://magicinsert.github.io/)]
+
+[arxiv 2024.07]Ada-adapter:Fast Few-shot Style Personlization of Diffusion Model with Pre-trained Image Encoder [[PDF](https://arxiv.org/abs/2407.05552)]
 
 [arxiv 2024.07]   [[PDF](),[Page]()]
 
@@ -1425,8 +1445,9 @@ Cross-Attention Control [[PDF](https://arxiv.org/abs/2402.13404)]
 
 [arxiv 2024.06]Immiscible Diffusion: Accelerating Diffusion Training with Noise Assignment[[PDF](https://arxiv.org/abs/2406.12303)]
 
+[arxiv 2024.07]Minutes to Seconds: Speeded-up DDPM-based Image Inpainting with Coarse-to-Fine Sampling [[PDF](https://arxiv.org/abs/2407.05875), [Page](https://github.com/linghuyuhangyuan/M2S)]
 
-[arxiv 2024.06] [[PDF](), [Page]()]
+[arxiv 2024.07] [[PDF](), [Page]()]
 
 
 ## limited data 
@@ -1472,7 +1493,7 @@ Cross-Attention Control [[PDF](https://arxiv.org/abs/2402.13404)]
 
 [arxiv 0224.04]Bigger is not Always Better: Scaling Properties of Latent Diffusion Models [[PDF(https://arxiv.org/abs/2404.01367)]
 
-[arxiv 2024.06] [[PDF](), [Page]()]
+[arxiv 2024.07] [[PDF](), [Page]()]
 
 
 
@@ -1573,7 +1594,7 @@ Cross-Attention Control [[PDF](https://arxiv.org/abs/2402.13404)]
 
 [arxiv 2024.06]A Survey of Multimodal-Guided Image Editing with Text-to-Image Diffusion Models [[PDF](https://arxiv.org/abs/2406.14555), [Page](https://github.com/xinchengshuai/Awesome-Image-Editing)]
 
-[arxiv 2024.06] [[PDF](), [Page]()]
+[arxiv 2024.07] [[PDF](), [Page]()]
 
 
 ## Data 
