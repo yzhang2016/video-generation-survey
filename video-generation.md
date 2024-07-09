@@ -343,6 +343,8 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2024.07]GVDIFF: Grounded Text-to-Video Generation with Diffusion Models[[PDF](https://arxiv.org/abs/2407.01921)]
 
+[arxiv 2024.07]Compositional Video Generation as Flow Equalization [[PDF](https://arxiv.org/abs/2407.06182), [Page](https://adamdad.github.io/vico/)]
+
 
 [arxiv 2024.07] [[PDF](), [Page]()]
 
@@ -385,6 +387,13 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2024.06]Video-Infinity: Distributed Long Video Generation [[PDF](https://arxiv.org/abs/2406.16260), [Page](https://video-infinity.tanzhenxiong.com/)]
 
+
+[arxiv 2024.07] [[PDF](), [Page]()]
+
+
+## sound generation 
+[arxiv 2024.07] Read, Watch and Scream! Sound Generation from Text and Video
+[[PDF](https://arxiv.org/abs/2407.05551), [Page](https://naver-ai.github.io/rewas)]
 
 [arxiv 2024.07] [[PDF](), [Page]()]
 
@@ -482,14 +491,14 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 [arxiv 2024.06] MotionBooth: Motion-Aware Customized Text-to-Video Generation [[PDF](https://arxiv.org/abs/2406.17758),[Page](https://jianzongwu.github.io/projects/motionbooth)]
 
 
-[arxiv 2024.06]  [[PDF](),[Page]()]
+[arxiv 2024.07]  [[PDF](),[Page]()]
 
 
 
 ## text 
 [arxiv 2024.06]  Text-Animator: Controllable Visual Text Video Generation[[PDF](https://arxiv.org/abs/2406.17777),[Page](https://laulampaul.github.io/text-animator.html)]
 
-[arxiv 2024.06]  [[PDF](),[Page]()]
+[arxiv 2024.07]  [[PDF](),[Page]()]
 
 
 ## Camera 
@@ -514,7 +523,7 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 [arxiv 2024.06] Image Conductor: Precision Control for Interactive Video Synthesis [[PDF](https://liyaowei-stu.github.io/project/ImageConductor/),[Page](https://liyaowei-stu.github.io/project/ImageConductor/)]
 
 
-[arxiv 2024.06]  [[PDF](),[Page]()]
+[arxiv 2024.07]  [[PDF](),[Page]()]
 
 
 
