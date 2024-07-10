@@ -1129,6 +1129,8 @@ Cross-Attention Control [[PDF](https://arxiv.org/abs/2402.13404)]
 
 [arxiv 2024.07]  FreeCompose: Generating Diverse Storytelling Images with Minimal Human Effort [[PDF](https://arxiv.org/abs/2407.04947),[Page](https://github.com/aim-uofa/FreeCompose)]
 
+[arxiv 2024.07] Sketch-Guided Scene Image Generation[[PDF](https://arxiv.org/abs/2407.06469)]
+
 
 [arxiv 2024.07]   [[PDF](),[Page]()]
 
