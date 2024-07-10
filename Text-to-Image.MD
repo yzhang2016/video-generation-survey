@@ -67,7 +67,10 @@
 
 [arxiv 2024.06]Lumina-Next: Making Lumina-T2X Stronger and Faster with Next-DiT [[PDF](https://arxiv.org/abs/2406.18583),[Page](https://github.com/Alpha-VLLM/Lumina-T2X)]
 
-[arxiv 2024.06] [[PDF](),[Page]()]
+[arxiv 2024.7]Kolors: Effective Training of Diffusion Model for Photorealistic Text-to-Image Synthesis [[PDF](https://github.com/Kwai-Kolors/Kolors/blob/master/imgs/Kolors_paper.pdf),[Page](https://github.com/Kwai-Kolors/Kolors/tree/master)]
+
+
+[arxiv 2024.07] [[PDF](),[Page]()]
 
 ## GAN/VAE/Transformer-based 
 
