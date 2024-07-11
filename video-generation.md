@@ -571,7 +571,12 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2024.07] Zero-shot Video Restoration and Enhancement Using Pre-Trained Image Diffusion Model  [[PDF](https://arxiv.org/abs/2407.01960)]
 
+[arxiv 2024.07] VEnhancer: Generative Space-Time Enhancement for Video Generation[[PDF](https://arxiv.org/abs/2407.07667),[Page](https://vchitect.github.io/VEnhancer-project/)]
+
+
 [arxiv 2024.07]   [[PDF](),[Page]()]
+
+
 
 ## downstream apps
 [arxiv 2023.11]Breathing Life Into Sketches Using Text-to-Video Priors [[PDF](https://arxiv.org/abs/2311.13608),[Page](https://livesketch.github.io/)]
@@ -992,6 +997,8 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 [arxiv 2023.03]A Survey on Video Diffusion Models [[PDF](https://arxiv.org/abs/2310.10647)]
 
 [arxiv 2024.05]Video Diffusion Models: A Survey [[PDF](https://arxiv.org/abs/2405.03150)]
+
+[arxiv 2024.07]Diffusion Model-Based Video Editing: A Survey [[PDF](https://arxiv.org/abs/2407.07111),[Page](https://github.com/wenhao728/awesome-diffusion-v2v)]
 
 
 
