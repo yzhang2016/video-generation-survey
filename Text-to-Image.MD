@@ -113,8 +113,11 @@
 [arxiv 2024.06]Autoregressive Image Generation without Vector Quantization [[PDF](https://arxiv.org/abs/2406.11838),]
 
 
+[arxiv 2024.07]MARS: Mixture of Auto-Regressive Models for Fine-grained Text-to-image Synthesis [[PDF](https://arxiv.org/abs/2407.07614),[Page](https://github.com/fusiming3/MARS)]
 
-[arxiv 2024.06] [[PDF](), [Page]()]
+
+
+[arxiv 2024.07] [[PDF](),[Page]()]
 
 # Generation & Super-resolution 
 
