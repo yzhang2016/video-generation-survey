@@ -333,9 +333,10 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2023.12]FreeInit: Bridging Initialization Gap in Video Diffusion Models [[PDF](https://arxiv.org/abs/2312.07537),[Page](https://tianxingwu.github.io/pages/FreeInit/)]
 
+[arxiv 2024.07] Video Diffusion Alignment via Reward Gradients [[PDF](https://arxiv.org/abs/2407.08737), [Page](https://github.com/mihirp1998/VADER)]
+
+
 [arxiv 2024.07] [[PDF](), [Page]()]
-
-
 
 ## composition 
 [arxiv 2024.07]VideoTetris: Towards Compositional Text-To-Video Generation[[PDF](https://arxiv.org/abs/2406.04277), [Page](https://videotetris.github.io/)]
