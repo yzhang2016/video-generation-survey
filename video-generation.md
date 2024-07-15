@@ -628,6 +628,9 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2024.04]ID-Animator: Zero-Shot Identity-Preserving Human Video Generation [[PDF](),[Page](https://id-animator.github.io/)]
 
+[arxiv 2024.07]Still-Moving: Customized Video Generation without Customized Video Data [[PDF](https://arxiv.org/abs/2407.08674),[Page](https://still-moving.github.io/)]
+
+
 [arxiv 2024.07] [[PDF](),[Page]()]
 
 
