@@ -1235,6 +1235,8 @@ Cross-Attention Control [[PDF](https://arxiv.org/abs/2402.13404)]
 
 [arxiv 2024.07] Layered Diffusion Model for One-Shot High Resolution Text-to-Image Synthesis[[PDF](https://arxiv.org/abs/2407.06079)]
 
+[arxiv 2024.07] LightenDiffusion: Unsupervised Low-Light Image Enhancement with Latent-Retinex Diffusion Models  [[PDF](https://arxiv.org/abs/2407.08939),[Page](https://github.com/JianghaiSCU/LightenDiffusion)]
+
 
 [arxiv 2024.07]   [[PDF](),[Page]()]
 
