@@ -1237,6 +1237,7 @@ Cross-Attention Control [[PDF](https://arxiv.org/abs/2402.13404)]
 
 [arxiv 2024.07] LightenDiffusion: Unsupervised Low-Light Image Enhancement with Latent-Retinex Diffusion Models  [[PDF](https://arxiv.org/abs/2407.08939),[Page](https://github.com/JianghaiSCU/LightenDiffusion)]
 
+[arxiv 2024.07] AccDiffusion: An Accurate Method for Higher-Resolution Image Generation[[PDF](https://arxiv.org/abs/2407.10738),[Page](https://github.com/lzhxmu/AccDiffusion)]
 
 [arxiv 2024.07]   [[PDF](),[Page]()]
 
