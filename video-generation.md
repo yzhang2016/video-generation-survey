@@ -346,6 +346,9 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2024.07]Compositional Video Generation as Flow Equalization [[PDF](https://arxiv.org/abs/2407.06182), [Page](https://adamdad.github.io/vico/)]
 
+[arxiv 2024.07] InVi: Object Insertion In Videos Using Off-the-Shelf Diffusion Models[[PDF](https://arxiv.org/abs/2407.10958)]
+
+
 
 [arxiv 2024.07] [[PDF](), [Page]()]
 
@@ -485,12 +488,11 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2024.06] FreeTraj: Tuning-Free Trajectory Control in Video Diffusion Models [[PDF](https://arxiv.org/abs/2406.16863),[Page](http://haonanqiu.com/projects/FreeTraj.html)]
 
-
 [arxiv 2024.06] MVOC: a training-free multiple video object composition method with diffusion models [[PDF](https://arxiv.org/abs/2406.15829),[Page](https://sobeymil.github.io/mvoc.com/)]
-
 
 [arxiv 2024.06] MotionBooth: Motion-Aware Customized Text-to-Video Generation [[PDF](https://arxiv.org/abs/2406.17758),[Page](https://jianzongwu.github.io/projects/motionbooth)]
 
+[arxiv 2024.07]IDOL: Unified Dual-Modal Latent Diffusion for Human-Centric Joint Video-Depth Generation  [[PDF](https://arxiv.org/abs/2407.10937),[Page](https://yhzhai.github.io/idol/)]
 
 [arxiv 2024.07]  [[PDF](),[Page]()]
 
@@ -575,6 +577,8 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 [arxiv 2024.07] VEnhancer: Generative Space-Time Enhancement for Video Generation[[PDF](https://arxiv.org/abs/2407.07667),[Page](https://vchitect.github.io/VEnhancer-project/)]
 
 
+[arxiv 2024.07] Noise Calibration: Plug-and-play Content-Preserving Video Enhancement using Pre-trained Video Diffusion Models [[PDF](https://arxiv.org/abs/2407.10285),[Page](https://yangqy1110.github.io/NC-SDEdit/)]
+
 [arxiv 2024.07]   [[PDF](),[Page]()]
 
 
@@ -600,7 +604,7 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2024.05] VITON-DiT: Learning In-the-Wild Video Try-On from Human Dance Videos via Diffusion Transformers[[PDF](https://arxiv.org/abs/2405.18326),[Page](https://zhengjun-ai.github.io/viton-dit-page/)]
 
-
+[arxiv 2024.07]WildVidFit: Video Virtual Try-On in the Wild via Image-Based Controlled Diffusion Models [[PDF](https://arxiv.org/abs/2407.10625), [Page](https://wildvidfit-project.github.io/)]
 
 [arxiv 2024.07] [[PDF](), [Page]()]
 
