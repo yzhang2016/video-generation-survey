@@ -1454,6 +1454,9 @@ Cross-Attention Control [[PDF](https://arxiv.org/abs/2402.13404)]
 
 [arxiv 2024.07]Minutes to Seconds: Speeded-up DDPM-based Image Inpainting with Coarse-to-Fine Sampling [[PDF](https://arxiv.org/abs/2407.05875), [Page](https://github.com/linghuyuhangyuan/M2S)]
 
+[arxiv 2024.07]Efficient Training with Denoised Neural Weights [[PDF](https://arxiv.org/abs/2407.11966), [Page](https://yifanfanfanfan.github.io/denoised-weights/)]
+
+
 [arxiv 2024.07] [[PDF](), [Page]()]
 
 
