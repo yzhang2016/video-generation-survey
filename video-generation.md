@@ -1046,8 +1046,10 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 [arxiv 2024.06]SF-V: Single Forward Video Generation Model [[PDF](https://arxiv.org/abs/2406.04324),[Page](https://snap-research.github.io/SF-V/)]
 
 
-[arxiv 2024.07] [[PDF](),[Page]()]
+[arxiv 2024.07]QVD: Post-training Quantization for Video Diffusion Models [[PDF](https://arxiv.org/abs/2407.11585),[Page]()]
 
+
+[arxiv 2024.07] [[PDF](),[Page]()]
 
 ## Others 
 [arxiv 2023.05]AADiff: Audio-Aligned Video Synthesis with Text-to-Image Diffusion [[PDF](https://arxiv.org/abs/2305.04001)]
