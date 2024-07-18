@@ -1456,6 +1456,7 @@ Cross-Attention Control [[PDF](https://arxiv.org/abs/2402.13404)]
 
 [arxiv 2024.07]Efficient Training with Denoised Neural Weights [[PDF](https://arxiv.org/abs/2407.11966), [Page](https://yifanfanfanfan.github.io/denoised-weights/)]
 
+[arxiv 2024.07]SlimFlow: Training Smaller One-Step Diffusion Models with Rectified Flow[[PDF](https://arxiv.org/abs/2407.12718)]
 
 [arxiv 2024.07] [[PDF](), [Page]()]
 
