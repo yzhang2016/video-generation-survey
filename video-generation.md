@@ -525,6 +525,8 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2024.06] Image Conductor: Precision Control for Interactive Video Synthesis [[PDF](https://liyaowei-stu.github.io/project/ImageConductor/),[Page](https://liyaowei-stu.github.io/project/ImageConductor/)]
 
+[arxiv 2024.07]VD3D: Taming Large Video Diffusion Transformers for 3D Camera Control [[PDF](https://arxiv.org/abs/2407.12781),[Page](https://snap-research.github.io/vd3d/)]
+
 
 [arxiv 2024.07]  [[PDF](),[Page]()]
 
