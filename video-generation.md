@@ -581,9 +581,9 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2024.07] Noise Calibration: Plug-and-play Content-Preserving Video Enhancement using Pre-trained Video Diffusion Models [[PDF](https://arxiv.org/abs/2407.10285),[Page](https://yangqy1110.github.io/NC-SDEdit/)]
 
+[arxiv 2024.07]  RealViformer: Investigating Attention for Real-World Video Super-Resolution [[PDF](),[Page]()]
+
 [arxiv 2024.07]   [[PDF](),[Page]()]
-
-
 
 ## downstream apps
 [arxiv 2023.11]Breathing Life Into Sketches Using Text-to-Video Priors [[PDF](https://arxiv.org/abs/2311.13608),[Page](https://livesketch.github.io/)]
@@ -999,6 +999,8 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 [arxiv 2024.06] GenAI Arena: An Open Evaluation Platform for Generative Models[[PDF](https://arxiv.org/abs/2406.04485),[Page](https://huggingface.co/spaces/TIGER-Lab/GenAI-Arena)]
 
 [arxiv 2024.06]VideoPhy: Evaluating Physical Commonsense for Video Generation [[PDF](http://arxiv.org/abs/2406.03520),[Page](https://videophy.github.io/)]
+
+[arxiv 2024.07]T2V-CompBench: A Comprehensive Benchmark for Compositional Text-to-video Generation [[PDF](https://arxiv.org/abs/2407.14505),[Page](https://t2v-compbench.github.io/)]
 
 
 [arxiv 2024.07] [[PDF](),[Page]()]
