@@ -488,6 +488,9 @@
 
 [arxiv 2024.07]  No Training, No Problem: Rethinking Classifier-Free Guidance for Diffusion Models [[PDF](https://arxiv.org/abs/2407.02687)]
 
+[arxiv 2024.07] Not All Noises Are Created Equally:Diffusion Noise Selection and Optimization  [[PDF](https://arxiv.org/abs/2407.14041)]
+
+
 [arxiv 2024.07]   [[PDF](),[Page]()]
 
 ## VAE 
