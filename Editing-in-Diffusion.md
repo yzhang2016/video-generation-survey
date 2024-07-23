@@ -342,7 +342,15 @@
 
 [arxiv 2024.06]Zero-shot Image Editing with Reference Imitation [[PDF](https://arxiv.org/abs/2406.07547),[Page](https://xavierchen34.github.io/MimicBrush-Page)]
 
+[arxiv 2024.07] Image Inpainting Models are Effective Tools for Instruction-guided Image Editing[[PDF](https://arxiv.org/abs/2407.13139)]
+
+[arxiv 2024.07]Text2Place: Affordance-aware Text Guided Human Placement  [[PDF](https://arxiv.org/abs/2407.15446),[Page](https://rishubhpar.github.io/Text2Place/)]
+
+
+
 [arxiv 2024.07]   [[PDF](),[Page]()]
+
+
 
 
 ## DiT 
@@ -490,6 +498,7 @@
 
 [arxiv 2024.07] Not All Noises Are Created Equally:Diffusion Noise Selection and Optimization  [[PDF](https://arxiv.org/abs/2407.14041)]
 
+[arxiv 2024.07] GeoGuide: Geometric guidance of diffusion models [[PDF](https://arxiv.org/abs/2407.12889)]
 
 [arxiv 2024.07]   [[PDF](),[Page]()]
 
@@ -534,7 +543,12 @@
 
 [arxiv 2024.06] MaX4Zero: Masked Extended Attention for Zero-Shot Virtual Try-On In The Wild  [[PDF](https://nadavorzech.github.io/max4zero.github.io/),[Page](https://nadavorzech.github.io/max4zero.github.io/)]
 
+[arxiv 2024.07]  D4-VTON: Dynamic Semantics Disentangling for Differential Diffusion based Virtual Try-On [[PDF](https://arxiv.org/abs/2407.15111),[Page](https://github.com/Jerome-Young/D4-VTON)]
+
 [arxiv 2024.07]   [[PDF](),[Page]()]
+
+
+
 
 
 ## Model adapatation 
@@ -802,8 +816,7 @@
 
 [arxiv 2024.07] JeDi: Joint-Image Diffusion Models for Finetuning-Free Personalized Text-to-Image Generation[[PDF](https://arxiv.org/abs/2407.06187), [Page](https://research.nvidia.com/labs/dir/jedi/)]
 
-
-[arxiv 2024.07] [[PDF](), [Page]()]
+[arxiv 2024.07]LogoSticker: Inserting Logos into Diffusion Models for Customized Generation [[PDF](https://arxiv.org/abs/2407.13752), [Page](https://mingkangz.github.io/logosticker/)]
 
 [arxiv 2024.07] [[PDF](), [Page]()]
 
@@ -1136,6 +1149,8 @@ Cross-Attention Control [[PDF](https://arxiv.org/abs/2402.13404)]
 
 [arxiv 2024.07] Sketch-Guided Scene Image Generation[[PDF](https://arxiv.org/abs/2407.06469)]
 
+[arxiv 2024.07] Training-free Composite Scene Generation for Layout-to-Image Synthesis [[PDF](https://arxiv.org/abs/2407.13609)]
+
 
 [arxiv 2024.07]   [[PDF](),[Page]()]
 
@@ -1242,9 +1257,9 @@ Cross-Attention Control [[PDF](https://arxiv.org/abs/2402.13404)]
 
 [arxiv 2024.07] AccDiffusion: An Accurate Method for Higher-Resolution Image Generation[[PDF](https://arxiv.org/abs/2407.10738),[Page](https://github.com/lzhxmu/AccDiffusion)]
 
+[arxiv 2024.07]  ∞ -Brush: Controllable Large Image Synthesis with Diffusion Models in Infinite Dimensions [[PDF](https://arxiv.org/abs/2407.14709)]
+
 [arxiv 2024.07]   [[PDF](),[Page]()]
-
-
 
 ## action transfer 
 [arxiv 2023.11]Learning Disentangled Identifiers for Action-Customized Text-to-Image Generation [[PDF](https://arxiv.org/abs/2311.15841)]
@@ -1346,7 +1361,10 @@ Cross-Attention Control [[PDF](https://arxiv.org/abs/2402.13404)]
 
 [arxiv 2024.07]Ada-adapter:Fast Few-shot Style Personlization of Diffusion Model with Pre-trained Image Encoder [[PDF](https://arxiv.org/abs/2407.05552)]
 
+[arxiv 2024.07] Artist: Aesthetically Controllable Text-Driven Stylization without Training [[PDF](https://arxiv.org/abs/2303.17606),[Page](https://diffusionartist.github.io/)]
+
 [arxiv 2024.07]   [[PDF](),[Page]()]
+
 
 
 ## downstream apps
