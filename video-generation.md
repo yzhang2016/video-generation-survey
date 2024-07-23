@@ -391,6 +391,7 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2024.06]Video-Infinity: Distributed Long Video Generation [[PDF](https://arxiv.org/abs/2406.16260), [Page](https://video-infinity.tanzhenxiong.com/)]
 
+[arxiv 2024.07]Multi-sentence Video Grounding for Long Video Generation[[PDF](https://arxiv.org/abs/2407.13219)]
 
 [arxiv 2024.07] [[PDF](), [Page]()]
 
@@ -608,7 +609,11 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2024.07]WildVidFit: Video Virtual Try-On in the Wild via Image-Based Controlled Diffusion Models [[PDF](https://arxiv.org/abs/2407.10625), [Page](https://wildvidfit-project.github.io/)]
 
+[arxiv 2024.07]Streetscapes: Large-scale Consistent Street View Generation Using Autoregressive Video Diffusion
+ [[PDF](https://arxiv.org/abs/2407.13759), [Page](https://boyangdeng.com/streetscapes)]
+
 [arxiv 2024.07] [[PDF](), [Page]()]
+
 
 
 ## Concept 
@@ -710,6 +715,9 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 [arxiv 2024.06] AID: Adapting Image2Video Diffusion Models for Instruction-based Video Prediction[[PDF](https://arxiv.org/abs/2406.06465),[Page](https://chenhsing.github.io/AID/)]
 
 [arxiv 2024.06] Identifying and Solving Conditional Image Leakage in Image-to-Video Generation[[PDF](https://arxiv.org/pdf/2406.15735),[Page](https://cond-image-leak.github.io/)]
+
+[arxiv 2024.07]Cinemo: Consistent and Controllable Image Animation with Motion Diffusion Models [[PDF](https://arxiv.org/abs/2407.15642),[Page](https://maxin-cn.github.io/cinemo_project/)]
+
 
 
 [arxiv 2024.07] [[PDF](),[Page]()]
@@ -1001,6 +1009,8 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 [arxiv 2024.06]VideoPhy: Evaluating Physical Commonsense for Video Generation [[PDF](http://arxiv.org/abs/2406.03520),[Page](https://videophy.github.io/)]
 
 [arxiv 2024.07]T2V-CompBench: A Comprehensive Benchmark for Compositional Text-to-video Generation [[PDF](https://arxiv.org/abs/2407.14505),[Page](https://t2v-compbench.github.io/)]
+
+[arxiv 2024.07] [[PDF](),[Page]()]
 
 
 [arxiv 2024.07] [[PDF](),[Page]()]
