@@ -860,6 +860,7 @@
 
 [arxiv 2024.07] Boosting Consistency in Story Visualization with Rich-Contextual Conditional Diffusion Models  [[PDF](https://arxiv.org/abs/2407.02482)]
 
+[arxiv 2024.07] SEED-Story: Multimodal Long Story Generation with Large Language Model  [[PDF](https://arxiv.org/abs/2407.08683),[Page](https://github.com/TencentARC/SEED-Story)]
 
 [arxiv 2024.07] MovieDreamer: Hierarchical Generation for Coherent Long Visual Sequence  [[PDF](https://arxiv.org/abs/2407.16655),[Page](https://aim-uofa.github.io/MovieDreamer/)]
 
