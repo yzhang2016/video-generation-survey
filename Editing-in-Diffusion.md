@@ -545,11 +545,14 @@
 
 [arxiv 2024.07]  D4-VTON: Dynamic Semantics Disentangling for Differential Diffusion based Virtual Try-On [[PDF](https://arxiv.org/abs/2407.15111),[Page](https://github.com/Jerome-Young/D4-VTON)]
 
+[arxiv 2024.07] DreamVTON: Customizing 3D Virtual Try-on with Personalized Diffusion Models  [[PDF](https://arxiv.org/abs/2407.16511)]
+
+[arxiv 2024.07]OutfitAnyone: Ultra-high Quality Virtual Try-On for Any Clothing and Any Person[[PDF](https://arxiv.org/abs/2407.16224),[Page](https://humanaigc.github.io/outfit-anyone/)]
+
+[arxiv 2024.07] CatVTON: Concatenation Is All You Need for Virtual Try-On with Diffusion Models  [[PDF](https://arxiv.org/abs/2407.15886),[Page](https://github.com/Zheng-Chong/CatVTON)]
+
+
 [arxiv 2024.07]   [[PDF](),[Page]()]
-
-
-
-
 
 ## Model adapatation 
 [arxiv 2023.12]X-Adapter: Adding Universal Compatibility of Plugins for Upgraded Diffusion Model [[PDF](https://arxiv.org/abs/2312.02238),[Page](https://showlab.github.io/X-Adapter/)]
@@ -818,6 +821,8 @@
 
 [arxiv 2024.07]LogoSticker: Inserting Logos into Diffusion Models for Customized Generation [[PDF](https://arxiv.org/abs/2407.13752), [Page](https://mingkangz.github.io/logosticker/)]
 
+[arxiv 2024.07] MovieDreamer: Hierarchical Generation for Coherent Long Visual Sequence  [[PDF](https://arxiv.org/abs/2407.16655),[Page](https://aim-uofa.github.io/MovieDreamer/)]
+
 [arxiv 2024.07] [[PDF](), [Page]()]
 
 
@@ -854,6 +859,9 @@
 [arxiv 2024.05] Evolving Storytelling: Benchmarks and Methods for New Character Customization with Diffusion Models  [[PDF](https://arxiv.org/abs/2405.11852)]
 
 [arxiv 2024.07] Boosting Consistency in Story Visualization with Rich-Contextual Conditional Diffusion Models  [[PDF](https://arxiv.org/abs/2407.02482)]
+
+
+[arxiv 2024.07] MovieDreamer: Hierarchical Generation for Coherent Long Visual Sequence  [[PDF](https://arxiv.org/abs/2407.16655),[Page](https://aim-uofa.github.io/MovieDreamer/)]
 
 
 [arxiv 2024.07]   [[PDF](),[Page]()]
@@ -1318,6 +1326,8 @@ Cross-Attention Control [[PDF](https://arxiv.org/abs/2402.13404)]
 
 [arxiv 2023.12]Style Injection in Diffusion: A Training-free Approach for Adapting Large-scale Diffusion Models for Style Transfer [[PDF](https://arxiv.org/abs/2312.09008)]
 
+[arxiv 2023.12]Style Aligned Image Generation via Shared Attention [[PDF](https://arxiv.org/abs/2312.02133),[Page](http://style-aligned-gen.github.io/)] 
+
 [arxiv 2024.01]FreeStyle : Free Lunch for Text-guided Style Transfer using Diffusion Models [[PDF](https://arxiv.org/abs/2401.15636), [Page](https://freestylefreelunch.github.io/)]
 
 [arxiv 2024.02]Control Color: Multimodal Diffusion-based Interactive Image Colorization [[PDF](https://arxiv.org/abs/2402.10855), [Page](https://zhexinliang.github.io/Control_Color/)]
@@ -1339,7 +1349,6 @@ Cross-Attention Control [[PDF](https://arxiv.org/abs/2402.13404)]
 [arxiv 2024.04]DEADiff: An Efficient Stylization Diffusion Model with Disentangled Representations [[PDF](https://arxiv.org/abs/2403.06951),[Page](https://github.com/bytedance/DEADiff)]
 
 [arxiv 2024.04]Towards Highly Realistic Artistic Style Transfer via Stable Diffusion with Step-aware and Layer-aware Prompt [[PDF](https://arxiv.org/abs/2404.11474)]
-
 
 [arxiv 2024.04]StyleBooth: Image Style Editing with Multimodal Instruction [[PDF](https://arxiv.org/abs/2404.12154)]
 
