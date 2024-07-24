@@ -1010,7 +1010,7 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2024.07]T2V-CompBench: A Comprehensive Benchmark for Compositional Text-to-video Generation [[PDF](https://arxiv.org/abs/2407.14505),[Page](https://t2v-compbench.github.io/)]
 
-[arxiv 2024.07] [[PDF](),[Page]()]
+[arxiv 2024.07]Fr\'echet Video Motion Distance: A Metric for Evaluating Motion Consistency in Videos [[PDF](https://arxiv.org/abs/2407.16124)]
 
 
 [arxiv 2024.07] [[PDF](),[Page]()]
