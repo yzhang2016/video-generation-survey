@@ -346,12 +346,14 @@
 
 [arxiv 2024.07]Text2Place: Affordance-aware Text Guided Human Placement  [[PDF](https://arxiv.org/abs/2407.15446),[Page](https://rishubhpar.github.io/Text2Place/)]
 
+[arxiv 2024.07] RegionDrag: Fast Region-Based Image Editing with Diffusion Models[[PDF](https://arxiv.org/abs/2407.18247),[Page](https://visual-ai.github.io/regiondrag)]
 
+[arxiv 2024.07] FlexiEdit: Frequency-Aware Latent Refinement for Enhanced Non-Rigid Editing
+  [[PDF](https://arxiv.org/abs/2407.17850)]
+
+[arxiv 2024.07] DragText: Rethinking Text Embedding in Point-based Image Editing  [[PDF](https://arxiv.org/abs/2407.17843),[Page](https://micv-yonsei.github.io/dragtext2025/)]
 
 [arxiv 2024.07]   [[PDF](),[Page]()]
-
-
-
 
 ## DiT 
 [arxiv 2024.03]Switch Diffusion Transformer: Synergizing Denoising Tasks with Sparse Mixture-of-Experts [[PDF](https://arxiv.org/abs/2403.09176),[Page](https://byeongjun-park.github.io/Switch-DiT/)]
