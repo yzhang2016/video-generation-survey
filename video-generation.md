@@ -433,7 +433,7 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 [arxiv 2024.05]  [[PDF](),[Page]()]
 
 
-## :point_right: Controllable Video Generation 
+## Controllable Video Generation 
 
 *[arxiv 2023.04]Motion-Conditioned Diffusion Model for Controllable Video Synthesis [[PDF](https://arxiv.org/abs/2304.14404), [Page](https://tsaishien-chen.github.io/MCDiff/)]
 
@@ -495,9 +495,9 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2024.07]IDOL: Unified Dual-Modal Latent Diffusion for Human-Centric Joint Video-Depth Generation  [[PDF](https://arxiv.org/abs/2407.10937),[Page](https://yhzhai.github.io/idol/)]
 
+[arxiv 2024.07]HumanVid: Demystifying Training Data for Camera-controllable Human Image Animation  [[PDF](https://arxiv.org/abs/2407.17438),[Page](https://github.com/zhenzhiwang/HumanVid/)]
+
 [arxiv 2024.07]  [[PDF](),[Page]()]
-
-
 
 ## text 
 [arxiv 2024.06]  Text-Animator: Controllable Visual Text Video Generation[[PDF](https://arxiv.org/abs/2406.17777),[Page](https://laulampaul.github.io/text-animator.html)]
