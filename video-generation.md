@@ -68,7 +68,7 @@ A reading list of video generation
 
 * **vivago.ai**[[Page](https://vivago.ai/video)]
 
-
+* **智普AI**[[Page](https://chatglm.cn/video)]
 
 ### Translation 
 * **Goenhance.ai**[[Page](https://www.goenhance.ai/)]
