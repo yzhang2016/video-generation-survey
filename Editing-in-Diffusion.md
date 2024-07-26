@@ -1160,6 +1160,8 @@ Cross-Attention Control [[PDF](https://arxiv.org/abs/2402.13404)]
 
 [arxiv 2024.07] Training-free Composite Scene Generation for Layout-to-Image Synthesis [[PDF](https://arxiv.org/abs/2407.13609)]
 
+[arxiv 2024.07] Diffree: Text-Guided Shape Free Object Inpainting with Diffusion Model  [[PDF](https://arxiv.org/abs/2407.16982),[Page](https://github.com/OpenGVLab/Diffree)]
+
 
 [arxiv 2024.07]   [[PDF](),[Page]()]
 
