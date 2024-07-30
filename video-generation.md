@@ -1022,7 +1022,7 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2024.07]Diffusion Model-Based Video Editing: A Survey [[PDF](https://arxiv.org/abs/2407.07111),[Page](https://github.com/wenhao728/awesome-diffusion-v2v)]
 
-[ResearchGate 2024.07]Conditional Video Generation Guided by Multimodal Inputs: A Comprehensive Survey [[PDF](https://www.researchgate.net/publication/382178392_A_Comprehensive_Survey_on_Human_Video_Generation_Challenges_Methods_and_Insights)]
+[ResearchGate 2024.07]Conditional Video Generation Guided by Multimodal Inputs: A Comprehensive Survey [[PDF](https://www.researchgate.net/publication/382443305_Conditional_Video_Generation_Guided_by_Multimodal_Inputs_A_Comprehensive_Survey)]
 
 
 ## Evaluation 
