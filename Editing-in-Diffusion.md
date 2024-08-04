@@ -368,6 +368,10 @@
 
 [arxiv 2024.07] UltraEdit: Instruction-based Fine-Grained Image Editing at Scale [[PDF](https://arxiv.org/abs/2407.05282),[Page](https://ultra-editing.github.io/)]
 
+[arxiv 2024.07] Add-SD: Rational Generation without Manual Reference  [[PDF](https://arxiv.org/abs/2407.21016),[Page](https://github.com/ylingfeng/Add-SD)]
+
+[arxiv 2024.07] Specify and Edit: Overcoming Ambiguity in Text-Based Image Editing  [[PDF](https://arxiv.org/abs/2407.20232),[Page](https://github.com/fabvio/SANE)]
+
 [arxiv 2024.07]   [[PDF](),[Page]()]
 
 ## LLMs for editing 
@@ -1493,7 +1497,11 @@ Cross-Attention Control [[PDF](https://arxiv.org/abs/2402.13404)]
 
 [arxiv 2024.07]SlimFlow: Training Smaller One-Step Diffusion Models with Rectified Flow[[PDF](https://arxiv.org/abs/2407.12718)]
 
+[arxiv 2024.08] TurboEdit: Text-Based Image Editing Using Few-Step Diffusion Models[[PDF](https://arxiv.org/abs/2408.00735), [Page](https://turboedit-paper.github.io/)]
+
 [arxiv 2024.07] [[PDF](), [Page]()]
+
+
 
 
 ## limited data 
@@ -1577,6 +1585,8 @@ Cross-Attention Control [[PDF](https://arxiv.org/abs/2402.13404)]
 
 [arxiv 2024.07]FDS: Feedback-guided Domain Synthesis with Multi-Source Conditional Diffusion Models for Domain Generalization [[PDF](https://arxiv.org/abs/2407.03588), [Page](https://github.com/Mehrdad-Noori/FDS)]
 
+[arxiv 2024.08]Towards Reliable Advertising Image Generation Using Human Feedback [[PDF](https://arxiv.org/abs/2408.00418)]
+
 
 [arxiv 2024.07] [[PDF](), [Page]()]
 
@@ -1639,6 +1649,8 @@ Cross-Attention Control [[PDF](https://arxiv.org/abs/2402.13404)]
 
 
 [arxiv 2024.06]A Survey of Multimodal-Guided Image Editing with Text-to-Image Diffusion Models [[PDF](https://arxiv.org/abs/2406.14555), [Page](https://github.com/xinchengshuai/Awesome-Image-Editing)]
+
+[arxiv 2024.07] Replication in Visual Diffusion Models:A Survey and Outlook[[PDF](https://arxiv.org/pdf/2408.00001), [Page](https://github.com/WangWenhao0716/Awesome-Diffusion-Replication)]
 
 [arxiv 2024.07] [[PDF](), [Page]()]
 
