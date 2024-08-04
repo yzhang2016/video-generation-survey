@@ -499,7 +499,11 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2024.07]Tora: Trajectory-oriented Diffusion Transformer for Video Generation  [[PDF](https://arxiv.org/abs/2407.21705),[Page](https://ali-videoai.github.io/tora_video/)]
 
+[arxiv 2024.07] Tora: Trajectory-oriented Diffusion Transformer for Video Generation [[PDF](https://arxiv.org/abs/2407.21705),[Page](https://ali-videoai.github.io/tora_video/)]
+
 [arxiv 2024.07]  [[PDF](),[Page]()]
+
+
 
 ## text 
 [arxiv 2024.06]  Text-Animator: Controllable Visual Text Video Generation[[PDF](https://arxiv.org/abs/2406.17777),[Page](https://laulampaul.github.io/text-animator.html)]
@@ -781,6 +785,8 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 [arxiv 2024.06]Zero-Shot Video Editing through Adaptive Sliding Score Distillation[[PDF](https://arxiv.org/abs/2406.04888),[Page](https://nips24videoedit.github.io/zeroshot_videoedit/)]
 
 [arxiv 2024.06]FRAG: Frequency Adapting Group for Diffusion Video Editing[[PDF](https://arxiv.org/abs/2406.06044)]
+
+[arxiv 2024.07] Fine-gained Zero-shot Video Sampling[[PDF](https://arxiv.org/pdf/2407.21475),[Page](https://densechen.github.io/zss/)]
 
 [arxiv 2024.07] [[PDF](),[Page]()]
 
