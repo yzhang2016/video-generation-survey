@@ -372,7 +372,10 @@
 
 [arxiv 2024.07] Specify and Edit: Overcoming Ambiguity in Text-Based Image Editing  [[PDF](https://arxiv.org/abs/2407.20232),[Page](https://github.com/fabvio/SANE)]
 
-[arxiv 2024.07]   [[PDF](),[Page]()]
+[arxiv 2024.08] FastEdit: Fast Text-Guided Single-Image Editing via Semantic-Aware Diffusion Fine-Tuning  [[PDF](https://arxiv.org/abs/2408.03355),[Page](https://fastedit-sd.github.io/)]
+
+[arxiv 2024.08]  [[PDF](),[Page]()]
+
 
 ## LLMs for editing 
 [arxiv 2024.07] GenArtist: Multimodal LLM as an Agent for Unified Image Generation and Editing  [[PDF](https://arxiv.org/abs/2407.05600),[Page](https://zhenyuw16.github.io/GenArtist_page/)]
@@ -380,7 +383,7 @@
 [arxiv 2024.07] UltraEdit: Instruction-based Fine-Grained Image Editing at Scale  [[PDF](https://arxiv.org/abs/2407.05282),[Page](https://ultra-editing.github.io/)]
 
 
-[arxiv 2024.07]   [[PDF](),[Page]()]
+[arxiv 2024.08]  [[PDF](),[Page]()]
 
 
 
@@ -829,7 +832,9 @@
 
 [arxiv 2024.07] MovieDreamer: Hierarchical Generation for Coherent Long Visual Sequence  [[PDF](https://arxiv.org/abs/2407.16655),[Page](https://aim-uofa.github.io/MovieDreamer/)]
 
-[arxiv 2024.07] [[PDF](), [Page]()]
+[arxiv 2024.08]Concept Conductor: Orchestrating Multiple Personalized Concepts in Text-to-Image Synthesis [[PDF](https://arxiv.org/abs/2408.03632), [Page](https://github.com/Nihukat/Concept-Conductor)]
+
+[arxiv 2024.08] [[PDF](), [Page]()]
 
 
 ## Story-telling
@@ -1499,7 +1504,7 @@ Cross-Attention Control [[PDF](https://arxiv.org/abs/2402.13404)]
 
 [arxiv 2024.08] TurboEdit: Text-Based Image Editing Using Few-Step Diffusion Models[[PDF](https://arxiv.org/abs/2408.00735), [Page](https://turboedit-paper.github.io/)]
 
-[arxiv 2024.07] [[PDF](), [Page]()]
+[arxiv 2024.08] [[PDF](), [Page]()]
 
 
 
@@ -1547,7 +1552,7 @@ Cross-Attention Control [[PDF](https://arxiv.org/abs/2402.13404)]
 
 [arxiv 0224.04]Bigger is not Always Better: Scaling Properties of Latent Diffusion Models [[PDF(https://arxiv.org/abs/2404.01367)]
 
-[arxiv 2024.07] [[PDF](), [Page]()]
+[arxiv 2024.08] [[PDF](), [Page]()]
 
 
 
@@ -1572,7 +1577,7 @@ Cross-Attention Control [[PDF](https://arxiv.org/abs/2402.13404)]
 [arxiv 2024.06]Holistic Evaluation for Interleaved Text-and-Image Generation [[PDF](https://arxiv.org/abs/2406.14643), ]
 
 
-[arxiv 2024.07] [[PDF](), [Page]()]
+[arxiv 2024.08] [[PDF](), [Page]()]
 
 ## Feedback
 [arxiv 2023.11]Using Human Feedback to Fine-tune Diffusion Models without Any Reward Model [[PDF](https://arxiv.org/abs/2311.13231)]
@@ -1588,7 +1593,7 @@ Cross-Attention Control [[PDF](https://arxiv.org/abs/2402.13404)]
 [arxiv 2024.08]Towards Reliable Advertising Image Generation Using Human Feedback [[PDF](https://arxiv.org/abs/2408.00418)]
 
 
-[arxiv 2024.07] [[PDF](), [Page]()]
+[arxiv 2024.08] [[PDF](), [Page]()]
 
 
 ##  Finetuning 
@@ -1652,7 +1657,7 @@ Cross-Attention Control [[PDF](https://arxiv.org/abs/2402.13404)]
 
 [arxiv 2024.07] Replication in Visual Diffusion Models:A Survey and Outlook[[PDF](https://arxiv.org/pdf/2408.00001), [Page](https://github.com/WangWenhao0716/Awesome-Diffusion-Replication)]
 
-[arxiv 2024.07] [[PDF](), [Page]()]
+[arxiv 2024.08] [[PDF](), [Page]()]
 
 
 ## Data 
