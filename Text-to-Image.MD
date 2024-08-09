@@ -115,9 +115,9 @@
 
 [arxiv 2024.07]MARS: Mixture of Auto-Regressive Models for Fine-grained Text-to-image Synthesis [[PDF](https://arxiv.org/abs/2407.07614),[Page](https://github.com/fusiming3/MARS)]
 
+[arxiv 2024.08]VAR-CLIP: Text-to-Image Generator with Visual Auto-Regressive Modeling [[PDF](https://arxiv.org/abs/2408.01181),[Page](https://github.com/daixiangzi/VAR-CLIP)]
 
-
-[arxiv 2024.07] [[PDF](),[Page]()]
+[arxiv 2024.08] [[PDF](),[Page]()]
 
 # Generation & Super-resolution 
 
