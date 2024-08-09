@@ -499,17 +499,16 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2024.07]Tora: Trajectory-oriented Diffusion Transformer for Video Generation  [[PDF](https://arxiv.org/abs/2407.21705),[Page](https://ali-videoai.github.io/tora_video/)]
 
-[arxiv 2024.07] Tora: Trajectory-oriented Diffusion Transformer for Video Generation [[PDF](https://arxiv.org/abs/2407.21705),[Page](https://ali-videoai.github.io/tora_video/)]
 
-[arxiv 2024.07]  [[PDF](),[Page]()]
+[arxiv 2024.08] Puppet-Master: Scaling Interactive Video Generation as a Motion Prior for Part-Level Dynamics[[PDF](https://arxiv.org/abs/2408.04631),[Page](https://vgg-puppetmaster.github.io/)]
 
+[arxiv 2024.08]  [[PDF](),[Page]()]
 
 
 ## text 
 [arxiv 2024.06]  Text-Animator: Controllable Visual Text Video Generation[[PDF](https://arxiv.org/abs/2406.17777),[Page](https://laulampaul.github.io/text-animator.html)]
 
-[arxiv 2024.07]  [[PDF](),[Page]()]
-
+[arxiv 2024.08]  [[PDF](),[Page]()]
 
 ## Camera 
 [arxiv 2023.12]MotionCtrl: A Unified and Flexible Motion Controller for Video Generation [[PDF](https://arxiv.org/abs/2312.03641),[Page](https://wzhouxiff.github.io/projects/MotionCtrl/)]
@@ -535,8 +534,7 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 [arxiv 2024.07]VD3D: Taming Large Video Diffusion Transformers for 3D Camera Control [[PDF](https://arxiv.org/abs/2407.12781),[Page](https://snap-research.github.io/vd3d/)]
 
 
-[arxiv 2024.07]  [[PDF](),[Page]()]
-
+[arxiv 2024.08]  [[PDF](),[Page]()]
 
 
 ## inpainting / outpainting 
