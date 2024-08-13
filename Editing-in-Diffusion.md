@@ -353,7 +353,7 @@
 
 [arxiv 2024.07] DragText: Rethinking Text Embedding in Point-based Image Editing  [[PDF](https://arxiv.org/abs/2407.17843),[Page](https://micv-yonsei.github.io/dragtext2025/)]
 
-[arxiv 2024.07]   [[PDF](),[Page]()]
+[arxiv 2024.08]   [[PDF](),[Page]()]
 
 ## DiT 
 [arxiv 2024.03]Switch Diffusion Transformer: Synergizing Denoising Tasks with Sparse Mixture-of-Experts [[PDF](https://arxiv.org/abs/2403.09176),[Page](https://byeongjun-park.github.io/Switch-DiT/)]
@@ -373,6 +373,8 @@
 [arxiv 2024.07] Specify and Edit: Overcoming Ambiguity in Text-Based Image Editing  [[PDF](https://arxiv.org/abs/2407.20232),[Page](https://github.com/fabvio/SANE)]
 
 [arxiv 2024.08] FastEdit: Fast Text-Guided Single-Image Editing via Semantic-Aware Diffusion Fine-Tuning  [[PDF](https://arxiv.org/abs/2408.03355),[Page](https://fastedit-sd.github.io/)]
+
+[arxiv 2024.08] EasyInv: Toward Fast and Better DDIM Inversion [[PDF](https://arxiv.org/abs/2408.05159)]
 
 [arxiv 2024.08]  [[PDF](),[Page]()]
 
@@ -509,14 +511,14 @@
 
 [arxiv 2024.07] GeoGuide: Geometric guidance of diffusion models [[PDF](https://arxiv.org/abs/2407.12889)]
 
-[arxiv 2024.07]   [[PDF](),[Page]()]
+[arxiv 2024.08]   [[PDF](),[Page]()]
 
 ## VAE 
 
 [arxiv 2024.06] Scaling the Codebook Size of VQGAN to 100,000 with a Utilization Rate of 99%  [[PDF](https://arxiv.org/abs/2406.11837))]
 
 
-[arxiv 2024.07]   [[PDF](),[Page]()]
+[arxiv 2024.08]   [[PDF](),[Page]()]
 
 
 
@@ -560,8 +562,9 @@
 
 [arxiv 2024.07] CatVTON: Concatenation Is All You Need for Virtual Try-On with Diffusion Models  [[PDF](https://arxiv.org/abs/2407.15886),[Page](https://github.com/Zheng-Chong/CatVTON)]
 
+[arxiv 2024.08] BooW-VTON: Boosting In-the-Wild Virtual Try-On via Mask-Free Pseudo Data Training  [[PDF](https://arxiv.org/abs/2408.06047),[Page](https://github.com/little-misfit/BooW-VTON)]
 
-[arxiv 2024.07]   [[PDF](),[Page]()]
+[arxiv 2024.08]   [[PDF](),[Page]()]
 
 ## Model adapatation 
 [arxiv 2023.12]X-Adapter: Adding Universal Compatibility of Plugins for Upgraded Diffusion Model [[PDF](https://arxiv.org/abs/2312.02238),[Page](https://showlab.github.io/X-Adapter/)]
@@ -581,7 +584,7 @@
 [arxiv 2024.06] FontStudio: Shape-Adaptive Diffusion Model for Coherent and Consistent Font Effect Generation [[PDF](https://arxiv.org/abs/2406.08392),[Page](https://font-studio.github.io/)]
 
 
-[arxiv 2024.07]   [[PDF](),[Page]()]
+[arxiv 2024.08]   [[PDF](),[Page]()]
 
 
 
@@ -834,6 +837,8 @@
 
 [arxiv 2024.08]Concept Conductor: Orchestrating Multiple Personalized Concepts in Text-to-Image Synthesis [[PDF](https://arxiv.org/abs/2408.03632), [Page](https://github.com/Nihukat/Concept-Conductor)]
 
+[arxiv 2024.08]PreciseControl: Enhancing Text-To-Image Diffusion Models with Fine-Grained Attribute Control [[PDF](https://arxiv.org/abs/2408.05083), [Page](https://rishubhpar.github.io/PreciseControl.home/)]
+
 [arxiv 2024.08] [[PDF](), [Page]()]
 
 
@@ -876,7 +881,7 @@
 [arxiv 2024.07] MovieDreamer: Hierarchical Generation for Coherent Long Visual Sequence  [[PDF](https://arxiv.org/abs/2407.16655),[Page](https://aim-uofa.github.io/MovieDreamer/)]
 
 
-[arxiv 2024.07]   [[PDF](),[Page]()]
+[arxiv 2024.08]   [[PDF](),[Page]()]
 
 
 ## Layout Generation 
@@ -958,7 +963,7 @@ Cross-Attention Control [[PDF](https://arxiv.org/abs/2402.13404)]
 
 [arxiv 2024.05]  NIVeL: Neural Implicit Vector Layers for Text-to-Vector Generation  [[PDF](https://arxiv.org/abs/2405.15217)]
 
-[arxiv 2024.07]   [[PDF](),[Page]()]
+[arxiv 2024.08]   [[PDF](),[Page]()]
 
 
 
@@ -1173,8 +1178,11 @@ Cross-Attention Control [[PDF](https://arxiv.org/abs/2402.13404)]
 
 [arxiv 2024.07] Diffree: Text-Guided Shape Free Object Inpainting with Diffusion Model  [[PDF](https://arxiv.org/abs/2407.16982),[Page](https://github.com/OpenGVLab/Diffree)]
 
+[arxiv 2024.08] ControlNeXt: Powerful and Efficient Control for Image and Video Generation  [[PDF](https://arxiv.org/abs/2408.06070),[Page](https://github.com/dvlab-research/ControlNeXt)]
 
-[arxiv 2024.07]   [[PDF](),[Page]()]
+
+
+[arxiv 2024.08]   [[PDF](),[Page]()]
 
 
 ## Image Variation 
@@ -1281,12 +1289,12 @@ Cross-Attention Control [[PDF](https://arxiv.org/abs/2402.13404)]
 
 [arxiv 2024.07]  ∞ -Brush: Controllable Large Image Synthesis with Diffusion Models in Infinite Dimensions [[PDF](https://arxiv.org/abs/2407.14709)]
 
-[arxiv 2024.07]   [[PDF](),[Page]()]
+[arxiv 2024.08]   [[PDF](),[Page]()]
 
 ## action transfer 
 [arxiv 2023.11]Learning Disentangled Identifiers for Action-Customized Text-to-Image Generation [[PDF](https://arxiv.org/abs/2311.15841)]
 
-[arxiv 2024.07]   [[PDF](),[Page]()]
+[arxiv 2024.08]   [[PDF](),[Page]()]
 
 ## Style transfer 
 [arxiv 22.11; kuaishou] ***DiffStyler***: Controllable Dual Diffusion for Text-Driven Image Stylization \[[PDF](https://arxiv.org/pdf/2211.10682.pdf), code\]  
@@ -1386,7 +1394,7 @@ Cross-Attention Control [[PDF](https://arxiv.org/abs/2402.13404)]
 
 [arxiv 2024.07] Artist: Aesthetically Controllable Text-Driven Stylization without Training [[PDF](https://arxiv.org/abs/2303.17606),[Page](https://diffusionartist.github.io/)]
 
-[arxiv 2024.07]   [[PDF](),[Page]()]
+[arxiv 2024.08]   [[PDF](),[Page]()]
 
 
 
@@ -1403,7 +1411,7 @@ Cross-Attention Control [[PDF](https://arxiv.org/abs/2402.13404)]
 
 [arxiv 2024.06] Coherent Zero-Shot Visual Instruction Generation  [[PDF](https://arxiv.org/abs/2406.04337),[Page](https://instruct-vis-zero.github.io/)]
 
-[arxiv 2024.07]   [[PDF](),[Page]()]
+[arxiv 2024.08]   [[PDF](),[Page]()]
 
 
 
@@ -1504,10 +1512,10 @@ Cross-Attention Control [[PDF](https://arxiv.org/abs/2402.13404)]
 
 [arxiv 2024.08] TurboEdit: Text-Based Image Editing Using Few-Step Diffusion Models[[PDF](https://arxiv.org/abs/2408.00735), [Page](https://turboedit-paper.github.io/)]
 
+[arxiv 2024.08] A Simple Early Exiting Framework for Accelerated Sampling in Diffusion Models[[PDF](https://arxiv.org/abs/2408.05927)]
+
+
 [arxiv 2024.08] [[PDF](), [Page]()]
-
-
-
 
 ## limited data 
 [arxiv 2023.06]Decompose and Realign: Tackling Condition Misalignment in Text-to-Image Diffusion Models [[PDF](https://arxiv.org/abs/2306.14153)]
