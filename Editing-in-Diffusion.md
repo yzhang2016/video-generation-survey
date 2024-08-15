@@ -353,7 +353,10 @@
 
 [arxiv 2024.07] DragText: Rethinking Text Embedding in Point-based Image Editing  [[PDF](https://arxiv.org/abs/2407.17843),[Page](https://micv-yonsei.github.io/dragtext2025/)]
 
+[arxiv 2024.08] MagicFace: Training-free Universal-Style Human Image Customized Synthesis  [[PDF](https://arxiv.org/abs/2408.07433),[Page](https://codegoat24.github.io/MagicFace)]
+
 [arxiv 2024.08]   [[PDF](),[Page]()]
+
 
 ## DiT 
 [arxiv 2024.03]Switch Diffusion Transformer: Synergizing Denoising Tasks with Sparse Mixture-of-Experts [[PDF](https://arxiv.org/abs/2403.09176),[Page](https://byeongjun-park.github.io/Switch-DiT/)]
@@ -838,6 +841,8 @@
 [arxiv 2024.08]Concept Conductor: Orchestrating Multiple Personalized Concepts in Text-to-Image Synthesis [[PDF](https://arxiv.org/abs/2408.03632), [Page](https://github.com/Nihukat/Concept-Conductor)]
 
 [arxiv 2024.08]PreciseControl: Enhancing Text-To-Image Diffusion Models with Fine-Grained Attribute Control [[PDF](https://arxiv.org/abs/2408.05083), [Page](https://rishubhpar.github.io/PreciseControl.home/)]
+
+[arxiv 2024.08] DiffLoRA: Generating Personalized Low-Rank Adaptation Weights with Diffusion[[PDF](https://arxiv.org/abs/2408.06740)]
 
 [arxiv 2024.08] [[PDF](), [Page]()]
 
@@ -1515,7 +1520,10 @@ Cross-Attention Control [[PDF](https://arxiv.org/abs/2402.13404)]
 [arxiv 2024.08] A Simple Early Exiting Framework for Accelerated Sampling in Diffusion Models[[PDF](https://arxiv.org/abs/2408.05927)]
 
 
+[arxiv 2024.08]Low-Bitwidth Floating Point Quantization for Efficient High-Quality Diffusion Models [[PDF](https://arxiv.org/abs/2408.06995)]
+
 [arxiv 2024.08] [[PDF](), [Page]()]
+
 
 ## limited data 
 [arxiv 2023.06]Decompose and Realign: Tackling Condition Misalignment in Text-to-Image Diffusion Models [[PDF](https://arxiv.org/abs/2306.14153)]
