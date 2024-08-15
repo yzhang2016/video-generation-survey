@@ -303,13 +303,13 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2024.06]Hierarchical Patch Diffusion Models for High-Resolution Video Generation [[PDF](https://arxiv.org/pdf/2406.07792), [Page](https://snap-research.github.io/hpdm)]
 
-[arxiv 2024.07] [[PDF](), [Page]()]
+[arxiv 2024.08] [[PDF](), [Page]()]
 
 
 ## LLMs-based 
 [arxiv 2023.12]VideoPoet: A Large Language Model for Zero-Shot Video Generation [[PDF](https://arxiv.org/abs/2312.14125),[Page](http://sites.research.google/videopoet/)]
 
-[arxiv 2024.07] [[PDF](), [Page]()]
+[arxiv 2024.08] [[PDF](), [Page]()]
 
 
 
@@ -322,7 +322,7 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 [arxiv 2024.03]SSM Meets Video Diffusion Models: Efficient Video Generation with Structured State Spaces [[PDF](https://arxiv.org/abs/2403.07711),[Page](https://github.com/shim0114/SSM-Meets-Video-Diffusion-Models)]
 
 
-[arxiv 2024.07] [[PDF](), [Page]()]
+[arxiv 2024.08] [[PDF](), [Page]()]
 
 
 
@@ -336,7 +336,7 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 [arxiv 2024.07] Video Diffusion Alignment via Reward Gradients [[PDF](https://arxiv.org/abs/2407.08737), [Page](https://github.com/mihirp1998/VADER)]
 
 
-[arxiv 2024.07] [[PDF](), [Page]()]
+[arxiv 2024.08] [[PDF](), [Page]()]
 
 ## composition 
 [arxiv 2024.07]VideoTetris: Towards Compositional Text-To-Video Generation[[PDF](https://arxiv.org/abs/2406.04277), [Page](https://videotetris.github.io/)]
@@ -350,7 +350,7 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 
 
-[arxiv 2024.07] [[PDF](), [Page]()]
+[arxiv 2024.08] [[PDF](), [Page]()]
 
 
 ## multi-prompt 
@@ -360,10 +360,10 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2024.06]VideoTetris: Towards Compositional Text-To-Video Generation[[PDF](https://arxiv.org/abs/2406.04277), [Page](https://videotetris.github.io/)]
 
-[arxiv 2024.07] [[PDF](), [Page]()]
+[arxiv 2024.08] [[PDF](), [Page]()]
 
 
-[arxiv 2024.07] [[PDF](), [Page]()]
+[arxiv 2024.08] [[PDF](), [Page]()]
 
 
 ## long video generation 
@@ -393,14 +393,14 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2024.07]Multi-sentence Video Grounding for Long Video Generation[[PDF](https://arxiv.org/abs/2407.13219)]
 
-[arxiv 2024.07] [[PDF](), [Page]()]
+[arxiv 2024.08] [[PDF](), [Page]()]
 
 
 ## sound generation 
 [arxiv 2024.07] Read, Watch and Scream! Sound Generation from Text and Video
 [[PDF](https://arxiv.org/abs/2407.05551), [Page](https://naver-ai.github.io/rewas)]
 
-[arxiv 2024.07] [[PDF](), [Page]()]
+[arxiv 2024.08] [[PDF](), [Page]()]
 
 
 ## Higher Resolution 
@@ -619,9 +619,9 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 [arxiv 2024.07]Streetscapes: Large-scale Consistent Street View Generation Using Autoregressive Video Diffusion
  [[PDF](https://arxiv.org/abs/2407.13759), [Page](https://boyangdeng.com/streetscapes)]
 
-[arxiv 2024.07] [[PDF](), [Page]()]
+[arxiv 2024.08] Panacea+: Panoramic and Controllable Video Generation for Autonomous Driving[[PDF](https://arxiv.org/abs/2408.07605), [Page](https://panacea-ad.github.io/)]
 
-
+[arxiv 2024.08] [[PDF](), [Page]()]
 
 ## Concept 
 [arxiv 2023.07]Animate-A-Story: Storytelling with Retrieval-Augmented Video Generation [[PDF](https://arxiv.org/abs/2307.06940), [Page](https://videocrafter.github.io/Animate-A-Story)]
