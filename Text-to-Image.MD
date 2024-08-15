@@ -70,7 +70,10 @@
 [arxiv 2024.7]Kolors: Effective Training of Diffusion Model for Photorealistic Text-to-Image Synthesis [[PDF](https://github.com/Kwai-Kolors/Kolors/blob/master/imgs/Kolors_paper.pdf),[Page](https://github.com/Kwai-Kolors/Kolors/tree/master)]
 
 
-[arxiv 2024.07] [[PDF](),[Page]()]
+[arxiv 2024.08] Imagen 3[[PDF](https://arxiv.org/abs/2408.07009)]
+
+[arxiv 2024.08] [[PDF](),[Page]()]
+
 
 ## GAN/VAE/Transformer-based 
 
