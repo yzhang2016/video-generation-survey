@@ -514,7 +514,7 @@
 
 [arxiv 2024.07] GeoGuide: Geometric guidance of diffusion models [[PDF](https://arxiv.org/abs/2407.12889)]
 
-
+[arxiv 2024.08]  Understanding the Local Geometry of Generative Model Manifolds [[PDF](https://arxiv.org/pdf/2408.08307)]
 
 [arxiv 2024.08]   [[PDF](),[Page]()]
 
