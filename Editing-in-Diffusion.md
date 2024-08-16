@@ -514,6 +514,8 @@
 
 [arxiv 2024.07] GeoGuide: Geometric guidance of diffusion models [[PDF](https://arxiv.org/abs/2407.12889)]
 
+
+
 [arxiv 2024.08]   [[PDF](),[Page]()]
 
 ## VAE 
@@ -1567,6 +1569,8 @@ Cross-Attention Control [[PDF](https://arxiv.org/abs/2402.13404)]
 [arxiv 2024.1]Resolution Chromatography of Diffusion Models [[PDF](https://arxiv.org/abs/2401.10247)]
 
 [arxiv 0224.04]Bigger is not Always Better: Scaling Properties of Latent Diffusion Models [[PDF(https://arxiv.org/abs/2404.01367)]
+
+[arxiv 2024.08]  Not Every Image is Worth a Thousand Words: Quantifying Originality in Stable Diffusion [[PDF](https://arxiv.org/abs/2408.08184)]
 
 [arxiv 2024.08] [[PDF](), [Page]()]
 
