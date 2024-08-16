@@ -335,6 +335,8 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2024.07] Video Diffusion Alignment via Reward Gradients [[PDF](https://arxiv.org/abs/2407.08737), [Page](https://github.com/mihirp1998/VADER)]
 
+[arxiv 2024.08] FancyVideo: Towards Dynamic and Consistent Video Generation via Cross-frame Textual Guidance[[PDF](https://arxiv.org/abs/2408.08189)]
+
 
 [arxiv 2024.08] [[PDF](), [Page]()]
 
