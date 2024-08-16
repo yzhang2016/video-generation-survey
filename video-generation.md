@@ -316,6 +316,8 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 ## DiT 
 [arxiv 2024.05]  EasyAnimate: A High-Performance Long Video Generation Method based on Transformer Architecture [[PDF](https://arxiv.org/abs/2405.18991),[Page](https://github.com/aigc-apps/EasyAnimate)]
 
+[arxiv 2024.08] CogVideoX: Text-to-Video Diffusion Models with An Expert Transformer  [[PDF](https://arxiv.org/abs/2408.06072),[Page](https://github.com/THUDM/CogVideo)]
+
 [arxiv 2024.08]   [[PDF](),[Page]()]
 
 ## State Space-based 
