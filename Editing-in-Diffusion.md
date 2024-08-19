@@ -355,8 +355,9 @@
 
 [arxiv 2024.08] MagicFace: Training-free Universal-Style Human Image Customized Synthesis  [[PDF](https://arxiv.org/abs/2408.07433),[Page](https://codegoat24.github.io/MagicFace)]
 
-[arxiv 2024.08]   [[PDF](),[Page]()]
+[arxiv 2024.08] TurboEdit: Instant text-based image editing[[PDF](https://arxiv.org/abs/2408.08332),[Page](https://betterze.github.io/TurboEdit/)]
 
+[arxiv 2024.08]   [[PDF](),[Page]()]
 
 ## DiT 
 [arxiv 2024.03]Switch Diffusion Transformer: Synergizing Denoising Tasks with Sparse Mixture-of-Experts [[PDF](https://arxiv.org/abs/2403.09176),[Page](https://byeongjun-park.github.io/Switch-DiT/)]
@@ -1523,6 +1524,8 @@ Cross-Attention Control [[PDF](https://arxiv.org/abs/2402.13404)]
 
 
 [arxiv 2024.08]Low-Bitwidth Floating Point Quantization for Efficient High-Quality Diffusion Models [[PDF](https://arxiv.org/abs/2408.06995)]
+
+[arxiv 2024.08]PFDiff: Training-free Acceleration of Diffusion Models through the Gradient Guidance of Past and Future [[PDF](https://arxiv.org/abs/2408.08822)]
 
 [arxiv 2024.08] [[PDF](), [Page]()]
 
