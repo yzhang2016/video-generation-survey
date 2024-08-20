@@ -847,6 +847,10 @@
 
 [arxiv 2024.08] DiffLoRA: Generating Personalized Low-Rank Adaptation Weights with Diffusion[[PDF](https://arxiv.org/abs/2408.06740)]
 
+[arxiv 2024.08]RealCustom++: Representing Images as Real-Word for Real-Time Customization [[PDF](https://arxiv.org/abs/2408.09744), [Page](https://corleone-huang.github.io/RealCustom)]
+
+[arxiv 2024.08] MagicID: Flexible ID Fidelity Generation System[[PDF](https://arxiv.org/abs/2408.09248)]
+
 [arxiv 2024.08] [[PDF](), [Page]()]
 
 
@@ -1188,10 +1192,11 @@ Cross-Attention Control [[PDF](https://arxiv.org/abs/2402.13404)]
 
 [arxiv 2024.08] ControlNeXt: Powerful and Efficient Control for Image and Video Generation  [[PDF](https://arxiv.org/abs/2408.06070),[Page](https://github.com/dvlab-research/ControlNeXt)]
 
+[arxiv 2024.08] TraDiffusion: Trajectory-Based Training-Free Image Generation [[PDF](https://arxiv.org/abs/2408.09739),[Page](https://github.com/och-mac/TraDiffusion)]
 
+[arxiv 2024.08] RepControlNet: ControlNet Reparameterization[[PDF](https://arxiv.org/abs/2408.09240)]
 
 [arxiv 2024.08]   [[PDF](),[Page]()]
-
 
 ## Image Variation 
 [arxiv 2023.08]IP-Adapter: Text Compatible Image Prompt Adapter for Text-to-Image Diffusion Models [[PDF](https://arxiv.org/pdf/2308.06721.pdf), [Page](https://ip-adapter.github.io/)]
@@ -1402,9 +1407,9 @@ Cross-Attention Control [[PDF](https://arxiv.org/abs/2402.13404)]
 
 [arxiv 2024.07] Artist: Aesthetically Controllable Text-Driven Stylization without Training [[PDF](https://arxiv.org/abs/2303.17606),[Page](https://diffusionartist.github.io/)]
 
+[arxiv 2024.08]  StyleBrush: Style Extraction and Transfer from a Single Image [[PDF](https://arxiv.org/abs/2408.09496)]
+
 [arxiv 2024.08]   [[PDF](),[Page]()]
-
-
 
 ## downstream apps
 [arxiv 2023.11]Text-to-Sticker: Style Tailoring Latent Diffusion Models for Human Expression [[PDF](https://arxiv.org/abs/2311.10794)]
