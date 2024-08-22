@@ -380,8 +380,9 @@
 
 [arxiv 2024.08] EasyInv: Toward Fast and Better DDIM Inversion [[PDF](https://arxiv.org/abs/2408.05159)]
 
-[arxiv 2024.08]  [[PDF](),[Page]()]
+[arxiv 2024.08] AnyDesign: Versatile Area Fashion Editing via Mask-Free Diffusion [[PDF](https://arxiv.org/abs/2408.11553)]
 
+[arxiv 2024.08]  [[PDF](),[Page]()]
 
 ## LLMs for editing 
 [arxiv 2024.07] GenArtist: Multimodal LLM as an Agent for Unified Image Generation and Editing  [[PDF](https://arxiv.org/abs/2407.05600),[Page](https://zhenyuw16.github.io/GenArtist_page/)]
@@ -516,6 +517,12 @@
 [arxiv 2024.07] GeoGuide: Geometric guidance of diffusion models [[PDF](https://arxiv.org/abs/2407.12889)]
 
 [arxiv 2024.08]  Understanding the Local Geometry of Generative Model Manifolds [[PDF](https://arxiv.org/pdf/2408.08307)]
+
+[arxiv 2024.08] Iterative Object Count Optimization for Text-to-image Diffusion Models[[PDF](https://arxiv.org/abs/2408.11721)]
+
+[arxiv 2024.08]FRAP: Faithful and Realistic Text-to-Image Generation with Adaptive Prompt Weighting[[PDF](https://arxiv.org/abs/2408.11706)]
+
+[arxiv 2024.08] Compress Guidance in Conditional Diffusion Sampling  [[PDF](https://arxiv.org/abs/2408.11194)]
 
 [arxiv 2024.08]   [[PDF](),[Page]()]
 
@@ -892,6 +899,7 @@
 
 [arxiv 2024.07] MovieDreamer: Hierarchical Generation for Coherent Long Visual Sequence  [[PDF](https://arxiv.org/abs/2407.16655),[Page](https://aim-uofa.github.io/MovieDreamer/)]
 
+[arxiv 2024.08]Story3D-Agent: Exploring 3D Storytelling Visualization with Large Language Models[[PDF](https://arxiv.org/abs/2408.11801),[Page](https://yuzhou914.github.io/Story3D-Agent/)]
 
 [arxiv 2024.08]   [[PDF](),[Page]()]
 
@@ -1302,6 +1310,8 @@ Cross-Attention Control [[PDF](https://arxiv.org/abs/2402.13404)]
 
 [arxiv 2024.07]  ∞ -Brush: Controllable Large Image Synthesis with Diffusion Models in Infinite Dimensions [[PDF](https://arxiv.org/abs/2407.14709)]
 
+[arxiv 2024.08] MegaFusion: Extend Diffusion Models towards Higher-resolution Image Generation without Further Tuning  [[PDF](https://arxiv.org/abs/2408.11001),[Page](https://haoningwu3639.github.io/MegaFusion/)]
+
 [arxiv 2024.08]   [[PDF](),[Page]()]
 
 ## action transfer 
@@ -1604,6 +1614,7 @@ Cross-Attention Control [[PDF](https://arxiv.org/abs/2402.13404)]
 
 [arxiv 2024.06]Holistic Evaluation for Interleaved Text-and-Image Generation [[PDF](https://arxiv.org/abs/2406.14643), ]
 
+[arxiv 2024.08]E-Bench: Subjective-Aligned Benchmark Suite for Text-Driven Video Editing Quality Assessment [[PDF](https://arxiv.org/abs/2408.11481)]
 
 [arxiv 2024.08] [[PDF](), [Page]()]
 
