@@ -506,8 +506,9 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2024.08] Puppet-Master: Scaling Interactive Video Generation as a Motion Prior for Part-Level Dynamics[[PDF](https://arxiv.org/abs/2408.04631),[Page](https://vgg-puppetmaster.github.io/)]
 
-[arxiv 2024.08]  [[PDF](),[Page]()]
+[arxiv 2024.08] TrackGo: A Flexible and Efficient Method for Controllable Video Generation [[PDF](https://arxiv.org/abs/2408.11475),[Page](https://zhtjtcz.github.io/TrackGo-Page/)]
 
+[arxiv 2024.08]  [[PDF](),[Page]()]
 
 ## text 
 [arxiv 2024.06]  Text-Animator: Controllable Visual Text Video Generation[[PDF](https://arxiv.org/abs/2406.17777),[Page](https://laulampaul.github.io/text-animator.html)]
@@ -558,7 +559,9 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2024.05]ReVideo: Remake a Video with Motion and Content Control [[PDF](https://arxiv.org/abs/2405.13865),[Page](https://mc-e.github.io/project/ReVideo/)]
 
+[arxiv 2024.08]Video Diffusion Models are Strong Video Inpainter  [[PDF](https://arxiv.org/abs/2408.11402)]
 
+[arxiv 2024.08]  [[PDF](),[Page]()]
 
 ## Video Quality 
 [arxiv 2024.03]VideoElevator : Elevating Video Generation Quality with Versatile Text-to-Image Diffusion Models[[PDF](https://arxiv.org/abs/2403.05438),[Page](https://videoelevator.github.io/)]
