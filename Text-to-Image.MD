@@ -120,7 +120,10 @@
 
 [arxiv 2024.08]VAR-CLIP: Text-to-Image Generator with Visual Auto-Regressive Modeling [[PDF](https://arxiv.org/abs/2408.01181),[Page](https://github.com/daixiangzi/VAR-CLIP)]
 
+[arxiv 2024.08]Scalable Autoregressive Image Generation with Mamba [[PDF](https://arxiv.org/abs/2408.12245),[Page](https://github.com/hp-l33/AiM)]
+
 [arxiv 2024.08] [[PDF](),[Page]()]
+
 
 # Generation & Super-resolution 
 
