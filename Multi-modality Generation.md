@@ -38,4 +38,6 @@
 
 [arxiv 2024.06]The Evolution of Multimodal Model Architectures [[PDF](https://arxiv.org/pdf/2405.17927)]
 
+[arxiv 2024.08] Show-o: One Single Transformer to Unify Multimodal Understanding and Generation[[PDF](https://arxiv.org/abs/2408.12528), [Page](https://github.com/showlab/Show-o)]
 
+[arxiv 2024.08] [[PDF](), [Page]()]
