@@ -357,7 +357,12 @@
 
 [arxiv 2024.08] TurboEdit: Instant text-based image editing[[PDF](https://arxiv.org/abs/2408.08332),[Page](https://betterze.github.io/TurboEdit/)]
 
+[arxiv 2024.08] FlexEdit: Marrying Free-Shape Masks to VLLM for Flexible Image Editing  [[PDF](https://arxiv.org/abs/2408.12429),[Page](https://github.com/A-new-b/flex)]
+
+[arxiv 2024.08]  CODE: Confident Ordinary Differential Editing [[PDF](https://arxiv.org/abs/2408.12418),[Page](https://github.com/vita-epfl/CODE/)]
+
 [arxiv 2024.08]   [[PDF](),[Page]()]
+
 
 ## DiT 
 [arxiv 2024.03]Switch Diffusion Transformer: Synergizing Denoising Tasks with Sparse Mixture-of-Experts [[PDF](https://arxiv.org/abs/2403.09176),[Page](https://byeongjun-park.github.io/Switch-DiT/)]
