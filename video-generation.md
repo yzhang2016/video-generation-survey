@@ -149,7 +149,7 @@ A reading list of video generation
 
 
 
-## :point_right: GAN/VAE-based methods 
+## GAN/VAE-based methods 
 [NIPS 2016] **---VGAN---** Generating Videos with Scene Dynamics \[[PDF](https://proceedings.neurips.cc/paper/2016/file/04025959b191f8f9de3f924f0940515f-Paper.pdf), [code](https://github.com/cvondrick/videogan) \]
 
 [ICCV 2017] **---TGAN---** Temporal Generative Adversarial Nets with Singular Value Clipping \[[PDF](https://arxiv.org/pdf/1611.06624.pdf), [code](https://github.com/pfnet-research/tgan) \]
@@ -182,7 +182,7 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 ## :point_right: Implicit Neural Representations
 [ICLR 2022] Generating videos with dynamics-aware implicit generative adversarial networks \[[PDF](https://openreview.net/pdf?id=Czsdv-S4-w9), [code]() \]
 
-## :point_right: Transformer-based 
+## Transformer-based 
 [arxiv 2021] **---VideoGPT--** VideoGPT: Video Generation using VQ-VAE and Transformers \[[PDF](https://arxiv.org/pdf/2104.10157.pdf), [code](https://github.com/wilson1yan/VideoGPT) \]
 
 [ECCV 2022; Microsoft] **---NÜWA--** NÜWA: Visual Synthesis Pre-training for Neural visUal World creAtion \[[PDF](https://arxiv.org/pdf/2111.12417.pdf), code \]
@@ -202,7 +202,7 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2024.01]WorldDreamer: Towards General World Models for Video Generation via Predicting Masked Tokens [[PDF](https://arxiv.org/abs/2401.09985),[Page](https://world-dreamer.github.io/)]
 
-## :point_right: Diffusion-based methods 
+## Diffusion-based methods 
 *[NIPS 2022; Google] **---VDM--**  Video Diffusion Models \[[PDF](https://arxiv.org/pdf/2204.03458.pdf), [code](https://github.com/lucidrains/video-diffusion-pytorch) \]
 
 *[arxiv 2022; Meta] **---MAKE-A-VIDEO--** MAKE-A-VIDEO: TEXT-TO-VIDEO GENERATION WITHOUT TEXT-VIDEO DATA \[[PDF](https://arxiv.org/pdf/2209.14792.pdf), code \]
@@ -303,8 +303,9 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2024.06]Hierarchical Patch Diffusion Models for High-Resolution Video Generation [[PDF](https://arxiv.org/pdf/2406.07792), [Page](https://snap-research.github.io/hpdm)]
 
-[arxiv 2024.08] [[PDF](), [Page]()]
+[arxiv 2024.08] xGen-VideoSyn-1: High-fidelity Text-to-Video Synthesis with Compressed Representations[[PDF](https://arxiv.org/abs/2408.12590), [Page](https://github.com/SalesforceAIResearch/xgen-videosyn)]
 
+[arxiv 2024.08] [[PDF](), [Page]()]
 
 ## LLMs-based 
 [arxiv 2023.12]VideoPoet: A Large Language Model for Zero-Shot Video Generation [[PDF](https://arxiv.org/abs/2312.14125),[Page](http://sites.research.google/videopoet/)]
@@ -537,6 +538,8 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 [arxiv 2024.06] Image Conductor: Precision Control for Interactive Video Synthesis [[PDF](https://liyaowei-stu.github.io/project/ImageConductor/),[Page](https://liyaowei-stu.github.io/project/ImageConductor/)]
 
 [arxiv 2024.07]VD3D: Taming Large Video Diffusion Transformers for 3D Camera Control [[PDF](https://arxiv.org/abs/2407.12781),[Page](https://snap-research.github.io/vd3d/)]
+
+[arxiv 2024.08] DreamCinema: Cinematic Transfer with Free Camera and 3D Character [[PDF](https://arxiv.org/abs/2408.12601),[Page](https://liuff19.github.io/DreamCinema)]
 
 
 [arxiv 2024.08]  [[PDF](),[Page]()]
@@ -1076,11 +1079,11 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2024.06]SF-V: Single Forward Video Generation Model [[PDF](https://arxiv.org/abs/2406.04324),[Page](https://snap-research.github.io/SF-V/)]
 
-
 [arxiv 2024.07]QVD: Post-training Quantization for Video Diffusion Models [[PDF](https://arxiv.org/abs/2407.11585),[Page]()]
 
+[arxiv 2024.08]Real-Time Video Generation with Pyramid Attention Broadcast [[PDF](https://arxiv.org/abs/2408.12588),[Page](https://github.com/NUS-HPC-AI-Lab/VideoSys)]
 
-[arxiv 2024.07] [[PDF](),[Page]()]
+[arxiv 2024.08] [[PDF](),[Page]()]
 
 ## Others 
 [arxiv 2023.05]AADiff: Audio-Aligned Video Synthesis with Text-to-Image Diffusion [[PDF](https://arxiv.org/abs/2305.04001)]
@@ -1110,7 +1113,7 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2024] MAGVIT-V2 : Language Model Beats Diffusion -- Tokenizer is Key to Visual Generation [[PDF](https://arxiv.org/abs/2310.05737)]
 
-
+[arxiv 2024.08]Sapiens: Foundation for Human Vision Models [[PDF](https://arxiv.org/abs/2408.12569),[Page](https://about.meta.com/realitylabs/codecavatars/sapiens)]
 
 
 ## NLP related
