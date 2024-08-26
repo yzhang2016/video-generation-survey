@@ -600,8 +600,9 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2024.08]Kalman-Inspired Feature Propagation for Video Face Super-Resolution[[PDF](https://arxiv.org/abs/2408.05205),[Page](https://jnjaby.github.io/projects/KEEP/)]
 
-[arxiv 2024.08]   [[PDF](),[Page]()]
+[arxiv 2024.08] Unrolled Decomposed Unpaired Learning for Controllable Low-Light Video Enhancement  [[PDF](https://arxiv.org/abs/2408.12316),[Page](https://github.com/lingyzhu0101/UDU)]
 
+[arxiv 2024.08]   [[PDF](),[Page]()]
 
 ## downstream apps
 [arxiv 2023.11]Breathing Life Into Sketches Using Text-to-Video Priors [[PDF](https://arxiv.org/abs/2311.13608),[Page](https://livesketch.github.io/)]
@@ -658,8 +659,10 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2024.07]Still-Moving: Customized Video Generation without Customized Video Data [[PDF](https://arxiv.org/abs/2407.08674),[Page](https://still-moving.github.io/)]
 
+[arxiv 2024.08] CustomCrafter: Customized Video Generation with Preserving Motion and Concept Composition Abilities[[PDF](https://arxiv.org/abs/2408.13239),[Page](https://customcrafter.github.io/)]
 
-[arxiv 2024.07] [[PDF](),[Page]()]
+
+[arxiv 2024.08] [[PDF](),[Page]()]
 
 
 ## Talking Face 
