@@ -361,7 +361,16 @@
 
 [arxiv 2024.08]  CODE: Confident Ordinary Differential Editing [[PDF](https://arxiv.org/abs/2408.12418),[Page](https://github.com/vita-epfl/CODE/)]
 
+[arxiv 2024.08]  Prompt-Softbox-Prompt: A free-text Embedding Control for Image Editing [[PDF](https://arxiv.org/abs/2408.13623)]
+
+[arxiv 2024.08]  Task-Oriented Diffusion Inversion for High-Fidelity Text-based Editing= [[PDF](https://arxiv.org/abs/2408.13395)]
+
+
+
 [arxiv 2024.08]   [[PDF](),[Page]()]
+
+
+
 
 
 ## DiT 
@@ -1209,7 +1218,10 @@ Cross-Attention Control [[PDF](https://arxiv.org/abs/2402.13404)]
 
 [arxiv 2024.08] RepControlNet: ControlNet Reparameterization[[PDF](https://arxiv.org/abs/2408.09240)]
 
+[arxiv 2024.08] Foodfusion: A Novel Approach for Food Image Composition via Diffusion Models  [[PDF](https://arxiv.org/abs/2408.14135)]
+
 [arxiv 2024.08]   [[PDF](),[Page]()]
+
 
 ## Image Variation 
 [arxiv 2023.08]IP-Adapter: Text Compatible Image Prompt Adapter for Text-to-Image Diffusion Models [[PDF](https://arxiv.org/pdf/2308.06721.pdf), [Page](https://ip-adapter.github.io/)]
@@ -1547,8 +1559,9 @@ Cross-Attention Control [[PDF](https://arxiv.org/abs/2402.13404)]
 
 [arxiv 2024.08]PFDiff: Training-free Acceleration of Diffusion Models through the Gradient Guidance of Past and Future [[PDF](https://arxiv.org/abs/2408.08822)]
 
-[arxiv 2024.08] [[PDF](), [Page]()]
+[arxiv 2024.08] SwiftBrush v2: Make Your One-step Diffusion Model Better Than Its Teacher[[PDF](https://arxiv.org/abs/2408.14176)]
 
+[arxiv 2024.08] [[PDF](), [Page]()]
 
 ## limited data 
 [arxiv 2023.06]Decompose and Realign: Tackling Condition Misalignment in Text-to-Image Diffusion Models [[PDF](https://arxiv.org/abs/2306.14153)]
@@ -1636,6 +1649,7 @@ Cross-Attention Control [[PDF](https://arxiv.org/abs/2402.13404)]
 
 [arxiv 2024.08]Towards Reliable Advertising Image Generation Using Human Feedback [[PDF](https://arxiv.org/abs/2408.00418)]
 
+[arxiv 2024.08] I2EBench: A Comprehensive Benchmark for Instruction-based Image Editing[[PDF](https://arxiv.org/abs/2408.14180), [Page](https://github.com/cocoshe/I2EBench)]
 
 [arxiv 2024.08] [[PDF](), [Page]()]
 
