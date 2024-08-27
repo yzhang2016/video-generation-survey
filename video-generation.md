@@ -398,6 +398,10 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2024.07]Multi-sentence Video Grounding for Long Video Generation[[PDF](https://arxiv.org/abs/2407.13219)]
 
+[arxiv 2024.08]Training-free High-quality Video Generation with Chain of Diffusion Model Experts [[PDF](https://arxiv.org/abs/2408.13423), [Page](https://confiner2025.github.io/)]
+
+[arxiv 2024.08] TVG: A Training-free Transition Video Generation Method with Diffusion Models[[PDF](https://arxiv.org/abs/2408.13413), [Page](https://sobeymil.github.io/tvg.com/)]
+
 [arxiv 2024.08] [[PDF](), [Page]()]
 
 
