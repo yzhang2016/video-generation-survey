@@ -1220,6 +1220,8 @@ Cross-Attention Control [[PDF](https://arxiv.org/abs/2402.13404)]
 
 [arxiv 2024.08] Foodfusion: A Novel Approach for Food Image Composition via Diffusion Models  [[PDF](https://arxiv.org/abs/2408.14135)]
 
+[arxiv 2024.08]Build-A-Scene: Interactive 3D Layout Control for Diffusion-Based Image Generation[[PDF](https://arxiv.org/abs/2408.14819),[Page](https://abdo-eldesokey.github.io/build-a-scene/)]
+
 [arxiv 2024.08]   [[PDF](),[Page]()]
 
 
