@@ -608,6 +608,13 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2024.08]   [[PDF](),[Page]()]
 
+#  restoration 
+[arxiv 2024.08] Towards Real-world Event-guided Low-light Video Enhancement and Deblurring[[PDF](https://arxiv.org/abs/2408.14916)]
+
+[arxiv 2024.08] Cross-Modal Temporal Alignment for Event-guided Video Deblurring[[PDF](https://arxiv.org/abs/2408.14930)]
+
+[arxiv 2024.08]   [[PDF](),[Page]()]
+
 ## downstream apps
 [arxiv 2023.11]Breathing Life Into Sketches Using Text-to-Video Priors [[PDF](https://arxiv.org/abs/2311.13608),[Page](https://livesketch.github.io/)]
 
@@ -636,7 +643,11 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2024.08] Panacea+: Panoramic and Controllable Video Generation for Autonomous Driving[[PDF](https://arxiv.org/abs/2408.07605), [Page](https://panacea-ad.github.io/)]
 
+[arxiv 2024.08]Diffusion Models Are Real-Time Game Engines [[PDF](https://arxiv.org/abs/2408.14837), [Page](https://gamengen.github.io/)]
+
 [arxiv 2024.08] [[PDF](), [Page]()]
+
+
 
 ## Concept 
 [arxiv 2023.07]Animate-A-Story: Storytelling with Retrieval-Augmented Video Generation [[PDF](https://arxiv.org/abs/2307.06940), [Page](https://videocrafter.github.io/Animate-A-Story)]
@@ -928,7 +939,7 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 
 
-## :point_right: Video Completion (animation, interpolation, prediction)
+## Completion (animation, interpolation, prediction)
 [arxiv 2022; Meta] Tell Me What Happened: Unifying Text-guided Video Completion via Multimodal Masked Video Generation \[[PDF](https://arxiv.org/pdf/2211.12824.pdf), code]
 
 [arxiv 2023.03]LDMVFI: Video Frame Interpolation with Latent Diffusion Models[[PDF](https://arxiv.org/abs/2303.09508)]
@@ -960,8 +971,10 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2024.07] VFIMamba: Video Frame Interpolation with State Space Models [[PDF](https://arxiv.org/abs/2407.02315),[Page](https://github.com/MCG-NJU/VFIMamba)]
 
+[arxiv 2024.08] Generative Inbetweening: Adapting Image-to-Video Models for Keyframe Interpolation[[PDF](https://arxiv.org/abs/2408.15239),[Page](https://svd-keyframe-interpolation.github.io/)]
 
-[arxiv 2024.07] [[PDF](),[Page]()]
+
+[arxiv 2024.08] [[PDF](),[Page]()]
 
 
 ## motion transfer 
