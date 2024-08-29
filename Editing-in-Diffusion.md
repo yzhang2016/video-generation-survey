@@ -365,7 +365,7 @@
 
 [arxiv 2024.08]  Task-Oriented Diffusion Inversion for High-Fidelity Text-based Editing= [[PDF](https://arxiv.org/abs/2408.13395)]
 
-
+[arxiv 2024.08] DiffAge3D: Diffusion-based 3D-aware Face Aging [[PDF](https://arxiv.org/abs/2408.15922),]
 
 [arxiv 2024.08]   [[PDF](),[Page]()]
 
@@ -872,8 +872,9 @@
 
 [arxiv 2024.08] MagicID: Flexible ID Fidelity Generation System[[PDF](https://arxiv.org/abs/2408.09248)]
 
-[arxiv 2024.08] [[PDF](), [Page]()]
+[arxiv 2024.08] CoRe: Context-Regularized Text Embedding Learning for Text-to-Image Personalization[[PDF](https://arxiv.org/abs/2408.15914)]
 
+[arxiv 2024.08] [[PDF](), [Page]()]
 
 ## Story-telling
 
@@ -1562,6 +1563,9 @@ Cross-Attention Control [[PDF](https://arxiv.org/abs/2402.13404)]
 [arxiv 2024.08]PFDiff: Training-free Acceleration of Diffusion Models through the Gradient Guidance of Past and Future [[PDF](https://arxiv.org/abs/2408.08822)]
 
 [arxiv 2024.08] SwiftBrush v2: Make Your One-step Diffusion Model Better Than Its Teacher[[PDF](https://arxiv.org/abs/2408.14176)]
+
+[arxiv 2024.08]Distribution Backtracking Builds A Faster Convergence Trajectory for One-step Diffusion Distillation [[PDF](https://arxiv.org/abs/2408.15991), [Page](https://github.com/SYZhang0805/DisBack)]
+
 
 [arxiv 2024.08] [[PDF](), [Page]()]
 
