@@ -1223,6 +1223,8 @@ Cross-Attention Control [[PDF](https://arxiv.org/abs/2402.13404)]
 
 [arxiv 2024.08]Build-A-Scene: Interactive 3D Layout Control for Diffusion-Based Image Generation[[PDF](https://arxiv.org/abs/2408.14819),[Page](https://abdo-eldesokey.github.io/build-a-scene/)]
 
+[arxiv 2024.08] GRPose: Learning Graph Relations for Human Image Generation with Pose Priors [[PDF](https://arxiv.org/abs/2408.16540),[Page](https://github.com/XiangchenYin/GRPose)]
+
 [arxiv 2024.08]   [[PDF](),[Page]()]
 
 
@@ -1439,6 +1441,8 @@ Cross-Attention Control [[PDF](https://arxiv.org/abs/2402.13404)]
 
 [arxiv 2024.08]  StyleBrush: Style Extraction and Transfer from a Single Image [[PDF](https://arxiv.org/abs/2408.09496)]
 
+[arxiv 2024.08] CSGO: Content-Style Composition in Text-to-Image Generation [[PDF](https://arxiv.org/abs/2408.16766),[Page](https://csgo-gen.github.io/)]
+
 [arxiv 2024.08]   [[PDF](),[Page]()]
 
 ## downstream apps
@@ -1614,9 +1618,10 @@ Cross-Attention Control [[PDF](https://arxiv.org/abs/2402.13404)]
 
 [arxiv 2024.08]  Not Every Image is Worth a Thousand Words: Quantifying Originality in Stable Diffusion [[PDF](https://arxiv.org/abs/2408.08184)]
 
+[arxiv 2024.08]GradBias: Unveiling Word Influence on Bias in Text-to-Image Generative Models
+ [[PDF](), [Page]()]
+
 [arxiv 2024.08] [[PDF](), [Page]()]
-
-
 
 ## Evaluation 
 
