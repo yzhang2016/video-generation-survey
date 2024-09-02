@@ -513,12 +513,12 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2024.08] TrackGo: A Flexible and Efficient Method for Controllable Video Generation [[PDF](https://arxiv.org/abs/2408.11475),[Page](https://zhtjtcz.github.io/TrackGo-Page/)]
 
-[arxiv 2024.08]  [[PDF](),[Page]()]
+[arxiv 2024.09]  [[PDF](),[Page]()]
 
 ## text 
 [arxiv 2024.06]  Text-Animator: Controllable Visual Text Video Generation[[PDF](https://arxiv.org/abs/2406.17777),[Page](https://laulampaul.github.io/text-animator.html)]
 
-[arxiv 2024.08]  [[PDF](),[Page]()]
+[arxiv 2024.09]  [[PDF](),[Page]()]
 
 ## Camera 
 [arxiv 2023.12]MotionCtrl: A Unified and Flexible Motion Controller for Video Generation [[PDF](https://arxiv.org/abs/2312.03641),[Page](https://wzhouxiff.github.io/projects/MotionCtrl/)]
@@ -546,7 +546,10 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 [arxiv 2024.08] DreamCinema: Cinematic Transfer with Free Camera and 3D Character [[PDF](https://arxiv.org/abs/2408.12601),[Page](https://liuff19.github.io/DreamCinema)]
 
 
-[arxiv 2024.08]  [[PDF](),[Page]()]
+[arxiv 2024.09] CinePreGen: Camera Controllable Video Previsualization via Engine-powered Diffusion
+ [[PDF](https://arxiv.org/abs/2408.17424)]
+
+[arxiv 2024.09]  [[PDF](),[Page]()]
 
 
 ## inpainting / outpainting 
@@ -568,7 +571,7 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2024.08]Video Diffusion Models are Strong Video Inpainter  [[PDF](https://arxiv.org/abs/2408.11402)]
 
-[arxiv 2024.08]  [[PDF](),[Page]()]
+[arxiv 2024.09]  [[PDF](),[Page]()]
 
 ## Video Quality 
 [arxiv 2024.03]VideoElevator : Elevating Video Generation Quality with Versatile Text-to-Image Diffusion Models[[PDF](https://arxiv.org/abs/2403.05438),[Page](https://videoelevator.github.io/)]
