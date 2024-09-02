@@ -874,7 +874,7 @@
 
 [arxiv 2024.08] CoRe: Context-Regularized Text Embedding Learning for Text-to-Image Personalization[[PDF](https://arxiv.org/abs/2408.15914)]
 
-[arxiv 2024.08] [[PDF](), [Page]()]
+[arxiv 2024.09] [[PDF](), [Page]()]
 
 ## Story-telling
 
@@ -1570,8 +1570,9 @@ Cross-Attention Control [[PDF](https://arxiv.org/abs/2402.13404)]
 
 [arxiv 2024.08]Distribution Backtracking Builds A Faster Convergence Trajectory for One-step Diffusion Distillation [[PDF](https://arxiv.org/abs/2408.15991), [Page](https://github.com/SYZhang0805/DisBack)]
 
+[arxiv 2024.09]VQ4DiT: Efficient Post-Training Vector Quantization for Diffusion Transformers[[PDF](https://arxiv.org/abs/2408.17131)]
 
-[arxiv 2024.08] [[PDF](), [Page]()]
+[arxiv 2024.09] [[PDF](), [Page]()]
 
 ## limited data 
 [arxiv 2023.06]Decompose and Realign: Tackling Condition Misalignment in Text-to-Image Diffusion Models [[PDF](https://arxiv.org/abs/2306.14153)]
@@ -1621,7 +1622,7 @@ Cross-Attention Control [[PDF](https://arxiv.org/abs/2402.13404)]
 [arxiv 2024.08]GradBias: Unveiling Word Influence on Bias in Text-to-Image Generative Models
  [[PDF](), [Page]()]
 
-[arxiv 2024.08] [[PDF](), [Page]()]
+[arxiv 2024.09] [[PDF](), [Page]()]
 
 ## Evaluation 
 
@@ -1645,7 +1646,7 @@ Cross-Attention Control [[PDF](https://arxiv.org/abs/2402.13404)]
 
 [arxiv 2024.08]E-Bench: Subjective-Aligned Benchmark Suite for Text-Driven Video Editing Quality Assessment [[PDF](https://arxiv.org/abs/2408.11481)]
 
-[arxiv 2024.08] [[PDF](), [Page]()]
+[arxiv 2024.09] [[PDF](), [Page]()]
 
 ## Feedback
 [arxiv 2023.11]Using Human Feedback to Fine-tune Diffusion Models without Any Reward Model [[PDF](https://arxiv.org/abs/2311.13231)]
@@ -1662,7 +1663,7 @@ Cross-Attention Control [[PDF](https://arxiv.org/abs/2402.13404)]
 
 [arxiv 2024.08] I2EBench: A Comprehensive Benchmark for Instruction-based Image Editing[[PDF](https://arxiv.org/abs/2408.14180), [Page](https://github.com/cocoshe/I2EBench)]
 
-[arxiv 2024.08] [[PDF](), [Page]()]
+[arxiv 2024.09] [[PDF](), [Page]()]
 
 
 ##  Finetuning 
@@ -1726,7 +1727,7 @@ Cross-Attention Control [[PDF](https://arxiv.org/abs/2402.13404)]
 
 [arxiv 2024.07] Replication in Visual Diffusion Models:A Survey and Outlook[[PDF](https://arxiv.org/pdf/2408.00001), [Page](https://github.com/WangWenhao0716/Awesome-Diffusion-Replication)]
 
-[arxiv 2024.08] [[PDF](), [Page]()]
+[arxiv 2024.09] [[PDF](), [Page]()]
 
 
 ## Data 
