@@ -1572,6 +1572,8 @@ Cross-Attention Control [[PDF](https://arxiv.org/abs/2402.13404)]
 
 [arxiv 2024.09]VQ4DiT: Efficient Post-Training Vector Quantization for Diffusion Transformers[[PDF](https://arxiv.org/abs/2408.17131)]
 
+[arxiv 2024.09]Accurate Compression of Text-to-Image Diffusion Models via Vector Quantization [[PDF](https://arxiv.org/pdf/%3CARXIV%20PAPER%20ID%3E.pdf), [Page](https://yandex-research.github.io/vqdm/)]
+
 [arxiv 2024.09] [[PDF](), [Page]()]
 
 ## limited data 
