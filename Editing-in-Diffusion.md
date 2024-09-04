@@ -367,10 +367,10 @@
 
 [arxiv 2024.08] DiffAge3D: Diffusion-based 3D-aware Face Aging [[PDF](https://arxiv.org/abs/2408.15922),]
 
-[arxiv 2024.08]   [[PDF](),[Page]()]
+[arxiv 2024.09] Guide-and-Rescale: Self-Guidance Mechanism for Effective Tuning-Free Real Image Editing  [[PDF](https://arxiv.org/abs/2409.01322),[Page](https://github.com/FusionBrainLab/Guide-and-Rescale)]
 
 
-
+[arxiv 2024.09]   [[PDF](),[Page]()]
 
 
 ## DiT 
@@ -538,14 +538,14 @@
 
 [arxiv 2024.08] Compress Guidance in Conditional Diffusion Sampling  [[PDF](https://arxiv.org/abs/2408.11194)]
 
-[arxiv 2024.08]   [[PDF](),[Page]()]
+[arxiv 2024.09]   [[PDF](),[Page]()]
 
 ## VAE 
 
 [arxiv 2024.06] Scaling the Codebook Size of VQGAN to 100,000 with a Utilization Rate of 99%  [[PDF](https://arxiv.org/abs/2406.11837))]
 
 
-[arxiv 2024.08]   [[PDF](),[Page]()]
+[arxiv 2024.09]   [[PDF](),[Page]()]
 
 
 
@@ -591,7 +591,7 @@
 
 [arxiv 2024.08] BooW-VTON: Boosting In-the-Wild Virtual Try-On via Mask-Free Pseudo Data Training  [[PDF](https://arxiv.org/abs/2408.06047),[Page](https://github.com/little-misfit/BooW-VTON)]
 
-[arxiv 2024.08]   [[PDF](),[Page]()]
+[arxiv 2024.09]   [[PDF](),[Page]()]
 
 ## Model adapatation 
 [arxiv 2023.12]X-Adapter: Adding Universal Compatibility of Plugins for Upgraded Diffusion Model [[PDF](https://arxiv.org/abs/2312.02238),[Page](https://showlab.github.io/X-Adapter/)]
@@ -611,7 +611,7 @@
 [arxiv 2024.06] FontStudio: Shape-Adaptive Diffusion Model for Coherent and Consistent Font Effect Generation [[PDF](https://arxiv.org/abs/2406.08392),[Page](https://font-studio.github.io/)]
 
 
-[arxiv 2024.08]   [[PDF](),[Page]()]
+[arxiv 2024.09]   [[PDF](),[Page]()]
 
 
 
@@ -916,7 +916,7 @@
 
 [arxiv 2024.08]Story3D-Agent: Exploring 3D Storytelling Visualization with Large Language Models[[PDF](https://arxiv.org/abs/2408.11801),[Page](https://yuzhou914.github.io/Story3D-Agent/)]
 
-[arxiv 2024.08]   [[PDF](),[Page]()]
+[arxiv 2024.09]   [[PDF](),[Page]()]
 
 
 ## Layout Generation 
@@ -998,7 +998,7 @@ Cross-Attention Control [[PDF](https://arxiv.org/abs/2402.13404)]
 
 [arxiv 2024.05]  NIVeL: Neural Implicit Vector Layers for Text-to-Vector Generation  [[PDF](https://arxiv.org/abs/2405.15217)]
 
-[arxiv 2024.08]   [[PDF](),[Page]()]
+[arxiv 2024.09]   [[PDF](),[Page]()]
 
 
 
@@ -1225,7 +1225,7 @@ Cross-Attention Control [[PDF](https://arxiv.org/abs/2402.13404)]
 
 [arxiv 2024.08] GRPose: Learning Graph Relations for Human Image Generation with Pose Priors [[PDF](https://arxiv.org/abs/2408.16540),[Page](https://github.com/XiangchenYin/GRPose)]
 
-[arxiv 2024.08]   [[PDF](),[Page]()]
+[arxiv 2024.09]   [[PDF](),[Page]()]
 
 
 ## Image Variation 
@@ -1334,12 +1334,12 @@ Cross-Attention Control [[PDF](https://arxiv.org/abs/2402.13404)]
 
 [arxiv 2024.08] MegaFusion: Extend Diffusion Models towards Higher-resolution Image Generation without Further Tuning  [[PDF](https://arxiv.org/abs/2408.11001),[Page](https://haoningwu3639.github.io/MegaFusion/)]
 
-[arxiv 2024.08]   [[PDF](),[Page]()]
+[arxiv 2024.09]   [[PDF](),[Page]()]
 
 ## action transfer 
 [arxiv 2023.11]Learning Disentangled Identifiers for Action-Customized Text-to-Image Generation [[PDF](https://arxiv.org/abs/2311.15841)]
 
-[arxiv 2024.08]   [[PDF](),[Page]()]
+[arxiv 2024.09]   [[PDF](),[Page]()]
 
 ## Style transfer 
 [arxiv 22.11; kuaishou] ***DiffStyler***: Controllable Dual Diffusion for Text-Driven Image Stylization \[[PDF](https://arxiv.org/pdf/2211.10682.pdf), code\]  
@@ -1443,7 +1443,7 @@ Cross-Attention Control [[PDF](https://arxiv.org/abs/2402.13404)]
 
 [arxiv 2024.08] CSGO: Content-Style Composition in Text-to-Image Generation [[PDF](https://arxiv.org/abs/2408.16766),[Page](https://csgo-gen.github.io/)]
 
-[arxiv 2024.08]   [[PDF](),[Page]()]
+[arxiv 2024.09]   [[PDF](),[Page]()]
 
 ## downstream apps
 [arxiv 2023.11]Text-to-Sticker: Style Tailoring Latent Diffusion Models for Human Expression [[PDF](https://arxiv.org/abs/2311.10794)]
@@ -1458,7 +1458,7 @@ Cross-Attention Control [[PDF](https://arxiv.org/abs/2402.13404)]
 
 [arxiv 2024.06] Coherent Zero-Shot Visual Instruction Generation  [[PDF](https://arxiv.org/abs/2406.04337),[Page](https://instruct-vis-zero.github.io/)]
 
-[arxiv 2024.08]   [[PDF](),[Page]()]
+[arxiv 2024.09]   [[PDF](),[Page]()]
 
 
 
