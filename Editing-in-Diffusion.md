@@ -1334,6 +1334,8 @@ Cross-Attention Control [[PDF](https://arxiv.org/abs/2402.13404)]
 
 [arxiv 2024.08] MegaFusion: Extend Diffusion Models towards Higher-resolution Image Generation without Further Tuning  [[PDF](https://arxiv.org/abs/2408.11001),[Page](https://haoningwu3639.github.io/MegaFusion/)]
 
+[arxiv 2024.09] HiPrompt: Tuning-free Higher-Resolution Generation with Hierarchical MLLM Prompts [[PDF](https://arxiv.org/abs/2409.02919),[Page](https://liuxinyv.github.io/HiPrompt/)]
+
 [arxiv 2024.09]   [[PDF](),[Page]()]
 
 ## action transfer 
