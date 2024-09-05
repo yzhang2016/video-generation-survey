@@ -1126,6 +1126,9 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 ## CG2real
 [arxiv 2024.09] AMG: Avatar Motion Guided Video Generation [[PDF](https://arxiv.org/abs/2409.01502),[Page](https://github.com/zshyang/amg)]
 
+[arxiv 2024.09] Compositional 3D-aware Video Generation with LLM Director [[PDF](https://arxiv.org/abs/2409.00558),[Page](https://www.microsoft.com/en-us/research/project/compositional-3d-aware-video-generation/)]
+
+[arxiv 2024.09]  [[PDF](),[Page]()]
 
 ## CV Related 
 [arxiv 2022.12; ByteDace]PV3D: A 3D GENERATIVE MODEL FOR PORTRAIT VIDEO GENERATION [[PDF](https://arxiv.org/pdf/2212.06384.pdf)]
