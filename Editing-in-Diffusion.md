@@ -1225,8 +1225,9 @@ Cross-Attention Control [[PDF](https://arxiv.org/abs/2402.13404)]
 
 [arxiv 2024.08] GRPose: Learning Graph Relations for Human Image Generation with Pose Priors [[PDF](https://arxiv.org/abs/2408.16540),[Page](https://github.com/XiangchenYin/GRPose)]
 
-[arxiv 2024.09]   [[PDF](),[Page]()]
+[arxiv 2024.09]  Skip-and-Play: Depth-Driven Pose-Preserved Image Generation for Any Objects [[PDF](https://arxiv.org/abs/2409.02653),[Page]()]
 
+[arxiv 2024.09]   [[PDF](),[Page]()]
 
 ## Image Variation 
 [arxiv 2023.08]IP-Adapter: Text Compatible Image Prompt Adapter for Text-to-Image Diffusion Models [[PDF](https://arxiv.org/pdf/2308.06721.pdf), [Page](https://ip-adapter.github.io/)]
