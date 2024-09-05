@@ -1446,6 +1446,10 @@ Cross-Attention Control [[PDF](https://arxiv.org/abs/2402.13404)]
 
 [arxiv 2024.08] CSGO: Content-Style Composition in Text-to-Image Generation [[PDF](https://arxiv.org/abs/2408.16766),[Page](https://csgo-gen.github.io/)]
 
+[arxiv 2024.09]StyleTokenizer: Defining Image Style by a Single Instance for Controlling Diffusion Models[[PDF](https://arxiv.org/abs/2409.02543),[Page](https://github.com/alipay/style-tokenizer)]
+
+[arxiv 2024.09]Training-free Color-Style Disentanglement for Constrained Text-to-Image Synthesis[[PDF](https://arxiv.org/abs/2409.02429)]
+
 [arxiv 2024.09]   [[PDF](),[Page]()]
 
 ## downstream apps
