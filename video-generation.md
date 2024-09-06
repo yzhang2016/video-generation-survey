@@ -699,6 +699,7 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2024.09] CyberHost: Taming Audio-driven Avatar Diffusion Model with Region Codebook Attention[[PDF](https://arxiv.org/pdf/2409.01876),[Page](https://cyberhost.github.io/)]
 
+[arxiv 2024.09] SVP: Style-Enhanced Vivid Portrait Talking Head Diffusion Model [[PDF](https://arxiv.org/abs/2409.03270)]
 
 [arxiv 2024.09]  [[PDF](),[Page]()]
 
