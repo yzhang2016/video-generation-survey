@@ -701,8 +701,9 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2024.09] SVP: Style-Enhanced Vivid Portrait Talking Head Diffusion Model [[PDF](https://arxiv.org/abs/2409.03270)]
 
-[arxiv 2024.09]  [[PDF](),[Page]()]
+[arxiv 2024.09] Loopy: Taming Audio-Driven Portrait Avatar with Long-Term Motion Dependency [[PDF](https://arxiv.org/pdf/2409.02634),[Page](https://loopyavatar.github.io/)]
 
+[arxiv 2024.09]  [[PDF](),[Page]()]
 
 ## Image-to-video Generation 
 [arxiv 2023.09]VideoGen: A Reference-Guided Latent Diffusion Approach for High Definition Text-to-Video Generation [[PDF](https://arxiv.org/abs/2309.00398)]
