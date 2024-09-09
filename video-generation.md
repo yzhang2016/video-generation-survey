@@ -365,6 +365,8 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2024.06]VideoTetris: Towards Compositional Text-To-Video Generation[[PDF](https://arxiv.org/abs/2406.04277), [Page](https://videotetris.github.io/)]
 
+[arxiv 2024.06] Pandora: Towards General World Model with Natural Language Actions and Video States [[PDF](https://arxiv.org/abs/2406.09455), [Page](https://world-model.maitrix.org/)]
+
 [arxiv 2024.09]  [[PDF](), [Page]()]
 
 
