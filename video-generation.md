@@ -653,9 +653,9 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2024.08]Diffusion Models Are Real-Time Game Engines [[PDF](https://arxiv.org/abs/2408.14837), [Page](https://gamengen.github.io/)]
 
+[arxiv 2024.09] DriveScape: Towards High-Resolution Controllable Multi-View Driving Video Generation [[PDF](https://arxiv.org/abs/2409.05463), [Page](https://metadrivescape.github.io/papers_project/drivescapev1/index.html)]
+
 [arxiv 2024.09]  [[PDF](), [Page]()]
-
-
 
 ## Concept 
 [arxiv 2023.07]Animate-A-Story: Storytelling with Retrieval-Augmented Video Generation [[PDF](https://arxiv.org/abs/2307.06940), [Page](https://videocrafter.github.io/Animate-A-Story)]
