@@ -40,4 +40,7 @@
 
 [arxiv 2024.08] Show-o: One Single Transformer to Unify Multimodal Understanding and Generation[[PDF](https://arxiv.org/abs/2408.12528), [Page](https://github.com/showlab/Show-o)]
 
-[arxiv 2024.08] [[PDF](), [Page]()]
+[arxiv 2024.09] VILA-U: a Unified Foundation Model Integrating Visual Understanding and Generation[[PDF](https://arxiv.org/abs/2409.04429)]
+
+
+[arxiv 2024.09] [[PDF](), [Page]()]
