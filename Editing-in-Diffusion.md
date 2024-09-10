@@ -874,6 +874,8 @@
 
 [arxiv 2024.08] CoRe: Context-Regularized Text Embedding Learning for Text-to-Image Personalization[[PDF](https://arxiv.org/abs/2408.15914)]
 
+[arxiv 2024.09] CustomContrast: A Multilevel Contrastive Perspective For Subject-Driven Text-to-Image Customization[[PDF](https://arxiv.org/abs/2409.05606), [Page](https://cn-makers.github.io/CustomContrast/)]
+
 [arxiv 2024.09] [[PDF](), [Page]()]
 
 ## Story-telling
@@ -971,9 +973,11 @@ Cross-Attention Control [[PDF](https://arxiv.org/abs/2402.13404)]
 
 [arxiv 2024.06]Zero-Painter: Training-Free Layout Control for Text-to-Image Synthesis [[PDF](https://arxiv.org/abs/2406.04032),[Page](https://github.com/Picsart-AI-Research/Zero-Painter)] 
 
-[arxiv 2024.06]    [[PDF](),[Page]()] 
+[arxiv 2024.09] Rethinking The Training And Evaluation of Rich-Context Layout-to-Image Generation[[PDF](https://arxiv.org/abs/2409.04847),[Page](https://github.com/cplusx/rich_context_L2I/tree/main)] 
 
+[arxiv 2024.09] SpotActor: Training-Free Layout-Controlled Consistent Image Generation[[PDF](https://arxiv.org/abs/2409.04801)] 
 
+[arxiv 2024.09]   [[PDF](),[Page]()] 
 
 ## SVG
 [arxiv 2022.11; UCB] VectorFusion: Text-to-SVG by Abstracting Pixel-Based Diffusion Models \[[PDF](https://arxiv.org/abs/2211.11319)\]
@@ -1736,8 +1740,9 @@ Cross-Attention Control [[PDF](https://arxiv.org/abs/2402.13404)]
 
 [arxiv 2024.07] Replication in Visual Diffusion Models:A Survey and Outlook[[PDF](https://arxiv.org/pdf/2408.00001), [Page](https://github.com/WangWenhao0716/Awesome-Diffusion-Replication)]
 
-[arxiv 2024.09] [[PDF](), [Page]()]
+[arxiv 2024.09]A Survey of Multimodal Composite Editing and Retrieval [[PDF](https://arxiv.org/abs/2409.05405)]
 
+[arxiv 2024.09] [[PDF](), [Page]()]
 
 ## Data 
 [arxiv 2024.06]What If We Recaption Billions of Web Images with LLaMA-3? [[PDF](https://arxiv.org/abs/2406.08478), [Page](https://www.haqtu.me/Recap-Datacomp-1B/)]
@@ -1750,6 +1755,10 @@ Cross-Attention Control [[PDF](https://arxiv.org/abs/2402.13404)]
 
 [arxiv 2023.04]Synthesizing Anyone, Anywhere, in Any Pose[[PDF](https://arxiv.org/abs/2304.03164)]
 
+# real-to-cg
+[arxiv 2024.09]Synergy and Synchrony in Couple Dances [[PDF](https://arxiv.org/abs/2409.04440), [Page](https://von31.github.io/synNsync/)]
+
+[arxiv 2024.09] [[PDF](), [Page]()]
 
 
 
