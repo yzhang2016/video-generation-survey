@@ -369,9 +369,12 @@
 
 [arxiv 2024.09] Guide-and-Rescale: Self-Guidance Mechanism for Effective Tuning-Free Real Image Editing  [[PDF](https://arxiv.org/abs/2409.01322),[Page](https://github.com/FusionBrainLab/Guide-and-Rescale)]
 
+[arxiv 2024.09] InstantDrag: Improving Interactivity in Drag-based Image Editing  [[PDF](https://arxiv.org/abs/2409.08857),[Page](https://joonghyuk.com/instantdrag-web/)]
+
+[arxiv 2024.09] SimInversion: A Simple Framework for Inversion-Based Text-to-Image Editing  [[PDF](https://arxiv.org/abs/2409.10476)]
+
 
 [arxiv 2024.09]   [[PDF](),[Page]()]
-
 
 ## DiT 
 [arxiv 2024.03]Switch Diffusion Transformer: Synergizing Denoising Tasks with Sparse Mixture-of-Experts [[PDF](https://arxiv.org/abs/2403.09176),[Page](https://byeongjun-park.github.io/Switch-DiT/)]
@@ -538,7 +541,13 @@
 
 [arxiv 2024.08] Compress Guidance in Conditional Diffusion Sampling  [[PDF](https://arxiv.org/abs/2408.11194)]
 
+[arxiv 2024.09]  Elucidating Optimal Reward-Diversity Tradeoffs in Text-to-Image Diffusion Models [[PDF](https://arxiv.org/abs/2409.06493)]
+
+
+[arxiv 2024.09] Generalizing Alignment Paradigm of Text-to-Image Generation with Preferences through f-divergence Minimization  [[PDF](https://arxiv.org/abs/2409.09774)]
+
 [arxiv 2024.09]   [[PDF](),[Page]()]
+
 
 ## VAE 
 
@@ -591,6 +600,8 @@
 
 [arxiv 2024.08] BooW-VTON: Boosting In-the-Wild Virtual Try-On via Mask-Free Pseudo Data Training  [[PDF](https://arxiv.org/abs/2408.06047),[Page](https://github.com/little-misfit/BooW-VTON)]
 
+[arxiv 2024.09] Improving Virtual Try-On with Garment-focused Diffusion Models  [[PDF](https://arxiv.org/abs/2409.08258),[Page](https://github.com/siqi0905/GarDiff/tree/master)]
+
 [arxiv 2024.09]   [[PDF](),[Page]()]
 
 ## Model adapatation 
@@ -609,6 +620,8 @@
 [arxiv 2024.06] SceneTextGen: Layout-Agnostic Scene Text Image Synthesis with Diffusion Models [[PDF](https://arxiv.org/abs/2406.01062)]
 
 [arxiv 2024.06] FontStudio: Shape-Adaptive Diffusion Model for Coherent and Consistent Font Effect Generation [[PDF](https://arxiv.org/abs/2406.08392),[Page](https://font-studio.github.io/)]
+
+[arxiv 2024.09] DiffusionPen: Towards Controlling the Style of Handwritten Text Generation  [[PDF](https://arxiv.org/abs/2409.06065),[Page](https://github.com/koninik/DiffusionPen)]
 
 
 [arxiv 2024.09]   [[PDF](),[Page]()]
@@ -876,7 +889,15 @@
 
 [arxiv 2024.09] CustomContrast: A Multilevel Contrastive Perspective For Subject-Driven Text-to-Image Customization[[PDF](https://arxiv.org/abs/2409.05606), [Page](https://cn-makers.github.io/CustomContrast/)]
 
+[arxiv 2024.09]GroundingBooth: Grounding Text-to-Image Customization [[PDF](https://arxiv.org/abs/2409.08520), [Page](https://groundingbooth.github.io/)]
+
+[arxiv 2024.09]TextBoost: Towards One-Shot Personalization of Text-to-Image Models via Fine-tuning Text Encoder [[PDF](https://arxiv.org/abs/2409.08248), [Page](https://textboost.github.io/)] 
+
+
+[arxiv 2024.09]SaRA: High-Efficient Diffusion Model Fine-tuning with Progressive Sparse Low-Rank Adaptation [[PDF](https://export.arxiv.org/abs/2409.06633), [Page](https://sjtuplayer.github.io/projects/SaRA/)]
+
 [arxiv 2024.09] [[PDF](), [Page]()]
+
 
 ## Story-telling
 
@@ -976,6 +997,10 @@ Cross-Attention Control [[PDF](https://arxiv.org/abs/2402.13404)]
 [arxiv 2024.09] Rethinking The Training And Evaluation of Rich-Context Layout-to-Image Generation[[PDF](https://arxiv.org/abs/2409.04847),[Page](https://github.com/cplusx/rich_context_L2I/tree/main)] 
 
 [arxiv 2024.09] SpotActor: Training-Free Layout-Controlled Consistent Image Generation[[PDF](https://arxiv.org/abs/2409.04801)] 
+
+[arxiv 2024.09] IFAdapter: Instance Feature Control for Grounded Text-to-Image Generation  [[PDF](https://arxiv.org/abs/2409.08240),[Page](https://ifadapter.github.io/)] 
+
+[arxiv 2024.09] Scribble-Guided Diffusion for Training-free Text-to-Image Generation  [[PDF](https://arxiv.org/abs/2409.08026),[Page](https://github.com/kaist-cvml/scribble-guided-diffusion)] 
 
 [arxiv 2024.09]   [[PDF](),[Page]()] 
 
@@ -1231,7 +1256,10 @@ Cross-Attention Control [[PDF](https://arxiv.org/abs/2402.13404)]
 
 [arxiv 2024.09]  Skip-and-Play: Depth-Driven Pose-Preserved Image Generation for Any Objects [[PDF](https://arxiv.org/abs/2409.02653),[Page]()]
 
+[arxiv 2024.09] Diffusion-Based Image-to-Image Translation by Noise Correction via Prompt Interpolation  [[PDF](https://arxiv.org/abs/2409.08077),[Page]()]
+
 [arxiv 2024.09]   [[PDF](),[Page]()]
+
 
 ## Image Variation 
 [arxiv 2023.08]IP-Adapter: Text Compatible Image Prompt Adapter for Text-to-Image Diffusion Models [[PDF](https://arxiv.org/pdf/2308.06721.pdf), [Page](https://ip-adapter.github.io/)]
@@ -1341,7 +1369,10 @@ Cross-Attention Control [[PDF](https://arxiv.org/abs/2402.13404)]
 
 [arxiv 2024.09] HiPrompt: Tuning-free Higher-Resolution Generation with Hierarchical MLLM Prompts [[PDF](https://arxiv.org/abs/2409.02919),[Page](https://liuxinyv.github.io/HiPrompt/)]
 
+[arxiv 2024.09] FreeEnhance: Tuning-Free Image Enhancement via Content-Consistent Noising-and-Denoising Process  [[PDF](https://arxiv.org/abs/2409.07451),[Page]()]
+
 [arxiv 2024.09]   [[PDF](),[Page]()]
+
 
 ## action transfer 
 [arxiv 2023.11]Learning Disentangled Identifiers for Action-Customized Text-to-Image Generation [[PDF](https://arxiv.org/abs/2311.15841)]
@@ -1454,7 +1485,13 @@ Cross-Attention Control [[PDF](https://arxiv.org/abs/2402.13404)]
 
 [arxiv 2024.09]Training-free Color-Style Disentanglement for Constrained Text-to-Image Synthesis[[PDF](https://arxiv.org/abs/2409.02429)]
 
+[arxiv 2024.09] Mamba-ST: State Space Model for Efficient Style Transfer  [[PDF](https://arxiv.org/abs/2409.10385)]
+
+
+
 [arxiv 2024.09]   [[PDF](),[Page]()]
+
+
 
 ## downstream apps
 [arxiv 2023.11]Text-to-Sticker: Style Tailoring Latent Diffusion Models for Human Expression [[PDF](https://arxiv.org/abs/2311.10794)]
@@ -1742,7 +1779,16 @@ Cross-Attention Control [[PDF](https://arxiv.org/abs/2402.13404)]
 
 [arxiv 2024.09]A Survey of Multimodal Composite Editing and Retrieval [[PDF](https://arxiv.org/abs/2409.05405)]
 
+[arxiv 2024.09]Pushing Joint Image Denoising and Classification to the Edge [[PDF](https://arxiv.org/abs/2409.08943)]
+
+[arxiv 2024.09] Alignment of Diffusion Models: Fundamentals, Challenges, and Future[[PDF](https://arxiv.org/abs/2409.07253)]
+
+[arxiv 2024.09]Taming Diffusion Models for Image Restoration: A Review [[PDF](https://arxiv.org/abs/2409.10353)]
+
 [arxiv 2024.09] [[PDF](), [Page]()]
+
+
+
 
 ## Data 
 [arxiv 2024.06]What If We Recaption Billions of Web Images with LLaMA-3? [[PDF](https://arxiv.org/abs/2406.08478), [Page](https://www.haqtu.me/Recap-Datacomp-1B/)]
