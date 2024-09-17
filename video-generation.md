@@ -442,8 +442,13 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2024.05]DisenStudio: Customized Multi-subject Text-to-Video Generation with Disentangled Spatial Control [[PDF](https://arxiv.org/abs/2405.12796),[Page](https://forchchch.github.io/disenstudio.github.io/)]
 
-[arxiv 2024.05]  [[PDF](),[Page]()]
+[arxiv 2024.09]  [[PDF](),[Page]()]
 
+## Stereo Video Generation 
+
+[arxiv 2024.09]StereoCrafter: Diffusion-based Generation of Long and High-fidelity Stereoscopic 3D from Monocular Videos  [[PDF](https://arxiv.org/abs/2409.07447),[Page](https://stereocrafter.github.io/)]
+
+[arxiv 2024.09]  [[PDF](),[Page]()]
 
 ## Controllable Video Generation 
 
@@ -705,7 +710,10 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2024.09] Loopy: Taming Audio-Driven Portrait Avatar with Long-Term Motion Dependency [[PDF](https://arxiv.org/pdf/2409.02634),[Page](https://loopyavatar.github.io/)]
 
+[arxiv 2024.09] DiffTED: One-shot Audio-driven TED Talk Video Generation with Diffusion-based Co-speech Gestures [[PDF](https://arxiv.org/abs/2409.07649)]
+
 [arxiv 2024.09]  [[PDF](),[Page]()]
+
 
 ## Image-to-video Generation 
 [arxiv 2023.09]VideoGen: A Reference-Guided Latent Diffusion Approach for High Definition Text-to-Video Generation [[PDF](https://arxiv.org/abs/2309.00398)]
@@ -788,12 +796,11 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2024.02]Seeing and Hearing Open-domain Visual-Audio Generation with Diffusion Latent Aligners [[PDF](https://arxiv.org/abs/2402.17723),[Page](https://yzxing87.github.io/Seeing-and-Hearing/)]
 
-
 [arxiv 2024.04]TAVGBench: Benchmarking Text to Audible-Video Generation [[PDF](https://arxiv.org/abs/2404.14381),[Page](https://github.com/OpenNLPLab/TAVGBench)]
 
+[arxiv 2024.09] Draw an Audio: Leveraging Multi-Instruction for Video-to-Audio Synthesis [[PDF](https://arxiv.org/abs/2409.06135),[Page](https://yannqi.github.io/Draw-an-Audio/)]
+
 [arxiv 2024.09]  [[PDF](),[Page]()]
-
-
 
 
 ## editing with video models 
@@ -1125,6 +1132,10 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 [arxiv 2023.06]Learn the Force We Can: Multi-Object Video Generation from Pixel-Level Interactions [[PDF](https://arxiv.org/abs/2306.03988)]
 
 [arxiv 2023.08]DiffSynth: Latent In-Iteration Deflickering for Realistic Video Synthesis [[PDF](https://arxiv.org/abs/2308.03463)]
+
+## Human and object 
+[arxiv 2024.09] DreamHOI: Subject-Driven Generation of 3D Human-Object Interactions with Diffusion Priors[[PDF](https://arxiv.org/abs/2409.08278),[Page](https://dreamhoi.github.io/)]
+
 
 
 ## CG2real
