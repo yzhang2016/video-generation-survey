@@ -63,7 +63,6 @@ A reading list of video generation
 
 * **ltx.studio**[[Page](https://ltx.studio/)]
 
-  
 * **Haiper** [[Page](https://app.haiper.ai/explore)]
 
 * **vivago.ai**[[Page](https://vivago.ai/video)]
@@ -135,7 +134,6 @@ A reading list of video generation
 
 * **ChronoMagic-Pro**
   
-
 * **OpenVid-1M**
   [arxiv 2024.07] A Large-Scale Dataset for High-Quality Text-to-Video Generation  [[PDF](http://export.arxiv.org/pdf/2407.02371),[Page](https://nju-pcalab.github.io/projects/openvid/)]
 
@@ -1117,6 +1115,8 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 [arxiv 2024.05] PCM : Phased Consistency Model[[PDF](https://arxiv.org/abs/2405.18407),[Page](https://g-u-n.github.io/projects/pcm/)]
 
 [arxiv 2024.06]SF-V: Single Forward Video Generation Model [[PDF](https://arxiv.org/abs/2406.04324),[Page](https://snap-research.github.io/SF-V/)]
+
+[arxiv 2024.06] Motion Consistency Model: Accelerating Video Diffusion with Disentangled Motion-Appearance Distillation [[PDF](https://arxiv.org/abs/2406.06890), [Page](https://yhzhai.github.io/mcm/)]
 
 [arxiv 2024.07]QVD: Post-training Quantization for Video Diffusion Models [[PDF](https://arxiv.org/abs/2407.11585),[Page]()]
 
