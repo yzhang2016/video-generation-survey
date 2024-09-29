@@ -122,7 +122,9 @@
 
 [arxiv 2024.08]Scalable Autoregressive Image Generation with Mamba [[PDF](https://arxiv.org/abs/2408.12245),[Page](https://github.com/hp-l33/AiM)]
 
-[arxiv 2024.08] [[PDF](),[Page]()]
+[arxiv 2024.09]MaskBit: Embedding-free Image Generation via Bit Token [[PDF](https://arxiv.org/abs/2409.16211),[Page](https://weber-mark.github.io/projects/maskbit.html)]
+
+[arxiv 2024.09] [[PDF](),[Page]()]
 
 
 # Generation & Super-resolution 
