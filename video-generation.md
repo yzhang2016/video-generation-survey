@@ -338,6 +338,8 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2024.08] FancyVideo: Towards Dynamic and Consistent Video Generation via Cross-frame Textual Guidance[[PDF](https://arxiv.org/abs/2408.08189)]
 
+[arxiv 2024.09] S2AG-Vid: Enhancing Multi-Motion Alignment in Video Diffusion Models via Spatial and Syntactic Attention-Based Guidance [[PDF](https://arxiv.org/pdf/2409.15259)]
+
 
 [arxiv 2024.09]  [[PDF](), [Page]()]
 
@@ -658,6 +660,9 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2024.09] DriveScape: Towards High-Resolution Controllable Multi-View Driving Video Generation [[PDF](https://arxiv.org/abs/2409.05463), [Page](https://metadrivescape.github.io/papers_project/drivescapev1/index.html)]
 
+[arxiv 2024.09] Pose-Guided Fine-Grained Sign Language Video Generation [[PDF](https://arxiv.org/abs/2409.16709)]
+
+
 [arxiv 2024.09]  [[PDF](), [Page]()]
 
 ## Concept 
@@ -712,7 +717,10 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2024.09] Stable Video Portraits [[PDF](https://arxiv.org/abs/2409.18083),[Page](https://svp.is.tue.mpg.de/)]
 
+[arxiv 2024.09] Portrait Video Editing Empowered by Multimodal Generative Priors [[PDF](https://arxiv.org/abs/2409.13591),[Page](https://ustc3dv.github.io/PortraitGen/)]
+
 [arxiv 2024.09]  [[PDF](),[Page]()]
+
 
 ## Image-to-video Generation 
 [arxiv 2023.09]VideoGen: A Reference-Guided Latent Diffusion Approach for High Definition Text-to-Video Generation [[PDF](https://arxiv.org/abs/2309.00398)]
@@ -834,6 +842,8 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 [arxiv 2024.06]FRAG: Frequency Adapting Group for Diffusion Video Editing[[PDF](https://arxiv.org/abs/2406.06044)]
 
 [arxiv 2024.07] Fine-gained Zero-shot Video Sampling[[PDF](https://arxiv.org/pdf/2407.21475),[Page](https://densechen.github.io/zss/)]
+
+[arxiv 2024.09] DNI: Dilutional Noise Initialization for Diffusion Video Editing [[PDF](https://arxiv.org/abs/2409.13037)]
 
 [arxiv 2024.09]  [[PDF](),[Page]()]
 
