@@ -710,8 +710,9 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2024.09] DiffTED: One-shot Audio-driven TED Talk Video Generation with Diffusion-based Co-speech Gestures [[PDF](https://arxiv.org/abs/2409.07649)]
 
-[arxiv 2024.09]  [[PDF](),[Page]()]
+[arxiv 2024.09] Stable Video Portraits [[PDF](https://arxiv.org/abs/2409.18083),[Page](https://svp.is.tue.mpg.de/)]
 
+[arxiv 2024.09]  [[PDF](),[Page]()]
 
 ## Image-to-video Generation 
 [arxiv 2023.09]VideoGen: A Reference-Guided Latent Diffusion Approach for High Definition Text-to-Video Generation [[PDF](https://arxiv.org/abs/2309.00398)]
@@ -1184,3 +1185,4 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 ## Speech 
 [arxiv 2023.01]Neural Codec Language Models are Zero-Shot Text to Speech Synthesizers[[PDF](https://arxiv.org/abs/2301.02111), [Page](https://valle-demo.github.io/)]
 
+[arxiv 2024.09]EMOVA: Empowering Language Models to See, Hear and Speak with Vivid Emotions[[PDF](https://arxiv.org/abs/2409.18042), [Page](https://emova-ollm.github.io/)]
