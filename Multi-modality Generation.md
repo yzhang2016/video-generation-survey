@@ -42,5 +42,8 @@
 
 [arxiv 2024.09] VILA-U: a Unified Foundation Model Integrating Visual Understanding and Generation[[PDF](https://arxiv.org/abs/2409.04429)]
 
+[arxiv 2024.09]EMOVA: Empowering Language Models to See, Hear and Speak with Vivid Emotions[[PDF](https://arxiv.org/abs/2409.18042), [Page](https://emova-ollm.github.io/)]
+
+
 
 [arxiv 2024.09] [[PDF](), [Page]()]
