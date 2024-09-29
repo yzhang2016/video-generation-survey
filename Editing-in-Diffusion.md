@@ -374,7 +374,12 @@
 [arxiv 2024.09] SimInversion: A Simple Framework for Inversion-Based Text-to-Image Editing  [[PDF](https://arxiv.org/abs/2409.10476)]
 
 
+[arxiv 2024.09]FreeEdit: Mask-free Reference-based Image Editing with Multi-modal Instruction [[PDF](https://arxiv.org/abs/2409.18071),[Page](https://freeedit.github.io/)]
+
+
 [arxiv 2024.09]   [[PDF](),[Page]()]
+
+
 
 ## DiT 
 [arxiv 2024.03]Switch Diffusion Transformer: Synergizing Denoising Tasks with Sparse Mixture-of-Experts [[PDF](https://arxiv.org/abs/2403.09176),[Page](https://byeongjun-park.github.io/Switch-DiT/)]
@@ -895,6 +900,8 @@
 
 
 [arxiv 2024.09]SaRA: High-Efficient Diffusion Model Fine-tuning with Progressive Sparse Low-Rank Adaptation [[PDF](https://export.arxiv.org/abs/2409.06633), [Page](https://sjtuplayer.github.io/projects/SaRA/)]
+
+[arxiv 2024.09] Resolving Multi-Condition Confusion for Finetuning-Free Personalized Image Generation[[PDF](https://arxiv.org/abs/2409.17920), [Page](https://github.com/hqhQAQ/MIP-Adapter)]
 
 [arxiv 2024.09] [[PDF](), [Page]()]
 
@@ -1492,7 +1499,6 @@ Cross-Attention Control [[PDF](https://arxiv.org/abs/2402.13404)]
 [arxiv 2024.09]   [[PDF](),[Page]()]
 
 
-
 ## downstream apps
 [arxiv 2023.11]Text-to-Sticker: Style Tailoring Latent Diffusion Models for Human Expression [[PDF](https://arxiv.org/abs/2311.10794)]
 
@@ -1508,6 +1514,15 @@ Cross-Attention Control [[PDF](https://arxiv.org/abs/2402.13404)]
 
 [arxiv 2024.09]   [[PDF](),[Page]()]
 
+## Mesh generation
+[arxiv 2024.09]  EdgeRunner: Auto-regressive Auto-encoder for Artistic Mesh Generation [[PDF](https://arxiv.org/abs/2409.18114),[Page](https://research.nvidia.com/labs/dir/edgerunner/)]
+
+[arxiv 2024.09]   [[PDF](),[Page]()]
+
+## depth 
+[arxiv 2024.09] Lotus: Diffusion-based Visual Foundation Model for High-quality Dense Prediction  [[PDF](https://arxiv.org/abs/2409.18124),[Page](https://lotus3d.github.io/)]
+
+[arxiv 2024.09]   [[PDF](),[Page]()]
 
 
 ## disentanglement
@@ -1622,7 +1637,10 @@ Cross-Attention Control [[PDF](https://arxiv.org/abs/2402.13404)]
 
 [arxiv 2024.09]Accurate Compression of Text-to-Image Diffusion Models via Vector Quantization [[PDF](https://arxiv.org/pdf/%3CARXIV%20PAPER%20ID%3E.pdf), [Page](https://yandex-research.github.io/vqdm/)]
 
+[arxiv 2024.09]FlowTurbo: Towards Real-time Flow-Based Image Generation with Velocity Refiner [[PDF](https://arxiv.org/abs/2409.18128), [Page](https://github.com/shiml20/FlowTurbo)]
+
 [arxiv 2024.09] [[PDF](), [Page]()]
+
 
 ## limited data 
 [arxiv 2023.06]Decompose and Realign: Tackling Condition Misalignment in Text-to-Image Diffusion Models [[PDF](https://arxiv.org/abs/2306.14153)]
@@ -1787,7 +1805,10 @@ Cross-Attention Control [[PDF](https://arxiv.org/abs/2402.13404)]
 
 [arxiv 2024.09] [[PDF](), [Page]()]
 
+# architecture 
+[arxiv 2024.09]HydraViT: Stacking Heads for a Scalable ViT [[PDF](https://arxiv.org/abs/2409.17978), [Page](https://github.com/ds-kiel/HydraViT)]
 
+[arxiv 2024.09] [[PDF](), [Page]()]
 
 
 ## Data 
