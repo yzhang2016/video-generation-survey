@@ -51,4 +51,9 @@
 [arxiv 2024.09]MonoFormer: One Transformer for Both Diffusion and Autoregression [[PDF](https://arxiv.org/abs/2409.16280), [Page](https://monoformer.github.io/)]
 
 
+[arxiv 2024.09] Visual Prompting in Multimodal Large Language Models: A Survey[[PDF](https://arxiv.org/abs/2409.15310)]
+
+
+
+
 [arxiv 2024.09] [[PDF](), [Page]()]
