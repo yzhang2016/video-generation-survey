@@ -45,5 +45,10 @@
 [arxiv 2024.09]EMOVA: Empowering Language Models to See, Hear and Speak with Vivid Emotions[[PDF](https://arxiv.org/abs/2409.18042), [Page](https://emova-ollm.github.io/)]
 
 
+[arxiv 2024.09] Molmo and PixMo: Open Weights and Open Data for State-of-the-Art Multimodal Models[[PDF](https://arxiv.org/abs/2409.17146),)]
+
+
+[arxiv 2024.09]MonoFormer: One Transformer for Both Diffusion and Autoregression [[PDF](https://arxiv.org/abs/2409.16280), [Page](https://monoformer.github.io/)]
+
 
 [arxiv 2024.09] [[PDF](), [Page]()]
