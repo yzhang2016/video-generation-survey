@@ -377,9 +377,9 @@
 [arxiv 2024.09]FreeEdit: Mask-free Reference-based Image Editing with Multi-modal Instruction [[PDF](https://arxiv.org/abs/2409.18071),[Page](https://freeedit.github.io/)]
 
 
+[arxiv 2024.09] GroupDiff: Diffusion-based Group Portrait Editing  [[PDF](https://arxiv.org/abs/2409.14379)]
+
 [arxiv 2024.09]   [[PDF](),[Page]()]
-
-
 
 ## DiT 
 [arxiv 2024.03]Switch Diffusion Transformer: Synergizing Denoising Tasks with Sparse Mixture-of-Experts [[PDF](https://arxiv.org/abs/2403.09176),[Page](https://byeongjun-park.github.io/Switch-DiT/)]
@@ -523,7 +523,6 @@
 
 [arxiv 2024.06]Fine-tuning Diffusion Models for Enhancing Face Quality in Text-to-image Generation[[PDF](https://arxiv.org/abs/2406.17100)]
 
-
 [arxiv 2024.07]PopAlign: Population-Level Alignment for Fair Text-to-Image Generation [[PDF](https://arxiv.org/abs/2406.19668)]
 
 [arxiv 2024.07]  LLM4GEN: Leveraging Semantic Representation of LLMs for Text-to-Image Generation  [[PDF](https://arxiv.org/pdf/2407.00737),[Page](https://xiaobul.github.io/LLM4GEN/)]
@@ -548,11 +547,14 @@
 
 [arxiv 2024.09]  Elucidating Optimal Reward-Diversity Tradeoffs in Text-to-Image Diffusion Models [[PDF](https://arxiv.org/abs/2409.06493)]
 
-
 [arxiv 2024.09] Generalizing Alignment Paradigm of Text-to-Image Generation with Preferences through f-divergence Minimization  [[PDF](https://arxiv.org/abs/2409.09774)]
 
-[arxiv 2024.09]   [[PDF](),[Page]()]
+[arxiv 2024.09]  Pixel-Space Post-Training of Latent Diffusion Models [[PDF](https://arxiv.org/pdf/2409.17565),[Page]()]
 
+[arxiv 2024.09] Improvements to SDXL in NovelAI Diffusion V3 [[PDF](https://arxiv.org/abs/2409.15997)]
+
+
+[arxiv 2024.09]   [[PDF](),[Page]()]
 
 ## VAE 
 
@@ -607,7 +609,12 @@
 
 [arxiv 2024.09] Improving Virtual Try-On with Garment-focused Diffusion Models  [[PDF](https://arxiv.org/abs/2409.08258),[Page](https://github.com/siqi0905/GarDiff/tree/master)]
 
+[arxiv 2024.09] AnyLogo: Symbiotic Subject-Driven Diffusion System with Gemini Status  [[PDF](https://arxiv.org/abs/2409.17740)]
+
+
 [arxiv 2024.09]   [[PDF](),[Page]()]
+
+
 
 ## Model adapatation 
 [arxiv 2023.12]X-Adapter: Adding Universal Compatibility of Plugins for Upgraded Diffusion Model [[PDF](https://arxiv.org/abs/2312.02238),[Page](https://showlab.github.io/X-Adapter/)]
@@ -903,8 +910,9 @@
 
 [arxiv 2024.09] Resolving Multi-Condition Confusion for Finetuning-Free Personalized Image Generation[[PDF](https://arxiv.org/abs/2409.17920), [Page](https://github.com/hqhQAQ/MIP-Adapter)]
 
-[arxiv 2024.09] [[PDF](), [Page]()]
+[arxiv 2024.09] Imagine yourself: Tuning-Free Personalized Image Generation[[PDF](https://arxiv.org/abs/2409.13346)]
 
+[arxiv 2024.09] [[PDF](), [Page]()]
 
 ## Story-telling
 
@@ -1009,7 +1017,10 @@ Cross-Attention Control [[PDF](https://arxiv.org/abs/2402.13404)]
 
 [arxiv 2024.09] Scribble-Guided Diffusion for Training-free Text-to-Image Generation  [[PDF](https://arxiv.org/abs/2409.08026),[Page](https://github.com/kaist-cvml/scribble-guided-diffusion)] 
 
+[arxiv 2024.09] Layout-Corrector: Alleviating Layout Sticking Phenomenon in Discrete Diffusion Model  [[PDF](https://arxiv.org/abs/2409.16689),[Page](https://iwa-shi.github.io/Layout-Corrector-Project-Page/)] 
+
 [arxiv 2024.09]   [[PDF](),[Page]()] 
+
 
 ## SVG
 [arxiv 2022.11; UCB] VectorFusion: Text-to-SVG by Abstracting Pixel-Based Diffusion Models \[[PDF](https://arxiv.org/abs/2211.11319)\]
@@ -1265,6 +1276,11 @@ Cross-Attention Control [[PDF](https://arxiv.org/abs/2402.13404)]
 
 [arxiv 2024.09] Diffusion-Based Image-to-Image Translation by Noise Correction via Prompt Interpolation  [[PDF](https://arxiv.org/abs/2409.08077),[Page]()]
 
+[arxiv 2024.09]PixWizard: Versatile Image-to-Image Visual Assistant with Open-Language Instructions[[PDF](https://arxiv.org/abs/2409.15278),[Page](https://github.com/AFeng-x/PixWizard)]
+
+[arxiv 2024.09] InstructDiffusion: A Generalist Modeling Interface for Vision Tasks  [[PDF](https://arxiv.org/pdf/2309.03895.pdf),[Page](https://gengzigang.github.io/instructdiffusion.github.io/)]
+
+
 [arxiv 2024.09]   [[PDF](),[Page]()]
 
 
@@ -1377,6 +1393,12 @@ Cross-Attention Control [[PDF](https://arxiv.org/abs/2402.13404)]
 [arxiv 2024.09] HiPrompt: Tuning-free Higher-Resolution Generation with Hierarchical MLLM Prompts [[PDF](https://arxiv.org/abs/2409.02919),[Page](https://liuxinyv.github.io/HiPrompt/)]
 
 [arxiv 2024.09] FreeEnhance: Tuning-Free Image Enhancement via Content-Consistent Noising-and-Denoising Process  [[PDF](https://arxiv.org/abs/2409.07451),[Page]()]
+
+[arxiv 2024.09] Taming Diffusion Prior for Image Super-Resolution with Domain Shift SDEs  [[PDF](https://arxiv.org/abs/2409.17778),[Page](https://github.com/QinpengCui/DoSSR)]
+
+[arxiv 2024.09] Degradation-Guided One-Step Image Super-Resolution with Diffusion Priors  [[PDF](https://arxiv.org/abs/2409.17058),[Page](https://github.com/ArcticHare105/S3Diff)]
+
+[arxiv 2024.09] BurstM: Deep Burst Multi-scale SR using Fourier Space with Optical Flow  [[PDF](https://arxiv.org/abs/2409.15384)]
 
 [arxiv 2024.09]   [[PDF](),[Page]()]
 
@@ -1522,7 +1544,11 @@ Cross-Attention Control [[PDF](https://arxiv.org/abs/2402.13404)]
 ## depth 
 [arxiv 2024.09] Lotus: Diffusion-based Visual Foundation Model for High-quality Dense Prediction  [[PDF](https://arxiv.org/abs/2409.18124),[Page](https://lotus3d.github.io/)]
 
+[arxiv 2024.09]Self-Distilled Depth Refinement with Noisy Poisson Fusion [[PDF](https://arxiv.org/abs/2409.17880),[Page](https://github.com/lijia7/SDDR)]
+
 [arxiv 2024.09]   [[PDF](),[Page]()]
+
+
 
 
 ## disentanglement
