@@ -54,6 +54,6 @@
 [arxiv 2024.09] Visual Prompting in Multimodal Large Language Models: A Survey[[PDF](https://arxiv.org/abs/2409.15310)]
 
 
-
+[arxiv 2024.09] Emu3: Next-Token Prediction is All You Need[[PDF](https://arxiv.org/abs/2409.18869), [Page](https://emu.baai.ac.cn/)]
 
 [arxiv 2024.09] [[PDF](), [Page]()]
