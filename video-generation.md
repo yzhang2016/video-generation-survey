@@ -780,7 +780,7 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2024.07]Cinemo: Consistent and Controllable Image Animation with Motion Diffusion Models [[PDF](https://arxiv.org/abs/2407.15642),[Page](https://maxin-cn.github.io/cinemo_project/)]
 
-
+[arxiv 2024.09] PhysGen: Rigid-Body Physics-Grounded Image-to-Video Generation [[PDF](https://arxiv.org/abs/2409.18964),[Page](https://stevenlsw.github.io/physgen/)]
 
 [arxiv 2024.09]  [[PDF](),[Page]()]
 
