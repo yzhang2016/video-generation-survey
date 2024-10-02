@@ -379,7 +379,7 @@
 
 [arxiv 2024.09] GroupDiff: Diffusion-based Group Portrait Editing  [[PDF](https://arxiv.org/abs/2409.14379)]
 
-[arxiv 2024.09]   [[PDF](),[Page]()]
+[arxiv 2024.10]   [[PDF](),[Page]()]
 
 ## DiT 
 [arxiv 2024.03]Switch Diffusion Transformer: Synergizing Denoising Tasks with Sparse Mixture-of-Experts [[PDF](https://arxiv.org/abs/2403.09176),[Page](https://byeongjun-park.github.io/Switch-DiT/)]
@@ -553,15 +553,17 @@
 
 [arxiv 2024.09] Improvements to SDXL in NovelAI Diffusion V3 [[PDF](https://arxiv.org/abs/2409.15997)]
 
+[arxiv 2024.10] Removing Distributional Discrepancies in Captions Improves Image-Text Alignment [[PDF](https://github.com/adobe-research/llava-score),[Page](https://yuheng-li.github.io/LLaVA-score/)]
 
-[arxiv 2024.09]   [[PDF](),[Page]()]
+
+[arxiv 2024.10]   [[PDF](),[Page]()]
 
 ## VAE 
 
 [arxiv 2024.06] Scaling the Codebook Size of VQGAN to 100,000 with a Utilization Rate of 99%  [[PDF](https://arxiv.org/abs/2406.11837))]
 
 
-[arxiv 2024.09]   [[PDF](),[Page]()]
+[arxiv 2024.10]   [[PDF](),[Page]()]
 
 
 
@@ -612,7 +614,7 @@
 [arxiv 2024.09] AnyLogo: Symbiotic Subject-Driven Diffusion System with Gemini Status  [[PDF](https://arxiv.org/abs/2409.17740)]
 
 
-[arxiv 2024.09]   [[PDF](),[Page]()]
+[arxiv 2024.10]   [[PDF](),[Page]()]
 
 
 
@@ -636,7 +638,7 @@
 [arxiv 2024.09] DiffusionPen: Towards Controlling the Style of Handwritten Text Generation  [[PDF](https://arxiv.org/abs/2409.06065),[Page](https://github.com/koninik/DiffusionPen)]
 
 
-[arxiv 2024.09]   [[PDF](),[Page]()]
+[arxiv 2024.10]   [[PDF](),[Page]()]
 
 
 
@@ -912,7 +914,11 @@
 
 [arxiv 2024.09] Imagine yourself: Tuning-Free Personalized Image Generation[[PDF](https://arxiv.org/abs/2409.13346)]
 
-[arxiv 2024.09] [[PDF](), [Page]()]
+[arxiv 2024.10] Mining Your Own Secrets: Diffusion Classifier Scores for Continual Personalization of Text-to-Image Diffusion Models  [[PDF](https://arxiv.org/abs/2410.00700),]
+
+[arxiv 2024.10] Fusion is all you need: Face Fusion for Customized Identity-Preserving Image Synthesis  [[PDF](https://arxiv.org/abs/2409.19111)]
+
+[arxiv 2024.10]   [[PDF](),[Page]()]
 
 ## Story-telling
 
@@ -954,8 +960,9 @@
 
 [arxiv 2024.08]Story3D-Agent: Exploring 3D Storytelling Visualization with Large Language Models[[PDF](https://arxiv.org/abs/2408.11801),[Page](https://yuzhou914.github.io/Story3D-Agent/)]
 
-[arxiv 2024.09]   [[PDF](),[Page]()]
+[arxiv 2024.10] Storynizor: Consistent Story Generation via Inter-Frame Synchronized and Shuffled ID Injection  [[PDF](https://arxiv.org/abs/2409.19624)]
 
+[arxiv 2024.10]   [[PDF](),[Page]()]
 
 ## Layout Generation 
 [arxiv 2022.08]Layout-Bridging Text-to-Image Synthesis [[PDF](https://arxiv.org/pdf/2208.06162.pdf)]
@@ -1019,7 +1026,7 @@ Cross-Attention Control [[PDF](https://arxiv.org/abs/2402.13404)]
 
 [arxiv 2024.09] Layout-Corrector: Alleviating Layout Sticking Phenomenon in Discrete Diffusion Model  [[PDF](https://arxiv.org/abs/2409.16689),[Page](https://iwa-shi.github.io/Layout-Corrector-Project-Page/)] 
 
-[arxiv 2024.09]   [[PDF](),[Page]()] 
+[arxiv 2024.10]   [[PDF](),[Page]()] 
 
 
 ## SVG
@@ -1045,7 +1052,7 @@ Cross-Attention Control [[PDF](https://arxiv.org/abs/2402.13404)]
 
 [arxiv 2024.05]  NIVeL: Neural Implicit Vector Layers for Text-to-Vector Generation  [[PDF](https://arxiv.org/abs/2405.15217)]
 
-[arxiv 2024.09]   [[PDF](),[Page]()]
+[arxiv 2024.10]   [[PDF](),[Page]()]
 
 
 
@@ -1280,8 +1287,9 @@ Cross-Attention Control [[PDF](https://arxiv.org/abs/2402.13404)]
 
 [arxiv 2024.09] InstructDiffusion: A Generalist Modeling Interface for Vision Tasks  [[PDF](https://arxiv.org/pdf/2309.03895.pdf),[Page](https://gengzigang.github.io/instructdiffusion.github.io/)]
 
+[arxiv 2024.10]  Scene Graph Disentanglement and Composition for Generalizable Complex Image Generation [[PDF](https://arxiv.org/abs/2410.00447)]
 
-[arxiv 2024.09]   [[PDF](),[Page]()]
+[arxiv 2024.10]   [[PDF](),[Page]()]
 
 
 ## Image Variation 
@@ -1400,13 +1408,13 @@ Cross-Attention Control [[PDF](https://arxiv.org/abs/2402.13404)]
 
 [arxiv 2024.09] BurstM: Deep Burst Multi-scale SR using Fourier Space with Optical Flow  [[PDF](https://arxiv.org/abs/2409.15384)]
 
-[arxiv 2024.09]   [[PDF](),[Page]()]
+[arxiv 2024.10]   [[PDF](),[Page]()]
 
 
 ## action transfer 
 [arxiv 2023.11]Learning Disentangled Identifiers for Action-Customized Text-to-Image Generation [[PDF](https://arxiv.org/abs/2311.15841)]
 
-[arxiv 2024.09]   [[PDF](),[Page]()]
+[arxiv 2024.10]   [[PDF](),[Page]()]
 
 ## Style transfer 
 [arxiv 22.11; kuaishou] ***DiffStyler***: Controllable Dual Diffusion for Text-Driven Image Stylization \[[PDF](https://arxiv.org/pdf/2211.10682.pdf), code\]  
@@ -1518,7 +1526,7 @@ Cross-Attention Control [[PDF](https://arxiv.org/abs/2402.13404)]
 
 
 
-[arxiv 2024.09]   [[PDF](),[Page]()]
+[arxiv 2024.10]   [[PDF](),[Page]()]
 
 
 ## downstream apps
@@ -1534,21 +1542,28 @@ Cross-Attention Control [[PDF](https://arxiv.org/abs/2402.13404)]
 
 [arxiv 2024.06] Coherent Zero-Shot Visual Instruction Generation  [[PDF](https://arxiv.org/abs/2406.04337),[Page](https://instruct-vis-zero.github.io/)]
 
-[arxiv 2024.09]   [[PDF](),[Page]()]
+[arxiv 2024.10] Inverse Painting: Reconstructing The Painting Process[[PDF](https://arxiv.org/abs/2409.20556),[Page](https://inversepainting.github.io/)]
+
+[arxiv 2024.10]   [[PDF](),[Page]()]
 
 ## Mesh generation
 [arxiv 2024.09]  EdgeRunner: Auto-regressive Auto-encoder for Artistic Mesh Generation [[PDF](https://arxiv.org/abs/2409.18114),[Page](https://research.nvidia.com/labs/dir/edgerunner/)]
 
-[arxiv 2024.09]   [[PDF](),[Page]()]
+[arxiv 2024.10]   [[PDF](),[Page]()]
 
 ## depth 
 [arxiv 2024.09] Lotus: Diffusion-based Visual Foundation Model for High-quality Dense Prediction  [[PDF](https://arxiv.org/abs/2409.18124),[Page](https://lotus3d.github.io/)]
 
 [arxiv 2024.09]Self-Distilled Depth Refinement with Noisy Poisson Fusion [[PDF](https://arxiv.org/abs/2409.17880),[Page](https://github.com/lijia7/SDDR)]
 
-[arxiv 2024.09]   [[PDF](),[Page]()]
+[arxiv 2024.10]   [[PDF](),[Page]()]
 
 
+## scaling
+
+[arxiv 2024.10]  FINE: Factorizing Knowledge for Initialization of Variable-sized Diffusion Models [[PDF](https://arxiv.org/pdf/2409.19289)]
+
+[arxiv 2024.10]   [[PDF](),[Page]()]
 
 
 ## disentanglement
@@ -1665,8 +1680,9 @@ Cross-Attention Control [[PDF](https://arxiv.org/abs/2402.13404)]
 
 [arxiv 2024.09]FlowTurbo: Towards Real-time Flow-Based Image Generation with Velocity Refiner [[PDF](https://arxiv.org/abs/2409.18128), [Page](https://github.com/shiml20/FlowTurbo)]
 
-[arxiv 2024.09] [[PDF](), [Page]()]
+[arxiv 2024.10] Simple and Fast Distillation of Diffusion Models  [[PDF](https://arxiv.org/abs/2409.19681),[Page](https://github.com/zju-pi/diff-sampler)]
 
+[arxiv 2024.10]   [[PDF](),[Page]()]
 
 ## limited data 
 [arxiv 2023.06]Decompose and Realign: Tackling Condition Misalignment in Text-to-Image Diffusion Models [[PDF](https://arxiv.org/abs/2306.14153)]
@@ -1716,7 +1732,9 @@ Cross-Attention Control [[PDF](https://arxiv.org/abs/2402.13404)]
 [arxiv 2024.08]GradBias: Unveiling Word Influence on Bias in Text-to-Image Generative Models
  [[PDF](), [Page]()]
 
-[arxiv 2024.09] [[PDF](), [Page]()]
+[arxiv 2024.10] Magnet: We Never Know How Text-to-Image Diffusion Models Work, Until We Learn How Vision-Language Models Function  [[PDF](https://arxiv.org/abs/2409.19967),[Page](https://github.com/I2-Multimedia-Lab/Magnet)]
+
+[arxiv 2024.10]   [[PDF](),[Page]()]
 
 ## Evaluation 
 
@@ -1740,7 +1758,7 @@ Cross-Attention Control [[PDF](https://arxiv.org/abs/2402.13404)]
 
 [arxiv 2024.08]E-Bench: Subjective-Aligned Benchmark Suite for Text-Driven Video Editing Quality Assessment [[PDF](https://arxiv.org/abs/2408.11481)]
 
-[arxiv 2024.09] [[PDF](), [Page]()]
+[arxiv 2024.10]   [[PDF](),[Page]()]
 
 ## Feedback
 [arxiv 2023.11]Using Human Feedback to Fine-tune Diffusion Models without Any Reward Model [[PDF](https://arxiv.org/abs/2311.13231)]
@@ -1757,7 +1775,7 @@ Cross-Attention Control [[PDF](https://arxiv.org/abs/2402.13404)]
 
 [arxiv 2024.08] I2EBench: A Comprehensive Benchmark for Instruction-based Image Editing[[PDF](https://arxiv.org/abs/2408.14180), [Page](https://github.com/cocoshe/I2EBench)]
 
-[arxiv 2024.09] [[PDF](), [Page]()]
+[arxiv 2024.10]   [[PDF](),[Page]()]
 
 
 ##  Finetuning 
@@ -1829,12 +1847,15 @@ Cross-Attention Control [[PDF](https://arxiv.org/abs/2402.13404)]
 
 [arxiv 2024.09]Taming Diffusion Models for Image Restoration: A Review [[PDF](https://arxiv.org/abs/2409.10353)]
 
-[arxiv 2024.09] [[PDF](), [Page]()]
+[arxiv 2024.10]   [[PDF](),[Page]()]
 
 # architecture 
 [arxiv 2024.09]HydraViT: Stacking Heads for a Scalable ViT [[PDF](https://arxiv.org/abs/2409.17978), [Page](https://github.com/ds-kiel/HydraViT)]
 
-[arxiv 2024.09] [[PDF](), [Page]()]
+[arxiv 2024.10] MaskMamba: A Hybrid Mamba-Transformer Model for Masked Image Generation[[PDF](https://arxiv.org/pdf/2409.19937)]
+
+[arxiv 2024.10]   [[PDF](),[Page]()]
+
 
 
 ## Data 
@@ -1851,7 +1872,7 @@ Cross-Attention Control [[PDF](https://arxiv.org/abs/2402.13404)]
 # real-to-cg
 [arxiv 2024.09]Synergy and Synchrony in Couple Dances [[PDF](https://arxiv.org/abs/2409.04440), [Page](https://von31.github.io/synNsync/)]
 
-[arxiv 2024.09] [[PDF](), [Page]()]
+[arxiv 2024.10]   [[PDF](),[Page]()]
 
 
 
