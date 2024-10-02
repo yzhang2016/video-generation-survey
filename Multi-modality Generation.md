@@ -56,4 +56,11 @@
 
 [arxiv 2024.09] Emu3: Next-Token Prediction is All You Need[[PDF](https://arxiv.org/abs/2409.18869), [Page](https://emu.baai.ac.cn/)]
 
-[arxiv 2024.09] [[PDF](), [Page]()]
+
+[arxiv 2024.10]ACE: All-round Creator and Editor Following Instructions via Diffusion Transformer [[PDF](https://arxiv.org/abs/2410.00086), [Page](https://ali-vilab.github.io/ace-page/)]
+
+[arxiv 2024.10] [[PDF](), [Page]()]
+
+
+
+[arxiv 2024.10] [[PDF](), [Page]()]
