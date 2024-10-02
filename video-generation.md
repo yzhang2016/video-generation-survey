@@ -145,7 +145,7 @@ A reading list of video generation
 
 [arxiv 2024.09] OD-VAE: An Omni-dimensional Video Compressor for Improving Latent Video Diffusion Model [[PDF](https://arxiv.org/abs/2409.01199),[Page](https://github.com/PKU-YuanGroup/Open-Sora-Plan)]
 
-[arxiv 2024.09]  [[PDF](),[Page]()]
+[arxiv 2024.10]  [[PDF](),[Page]()]
 
 ## GAN/VAE-based methods 
 [NIPS 2016] **---VGAN---** Generating Videos with Scene Dynamics \[[PDF](https://proceedings.neurips.cc/paper/2016/file/04025959b191f8f9de3f924f0940515f-Paper.pdf), [code](https://github.com/cvondrick/videogan) \]
@@ -442,13 +442,13 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2024.05]DisenStudio: Customized Multi-subject Text-to-Video Generation with Disentangled Spatial Control [[PDF](https://arxiv.org/abs/2405.12796),[Page](https://forchchch.github.io/disenstudio.github.io/)]
 
-[arxiv 2024.09]  [[PDF](),[Page]()]
+[arxiv 2024.10]  [[PDF](),[Page]()]
 
 ## Stereo Video Generation 
 
 [arxiv 2024.09]StereoCrafter: Diffusion-based Generation of Long and High-fidelity Stereoscopic 3D from Monocular Videos  [[PDF](https://arxiv.org/abs/2409.07447),[Page](https://stereocrafter.github.io/)]
 
-[arxiv 2024.09]  [[PDF](),[Page]()]
+[arxiv 2024.10]  [[PDF](),[Page]()]
 
 ## Controllable Video Generation 
 
@@ -521,12 +521,14 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2024.08] TrackGo: A Flexible and Efficient Method for Controllable Video Generation [[PDF](https://arxiv.org/abs/2408.11475),[Page](https://zhtjtcz.github.io/TrackGo-Page/)]
 
-[arxiv 2024.09]  [[PDF](),[Page]()]
+[arxiv 2024.10] Replace Anyone in Videos [[PDF](https://arxiv.org/abs/2409.19911)]
+
+[arxiv 2024.10]  [[PDF](),[Page]()]
 
 ## text 
 [arxiv 2024.06]  Text-Animator: Controllable Visual Text Video Generation[[PDF](https://arxiv.org/abs/2406.17777),[Page](https://laulampaul.github.io/text-animator.html)]
 
-[arxiv 2024.09]  [[PDF](),[Page]()]
+[arxiv 2024.10]  [[PDF](),[Page]()]
 
 ## Camera 
 [arxiv 2023.12]MotionCtrl: A Unified and Flexible Motion Controller for Video Generation [[PDF](https://arxiv.org/abs/2312.03641),[Page](https://wzhouxiff.github.io/projects/MotionCtrl/)]
@@ -557,7 +559,7 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 [arxiv 2024.09] CinePreGen: Camera Controllable Video Previsualization via Engine-powered Diffusion
  [[PDF](https://arxiv.org/abs/2408.17424)]
 
-[arxiv 2024.09]  [[PDF](),[Page]()]
+[arxiv 2024.10]  [[PDF](),[Page]()]
 
 
 ## inpainting / outpainting 
@@ -581,7 +583,7 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2024.09] Follow-Your-Canvas: Higher-Resolution Video Outpainting with Extensive Content Generation [[PDF](https://arxiv.org/abs/2409.01055),[Page](https://github.com/mayuelala/FollowYourCanvas)]
 
-[arxiv 2024.09]  [[PDF](),[Page]()]
+[arxiv 2024.10]  [[PDF](),[Page]()]
 
 ## Video Quality 
 [arxiv 2024.03]VideoElevator : Elevating Video Generation Quality with Versatile Text-to-Image Diffusion Models[[PDF](https://arxiv.org/abs/2403.05438),[Page](https://videoelevator.github.io/)]
@@ -693,7 +695,7 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 [arxiv 2024.08] CustomCrafter: Customized Video Generation with Preserving Motion and Concept Composition Abilities[[PDF](https://arxiv.org/abs/2408.13239),[Page](https://customcrafter.github.io/)]
 
 
-[arxiv 2024.09]  [[PDF](),[Page]()]
+[arxiv 2024.10]  [[PDF](),[Page]()]
 
 
 ## Talking Face 
@@ -719,7 +721,7 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2024.09] Portrait Video Editing Empowered by Multimodal Generative Priors [[PDF](https://arxiv.org/abs/2409.13591),[Page](https://ustc3dv.github.io/PortraitGen/)]
 
-[arxiv 2024.09]  [[PDF](),[Page]()]
+[arxiv 2024.10]  [[PDF](),[Page]()]
 
 
 ## Image-to-video Generation 
@@ -782,7 +784,7 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2024.09] PhysGen: Rigid-Body Physics-Grounded Image-to-Video Generation [[PDF](https://arxiv.org/abs/2409.18964),[Page](https://stevenlsw.github.io/physgen/)]
 
-[arxiv 2024.09]  [[PDF](),[Page]()]
+[arxiv 2024.10]  [[PDF](),[Page]()]
 
 
 ## 4D generation 
@@ -795,7 +797,7 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 [arxiv 2023.12]DreamGaussian4D: Generative 4D Gaussian Splatting [[PDF](https://arxiv.org/abs/2312.17142), [Page](https://jiawei-ren.github.io/projects/dreamgaussian4d)]
 
 
-[arxiv 2024.09]  [[PDF](),[Page]()]
+[arxiv 2024.10]  [[PDF](),[Page]()]
 
 
 ## Audio-to-video Generation
@@ -807,7 +809,7 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2024.09] Draw an Audio: Leveraging Multi-Instruction for Video-to-Audio Synthesis [[PDF](https://arxiv.org/abs/2409.06135),[Page](https://yannqi.github.io/Draw-an-Audio/)]
 
-[arxiv 2024.09]  [[PDF](),[Page]()]
+[arxiv 2024.10]  [[PDF](),[Page]()]
 
 
 ## editing with video models 
@@ -845,7 +847,9 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2024.09] DNI: Dilutional Noise Initialization for Diffusion Video Editing [[PDF](https://arxiv.org/abs/2409.13037)]
 
-[arxiv 2024.09]  [[PDF](),[Page]()]
+[arxiv 2024.10]FreeMask: Rethinking the Importance of Attention Masks for Zero-Shot Video Editing[[PDF](https://arxiv.org/abs/2409.20500),[Page](https://freemask-edit.github.io/)]
+
+[arxiv 2024.10]  [[PDF](),[Page]()]
 
 
 ## Editing with image model 
@@ -1002,7 +1006,7 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 [arxiv 2024.08] Generative Inbetweening: Adapting Image-to-Video Models for Keyframe Interpolation[[PDF](https://arxiv.org/abs/2408.15239),[Page](https://svd-keyframe-interpolation.github.io/)]
 
 
-[arxiv 2024.09]  [[PDF](),[Page]()]
+[arxiv 2024.10]  [[PDF](),[Page]()]
 
 
 ## motion transfer 
@@ -1043,7 +1047,7 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2024.06]MotionClone: Training-Free Motion Cloning for Controllable Video Generation[[PDF](https://arxiv.org/pdf/2406.05338)]
 
-[arxiv 2024.09]  [[PDF](),[Page]()]
+[arxiv 2024.10]  [[PDF](),[Page]()]
 
 
 
@@ -1058,7 +1062,7 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2024.03]FRESCO: Spatial-Temporal Correspondence for Zero-Shot Video Translation [[PDF](https://arxiv.org/abs/2403.12962),[Page](https://github.com/williamyang1991/fresco)]
 
-[arxiv 2024.09]  [[PDF](),[Page]()]
+[arxiv 2024.10]  [[PDF](),[Page]()]
 
 ## Evaluation 
 [arxiv 2023.10]EvalCrafter: Benchmarking and Evaluating Large Video Generation Models [[PDF](https://arxiv.org/abs/2310.11440),[Page](https://evalcrafter.github.io/)]
@@ -1080,7 +1084,7 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 [arxiv 2024.07]Fr\'echet Video Motion Distance: A Metric for Evaluating Motion Consistency in Videos [[PDF](https://arxiv.org/abs/2407.16124)]
 
 
-[arxiv 2024.09]  [[PDF](),[Page]()]
+[arxiv 2024.10]  [[PDF](),[Page]()]
 
 ## Survey
 [arxiv 2023.03]A Survey on Video Diffusion Models [[PDF](https://arxiv.org/abs/2310.10647)]
@@ -1133,7 +1137,7 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2024.08]Real-Time Video Generation with Pyramid Attention Broadcast [[PDF](https://arxiv.org/abs/2408.12588),[Page](https://github.com/NUS-HPC-AI-Lab/VideoSys)]
 
-[arxiv 2024.09]  [[PDF](),[Page]()]
+[arxiv 2024.10]  [[PDF](),[Page]()]
 
 ## Others 
 [arxiv 2023.05]AADiff: Audio-Aligned Video Synthesis with Text-to-Image Diffusion [[PDF](https://arxiv.org/abs/2305.04001)]
@@ -1154,14 +1158,14 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2024.09] Compositional 3D-aware Video Generation with LLM Director [[PDF](https://arxiv.org/abs/2409.00558),[Page](https://www.microsoft.com/en-us/research/project/compositional-3d-aware-video-generation/)]
 
-[arxiv 2024.09]  [[PDF](),[Page]()]
+[arxiv 2024.10]  [[PDF](),[Page]()]
 
 
 # video2game
 
 [arxiv 2024.09] Video Game Generation: A Practical Study using Mario [[PDF](https://virtual-protocol.github.io/mario-videogamegen/static/pdfs/VideoGameGen.pdf),[Page](https://virtual-protocol.github.io/mario-videogamegen/)]
 
-[arxiv 2024.09]  [[PDF](),[Page]()]
+[arxiv 2024.10]  [[PDF](),[Page]()]
 
 ## CV Related 
 [arxiv 2022.12; ByteDace]PV3D: A 3D GENERATIVE MODEL FOR PORTRAIT VIDEO GENERATION [[PDF](https://arxiv.org/pdf/2212.06384.pdf)]
