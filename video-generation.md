@@ -310,6 +310,9 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2024.08] xGen-VideoSyn-1: High-fidelity Text-to-Video Synthesis with Compressed Representations[[PDF](https://arxiv.org/abs/2408.12590), [Page](https://github.com/SalesforceAIResearch/xgen-videosyn)]
 
+[arxiv 2024.10] Movie Gen: A Cast of Media Foundation Models [[PDF](https://ai.meta.com/static-resource/movie-gen-research-paper), [Page]()]
+
+
 [arxiv 2024.10]  [[PDF](), [Page]()]
 
 ## LLMs-based 
