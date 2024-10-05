@@ -555,6 +555,7 @@
 
 [arxiv 2024.10] Removing Distributional Discrepancies in Captions Improves Image-Text Alignment [[PDF](https://github.com/adobe-research/llava-score),[Page](https://yuheng-li.github.io/LLaVA-score/)]
 
+[arxiv 2024.10] ComfyGen: Prompt-Adaptive Workflows for Text-to-Image Generation  [[PDF](https://arxiv.org/abs/2410.01731),[Page](https://comfygen-paper.github.io/)]
 
 [arxiv 2024.10]   [[PDF](),[Page]()]
 
@@ -562,6 +563,12 @@
 
 [arxiv 2024.06] Scaling the Codebook Size of VQGAN to 100,000 with a Utilization Rate of 99%  [[PDF](https://arxiv.org/abs/2406.11837))]
 
+
+[arxiv 2024.10]   [[PDF](),[Page]()]
+
+
+## autoregressive
+[arxiv 2024.10] ControlAR: Controllable Image Generation with Autoregressive Models  [[PDF](https://arxiv.org/abs/2410.02705),[Page](https://github.com/hustvl/ControlAR)]
 
 [arxiv 2024.10]   [[PDF](),[Page]()]
 
@@ -918,7 +925,12 @@
 
 [arxiv 2024.10] Fusion is all you need: Face Fusion for Customized Identity-Preserving Image Synthesis  [[PDF](https://arxiv.org/abs/2409.19111)]
 
+[arxiv 2024.10]Event-Customized Image Generation[[PDF](https://arxiv.org/abs/2410.02483)]
+
+[arxiv 2024.10] DisEnvisioner: Disentangled and Enriched Visual Prompt for Customized Image Generation [[PDF](https://arxiv.org/abs/2410.02067),[Page](https://disenvisioner.github.io/)]
+
 [arxiv 2024.10]   [[PDF](),[Page]()]
+
 
 ## Story-telling
 
@@ -1524,7 +1536,7 @@ Cross-Attention Control [[PDF](https://arxiv.org/abs/2402.13404)]
 
 [arxiv 2024.09] Mamba-ST: State Space Model for Efficient Style Transfer  [[PDF](https://arxiv.org/abs/2409.10385)]
 
-
+[arxiv 2024.10] Harnessing the Latent Diffusion Model for Training-Free Image Style Transfer  [[PDF](https://arxiv.org/abs/2410.01366)]
 
 [arxiv 2024.10]   [[PDF](),[Page]()]
 
@@ -1733,6 +1745,8 @@ Cross-Attention Control [[PDF](https://arxiv.org/abs/2402.13404)]
  [[PDF](), [Page]()]
 
 [arxiv 2024.10] Magnet: We Never Know How Text-to-Image Diffusion Models Work, Until We Learn How Vision-Language Models Function  [[PDF](https://arxiv.org/abs/2409.19967),[Page](https://github.com/I2-Multimedia-Lab/Magnet)]
+
+[arxiv 2024.10]  Revisit Large-Scale Image-Caption Data in Pre-training Multimodal Foundation Models [[PDF](https://arxiv.org/abs/2410.02740)]
 
 [arxiv 2024.10]   [[PDF](),[Page]()]
 
