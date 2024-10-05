@@ -200,6 +200,13 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2024.01]WorldDreamer: Towards General World Models for Video Generation via Predicting Masked Tokens [[PDF](https://arxiv.org/abs/2401.09985),[Page](https://world-dreamer.github.io/)]
 
+[arxiv 2024.10] Loong: Generating Minute-level Long Videos with Autoregressive Language Models [[PDF](https://arxiv.org/abs/2410.02757), [Page](https://epiphqny.github.io/Loong-video/)]
+
+[arxiv 2024.10]  [[PDF](), [Page]()]
+
+
+
+
 ## Diffusion-based methods 
 *[NIPS 2022; Google] **---VDM--**  Video Diffusion Models \[[PDF](https://arxiv.org/pdf/2204.03458.pdf), [code](https://github.com/lucidrains/video-diffusion-pytorch) \]
 
@@ -303,12 +310,12 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2024.08] xGen-VideoSyn-1: High-fidelity Text-to-Video Synthesis with Compressed Representations[[PDF](https://arxiv.org/abs/2408.12590), [Page](https://github.com/SalesforceAIResearch/xgen-videosyn)]
 
-[arxiv 2024.09]  [[PDF](), [Page]()]
+[arxiv 2024.10]  [[PDF](), [Page]()]
 
 ## LLMs-based 
 [arxiv 2023.12]VideoPoet: A Large Language Model for Zero-Shot Video Generation [[PDF](https://arxiv.org/abs/2312.14125),[Page](http://sites.research.google/videopoet/)]
 
-[arxiv 2024.09]  [[PDF](), [Page]()]
+[arxiv 2024.10]  [[PDF](), [Page]()]
 
 
 
@@ -323,7 +330,7 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 [arxiv 2024.03]SSM Meets Video Diffusion Models: Efficient Video Generation with Structured State Spaces [[PDF](https://arxiv.org/abs/2403.07711),[Page](https://github.com/shim0114/SSM-Meets-Video-Diffusion-Models)]
 
 
-[arxiv 2024.09]  [[PDF](), [Page]()]
+[arxiv 2024.10]  [[PDF](), [Page]()]
 
 
 
@@ -341,7 +348,7 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 [arxiv 2024.09] S2AG-Vid: Enhancing Multi-Motion Alignment in Video Diffusion Models via Spatial and Syntactic Attention-Based Guidance [[PDF](https://arxiv.org/pdf/2409.15259)]
 
 
-[arxiv 2024.09]  [[PDF](), [Page]()]
+[arxiv 2024.10]  [[PDF](), [Page]()]
 
 ## composition 
 [arxiv 2024.07]VideoTetris: Towards Compositional Text-To-Video Generation[[PDF](https://arxiv.org/abs/2406.04277), [Page](https://videotetris.github.io/)]
@@ -355,7 +362,7 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 
 
-[arxiv 2024.09]  [[PDF](), [Page]()]
+[arxiv 2024.10]  [[PDF](), [Page]()]
 
 
 ## multi-prompt 
@@ -367,10 +374,10 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2024.06] Pandora: Towards General World Model with Natural Language Actions and Video States [[PDF](https://arxiv.org/abs/2406.09455), [Page](https://world-model.maitrix.org/)]
 
-[arxiv 2024.09]  [[PDF](), [Page]()]
+[arxiv 2024.10]  [[PDF](), [Page]()]
 
 
-[arxiv 2024.09]  [[PDF](), [Page]()]
+[arxiv 2024.10]  [[PDF](), [Page]()]
 
 
 ## long video generation 
@@ -406,13 +413,13 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2024.09] DiVE: DiT-based Video Generation with Enhanced Control [[PDF](https://arxiv.org/abs/2409.01595), [Page](https://liautoad.github.io/DIVE/)]
 
-[arxiv 2024.09]  [[PDF](), [Page]()]
+[arxiv 2024.10]  [[PDF](), [Page]()]
 
 ## sound generation 
 [arxiv 2024.07] Read, Watch and Scream! Sound Generation from Text and Video
 [[PDF](https://arxiv.org/abs/2407.05551), [Page](https://naver-ai.github.io/rewas)]
 
-[arxiv 2024.09]  [[PDF](), [Page]()]
+[arxiv 2024.10]  [[PDF](), [Page]()]
 
 
 ## Higher Resolution 
@@ -665,7 +672,7 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 [arxiv 2024.09] Pose-Guided Fine-Grained Sign Language Video Generation [[PDF](https://arxiv.org/abs/2409.16709)]
 
 
-[arxiv 2024.09]  [[PDF](), [Page]()]
+[arxiv 2024.10]  [[PDF](), [Page]()]
 
 ## Concept 
 [arxiv 2023.07]Animate-A-Story: Storytelling with Retrieval-Augmented Video Generation [[PDF](https://arxiv.org/abs/2307.06940), [Page](https://videocrafter.github.io/Animate-A-Story)]
