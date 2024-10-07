@@ -379,6 +379,10 @@
 
 [arxiv 2024.09] GroupDiff: Diffusion-based Group Portrait Editing  [[PDF](https://arxiv.org/abs/2409.14379)]
 
+[arxiv 2024.10]  Combing Text-based and Drag-based Editing for Precise and Flexible Image Editing [[PDF](https://arxiv.org/abs/2410.03097)]
+
+
+
 [arxiv 2024.10]   [[PDF](),[Page]()]
 
 ## DiT 
@@ -569,6 +573,8 @@
 
 ## autoregressive
 [arxiv 2024.10] ControlAR: Controllable Image Generation with Autoregressive Models  [[PDF](https://arxiv.org/abs/2410.02705),[Page](https://github.com/hustvl/ControlAR)]
+
+[arxiv 2024.10] LANTERN: Accelerating Visual Autoregressive Models with Relaxed Speculative Decoding  [[PDF](https://arxiv.org/abs/2410.03355)]
 
 [arxiv 2024.10]   [[PDF](),[Page]()]
 
@@ -1867,6 +1873,9 @@ Cross-Attention Control [[PDF](https://arxiv.org/abs/2402.13404)]
 [arxiv 2024.09]HydraViT: Stacking Heads for a Scalable ViT [[PDF](https://arxiv.org/abs/2409.17978), [Page](https://github.com/ds-kiel/HydraViT)]
 
 [arxiv 2024.10] MaskMamba: A Hybrid Mamba-Transformer Model for Masked Image Generation[[PDF](https://arxiv.org/pdf/2409.19937)]
+
+[arxiv 2024.10] Dynamic Diffusion Transformer  [[PDF](https://arxiv.org/abs/2410.03456),[Page](https://github.com/NUS-HPC-AI-Lab/Dynamic-Diffusion-Transformer)]
+
 
 [arxiv 2024.10]   [[PDF](),[Page]()]
 
