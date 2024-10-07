@@ -13,3 +13,13 @@
 [arxiv 2023.02]Text-driven Visual Synthesis with Latent Diffusion Prior [[PDF](https://arxiv.org/abs/2302.08510), [Page](https://latent-diffusion-prior.github.io/)]
 
 [arxiv 2023.02]3D-aware Conditional Image Synthesis [[PDF](https://arxiv.org/abs/2302.08509), [Page](https://www.cs.cmu.edu/~pix2pix3D/)]
+
+
+## motion generation 
+[arxiv 2024.10]CLoSD: Closing the Loop between Simulation and Diffusion for multi-task character control [[PDF](https://arxiv.org/abs/2410.03441),[Page](https://guytevet.github.io/CLoSD-page/)]
+
+
+[arxiv 2024.10]   [[PDF](),[Page]()]
+
+
+[arxiv 2024.10]   [[PDF](),[Page]()]
