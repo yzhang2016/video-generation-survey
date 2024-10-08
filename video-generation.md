@@ -533,6 +533,8 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2024.10] Replace Anyone in Videos [[PDF](https://arxiv.org/abs/2409.19911)]
 
+[arxiv 2024.10] MIMO: Controllable Character Video Synthesis with Spatial Decomposed Modeling [[PDF](http://arxiv.org/abs/2409.16160),[Page](https://menyifang.github.io/projects/MIMO/index.html)]
+
 [arxiv 2024.10]  [[PDF](),[Page]()]
 
 ## text 
