@@ -975,9 +975,10 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2024.06]VIA: A Spatiotemporal Video Adaptation Framework for Global and Local Video Editing [[PDF](https://arxiv.org/abs/2406.12831),[Page](https://via-video.github.io/)]
 
-[arxiv 2024.06]  [[PDF](),[Page]()] 
+[arxiv 2024.10] L-C4: Language-Based Video Colorization for Creative and Consistent Color [[PDF](https://arxiv.org/abs/2410.04972)] 
 
 
+[arxiv 2024.10]  [[PDF](),[Page]()] 
 
 
 
@@ -1081,32 +1082,7 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2023.11]Online Video Quality Enhancement with Spatial-Temporal Look-up Tables [[PDF](https://arxiv.org/abs/2311.13616)]
 
-[arxiv 2024.03]STREAM: Spatio-TempoRal Evaluation and Analysis Metric for Video Generative Models [[PDF](https://arxiv.org/abs/2403.09669)]
 
-[arxiv 2024.03]Subjective-Aligned Dateset and Metric for Text-to-Video Quality Assessment [[PDF](https://arxiv.org/abs/2403.11956)]
-
-[arxiv 2024.06] GenAI Arena: An Open Evaluation Platform for Generative Models[[PDF](https://arxiv.org/abs/2406.04485),[Page](https://huggingface.co/spaces/TIGER-Lab/GenAI-Arena)]
-
-[arxiv 2024.06]VideoPhy: Evaluating Physical Commonsense for Video Generation [[PDF](http://arxiv.org/abs/2406.03520),[Page](https://videophy.github.io/)]
-
-[arxiv 2024.07]T2V-CompBench: A Comprehensive Benchmark for Compositional Text-to-video Generation [[PDF](https://arxiv.org/abs/2407.14505),[Page](https://t2v-compbench.github.io/)]
-
-[arxiv 2024.07]Fr\'echet Video Motion Distance: A Metric for Evaluating Motion Consistency in Videos [[PDF](https://arxiv.org/abs/2407.16124)]
-
-
-[arxiv 2024.10]  [[PDF](),[Page]()]
-
-## Survey
-[arxiv 2023.03]A Survey on Video Diffusion Models [[PDF](https://arxiv.org/abs/2310.10647)]
-
-[arxiv 2024.05]Video Diffusion Models: A Survey [[PDF](https://arxiv.org/abs/2405.03150)]
-
-[arxiv 2024.07]Diffusion Model-Based Video Editing: A Survey [[PDF](https://arxiv.org/abs/2407.07111),[Page](https://github.com/wenhao728/awesome-diffusion-v2v)]
-
-[ResearchGate 2024.07]Conditional Video Generation Guided by Multimodal Inputs: A Comprehensive Survey [[PDF](https://www.researchgate.net/publication/382443305_Conditional_Video_Generation_Guided_by_Multimodal_Inputs_A_Comprehensive_Survey)]
-
-
-## Evaluation 
 [ICCV 2023]Exploring Video Quality Assessment on User Generated Contents from Aesthetic and Technical Perspectives [[PDF](https://arxiv.org/abs/2211.04894),[Page](https://github.com/VQAssessment/DOVER)]
 
 [arxiv 2023.10]EvalCrafter: Benchmarking and Evaluating Large Video Generation Models[[PDF](https://arxiv.org/abs/2310.11440), [Page](https://arxiv.org/abs/2310.11440)]
@@ -1119,7 +1095,35 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2024.02]KVQ: Kaleidoscope Video Quality Assessment for Short-form Videos [[PDf](https://arxiv.org/abs/2402.07220)]
 
+[arxiv 2024.03]STREAM: Spatio-TempoRal Evaluation and Analysis Metric for Video Generative Models [[PDF](https://arxiv.org/abs/2403.09669)]
+
 [arxiv 2024.03]Modular Blind Video Quality Assessment [[PDF](https://arxiv.org/abs/2402.19276)]
+
+[arxiv 2024.03]Subjective-Aligned Dateset and Metric for Text-to-Video Quality Assessment [[PDF](https://arxiv.org/abs/2403.11956)]
+
+[arxiv 2024.06] GenAI Arena: An Open Evaluation Platform for Generative Models[[PDF](https://arxiv.org/abs/2406.04485),[Page](https://huggingface.co/spaces/TIGER-Lab/GenAI-Arena)]
+
+[arxiv 2024.06]VideoPhy: Evaluating Physical Commonsense for Video Generation [[PDF](http://arxiv.org/abs/2406.03520),[Page](https://videophy.github.io/)]
+
+[arxiv 2024.07]T2V-CompBench: A Comprehensive Benchmark for Compositional Text-to-video Generation [[PDF](https://arxiv.org/abs/2407.14505),[Page](https://t2v-compbench.github.io/)]
+
+[arxiv 2024.07]Fr\'echet Video Motion Distance: A Metric for Evaluating Motion Consistency in Videos [[PDF](https://arxiv.org/abs/2407.16124)]
+
+[arxiv 2024.10] The Dawn of Video Generation: Preliminary Explorations with SORA-like Models [[PDF](https://arxiv.org/abs/2410.05227),[Page](https://ailab-cvc.github.io/VideoGen-Eval/)]
+
+[arxiv 2024.10] Beyond FVD: Enhanced Evaluation Metrics for Video Generation Quality[[PDF](https://arxiv.org/abs/2410.05203),[Page](https://oooolga.github.io/JEDi.github.io/)]
+
+[arxiv 2024.10]  [[PDF](),[Page]()]
+
+## Survey
+[arxiv 2023.03]A Survey on Video Diffusion Models [[PDF](https://arxiv.org/abs/2310.10647)]
+
+[arxiv 2024.05]Video Diffusion Models: A Survey [[PDF](https://arxiv.org/abs/2405.03150)]
+
+[arxiv 2024.07]Diffusion Model-Based Video Editing: A Survey [[PDF](https://arxiv.org/abs/2407.07111),[Page](https://github.com/wenhao728/awesome-diffusion-v2v)]
+
+[ResearchGate 2024.07]Conditional Video Generation Guided by Multimodal Inputs: A Comprehensive Survey [[PDF](https://www.researchgate.net/publication/382443305_Conditional_Video_Generation_Guided_by_Multimodal_Inputs_A_Comprehensive_Survey)]
+
 
 
 
