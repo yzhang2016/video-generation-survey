@@ -627,8 +627,10 @@
 [arxiv 2024.09] AnyLogo: Symbiotic Subject-Driven Diffusion System with Gemini Status  [[PDF](https://arxiv.org/abs/2409.17740)]
 
 
-[arxiv 2024.10]   [[PDF](),[Page]()]
+[arxiv 2024.10] GS-VTON: Controllable 3D Virtual Try-on with Gaussian Splatting[[PDF](https://arxiv.org/abs/2410.05259),[Page](https://yukangcao.github.io/GS-VTON/)]
 
+
+[arxiv 2024.10]   [[PDF](),[Page]()]
 
 
 ## Model adapatation 
