@@ -381,9 +381,11 @@
 
 [arxiv 2024.10]  Combing Text-based and Drag-based Editing for Precise and Flexible Image Editing [[PDF](https://arxiv.org/abs/2410.03097)]
 
-
+[arxiv 2024.10] PostEdit: Posterior Sampling for Efficient Zero-Shot Image Editing  [[PDF](https://arxiv.org/abs/2410.04844),[Page](https://github.com/TFNTF/PostEdit)]
 
 [arxiv 2024.10]   [[PDF](),[Page]()]
+
+
 
 ## DiT 
 [arxiv 2024.03]Switch Diffusion Transformer: Synergizing Denoising Tasks with Sparse Mixture-of-Experts [[PDF](https://arxiv.org/abs/2403.09176),[Page](https://byeongjun-park.github.io/Switch-DiT/)]
@@ -576,9 +578,9 @@
 
 [arxiv 2024.10] LANTERN: Accelerating Visual Autoregressive Models with Relaxed Speculative Decoding  [[PDF](https://arxiv.org/abs/2410.03355)]
 
+[arxiv 2024.10] CAR: Controllable Autoregressive Modeling for Visual Generation  [[PDF](https://arxiv.org/abs/2410.04671),[Page](https://github.com/MiracleDance/CAR)]
+
 [arxiv 2024.10]   [[PDF](),[Page]()]
-
-
 
 ## Distill Diffusion Model 
 [arxiv 2024.05]Distilling Diffusion Models into Conditional GANs [[PDF](https://arxiv.org/abs/2405.05967),[Page](https://mingukkang.github.io/Diffusion2GAN/)]
@@ -1309,7 +1311,10 @@ Cross-Attention Control [[PDF](https://arxiv.org/abs/2402.13404)]
 
 [arxiv 2024.10]  Scene Graph Disentanglement and Composition for Generalizable Complex Image Generation [[PDF](https://arxiv.org/abs/2410.00447)]
 
+[arxiv 2024.10] OmniBooth: Learning Latent Control for Image Synthesis with Multi-modal Instruction  [[PDF](https://arxiv.org/abs/2410.04932),[Page](https://len-li.github.io/omnibooth-web/)]
+
 [arxiv 2024.10]   [[PDF](),[Page]()]
+
 
 
 ## Image Variation 
@@ -1427,6 +1432,8 @@ Cross-Attention Control [[PDF](https://arxiv.org/abs/2402.13404)]
 [arxiv 2024.09] Degradation-Guided One-Step Image Super-Resolution with Diffusion Priors  [[PDF](https://arxiv.org/abs/2409.17058),[Page](https://github.com/ArcticHare105/S3Diff)]
 
 [arxiv 2024.09] BurstM: Deep Burst Multi-scale SR using Fourier Space with Optical Flow  [[PDF](https://arxiv.org/abs/2409.15384)]
+
+[arxiv 2024.10]  Distillation-Free One-Step Diffusion for Real-World Image Super-Resolution [[PDF](https://arxiv.org/abs/2410.04224),[Page](https://github.com/JianzeLi-114/DFOSD)]
 
 [arxiv 2024.10]   [[PDF](),[Page]()]
 
