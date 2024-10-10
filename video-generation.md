@@ -350,6 +350,11 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2024.09] S2AG-Vid: Enhancing Multi-Motion Alignment in Video Diffusion Models via Spatial and Syntactic Attention-Based Guidance [[PDF](https://arxiv.org/pdf/2409.15259)]
 
+[arxiv 2024.10] BroadWay: Boost Your Text-to-Video Generation Model in a Training-free Way [[PDF](https://arxiv.org/abs/2410.06241)]
+
+[arxiv 2024.10] Pyramidal Flow Matching for Efficient Video Generative Modeling [[PDF](https://arxiv.org/abs/2410.05954), [Page](https://pyramid-flow.github.io/)]
+
+[arxiv 2024.10] T2V-Turbo-v2: Enhancing Video Generation Model Post-Training through Data, Reward, and Conditional Guidance Design [[PDF](https://arxiv.org/abs/2410.05677), [Page](https://t2v-turbo-v2.github.io/)]
 
 [arxiv 2024.10]  [[PDF](), [Page]()]
 
@@ -635,6 +640,9 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2024.08] Unrolled Decomposed Unpaired Learning for Controllable Low-Light Video Enhancement  [[PDF](https://arxiv.org/abs/2408.12316),[Page](https://github.com/lingyzhu0101/UDU)]
 
+[arxiv 2024.08] SeeClear: Semantic Distillation Enhances Pixel Condensation for Video Super-Resolution  [[PDF](https://arxiv.org/abs/2410.05799),[Page](https://github.com/Tang1705/SeeClear-NeurIPS24)]
+
+
 [arxiv 2024.08]   [[PDF](),[Page]()]
 
 #  restoration 
@@ -708,6 +716,7 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2024.08] CustomCrafter: Customized Video Generation with Preserving Motion and Concept Composition Abilities[[PDF](https://arxiv.org/abs/2408.13239),[Page](https://customcrafter.github.io/)]
 
+[arxiv 2024.10] TweedieMix: Improving Multi-Concept Fusion for Diffusion-based Image/Video Generation [[PDF](https://arxiv.org/abs/2410.05591),[Page](https://github.com/KwonGihyun/TweedieMix)]
 
 [arxiv 2024.10]  [[PDF](),[Page]()]
 
@@ -810,6 +819,9 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2023.12]DreamGaussian4D: Generative 4D Gaussian Splatting [[PDF](https://arxiv.org/abs/2312.17142), [Page](https://jiawei-ren.github.io/projects/dreamgaussian4d)]
 
+[arxiv 2024.10] AvatarGO: Zero-shot 4D Human-Object Interaction Generation and Animation [[PDF](https://yukangcao.github.io/AvatarGO/),[Page](https://yukangcao.github.io/AvatarGO/)]
+
+[arxiv 2024.10] Trans4D: Realistic Geometry-Aware Transition for Compositional Text-to-4D Synthesis [[PDF](https://arxiv.org/abs/2410.07155),[Page](https://github.com/YangLing0818/Trans4D)]
 
 [arxiv 2024.10]  [[PDF](),[Page]()]
 
