@@ -563,7 +563,20 @@
 
 [arxiv 2024.10] ComfyGen: Prompt-Adaptive Workflows for Text-to-Image Generation  [[PDF](https://arxiv.org/abs/2410.01731),[Page](https://comfygen-paper.github.io/)]
 
+[arxiv 2024.10] Representation Alignment for Generation: Training Diffusion Transformers Is Easier Than You Think  [[PDF](https://arxiv.org/abs/2410.06940)]
+
+[arxiv 2024.10] Decouple-Then-Merge: Towards Better Training for Diffusion Models  [[PDF](https://arxiv.org/abs/2410.06664)]
+
+[arxiv 2024.10] Sparse Repellency for Shielded Generation in Text-to-image Diffusion Models  [[PDF](https://arxiv.org/abs/2410.06025),[Page]()]
+
+
+[arxiv 2024.10] Training-free Diffusion Model Alignment with Sampling Demons  [[PDF](https://arxiv.org/abs/2410.05760)]
+
 [arxiv 2024.10]   [[PDF](),[Page]()]
+
+
+
+
 
 ## VAE 
 
@@ -586,6 +599,8 @@
 [arxiv 2024.05]Distilling Diffusion Models into Conditional GANs [[PDF](https://arxiv.org/abs/2405.05967),[Page](https://mingukkang.github.io/Diffusion2GAN/)]
 
 [arxiv 2024.06] Plug-and-Play Diffusion Distillation [[PDF](https://arxiv.org/abs/2406.01954)]
+
+[arxiv 2024.10] EvolveDirector: Approaching Advanced Text-to-Image Generation with Large Vision-Language Models  [[PDF](https://arxiv.org/abs/2410.07133)]
 
 
 ## Try-on 
@@ -1048,6 +1063,8 @@ Cross-Attention Control [[PDF](https://arxiv.org/abs/2402.13404)]
 
 [arxiv 2024.09] Layout-Corrector: Alleviating Layout Sticking Phenomenon in Discrete Diffusion Model  [[PDF](https://arxiv.org/abs/2409.16689),[Page](https://iwa-shi.github.io/Layout-Corrector-Project-Page/)] 
 
+[arxiv 2024.10] Story-Adapter: A Training-free Iterative Framework for Long Story Visualization  [[PDF](https://arxiv.org/abs/2410.06244),[Page](https://jwmao1.github.io/storyadapter)] 
+
 [arxiv 2024.10]   [[PDF](),[Page]()] 
 
 
@@ -1435,8 +1452,10 @@ Cross-Attention Control [[PDF](https://arxiv.org/abs/2402.13404)]
 
 [arxiv 2024.10]  Distillation-Free One-Step Diffusion for Real-World Image Super-Resolution [[PDF](https://arxiv.org/abs/2410.04224),[Page](https://github.com/JianzeLi-114/DFOSD)]
 
-[arxiv 2024.10]   [[PDF](),[Page]()]
+[arxiv 2024.10] AP-LDM: Attentive and Progressive Latent Diffusion Model for Training-Free High-Resolution Image Generation  [[PDF](https://arxiv.org/abs/2410.06055),[Page](https://github.com/kmittle/AP-LDM)]
 
+
+[arxiv 2024.10]   [[PDF](),[Page]()]
 
 ## action transfer 
 [arxiv 2023.11]Learning Disentangled Identifiers for Action-Customized Text-to-Image Generation [[PDF](https://arxiv.org/abs/2311.15841)]
@@ -1803,6 +1822,8 @@ Cross-Attention Control [[PDF](https://arxiv.org/abs/2402.13404)]
 [arxiv 2024.08]Towards Reliable Advertising Image Generation Using Human Feedback [[PDF](https://arxiv.org/abs/2408.00418)]
 
 [arxiv 2024.08] I2EBench: A Comprehensive Benchmark for Instruction-based Image Editing[[PDF](https://arxiv.org/abs/2408.14180), [Page](https://github.com/cocoshe/I2EBench)]
+
+[arxiv 2024.10]  IterComp: Iterative Composition-Aware Feedback Learning from Model Gallery for Text-to-Image Generation [[PDF](https://arxiv.org/abs/2410.07171),[Page](https://github.com/YangLing0818/IterComp)]
 
 [arxiv 2024.10]   [[PDF](),[Page]()]
 
