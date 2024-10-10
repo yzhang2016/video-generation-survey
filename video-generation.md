@@ -408,6 +408,8 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2024.06]Video-Infinity: Distributed Long Video Generation [[PDF](https://arxiv.org/abs/2406.16260), [Page](https://video-infinity.tanzhenxiong.com/)]
 
+[arxiv 2024.06] FreeLong : Training-Free Long Video Generation with SpectralBlend Temporal Attention [[PDF](https://arxiv.org/pdf/2407.19918), [Page](https://freelongvideo.github.io/)]
+
 [arxiv 2024.07]Multi-sentence Video Grounding for Long Video Generation[[PDF](https://arxiv.org/abs/2407.13219)]
 
 [arxiv 2024.08]Training-free High-quality Video Generation with Chain of Diffusion Model Experts [[PDF](https://arxiv.org/abs/2408.13423), [Page](https://confiner2025.github.io/)]
