@@ -423,6 +423,8 @@
 
 
 ## Improve T2I base modules
+[arxiv 2023]LLM Blueprint: Enabling Text-to-Image Generation with Complex and Detailed Prompts [[PDF](https://arxiv.org/abs/2310.10640),[Page](https://github.com/hananshafi/llmblueprint)]
+
 [arxiv 2023.11]Self-correcting LLM-controlled Diffusion Models [[PDF](https://arxiv.org/abs/2311.16090)]
 
 [arxiv 2023.11]Enhancing Diffusion Models with Text-Encoder Reinforcement Learning [[PDF](https://arxiv.org/abs/2311.15657)]
