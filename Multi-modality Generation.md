@@ -59,7 +59,7 @@
 
 [arxiv 2024.10]ACE: All-round Creator and Editor Following Instructions via Diffusion Transformer [[PDF](https://arxiv.org/abs/2410.00086), [Page](https://ali-vilab.github.io/ace-page/)]
 
-[arxiv 2024.10] [[PDF](), [Page]()]
+[arxiv 2024.10]Baichuan-Omni Technical Report [[PDF](https://arxiv.org/abs/2410.08565), [Page](https://github.com/westlake-baichuan-mllm/bc-omni)]
 
 
 
