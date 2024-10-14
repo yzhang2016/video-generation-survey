@@ -126,6 +126,8 @@
 
 [arxiv 2024.10] Meissonic: Revitalizing Masked Generative Transformers for Efficient High-Resolution Text-to-Image Synthesis[[PDF](https://arxiv.org/abs/2410.08261),[Page](https://huggingface.co/MeissonFlow/Meissonic)]
 
+[arxiv 2024.10]  DART: Denoising Autoregressive Transformer for Scalable Text-to-Image Generation [[PDF](https://arxiv.org/abs/2410.08159)]
+
 [arxiv 2024.10] [[PDF](),[Page]()]
 
 
