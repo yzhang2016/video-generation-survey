@@ -124,7 +124,9 @@
 
 [arxiv 2024.09]MaskBit: Embedding-free Image Generation via Bit Token [[PDF](https://arxiv.org/abs/2409.16211),[Page](https://weber-mark.github.io/projects/maskbit.html)]
 
-[arxiv 2024.09] [[PDF](),[Page]()]
+[arxiv 2024.10] Meissonic: Revitalizing Masked Generative Transformers for Efficient High-Resolution Text-to-Image Synthesis[[PDF](https://arxiv.org/abs/2410.08261),[Page](https://huggingface.co/MeissonFlow/Meissonic)]
+
+[arxiv 2024.10] [[PDF](),[Page]()]
 
 
 # Generation & Super-resolution 
