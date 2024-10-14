@@ -1188,8 +1188,9 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2024.09] Compositional 3D-aware Video Generation with LLM Director [[PDF](https://arxiv.org/abs/2409.00558),[Page](https://www.microsoft.com/en-us/research/project/compositional-3d-aware-video-generation/)]
 
-[arxiv 2024.10]  [[PDF](),[Page]()]
+[arxiv 2024.10] SceneCraft: Layout-Guided 3D Scene Generation [[PDF](https://arxiv.org/abs/2410.09049),[Page](https://orangesodahub.github.io/SceneCraft)]
 
+[arxiv 2024.10]  [[PDF](),[Page]()]
 
 # video2game
 
