@@ -321,7 +321,10 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2024.10] MotionAura: Generating High-Quality and Motion Consistent Videos using Discrete Diffusion [[PDF](https://arxiv.org/abs/2410.07659),[Page](https://researchgroup12.github.io/Abstract_Diagram.html)]
 
+[arxiv 2024.10] Redefining Temporal Modeling in Video Diffusion: The Vectorized Timestep Approach [[PDF](https://arxiv.org/abs/2410.03160), [Page](https://github.com/Yaofang-Liu/FVDM)]
+
 [arxiv 2024.10]  [[PDF](), [Page]()]
+
 
 ## LLMs-based 
 [arxiv 2023.12]VideoPoet: A Large Language Model for Zero-Shot Video Generation [[PDF](https://arxiv.org/abs/2312.14125),[Page](http://sites.research.google/videopoet/)]
