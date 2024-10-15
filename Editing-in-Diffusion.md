@@ -383,11 +383,14 @@
 
 [arxiv 2024.10] PostEdit: Posterior Sampling for Efficient Zero-Shot Image Editing  [[PDF](https://arxiv.org/abs/2410.04844),[Page](https://github.com/TFNTF/PostEdit)]
 
+[arxiv 2024.10] Context-Aware Full Body Anonymization using Text-to-Image Diffusion Models  [[PDF](https://arxiv.org/abs/2410.08551)]
+
+[arxiv 2024.10] BELM: Bidirectional Explicit Linear Multi-step Sampler for Exact Inversion in Diffusion Models  [[PDF](https://arxiv.org/abs/2410.07273)
+
 [arxiv 2024.10]   [[PDF](),[Page]()]
 
+## Architecture
 
-
-## DiT 
 [arxiv 2024.03]Switch Diffusion Transformer: Synergizing Denoising Tasks with Sparse Mixture-of-Experts [[PDF](https://arxiv.org/abs/2403.09176),[Page](https://byeongjun-park.github.io/Switch-DiT/)]
 
 [arxiv 2024.05] TerDiT: Ternary Diffusion Models with Transformers [[PDF](https://arxiv.org/abs/2405.14854),[Page](https://github.com/Lucky-Lance/TerDiT)]
@@ -410,7 +413,15 @@
 
 [arxiv 2024.08] AnyDesign: Versatile Area Fashion Editing via Mask-Free Diffusion [[PDF](https://arxiv.org/abs/2408.11553)]
 
-[arxiv 2024.08]  [[PDF](),[Page]()]
+[arxiv 2024.10]   [[PDF](),[Page]()]
+
+## Distribution 
+
+[arxiv 2024.10] Rectified Diffusion: Straightness Is Not Your Need  [[PDF](https://arxiv.org/abs/2410.07303),[Page](https://github.com/G-U-N/Rectified-Diffusion)]
+
+[arxiv 2024.10] Simple ReFlow: Improved Techniques for Fast Flow Models  [[PDF](https://arxiv.org/abs/2410.07815),[Page]()]
+
+[arxiv 2024.10]   [[PDF](),[Page]()]
 
 ## LLMs for editing 
 [arxiv 2024.07] GenArtist: Multimodal LLM as an Agent for Unified Image Generation and Editing  [[PDF](https://arxiv.org/abs/2407.05600),[Page](https://zhenyuw16.github.io/GenArtist_page/)]
@@ -418,7 +429,7 @@
 [arxiv 2024.07] UltraEdit: Instruction-based Fine-Grained Image Editing at Scale  [[PDF](https://arxiv.org/abs/2407.05282),[Page](https://ultra-editing.github.io/)]
 
 
-[arxiv 2024.08]  [[PDF](),[Page]()]
+[arxiv 2024.10]   [[PDF](),[Page]()]
 
 
 
@@ -574,8 +585,9 @@
 
 [arxiv 2024.10] Training-free Diffusion Model Alignment with Sampling Demons  [[PDF](https://arxiv.org/abs/2410.05760)]
 
-[arxiv 2024.10]   [[PDF](),[Page]()]
+[arxiv 2024.10]  Diffusion Models Need Visual Priors for Image Generation [[PDF](https://arxiv.org/abs/2410.08531)]
 
+[arxiv 2024.10]   [[PDF](),[Page]()]
 
 
 
@@ -955,6 +967,8 @@
 [arxiv 2024.10]Event-Customized Image Generation[[PDF](https://arxiv.org/abs/2410.02483)]
 
 [arxiv 2024.10] DisEnvisioner: Disentangled and Enriched Visual Prompt for Customized Image Generation [[PDF](https://arxiv.org/abs/2410.02067),[Page](https://disenvisioner.github.io/)]
+
+[arxiv 2024.10] HybridBooth: Hybrid Prompt Inversion for Efficient Subject-Driven Generation  [[PDF](https://arxiv.org/abs/2410.08192),[Page](https://sites.google.com/view/hybridbooth)]
 
 [arxiv 2024.10]   [[PDF](),[Page]()]
 
@@ -1730,6 +1744,8 @@ Cross-Attention Control [[PDF](https://arxiv.org/abs/2402.13404)]
 
 [arxiv 2024.10] Simple and Fast Distillation of Diffusion Models  [[PDF](https://arxiv.org/abs/2409.19681),[Page](https://github.com/zju-pi/diff-sampler)]
 
+[arxiv 2024.10] Relational Diffusion Distillation for Efficient Image Generation [[PDF](https://arxiv.org/abs/2410.07679),[Page]()]
+
 [arxiv 2024.10]   [[PDF](),[Page]()]
 
 ## limited data 
@@ -1783,6 +1799,8 @@ Cross-Attention Control [[PDF](https://arxiv.org/abs/2402.13404)]
 [arxiv 2024.10] Magnet: We Never Know How Text-to-Image Diffusion Models Work, Until We Learn How Vision-Language Models Function  [[PDF](https://arxiv.org/abs/2409.19967),[Page](https://github.com/I2-Multimedia-Lab/Magnet)]
 
 [arxiv 2024.10]  Revisit Large-Scale Image-Caption Data in Pre-training Multimodal Foundation Models [[PDF](https://arxiv.org/abs/2410.02740)]
+
+[arxiv 2024.10] Scaling Laws For Diffusion Transformers[[PDF](https://arxiv.org/abs/2410.08184)]
 
 [arxiv 2024.10]   [[PDF](),[Page]()]
 
@@ -1907,6 +1925,8 @@ Cross-Attention Control [[PDF](https://arxiv.org/abs/2402.13404)]
 [arxiv 2024.10] MaskMamba: A Hybrid Mamba-Transformer Model for Masked Image Generation[[PDF](https://arxiv.org/pdf/2409.19937)]
 
 [arxiv 2024.10] Dynamic Diffusion Transformer  [[PDF](https://arxiv.org/abs/2410.03456),[Page](https://github.com/NUS-HPC-AI-Lab/Dynamic-Diffusion-Transformer)]
+
+[arxiv 2024.10]  DART: Denoising Autoregressive Transformer for Scalable Text-to-Image Generation [[PDF](https://arxiv.org/abs/2410.08159)]
 
 
 [arxiv 2024.10]   [[PDF](),[Page]()]
