@@ -138,6 +138,10 @@ A reading list of video generation
   [arxiv 2024.07] A Large-Scale Dataset for High-Quality Text-to-Video Generation  [[PDF](http://export.arxiv.org/pdf/2407.02371),[Page](https://nju-pcalab.github.io/projects/openvid/)]
 
 
+* **Koala-36M**
+[arxiv 2024.10]Koala-36M: A Large-scale Video Dataset Improving Consistency between Fine-grained Conditions and Video Content[[PDF](https://arxiv.org/abs/2410.08260),[Page](https://koala36m.github.io/)]
+
+
 ## Video VAE 
 [arxiv 2024.05]CV-VAE: A Compatible Video VAE for Latent Generative Video Models [[PDF](https://arxiv.org/abs/2405.20279),[Page](https://ailab-cvc.github.io/cvvae/index.html)]
 
@@ -145,7 +149,10 @@ A reading list of video generation
 
 [arxiv 2024.09] OD-VAE: An Omni-dimensional Video Compressor for Improving Latent Video Diffusion Model [[PDF](https://arxiv.org/abs/2409.01199),[Page](https://github.com/PKU-YuanGroup/Open-Sora-Plan)]
 
+[arxiv 2024.10] MotionAura: Generating High-Quality and Motion Consistent Videos using Discrete Diffusion [[PDF](https://arxiv.org/abs/2410.07659),[Page](https://researchgroup12.github.io/Abstract_Diagram.html)]
+
 [arxiv 2024.10]  [[PDF](),[Page]()]
+
 
 ## GAN/VAE-based methods 
 [NIPS 2016] **---VGAN---** Generating Videos with Scene Dynamics \[[PDF](https://proceedings.neurips.cc/paper/2016/file/04025959b191f8f9de3f924f0940515f-Paper.pdf), [code](https://github.com/cvondrick/videogan) \]
@@ -312,6 +319,7 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2024.10] Movie Gen: A Cast of Media Foundation Models [[PDF](https://ai.meta.com/static-resource/movie-gen-research-paper), [Page]()]
 
+[arxiv 2024.10] MotionAura: Generating High-Quality and Motion Consistent Videos using Discrete Diffusion [[PDF](https://arxiv.org/abs/2410.07659),[Page](https://researchgroup12.github.io/Abstract_Diagram.html)]
 
 [arxiv 2024.10]  [[PDF](), [Page]()]
 
@@ -422,6 +430,8 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 [arxiv 2024.08] TVG: A Training-free Transition Video Generation Method with Diffusion Models[[PDF](https://arxiv.org/abs/2408.13413), [Page](https://sobeymil.github.io/tvg.com/)]
 
 [arxiv 2024.09] DiVE: DiT-based Video Generation with Enhanced Control [[PDF](https://arxiv.org/abs/2409.01595), [Page](https://liautoad.github.io/DIVE/)]
+
+[arxiv 2024.10] Progressive Autoregressive Video Diffusion Models [[PDF](https://arxiv.org/abs/2410.08151), [Page](https://desaixie.github.io/pa-vdm/)]
 
 [arxiv 2024.10]  [[PDF](), [Page]()]
 
@@ -744,6 +754,8 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2024.09] Portrait Video Editing Empowered by Multimodal Generative Priors [[PDF](https://arxiv.org/abs/2409.13591),[Page](https://ustc3dv.github.io/PortraitGen/)]
 
+[arxiv 2024.10] Hallo2: Long-Duration and High-Resolution Audio-Driven Portrait Image Animation [[PDF](https://arxiv.org/abs/2410.07718),[Page]()]
+
 [arxiv 2024.10]  [[PDF](),[Page]()]
 
 
@@ -993,6 +1005,7 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2024.10] L-C4: Language-Based Video Colorization for Creative and Consistent Color [[PDF](https://arxiv.org/abs/2410.04972)] 
 
+[arxiv 2024.10] HARIVO: Harnessing Text-to-Image Models for Video Generation [[PDF](https://kwonminki.github.io/HARIVO/),[Page](https://kwonminki.github.io/HARIVO/)] 
 
 [arxiv 2024.10]  [[PDF](),[Page]()] 
 
