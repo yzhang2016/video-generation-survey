@@ -5,7 +5,7 @@
 
 ## Body 
 
-[arxiv 2024.10]   [[PDF](),[Page]()]
+[arxiv 2024.10] MotionAura: Generating High-Quality and Motion Consistent Videos using Discrete Diffusion  [[PDF](https://arxiv.org/abs/2410.07659)]
 
 
 ## Hands 
