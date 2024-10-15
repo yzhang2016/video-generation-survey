@@ -61,6 +61,10 @@
 
 [arxiv 2024.10]Baichuan-Omni Technical Report [[PDF](https://arxiv.org/abs/2410.08565), [Page](https://github.com/westlake-baichuan-mllm/bc-omni)]
 
+[arxiv 2024.10] [[PDF](), [Page]()]
 
+## Agent
+
+[arxiv 2024.10] Agent S: An Open Agentic Framework that Uses Computers Like a Human[[PDF](https://arxiv.org/abs/2410.08164), [Page](https://github.com/simular-ai/Agent-S)]
 
 [arxiv 2024.10] [[PDF](), [Page]()]
