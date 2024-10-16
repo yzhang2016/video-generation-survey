@@ -142,6 +142,12 @@ A reading list of video generation
 [arxiv 2024.10]Koala-36M: A Large-scale Video Dataset Improving Consistency between Fine-grained Conditions and Video Content[[PDF](https://arxiv.org/abs/2410.08260),[Page](https://koala36m.github.io/)]
 
 
+  
+* **LVD-2M**
+  [arxiv 2024.10] LVD-2M: A Long-take Video Dataset with Temporally Dense Captions  [[PDF](https://arxiv.org/abs/2410.10816),[Page](https://github.com/SilentView/LVD-2M)]
+
+
+
 ## Video VAE 
 [arxiv 2024.05]CV-VAE: A Compatible Video VAE for Latent Generative Video Models [[PDF](https://arxiv.org/abs/2405.20279),[Page](https://ailab-cvc.github.io/cvvae/index.html)]
 
@@ -552,7 +558,10 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2024.10] MIMO: Controllable Character Video Synthesis with Spatial Decomposed Modeling [[PDF](http://arxiv.org/abs/2409.16160),[Page](https://menyifang.github.io/projects/MIMO/index.html)]
 
+[arxiv 2024.10] DragEntity: Trajectory Guided Video Generation using Entity and Positional Relationships [[PDF](https://arxiv.org/abs/2410.10751)]
+
 [arxiv 2024.10]  [[PDF](),[Page]()]
+
 
 ## text 
 [arxiv 2024.06]  Text-Animator: Controllable Visual Text Video Generation[[PDF](https://arxiv.org/abs/2406.17777),[Page](https://laulampaul.github.io/text-animator.html)]
@@ -587,6 +596,10 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2024.09] CinePreGen: Camera Controllable Video Previsualization via Engine-powered Diffusion
  [[PDF](https://arxiv.org/abs/2408.17424)]
+
+[arxiv 2024.10] Boosting Camera Motion Control for Video Diffusion Transformers [[PDF](https://arxiv.org/abs/2410.10802),[Page](https://soon-yau.github.io/CameraMotionGuidance/)]
+
+[arxiv 2024.10] Cavia: Camera-controllable Multi-view Video Diffusion with View-Integrated Attention [[PDF](https://arxiv.org/abs/2410.10774),[Page](https://ir1d.github.io/Cavia/)]
 
 [arxiv 2024.10]  [[PDF](),[Page]()]
 
@@ -728,6 +741,8 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2024.10] TweedieMix: Improving Multi-Concept Fusion for Diffusion-based Image/Video Generation [[PDF](https://arxiv.org/abs/2410.05591),[Page](https://github.com/KwonGihyun/TweedieMix)]
 
+[arxiv 2024.10] PersonalVideo: High ID-Fidelity Video Customization With Static Images [[PDF](https://openreview.net/pdf?id=ndtFyx7UWs),[Page](https://personalvideo.github.io/)]
+
 [arxiv 2024.10]  [[PDF](),[Page]()]
 
 
@@ -755,6 +770,8 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 [arxiv 2024.09] Portrait Video Editing Empowered by Multimodal Generative Priors [[PDF](https://arxiv.org/abs/2409.13591),[Page](https://ustc3dv.github.io/PortraitGen/)]
 
 [arxiv 2024.10] Hallo2: Long-Duration and High-Resolution Audio-Driven Portrait Image Animation [[PDF](https://arxiv.org/abs/2410.07718),[Page]()]
+
+[arxiv 2024.10] MuseTalk: Real-Time High Quality Lip Synchronization with Latent Space Inpainting [[PDF](https://arxiv.org/abs/2410.10122),[Page](https://github.com/TMElyralab/MuseTalk)]
 
 [arxiv 2024.10]  [[PDF](),[Page]()]
 
@@ -1045,6 +1062,9 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2024.08] Generative Inbetweening: Adapting Image-to-Video Models for Keyframe Interpolation[[PDF](https://arxiv.org/abs/2408.15239),[Page](https://svd-keyframe-interpolation.github.io/)]
 
+[arxiv 2024.10] High-Resolution Frame Interpolation with Patch-based Cascaded Diffusion [[PDF](https://arxiv.org/abs/2410.11838),[Page](https://hifi-diffusion.github.io/)]
+
+
 
 [arxiv 2024.10]  [[PDF](),[Page]()]
 
@@ -1202,6 +1222,8 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 [arxiv 2024.09] Compositional 3D-aware Video Generation with LLM Director [[PDF](https://arxiv.org/abs/2409.00558),[Page](https://www.microsoft.com/en-us/research/project/compositional-3d-aware-video-generation/)]
 
 [arxiv 2024.10] SceneCraft: Layout-Guided 3D Scene Generation [[PDF](https://arxiv.org/abs/2410.09049),[Page](https://orangesodahub.github.io/SceneCraft)]
+
+[arxiv 2024.10] Tex4D: Zero-shot 4D Scene Texturing with Video Diffusion Models [[PDF](https://arxiv.org/abs/2410.10821),[Page](https://tex4d.github.io/)]
 
 [arxiv 2024.10]  [[PDF](),[Page]()]
 
