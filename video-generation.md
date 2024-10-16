@@ -547,8 +547,7 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2024.07]HumanVid: Demystifying Training Data for Camera-controllable Human Image Animation  [[PDF](https://arxiv.org/abs/2407.17438),[Page](https://github.com/zhenzhiwang/HumanVid/)]
 
-[arxiv 2024.07]Tora: Trajectory-oriented Diffusion Transformer for Video Generation  [[PDF](https://arxiv.org/abs/2407.21705),[Page](https://ali-videoai.github.io/tora_video/)]
-
+[arxiv 2024.07]Tora: Trajectory-oriented Diffusion Transformer for Video Generation  [[PDF](https://arxiv.org/abs/2407.21705),[Page](https://ali-videoai.github.io/tora_video/),[Code](https://github.com/alibaba/Tora)]
 
 [arxiv 2024.08] Puppet-Master: Scaling Interactive Video Generation as a Motion Prior for Part-Level Dynamics[[PDF](https://arxiv.org/abs/2408.04631),[Page](https://vgg-puppetmaster.github.io/)]
 
