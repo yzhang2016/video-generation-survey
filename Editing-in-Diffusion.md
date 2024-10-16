@@ -387,7 +387,25 @@
 
 [arxiv 2024.10] BELM: Bidirectional Explicit Linear Multi-step Sampler for Exact Inversion in Diffusion Models  [[PDF](https://arxiv.org/abs/2410.07273)
 
+[arxiv 2024.10]  Vision-guided and Mask-enhanced Adaptive Denoising for Prompt-based Image Editing [[PDF](https://arxiv.org/html/2410.10496v1)]
+
+[arxiv 2024.10]MagicEraser: Erasing Any Objects via Semantics-Aware Control[[PDF](https://arxiv.org/abs/2410.10207)]
+
+[arxiv 2024.10]  SGEdit: Bridging LLM with Text2Image Generative Model for Scene Graph-based Image Editing [[PDF](https://arxiv.org/abs/2410.11815),[Page](https://bestzzhang.github.io/SGEdit/)]
+
+
 [arxiv 2024.10]   [[PDF](),[Page]()]
+
+
+
+## Unified Generation
+
+[arxiv 2024.10] A Simple Approach to Unifying Diffusion-based Conditional Generation [[PDF](https://arxiv.org/abs/2410.11439),[Page](https://lixirui142.github.io/unicon-diffusion/)]
+
+[arxiv 2024.10]   [[PDF](),[Page]()]
+
+
+
 
 ## Architecture
 
@@ -587,9 +605,9 @@
 
 [arxiv 2024.10]  Diffusion Models Need Visual Priors for Image Generation [[PDF](https://arxiv.org/abs/2410.08531)]
 
+[arxiv 2024.10] Improving Long-Text Alignment for Text-to-Image Diffusion Models  [[PDF](https://arxiv.org/abs/2410.11817),[Page](https://github.com/luping-liu/LongAlign)]
+
 [arxiv 2024.10]   [[PDF](),[Page]()]
-
-
 
 
 ## VAE 
@@ -683,6 +701,9 @@
 
 [arxiv 2024.09] DiffusionPen: Towards Controlling the Style of Handwritten Text Generation  [[PDF](https://arxiv.org/abs/2409.06065),[Page](https://github.com/koninik/DiffusionPen)]
 
+[arxiv 2024.10] TextCtrl: Diffusion-based Scene Text Editing with Prior Guidance Control  [[PDF](https://arxiv.org/abs/2410.10133),[Page]()]
+
+[arxiv 2024.10]  TextMaster: Universal Controllable Text Edit [[PDF](https://arxiv.org/abs/2410.09879),[Page]()]
 
 [arxiv 2024.10]   [[PDF](),[Page]()]
 
@@ -969,6 +990,8 @@
 [arxiv 2024.10] DisEnvisioner: Disentangled and Enriched Visual Prompt for Customized Image Generation [[PDF](https://arxiv.org/abs/2410.02067),[Page](https://disenvisioner.github.io/)]
 
 [arxiv 2024.10] HybridBooth: Hybrid Prompt Inversion for Efficient Subject-Driven Generation  [[PDF](https://arxiv.org/abs/2410.08192),[Page](https://sites.google.com/view/hybridbooth)]
+
+[arxiv 2024.10]  Learning to Customize Text-to-Image Diffusion In Diverse Context [[PDF](https://arxiv.org/abs/2410.10058)]
 
 [arxiv 2024.10]   [[PDF](),[Page]()]
 
@@ -1470,8 +1493,19 @@ Cross-Attention Control [[PDF](https://arxiv.org/abs/2402.13404)]
 
 [arxiv 2024.10] AP-LDM: Attentive and Progressive Latent Diffusion Model for Training-Free High-Resolution Image Generation  [[PDF](https://arxiv.org/abs/2410.06055),[Page](https://github.com/kmittle/AP-LDM)]
 
+[arxiv 2024.10] Deep Compression Autoencoder for Efficient High-Resolution Diffusion Models  [[PDF](https://arxiv.org/abs/2410.10733),[Page](https://github.com/mit-han-lab/efficientvit)]
+
+[arxiv 2024.10] Hi-Mamba: Hierarchical Mamba for Efficient Image Super-Resolution  [[PDF](),[Page]()]
 
 [arxiv 2024.10]   [[PDF](),[Page]()]
+
+
+## translation 
+[arxiv 2024.10] CtrLoRA: An Extensible and Efficient Framework for Controllable Image Generation  [[PDF](https://arxiv.org/abs/2410.09400),[Page](https://github.com/xyfJASON/ctrlora)]
+
+[arxiv 2024.10]   [[PDF](),[Page]()]
+
+
 
 ## action transfer 
 [arxiv 2023.11]Learning Disentangled Identifiers for Action-Customized Text-to-Image Generation [[PDF](https://arxiv.org/abs/2311.15841)]
@@ -1746,7 +1780,17 @@ Cross-Attention Control [[PDF](https://arxiv.org/abs/2402.13404)]
 
 [arxiv 2024.10] Relational Diffusion Distillation for Efficient Image Generation [[PDF](https://arxiv.org/abs/2410.07679),[Page]()]
 
+[arxiv 2024.10] Efficient High-Resolution Image Synthesis with Linear Diffusion Transformer  [[PDF](https://arxiv.org/abs/2410.10629),[Page](https://nvlabs.github.io/Sana/)]
+
+[arxiv 2024.10] FasterDiT: Towards Faster Diffusion Transformers Training without Architecture Modification [[PDF](https://arxiv.org/abs/2410.10356),[Page]()]
+
+[arxiv 2024.10]  Efficient Diffusion Models: A Comprehensive Survey from Principles to Practices[[PDF](https://arxiv.org/abs/2410.11795),[Page](https://github.com/ponyzym/Efficient-DMs-Survey)]
+
 [arxiv 2024.10]   [[PDF](),[Page]()]
+
+
+
+
 
 ## limited data 
 [arxiv 2023.06]Decompose and Realign: Tackling Condition Misalignment in Text-to-Image Diffusion Models [[PDF](https://arxiv.org/abs/2306.14153)]
@@ -1919,6 +1963,7 @@ Cross-Attention Control [[PDF](https://arxiv.org/abs/2402.13404)]
 
 [arxiv 2024.10]   [[PDF](),[Page]()]
 
+
 # architecture 
 [arxiv 2024.09]HydraViT: Stacking Heads for a Scalable ViT [[PDF](https://arxiv.org/abs/2409.17978), [Page](https://github.com/ds-kiel/HydraViT)]
 
@@ -1927,6 +1972,12 @@ Cross-Attention Control [[PDF](https://arxiv.org/abs/2402.13404)]
 [arxiv 2024.10] Dynamic Diffusion Transformer  [[PDF](https://arxiv.org/abs/2410.03456),[Page](https://github.com/NUS-HPC-AI-Lab/Dynamic-Diffusion-Transformer)]
 
 [arxiv 2024.10]  DART: Denoising Autoregressive Transformer for Scalable Text-to-Image Generation [[PDF](https://arxiv.org/abs/2410.08159)]
+
+[arxiv 2024.10] Efficient High-Resolution Image Synthesis with Linear Diffusion Transformer  [[PDF](https://arxiv.org/abs/2410.10629),[Page](https://nvlabs.github.io/Sana/)]
+
+[arxiv 2024.10] GlobalMamba: Global Image Serialization for Vision Mamba  [[PDF](https://arxiv.org/abs/2410.10316),[Page](https://github.com/wangck20/GlobalMamba)]
+
+[arxiv 2024.10] MoH: Multi-Head Attention as Mixture-of-Head Attention[[PDF](https://arxiv.org/abs/2410.11842),[Page](https://github.com/SkyworkAI/MoH)]
 
 
 [arxiv 2024.10]   [[PDF](),[Page]()]
