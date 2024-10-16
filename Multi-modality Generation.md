@@ -1,4 +1,10 @@
 
+
+
+
+
+
+
 ### Multi-modality Generation 
 
 ### [Awesome-Multimodal-Large-Language-Models](https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models)
@@ -68,3 +74,14 @@
 [arxiv 2024.10] Agent S: An Open Agentic Framework that Uses Computers Like a Human[[PDF](https://arxiv.org/abs/2410.08164), [Page](https://github.com/simular-ai/Agent-S)]
 
 [arxiv 2024.10] [[PDF](), [Page]()]
+
+
+
+## Multi-modality Understanding 
+
+[arxiv 2024.10]TemporalBench Benchmarking Fine-grained Temporal Understanding for Multimodal Video Models [[PDF](https://arxiv.org/abs/2410.10818), [Page](https://temporalbench.github.io/)]
+
+
+[arxiv 2024.10] [[PDF](), [Page]()]
+
+
