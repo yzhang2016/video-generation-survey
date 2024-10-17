@@ -393,6 +393,9 @@
 
 [arxiv 2024.10]  SGEdit: Bridging LLM with Text2Image Generative Model for Scene Graph-based Image Editing [[PDF](https://arxiv.org/abs/2410.11815),[Page](https://bestzzhang.github.io/SGEdit/)]
 
+[arxiv 2024.10] AdaptiveDrag: Semantic-Driven Dragging on Diffusion-Based Image Editing [[PDF](https://arxiv.org/abs/2410.12696),[Page](https://github.com/Calvin11311/AdaptiveDrag)]
+
+[arxiv 2024.10] MambaPainter: Neural Stroke-Based Rendering in a Single Step[[PDF](https://arxiv.org/abs/2410.12524)]
 
 [arxiv 2024.10]   [[PDF](),[Page]()]
 
@@ -625,7 +628,10 @@
 
 [arxiv 2024.10] CAR: Controllable Autoregressive Modeling for Visual Generation  [[PDF](https://arxiv.org/abs/2410.04671),[Page](https://github.com/MiracleDance/CAR)]
 
+[arxiv 2024.10]  Stabilize the Latent Space for Image Autoregressive Modeling: A Unified Perspective [[PDF](https://arxiv.org/abs/2410.12490),[Page](https://github.com/DAMO-NLP-SG/DiGIT)]
+
 [arxiv 2024.10]   [[PDF](),[Page]()]
+
 
 ## Distill Diffusion Model 
 [arxiv 2024.05]Distilling Diffusion Models into Conditional GANs [[PDF](https://arxiv.org/abs/2405.05967),[Page](https://mingukkang.github.io/Diffusion2GAN/)]
@@ -633,6 +639,8 @@
 [arxiv 2024.06] Plug-and-Play Diffusion Distillation [[PDF](https://arxiv.org/abs/2406.01954)]
 
 [arxiv 2024.10] EvolveDirector: Approaching Advanced Text-to-Image Generation with Large Vision-Language Models  [[PDF](https://arxiv.org/abs/2410.07133)]
+
+[arxiv 2024.10]  DDIL: Improved Diffusion Distillation With Imitation Learning[[PDF](https://arxiv.org/abs/2410.11971)]
 
 
 ## Try-on 
@@ -704,6 +712,12 @@
 [arxiv 2024.10] TextCtrl: Diffusion-based Scene Text Editing with Prior Guidance Control  [[PDF](https://arxiv.org/abs/2410.10133),[Page]()]
 
 [arxiv 2024.10]  TextMaster: Universal Controllable Text Edit [[PDF](https://arxiv.org/abs/2410.09879),[Page]()]
+
+[arxiv 2024.10]   [[PDF](),[Page]()]
+
+## Caption 
+
+[arxiv 2024.10] CtrlSynth: Controllable Image Text Synthesis for Data-Efficient Multimodal Learning  [[PDF](https://arxiv.org/abs/2410.11963)]
 
 [arxiv 2024.10]   [[PDF](),[Page]()]
 
@@ -993,8 +1007,9 @@
 
 [arxiv 2024.10]  Learning to Customize Text-to-Image Diffusion In Diverse Context [[PDF](https://arxiv.org/abs/2410.10058)]
 
-[arxiv 2024.10]   [[PDF](),[Page]()]
+[arxiv 2024.10]  FaceChain-FACT: Face Adapter with Decoupled Training for Identity-preserved Personalization [[PDF](https://arxiv.org/abs/2410.12312),[Page](https://github.com/modelscope/facechain)]
 
+[arxiv 2024.10]   [[PDF](),[Page]()]
 
 ## Story-telling
 
@@ -1369,8 +1384,9 @@ Cross-Attention Control [[PDF](https://arxiv.org/abs/2402.13404)]
 
 [arxiv 2024.10] OmniBooth: Learning Latent Control for Image Synthesis with Multi-modal Instruction  [[PDF](https://arxiv.org/abs/2410.04932),[Page](https://len-li.github.io/omnibooth-web/)]
 
-[arxiv 2024.10]   [[PDF](),[Page]()]
+[arxiv 2024.10]  3DIS: Depth-Driven Decoupled Instance Synthesis for Text-to-Image Generation [[PDF](https://arxiv.org/abs/2410.12669),[Page](https://github.com/limuloo/3DIS)]
 
+[arxiv 2024.10]   [[PDF](),[Page]()]
 
 
 ## Image Variation 
@@ -1786,10 +1802,10 @@ Cross-Attention Control [[PDF](https://arxiv.org/abs/2402.13404)]
 
 [arxiv 2024.10]  Efficient Diffusion Models: A Comprehensive Survey from Principles to Practices[[PDF](https://arxiv.org/abs/2410.11795),[Page](https://github.com/ponyzym/Efficient-DMs-Survey)]
 
+[arxiv 2024.10] One Step Diffusion via Shortcut Models  [[PDF](https://arxiv.org/abs/2410.12557),[Page](https://github.com/kvfrans/shortcut-models)]
+
+
 [arxiv 2024.10]   [[PDF](),[Page]()]
-
-
-
 
 
 ## limited data 
