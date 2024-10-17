@@ -85,3 +85,9 @@
 [arxiv 2024.10] [[PDF](), [Page]()]
 
 
+## multi-modality evaluation 
+
+
+[arxiv 2024.10] The Curse of Multi-Modalities: Evaluating Hallucinations of Large Multimodal Models across Language, Visual, and Audio[[PDF](https://arxiv.org/abs/2410.12787)]
+
+
