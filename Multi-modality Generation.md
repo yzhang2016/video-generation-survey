@@ -87,6 +87,8 @@
 
 [arxiv 2024.10] γ−MoD: Exploring Mixture-of-Depth Adaptation for Multimodal Large Language Models[[PDF](https://arxiv.org/abs/2410.13859), [Page](https://github.com/Yaxin9Luo/Gamma-MOD)]
 
+[arxiv 2024.10]Remember, Retrieve and Generate: Understanding Infinite Visual Concepts as Your Personalized Assistant [[PDF](https://arxiv.org/abs/2410.13360), [Page](https://github.com/Hoar012/RAP-MLLM)]
+
 
 [arxiv 2024.10] [[PDF](), [Page]()]
 
