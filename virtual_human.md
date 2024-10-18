@@ -21,3 +21,11 @@
 [arxiv 2024.10]  Sitcom-Crafter: A Plot-Driven Human Motion Generation System in 3D Scenes [[PDF](https://arxiv.org/abs/2410.10790),[Page](https://windvchen.github.io/Sitcom-Crafter/)]
 
 [arxiv 2024.10]   [[PDF](),[Page]()]
+
+
+
+
+## environment 
+[arxiv 2024.10] DepthSplat：Connecting Gaussian Splatting and Depth  [[PDF](https://arxiv.org/abs/2410.13862),[Page](https://haofeixu.github.io/depthsplat/)]
+
+[arxiv 2024.10]   [[PDF](),[Page]()]
