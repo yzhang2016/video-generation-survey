@@ -9,6 +9,14 @@
 
 [arxiv 2024.10]  ControlMM: Controllable Masked Motion Generation [[PDF](http://arxiv.org/abs/2312.03596),[Page](https://exitudio.github.io/ControlMM-page/)]
 
+[arxiv 2024.10] MotionBank: A Large-scale Video Motion Benchmark with Disentangled Rule-based Annotations  [[PDF](),[Page]()]
+
+[arxiv 2024.10]   [[PDF](),[Page]()]
+
+
+## audio-to-gesture 
+[arxiv 2024.10] Emphasizing Semantic Consistency of Salient Posture for Speech-Driven Gesture Generation  [[PDF](https://arxiv.org/abs/2410.13786)]
+
 [arxiv 2024.10]   [[PDF](),[Page]()]
 
 ## Hands 
