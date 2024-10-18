@@ -1009,7 +1009,11 @@
 
 [arxiv 2024.10]  FaceChain-FACT: Face Adapter with Decoupled Training for Identity-preserved Personalization [[PDF](https://arxiv.org/abs/2410.12312),[Page](https://github.com/modelscope/facechain)]
 
+[arxiv 2024.10] MagicTailor: Component-Controllable Personalization in Text-to-Image Diffusion Models  [[PDF](https://arxiv.org/abs/2410.13370),[Page](https://correr-zhou.github.io/MagicTailor)]
+
+
 [arxiv 2024.10]   [[PDF](),[Page]()]
+
 
 ## Story-telling
 
@@ -1513,8 +1517,9 @@ Cross-Attention Control [[PDF](https://arxiv.org/abs/2402.13404)]
 
 [arxiv 2024.10] Hi-Mamba: Hierarchical Mamba for Efficient Image Super-Resolution  [[PDF](),[Page]()]
 
-[arxiv 2024.10]   [[PDF](),[Page]()]
+[arxiv 2024.10] ConsisSR: Delving Deep into Consistency in Diffusion-based Image Super-Resolution  [[PDF](https://arxiv.org/abs/2410.13807)]
 
+[arxiv 2024.10]   [[PDF](),[Page]()]
 
 ## translation 
 [arxiv 2024.10] CtrLoRA: An Extensible and Efficient Framework for Controllable Image Generation  [[PDF](https://arxiv.org/abs/2410.09400),[Page](https://github.com/xyfJASON/ctrlora)]
@@ -1657,6 +1662,14 @@ Cross-Attention Control [[PDF](https://arxiv.org/abs/2402.13404)]
 [arxiv 2024.10] Inverse Painting: Reconstructing The Painting Process[[PDF](https://arxiv.org/abs/2409.20556),[Page](https://inversepainting.github.io/)]
 
 [arxiv 2024.10]   [[PDF](),[Page]()]
+
+
+
+## world model 
+[arxiv 2024.10]  AVID: Adapting Video Diffusion Models to World Models [[PDF](https://arxiv.org/abs/2410.12822),[Page](https://github.com/microsoft/causica/tree/main/research_experiments/avid)]
+
+[arxiv 2024.10]   [[PDF](),[Page]()]
+
 
 ## Mesh generation
 [arxiv 2024.09]  EdgeRunner: Auto-regressive Auto-encoder for Artistic Mesh Generation [[PDF](https://arxiv.org/abs/2409.18114),[Page](https://research.nvidia.com/labs/dir/edgerunner/)]
