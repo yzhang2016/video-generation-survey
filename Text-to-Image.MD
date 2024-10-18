@@ -72,6 +72,8 @@
 
 [arxiv 2024.08] Imagen 3[[PDF](https://arxiv.org/abs/2408.07009)]
 
+[arxiv 2024.10] Efficient High-Resolution Image Synthesis with Linear Diffusion Transformer  [[PDF](https://arxiv.org/abs/2410.10629),[Page](https://nvlabs.github.io/Sana/)]
+
 [arxiv 2024.08] [[PDF](),[Page]()]
 
 
