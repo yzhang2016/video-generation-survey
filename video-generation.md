@@ -708,6 +708,7 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2024.09] Pose-Guided Fine-Grained Sign Language Video Generation [[PDF](https://arxiv.org/abs/2409.16709)]
 
+[arxiv 2024.10] VidPanos: Generative Panoramic Videos from Casual Panning Videos [[PDF](https://arxiv.org/abs/2410.13832), [Page](https://vidpanos.github.io/)]
 
 [arxiv 2024.10]  [[PDF](), [Page]()]
 
@@ -742,6 +743,8 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2024.10] PersonalVideo: High ID-Fidelity Video Customization With Static Images [[PDF](https://openreview.net/pdf?id=ndtFyx7UWs),[Page](https://personalvideo.github.io/)]
 
+[arxiv 2024.10] DreamVideo-2: Zero-Shot Subject-Driven Video Customization with Precise Motion Control [[PDF](https://arxiv.org/abs/2410.13830),[Page](https://dreamvideo2.github.io/)]
+
 [arxiv 2024.10]  [[PDF](),[Page]()]
 
 
@@ -772,8 +775,9 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2024.10] MuseTalk: Real-Time High Quality Lip Synchronization with Latent Space Inpainting [[PDF](https://arxiv.org/abs/2410.10122),[Page](https://github.com/TMElyralab/MuseTalk)]
 
-[arxiv 2024.10]  [[PDF](),[Page]()]
+[arxiv 2024.10] DAWN: Dynamic Frame Avatar with Non-autoregressive Diffusion Framework for Talking Head Video Generation [[PDF](https://hanbo-cheng.github.io/DAWN/),[Page](https://hanbo-cheng.github.io/DAWN/)]
 
+[arxiv 2024.10]  [[PDF](),[Page]()]
 
 ## Image-to-video Generation 
 [arxiv 2023.09]VideoGen: A Reference-Guided Latent Diffusion Approach for High Definition Text-to-Video Generation [[PDF](https://arxiv.org/abs/2309.00398)]
@@ -1223,6 +1227,8 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 [arxiv 2024.10] SceneCraft: Layout-Guided 3D Scene Generation [[PDF](https://arxiv.org/abs/2410.09049),[Page](https://orangesodahub.github.io/SceneCraft)]
 
 [arxiv 2024.10] Tex4D: Zero-shot 4D Scene Texturing with Video Diffusion Models [[PDF](https://arxiv.org/abs/2410.10821),[Page](https://tex4d.github.io/)]
+
+[arxiv 2024.10] Diffusion Curriculum: Synthetic-to-Real Generative Curriculum Learning via Image-Guided Diffusion [[PDF](https://arxiv.org/abs/2410.13674),[Page](https://github.com/tianyi-lab/DisCL)]
 
 [arxiv 2024.10]  [[PDF](),[Page]()]
 
