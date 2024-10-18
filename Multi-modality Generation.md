@@ -99,3 +99,9 @@
 [arxiv 2024.10] The Curse of Multi-Modalities: Evaluating Hallucinations of Large Multimodal Models across Language, Visual, and Audio[[PDF](https://arxiv.org/abs/2410.12787)]
 
 
+## audio 
+[arxiv 2024.10] MuVi: Video-to-Music Generation with Semantic Alignment and Rhythmic Synchronization[[PDF](https://arxiv.org/abs/2410.12957)]
+
+[arxiv 2024.10] [[PDF](), [Page]()]
+
+
