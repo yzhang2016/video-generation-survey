@@ -107,9 +107,17 @@
 
 [arxiv 2023.03]Scaling up GANs for Text-to-Image Synthesis[[PDF](https://arxiv.org/abs/2303.05511), [Page](https://mingukkang.github.io/GigaGAN/)]
 
-[arxiv 2023.07]Scaling Autoregressive Multi-Modal Models: Pretraining and Instruction Tuning [[PDF](https://ai.meta.com/research/publications/scaling-autoregressive-multi-modal-models-pretraining-and-instruction-tuning/)]
-
 [arxiv 2023.10]PIXART-α: Fast Training of Diffusion Transformer for Photorealistic Text-to-Image Synthesis [[PDF](https://arxiv.org/abs/2310.00426), [Page](https://pixart-alpha.github.io/)]
+
+[arxiv 2024.08]VAR-CLIP: Text-to-Image Generator with Visual Auto-Regressive Modeling [[PDF](https://arxiv.org/abs/2408.01181),[Page](https://github.com/daixiangzi/VAR-CLIP)]
+
+[arxiv 2024.09]MaskBit: Embedding-free Image Generation via Bit Token [[PDF](https://arxiv.org/abs/2409.16211),[Page](https://weber-mark.github.io/projects/maskbit.html)]
+
+
+[arxiv 2024.10] [[PDF](),[Page]()]
+
+## autoregressive 
+[arxiv 2023.07]Scaling Autoregressive Multi-Modal Models: Pretraining and Instruction Tuning [[PDF](https://ai.meta.com/research/publications/scaling-autoregressive-multi-modal-models-pretraining-and-instruction-tuning/)]
 
 [arxiv 2024.04]Visual Autoregressive Modeling: Scalable Image Generation via Next-Scale Prediction [[PDF](https://arxiv.org/abs/2404.02905), [Page](https://github.com/FoundationVision/VAR)]
 
@@ -117,20 +125,20 @@
 
 [arxiv 2024.06]Autoregressive Image Generation without Vector Quantization [[PDF](https://arxiv.org/abs/2406.11838),]
 
-
 [arxiv 2024.07]MARS: Mixture of Auto-Regressive Models for Fine-grained Text-to-image Synthesis [[PDF](https://arxiv.org/abs/2407.07614),[Page](https://github.com/fusiming3/MARS)]
 
-[arxiv 2024.08]VAR-CLIP: Text-to-Image Generator with Visual Auto-Regressive Modeling [[PDF](https://arxiv.org/abs/2408.01181),[Page](https://github.com/daixiangzi/VAR-CLIP)]
-
 [arxiv 2024.08]Scalable Autoregressive Image Generation with Mamba [[PDF](https://arxiv.org/abs/2408.12245),[Page](https://github.com/hp-l33/AiM)]
-
-[arxiv 2024.09]MaskBit: Embedding-free Image Generation via Bit Token [[PDF](https://arxiv.org/abs/2409.16211),[Page](https://weber-mark.github.io/projects/maskbit.html)]
 
 [arxiv 2024.10] Meissonic: Revitalizing Masked Generative Transformers for Efficient High-Resolution Text-to-Image Synthesis[[PDF](https://arxiv.org/abs/2410.08261),[Page](https://huggingface.co/MeissonFlow/Meissonic)]
 
 [arxiv 2024.10]  DART: Denoising Autoregressive Transformer for Scalable Text-to-Image Generation [[PDF](https://arxiv.org/abs/2410.08159)]
 
+[arxiv 2024.10] Fluid: Scaling Autoregressive Text-to-image Generative Models with Continuous Tokens[[PDF](https://arxiv.org/abs/2410.13863)]
+
 [arxiv 2024.10] [[PDF](),[Page]()]
+
+
+
 
 
 # Generation & Super-resolution 
