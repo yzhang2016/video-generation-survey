@@ -148,7 +148,7 @@ A reading list of video generation
 
 
 
-## Video VAE 
+## Video/Image VAE 
 [arxiv 2024.05]CV-VAE: A Compatible Video VAE for Latent Generative Video Models [[PDF](https://arxiv.org/abs/2405.20279),[Page](https://ailab-cvc.github.io/cvvae/index.html)]
 
 [arxiv 2024.06]OmniTokenizer: A Joint Image-Video Tokenizer for Visual Generation[[PDF](https://arxiv.org/abs/2406.09399),[Page](https://github.com/FoundationVision/OmniTokenizer)]
@@ -156,6 +156,8 @@ A reading list of video generation
 [arxiv 2024.09] OD-VAE: An Omni-dimensional Video Compressor for Improving Latent Video Diffusion Model [[PDF](https://arxiv.org/abs/2409.01199),[Page](https://github.com/PKU-YuanGroup/Open-Sora-Plan)]
 
 [arxiv 2024.10] MotionAura: Generating High-Quality and Motion Consistent Videos using Discrete Diffusion [[PDF](https://arxiv.org/abs/2410.07659),[Page](https://researchgroup12.github.io/Abstract_Diagram.html)]
+
+[arxiv 2024.10] Deep Compression Autoencoder for Efficient High-Resolution Diffusion Models [[PDF](https://arxiv.org/abs/2410.10733),[Page](https://github.com/mit-han-lab/efficientvit)]
 
 [arxiv 2024.10]  [[PDF](),[Page]()]
 
