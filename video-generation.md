@@ -777,6 +777,8 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2024.10] DAWN: Dynamic Frame Avatar with Non-autoregressive Diffusion Framework for Talking Head Video Generation [[PDF](https://hanbo-cheng.github.io/DAWN/),[Page](https://hanbo-cheng.github.io/DAWN/)]
 
+[arxiv 2024.10] Takin-ADA: Emotion Controllable Audio-Driven Animation with Canonical and Landmark Loss Optimization [[PDF](https://arxiv.org/pdf/2410.14283)]
+
 [arxiv 2024.10]  [[PDF](),[Page]()]
 
 ## Image-to-video Generation 
@@ -1214,9 +1216,6 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2023.08]DiffSynth: Latent In-Iteration Deflickering for Realistic Video Synthesis [[PDF](https://arxiv.org/abs/2308.03463)]
 
-## Human and object 
-[arxiv 2024.09] DreamHOI: Subject-Driven Generation of 3D Human-Object Interactions with Diffusion Priors[[PDF](https://arxiv.org/abs/2409.08278),[Page](https://dreamhoi.github.io/)]
-
 
 
 ## CG2real
@@ -1230,11 +1229,15 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2024.10] Diffusion Curriculum: Synthetic-to-Real Generative Curriculum Learning via Image-Guided Diffusion [[PDF](https://arxiv.org/abs/2410.13674),[Page](https://github.com/tianyi-lab/DisCL)]
 
+[arxiv 2024.10] FashionR2R: Texture-preserving Rendered-to-Real Image Translation with Diffusion Models [[PDF](https://arxiv.org/pdf/2410.14429),[Page](https://rickhh.github.io/FashionR2R/)]
+
 [arxiv 2024.10]  [[PDF](),[Page]()]
 
 # video2game
+[arxiv 2024.06] AVID: Adapting Video Diffusion Models to World Models [[PDF](),[Page](https://sites.google.com/view/avid-world-model-adapters/home)]
 
 [arxiv 2024.09] Video Game Generation: A Practical Study using Mario [[PDF](https://virtual-protocol.github.io/mario-videogamegen/static/pdfs/VideoGameGen.pdf),[Page](https://virtual-protocol.github.io/mario-videogamegen/)]
+
 
 [arxiv 2024.10]  [[PDF](),[Page]()]
 
