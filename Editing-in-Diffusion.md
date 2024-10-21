@@ -397,8 +397,9 @@
 
 [arxiv 2024.10] MambaPainter: Neural Stroke-Based Rendering in a Single Step[[PDF](https://arxiv.org/abs/2410.12524)]
 
-[arxiv 2024.10]   [[PDF](),[Page]()]
+[arxiv 2024.10] ERDDCI: Exact Reversible Diffusion via Dual-Chain Inversion for High-Quality Image Editing  [[PDF](https://arxiv.org/abs/2410.14247)]
 
+[arxiv 2024.10]   [[PDF](),[Page]()]
 
 
 ## Unified Generation
@@ -609,6 +610,8 @@
 [arxiv 2024.10]  Diffusion Models Need Visual Priors for Image Generation [[PDF](https://arxiv.org/abs/2410.08531)]
 
 [arxiv 2024.10] Improving Long-Text Alignment for Text-to-Image Diffusion Models  [[PDF](https://arxiv.org/abs/2410.11817),[Page](https://github.com/luping-liu/LongAlign)]
+
+[arxiv 2024.10] Dynamic Negative Guidance of Diffusion Models[[PDF](https://arxiv.org/abs/2410.14398)]
 
 [arxiv 2024.10]   [[PDF](),[Page]()]
 
@@ -1390,8 +1393,10 @@ Cross-Attention Control [[PDF](https://arxiv.org/abs/2402.13404)]
 
 [arxiv 2024.10]  3DIS: Depth-Driven Decoupled Instance Synthesis for Text-to-Image Generation [[PDF](https://arxiv.org/abs/2410.12669),[Page](https://github.com/limuloo/3DIS)]
 
-[arxiv 2024.10]   [[PDF](),[Page]()]
+[arxiv 2024.10] HiCo: Hierarchical Controllable Diffusion Model for Layout-to-image Generation [[PDF](https://arxiv.org/abs/2410.14324),[Page]()]
 
+
+[arxiv 2024.10]   [[PDF](),[Page]()]
 
 ## Image Variation 
 [arxiv 2023.08]IP-Adapter: Text Compatible Image Prompt Adapter for Text-to-Image Diffusion Models [[PDF](https://arxiv.org/pdf/2308.06721.pdf), [Page](https://ip-adapter.github.io/)]
@@ -1816,6 +1821,8 @@ Cross-Attention Control [[PDF](https://arxiv.org/abs/2402.13404)]
 [arxiv 2024.10]  Efficient Diffusion Models: A Comprehensive Survey from Principles to Practices[[PDF](https://arxiv.org/abs/2410.11795),[Page](https://github.com/ponyzym/Efficient-DMs-Survey)]
 
 [arxiv 2024.10] One Step Diffusion via Shortcut Models  [[PDF](https://arxiv.org/abs/2410.12557),[Page](https://github.com/kvfrans/shortcut-models)]
+
+[arxiv 2024.10] BiGR: Harnessing Binary Latent Codes for Image Generation and Improved Visual Representation Capabilities [[PDF](https://arxiv.org/abs/2410.14672),[Page](https://haoosz.github.io/BiGR)]
 
 
 [arxiv 2024.10]   [[PDF](),[Page]()]
