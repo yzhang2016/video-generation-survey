@@ -11,6 +11,10 @@
 
 [arxiv 2024.10] MotionBank: A Large-scale Video Motion Benchmark with Disentangled Rule-based Annotations  [[PDF](),[Page]()]
 
+[arxiv 2024.10] Multi-modal Pose Diffuser: A Multimodal Generative Conditional Pose Prior  [[PDF](https://arxiv.org/abs/2410.14540)]
+
+[arxiv 2024.10] LEAD: Latent Realignment for Human Motion Diffusion  [[PDF](https://arxiv.org/pdf/2410.14508)]
+
 [arxiv 2024.10]   [[PDF](),[Page]()]
 
 
@@ -27,6 +31,11 @@
 
 ## Human Interaction 
 [arxiv 2024.10]  Sitcom-Crafter: A Plot-Driven Human Motion Generation System in 3D Scenes [[PDF](https://arxiv.org/abs/2410.10790),[Page](https://windvchen.github.io/Sitcom-Crafter/)]
+
+[arxiv 2024.09] DreamHOI: Subject-Driven Generation of 3D Human-Object Interactions with Diffusion Priors[[PDF](https://arxiv.org/abs/2409.08278),[Page](https://dreamhoi.github.io/)]
+
+[arxiv 2024.10] GraspDiffusion: Synthesizing Realistic Whole-body Hand-Object Interaction [[PDF](https://arxiv.org/abs/2410.13911),[Page]()]
+
 
 [arxiv 2024.10]   [[PDF](),[Page]()]
 
