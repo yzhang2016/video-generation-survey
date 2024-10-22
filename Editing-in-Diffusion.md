@@ -1524,6 +1524,8 @@ Cross-Attention Control [[PDF](https://arxiv.org/abs/2402.13404)]
 
 [arxiv 2024.10] ConsisSR: Delving Deep into Consistency in Diffusion-based Image Super-Resolution  [[PDF](https://arxiv.org/abs/2410.13807)]
 
+[arxiv 2024.10] ClearSR: Latent Low-Resolution Image Embeddings Help Diffusion-Based Real-World Super Resolution Models See Clearer  [[PDF](https://arxiv.org/abs/2410.14279)
+
 [arxiv 2024.10]   [[PDF](),[Page]()]
 
 ## translation 
