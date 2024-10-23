@@ -105,3 +105,7 @@
 [arxiv 2024.10] [[PDF](), [Page]()]
 
 
+## speed 
+[arxiv 2024.10]PyramidDrop: Accelerating Your Large Vision-Language Models via Pyramid Visual Redundancy Reduction[[PDF](https://arxiv.org/abs/2410.17247), [Page]()]
+
+[arxiv 2024.10] [[PDF](), [Page]()]
