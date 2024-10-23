@@ -613,7 +613,12 @@
 
 [arxiv 2024.10] Dynamic Negative Guidance of Diffusion Models[[PDF](https://arxiv.org/abs/2410.14398)]
 
+[arxiv 2024.10] GraspDiffusion: Synthesizing Realistic Whole-body Hand-Object Interaction [[PDF](https://arxiv.org/abs/2410.13911),[Page]()]
+
+
 [arxiv 2024.10]   [[PDF](),[Page]()]
+
+
 
 
 ## VAE 
@@ -722,9 +727,9 @@
 
 [arxiv 2024.10] CtrlSynth: Controllable Image Text Synthesis for Data-Efficient Multimodal Learning  [[PDF](https://arxiv.org/abs/2410.11963)]
 
+[arxiv 2024.10] Altogether: Image Captioning via Re-aligning Alt-text  [[PDF](https://arxiv.org/abs/2410.17251),[Page]()]
+
 [arxiv 2024.10]   [[PDF](),[Page]()]
-
-
 
 ## face swapping 
 [arxiv 2024.03]Infinite-ID: Identity-preserved Personalization via ID-semantics Decoupling Paradigm [[PDF](https://arxiv.org/abs/2403.11781),[Page](https://infinite-id.github.io/)]
@@ -1826,6 +1831,7 @@ Cross-Attention Control [[PDF](https://arxiv.org/abs/2402.13404)]
 
 [arxiv 2024.10] BiGR: Harnessing Binary Latent Codes for Image Generation and Improved Visual Representation Capabilities [[PDF](https://arxiv.org/abs/2410.14672),[Page](https://haoosz.github.io/BiGR)]
 
+[arxiv 2024.10] One-Step Diffusion Distillation through Score Implicit Matching  [[PDF](https://arxiv.org/abs/2410.16794),[Page]()]
 
 [arxiv 2024.10]   [[PDF](),[Page]()]
 
