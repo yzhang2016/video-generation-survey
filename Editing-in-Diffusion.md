@@ -615,6 +615,7 @@
 
 [arxiv 2024.10] GraspDiffusion: Synthesizing Realistic Whole-body Hand-Object Interaction [[PDF](https://arxiv.org/abs/2410.13911),[Page]()]
 
+[arxiv 2024.10]  Progressive Compositionality In Text-to-Image Generative Models [[PDF](https://arxiv.org/abs/2410.16719),[Page](https://github.com/evansh666/EvoGen)]
 
 [arxiv 2024.10]   [[PDF](),[Page]()]
 
@@ -1400,6 +1401,7 @@ Cross-Attention Control [[PDF](https://arxiv.org/abs/2402.13404)]
 
 [arxiv 2024.10] HiCo: Hierarchical Controllable Diffusion Model for Layout-to-image Generation [[PDF](https://arxiv.org/abs/2410.14324),[Page]()]
 
+[arxiv 2024.10] TopoDiffusionNet: A Topology-aware Diffusion Model  [[PDF](https://arxiv.org/abs/2410.16646)]
 
 [arxiv 2024.10]   [[PDF](),[Page]()]
 
@@ -1832,6 +1834,8 @@ Cross-Attention Control [[PDF](https://arxiv.org/abs/2402.13404)]
 [arxiv 2024.10] BiGR: Harnessing Binary Latent Codes for Image Generation and Improved Visual Representation Capabilities [[PDF](https://arxiv.org/abs/2410.14672),[Page](https://haoosz.github.io/BiGR)]
 
 [arxiv 2024.10] One-Step Diffusion Distillation through Score Implicit Matching  [[PDF](https://arxiv.org/abs/2410.16794),[Page]()]
+
+[arxiv 2024.10] DiP-GO: A Diffusion Pruner via Few-step Gradient Optimization  [[PDF](https://arxiv.org/abs/2410.16942)]
 
 [arxiv 2024.10]   [[PDF](),[Page]()]
 
