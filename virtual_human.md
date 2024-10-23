@@ -45,4 +45,6 @@
 ## environment 
 [arxiv 2024.10] DepthSplat：Connecting Gaussian Splatting and Depth  [[PDF](https://arxiv.org/abs/2410.13862),[Page](https://haofeixu.github.io/depthsplat/)]
 
+[arxiv 2024.10] Long-LRM: Long-sequence Large Reconstruction Model for Wide-coverage Gaussian Splats  [[PDF](https://arxiv.org/abs/2410.12781),[Page](https://arthurhero.github.io/projects/llrm/)]
+
 [arxiv 2024.10]   [[PDF](),[Page]()]
