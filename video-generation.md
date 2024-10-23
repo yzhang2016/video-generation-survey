@@ -33,7 +33,9 @@ A reading list of video generation
 
 * **opensora** [[Page](https://github.com/hpcaitech/Open-Sora)]
 
-*  **easyanimate** [[Page](https://github.com/aigc-apps/EasyAnimate)] 
+*  **easyanimate** [[Page](https://github.com/aigc-apps/EasyAnimate)]
+
+*  **Mochi from Genmo** [[Page](https://huggingface.co/genmo/mochi-1-preview#running)]
 
 ### Non-open source
 
