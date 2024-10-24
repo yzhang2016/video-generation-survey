@@ -1240,6 +1240,9 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 # video2game
 [arxiv 2024.06] AVID: Adapting Video Diffusion Models to World Models [[PDF](),[Page](https://sites.google.com/view/avid-world-model-adapters/home)]
 
+[arxiv 2024.08]Diffusion Models Are Real-Time Game Engines [[PDF](https://arxiv.org/abs/2408.14837),[Page](https://gamengen.github.io/)]
+
+
 [arxiv 2024.09] Video Game Generation: A Practical Study using Mario [[PDF](https://virtual-protocol.github.io/mario-videogamegen/static/pdfs/VideoGameGen.pdf),[Page](https://virtual-protocol.github.io/mario-videogamegen/)]
 
 
