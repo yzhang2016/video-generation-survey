@@ -1837,6 +1837,8 @@ Cross-Attention Control [[PDF](https://arxiv.org/abs/2402.13404)]
 
 [arxiv 2024.10] DiP-GO: A Diffusion Pruner via Few-step Gradient Optimization  [[PDF](https://arxiv.org/abs/2410.16942)]
 
+[arxiv 2024.10] Simplifying, stabilizing, and scaling continuous-time consistency models  [[PDF](https://arxiv.org/abs/2410.11081),[Page](https://openai.com/index/simplifying-stabilizing-and-scaling-continuous-time-consistency-models/)]
+
 [arxiv 2024.10]   [[PDF](),[Page]()]
 
 
