@@ -345,7 +345,9 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2024.08] CogVideoX: Text-to-Video Diffusion Models with An Expert Transformer  [[PDF](https://arxiv.org/abs/2408.06072),[Page](https://github.com/THUDM/CogVideo)]
 
-[arxiv 2024.08]   [[PDF](),[Page]()]
+[arxiv 2024.10] Allegro: Open the Black Box of Commercial-Level Video Generation Model  [[PDF](https://arxiv.org/abs/2410.15458),[Page](https://rhymes.ai/allegro_gallery)]
+
+[arxiv 2024.10]   [[PDF](),[Page]()]
 
 ## State Space-based 
 [arxiv 2024.03]SSM Meets Video Diffusion Models: Efficient Video Generation with Structured State Spaces [[PDF](https://arxiv.org/abs/2403.07711),[Page](https://github.com/shim0114/SSM-Meets-Video-Diffusion-Models)]
@@ -604,8 +606,9 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2024.10] Cavia: Camera-controllable Multi-view Video Diffusion with View-Integrated Attention [[PDF](https://arxiv.org/abs/2410.10774),[Page](https://ir1d.github.io/Cavia/)]
 
-[arxiv 2024.10]  [[PDF](),[Page]()]
+[arxiv 2024.10] CamI2V: Camera-Controlled Image-to-Video Diffusion Model [[PDF](https://arxiv.org/abs/2410.15957),[Page](https://zgctroy.github.io/CamI2V/)]
 
+[arxiv 2024.10]  [[PDF](),[Page]()]
 
 ## inpainting / outpainting 
 [MM 2023.09]Hierarchical Masked 3D Diffusion Model for Video Outpainting [[PDF](https://arxiv.org/abs/2309.02119)]
@@ -845,6 +848,8 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2024.09] PhysGen: Rigid-Body Physics-Grounded Image-to-Video Generation [[PDF](https://arxiv.org/abs/2409.18964),[Page](https://stevenlsw.github.io/physgen/)]
 
+[arxiv 2024.10] FrameBridge: Improving Image-to-Video Generation with Bridge Models [[PDF](https://arxiv.org/abs/2410.15371),[Page](https://framebridge-demo.github.io/)]
+
 [arxiv 2024.10]  [[PDF](),[Page]()]
 
 
@@ -1073,7 +1078,7 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2024.10] High-Resolution Frame Interpolation with Patch-based Cascaded Diffusion [[PDF](https://arxiv.org/abs/2410.11838),[Page](https://hifi-diffusion.github.io/)]
 
-
+[arxiv 2024.10] Framer: Interactive Frame Interpolation [[PDF](https://arxiv.org/abs/2410.18978),[Page](https://aim-uofa.github.io/Framer/)]
 
 [arxiv 2024.10]  [[PDF](),[Page]()]
 
@@ -1237,7 +1242,7 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2024.10]  [[PDF](),[Page]()]
 
-# video2game
+# world model & interactive generation
 [arxiv 2024.06] AVID: Adapting Video Diffusion Models to World Models [[PDF](),[Page](https://sites.google.com/view/avid-world-model-adapters/home)]
 
 [arxiv 2024.08]Diffusion Models Are Real-Time Game Engines [[PDF](https://arxiv.org/abs/2408.14837),[Page](https://gamengen.github.io/)]
@@ -1245,6 +1250,11 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2024.09] Video Game Generation: A Practical Study using Mario [[PDF](https://virtual-protocol.github.io/mario-videogamegen/static/pdfs/VideoGameGen.pdf),[Page](https://virtual-protocol.github.io/mario-videogamegen/)]
 
+[arxiv 2024.10] FreeVS: Generative View Synthesis on Free Driving Trajectory [[PDF](https://arxiv.org/abs/2410.18079),[Page](https://freevs24.github.io/)]
+
+[arxiv 2024.10] WorldSimBench: Towards Video Generation Models as World Simulators [[PDF](https://arxiv.org/abs/2410.18072),[Page](https://iranqin.github.io/WorldSimBench.github.io/)]
+
+[arxiv 2024.10] Agent-to-Sim: Learning Interactive Behavior Models from Casual Longitudinal Videos [[PDF](https://arxiv.org/abs/2410.16259),[Page](https://gengshan-y.github.io/agent2sim-www/)]
 
 [arxiv 2024.10]  [[PDF](),[Page]()]
 
