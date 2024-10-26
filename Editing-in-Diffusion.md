@@ -399,8 +399,9 @@
 
 [arxiv 2024.10] ERDDCI: Exact Reversible Diffusion via Dual-Chain Inversion for High-Quality Image Editing  [[PDF](https://arxiv.org/abs/2410.14247)]
 
-[arxiv 2024.10]   [[PDF](),[Page]()]
+[arxiv 2024.10] Schedule Your Edit: A Simple yet Effective Diffusion Noise Schedule for Image Editing  [[PDF](https://arxiv.org/abs/2410.18756)]
 
+[arxiv 2024.10]   [[PDF](),[Page]()]
 
 ## Unified Generation
 
@@ -436,6 +437,10 @@
 [arxiv 2024.08] AnyDesign: Versatile Area Fashion Editing via Mask-Free Diffusion [[PDF](https://arxiv.org/abs/2408.11553)]
 
 [arxiv 2024.10]   [[PDF](),[Page]()]
+
+
+
+
 
 ## Distribution 
 
@@ -1020,6 +1025,9 @@
 
 [arxiv 2024.10] MagicTailor: Component-Controllable Personalization in Text-to-Image Diffusion Models  [[PDF](https://arxiv.org/abs/2410.13370),[Page](https://correr-zhou.github.io/MagicTailor)]
 
+[arxiv 2024.10] Unbounded: A Generative Infinite Game of Character Life Simulation  [[PDF](https://arxiv.org/abs/2410.18975),[Page](https://generative-infinite-game.github.io/)]
+
+[arxiv 2024.10] How to Continually Adapt Text-to-Image Diffusion Models for Flexible Customization?  [[PDF](https://arxiv.org/abs/2410.17594),[Page](https://github.com/JiahuaDong/CIFC)]
 
 [arxiv 2024.10]   [[PDF](),[Page]()]
 
@@ -1533,7 +1541,12 @@ Cross-Attention Control [[PDF](https://arxiv.org/abs/2402.13404)]
 
 [arxiv 2024.10] ClearSR: Latent Low-Resolution Image Embeddings Help Diffusion-Based Real-World Super Resolution Models See Clearer  [[PDF](https://arxiv.org/abs/2410.14279)
 
+[arxiv 2024.10]  Multi-Scale Diffusion: Enhancing Spatial Layout in High-Resolution Panoramic Image Generation [[PDF](https://arxiv.org/abs/2410.18830)]
+
+[arxiv 2024.10] LoRA-IR: Taming Low-Rank Experts for Efficient All-in-One Image Restoration  [[PDF](https://arxiv.org/abs/2410.15385)]
+
 [arxiv 2024.10]   [[PDF](),[Page]()]
+
 
 ## translation 
 [arxiv 2024.10] CtrLoRA: An Extensible and Efficient Framework for Controllable Image Generation  [[PDF](https://arxiv.org/abs/2410.09400),[Page](https://github.com/xyfJASON/ctrlora)]
@@ -1839,8 +1852,21 @@ Cross-Attention Control [[PDF](https://arxiv.org/abs/2402.13404)]
 
 [arxiv 2024.10] Simplifying, stabilizing, and scaling continuous-time consistency models  [[PDF](https://arxiv.org/abs/2410.11081),[Page](https://openai.com/index/simplifying-stabilizing-and-scaling-continuous-time-consistency-models/)]
 
+[arxiv 2024.10] Fast constrained sampling in pre-trained diffusion models  [[PDF](https://arxiv.org/abs/2410.18804)]
+
 [arxiv 2024.10]   [[PDF](),[Page]()]
 
+
+## consistency model 
+[arxiv 2024.10] Simplifying, stabilizing, and scaling continuous-time consistency models  [[PDF](https://arxiv.org/abs/2410.11081),[Page](https://openai.com/index/simplifying-stabilizing-and-scaling-continuous-time-consistency-models/)]
+
+[arxiv 2023.06]Latent Consistency Models: Synthesizing High-Resolution Images with Few-Step Inference [[PDF](https://arxiv.org/abs/2310.04378)]
+
+[arxiv 2024.10]  Stable Consistency Tuning: Understanding and Improving Consistency Models [[PDF](https://arxiv.org/abs/2410.18958),[Page](https://github.com/G-U-N/Stable-Consistency-Tuning)]
+
+[arxiv 2024.10] Truncated Consistency Models  [[PDF](https://arxiv.org/abs/2410.14895),[Page](https://truncated-cm.github.io/)]
+
+[arxiv 2024.10]   [[PDF](),[Page]()]
 
 ## limited data 
 [arxiv 2023.06]Decompose and Realign: Tackling Condition Misalignment in Text-to-Image Diffusion Models [[PDF](https://arxiv.org/abs/2306.14153)]
@@ -1938,6 +1964,10 @@ Cross-Attention Control [[PDF](https://arxiv.org/abs/2402.13404)]
 [arxiv 2024.08] I2EBench: A Comprehensive Benchmark for Instruction-based Image Editing[[PDF](https://arxiv.org/abs/2408.14180), [Page](https://github.com/cocoshe/I2EBench)]
 
 [arxiv 2024.10]  IterComp: Iterative Composition-Aware Feedback Learning from Model Gallery for Text-to-Image Generation [[PDF](https://arxiv.org/abs/2410.07171),[Page](https://github.com/YangLing0818/IterComp)]
+
+[arxiv 2024.10] Scalable Ranked Preference Optimization for Text-to-Image Generation  [[PDF](https://arxiv.org/abs/2410.18013),[Page](https://snap-research.github.io/RankDPO/)]
+
+
 
 [arxiv 2024.10]   [[PDF](),[Page]()]
 
