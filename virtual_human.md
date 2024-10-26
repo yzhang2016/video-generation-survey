@@ -15,6 +15,8 @@
 
 [arxiv 2024.10] LEAD: Latent Realignment for Human Motion Diffusion  [[PDF](https://arxiv.org/pdf/2410.14508)]
 
+[arxiv 2024.10]  MotionCLR: Motion Generation and Training-free Editing via Understanding Attention Mechanisms [[PDF](https://arxiv.org/abs/2410.18977),[Page](https://lhchen.top/MotionCLR/)]
+
 [arxiv 2024.10]   [[PDF](),[Page]()]
 
 
