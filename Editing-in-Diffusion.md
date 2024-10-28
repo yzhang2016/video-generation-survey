@@ -704,8 +704,15 @@
 [arxiv 2024.10]   [[PDF](),[Page]()]
 
 
-## Model adapatation 
+## Model adapatation/Merge 
 [arxiv 2023.12]X-Adapter: Adding Universal Compatibility of Plugins for Upgraded Diffusion Model [[PDF](https://arxiv.org/abs/2312.02238),[Page](https://showlab.github.io/X-Adapter/)]
+
+[arxiv 2024.10]  Model merging with SVD to tie the Knots [[PDF](https://arxiv.org/abs/2410.19735),[Page](https://github.com/gstoica27/KnOTS)]
+
+
+[arxiv 2024.10]   [[PDF](),[Page]()]
+
+
 
 
 ## Text 
@@ -1854,8 +1861,9 @@ Cross-Attention Control [[PDF](https://arxiv.org/abs/2402.13404)]
 
 [arxiv 2024.10] Fast constrained sampling in pre-trained diffusion models  [[PDF](https://arxiv.org/abs/2410.18804)]
 
-[arxiv 2024.10]   [[PDF](),[Page]()]
+[arxiv 2024.10]  Flow Generator Matching [[PDF](https://arxiv.org/abs/2410.19310),[Page]()]
 
+[arxiv 2024.10]   [[PDF](),[Page]()]
 
 ## consistency model 
 [arxiv 2024.10] Simplifying, stabilizing, and scaling continuous-time consistency models  [[PDF](https://arxiv.org/abs/2410.11081),[Page](https://openai.com/index/simplifying-stabilizing-and-scaling-continuous-time-consistency-models/)]
