@@ -436,9 +436,9 @@
 
 [arxiv 2024.08] AnyDesign: Versatile Area Fashion Editing via Mask-Free Diffusion [[PDF](https://arxiv.org/abs/2408.11553)]
 
+[arxiv 2024.10] On Inductive Biases That Enable Generalization of Diffusion Transformers  [[PDF](https://arxiv.org/abs/2410.21273),[Page](https://dit-generalization.github.io/)]
+
 [arxiv 2024.10]   [[PDF](),[Page]()]
-
-
 
 
 
@@ -646,6 +646,8 @@
 [arxiv 2024.10] CAR: Controllable Autoregressive Modeling for Visual Generation  [[PDF](https://arxiv.org/abs/2410.04671),[Page](https://github.com/MiracleDance/CAR)]
 
 [arxiv 2024.10]  Stabilize the Latent Space for Image Autoregressive Modeling: A Unified Perspective [[PDF](https://arxiv.org/abs/2410.12490),[Page](https://github.com/DAMO-NLP-SG/DiGIT)]
+
+[arxiv 2024.10] LARP: Tokenizing Videos with a Learned Autoregressive Generative Prior  [[PDF](https://arxiv.org/abs/2410.21264),[Page](https://hywang66.github.io/larp/)]
 
 [arxiv 2024.10]   [[PDF](),[Page]()]
 
@@ -1040,6 +1042,8 @@
 [arxiv 2024.10] How to Continually Adapt Text-to-Image Diffusion Models for Flexible Customization?  [[PDF](https://arxiv.org/abs/2410.17594),[Page](https://github.com/JiahuaDong/CIFC)]
 
 [arxiv 2024.10] RelationBooth: Towards Relation-Aware Customized Object Generation  [[PDF](https://arxiv.org/abs/2410.23280),[Page](https://shi-qingyu.github.io/RelationBooth/)]
+
+[arxiv 2024.10] Novel Object Synthesis via Adaptive Text-Image Harmony  [[PDF](https://arxiv.org/abs/2410.20823),[Page](https://xzr52.github.io/ATIH/)]
 
 [arxiv 2024.10]   [[PDF](),[Page]()]
 
@@ -1881,7 +1885,10 @@ Cross-Attention Control [[PDF](https://arxiv.org/abs/2402.13404)]
 
 [arxiv 2024.10] Multi-student Diffusion Distillation for Better One-step Generators [[PDF](https://arxiv.org/abs/2410.23274),[Page](https://research.nvidia.com/labs/toronto-ai/MSD/)]
 
+[arxiv 2024.10] Diff-Instruct*: Towards Human-Preferred One-step Text-to-image Generative Models  [[PDF](https://arxiv.org/abs/2410.20898),[Page]()]
+
 [arxiv 2024.10]   [[PDF](),[Page]()]
+
 
 ## consistency model 
 [arxiv 2024.10] Simplifying, stabilizing, and scaling continuous-time consistency models  [[PDF](https://arxiv.org/abs/2410.11081),[Page](https://openai.com/index/simplifying-stabilizing-and-scaling-continuous-time-consistency-models/)]
