@@ -1256,6 +1256,9 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2024.10] Agent-to-Sim: Learning Interactive Behavior Models from Casual Longitudinal Videos [[PDF](https://arxiv.org/abs/2410.16259),[Page](https://gengshan-y.github.io/agent2sim-www/)]
 
+[arxiv 2024.10] SlowFast-VGen: Slow-Fast Learning for Action-Driven Long Video Generation [[PDF](https://arxiv.org/abs/2410.23277),[Page](https://slowfast-vgen.github.io/)]
+
+
 [arxiv 2024.10]  [[PDF](),[Page]()]
 
 ## CV Related 
@@ -1276,6 +1279,12 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 [arxiv 2024] MAGVIT-V2 : Language Model Beats Diffusion -- Tokenizer is Key to Visual Generation [[PDF](https://arxiv.org/abs/2310.05737)]
 
 [arxiv 2024.08]Sapiens: Foundation for Human Vision Models [[PDF](https://arxiv.org/abs/2408.12569),[Page](https://about.meta.com/realitylabs/codecavatars/sapiens)]
+
+
+[arxiv 2024.10] ReferEverything: Towards Segmenting Everything We Can Speak of in Videos [[PDF](https://arxiv.org/abs/2410.23287),[Page](https://miccooper9.github.io/projects/ReferEverything/)]
+
+
+[arxiv 2024.10]  [[PDF](),[Page]()]
 
 
 ## NLP related
