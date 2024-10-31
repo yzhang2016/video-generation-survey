@@ -448,6 +448,9 @@
 
 [arxiv 2024.10] Simple ReFlow: Improved Techniques for Fast Flow Models  [[PDF](https://arxiv.org/abs/2410.07815),[Page]()]
 
+[arxiv 2024.10] Consistency Diffusion Bridge Models  [[PDF](https://arxiv.org/abs/2410.22637)]
+
+
 [arxiv 2024.10]   [[PDF](),[Page]()]
 
 ## LLMs for editing 
@@ -1036,6 +1039,8 @@
 
 [arxiv 2024.10] How to Continually Adapt Text-to-Image Diffusion Models for Flexible Customization?  [[PDF](https://arxiv.org/abs/2410.17594),[Page](https://github.com/JiahuaDong/CIFC)]
 
+[arxiv 2024.10] RelationBooth: Towards Relation-Aware Customized Object Generation  [[PDF](https://arxiv.org/abs/2410.23280),[Page](https://shi-qingyu.github.io/RelationBooth/)]
+
 [arxiv 2024.10]   [[PDF](),[Page]()]
 
 
@@ -1420,6 +1425,8 @@ Cross-Attention Control [[PDF](https://arxiv.org/abs/2402.13404)]
 
 [arxiv 2024.10]   [[PDF](),[Page]()]
 
+[arxiv 2024.10]   [[PDF](),[Page]()]
+
 ## Image Variation 
 [arxiv 2023.08]IP-Adapter: Text Compatible Image Prompt Adapter for Text-to-Image Diffusion Models [[PDF](https://arxiv.org/pdf/2308.06721.pdf), [Page](https://ip-adapter.github.io/)]
 
@@ -1551,6 +1558,9 @@ Cross-Attention Control [[PDF](https://arxiv.org/abs/2402.13404)]
 [arxiv 2024.10]  Multi-Scale Diffusion: Enhancing Spatial Layout in High-Resolution Panoramic Image Generation [[PDF](https://arxiv.org/abs/2410.18830)]
 
 [arxiv 2024.10] LoRA-IR: Taming Low-Rank Experts for Efficient All-in-One Image Restoration  [[PDF](https://arxiv.org/abs/2410.15385)]
+
+[arxiv 2024.10] FlowDCN: Exploring DCN-like Architectures for Fast Image Generation with Arbitrary Resolution  [[PDF](https://arxiv.org/abs/2410.22655)]
+
 
 [arxiv 2024.10]   [[PDF](),[Page]()]
 
@@ -1736,6 +1746,12 @@ Cross-Attention Control [[PDF](https://arxiv.org/abs/2402.13404)]
 
 [arxiv 2023.07]DreamIdentity: Improved Editability for Efficient Face-identity Preserved Image Generation [[PDF](https://arxiv.org/abs/2307.00300),[Page](https://dreamidentity.github.io/)]
 
+[arxiv 2024.10] FuseAnyPart: Diffusion-Driven Facial Parts Swapping via Multiple Reference Images  [[PDF](https://arxiv.org/abs/2410.22771),[Page](https://thomas-wyh.github.io/)]
+
+[arxiv 2024.10]   [[PDF](),[Page]()]
+
+
+
 ## scene composition
 [arxiv 2023.02]MIXTURE OF DIFFUSERS FOR SCENE COMPOSITION AND HIGH RESOLUTION IMAGE GENERATION [[PDF](https://arxiv.org/abs/2302.02412)]
 
@@ -1863,6 +1879,8 @@ Cross-Attention Control [[PDF](https://arxiv.org/abs/2402.13404)]
 
 [arxiv 2024.10]  Flow Generator Matching [[PDF](https://arxiv.org/abs/2410.19310),[Page]()]
 
+[arxiv 2024.10] Multi-student Diffusion Distillation for Better One-step Generators [[PDF](https://arxiv.org/abs/2410.23274),[Page](https://research.nvidia.com/labs/toronto-ai/MSD/)]
+
 [arxiv 2024.10]   [[PDF](),[Page]()]
 
 ## consistency model 
@@ -1954,6 +1972,8 @@ Cross-Attention Control [[PDF](https://arxiv.org/abs/2402.13404)]
 
 [arxiv 2024.08]E-Bench: Subjective-Aligned Benchmark Suite for Text-Driven Video Editing Quality Assessment [[PDF](https://arxiv.org/abs/2408.11481)]
 
+[arxiv 2024.10] GRADE: Quantifying Sample Diversity in Text-to-Image Models  [[PDF](https://arxiv.org/abs/2410.22592),[Page](https://royira.github.io/GRADE/)]
+
 [arxiv 2024.10]   [[PDF](),[Page]()]
 
 ## Feedback
@@ -1975,7 +1995,7 @@ Cross-Attention Control [[PDF](https://arxiv.org/abs/2402.13404)]
 
 [arxiv 2024.10] Scalable Ranked Preference Optimization for Text-to-Image Generation  [[PDF](https://arxiv.org/abs/2410.18013),[Page](https://snap-research.github.io/RankDPO/)]
 
-
+[arxiv 2024.10] PrefPaint: Aligning Image Inpainting Diffusion Model with Human Preference  [[PDF](https://arxiv.org/abs/2410.21966),[Page](https://prefpaint.github.io/)]
 
 [arxiv 2024.10]   [[PDF](),[Page]()]
 
