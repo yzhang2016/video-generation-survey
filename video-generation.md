@@ -219,6 +219,9 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2024.10] Loong: Generating Minute-level Long Videos with Autoregressive Language Models [[PDF](https://arxiv.org/abs/2410.02757), [Page](https://epiphqny.github.io/Loong-video/)]
 
+[arxiv 2024.10] LARP: Tokenizing Videos with a Learned Autoregressive Generative Prior  [[PDF](https://arxiv.org/abs/2410.21264),[Page](https://hywang66.github.io/larp/)]
+
+
 [arxiv 2024.10]  [[PDF](), [Page]()]
 
 
@@ -330,6 +333,8 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 [arxiv 2024.10] Movie Gen: A Cast of Media Foundation Models [[PDF](https://ai.meta.com/static-resource/movie-gen-research-paper), [Page]()]
 
 [arxiv 2024.10] MotionAura: Generating High-Quality and Motion Consistent Videos using Discrete Diffusion [[PDF](https://arxiv.org/abs/2410.07659),[Page](https://researchgroup12.github.io/Abstract_Diagram.html)]
+
+[arxiv 2024.10] MarDini: Masked Autoregressive Diffusion for Video Generation at Scale [[PDF](https://arxiv.org/abs/2410.20280), [Page](https://mardini-vidgen.github.io/)]
 
 [arxiv 2024.10]  [[PDF](), [Page]()]
 
@@ -444,6 +449,8 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 [arxiv 2024.09] DiVE: DiT-based Video Generation with Enhanced Control [[PDF](https://arxiv.org/abs/2409.01595), [Page](https://liautoad.github.io/DIVE/)]
 
 [arxiv 2024.10] Progressive Autoregressive Video Diffusion Models [[PDF](https://arxiv.org/abs/2410.08151), [Page](https://desaixie.github.io/pa-vdm/)]
+
+[arxiv 2024.10] ARLON: Boosting Diffusion Transformers with Autoregressive Models for Long Video Generation [[PDF](https://arxiv.org/abs/2410.20502), [Page](https://arlont2v.github.io/)]
 
 [arxiv 2024.10]  [[PDF](), [Page]()]
 
@@ -564,6 +571,8 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 [arxiv 2024.10] MIMO: Controllable Character Video Synthesis with Spatial Decomposed Modeling [[PDF](http://arxiv.org/abs/2409.16160),[Page](https://menyifang.github.io/projects/MIMO/index.html)]
 
 [arxiv 2024.10] DragEntity: Trajectory Guided Video Generation using Entity and Positional Relationships [[PDF](https://arxiv.org/abs/2410.10751)]
+
+[arxiv 2024.10] MovieCharacter: A Tuning-Free Framework for Controllable Character Video Synthesis [[PDF](https://arxiv.org/abs/2410.20974),[Page](https://moviecharacter.github.io/)]
 
 [arxiv 2024.10]  [[PDF](),[Page]()]
 
@@ -1136,7 +1145,11 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2024.03]FRESCO: Spatial-Temporal Correspondence for Zero-Shot Video Translation [[PDF](https://arxiv.org/abs/2403.12962),[Page](https://github.com/williamyang1991/fresco)]
 
+[arxiv 2024.10] UniVST: A Unified Framework for Training-free Localized Video Style Transfer [[PDF](https://arxiv.org/abs/2410.20084)]
+
+
 [arxiv 2024.10]  [[PDF](),[Page]()]
+
 
 ## Evaluation 
 [arxiv 2023.10]EvalCrafter: Benchmarking and Evaluating Large Video Generation Models [[PDF](https://arxiv.org/abs/2310.11440),[Page](https://evalcrafter.github.io/)]
@@ -1258,6 +1271,8 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2024.10] SlowFast-VGen: Slow-Fast Learning for Action-Driven Long Video Generation [[PDF](https://arxiv.org/abs/2410.23277),[Page](https://slowfast-vgen.github.io/)]
 
+[arxiv 2024.10] ADAM: An Embodied Causal Agent in Open-World Environments [[PDF](https://arxiv.org/abs/2410.22194),[Page](https://opencausalab.github.io/ADAM/)]
+
 
 [arxiv 2024.10]  [[PDF](),[Page]()]
 
@@ -1282,6 +1297,9 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 
 [arxiv 2024.10] ReferEverything: Towards Segmenting Everything We Can Speak of in Videos [[PDF](https://arxiv.org/abs/2410.23287),[Page](https://miccooper9.github.io/projects/ReferEverything/)]
+
+[arxiv 2024.10]VideoSAM: A Large Vision Foundation Model for High-Speed Video Segmentation  [[PDF](https://arxiv.org/abs/2410.21304),[Page](https://github.com/chikap421/videosam)]
+
 
 
 [arxiv 2024.10]  [[PDF](),[Page]()]
