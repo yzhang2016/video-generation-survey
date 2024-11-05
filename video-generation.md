@@ -161,7 +161,7 @@ A reading list of video generation
 
 [arxiv 2024.10] Deep Compression Autoencoder for Efficient High-Resolution Diffusion Models [[PDF](https://arxiv.org/abs/2410.10733),[Page](https://github.com/mit-han-lab/efficientvit)]
 
-[arxiv 2024.10]  [[PDF](),[Page]()]
+[arxiv 2024.11]  [[PDF](),[Page]()]
 
 
 ## GAN/VAE-based methods 
@@ -222,7 +222,7 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 [arxiv 2024.10] LARP: Tokenizing Videos with a Learned Autoregressive Generative Prior  [[PDF](https://arxiv.org/abs/2410.21264),[Page](https://hywang66.github.io/larp/)]
 
 
-[arxiv 2024.10]  [[PDF](), [Page]()]
+[arxiv 2024.11]  [[PDF](), [Page]()]
 
 
 
@@ -336,12 +336,12 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2024.10] MarDini: Masked Autoregressive Diffusion for Video Generation at Scale [[PDF](https://arxiv.org/abs/2410.20280), [Page](https://mardini-vidgen.github.io/)]
 
-[arxiv 2024.10]  [[PDF](), [Page]()]
+[arxiv 2024.11]  [[PDF](), [Page]()]
 
 ## LLMs-based 
 [arxiv 2023.12]VideoPoet: A Large Language Model for Zero-Shot Video Generation [[PDF](https://arxiv.org/abs/2312.14125),[Page](http://sites.research.google/videopoet/)]
 
-[arxiv 2024.10]  [[PDF](), [Page]()]
+[arxiv 2024.11]  [[PDF](), [Page]()]
 
 
 
@@ -358,7 +358,7 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 [arxiv 2024.03]SSM Meets Video Diffusion Models: Efficient Video Generation with Structured State Spaces [[PDF](https://arxiv.org/abs/2403.07711),[Page](https://github.com/shim0114/SSM-Meets-Video-Diffusion-Models)]
 
 
-[arxiv 2024.10]  [[PDF](), [Page]()]
+[arxiv 2024.11]  [[PDF](), [Page]()]
 
 
 
@@ -381,7 +381,9 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2024.10] T2V-Turbo-v2: Enhancing Video Generation Model Post-Training through Data, Reward, and Conditional Guidance Design [[PDF](https://arxiv.org/abs/2410.05677), [Page](https://t2v-turbo-v2.github.io/)]
 
-[arxiv 2024.10]  [[PDF](), [Page]()]
+[arxiv 2024.11] Enhancing Motion in Text-to-Video Generation with Decomposed Encoding and Conditioning [[PDF](https://arxiv.org/abs/2410.24219), [Page](https://github.com/PR-Ryan/DEMO)]
+
+[arxiv 2024.11]  [[PDF](), [Page]()]
 
 ## composition 
 [arxiv 2024.07]VideoTetris: Towards Compositional Text-To-Video Generation[[PDF](https://arxiv.org/abs/2406.04277), [Page](https://videotetris.github.io/)]
@@ -395,7 +397,7 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 
 
-[arxiv 2024.10]  [[PDF](), [Page]()]
+[arxiv 2024.11]  [[PDF](), [Page]()]
 
 
 ## multi-prompt 
@@ -407,10 +409,10 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2024.06] Pandora: Towards General World Model with Natural Language Actions and Video States [[PDF](https://arxiv.org/abs/2406.09455), [Page](https://world-model.maitrix.org/)]
 
-[arxiv 2024.10]  [[PDF](), [Page]()]
+[arxiv 2024.11]  [[PDF](), [Page]()]
 
 
-[arxiv 2024.10]  [[PDF](), [Page]()]
+[arxiv 2024.11]  [[PDF](), [Page]()]
 
 
 ## long video generation 
@@ -452,13 +454,13 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2024.10] ARLON: Boosting Diffusion Transformers with Autoregressive Models for Long Video Generation [[PDF](https://arxiv.org/abs/2410.20502), [Page](https://arlont2v.github.io/)]
 
-[arxiv 2024.10]  [[PDF](), [Page]()]
+[arxiv 2024.11]  [[PDF](), [Page]()]
 
 ## sound generation 
 [arxiv 2024.07] Read, Watch and Scream! Sound Generation from Text and Video
 [[PDF](https://arxiv.org/abs/2407.05551), [Page](https://naver-ai.github.io/rewas)]
 
-[arxiv 2024.10]  [[PDF](), [Page]()]
+[arxiv 2024.11]  [[PDF](), [Page]()]
 
 
 ## Higher Resolution 
@@ -488,13 +490,13 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2024.05]DisenStudio: Customized Multi-subject Text-to-Video Generation with Disentangled Spatial Control [[PDF](https://arxiv.org/abs/2405.12796),[Page](https://forchchch.github.io/disenstudio.github.io/)]
 
-[arxiv 2024.10]  [[PDF](),[Page]()]
+[arxiv 2024.11]  [[PDF](),[Page]()]
 
 ## Stereo Video Generation 
 
 [arxiv 2024.09]StereoCrafter: Diffusion-based Generation of Long and High-fidelity Stereoscopic 3D from Monocular Videos  [[PDF](https://arxiv.org/abs/2409.07447),[Page](https://stereocrafter.github.io/)]
 
-[arxiv 2024.10]  [[PDF](),[Page]()]
+[arxiv 2024.11]  [[PDF](),[Page]()]
 
 ## Controllable Video Generation 
 
@@ -574,13 +576,13 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2024.10] MovieCharacter: A Tuning-Free Framework for Controllable Character Video Synthesis [[PDF](https://arxiv.org/abs/2410.20974),[Page](https://moviecharacter.github.io/)]
 
-[arxiv 2024.10]  [[PDF](),[Page]()]
+[arxiv 2024.11]  [[PDF](),[Page]()]
 
 
 ## text 
 [arxiv 2024.06]  Text-Animator: Controllable Visual Text Video Generation[[PDF](https://arxiv.org/abs/2406.17777),[Page](https://laulampaul.github.io/text-animator.html)]
 
-[arxiv 2024.10]  [[PDF](),[Page]()]
+[arxiv 2024.11]  [[PDF](),[Page]()]
 
 ## Camera 
 [arxiv 2023.12]MotionCtrl: A Unified and Flexible Motion Controller for Video Generation [[PDF](https://arxiv.org/abs/2312.03641),[Page](https://wzhouxiff.github.io/projects/MotionCtrl/)]
@@ -617,7 +619,7 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2024.10] CamI2V: Camera-Controlled Image-to-Video Diffusion Model [[PDF](https://arxiv.org/abs/2410.15957),[Page](https://zgctroy.github.io/CamI2V/)]
 
-[arxiv 2024.10]  [[PDF](),[Page]()]
+[arxiv 2024.11]  [[PDF](),[Page]()]
 
 ## inpainting / outpainting 
 [MM 2023.09]Hierarchical Masked 3D Diffusion Model for Video Outpainting [[PDF](https://arxiv.org/abs/2309.02119)]
@@ -640,7 +642,7 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2024.09] Follow-Your-Canvas: Higher-Resolution Video Outpainting with Extensive Content Generation [[PDF](https://arxiv.org/abs/2409.01055),[Page](https://github.com/mayuelala/FollowYourCanvas)]
 
-[arxiv 2024.10]  [[PDF](),[Page]()]
+[arxiv 2024.11]  [[PDF](),[Page]()]
 
 ## Video Quality 
 [arxiv 2024.03]VideoElevator : Elevating Video Generation Quality with Versatile Text-to-Image Diffusion Models[[PDF](https://arxiv.org/abs/2403.05438),[Page](https://videoelevator.github.io/)]
@@ -726,7 +728,12 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2024.10] VidPanos: Generative Panoramic Videos from Casual Panning Videos [[PDF](https://arxiv.org/abs/2410.13832), [Page](https://vidpanos.github.io/)]
 
-[arxiv 2024.10]  [[PDF](), [Page]()]
+[arxiv 2024.11]  GameGen-X: Interactive Open-world Game Video Generation[[PDF](https://arxiv.org/abs/2411.00769), [Page](https://github.com/GameGen-X/GameGen-X)]
+
+[arxiv 2024.11] Fashion-VDM: Video Diffusion Model for Virtual Try-On [[PDF](https://arxiv.org/abs/2411.00225), [Page]()]
+
+[arxiv 2024.11]  [[PDF](), [Page]()]
+
 
 ## Concept 
 [arxiv 2023.07]Animate-A-Story: Storytelling with Retrieval-Augmented Video Generation [[PDF](https://arxiv.org/abs/2307.06940), [Page](https://videocrafter.github.io/Animate-A-Story)]
@@ -761,7 +768,7 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2024.10] DreamVideo-2: Zero-Shot Subject-Driven Video Customization with Precise Motion Control [[PDF](https://arxiv.org/abs/2410.13830),[Page](https://dreamvideo2.github.io/)]
 
-[arxiv 2024.10]  [[PDF](),[Page]()]
+[arxiv 2024.11]  [[PDF](),[Page]()]
 
 
 ## Talking Face 
@@ -795,7 +802,7 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2024.10] Takin-ADA: Emotion Controllable Audio-Driven Animation with Canonical and Landmark Loss Optimization [[PDF](https://arxiv.org/pdf/2410.14283)]
 
-[arxiv 2024.10]  [[PDF](),[Page]()]
+[arxiv 2024.11]  [[PDF](),[Page]()]
 
 ## Image-to-video Generation 
 [arxiv 2023.09]VideoGen: A Reference-Guided Latent Diffusion Approach for High Definition Text-to-Video Generation [[PDF](https://arxiv.org/abs/2309.00398)]
@@ -859,7 +866,7 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2024.10] FrameBridge: Improving Image-to-Video Generation with Bridge Models [[PDF](https://arxiv.org/abs/2410.15371),[Page](https://framebridge-demo.github.io/)]
 
-[arxiv 2024.10]  [[PDF](),[Page]()]
+[arxiv 2024.11]  [[PDF](),[Page]()]
 
 
 ## 4D generation 
@@ -875,7 +882,7 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2024.10] Trans4D: Realistic Geometry-Aware Transition for Compositional Text-to-4D Synthesis [[PDF](https://arxiv.org/abs/2410.07155),[Page](https://github.com/YangLing0818/Trans4D)]
 
-[arxiv 2024.10]  [[PDF](),[Page]()]
+[arxiv 2024.11]  [[PDF](),[Page]()]
 
 
 ## Audio-to-video Generation
@@ -887,7 +894,7 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2024.09] Draw an Audio: Leveraging Multi-Instruction for Video-to-Audio Synthesis [[PDF](https://arxiv.org/abs/2409.06135),[Page](https://yannqi.github.io/Draw-an-Audio/)]
 
-[arxiv 2024.10]  [[PDF](),[Page]()]
+[arxiv 2024.11]  [[PDF](),[Page]()]
 
 
 ## editing with video models 
@@ -927,7 +934,7 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2024.10]FreeMask: Rethinking the Importance of Attention Masks for Zero-Shot Video Editing[[PDF](https://arxiv.org/abs/2409.20500),[Page](https://freemask-edit.github.io/)]
 
-[arxiv 2024.10]  [[PDF](),[Page]()]
+[arxiv 2024.11]  [[PDF](),[Page]()]
 
 
 ## Editing with image model 
@@ -1047,7 +1054,7 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2024.10] HARIVO: Harnessing Text-to-Image Models for Video Generation [[PDF](https://kwonminki.github.io/HARIVO/),[Page](https://kwonminki.github.io/HARIVO/)] 
 
-[arxiv 2024.10]  [[PDF](),[Page]()] 
+[arxiv 2024.11]  [[PDF](),[Page]()] 
 
 
 
@@ -1089,7 +1096,7 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2024.10] Framer: Interactive Frame Interpolation [[PDF](https://arxiv.org/abs/2410.18978),[Page](https://aim-uofa.github.io/Framer/)]
 
-[arxiv 2024.10]  [[PDF](),[Page]()]
+[arxiv 2024.11]  [[PDF](),[Page]()]
 
 
 ## motion transfer 
@@ -1130,7 +1137,7 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2024.06]MotionClone: Training-Free Motion Cloning for Controllable Video Generation[[PDF](https://arxiv.org/pdf/2406.05338)]
 
-[arxiv 2024.10]  [[PDF](),[Page]()]
+[arxiv 2024.11]  [[PDF](),[Page]()]
 
 
 
@@ -1148,7 +1155,7 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 [arxiv 2024.10] UniVST: A Unified Framework for Training-free Localized Video Style Transfer [[PDF](https://arxiv.org/abs/2410.20084)]
 
 
-[arxiv 2024.10]  [[PDF](),[Page]()]
+[arxiv 2024.11]  [[PDF](),[Page]()]
 
 
 ## Evaluation 
@@ -1189,7 +1196,7 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2024.10] Beyond FVD: Enhanced Evaluation Metrics for Video Generation Quality[[PDF](https://arxiv.org/abs/2410.05203),[Page](https://oooolga.github.io/JEDi.github.io/)]
 
-[arxiv 2024.10]  [[PDF](),[Page]()]
+[arxiv 2024.11]  [[PDF](),[Page]()]
 
 ## Survey
 [arxiv 2023.03]A Survey on Video Diffusion Models [[PDF](https://arxiv.org/abs/2310.10647)]
@@ -1227,7 +1234,11 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2024.08]Real-Time Video Generation with Pyramid Attention Broadcast [[PDF](https://arxiv.org/abs/2408.12588),[Page](https://github.com/NUS-HPC-AI-Lab/VideoSys)]
 
-[arxiv 2024.10]  [[PDF](),[Page]()]
+[arxiv 2024.11] Adaptive Caching for Faster Video Generation with Diffusion Transformers [[PDF](https://arxiv.org/abs/2411.02397),[Page](https://adacache-dit.github.io/)]
+
+[arxiv 2024.11] Fast and Memory-Efficient Video Diffusion Using Streamlined Inference [[PDF](https://arxiv.org/abs/2411.01171)]
+
+[arxiv 2024.11]  [[PDF](),[Page]()]
 
 ## Others 
 [arxiv 2023.05]AADiff: Audio-Aligned Video Synthesis with Text-to-Image Diffusion [[PDF](https://arxiv.org/abs/2305.04001)]
@@ -1238,6 +1249,12 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2023.08]DiffSynth: Latent In-Iteration Deflickering for Realistic Video Synthesis [[PDF](https://arxiv.org/abs/2308.03463)]
 
+
+## Visual effect
+
+[arxiv 2024.11] AutoVFX: Physically Realistic Video Editing from Natural Language Instructions [[PDF](https://arxiv.org/abs/2411.02394),[Page](https://haoyuhsu.github.io/autovfx-website/)]
+
+[arxiv 2024.11]  [[PDF](),[Page]()]
 
 
 ## CG2real
@@ -1253,7 +1270,7 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2024.10] FashionR2R: Texture-preserving Rendered-to-Real Image Translation with Diffusion Models [[PDF](https://arxiv.org/pdf/2410.14429),[Page](https://rickhh.github.io/FashionR2R/)]
 
-[arxiv 2024.10]  [[PDF](),[Page]()]
+[arxiv 2024.11]  [[PDF](),[Page]()]
 
 # world model & interactive generation
 [arxiv 2024.06] AVID: Adapting Video Diffusion Models to World Models [[PDF](),[Page](https://sites.google.com/view/avid-world-model-adapters/home)]
@@ -1273,8 +1290,9 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2024.10] ADAM: An Embodied Causal Agent in Open-World Environments [[PDF](https://arxiv.org/abs/2410.22194),[Page](https://opencausalab.github.io/ADAM/)]
 
+[arxiv 2024.11] How Far is Video Generation from World Model: A Physical Law Perspective [[PDF](https://arxiv.org/abs/2411.02385),[Page](https://phyworld.github.io/)]
 
-[arxiv 2024.10]  [[PDF](),[Page]()]
+[arxiv 2024.11]  [[PDF](),[Page]()]
 
 ## CV Related 
 [arxiv 2022.12; ByteDace]PV3D: A 3D GENERATIVE MODEL FOR PORTRAIT VIDEO GENERATION [[PDF](https://arxiv.org/pdf/2212.06384.pdf)]
@@ -1302,7 +1320,7 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 
 
-[arxiv 2024.10]  [[PDF](),[Page]()]
+[arxiv 2024.11]  [[PDF](),[Page]()]
 
 
 ## NLP related
