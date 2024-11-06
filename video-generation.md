@@ -1292,6 +1292,8 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2024.11] How Far is Video Generation from World Model: A Physical Law Perspective [[PDF](https://arxiv.org/abs/2411.02385),[Page](https://phyworld.github.io/)]
 
+[arxiv 2024.11] Oasis: an interactive, explorable world model [[PDF](https://oasis-model.github.io/),[Page](https://www.etched.com/blog-posts/oasis)]
+
 [arxiv 2024.11]  [[PDF](),[Page]()]
 
 ## CV Related 
