@@ -399,6 +399,11 @@
 
 [arxiv 2024.10] Schedule Your Edit: A Simple yet Effective Diffusion Noise Schedule for Image Editing  [[PDF](https://arxiv.org/abs/2410.18756)]
 
+[arxiv 2024.11]  DiT4Edit: Diffusion Transformer for Image Editing [[PDF](https://arxiv.org/abs/2411.03286),[Page](https://github.com/fkyyyy/DiT4Edit)]
+
+
+
+
 [arxiv 2024.11]   [[PDF](),[Page]()]
 
 ## Unified Generation
@@ -1958,7 +1963,7 @@ Cross-Attention Control [[PDF](https://arxiv.org/abs/2402.13404)]
 
 [arxiv 2024.10] Scaling Laws For Diffusion Transformers[[PDF](https://arxiv.org/abs/2410.08184)]
 
-[arxiv 2024.11]  Diffusion Models as Cartoonists! The Curious Case of High Density Regions [[PDF](https://arxiv.org/pdf/2411.01293),[Page]()]
+[arxiv 2024.11]  Diffusion Models as Cartoonists! The Curious Case of High Density Regions [[PDF](https://arxiv.org/pdf/2411.01293)]
 
 
 [arxiv 2024.11]   [[PDF](),[Page]()]
@@ -1986,6 +1991,8 @@ Cross-Attention Control [[PDF](https://arxiv.org/abs/2402.13404)]
 [arxiv 2024.08]E-Bench: Subjective-Aligned Benchmark Suite for Text-Driven Video Editing Quality Assessment [[PDF](https://arxiv.org/abs/2408.11481)]
 
 [arxiv 2024.10] GRADE: Quantifying Sample Diversity in Text-to-Image Models  [[PDF](https://arxiv.org/abs/2410.22592),[Page](https://royira.github.io/GRADE/)]
+
+[arxiv 2024.11] TypeScore: A Text Fidelity Metric for Text-to-Image Generative Models  [[PDF](https://arxiv.org/abs/2411.02437)]
 
 [arxiv 2024.11]   [[PDF](),[Page]()]
 
