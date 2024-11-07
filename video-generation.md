@@ -35,6 +35,8 @@ A reading list of video generation
 
 *  **easyanimate** [[Page](https://github.com/aigc-apps/EasyAnimate)]
 
+*  **Cogvideo X** [[Page](https://github.com/THUDM/CogVideo)]
+
 *  **Mochi from Genmo** [[Page](https://huggingface.co/genmo/mochi-1-preview#running)]
 
 ### Non-open source
