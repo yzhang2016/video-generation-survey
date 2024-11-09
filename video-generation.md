@@ -161,7 +161,10 @@ A reading list of video generation
 
 [arxiv 2024.10] MotionAura: Generating High-Quality and Motion Consistent Videos using Discrete Diffusion [[PDF](https://arxiv.org/abs/2410.07659),[Page](https://researchgroup12.github.io/Abstract_Diagram.html)]
 
-[arxiv 2024.10] Deep Compression Autoencoder for Efficient High-Resolution Diffusion Models [[PDF](https://arxiv.org/abs/2410.10733),[Page](https://github.com/mit-han-lab/efficientvit)]
+[arxiv 2024.10] Deep Compression Autoencoder for Efficient High-Resolution Diffusion Models [[PDF](https://arxiv.org/abs/2410.10733),[Page](https://research.nvidia.com/labs/dir/cosmos-tokenizer/)]
+
+[arxiv 2024.11] Cosmos Tokenizer: A suite of image and video neural tokenizers. [[PDF](),[Page](https://github.com/NVIDIA/Cosmos-Tokenizer)]
+
 
 [arxiv 2024.11]  [[PDF](),[Page]()]
 
@@ -580,6 +583,8 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2024.10] MovieCharacter: A Tuning-Free Framework for Controllable Character Video Synthesis [[PDF](https://arxiv.org/abs/2410.20974),[Page](https://moviecharacter.github.io/)]
 
+[arxiv 2024.11] SG-I2V: Self-Guided Trajectory Control in Image-to-Video Generation [[PDF](https://arxiv.org/abs/2411.04989),[Page](https://kmcode1.github.io/Projects/SG-I2V/)]
+
 [arxiv 2024.11]  [[PDF](),[Page]()]
 
 
@@ -786,6 +791,9 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2024.06]Follow-Your-Emoji: Fine-Controllable and Expressive Freestyle Portrait Animation[[PDF](),[Page](https://follow-your-emoji.github.io/)]
 
+[arxiv 2024.06] X-Portrait: Expressive Portrait Animation with Hierarchical Motion Attention [[PDF](https://arxiv.org/abs/2403.15931),[Page](https://github.com/bytedance/X-Portrait)]
+
+
 [arxiv 2024.09] CyberHost: Taming Audio-driven Avatar Diffusion Model with Region Codebook Attention[[PDF](https://arxiv.org/pdf/2409.01876),[Page](https://cyberhost.github.io/)]
 
 [arxiv 2024.09] SVP: Style-Enhanced Vivid Portrait Talking Head Diffusion Model [[PDF](https://arxiv.org/abs/2409.03270)]
@@ -805,6 +813,8 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 [arxiv 2024.10] DAWN: Dynamic Frame Avatar with Non-autoregressive Diffusion Framework for Talking Head Video Generation [[PDF](https://hanbo-cheng.github.io/DAWN/),[Page](https://hanbo-cheng.github.io/DAWN/)]
 
 [arxiv 2024.10] Takin-ADA: Emotion Controllable Audio-Driven Animation with Canonical and Landmark Loss Optimization [[PDF](https://arxiv.org/pdf/2410.14283)]
+
+[arxiv 2024.11] X-Portrait 2: Highly Expressive Portrait Animation [[PDF](),[Page](https://byteaigc.github.io/X-Portrait2/)]
 
 [arxiv 2024.11]  [[PDF](),[Page]()]
 
@@ -886,8 +896,9 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2024.10] Trans4D: Realistic Geometry-Aware Transition for Compositional Text-to-4D Synthesis [[PDF](https://arxiv.org/abs/2410.07155),[Page](https://github.com/YangLing0818/Trans4D)]
 
-[arxiv 2024.11]  [[PDF](),[Page]()]
+[arxiv 2024.11] DimensionX: Create Any 3D and 4D Scenes from a Single Image with Controllable Video Diffusion [[PDF](https://arxiv.org/abs/2411.04928),[Page](https://chenshuo20.github.io/DimensionX/)]
 
+[arxiv 2024.11]  [[PDF](),[Page]()]
 
 ## Audio-to-video Generation
 [arxiv 2023.09]Diverse and Aligned Audio-to-Video Generation via Text-to-Video Model Adaptation [[PDF](https://arxiv.org/abs/2309.16429)]
