@@ -254,14 +254,11 @@
 
 [arxiv 2024.03]Holo-Relighting: Controllable Volumetric Portrait Relighting from a Single Image [PDF(https://arxiv.org/abs/2403.09632)]
 
-
-
 [arxiv 2024.03]Editing Massive Concepts in Text-to-Image Diffusion Models [[PDF](https://arxiv.org/abs/2403.13807),[Page](https://silentview.github.io/EMCID/)]
 
 [arxiv 2024.03]Ground-A-Score: Scaling Up the Score Distillation for Multi-Attribute Editing [[PDF](https://arxiv.org/abs/2403.13551)]
 
 [arxiv 2024.03]Magic Fixup: Streamlining Photo Editing by Watching Dynamic Videos [[PDF](https://magic-fixup.github.io/magic_fixup.pdf),[Page](https://magic-fixup.github.io/)]
-
 
 [arxiv 2024.03]LASPA: Latent Spatial Alignment for Fast Training-free Single Image Editing [[PDF](https://arxiv.org/abs/2403.12585)]
 
@@ -273,9 +270,7 @@
 
 [arxiv 2024.03]TextCraftor: Your Text Encoder Can be Image Quality Controller [[PDF](https://arxiv.org/abs/2403.18978)]
 
-
 [arxiv 2024.04]Drag Your Noise: Interactive Point-based Editing via Diffusion Semantic Propagation [[PDF](https://arxiv.org/abs/2404.01050),[Page](https://github.com/haofengl/DragNoise)]
-
 
 [arxiv 2024.04]Cross-Attention Makes Inference Cumbersome in Text-to-Image Diffusion Models [[PDF](https://arxiv.org/abs/2404.02747)]
 
@@ -401,8 +396,13 @@
 
 [arxiv 2024.11]  DiT4Edit: Diffusion Transformer for Image Editing [[PDF](https://arxiv.org/abs/2411.03286),[Page](https://github.com/fkyyyy/DiT4Edit)]
 
+[arxiv 2024.11] ReEdit: Multimodal Exemplar-Based Image Editing with Diffusion Models  [[PDF](https://arxiv.org/abs/2411.03982)]
 
+[arxiv 2024.11] ProEdit: Simple Progression is All You Need for High-Quality 3D Scene Editing  [[PDF](https://arxiv.org/abs/2411.05006),[Page](https://immortalco.github.io/ProEdit/)]
 
+[arxiv 2024.11] Taming Rectified Flow for Inversion and Editing  [[PDF](https://arxiv.org/abs/2411.04746),[Page](https://github.com/wangjiangshan0725/RF-Solver-Edit)]
+
+[arxiv 2024.11] Multi-Reward as Condition for Instruction-based Image Editing  [[PDF](https://arxiv.org/abs/2411.04713)]
 
 [arxiv 2024.11]   [[PDF](),[Page]()]
 
@@ -412,8 +412,10 @@
 
 [arxiv 2024.11]   [[PDF](),[Page]()]
 
+## Generation and Understanding in a Unified Framework 
+[arxiv 2024.11] Diff-2-in-1: Bridging Generation and Dense Perception with Diffusion Models  [[PDF](https://arxiv.org/abs/2411.05005),[Page]()]
 
-
+[arxiv 2024.11]   [[PDF](),[Page]()]
 
 ## Architecture
 
@@ -628,8 +630,9 @@
 
 [arxiv 2024.10]  Progressive Compositionality In Text-to-Image Generative Models [[PDF](https://arxiv.org/abs/2410.16719),[Page](https://github.com/evansh666/EvoGen)]
 
-[arxiv 2024.11]   [[PDF](),[Page]()]
+[arxiv 2024.11]  HandCraft: Anatomically Correct Restoration of Malformed Hands in Diffusion Generated Images [[PDF](https://arxiv.org/abs/2411.04332),[Page](https://kfzyqin.github.io/handcraft/)]
 
+[arxiv 2024.11]   [[PDF](),[Page]()]
 
 
 
@@ -760,6 +763,9 @@
 
 [github] [Reactor](https://github.com/Gourieff/sd-webui-reactor)
 
+[arxiv 2024.11] MegaPortrait: Revisiting Diffusion Control for High-fidelity Portrait Generation  [[PDF](https://arxiv.org/abs/2411.04357)]
+
+[arxiv 2024.11]   [[PDF](),[Page]()]
  
 ## Concept / personalization
 *[Arxiv.2208; NVIDIA]  ***An Image is Worth One Word:*** Personalizing Text-to-Image Generation using Textual Inversion [[PDF](https://arxiv.org/abs/2208.01618), [Page](https://github.com/rinongal/textual_inversion), [Code](https://github.com/rinongal/textual_inversion) ]
@@ -990,11 +996,9 @@
 
 [arxiv 2024.06]Character-Adapter: Prompt-Guided Region Control for High-Fidelity Character Customization[[PDF](https://arxiv.org/abs/2406.16537)]
 
-
 [arxiv 2024.06]LIPE: Learning Personalized Identity Prior for Non-rigid Image Editing [[PDF](https://arxiv.org/abs/2406.17236)]
 
 [arxiv 2024.06] AlignIT: Enhancing Prompt Alignment in Customization of Text-to-Image Models  [[PDF](https://arxiv.org/abs/2406.18893)]
-
 
 [arxiv 2024.07] JeDi: Joint-Image Diffusion Models for Finetuning-Free Personalized Text-to-Image Generation[[PDF](https://arxiv.org/abs/2407.06187), [Page](https://research.nvidia.com/labs/dir/jedi/)]
 
@@ -1053,6 +1057,7 @@
 
 [arxiv 2024.11] Hollowed Net for On-Device Personalization of Text-to-Image Diffusion Models  [[PDF](https://arxiv.org/abs/2411.01179),[Page]()]
 
+[arxiv 2024.11] DomainGallery: Few-shot Domain-driven Image Generation by Attribute-centric Finetuning  [[PDF](https://arxiv.org/abs/2411.04571),[Page](https://github.com/Ldhlwh/DomainGallery)]
 
 [arxiv 2024.11]   [[PDF](),[Page]()]
 
@@ -1097,6 +1102,9 @@
 [arxiv 2024.08]Story3D-Agent: Exploring 3D Storytelling Visualization with Large Language Models[[PDF](https://arxiv.org/abs/2408.11801),[Page](https://yuzhou914.github.io/Story3D-Agent/)]
 
 [arxiv 2024.10] Storynizor: Consistent Story Generation via Inter-Frame Synchronized and Shuffled ID Injection  [[PDF](https://arxiv.org/abs/2409.19624)]
+
+[arxiv 2024.11]  StoryAgent: Customized Storytelling Video Generation via Multi-Agent Collaboration [[PDF](https://arxiv.org/abs/2411.04925),[Page](https://github.com/storyagent123/Comparison-of-storytelling-video-results/blob/main/demo/readme.md)]
+
 
 [arxiv 2024.11]   [[PDF](),[Page]()]
 
@@ -1437,7 +1445,10 @@ Cross-Attention Control [[PDF](https://arxiv.org/abs/2402.13404)]
 
 [arxiv 2024.11] Training-free Regional Prompting for Diffusion Transformers  [[PDF](https://arxiv.org/abs/2411.02395),[Page](https://github.com/antonioo-c/Regional-Prompting-FLUX)]
 
+[arxiv 2024.11] Controlling Human Shape and Pose in Text-to-Image Diffusion Models via Domain Adaptation  [[PDF](https://arxiv.org/abs/2411.04724),[Page](https://ivpg.github.io/humanLDM/)]
+
 [arxiv 2024.11]   [[PDF](),[Page]()]
+
 
 ## Image Variation 
 [arxiv 2023.08]IP-Adapter: Text Compatible Image Prompt Adapter for Text-to-Image Diffusion Models [[PDF](https://arxiv.org/pdf/2308.06721.pdf), [Page](https://ip-adapter.github.io/)]
@@ -1572,6 +1583,9 @@ Cross-Attention Control [[PDF](https://arxiv.org/abs/2402.13404)]
 [arxiv 2024.10] LoRA-IR: Taming Low-Rank Experts for Efficient All-in-One Image Restoration  [[PDF](https://arxiv.org/abs/2410.15385)]
 
 [arxiv 2024.10] FlowDCN: Exploring DCN-like Architectures for Fast Image Generation with Arbitrary Resolution  [[PDF](https://arxiv.org/abs/2410.22655)]
+
+[arxiv 2024.11] InstantIR: Blind Image Restoration with Instant Generative Reference  [[PDF](https://arxiv.org/abs/2410.06551),[Page](https://jy-joy.github.io/InstantIR/)]
+
 
 
 [arxiv 2024.11]   [[PDF](),[Page]()]
@@ -1895,8 +1909,9 @@ Cross-Attention Control [[PDF](https://arxiv.org/abs/2402.13404)]
 
 [arxiv 2024.10] Diff-Instruct*: Towards Human-Preferred One-step Text-to-image Generative Models  [[PDF](https://arxiv.org/abs/2410.20898),[Page]()]
 
-[arxiv 2024.11]   [[PDF](),[Page]()]
+[arxiv 2024.11] SVDQunat: Absorbing Outliers by Low-Rank Components for 4-Bit Diffusion Models  [[PDF](https://arxiv.org/abs/2411.05007),[Page](https://hanlab.mit.edu/projects/svdquant)]
 
+[arxiv 2024.11]   [[PDF](),[Page]()]
 
 ## consistency model 
 [arxiv 2024.10] Simplifying, stabilizing, and scaling continuous-time consistency models  [[PDF](https://arxiv.org/abs/2410.11081),[Page](https://openai.com/index/simplifying-stabilizing-and-scaling-continuous-time-consistency-models/)]
