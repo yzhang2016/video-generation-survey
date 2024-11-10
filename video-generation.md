@@ -618,15 +618,15 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2024.08] DreamCinema: Cinematic Transfer with Free Camera and 3D Character [[PDF](https://arxiv.org/abs/2408.12601),[Page](https://liuff19.github.io/DreamCinema)]
 
-
-[arxiv 2024.09] CinePreGen: Camera Controllable Video Previsualization via Engine-powered Diffusion
- [[PDF](https://arxiv.org/abs/2408.17424)]
+[arxiv 2024.09] CinePreGen: Camera Controllable Video Previsualization via Engine-powered Diffusion[[PDF](https://arxiv.org/abs/2408.17424)]
 
 [arxiv 2024.10] Boosting Camera Motion Control for Video Diffusion Transformers [[PDF](https://arxiv.org/abs/2410.10802),[Page](https://soon-yau.github.io/CameraMotionGuidance/)]
 
 [arxiv 2024.10] Cavia: Camera-controllable Multi-view Video Diffusion with View-Integrated Attention [[PDF](https://arxiv.org/abs/2410.10774),[Page](https://ir1d.github.io/Cavia/)]
 
 [arxiv 2024.10] CamI2V: Camera-Controlled Image-to-Video Diffusion Model [[PDF](https://arxiv.org/abs/2410.15957),[Page](https://zgctroy.github.io/CamI2V/)]
+
+[arxiv 2024.11] ReCapture: Generative Video Camera Controls for User-Provided Videos using Masked Video Fine-Tuning [[PDF](https://arxiv.org/abs/2411.05003),[Page](https://generative-video-camera-controls.github.io/)]
 
 [arxiv 2024.11]  [[PDF](),[Page]()]
 
