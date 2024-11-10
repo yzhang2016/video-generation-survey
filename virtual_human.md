@@ -1,6 +1,6 @@
 
 ## Face 
-[arxiv 2024.10]   [[PDF](),[Page]()]
+[arxiv 2024.11]   [[PDF](),[Page]()]
 
 
 ## Body 
@@ -17,18 +17,18 @@
 
 [arxiv 2024.10]  MotionCLR: Motion Generation and Training-free Editing via Understanding Attention Mechanisms [[PDF](https://arxiv.org/abs/2410.18977),[Page](https://lhchen.top/MotionCLR/)]
 
-[arxiv 2024.10]   [[PDF](),[Page]()]
+[arxiv 2024.11]   [[PDF](),[Page]()]
 
 
 ## audio-to-gesture 
 [arxiv 2024.10] Emphasizing Semantic Consistency of Salient Posture for Speech-Driven Gesture Generation  [[PDF](https://arxiv.org/abs/2410.13786)]
 
-[arxiv 2024.10]   [[PDF](),[Page]()]
+[arxiv 2024.11]   [[PDF](),[Page]()]
 
 ## Hands 
 [arxiv 2024.10]Learning Interaction-aware 3D Gaussian Splatting for One-shot Hand Avatars [[PDF](https://arxiv.org/abs/2410.08840),[Page](https://github.com/XuanHuang0/GuassianHand)]
 
-[arxiv 2024.10]   [[PDF](),[Page]()]
+[arxiv 2024.11]   [[PDF](),[Page]()]
 
 
 ## Human Interaction 
@@ -39,7 +39,7 @@
 [arxiv 2024.10] GraspDiffusion: Synthesizing Realistic Whole-body Hand-Object Interaction [[PDF](https://arxiv.org/abs/2410.13911),[Page]()]
 
 
-[arxiv 2024.10]   [[PDF](),[Page]()]
+[arxiv 2024.11]   [[PDF](),[Page]()]
 
 
 
@@ -49,4 +49,9 @@
 
 [arxiv 2024.10] Long-LRM: Long-sequence Large Reconstruction Model for Wide-coverage Gaussian Splats  [[PDF](https://arxiv.org/abs/2410.12781),[Page](https://arthurhero.github.io/projects/llrm/)]
 
-[arxiv 2024.10]   [[PDF](),[Page]()]
+## Capture 
+
+[arxiv 2024.11] FreeCap: Hybrid Calibration-Free Motion Capture in Open Environments  [[PDF](https://arxiv.org/abs/2411.04469)]
+
+
+[arxiv 2024.11]   [[PDF](),[Page]()]
