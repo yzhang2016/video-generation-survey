@@ -410,6 +410,7 @@
 
 [arxiv 2024.10] A Simple Approach to Unifying Diffusion-based Conditional Generation [[PDF](https://arxiv.org/abs/2410.11439),[Page](https://lixirui142.github.io/unicon-diffusion/)]
 
+
 [arxiv 2024.11]   [[PDF](),[Page]()]
 
 ## Generation and Understanding in a Unified Framework 
@@ -458,11 +459,12 @@
 
 [arxiv 2024.11]   [[PDF](),[Page]()]
 
-## LLMs for editing 
+## Instruct for editing 
 [arxiv 2024.07] GenArtist: Multimodal LLM as an Agent for Unified Image Generation and Editing  [[PDF](https://arxiv.org/abs/2407.05600),[Page](https://zhenyuw16.github.io/GenArtist_page/)]
 
 [arxiv 2024.07] UltraEdit: Instruction-based Fine-Grained Image Editing at Scale  [[PDF](https://arxiv.org/abs/2407.05282),[Page](https://ultra-editing.github.io/)]
 
+[arxiv 2024.11] SeedEdit: Align Image Re-Generation to Image Editing  [[PDF](https://lf3-static.bytednsdoc.com/obj/eden-cn/lapzild-tss/ljhwZthlaukjlkulzlp/SeedEdit.pdf),[Page](https://team.doubao.com/en/special/seededit)]
 
 [arxiv 2024.11]   [[PDF](),[Page]()]
 
