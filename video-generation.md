@@ -909,6 +909,9 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2024.09] Draw an Audio: Leveraging Multi-Instruction for Video-to-Audio Synthesis [[PDF](https://arxiv.org/abs/2409.06135),[Page](https://yannqi.github.io/Draw-an-Audio/)]
 
+[arxiv 2024.11] Tell What You Hear From What You See -- Video to Audio Generation Through Text [[PDF](https://arxiv.org/abs/2411.05679),[Page](https://github.com/Christina200/Online-LoRA-official)]
+
+
 [arxiv 2024.11]  [[PDF](),[Page]()]
 
 
