@@ -632,8 +632,9 @@
 
 [arxiv 2024.11]  HandCraft: Anatomically Correct Restoration of Malformed Hands in Diffusion Generated Images [[PDF](https://arxiv.org/abs/2411.04332),[Page](https://kfzyqin.github.io/handcraft/)]
 
-[arxiv 2024.11]   [[PDF](),[Page]()]
+[arxiv 2024.11] Improving image synthesis with diffusion-negative sampling  [[PDF](https://arxiv.org/abs/2411.05473)]
 
+[arxiv 2024.11]   [[PDF](),[Page]()]
 
 
 ## VAE 
@@ -755,6 +756,8 @@
 [arxiv 2024.10] CtrlSynth: Controllable Image Text Synthesis for Data-Efficient Multimodal Learning  [[PDF](https://arxiv.org/abs/2410.11963)]
 
 [arxiv 2024.10] Altogether: Image Captioning via Re-aligning Alt-text  [[PDF](https://arxiv.org/abs/2410.17251),[Page]()]
+
+[arxiv 2024.11] Precision or Recall? An Analysis of Image Captions for Training Text-to-Image Generation Model  [[PDF](https://arxiv.org/abs/2411.05079),[Page](https://github.com/shengcheng/Captions4T2I)]
 
 [arxiv 2024.11]   [[PDF](),[Page]()]
 
@@ -2008,6 +2011,8 @@ Cross-Attention Control [[PDF](https://arxiv.org/abs/2402.13404)]
 [arxiv 2024.10] GRADE: Quantifying Sample Diversity in Text-to-Image Models  [[PDF](https://arxiv.org/abs/2410.22592),[Page](https://royira.github.io/GRADE/)]
 
 [arxiv 2024.11] TypeScore: A Text Fidelity Metric for Text-to-Image Generative Models  [[PDF](https://arxiv.org/abs/2411.02437)]
+
+[arxiv 2024.11] Image2Text2Image: A Novel Framework for Label-Free Evaluation of Image-to-Text Generation with Text-to-Image Diffusion Models  [[PDF](https://arxiv.org/abs/2411.05706)]
 
 [arxiv 2024.11]   [[PDF](),[Page]()]
 
