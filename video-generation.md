@@ -165,6 +165,8 @@ A reading list of video generation
 
 [arxiv 2024.11] Cosmos Tokenizer: A suite of image and video neural tokenizers. [[PDF](),[Page](https://github.com/NVIDIA/Cosmos-Tokenizer)]
 
+[arxiv 2024.11] Improved Video VAE for Latent Video Diffusion Model [[PDF](https://arxiv.org/abs/2411.06449),[Page](https://wpy1999.github.io/IV-VAE/)]
+
 
 [arxiv 2024.11]  [[PDF](),[Page]()]
 
@@ -628,7 +630,10 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2024.11] ReCapture: Generative Video Camera Controls for User-Provided Videos using Masked Video Fine-Tuning [[PDF](https://arxiv.org/abs/2411.05003),[Page](https://generative-video-camera-controls.github.io/)]
 
+[arxiv 2024.11] I2VControl-Camera: Precise Video Camera Control with Adjustable Motion Strength [[PDF](https://arxiv.org/abs/2411.06525)]
+
 [arxiv 2024.11]  [[PDF](),[Page]()]
+
 
 ## inpainting / outpainting 
 [MM 2023.09]Hierarchical Masked 3D Diffusion Model for Video Outpainting [[PDF](https://arxiv.org/abs/2309.02119)]
