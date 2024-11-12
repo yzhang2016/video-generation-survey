@@ -464,11 +464,13 @@
 
 [arxiv 2024.07] UltraEdit: Instruction-based Fine-Grained Image Editing at Scale  [[PDF](https://arxiv.org/abs/2407.05282),[Page](https://ultra-editing.github.io/)]
 
-[arxiv 2024.11] SeedEdit: Align Image Re-Generation to Image Editing  [[PDF](https://lf3-static.bytednsdoc.com/obj/eden-cn/lapzild-tss/ljhwZthlaukjlkulzlp/SeedEdit.pdf),[Page](https://team.doubao.com/en/special/seededit)]
+[arxiv 2024.11] SeedEdit: Align Image Re-Generation to Image Editing  [[PDF](https://arxiv.org/abs/2411.06686),[Page](https://team.doubao.com/en/special/seededit)]
+
+[arxiv 2024.11] Add-it: Training-Free Object Insertion in Images With Pretrained Diffusion Models [[PDF](https://arxiv.org/abs/2411.07232),[Page](https://research.nvidia.com/labs/par/addit/)]
+
+[arxiv 2024.11] OmniEdit: Building Image Editing Generalist Models Through Specialist Supervision [[PDF](https://arxiv.org/abs/2411.07199),[Page](https://tiger-ai-lab.github.io/OmniEdit/)]
 
 [arxiv 2024.11]   [[PDF](),[Page]()]
-
-
 
 ## Improve T2I base modules
 [arxiv 2023]LLM Blueprint: Enabling Text-to-Image Generation with Complex and Detailed Prompts [[PDF](https://arxiv.org/abs/2310.10640),[Page](https://github.com/hananshafi/llmblueprint)]
@@ -636,8 +638,9 @@
 
 [arxiv 2024.11] Improving image synthesis with diffusion-negative sampling  [[PDF](https://arxiv.org/abs/2411.05473)]
 
-[arxiv 2024.11]   [[PDF](),[Page]()]
+[arxiv 2024.11]  Token Merging for Training-Free Semantic Binding in Text-to-Image Synthesis [[PDF](https://arxiv.org/abs/2411.07132),[Page](https://github.com/hutaiHang/ToMe)]
 
+[arxiv 2024.11]   [[PDF](),[Page]()]
 
 ## VAE 
 
@@ -649,6 +652,10 @@
 
 
 ## autoregressive
+
+[arxiv 2024.11] Autoregressive Models in Vision: A Survey  [[PDF](https://arxiv.org/abs/2411.05902),[Page](https://github.com/ChaofanTao/Autoregressive-Models-in-Vision-Survey)]
+
+
 [arxiv 2024.10] ControlAR: Controllable Image Generation with Autoregressive Models  [[PDF](https://arxiv.org/abs/2410.02705),[Page](https://github.com/hustvl/ControlAR)]
 
 [arxiv 2024.10] LANTERN: Accelerating Visual Autoregressive Models with Relaxed Speculative Decoding  [[PDF](https://arxiv.org/abs/2410.03355)]
@@ -2128,6 +2135,8 @@ Cross-Attention Control [[PDF](https://arxiv.org/abs/2402.13404)]
 [arxiv 2024.10] GlobalMamba: Global Image Serialization for Vision Mamba  [[PDF](https://arxiv.org/abs/2410.10316),[Page](https://github.com/wangck20/GlobalMamba)]
 
 [arxiv 2024.10] MoH: Multi-Head Attention as Mixture-of-Head Attention[[PDF](https://arxiv.org/abs/2410.11842),[Page](https://github.com/SkyworkAI/MoH)]
+
+[arxiv 2024.11] Edify Image: High-Quality Image Generation with Pixel Space Laplacian Diffusion Models  [[PDF](https://arxiv.org/abs/2411.07126),[Page](https://research.nvidia.com/labs/dir/edify-image/)]
 
 
 [arxiv 2024.11]   [[PDF](),[Page]()]
