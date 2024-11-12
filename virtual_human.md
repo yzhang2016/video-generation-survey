@@ -17,8 +17,9 @@
 
 [arxiv 2024.10]  MotionCLR: Motion Generation and Training-free Editing via Understanding Attention Mechanisms [[PDF](https://arxiv.org/abs/2410.18977),[Page](https://lhchen.top/MotionCLR/)]
 
-[arxiv 2024.11]   [[PDF](),[Page]()]
+[arxiv 2024.11]  KMM: Key Frame Mask Mamba for Extended Motion Generation [[PDF](https://arxiv.org/abs/2411.06481),[Page](https://steve-zeyu-zhang.github.io/KMM/)]
 
+[arxiv 2024.11]   [[PDF](),[Page]()]
 
 ## audio-to-gesture 
 [arxiv 2024.10] Emphasizing Semantic Consistency of Salient Posture for Speech-Driven Gesture Generation  [[PDF](https://arxiv.org/abs/2410.13786)]
