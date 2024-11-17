@@ -416,6 +416,9 @@
 ## Generation and Understanding in a Unified Framework 
 [arxiv 2024.11] Diff-2-in-1: Bridging Generation and Dense Perception with Diffusion Models  [[PDF](https://arxiv.org/abs/2411.05005),[Page]()]
 
+[arxiv 2024.11] Scaling Properties of Diffusion Models for Perceptual Tasks  [[PDF](https://arxiv.org/abs/2411.08034),[Page](https://scaling-diffusion-perception.github.io/)]
+
+
 [arxiv 2024.11]   [[PDF](),[Page]()]
 
 ## Architecture
@@ -668,7 +671,10 @@
 
 [arxiv 2024.11] Randomized Autoregressive Visual Generation  [[PDF](https://arxiv.org/abs/2411.00776),[Page](https://yucornetto.github.io/projects/rar.html)]
 
+[arxiv 2024.11] A Survey on Vision Autoregressive Model  [[PDF](https://arxiv.org/abs/2411.08666)]
+
 [arxiv 2024.11]   [[PDF](),[Page]()]
+
 
 
 ## Distill Diffusion Model 
@@ -768,7 +774,9 @@
 
 [arxiv 2024.11] Precision or Recall? An Analysis of Image Captions for Training Text-to-Image Generation Model  [[PDF](https://arxiv.org/abs/2411.05079),[Page](https://github.com/shengcheng/Captions4T2I)]
 
+
 [arxiv 2024.11]   [[PDF](),[Page]()]
+
 
 ## face swapping 
 [arxiv 2024.03]Infinite-ID: Identity-preserved Personalization via ID-semantics Decoupling Paradigm [[PDF](https://arxiv.org/abs/2403.11781),[Page](https://infinite-id.github.io/)]
@@ -1459,6 +1467,11 @@ Cross-Attention Control [[PDF](https://arxiv.org/abs/2402.13404)]
 
 [arxiv 2024.11] Controlling Human Shape and Pose in Text-to-Image Diffusion Models via Domain Adaptation  [[PDF](https://arxiv.org/abs/2411.04724),[Page](https://ivpg.github.io/humanLDM/)]
 
+[arxiv 2024.11] Toward Human Understanding with Controllable Synthesis  [[PDF](https://arxiv.org/abs/2411.08663)]
+
+[arxiv 2024.11]  MagicQuill: An Intelligent Interactive Image Editing System [[PDF](https://arxiv.org/abs/2411.09703),[Page](https://magicquill.art/demo/)]
+
+
 [arxiv 2024.11]   [[PDF](),[Page]()]
 
 
@@ -1598,6 +1611,7 @@ Cross-Attention Control [[PDF](https://arxiv.org/abs/2402.13404)]
 
 [arxiv 2024.11] InstantIR: Blind Image Restoration with Instant Generative Reference  [[PDF](https://arxiv.org/abs/2410.06551),[Page](https://jy-joy.github.io/InstantIR/)]
 
+[arxiv 2024.11] MureObjectStitch: Multi-reference Image Composition  [[PDF](https://arxiv.org/abs/2411.07462),[Page](https://github.com/bcmi/MureObjectStitch-Image-Composition)]
 
 
 [arxiv 2024.11]   [[PDF](),[Page]()]
@@ -1923,7 +1937,10 @@ Cross-Attention Control [[PDF](https://arxiv.org/abs/2402.13404)]
 
 [arxiv 2024.11] SVDQunat: Absorbing Outliers by Low-Rank Components for 4-Bit Diffusion Models  [[PDF](https://arxiv.org/abs/2411.05007),[Page](https://hanlab.mit.edu/projects/svdquant)]
 
+[arxiv 2024.11]  Leveraging Previous Steps: A Training-free Fast Solver for Flow Diffusion [[PDF](https://arxiv.org/abs/2411.07627)]
+
 [arxiv 2024.11]   [[PDF](),[Page]()]
+
 
 ## consistency model 
 [arxiv 2024.10] Simplifying, stabilizing, and scaling continuous-time consistency models  [[PDF](https://arxiv.org/abs/2410.11081),[Page](https://openai.com/index/simplifying-stabilizing-and-scaling-continuous-time-consistency-models/)]
@@ -2023,7 +2040,10 @@ Cross-Attention Control [[PDF](https://arxiv.org/abs/2402.13404)]
 
 [arxiv 2024.11] Image2Text2Image: A Novel Framework for Label-Free Evaluation of Image-to-Text Generation with Text-to-Image Diffusion Models  [[PDF](https://arxiv.org/abs/2411.05706)]
 
+[arxiv 2024.11] Evaluating the Generation of Spatial Relations in Text and Image Generative Models  [[PDF](https://arxiv.org/abs/2411.07664)]
+
 [arxiv 2024.11]   [[PDF](),[Page]()]
+
 
 ## Feedback
 [arxiv 2023.11]Using Human Feedback to Fine-tune Diffusion Models without Any Reward Model [[PDF](https://arxiv.org/abs/2311.13231)]
