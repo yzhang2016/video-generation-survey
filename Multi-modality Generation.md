@@ -71,13 +71,16 @@
 
 [arxiv 2024.10]Janus: Decoupling Visual Encoding for Unified Multimodal Understanding and Generation [[PDF](https://arxiv.org/abs/2410.13848), [Page](https://github.com/deepseek-ai/Janus)]
 
-[arxiv 2024.10] [[PDF](), [Page]()]
+[arxiv 2024.11]Spider: Any-to-Many Multimodal LLM [[PDF](https://arxiv.org/abs/2411.09439)]
+
+
+[arxiv 2024.11] [[PDF](), [Page]()]
 
 ## Agent
 
 [arxiv 2024.10] Agent S: An Open Agentic Framework that Uses Computers Like a Human[[PDF](https://arxiv.org/abs/2410.08164), [Page](https://github.com/simular-ai/Agent-S)]
 
-[arxiv 2024.10] [[PDF](), [Page]()]
+[arxiv 2024.11] [[PDF](), [Page]()]
 
 
 
@@ -90,7 +93,7 @@
 [arxiv 2024.10]Remember, Retrieve and Generate: Understanding Infinite Visual Concepts as Your Personalized Assistant [[PDF](https://arxiv.org/abs/2410.13360), [Page](https://github.com/Hoar012/RAP-MLLM)]
 
 
-[arxiv 2024.10] [[PDF](), [Page]()]
+[arxiv 2024.11] [[PDF](), [Page]()]
 
 
 ## multi-modality evaluation 
@@ -102,10 +105,10 @@
 ## audio 
 [arxiv 2024.10] MuVi: Video-to-Music Generation with Semantic Alignment and Rhythmic Synchronization[[PDF](https://arxiv.org/abs/2410.12957)]
 
-[arxiv 2024.10] [[PDF](), [Page]()]
+[arxiv 2024.11] [[PDF](), [Page]()]
 
 
 ## speed 
 [arxiv 2024.10]PyramidDrop: Accelerating Your Large Vision-Language Models via Pyramid Visual Redundancy Reduction[[PDF](https://arxiv.org/abs/2410.17247), [Page]()]
 
-[arxiv 2024.10] [[PDF](), [Page]()]
+[arxiv 2024.11] [[PDF](), [Page]()]
