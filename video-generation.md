@@ -171,6 +171,7 @@ A reading list of video generation
 [arxiv 2024.11]  [[PDF](),[Page]()]
 
 
+
 ## GAN/VAE-based methods 
 [NIPS 2016] **---VGAN---** Generating Videos with Scene Dynamics \[[PDF](https://proceedings.neurips.cc/paper/2016/file/04025959b191f8f9de3f924f0940515f-Paper.pdf), [code](https://github.com/cvondrick/videogan) \]
 
@@ -408,6 +409,14 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2024.11]  [[PDF](), [Page]()]
 
+## Caption
+[arxiv 2024.11] Grounded Video Caption Generation [[PDF](https://arxiv.org/abs/2411.07584)]
+
+[arxiv 2024.11]  [[PDF](), [Page]()]
+
+
+
+
 
 ## multi-prompt 
 [arxiv 2023.12]MTVG : Multi-text Video Generation with Text-to-Video Models [[PDF](https://arxiv.org/abs/2312.04086)]
@@ -587,6 +596,11 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2024.11] SG-I2V: Self-Guided Trajectory Control in Image-to-Video Generation [[PDF](https://arxiv.org/abs/2411.04989),[Page](https://kmcode1.github.io/Projects/SG-I2V/)]
 
+[arxiv 2024.11] MikuDance: Animating Character Art with Mixed Motion Dynamics [[PDF](https://arxiv.org/abs/2411.08656),[Page](https://kebii.github.io/MikuDance/)]
+
+[arxiv 2024.11] Motion Control for Enhanced Complex Action Video Generation [[PDF](https://arxiv.org/abs/2411.08328),[Page](https://mvideo-v1.github.io/)]
+
+
 [arxiv 2024.11]  [[PDF](),[Page]()]
 
 
@@ -745,6 +759,9 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 [arxiv 2024.11]  GameGen-X: Interactive Open-world Game Video Generation[[PDF](https://arxiv.org/abs/2411.00769), [Page](https://github.com/GameGen-X/GameGen-X)]
 
 [arxiv 2024.11] Fashion-VDM: Video Diffusion Model for Virtual Try-On [[PDF](https://arxiv.org/abs/2411.00225), [Page]()]
+
+[arxiv 2024.11] EgoVid-5M: A Large-Scale Video-Action Dataset for Egocentric Video Generation [[PDF](https://arxiv.org/abs/2411.08380), [Page](https://egovid.github.io/)]
+
 
 [arxiv 2024.11]  [[PDF](), [Page]()]
 
