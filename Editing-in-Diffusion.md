@@ -406,6 +406,8 @@
 
 [arxiv 2024.11] ColorEdit: Training-free Image-Guided Color editing with diffusion model  [[PDF](https://arxiv.org/abs/2411.10232),[Page]()]
 
+[arxiv 2024.11]  Test-time Conditional Text-to-Image Synthesis Using Diffusion Models [[PDF](https://arxiv.org/abs/2411.10800)]
+
 [arxiv 2024.11]   [[PDF](),[Page]()]
 
 
@@ -646,6 +648,8 @@
 
 [arxiv 2024.11]  Token Merging for Training-Free Semantic Binding in Text-to-Image Synthesis [[PDF](https://arxiv.org/abs/2411.07132),[Page](https://github.com/hutaiHang/ToMe)]
 
+
+
 [arxiv 2024.11]   [[PDF](),[Page]()]
 
 ## VAE 
@@ -703,7 +707,6 @@
 
 [arxiv 2024.04]TryOn-Adapter: Efficient Fine-Grained Clothing Identity Adaptation for High-Fidelity Virtual Try-On [[PDF](https://arxiv.org/abs/2404.00878),[Page](https://github.com/jiazheng-xing/TryOn-Adapter)]
 
-
 [arxiv 2024.04]FLDM-VTON: Faithful Latent Diffusion Model for Virtual Try-on [[PDF](https://arxiv.org/abs/2404.14162)]
 
 [arxiv 2024.03]Improving Diffusion Models for Authentic Virtual Try-on in the Wild [[PDF](https://arxiv.org/abs/2403.05139),[Page](https://idm-vton.github.io/)]
@@ -737,6 +740,8 @@
 [arxiv 2024.10] GS-VTON: Controllable 3D Virtual Try-on with Gaussian Splatting[[PDF](https://arxiv.org/abs/2410.05259),[Page](https://yukangcao.github.io/GS-VTON/)]
 
 [arxiv 2024.11]  Try-On-Adapter: A Simple and Flexible Try-On Paradigm [[PDF](https://arxiv.org/abs/2411.10187)]
+
+[arxiv 2024.11]  FitDiT: Advancing the Authentic Garment Details for High-fidelity Virtual Try-on [[PDF](https://arxiv.org/abs/2411.10499),[Page](https://byjiang.com/FitDiT/)]
 
 [arxiv 2024.11]   [[PDF](),[Page]()]
 
@@ -1088,9 +1093,9 @@
 
 [arxiv 2024.11] DomainGallery: Few-shot Domain-driven Image Generation by Attribute-centric Finetuning  [[PDF](https://arxiv.org/abs/2411.04571),[Page](https://github.com/Ldhlwh/DomainGallery)]
 
+[arxiv 2024.11] Group Diffusion Transformers are Unsupervised Multitask Learners  [[PDF](https://arxiv.org/abs/2410.15027)]
+
 [arxiv 2024.11]   [[PDF](),[Page]()]
-
-
 
 
 ## Story-telling
@@ -1485,9 +1490,11 @@ Cross-Attention Control [[PDF](https://arxiv.org/abs/2402.13404)]
 
 [arxiv 2024.11]  MagicQuill: An Intelligent Interactive Image Editing System [[PDF](https://arxiv.org/abs/2411.09703),[Page](https://magicquill.art/demo/)]
 
+[arxiv 2024.11] Generating Compositional Scenes via Text-to-image RGBA Instance Generation  [[PDF](https://arxiv.org/abs/2411.10913)]
+
+[arxiv 2024.11] Boundary Attention Constrained Zero-Shot Layout-To-Image Generation  [[PDF](https://arxiv.org/abs/2411.10495)]
 
 [arxiv 2024.11]   [[PDF](),[Page]()]
-
 
 ## Image Variation 
 [arxiv 2023.08]IP-Adapter: Text Compatible Image Prompt Adapter for Text-to-Image Diffusion Models [[PDF](https://arxiv.org/pdf/2308.06721.pdf), [Page](https://ip-adapter.github.io/)]
@@ -1626,6 +1633,8 @@ Cross-Attention Control [[PDF](https://arxiv.org/abs/2402.13404)]
 [arxiv 2024.11] InstantIR: Blind Image Restoration with Instant Generative Reference  [[PDF](https://arxiv.org/abs/2410.06551),[Page](https://jy-joy.github.io/InstantIR/)]
 
 [arxiv 2024.11] MureObjectStitch: Multi-reference Image Composition  [[PDF](https://arxiv.org/abs/2411.07462),[Page](https://github.com/bcmi/MureObjectStitch-Image-Composition)]
+
+[arxiv 2024.11] DR-BFR: Degradation Representation with Diffusion Models for Blind Face Restoration  [[PDF](https://arxiv.org/abs/2411.10508)]
 
 
 [arxiv 2024.11]   [[PDF](),[Page]()]
