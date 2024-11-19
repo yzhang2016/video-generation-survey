@@ -838,6 +838,8 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2024.11] X-Portrait 2: Highly Expressive Portrait Animation [[PDF](),[Page](https://byteaigc.github.io/X-Portrait2/)]
 
+[arxiv 2024.11] EchoMimicV2: Towards Striking, Simplified, and Semi-Body Human Animation[[PDF](https://arxiv.org/abs/2411.10061),[Page](https://antgroup.github.io/ai/echomimic_v2/)]
+
 [arxiv 2024.11]  [[PDF](),[Page]()]
 
 ## Image-to-video Generation 
@@ -974,8 +976,9 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2024.10]FreeMask: Rethinking the Importance of Attention Masks for Zero-Shot Video Editing[[PDF](https://arxiv.org/abs/2409.20500),[Page](https://freemask-edit.github.io/)]
 
-[arxiv 2024.11]  [[PDF](),[Page]()]
+[arxiv 2024.11] StableV2V: Stablizing Shape Consistency in Video-to-Video Editing [[PDF](https://arxiv.org/abs/2411.11045),[Page](https://alonzoleeeooo.github.io/StableV2V)]
 
+[arxiv 2024.11]  [[PDF](),[Page]()]
 
 ## Editing with image model 
 *[arxiv 2022.12]Tune-A-Video: One-Shot Tuning of Image Diffusion Models for Text-to-Video Generation [[PDF](https://arxiv.org/abs/2212.11565), [Page](https://tuneavideo.github.io/)]
@@ -1335,6 +1338,8 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 [arxiv 2024.11] Oasis: an interactive, explorable world model [[PDF](https://oasis-model.github.io/),[Page](https://www.etched.com/blog-posts/oasis)]
 
 [arxiv 2024.11] GameGen-X: Interactive Open-world Game Video Generation [[PDF](https://arxiv.org/abs/2411.00769),[Page](https://gamegen-x.github.io/)]
+
+[arxiv 2024.11] Generative World Explorer [[PDF](https://arxiv.org/abs/2411.11844),[Page](http://generative-world-explorer.github.io/)]
 
 [arxiv 2024.11]  [[PDF](),[Page]()]
 
