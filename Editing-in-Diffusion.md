@@ -404,7 +404,10 @@
 
 [arxiv 2024.11] Multi-Reward as Condition for Instruction-based Image Editing  [[PDF](https://arxiv.org/abs/2411.04713)]
 
+[arxiv 2024.11] ColorEdit: Training-free Image-Guided Color editing with diffusion model  [[PDF](https://arxiv.org/abs/2411.10232),[Page]()]
+
 [arxiv 2024.11]   [[PDF](),[Page]()]
+
 
 ## Unified Generation
 
@@ -673,9 +676,13 @@
 
 [arxiv 2024.11] A Survey on Vision Autoregressive Model  [[PDF](https://arxiv.org/abs/2411.08666)]
 
+[arxiv 2024.11] M-VAR: Decoupled Scale-wise Autoregressive Modeling for High-Quality Image Generation  [[PDF](https://arxiv.org/abs/2411.10433),[Page](https://github.com/OliverRensu/MVAR)]
+
+[arxiv 2024.11] LaVin-DiT: Large Vision Diffusion Transformer  [[PDF](https://arxiv.org/abs/2411.11505)]
+
+[arxiv 2024.11] Scalable Autoregressive Monocular Depth Estimation  [[PDF](https://arxiv.org/abs/2411.11361)]
+
 [arxiv 2024.11]   [[PDF](),[Page]()]
-
-
 
 ## Distill Diffusion Model 
 [arxiv 2024.05]Distilling Diffusion Models into Conditional GANs [[PDF](https://arxiv.org/abs/2405.05967),[Page](https://mingukkang.github.io/Diffusion2GAN/)]
@@ -727,9 +734,9 @@
 
 [arxiv 2024.09] AnyLogo: Symbiotic Subject-Driven Diffusion System with Gemini Status  [[PDF](https://arxiv.org/abs/2409.17740)]
 
-
 [arxiv 2024.10] GS-VTON: Controllable 3D Virtual Try-on with Gaussian Splatting[[PDF](https://arxiv.org/abs/2410.05259),[Page](https://yukangcao.github.io/GS-VTON/)]
 
+[arxiv 2024.11]  Try-On-Adapter: A Simple and Flexible Try-On Paradigm [[PDF](https://arxiv.org/abs/2411.10187)]
 
 [arxiv 2024.11]   [[PDF](),[Page]()]
 
@@ -1073,6 +1080,8 @@
 
 [arxiv 2024.10] RelationBooth: Towards Relation-Aware Customized Object Generation  [[PDF](https://arxiv.org/abs/2410.23280),[Page](https://shi-qingyu.github.io/RelationBooth/)]
 
+[arxiv 2024.10]  In-Context LoRA for Diffusion Transformers [[PDF](https://arxiv.org/pdf/2410.23775),[Page](https://github.com/ali-vilab/In-Context-LoRA)]
+
 [arxiv 2024.10] Novel Object Synthesis via Adaptive Text-Image Harmony  [[PDF](https://arxiv.org/abs/2410.20823),[Page](https://xzr52.github.io/ATIH/)]
 
 [arxiv 2024.11] Hollowed Net for On-Device Personalization of Text-to-Image Diffusion Models  [[PDF](https://arxiv.org/abs/2411.01179),[Page]()]
@@ -1080,6 +1089,9 @@
 [arxiv 2024.11] DomainGallery: Few-shot Domain-driven Image Generation by Attribute-centric Finetuning  [[PDF](https://arxiv.org/abs/2411.04571),[Page](https://github.com/Ldhlwh/DomainGallery)]
 
 [arxiv 2024.11]   [[PDF](),[Page]()]
+
+
+
 
 ## Story-telling
 
@@ -1122,6 +1134,8 @@
 [arxiv 2024.08]Story3D-Agent: Exploring 3D Storytelling Visualization with Large Language Models[[PDF](https://arxiv.org/abs/2408.11801),[Page](https://yuzhou914.github.io/Story3D-Agent/)]
 
 [arxiv 2024.10] Storynizor: Consistent Story Generation via Inter-Frame Synchronized and Shuffled ID Injection  [[PDF](https://arxiv.org/abs/2409.19624)]
+
+
 
 [arxiv 2024.11]  StoryAgent: Customized Storytelling Video Generation via Multi-Agent Collaboration [[PDF](https://arxiv.org/abs/2411.04925),[Page](https://github.com/storyagent123/Comparison-of-storytelling-video-results/blob/main/demo/readme.md)]
 
@@ -1939,8 +1953,10 @@ Cross-Attention Control [[PDF](https://arxiv.org/abs/2402.13404)]
 
 [arxiv 2024.11]  Leveraging Previous Steps: A Training-free Fast Solver for Flow Diffusion [[PDF](https://arxiv.org/abs/2411.07627)]
 
-[arxiv 2024.11]   [[PDF](),[Page]()]
+[arxiv 2024.11] Adaptive Non-Uniform Timestep Sampling for Diffusion Model Training [[PDF](https://arxiv.org/abs/2411.09998)]
 
+
+[arxiv 2024.11]   [[PDF](),[Page]()]
 
 ## consistency model 
 [arxiv 2024.10] Simplifying, stabilizing, and scaling continuous-time consistency models  [[PDF](https://arxiv.org/abs/2410.11081),[Page](https://openai.com/index/simplifying-stabilizing-and-scaling-continuous-time-consistency-models/)]
