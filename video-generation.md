@@ -835,6 +835,8 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2024.09] Portrait Video Editing Empowered by Multimodal Generative Priors [[PDF](https://arxiv.org/abs/2409.13591),[Page](https://ustc3dv.github.io/PortraitGen/)]
 
+[arxiv 2024.09] CyberHost: Taming Audio-driven Avatar Diffusion Model with Region Codebook Attention [[PDF](https://arxiv.org/pdf/2409.01876),[Page](https://cyberhost.github.io/)]
+
 [arxiv 2024.10] Hallo2: Long-Duration and High-Resolution Audio-Driven Portrait Image Animation [[PDF](https://arxiv.org/abs/2410.07718),[Page]()]
 
 [arxiv 2024.10] MuseTalk: Real-Time High Quality Lip Synchronization with Latent Space Inpainting [[PDF](https://arxiv.org/abs/2410.10122),[Page](https://github.com/TMElyralab/MuseTalk)]
@@ -846,6 +848,7 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 [arxiv 2024.11] X-Portrait 2: Highly Expressive Portrait Animation [[PDF](),[Page](https://byteaigc.github.io/X-Portrait2/)]
 
 [arxiv 2024.11] EchoMimicV2: Towards Striking, Simplified, and Semi-Body Human Animation[[PDF](https://arxiv.org/abs/2411.10061),[Page](https://antgroup.github.io/ai/echomimic_v2/)]
+
 
 [arxiv 2024.11]  [[PDF](),[Page]()]
 
