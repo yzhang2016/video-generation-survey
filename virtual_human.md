@@ -29,6 +29,9 @@
 ## Hands 
 [arxiv 2024.10]Learning Interaction-aware 3D Gaussian Splatting for One-shot Hand Avatars [[PDF](https://arxiv.org/abs/2410.08840),[Page](https://github.com/XuanHuang0/GuassianHand)]
 
+[arxiv 2024.11] UniHands: Unifying Various Wild-Collected Keypoints for Personalized Hand Reconstruction  [[PDF](https://arxiv.org/abs/2411.11845),[Page]()]
+
+
 [arxiv 2024.11]   [[PDF](),[Page]()]
 
 
