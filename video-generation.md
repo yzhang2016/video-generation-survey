@@ -600,6 +600,10 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2024.11] Motion Control for Enhanced Complex Action Video Generation [[PDF](https://arxiv.org/abs/2411.08328),[Page](https://mvideo-v1.github.io/)]
 
+[arxiv 2024.11] AnimateAnything: Consistent and Controllable Animation for Video Generation [[PDF](https://arxiv.org/abs/2411.10836),[Page](https://yu-shaonian.github.io/Animate_Anything/)]
+
+[arxiv 2024.11] OnlyFlow: Optical Flow based Motion Conditioning for Video Diffusion Models [[PDF](https://arxiv.org/abs/2411.10501)]
+
 
 [arxiv 2024.11]  [[PDF](),[Page]()]
 
@@ -645,6 +649,8 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 [arxiv 2024.11] ReCapture: Generative Video Camera Controls for User-Provided Videos using Masked Video Fine-Tuning [[PDF](https://arxiv.org/abs/2411.05003),[Page](https://generative-video-camera-controls.github.io/)]
 
 [arxiv 2024.11] I2VControl-Camera: Precise Video Camera Control with Adjustable Motion Strength [[PDF](https://arxiv.org/abs/2411.06525)]
+
+[arxiv 2024.11] AnimateAnything: Consistent and Controllable Animation for Video Generation [[PDF](https://arxiv.org/abs/2411.10836),[Page](https://yu-shaonian.github.io/Animate_Anything/)]
 
 [arxiv 2024.11]  [[PDF](),[Page]()]
 
@@ -762,6 +768,7 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2024.11] EgoVid-5M: A Large-Scale Video-Action Dataset for Egocentric Video Generation [[PDF](https://arxiv.org/abs/2411.08380), [Page](https://egovid.github.io/)]
 
+[arxiv 2024.11] FlipSketch: Flipping Static Drawings to Text-Guided Sketch Animations [[PDF](https://arxiv.org/abs/2411.10818), [Page](https://github.com/hmrishavbandy/FlipSketch)]
 
 [arxiv 2024.11]  [[PDF](), [Page]()]
 
@@ -1238,6 +1245,8 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 [arxiv 2024.10] The Dawn of Video Generation: Preliminary Explorations with SORA-like Models [[PDF](https://arxiv.org/abs/2410.05227),[Page](https://ailab-cvc.github.io/VideoGen-Eval/)]
 
 [arxiv 2024.10] Beyond FVD: Enhanced Evaluation Metrics for Video Generation Quality[[PDF](https://arxiv.org/abs/2410.05203),[Page](https://oooolga.github.io/JEDi.github.io/)]
+
+[arxiv 2024.11] ViBe: A Text-to-Video Benchmark for Evaluating Hallucination in Large Multimodal Models [[PDF](https://arxiv.org/abs/2411.10867),[Page](https://vibe-t2v-bench.github.io/)]
 
 [arxiv 2024.11]  [[PDF](),[Page]()]
 
