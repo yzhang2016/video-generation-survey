@@ -9,7 +9,6 @@
 
 ### [Awesome-Multimodal-Large-Language-Models](https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models)
 
-
 [arxiv 2023.07]Generative Pretraining in Multimodality [[PDF](https://arxiv.org/abs/2307.05222),[Page](https://github.com/baaivision/Emu)]
 
 [arxiv 2023.07]Generating Images with Multimodal Language Models [[PDF](https://arxiv.org/abs/2305.17216),[Page](https://jykoh.com/gill)]
@@ -92,6 +91,7 @@
 
 [arxiv 2024.10]Remember, Retrieve and Generate: Understanding Infinite Visual Concepts as Your Personalized Assistant [[PDF](https://arxiv.org/abs/2410.13360), [Page](https://github.com/Hoar012/RAP-MLLM)]
 
+[arxiv 2024.11] LLaVA-o1: Let Vision Language Models Reason Step-by-Step[[PDF](https://arxiv.org/abs/2411.10440), [Page]()]
 
 [arxiv 2024.11] [[PDF](), [Page]()]
 
