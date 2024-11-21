@@ -93,8 +93,9 @@
 
 [arxiv 2024.11] LLaVA-o1: Let Vision Language Models Reason Step-by-Step[[PDF](https://arxiv.org/abs/2411.10440), [Page]()]
 
-[arxiv 2024.11] [[PDF](), [Page]()]
+[arxiv 2024.11] CATCH: Complementary Adaptive Token-level Contrastive Decoding to Mitigate Hallucinations in LVLMs[[PDF](https://arxiv.org/abs/2411.12713)]
 
+[arxiv 2024.11] [[PDF](), [Page]()]
 
 ## multi-modality evaluation 
 
