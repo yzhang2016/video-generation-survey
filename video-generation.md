@@ -1253,6 +1253,8 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2024.11] ViBe: A Text-to-Video Benchmark for Evaluating Hallucination in Large Multimodal Models [[PDF](https://arxiv.org/abs/2411.10867),[Page](https://vibe-t2v-bench.github.io/)]
 
+[arxiv 2024.11] VBench++: Comprehensive and Versatile Benchmark Suite for Video Generative Models [[PDF](https://arxiv.org/abs/2411.13503),[Page](https://github.com/Vchitect/VBench)]
+
 [arxiv 2024.11]  [[PDF](),[Page]()]
 
 ## Survey
