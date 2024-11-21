@@ -212,7 +212,7 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [ECCV 2022; Microsoft] **---NÜWA--** NÜWA: Visual Synthesis Pre-training for Neural visUal World creAtion \[[PDF](https://arxiv.org/pdf/2111.12417.pdf), code \]
 
-[NIPS 2022; Microsoft] **---NÜWA-Infinity--** NUWA-Infinity: Autoregressive over Autoregressive Generation for Infinite Visual Synthesis \[[PDF](https://arxiv.org/pdf/2207.09814.pdf), code \]
+[NIPS 2022; Microsoft] **---NÜWA-Infinity--** NUWA-Infinity: Autoregressive over Autoregressive Genera#tion for Infinite Visual Synthesis \[[PDF](https://arxiv.org/pdf/2207.09814.pdf), code \]
 
 [Arxiv 2020; Tsinghua] **---CogVideo--** CogVideo: Large-scale Pretraining for Text-to-Video Generation via Transformers \[[PDF](https://arxiv.org/pdf/2205.15868.pdf), [code](https://github.com/THUDM/CogVideo) \]
 
@@ -1357,7 +1357,7 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2024.11] Generative World Explorer [[PDF](https://arxiv.org/abs/2411.11844),[Page](http://generative-world-explorer.github.io/)]
 
-[arxiv 2024.11] The Matrix： Infinite-Horizon World Generation with Real-Time Interaction [[PDF](),[Page](https://thematrix1999.github.io/)]
+[arxiv 2024.11] The Matrix： Infinite-Horizon World Generation with Real-Time Interaction [[PDF](https://thematrix1999.github.io/article/the_matrix.pdf),[Page](https://thematrix1999.github.io/)]
 
 [arxiv 2024.11]  [[PDF](),[Page]()]
 
