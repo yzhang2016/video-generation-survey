@@ -1357,6 +1357,8 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2024.11] Generative World Explorer [[PDF](https://arxiv.org/abs/2411.11844),[Page](http://generative-world-explorer.github.io/)]
 
+[arxiv 2024.11] The Matrix： Infinite-Horizon World Generation with Real-Time Interaction [[PDF](),[Page](https://thematrix1999.github.io/)]
+
 [arxiv 2024.11]  [[PDF](),[Page]()]
 
 ## CV Related 
