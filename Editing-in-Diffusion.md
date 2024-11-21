@@ -1642,6 +1642,7 @@ Cross-Attention Control [[PDF](https://arxiv.org/abs/2402.13404)]
 
 [arxiv 2024.11] S3 Mamba: Arbitrary-Scale Super-Resolution via Scaleable State Space Model  [[PDF](https://arxiv.org/abs/2411.11906),[Page](https://github.com/xiapeizhe12138/S3Mamba-ArbSR)]
 
+[arxiv 2024.11]  HF-Diff: High-Frequency Perceptual Loss and Distribution Matching for One-Step Diffusion-Based Image Super-Resolution [[PDF](https://arxiv.org/abs/2411.13548),[Page](https://github.com/shoaib-sami/HF-Diff)]
 
 [arxiv 2024.11]   [[PDF](),[Page]()]
 
