@@ -1017,7 +1017,7 @@
 
 [arxiv 2024.06] Inv-Adapter: ID Customization Generation via Image Inversion and Lightweight Adapter[[PDF](https://arxiv.org/abs/2406.02881)]
 
-[arxiv 2024.06] AttnDreamBooth: Towards Text-Aligned Personalized Text-to-Image Generation [[PDF](https://arxiv.org/abs/2406.05000),[Page](https://attndreambooth.github.io/)]
+[arxiv 2024.06] AttnDreamBooth: Towards Text-Aligned Personalized Text-to-Image Generation [[PDF](https://arxiv.org/abs/2406.05000),[Page](https://attndreambooth.github.io/)] ![Code](https://img.shields.io/github/stars/lyuPang/AttnDreamBooth?style=social&label=Star)
 
 [arxiv 2024.06]Tuning-Free Visual Customization via View Iterative Self-Attention Control[[PDF](https://arxiv.org/abs/2406.06258)]
 
