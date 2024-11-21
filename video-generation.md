@@ -167,6 +167,8 @@ A reading list of video generation
 
 [arxiv 2024.11] Improved Video VAE for Latent Video Diffusion Model [[PDF](https://arxiv.org/abs/2411.06449),[Page](https://wpy1999.github.io/IV-VAE/)]
 
+[arxiv 2024.11] REDUCIO! Generating 1024×1024 Video within 16 Seconds using Extremely Compressed Motion Latents [[PDF](https://arxiv.org/abs/2411.13552),[Page](https://github.com/microsoft/Reducio-VAE)] [img alt="GitHub stars" style="vertical-align:middle" src="https://img.shields.io/github/stars/OpenTalker/ToonTalker?style=social"]
+
 
 [arxiv 2024.11]  [[PDF](),[Page]()]
 
