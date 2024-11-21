@@ -686,6 +686,9 @@
 
 [arxiv 2024.11] Scalable Autoregressive Monocular Depth Estimation  [[PDF](https://arxiv.org/abs/2411.11361)]
 
+[arxiv 2024.11] Continuous Speculative Decoding for Autoregressive Image Generation [[PDF](https://arxiv.org/abs/2411.11925),[Page](https://github.com/MarkXCloud/CSpD)]
+
+
 [arxiv 2024.11]   [[PDF](),[Page]()]
 
 ## Distill Diffusion Model 
@@ -1211,8 +1214,9 @@ Cross-Attention Control [[PDF](https://arxiv.org/abs/2402.13404)]
 
 [arxiv 2024.10] Story-Adapter: A Training-free Iterative Framework for Long Story Visualization  [[PDF](https://arxiv.org/abs/2410.06244),[Page](https://jwmao1.github.io/storyadapter)] 
 
-[arxiv 2024.11]   [[PDF](),[Page]()] 
+[arxiv 2024.11]  HouseLLM: LLM-Assisted Two-Phase Text-to-Floorplan Generation [[PDF](https://arxiv.org/abs/2411.12279)] 
 
+[arxiv 2024.11]   [[PDF](),[Page]()] 
 
 ## SVG
 [arxiv 2022.11; UCB] VectorFusion: Text-to-SVG by Abstracting Pixel-Based Diffusion Models \[[PDF](https://arxiv.org/abs/2211.11319)\]
@@ -1636,6 +1640,8 @@ Cross-Attention Control [[PDF](https://arxiv.org/abs/2402.13404)]
 
 [arxiv 2024.11] DR-BFR: Degradation Representation with Diffusion Models for Blind Face Restoration  [[PDF](https://arxiv.org/abs/2411.10508)]
 
+[arxiv 2024.11] S3 Mamba: Arbitrary-Scale Super-Resolution via Scaleable State Space Model  [[PDF](https://arxiv.org/abs/2411.11906),[Page](https://github.com/xiapeizhe12138/S3Mamba-ArbSR)]
+
 
 [arxiv 2024.11]   [[PDF](),[Page]()]
 
@@ -1964,6 +1970,7 @@ Cross-Attention Control [[PDF](https://arxiv.org/abs/2402.13404)]
 
 [arxiv 2024.11] Adaptive Non-Uniform Timestep Sampling for Diffusion Model Training [[PDF](https://arxiv.org/abs/2411.09998)]
 
+[arxiv 2024.11]  PoM: Efficient Image and Video Generation with the Polynomial Mixer [[PDF](https://arxiv.org/abs/2411.12663),[Page](https://github.com/davidpicard/HoMM)]
 
 [arxiv 2024.11]   [[PDF](),[Page]()]
 
