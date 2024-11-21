@@ -1023,11 +1023,11 @@
 
 [arxiv 2024.06]PaRa: Personalizing Text-to-Image Diffusion via Parameter Rank Reduction[[PDF](https://arxiv.org/pdf/2406.05641)]
 
-[arxiv 2024.06]MS-Diffusion: Multi-subject Zero-shot Image Personalization with Layout Guidance [[PDF](https://arxiv.org/abs/2406.07209), [Page](https://ms-diffusion.github.io/)]
+[arxiv 2024.06]MS-Diffusion: Multi-subject Zero-shot Image Personalization with Layout Guidance [[PDF](https://arxiv.org/abs/2406.07209), [Page](https://ms-diffusion.github.io/)] ![Code](https://img.shields.io/github/stars/MS-Diffusion/MS-Diffusion?style=social&label=Star)
 
-[arxiv 2024.06] Interpreting the Weight Space of Customized Diffusion Models[[PDF](https://arxiv.org/abs/2406.09413), [Page](https://snap-research.github.io/weights2weights)]
+[arxiv 2024.06] Interpreting the Weight Space of Customized Diffusion Models[[PDF](https://arxiv.org/abs/2406.09413), [Page](https://snap-research.github.io/weights2weights)] ![Code](https://img.shields.io/github/stars/snap-research/weights2weights?style=social&label=Star)
 
-[arxiv 2024.06]DreamBench++: A Human-Aligned Benchmark for Personalized Image Generation [[PDF](https://arxiv.org/abs/2406.16855), [Page](https://dreambenchplus.github.io/)]
+[arxiv 2024.06]DreamBench++: A Human-Aligned Benchmark for Personalized Image Generation [[PDF](https://arxiv.org/abs/2406.16855), [Page](https://dreambenchplus.github.io/)] ![Code](https://img.shields.io/github/stars/yuangpeng/dreambench_plus?style=social&label=Star)
 
 [arxiv 2024.06]Character-Adapter: Prompt-Guided Region Control for High-Fidelity Character Customization[[PDF](https://arxiv.org/abs/2406.16537)]
 
@@ -1039,11 +1039,11 @@
 
 [arxiv 2024.07]LogoSticker: Inserting Logos into Diffusion Models for Customized Generation [[PDF](https://arxiv.org/abs/2407.13752), [Page](https://mingkangz.github.io/logosticker/)]
 
-[arxiv 2024.07] MovieDreamer: Hierarchical Generation for Coherent Long Visual Sequence  [[PDF](https://arxiv.org/abs/2407.16655),[Page](https://aim-uofa.github.io/MovieDreamer/)]
+[arxiv 2024.07] MovieDreamer: Hierarchical Generation for Coherent Long Visual Sequence  [[PDF](https://arxiv.org/abs/2407.16655),[Page](https://aim-uofa.github.io/MovieDreamer/)] ![Code](https://img.shields.io/github/stars/aim-uofa/MovieDreamer?style=social&label=Star)
 
-[arxiv 2024.08]Concept Conductor: Orchestrating Multiple Personalized Concepts in Text-to-Image Synthesis [[PDF](https://arxiv.org/abs/2408.03632), [Page](https://github.com/Nihukat/Concept-Conductor)]
+[arxiv 2024.08]Concept Conductor: Orchestrating Multiple Personalized Concepts in Text-to-Image Synthesis [[PDF](https://arxiv.org/abs/2408.03632), [Page](https://github.com/Nihukat/Concept-Conductor)] ![Code](https://img.shields.io/github/stars/Nihukat/Concept-Conductor?style=social&label=Star)
 
-[arxiv 2024.08]PreciseControl: Enhancing Text-To-Image Diffusion Models with Fine-Grained Attribute Control [[PDF](https://arxiv.org/abs/2408.05083), [Page](https://rishubhpar.github.io/PreciseControl.home/)]
+[arxiv 2024.08]PreciseControl: Enhancing Text-To-Image Diffusion Models with Fine-Grained Attribute Control [[PDF](https://arxiv.org/abs/2408.05083), [Page](https://rishubhpar.github.io/PreciseControl.home/)] ![Code](https://img.shields.io/github/stars/rishubhpar/PreciseControl?style=social&label=Star) 
 
 [arxiv 2024.08] DiffLoRA: Generating Personalized Low-Rank Adaptation Weights with Diffusion[[PDF](https://arxiv.org/abs/2408.06740)]
 
@@ -1057,10 +1057,10 @@
 
 [arxiv 2024.09]GroundingBooth: Grounding Text-to-Image Customization [[PDF](https://arxiv.org/abs/2409.08520), [Page](https://groundingbooth.github.io/)]
 
-[arxiv 2024.09]TextBoost: Towards One-Shot Personalization of Text-to-Image Models via Fine-tuning Text Encoder [[PDF](https://arxiv.org/abs/2409.08248), [Page](https://textboost.github.io/)] 
+[arxiv 2024.09]TextBoost: Towards One-Shot Personalization of Text-to-Image Models via Fine-tuning Text Encoder [[PDF](https://arxiv.org/abs/2409.08248), [Page](https://textboost.github.io/)]  ![Code](https://img.shields.io/github/stars/nahyeonkaty/textboost?style=social&label=Star)
 
 
-[arxiv 2024.09]SaRA: High-Efficient Diffusion Model Fine-tuning with Progressive Sparse Low-Rank Adaptation [[PDF](https://export.arxiv.org/abs/2409.06633), [Page](https://sjtuplayer.github.io/projects/SaRA/)]
+[arxiv 2024.09]SaRA: High-Efficient Diffusion Model Fine-tuning with Progressive Sparse Low-Rank Adaptation [[PDF](https://export.arxiv.org/abs/2409.06633), [Page](https://sjtuplayer.github.io/projects/SaRA/)] ![Code](https://img.shields.io/github/stars/sjtuplayer/SaRA?style=social&label=Star)
 
 [arxiv 2024.09] Resolving Multi-Condition Confusion for Finetuning-Free Personalized Image Generation[[PDF](https://arxiv.org/abs/2409.17920), [Page](https://github.com/hqhQAQ/MIP-Adapter)]  ![Code](https://img.shields.io/github/stars/hqhQAQ/MIP-Adapter?style=social&label=Star)
 
@@ -1072,7 +1072,7 @@
 
 [arxiv 2024.10]Event-Customized Image Generation[[PDF](https://arxiv.org/abs/2410.02483)]
 
-[arxiv 2024.10] DisEnvisioner: Disentangled and Enriched Visual Prompt for Customized Image Generation [[PDF](https://arxiv.org/abs/2410.02067),[Page](https://disenvisioner.github.io/)]
+[arxiv 2024.10] DisEnvisioner: Disentangled and Enriched Visual Prompt for Customized Image Generation [[PDF](https://arxiv.org/abs/2410.02067),[Page](https://disenvisioner.github.io/)] ![Code](https://img.shields.io/github/stars/EnVision-Research/DisEnvisioner?style=social&label=Star)
 
 [arxiv 2024.10] HybridBooth: Hybrid Prompt Inversion for Efficient Subject-Driven Generation  [[PDF](https://arxiv.org/abs/2410.08192),[Page](https://sites.google.com/view/hybridbooth)]
 
@@ -1080,7 +1080,7 @@
 
 [arxiv 2024.10]  FaceChain-FACT: Face Adapter with Decoupled Training for Identity-preserved Personalization [[PDF](https://arxiv.org/abs/2410.12312),[Page](https://github.com/modelscope/facechain)] ![Code](https://img.shields.io/github/stars/modelscope/facechain?style=social&label=Star)
 
-[arxiv 2024.10] MagicTailor: Component-Controllable Personalization in Text-to-Image Diffusion Models  [[PDF](https://arxiv.org/abs/2410.13370),[Page](https://correr-zhou.github.io/MagicTailor)]
+[arxiv 2024.10] MagicTailor: Component-Controllable Personalization in Text-to-Image Diffusion Models  [[PDF](https://arxiv.org/abs/2410.13370),[Page](https://correr-zhou.github.io/MagicTailor)] ![Code](https://img.shields.io/github/stars/correr-zhou/MagicTailor?style=social&label=Star)
 
 [arxiv 2024.10] Unbounded: A Generative Infinite Game of Character Life Simulation  [[PDF](https://arxiv.org/abs/2410.18975),[Page](https://generative-infinite-game.github.io/)]
 
