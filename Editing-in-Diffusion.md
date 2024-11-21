@@ -408,7 +408,7 @@
 
 [arxiv 2024.11]  Test-time Conditional Text-to-Image Synthesis Using Diffusion Models [[PDF](https://arxiv.org/abs/2411.10800)]
 
-[arxiv 2024.11]   [[PDF](),[Page]()]
+[arxiv 2024.11]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 
 ## Unified Generation
@@ -416,7 +416,7 @@
 [arxiv 2024.10] A Simple Approach to Unifying Diffusion-based Conditional Generation [[PDF](https://arxiv.org/abs/2410.11439),[Page](https://lixirui142.github.io/unicon-diffusion/)]
 
 
-[arxiv 2024.11]   [[PDF](),[Page]()]
+[arxiv 2024.11]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 ## Generation and Understanding in a Unified Framework 
 [arxiv 2024.11] Diff-2-in-1: Bridging Generation and Dense Perception with Diffusion Models  [[PDF](https://arxiv.org/abs/2411.05005),[Page]()]
@@ -424,7 +424,7 @@
 [arxiv 2024.11] Scaling Properties of Diffusion Models for Perceptual Tasks  [[PDF](https://arxiv.org/abs/2411.08034),[Page](https://scaling-diffusion-perception.github.io/)]
 
 
-[arxiv 2024.11]   [[PDF](),[Page]()]
+[arxiv 2024.11]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 ## Architecture
 
@@ -452,7 +452,7 @@
 
 [arxiv 2024.10] On Inductive Biases That Enable Generalization of Diffusion Transformers  [[PDF](https://arxiv.org/abs/2410.21273),[Page](https://dit-generalization.github.io/)]
 
-[arxiv 2024.11]   [[PDF](),[Page]()]
+[arxiv 2024.11]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 
 
@@ -465,7 +465,7 @@
 [arxiv 2024.10] Consistency Diffusion Bridge Models  [[PDF](https://arxiv.org/abs/2410.22637)]
 
 
-[arxiv 2024.11]   [[PDF](),[Page]()]
+[arxiv 2024.11]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 ## Instruct for editing 
 [arxiv 2024.07] GenArtist: Multimodal LLM as an Agent for Unified Image Generation and Editing  [[PDF](https://arxiv.org/abs/2407.05600),[Page](https://zhenyuw16.github.io/GenArtist_page/)]
@@ -478,7 +478,7 @@
 
 [arxiv 2024.11] OmniEdit: Building Image Editing Generalist Models Through Specialist Supervision [[PDF](https://arxiv.org/abs/2411.07199),[Page](https://tiger-ai-lab.github.io/OmniEdit/)]
 
-[arxiv 2024.11]   [[PDF](),[Page]()]
+[arxiv 2024.11]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 ## Improve T2I base modules
 [arxiv 2023]LLM Blueprint: Enabling Text-to-Image Generation with Complex and Detailed Prompts [[PDF](https://arxiv.org/abs/2310.10640),[Page](https://github.com/hananshafi/llmblueprint)]
@@ -650,7 +650,7 @@
 
 
 
-[arxiv 2024.11]   [[PDF](),[Page]()]
+[arxiv 2024.11]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 ## VAE 
 
@@ -658,7 +658,7 @@
 
 [arxiv 2024.11]  Adaptive Length Image Tokenization via Recurrent Allocation [[PDF](https://arxiv.org/abs/2411.02393),[Page](https://github.com/ShivamDuggal4/adaptive-length-tokenizer)]
 
-[arxiv 2024.11]   [[PDF](),[Page]()]
+[arxiv 2024.11]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 
 ## autoregressive
@@ -689,7 +689,7 @@
 [arxiv 2024.11] Continuous Speculative Decoding for Autoregressive Image Generation [[PDF](https://arxiv.org/abs/2411.11925),[Page](https://github.com/MarkXCloud/CSpD)]
 
 
-[arxiv 2024.11]   [[PDF](),[Page]()]
+[arxiv 2024.11]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 ## Distill Diffusion Model 
 [arxiv 2024.05]Distilling Diffusion Models into Conditional GANs [[PDF](https://arxiv.org/abs/2405.05967),[Page](https://mingukkang.github.io/Diffusion2GAN/)]
@@ -746,7 +746,7 @@
 
 [arxiv 2024.11]  FitDiT: Advancing the Authentic Garment Details for High-fidelity Virtual Try-on [[PDF](https://arxiv.org/abs/2411.10499),[Page](https://byjiang.com/FitDiT/)]
 
-[arxiv 2024.11]   [[PDF](),[Page]()]
+[arxiv 2024.11]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 
 ## Model adapatation/Merge 
@@ -755,7 +755,7 @@
 [arxiv 2024.10]  Model merging with SVD to tie the Knots [[PDF](https://arxiv.org/abs/2410.19735),[Page](https://github.com/gstoica27/KnOTS)]
 
 
-[arxiv 2024.11]   [[PDF](),[Page]()]
+[arxiv 2024.11]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 
 
@@ -779,7 +779,7 @@
 
 [arxiv 2024.10]  TextMaster: Universal Controllable Text Edit [[PDF](https://arxiv.org/abs/2410.09879),[Page]()]
 
-[arxiv 2024.11]   [[PDF](),[Page]()]
+[arxiv 2024.11]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 ## Caption 
 
@@ -790,7 +790,7 @@
 [arxiv 2024.11] Precision or Recall? An Analysis of Image Captions for Training Text-to-Image Generation Model  [[PDF](https://arxiv.org/abs/2411.05079),[Page](https://github.com/shengcheng/Captions4T2I)]
 
 
-[arxiv 2024.11]   [[PDF](),[Page]()]
+[arxiv 2024.11]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 
 ## face swapping 
@@ -800,7 +800,7 @@
 
 [arxiv 2024.11] MegaPortrait: Revisiting Diffusion Control for High-fidelity Portrait Generation  [[PDF](https://arxiv.org/abs/2411.04357)]
 
-[arxiv 2024.11]   [[PDF](),[Page]()]
+[arxiv 2024.11]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
  
 ## Concept / personalization
 *[Arxiv.2208; NVIDIA]  ***An Image is Worth One Word:*** Personalizing Text-to-Image Generation using Textual Inversion [[PDF](https://arxiv.org/abs/2208.01618), [Page](https://github.com/rinongal/textual_inversion), [Code](https://github.com/rinongal/textual_inversion) ]
@@ -1062,7 +1062,7 @@
 
 [arxiv 2024.09]SaRA: High-Efficient Diffusion Model Fine-tuning with Progressive Sparse Low-Rank Adaptation [[PDF](https://export.arxiv.org/abs/2409.06633), [Page](https://sjtuplayer.github.io/projects/SaRA/)]
 
-[arxiv 2024.09] Resolving Multi-Condition Confusion for Finetuning-Free Personalized Image Generation[[PDF](https://arxiv.org/abs/2409.17920), [Page](https://github.com/hqhQAQ/MIP-Adapter)]
+[arxiv 2024.09] Resolving Multi-Condition Confusion for Finetuning-Free Personalized Image Generation[[PDF](https://arxiv.org/abs/2409.17920), [Page](https://github.com/hqhQAQ/MIP-Adapter)]  ![Code](https://img.shields.io/github/stars/hqhQAQ/MIP-Adapter?style=social&label=Star)
 
 [arxiv 2024.09] Imagine yourself: Tuning-Free Personalized Image Generation[[PDF](https://arxiv.org/abs/2409.13346)]
 
@@ -1078,27 +1078,27 @@
 
 [arxiv 2024.10]  Learning to Customize Text-to-Image Diffusion In Diverse Context [[PDF](https://arxiv.org/abs/2410.10058)]
 
-[arxiv 2024.10]  FaceChain-FACT: Face Adapter with Decoupled Training for Identity-preserved Personalization [[PDF](https://arxiv.org/abs/2410.12312),[Page](https://github.com/modelscope/facechain)]
+[arxiv 2024.10]  FaceChain-FACT: Face Adapter with Decoupled Training for Identity-preserved Personalization [[PDF](https://arxiv.org/abs/2410.12312),[Page](https://github.com/modelscope/facechain)] ![Code](https://img.shields.io/github/stars/modelscope/facechain?style=social&label=Star)
 
 [arxiv 2024.10] MagicTailor: Component-Controllable Personalization in Text-to-Image Diffusion Models  [[PDF](https://arxiv.org/abs/2410.13370),[Page](https://correr-zhou.github.io/MagicTailor)]
 
 [arxiv 2024.10] Unbounded: A Generative Infinite Game of Character Life Simulation  [[PDF](https://arxiv.org/abs/2410.18975),[Page](https://generative-infinite-game.github.io/)]
 
-[arxiv 2024.10] How to Continually Adapt Text-to-Image Diffusion Models for Flexible Customization?  [[PDF](https://arxiv.org/abs/2410.17594),[Page](https://github.com/JiahuaDong/CIFC)]
+[arxiv 2024.10] How to Continually Adapt Text-to-Image Diffusion Models for Flexible Customization?  [[PDF](https://arxiv.org/abs/2410.17594),[Page](https://github.com/JiahuaDong/CIFC)] ![Code](https://img.shields.io/github/stars/JiahuaDong/CIFC?style=social&label=Star)
 
 [arxiv 2024.10] RelationBooth: Towards Relation-Aware Customized Object Generation  [[PDF](https://arxiv.org/abs/2410.23280),[Page](https://shi-qingyu.github.io/RelationBooth/)]
 
-[arxiv 2024.10]  In-Context LoRA for Diffusion Transformers [[PDF](https://arxiv.org/pdf/2410.23775),[Page](https://github.com/ali-vilab/In-Context-LoRA)]
+[arxiv 2024.10]  In-Context LoRA for Diffusion Transformers [[PDF](https://arxiv.org/pdf/2410.23775),[Page](https://github.com/ali-vilab/In-Context-LoRA)] ![Code](https://img.shields.io/github/stars/ali-vilab/In-Context-LoRA?style=social&label=Star)
 
-[arxiv 2024.10] Novel Object Synthesis via Adaptive Text-Image Harmony  [[PDF](https://arxiv.org/abs/2410.20823),[Page](https://xzr52.github.io/ATIH/)]
+[arxiv 2024.10] Novel Object Synthesis via Adaptive Text-Image Harmony  [[PDF](https://arxiv.org/abs/2410.20823),[Page](https://xzr52.github.io/ATIH/)] 
 
-[arxiv 2024.11] Hollowed Net for On-Device Personalization of Text-to-Image Diffusion Models  [[PDF](https://arxiv.org/abs/2411.01179),[Page]()]
+[arxiv 2024.11] Hollowed Net for On-Device Personalization of Text-to-Image Diffusion Models  [[PDF](https://arxiv.org/abs/2411.01179)]
 
-[arxiv 2024.11] DomainGallery: Few-shot Domain-driven Image Generation by Attribute-centric Finetuning  [[PDF](https://arxiv.org/abs/2411.04571),[Page](https://github.com/Ldhlwh/DomainGallery)]
+[arxiv 2024.11] DomainGallery: Few-shot Domain-driven Image Generation by Attribute-centric Finetuning  [[PDF](https://arxiv.org/abs/2411.04571),[Page](https://github.com/Ldhlwh/DomainGallery)] ![Code](https://img.shields.io/github/stars/Ldhlwh/DomainGallery?style=social&label=Star)
 
 [arxiv 2024.11] Group Diffusion Transformers are Unsupervised Multitask Learners  [[PDF](https://arxiv.org/abs/2410.15027)]
 
-[arxiv 2024.11]   [[PDF](),[Page]()]
+[arxiv 2024.11]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 
 ## Story-telling
@@ -1148,7 +1148,7 @@
 [arxiv 2024.11]  StoryAgent: Customized Storytelling Video Generation via Multi-Agent Collaboration [[PDF](https://arxiv.org/abs/2411.04925),[Page](https://github.com/storyagent123/Comparison-of-storytelling-video-results/blob/main/demo/readme.md)]
 
 
-[arxiv 2024.11]   [[PDF](),[Page]()]
+[arxiv 2024.11]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 ## Layout Generation 
 [arxiv 2022.08]Layout-Bridging Text-to-Image Synthesis [[PDF](https://arxiv.org/pdf/2208.06162.pdf)]
@@ -1216,7 +1216,7 @@ Cross-Attention Control [[PDF](https://arxiv.org/abs/2402.13404)]
 
 [arxiv 2024.11]  HouseLLM: LLM-Assisted Two-Phase Text-to-Floorplan Generation [[PDF](https://arxiv.org/abs/2411.12279)] 
 
-[arxiv 2024.11]   [[PDF](),[Page]()] 
+[arxiv 2024.11]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
 
 ## SVG
 [arxiv 2022.11; UCB] VectorFusion: Text-to-SVG by Abstracting Pixel-Based Diffusion Models \[[PDF](https://arxiv.org/abs/2211.11319)\]
@@ -1241,7 +1241,7 @@ Cross-Attention Control [[PDF](https://arxiv.org/abs/2402.13404)]
 
 [arxiv 2024.05]  NIVeL: Neural Implicit Vector Layers for Text-to-Vector Generation  [[PDF](https://arxiv.org/abs/2405.15217)]
 
-[arxiv 2024.11]   [[PDF](),[Page]()]
+[arxiv 2024.11]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 
 
@@ -1498,7 +1498,7 @@ Cross-Attention Control [[PDF](https://arxiv.org/abs/2402.13404)]
 
 [arxiv 2024.11] Boundary Attention Constrained Zero-Shot Layout-To-Image Generation  [[PDF](https://arxiv.org/abs/2411.10495)]
 
-[arxiv 2024.11]   [[PDF](),[Page]()]
+[arxiv 2024.11]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 ## Image Variation 
 [arxiv 2023.08]IP-Adapter: Text Compatible Image Prompt Adapter for Text-to-Image Diffusion Models [[PDF](https://arxiv.org/pdf/2308.06721.pdf), [Page](https://ip-adapter.github.io/)]
@@ -1644,20 +1644,20 @@ Cross-Attention Control [[PDF](https://arxiv.org/abs/2402.13404)]
 
 [arxiv 2024.11]  HF-Diff: High-Frequency Perceptual Loss and Distribution Matching for One-Step Diffusion-Based Image Super-Resolution [[PDF](https://arxiv.org/abs/2411.13548),[Page](https://github.com/shoaib-sami/HF-Diff)]
 
-[arxiv 2024.11]   [[PDF](),[Page]()]
+[arxiv 2024.11]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 
 ## translation 
 [arxiv 2024.10] CtrLoRA: An Extensible and Efficient Framework for Controllable Image Generation  [[PDF](https://arxiv.org/abs/2410.09400),[Page](https://github.com/xyfJASON/ctrlora)]
 
-[arxiv 2024.11]   [[PDF](),[Page]()]
+[arxiv 2024.11]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 
 
 ## action transfer 
 [arxiv 2023.11]Learning Disentangled Identifiers for Action-Customized Text-to-Image Generation [[PDF](https://arxiv.org/abs/2311.15841)]
 
-[arxiv 2024.11]   [[PDF](),[Page]()]
+[arxiv 2024.11]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 ## Style transfer 
 [arxiv 22.11; kuaishou] ***DiffStyler***: Controllable Dual Diffusion for Text-Driven Image Stylization \[[PDF](https://arxiv.org/pdf/2211.10682.pdf), code\]  
@@ -1769,7 +1769,7 @@ Cross-Attention Control [[PDF](https://arxiv.org/abs/2402.13404)]
 
 [arxiv 2024.10] Harnessing the Latent Diffusion Model for Training-Free Image Style Transfer  [[PDF](https://arxiv.org/abs/2410.01366)]
 
-[arxiv 2024.11]   [[PDF](),[Page]()]
+[arxiv 2024.11]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 
 ## downstream apps
@@ -1787,34 +1787,34 @@ Cross-Attention Control [[PDF](https://arxiv.org/abs/2402.13404)]
 
 [arxiv 2024.10] Inverse Painting: Reconstructing The Painting Process[[PDF](https://arxiv.org/abs/2409.20556),[Page](https://inversepainting.github.io/)]
 
-[arxiv 2024.11]   [[PDF](),[Page]()]
+[arxiv 2024.11]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 
 
 ## world model 
 [arxiv 2024.10]  AVID: Adapting Video Diffusion Models to World Models [[PDF](https://arxiv.org/abs/2410.12822),[Page](https://github.com/microsoft/causica/tree/main/research_experiments/avid)]
 
-[arxiv 2024.11]   [[PDF](),[Page]()]
+[arxiv 2024.11]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 
 ## Mesh generation
 [arxiv 2024.09]  EdgeRunner: Auto-regressive Auto-encoder for Artistic Mesh Generation [[PDF](https://arxiv.org/abs/2409.18114),[Page](https://research.nvidia.com/labs/dir/edgerunner/)]
 
-[arxiv 2024.11]   [[PDF](),[Page]()]
+[arxiv 2024.11]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 ## depth 
 [arxiv 2024.09] Lotus: Diffusion-based Visual Foundation Model for High-quality Dense Prediction  [[PDF](https://arxiv.org/abs/2409.18124),[Page](https://lotus3d.github.io/)]
 
 [arxiv 2024.09]Self-Distilled Depth Refinement with Noisy Poisson Fusion [[PDF](https://arxiv.org/abs/2409.17880),[Page](https://github.com/lijia7/SDDR)]
 
-[arxiv 2024.11]   [[PDF](),[Page]()]
+[arxiv 2024.11]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 
 ## scaling
 
 [arxiv 2024.10]  FINE: Factorizing Knowledge for Initialization of Variable-sized Diffusion Models [[PDF](https://arxiv.org/pdf/2409.19289)]
 
-[arxiv 2024.11]   [[PDF](),[Page]()]
+[arxiv 2024.11]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 
 ## disentanglement
@@ -1830,7 +1830,7 @@ Cross-Attention Control [[PDF](https://arxiv.org/abs/2402.13404)]
 
 [arxiv 2024.10] FuseAnyPart: Diffusion-Driven Facial Parts Swapping via Multiple Reference Images  [[PDF](https://arxiv.org/abs/2410.22771),[Page](https://thomas-wyh.github.io/)]
 
-[arxiv 2024.11]   [[PDF](),[Page]()]
+[arxiv 2024.11]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 
 
@@ -1973,7 +1973,7 @@ Cross-Attention Control [[PDF](https://arxiv.org/abs/2402.13404)]
 
 [arxiv 2024.11]  PoM: Efficient Image and Video Generation with the Polynomial Mixer [[PDF](https://arxiv.org/abs/2411.12663),[Page](https://github.com/davidpicard/HoMM)]
 
-[arxiv 2024.11]   [[PDF](),[Page]()]
+[arxiv 2024.11]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 ## consistency model 
 [arxiv 2024.10] Simplifying, stabilizing, and scaling continuous-time consistency models  [[PDF](https://arxiv.org/abs/2410.11081),[Page](https://openai.com/index/simplifying-stabilizing-and-scaling-continuous-time-consistency-models/)]
@@ -1984,7 +1984,7 @@ Cross-Attention Control [[PDF](https://arxiv.org/abs/2402.13404)]
 
 [arxiv 2024.10] Truncated Consistency Models  [[PDF](https://arxiv.org/abs/2410.14895),[Page](https://truncated-cm.github.io/)]
 
-[arxiv 2024.11]   [[PDF](),[Page]()]
+[arxiv 2024.11]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 ## limited data 
 [arxiv 2023.06]Decompose and Realign: Tackling Condition Misalignment in Text-to-Image Diffusion Models [[PDF](https://arxiv.org/abs/2306.14153)]
@@ -2043,7 +2043,7 @@ Cross-Attention Control [[PDF](https://arxiv.org/abs/2402.13404)]
 [arxiv 2024.11]  Diffusion Models as Cartoonists! The Curious Case of High Density Regions [[PDF](https://arxiv.org/pdf/2411.01293)]
 
 
-[arxiv 2024.11]   [[PDF](),[Page]()]
+[arxiv 2024.11]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 ## Evaluation 
 
@@ -2075,7 +2075,7 @@ Cross-Attention Control [[PDF](https://arxiv.org/abs/2402.13404)]
 
 [arxiv 2024.11] Evaluating the Generation of Spatial Relations in Text and Image Generative Models  [[PDF](https://arxiv.org/abs/2411.07664)]
 
-[arxiv 2024.11]   [[PDF](),[Page]()]
+[arxiv 2024.11]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 
 ## Feedback
@@ -2099,7 +2099,7 @@ Cross-Attention Control [[PDF](https://arxiv.org/abs/2402.13404)]
 
 [arxiv 2024.10] PrefPaint: Aligning Image Inpainting Diffusion Model with Human Preference  [[PDF](https://arxiv.org/abs/2410.21966),[Page](https://prefpaint.github.io/)]
 
-[arxiv 2024.11]   [[PDF](),[Page]()]
+[arxiv 2024.11]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 
 ##  Finetuning 
@@ -2171,7 +2171,7 @@ Cross-Attention Control [[PDF](https://arxiv.org/abs/2402.13404)]
 
 [arxiv 2024.09]Taming Diffusion Models for Image Restoration: A Review [[PDF](https://arxiv.org/abs/2409.10353)]
 
-[arxiv 2024.11]   [[PDF](),[Page]()]
+[arxiv 2024.11]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 
 # architecture 
@@ -2192,7 +2192,7 @@ Cross-Attention Control [[PDF](https://arxiv.org/abs/2402.13404)]
 [arxiv 2024.11] Edify Image: High-Quality Image Generation with Pixel Space Laplacian Diffusion Models  [[PDF](https://arxiv.org/abs/2411.07126),[Page](https://research.nvidia.com/labs/dir/edify-image/)]
 
 
-[arxiv 2024.11]   [[PDF](),[Page]()]
+[arxiv 2024.11]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 
 
@@ -2210,7 +2210,7 @@ Cross-Attention Control [[PDF](https://arxiv.org/abs/2402.13404)]
 # real-to-cg
 [arxiv 2024.09]Synergy and Synchrony in Couple Dances [[PDF](https://arxiv.org/abs/2409.04440), [Page](https://von31.github.io/synNsync/)]
 
-[arxiv 2024.11]   [[PDF](),[Page]()]
+[arxiv 2024.11]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 
 
