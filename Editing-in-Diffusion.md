@@ -916,7 +916,7 @@
 
 [arxiv 2024.02]λ-ECLIPSE: Multi-Concept Personalized Text-to-Image Diffusion Models by Leveraging CLIP Latent Space[[PDF](https://arxiv.org/abs/2402.05195),[Page](https://eclipse-t2i.github.io/Lambda-ECLIPSE/)] ![Code](https://img.shields.io/github/stars/eclipse-t2i/lambda-eclipse-inference?style=social&label=Star)
 
-[arxiv 2024.02]Training-Free Consistent Text-to-Image Generation [[PDF](https://arxiv.org/abs/2402.03286),[Page](https://consistory-paper.github.io/)] ![Code](https://img.shields.io/github/stars/Vlabs/consistory?style=social&label=Star)
+[arxiv 2024.02]Training-Free Consistent Text-to-Image Generation [[PDF](https://arxiv.org/abs/2402.03286),[Page](https://consistory-paper.github.io/)] ![Code](https://img.shields.io/github/stars/NVlabs/consistory?style=social&label=Star)
 
 [arxiv 2024.02]Textual Localization: Decomposing Multi-concept Images for Subject-Driven Text-to-Image Generation [[PDF](https://arxiv.org/abs/2402.09966),[Page](https://github.com/junjie-shentu/Textual-Localization)] ![Code](https://img.shields.io/github/stars/cvlab-kaist/DreamMatcher?style=social&label=Star)
 
@@ -928,7 +928,7 @@
 
 [arxiv 2024.02]Gen4Gen: Generative Data Pipeline for Generative Multi-Concept Composition[[PDF](https://arxiv.org/abs/2402.15504), [Page](https://danielchyeh.github.io/Gen4Gen/)] ![Code](https://img.shields.io/github/stars/louisYen/Gen4Gen?style=social&label=Star)
 
-[arxiv 2024.02]DiffuseKronA: A Parameter Efficient Fine-tuning Method for Personalized Diffusion Model [[PDF](https://arxiv.org/abs/2402.17412),[Page](https://diffusekrona.github.io/)] ![Code](https://img.shields.io/github/stars/BM/DiffuseKronA?style=social&label=Star)
+[arxiv 2024.02]DiffuseKronA: A Parameter Efficient Fine-tuning Method for Personalized Diffusion Model [[PDF](https://arxiv.org/abs/2402.17412),[Page](https://diffusekrona.github.io/)] ![Code](https://img.shields.io/github/stars/IBM/DiffuseKronA?style=social&label=Star)
 
 [arxiv 2024.03]RealCustom: Narrowing Real Text Word for Real-Time Open-Domain Text-to-Image Customization [[PDF](https://arxiv.org/abs/2403.00483),[Page](https://corleone-huang.github.io/realcustom/)] ![Code](https://img.shields.io/github/stars/Corleone-Huang/RealCustomProject?style=social&label=Star)
 
@@ -948,7 +948,7 @@
 
 [arxiv 2024.03]Tuning-Free Image Customization with Image and Text Guidance [[PDF](https://arxiv.org/abs/2403.12658)]
 
-[ariv 2024.03]Harmonizing Visual and Textual Embeddings for Zero-Shot Text-to-Image Customization [[PDF](https://arxiv.org/abs/2403.14155),[Page](https://ldynx.github.io/harmony-zero-t2i/)] ![Code](https://img.shields.io/github/stars/dynx/harmony-zero-t2i?style=social&label=Star)
+[ariv 2024.03]Harmonizing Visual and Textual Embeddings for Zero-Shot Text-to-Image Customization [[PDF](https://arxiv.org/abs/2403.14155),[Page](https://ldynx.github.io/harmony-zero-t2i/)] ![Code](https://img.shields.io/github/stars/ldynx/harmony-zero-t2i?style=social&label=Star)
 
 [arxiv 2024.03]FlashFace: Human Image Personalization with High-fidelity Identity Preservation [[PDF](https://arxiv.org/abs/2403.17008),[Page](https://jshilong.github.io/flashface-page)] ![Code](https://img.shields.io/github/stars/ali-vilab/FlashFace?style=social&label=Star)
 
