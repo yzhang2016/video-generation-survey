@@ -803,13 +803,13 @@
 [arxiv 2024.11]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
  
 ## Concept / personalization
-*[Arxiv.2208; NVIDIA]  ***An Image is Worth One Word:*** Personalizing Text-to-Image Generation using Textual Inversion [[PDF](https://arxiv.org/abs/2208.01618), [Page](https://github.com/rinongal/textual_inversion), [Code](https://github.com/rinongal/textual_inversion) ]
+*[Arxiv.2208; NVIDIA]  ***An Image is Worth One Word:*** Personalizing Text-to-Image Generation using Textual Inversion [[PDF](https://arxiv.org/abs/2208.01618), [Page](https://github.com/rinongal/textual_inversion), ![Code](https://img.shields.io/github/stars/rinongal/textual_inversion?style=social&label=Star)
 
-[NIPS 22; google] ***DreamBooth***: Fine Tuning Text-to-Image Diffusion Models for Subject-Driven Generation [[PDF](https://arxiv.org/abs/2208.12242), [Page](https://dreambooth.github.io/), [Code](https://github.com/XavierXiao/Dreambooth-Stable-Diffusion)]
+[NIPS 22; google] ***DreamBooth***: Fine Tuning Text-to-Image Diffusion Models for Subject-Driven Generation [[PDF](https://arxiv.org/abs/2208.12242), [Page](https://dreambooth.github.io/), [Code](https://github.com/XavierXiao/Dreambooth-Stable-Diffusion)] ![Code](https://img.shields.io/github/stars/XavierXiao/Dreambooth-Stable-Diffusion?style=social&label=Star)
 
 [arxiv 2022.12; UT] Multiresolution Textual Inversion [[PDF]](https://arxiv.org/abs/2210.16056)  
 
-*[arxiv 2022.12]Multi-Concept Customization of Text-to-Image Diffusion \[[PDF](https://arxiv.org/abs/2212.04488), [Page](https://www.cs.cmu.edu/~custom-diffusion/), [code](https://github.com/adobe-research/custom-diffusion)\]
+*[arxiv 2022.12]Multi-Concept Customization of Text-to-Image Diffusion \[[PDF](https://arxiv.org/abs/2212.04488), [Page](https://www.cs.cmu.edu/~custom-diffusion/), [code](https://github.com/adobe-research/custom-diffusion)\] ![Code](https://img.shields.io/github/stars/adobe-research/custom-diffusion?style=social&label=Star)
 
 [arxiv 2023.02]ELITE: Encoding Visual Concepts into Textual Embeddings for Customized Text-to-Image Generation [[PDF](https://arxiv.org/abs/2302.13848)]
 
@@ -827,7 +827,7 @@
 
 *[arxiv 2023.04]InstantBooth: Personalized Text-to-Image Generation without Test-Time Finetuning [[PDF](https://arxiv.org/abs/2304.03411)]
 
-[arxiv 2023.05]Mix-of-Show: Decentralized Low-Rank Adaptation for Multi-Concept Customization of Diffusion Models [[PDF](https://arxiv.org/abs/2305.18292),[Page](https://showlab.github.io/Mix-of-Show/)]
+[arxiv 2023.05]Mix-of-Show: Decentralized Low-Rank Adaptation for Multi-Concept Customization of Diffusion Models [[PDF](https://arxiv.org/abs/2305.18292),[Page](https://showlab.github.io/Mix-of-Show/)] ![Code](https://img.shields.io/github/stars/encentARC/Mix-of-Show?style=social&label=Star)
 
 [arxiv 2023.05]Custom-Edit: Text-Guided Image Editing with Customized Diffusion Models [[PDF](https://arxiv.org/abs/2305.15779)]
 
@@ -837,36 +837,36 @@
 
 [Siggraph 2023.05]Key-Locked Rank One Editing for Text-to-Image Personalization [[PDF](https://arxiv.org/abs/2305.01644), [Page](https://research.nvidia.com/labs/par/Perfusion/)]
 
-[arxiv 2023.05]A Neural Space-Time Representation for Text-to-Image Personalization [[PDF](https://arxiv.org/abs/2305.15391),[Page](https://neuraltextualinversion.github.io/NeTI/)]
+[arxiv 2023.05]A Neural Space-Time Representation for Text-to-Image Personalization [[PDF](https://arxiv.org/abs/2305.15391),[Page](https://neuraltextualinversion.github.io/NeTI/)] ![Code](https://img.shields.io/github/stars/NeuralTextualInversion/NeTI?style=social&label=Star)
 
 ->[arxiv 2023.05]BLIP-Diffusion: Pre-trained Subject Representation for Controllable Text-to-Image Generation and Editing [[PDF](https://arxiv.org/abs/2305.14720), [Page](https://github.com/salesforce/LAVIS/tree/main/projects/blip-diffusion)]
 
-[arxiv 2023.05]Concept Decomposition for Visual Exploration and Inspiration[[PDF](https://arxiv.org/abs/2305.18203),[Page](https://inspirationtree.github.io/inspirationtree/)]
+[arxiv 2023.05]Concept Decomposition for Visual Exploration and Inspiration[[PDF](https://arxiv.org/abs/2305.18203),[Page](https://inspirationtree.github.io/inspirationtree/)] ![Code](https://img.shields.io/github/stars/google/inspiration_tree?style=social&label=Star)
 
-[arxiv 2023.05]FastComposer: Tuning-Free Multi-Subject Image Generation with Localized Attention[[PDF](https://arxiv.org/abs/2305.10431),[Page](https://github.com/mit-han-lab/fastcomposer)]
+[arxiv 2023.05]FastComposer: Tuning-Free Multi-Subject Image Generation with Localized Attention[[PDF](https://arxiv.org/abs/2305.10431),[Page](https://github.com/mit-han-lab/fastcomposer)] ![Code](https://img.shields.io/github/stars/mit-han-lab/fastcomposer?style=social&label=Star)
 
 [arxiv 2023.06]Cones 2: Customizable Image Synthesis with Multiple Subjects [[PDF](https://arxiv.org/abs/2305.19327)]
 
-[arxiv 2023.06]Inserting Anybody in Diffusion Models via Celeb Basis [[PDF](https://arxiv.org/abs/2306.00926), [Page](https://celeb-basis.github.io/)]
+[arxiv 2023.06]Inserting Anybody in Diffusion Models via Celeb Basis [[PDF](https://arxiv.org/abs/2306.00926), [Page](https://celeb-basis.github.io/)] ![Code](https://img.shields.io/github/stars/ygtxr1997/CelebBasis?style=social&label=Star)
 
 ->[arxiv 2023.06]A-STAR: Test-time Attention Segregation and Retention for Text-to-image Synthesis
 [[PDF](https://arxiv.org/pdf/2306.14544.pdf)]
 
-[arxiv 2023.06]Generate Anything Anywhere in Any Scene [[PDF](https://arxiv.org/abs/2306.17154),[Page](https://yuheng-li.github.io/PACGen/)]
+[arxiv 2023.06]Generate Anything Anywhere in Any Scene [[PDF](https://arxiv.org/abs/2306.17154),[Page](https://yuheng-li.github.io/PACGen/)] ![Code](https://img.shields.io/github/stars/uheng-Li/PACGen?style=social&label=Star)
 
 [arxiv 2023.07]HyperDreamBooth: HyperNetworks for Fast Personalization of Text-to-Image Models [[PDF](https://arxiv.org/abs/2307.06949),[Page](https://hyperdreambooth.github.io/)]
 
 [arxiv 2023.07]Domain-Agnostic Tuning-Encoder for Fast Personalization of Text-To-Image Models [[PDF](https://arxiv.org/abs/2307.06925), [Page](https://datencoder.github.io/)]
 
-[arxiv 2023.07]ReVersion: Diffusion-Based Relation Inversion from Images [[PDF](https://arxiv.org/abs/2303.13495),[Page](https://ziqihuangg.github.io/projects/reversion.html)]
+[arxiv 2023.07]ReVersion: Diffusion-Based Relation Inversion from Images [[PDF](https://arxiv.org/abs/2303.13495),[Page](https://ziqihuangg.github.io/projects/reversion.html)] ![Code](https://img.shields.io/github/stars/ziqihuangg/ReVersion?style=social&label=Star)
 
-[arxiv 2023.07]AnyDoor: Zero-shot Object-level Image Customization [[PDF](https://arxiv.org/abs/2307.09481),[Page](https://damo-vilab.github.io/AnyDoor-Page/)]
+[arxiv 2023.07]AnyDoor: Zero-shot Object-level Image Customization [[PDF](https://arxiv.org/abs/2307.09481),[Page](https://github.com/ali-vilab/AnyDoor)] ![Code](https://img.shields.io/github/stars/ali-vilab/AnyDoor?style=social&label=Star)
 
-[arxiv 2023.0-7]Subject-Diffusion:Open Domain Personalized Text-to-Image Generation without Test-time Fine-tuning [[PDF](https://arxiv.org/abs/2307.11410), [Page](https://oppo-mente-lab.github.io/subject_diffusion/)]
+[arxiv 2023.0-7]Subject-Diffusion:Open Domain Personalized Text-to-Image Generation without Test-time Fine-tuning [[PDF](https://arxiv.org/abs/2307.11410), [Page](https://oppo-mente-lab.github.io/subject_diffusion/)] ![Code](https://img.shields.io/github/stars/OPPO-Mente-Lab/Subject-Diffusion?style=social&label=Star)
 
-[arxiv 2023.08]ConceptLab: Creative Generation using Diffusion Prior Constraints [[PDF](https://arxiv.org/abs/2308.02669),[Page](https://kfirgoldberg.github.io/ConceptLab/)]
+[arxiv 2023.08]ConceptLab: Creative Generation using Diffusion Prior Constraints [[PDF](https://arxiv.org/abs/2308.02669),[Page](https://kfirgoldberg.github.io/ConceptLab/)] ![Code](https://img.shields.io/github/stars/kfirgoldberg/ConceptLab?style=social&label=Star)
 
-[arxiv 2023.08]Unified Concept Editing in Diffusion Models [[PDF]https://arxiv.org/pdf/2308.14761.pdf), [Page](https://unified.baulab.info/)]
+[arxiv 2023.08]Unified Concept Editing in Diffusion Models [[PDF]https://arxiv.org/pdf/2308.14761.pdf), [Page](https://unified.baulab.info/)] ![Code](https://img.shields.io/github/stars/rohitgandikota/unified-concept-editing?style=social&label=Star)
 
 [arxiv 2023.09]Create Your World: Lifelong Text-to-Image Diffusion[[PDF](https://arxiv.org/abs/2309.04430)]
 
@@ -876,15 +876,15 @@
 
 [arxiv 2023.11]A Data Perspective on Enhanced Identity Preservation for Diffusion Personalization [[PDF](https://arxiv.org/abs/2311.04315)]
 
-[arxiv 2023.11]The Chosen One: Consistent Characters in Text-to-Image Diffusion Models [[PDF](https://arxiv.org/abs/2311.10093), [Page](https://omriavrahami.com/the-chosen-one/)]
+[arxiv 2023.11]The Chosen One: Consistent Characters in Text-to-Image Diffusion Models [[PDF](https://arxiv.org/abs/2311.10093), [Page](https://omriavrahami.com/the-chosen-one/)] ![Code](https://img.shields.io/github/stars/ZichengDuan/TheChosenOne?style=social&label=Star)
 
 [arxiv 2023.11]High-fidelity Person-centric Subject-to-Image Synthesis[[PDF](https://arxiv.org/abs/2311.10329)]
 
 [arxiv 2023.11]An Image is Worth Multiple Words: Multi-attribute Inversion for Constrained Text-to-Image Synthesis [[PDF](https://arxiv.org/abs/2311.11919)]
 
-[arxiv 2023.11]CatVersion: Concatenating Embeddings for Diffusion-Based Text-to-Image Personalization [[PDF](https://arxiv.org/abs/2311.14631),[Page](https://royzhao926.github.io/CatVersion-page/)]
+[arxiv 2023.11]CatVersion: Concatenating Embeddings for Diffusion-Based Text-to-Image Personalization [[PDF](https://arxiv.org/abs/2311.14631),[Page](https://royzhao926.github.io/CatVersion-page/)] ![Code](https://img.shields.io/github/stars/RoyZhao926/CatVersion?style=social&label=Star)
 
-[arxiv 2023.12]PhotoMaker: Customizing Realistic Human Photos via Stacked ID Embedding [[PDF](https://arxiv.org/abs/2312.04461),[Page](https://photo-maker.github.io/)]
+[arxiv 2023.12]PhotoMaker: Customizing Realistic Human Photos via Stacked ID Embedding [[PDF](https://arxiv.org/abs/2312.04461),[Page](https://photo-maker.github.io/)] ![Code](https://img.shields.io/github/stars/TencentARC/PhotoMaker?style=social&label=Star)
 
 [arxiv 2023.12]Context Diffusion: In-Context Aware Image Generation [[PDF](https://arxiv.org/abs/2312.03584)]
 
@@ -892,17 +892,17 @@
 
 [arxiv 2023.12]InstructBooth: Instruction-following Personalized Text-to-Image Generation [[PDF](https://arxiv.org/abs/2312.03011)]
 
-[arxiv 2023.12]FaceStudio: Put Your Face Everywhere in Seconds [[PDF](https://arxiv.org/abs/2312.02663),[Page](https://icoz69.github.io/facestudio/)]
+[arxiv 2023.12]FaceStudio: Put Your Face Everywhere in Seconds [[PDF](https://arxiv.org/abs/2312.02663),[Page](https://icoz69.github.io/facestudio/)] ![Code](https://img.shields.io/github/stars/encentQQGYLab/FaceStudio?style=social&label=Star)
 
 [arxiv 2023.12]Orthogonal Adaptation for Modular Customization of Diffusion Models [[PDF](https://arxiv.org/abs/2312.02432),[Page](https://ryanpo.com/ortha/)]
 
-[arxiv 2023.12]Separate-and-Enhance: Compositional Finetuning for Text2Image Diffusion Models [[PDF](https://arxiv.org/abs/2312.06712), [Page](https://zpbao.github.io/projects/SepEn/)]
+[arxiv 2023.12]Separate-and-Enhance: Compositional Finetuning for Text2Image Diffusion Models [[PDF](https://arxiv.org/abs/2312.06712), [Page](https://zpbao.github.io/projects/SepEn/)] ![Code](https://img.shields.io/github/stars/adobe/SeperateAndEnhance?style=social&label=Star)
 
-[arxiv 2023.12]Compositional Inversion for Stable Diffusion Models [[PDF](https://arxiv.org/abs/2312.08048),[Page](https://github.com/zhangxulu1996/Compositional-Inversion)]
+[arxiv 2023.12]Compositional Inversion for Stable Diffusion Models [[PDF](https://arxiv.org/abs/2312.08048),[Page](https://github.com/zhangxulu1996/Compositional-Inversion)] ![Code](https://img.shields.io/github/stars/zhangxulu1996/Compositional-Inversion?style=social&label=Star)
 
 [arxiv 2023.12]SimAC: A Simple Anti-Customization Method against Text-to-Image Synthesis of Diffusion Models [[PDF](https://arxiv.org/abs/2312.07865)]
 
-[arxiv 2023.12]InstantID : Zero-shot Identity-Preserving Generation in Seconds [[PDF](),[Page](https://instantid.github.io/)]
+[arxiv 2023.12]InstantID : Zero-shot Identity-Preserving Generation in Seconds [[PDF](),[Page](https://instantid.github.io/)] ![Code](https://img.shields.io/github/stars/instantX-research/InstantID?style=social&label=Star)
 
 [arxiv 2023.12]All but One: Surgical Concept Erasing with Model Preservation in Text-to-Image Diffusion Models[[PDf](https://arxiv.org/abs/2312.12807)]
 
@@ -914,61 +914,61 @@
 
 [arxiv 2024.02]Separable Multi-Concept Erasure from Diffusion Models[[PDF](https://arxiv.org/abs/2402.05947)]
 
-[arxiv 2024.02]λ-ECLIPSE: Multi-Concept Personalized Text-to-Image Diffusion Models by Leveraging CLIP Latent Space[[PDF](https://arxiv.org/abs/2402.05195),[Page](https://eclipse-t2i.github.io/Lambda-ECLIPSE/)]
+[arxiv 2024.02]λ-ECLIPSE: Multi-Concept Personalized Text-to-Image Diffusion Models by Leveraging CLIP Latent Space[[PDF](https://arxiv.org/abs/2402.05195),[Page](https://eclipse-t2i.github.io/Lambda-ECLIPSE/)] ![Code](https://img.shields.io/github/stars/eclipse-t2i/lambda-eclipse-inference?style=social&label=Star)
 
-[arxiv 2024.02]Training-Free Consistent Text-to-Image Generation [[PDF](https://arxiv.org/abs/2402.03286),[Page](https://consistory-paper.github.io/)]
+[arxiv 2024.02]Training-Free Consistent Text-to-Image Generation [[PDF](https://arxiv.org/abs/2402.03286),[Page](https://consistory-paper.github.io/)] ![Code](https://img.shields.io/github/stars/Vlabs/consistory?style=social&label=Star)
 
-[arxiv 2024.02]Textual Localization: Decomposing Multi-concept Images for Subject-Driven Text-to-Image Generation [[PDF](https://arxiv.org/abs/2402.09966),[Page](https://github.com/junjie-shentu/Textual-Localization)]
+[arxiv 2024.02]Textual Localization: Decomposing Multi-concept Images for Subject-Driven Text-to-Image Generation [[PDF](https://arxiv.org/abs/2402.09966),[Page](https://github.com/junjie-shentu/Textual-Localization)] ![Code](https://img.shields.io/github/stars/cvlab-kaist/DreamMatcher?style=social&label=Star)
 
 [arxiv 2024.02]DreamMatcher: Appearance Matching Self-Attention for Semantically-Consistent Text-to-Image Personalization [[PDF](https://arxiv.org/abs/2402.09812), [Page](https://ku-cvlab.github.io/DreamMatcher/)]
 
-[arxiv 2024.02]Direct Consistency Optimization for Compositional Text-to-Image Personalization [[PDF](https://arxiv.org/abs/2402.12004),[Page](https://dco-t2i.github.io/)]
+[arxiv 2024.02]Direct Consistency Optimization for Compositional Text-to-Image Personalization [[PDF](https://arxiv.org/abs/2402.12004),[Page](https://dco-t2i.github.io/)] ![Code](https://img.shields.io/github/stars/kyungmnlee/dco?style=social&label=Star)
 
 [arxiv 2024.02]ComFusion: Personalized Subject Generation in Multiple Specific Scenes From Single Image [[PDF](https://arxiv.org/abs/2402.11849)]
 
-[arxiv 2024.02]Gen4Gen: Generative Data Pipeline for Generative Multi-Concept Composition[[PDF](https://arxiv.org/abs/2402.15504), [Page](https://danielchyeh.github.io/Gen4Gen/)]
+[arxiv 2024.02]Gen4Gen: Generative Data Pipeline for Generative Multi-Concept Composition[[PDF](https://arxiv.org/abs/2402.15504), [Page](https://danielchyeh.github.io/Gen4Gen/)] ![Code](https://img.shields.io/github/stars/louisYen/Gen4Gen?style=social&label=Star)
 
-[arxiv 2024.02]DiffuseKronA: A Parameter Efficient Fine-tuning Method for Personalized Diffusion Model [[PDF](https://arxiv.org/abs/2402.17412),[Page](https://diffusekrona.github.io/)]
+[arxiv 2024.02]DiffuseKronA: A Parameter Efficient Fine-tuning Method for Personalized Diffusion Model [[PDF](https://arxiv.org/abs/2402.17412),[Page](https://diffusekrona.github.io/)] ![Code](https://img.shields.io/github/stars/BM/DiffuseKronA?style=social&label=Star)
 
-[arxiv 2024.03]RealCustom: Narrowing Real Text Word for Real-Time Open-Domain Text-to-Image Customization [[PDF](https://arxiv.org/abs/2403.00483),[Page](https://corleone-huang.github.io/realcustom/)]
+[arxiv 2024.03]RealCustom: Narrowing Real Text Word for Real-Time Open-Domain Text-to-Image Customization [[PDF](https://arxiv.org/abs/2403.00483),[Page](https://corleone-huang.github.io/realcustom/)] ![Code](https://img.shields.io/github/stars/Corleone-Huang/RealCustomProject?style=social&label=Star)
 
-[arxiv 2024.03]Face2Diffusion for Fast and Editable Face Personalization [[PDF](https://arxiv.org/abs/2403.05094),[Page](https://mapooon.github.io/Face2DiffusionPage/)]
+[arxiv 2024.03]Face2Diffusion for Fast and Editable Face Personalization [[PDF](https://arxiv.org/abs/2403.05094),[Page](https://mapooon.github.io/Face2DiffusionPage/)] ![Code](https://img.shields.io/github/stars/mapooon/Face2Diffusion?style=social&label=Star)
 
-[arxiv 2024.03]FaceChain-SuDe: Building Derived Class to Inherit Category Attributes for One-shot Subject-Driven Generation [[PDF](https://arxiv.org/abs/2403.06775),[Page](https://github.com/modelscope/facechain)]
+[arxiv 2024.03]FaceChain-SuDe: Building Derived Class to Inherit Category Attributes for One-shot Subject-Driven Generation [[PDF](https://arxiv.org/abs/2403.06775),[Page](https://github.com/modelscope/facechain)] ![Code](https://img.shields.io/github/stars/modelscope/facechain?style=social&label=Star)
 
 [arxiv 2024.03]Block-wise LoRA: Revisiting Fine-grained LoRA for Effective Personalization and Stylization in Text-to-Image Generation [[PDF](https://arxiv.org/abs/2403.07500)]
 
-[arxiv 2024.03]LoRA-Composer: Leveraging Low-Rank Adaptation for Multi-Concept Customization in Training-Free Diffusion Models [[PDF](https://arxiv.org/abs/2403.11627),[Page](https://github.com/Young98CN/LoRA_Composer)]
+[arxiv 2024.03]LoRA-Composer: Leveraging Low-Rank Adaptation for Multi-Concept Customization in Training-Free Diffusion Models [[PDF](https://arxiv.org/abs/2403.11627),[Page](https://github.com/Young98CN/LoRA_Composer)] ![Code](https://img.shields.io/github/stars/Young98CN/LoRA_Composer?style=social&label=Star)
 
 [arxiv 2024.03]OSTAF: A One-Shot Tuning Method for Improved Attribute-Focused T2I Personalization [[PDF](https://arxiv.org/abs/2403.11053)]
 
-[arxiv 2024.03]OMG: Occlusion-friendly Personalized Multi-concept Generation in Diffusion Models [[PDF](https://arxiv.org/abs/2403.10983), [Page](https://kongzhecn.github.io/omg-project/)]
+[arxiv 2024.03]OMG: Occlusion-friendly Personalized Multi-concept Generation in Diffusion Models [[PDF](https://arxiv.org/abs/2403.10983), [Page](https://kongzhecn.github.io/omg-project/)] ![Code](https://img.shields.io/github/stars/kongzhecn/OMG?style=social&label=Star)
 
 [arxiv 2024.03]IDAdapter: Learning Mixed Features for Tuning-Free Personalization of Text-to-Image Models [[PDF](https://arxiv.org/abs/2403.13535)]
 
 [arxiv 2024.03]Tuning-Free Image Customization with Image and Text Guidance [[PDF](https://arxiv.org/abs/2403.12658)]
 
-[ariv 2024.03]Harmonizing Visual and Textual Embeddings for Zero-Shot Text-to-Image Customization [[PDF](https://arxiv.org/abs/2403.14155),[Page](https://ldynx.github.io/harmony-zero-t2i/)]
+[ariv 2024.03]Harmonizing Visual and Textual Embeddings for Zero-Shot Text-to-Image Customization [[PDF](https://arxiv.org/abs/2403.14155),[Page](https://ldynx.github.io/harmony-zero-t2i/)] ![Code](https://img.shields.io/github/stars/dynx/harmony-zero-t2i?style=social&label=Star)
 
-[arxiv 2024.03]FlashFace: Human Image Personalization with High-fidelity Identity Preservation [[PDF](https://arxiv.org/abs/2403.17008),[Page](https://jshilong.github.io/flashface-page)]
+[arxiv 2024.03]FlashFace: Human Image Personalization with High-fidelity Identity Preservation [[PDF](https://arxiv.org/abs/2403.17008),[Page](https://jshilong.github.io/flashface-page)] ![Code](https://img.shields.io/github/stars/ali-vilab/FlashFace?style=social&label=Star)
 
-[arxiv 2024.03]Be Yourself: Bounded Attention for Multi-Subject Text-to-Image Generation [[PDF](https://arxiv.org/abs/2403.16990),[Page](https://omer11a.github.io/bounded-attention/)]
+[arxiv 2024.03]Be Yourself: Bounded Attention for Multi-Subject Text-to-Image Generation [[PDF](https://arxiv.org/abs/2403.16990),[Page](https://omer11a.github.io/bounded-attention/)] ![Code](https://img.shields.io/github/stars/omer11a/bounded-attention?style=social&label=Star)
 
 [arxiv 2024.03]Isolated Diffusion: Optimizing Multi-Concept Text-to-Image Generation Training-Freely with Isolated Diffusion Guidance [[PDF](https://arxiv.org/abs/2403.16954)]
 
 [arxiv 2024.03]Improving Text-to-Image Consistency via Automatic Prompt Optimization [[PDF](https://arxiv.org/abs/2403.17804)]
 
-[arxiv 2024.03]Attention Calibration for Disentangled Text-to-Image Personalization [[PDF](https://github.com/Monalissaa/DisenDiff),[Page](https://arxiv.org/pdf/2403.18551.pdf)]
+[arxiv 2024.03]Attention Calibration for Disentangled Text-to-Image Personalization [[PDF](https://github.com/Monalissaa/DisenDiff),[Page](https://arxiv.org/pdf/2403.18551.pdf)] ![Code](https://img.shields.io/github/stars/Monalissaa/DisenDiff?style=social&label=Star)
 
-[arxiv 2024.04]CLoRA: A Contrastive Approach to Compose Multiple LoRA Models [[PDF](https://arxiv.org/abs/2403.19776),[Page](https://clora-diffusion.github.io/)]
+[arxiv 2024.04]CLoRA: A Contrastive Approach to Compose Multiple LoRA Models [[PDF](https://arxiv.org/abs/2403.19776)]
 
-[arxiv 2024.04]MuDI: Identity Decoupling for Multi-Subject Personalization of Text-to-Image Models [[PDF](https://arxiv.org/abs/2404.04243),[Page](https://mudi-t2i.github.io/)]
+[arxiv 2024.04]MuDI: Identity Decoupling for Multi-Subject Personalization of Text-to-Image Models [[PDF](https://arxiv.org/abs/2404.04243),[Page](https://mudi-t2i.github.io/)] ![Code](https://img.shields.io/github/stars/agwmon/MuDI?style=social&label=Star)
 
 [arxiv 2024.04]Concept Weaver: Enabling Multi-Concept Fusion in Text-to-Image Models [[PDF](https://arxiv.org/abs/2404.03913)]
 
 [arxiv 2024.04]LCM-Lookahead for Encoder-based Text-to-Image Personalization [[PDF](https://arxiv.org/abs/2404.03620)]
 
-[arxiv 2024.04]MoMA: Multimodal LLM Adapter for Fast Personalized Image Generation [[PDF](https://arxiv.org/abs/2404.05674),[Page](https://moma-adapter.github.io/)]
+[arxiv 2024.04]MoMA: Multimodal LLM Adapter for Fast Personalized Image Generation [[PDF](https://arxiv.org/abs/2404.05674),[Page](https://moma-adapter.github.io/)] ![Code](https://img.shields.io/github/stars/bytedance/MoMA/tree/main?style=social&label=Star)
 
 [arxiv 2024.04]MC2: Multi-concept Guidance for Customized Multi-concept Generation [[PDF](https://arxiv.org/abs/2404.05268)]
 
@@ -979,41 +979,41 @@
 
 [arxiv 2024.04] MoA: Mixture-of-Attention for Subject-Context Disentanglement in Personalized Image Generation [[PDF](https://arxiv.org/abs/2404.11565),[Page](https://snap-research.github.io/mixture-of-attention)]
 
-[arxiv 2024.04]MultiBooth: Towards Generating All Your Concepts in an Image from Text[[PDF](https://arxiv.org/abs/2404.14239),[Page](https://multibooth.github.io/)]
+[arxiv 2024.04]MultiBooth: Towards Generating All Your Concepts in an Image from Text[[PDF](https://arxiv.org/abs/2404.14239),[Page](https://multibooth.github.io/)] ![Code](https://img.shields.io/github/stars/chenyangzhu1/MultiBooth?style=social&label=Star)
 
 [arxiv 2024.04]Infusion: Preventing Customized Text-to-Image Diffusion from Overfitting [[PDF](https://arxiv.org/abs/2404.14007)]
 
 [arxiv 2024.04]UVMap-ID: A Controllable and Personalized UV Map Generative Model [[PDF](https://arxiv.org/abs/2404.14568)]
 
-[arxix 2024.04]ConsistentID: Portrait Generation with Multimodal Fine-Grained Identity Preserving [[PDF](https://arxiv.org/abs/2404.16771),[Page](https://ssugarwh.github.io/consistentid.github.io/)]
+[arxix 2024.04]ConsistentID: Portrait Generation with Multimodal Fine-Grained Identity Preserving [[PDF](https://arxiv.org/abs/2404.16771),[Page](https://ssugarwh.github.io/consistentid.github.io/)] ![Code](https://img.shields.io/github/stars/JackAILab/ConsistentID?style=social&label=Star)
 
-[arxiv 2024.04]PuLID: Pure and Lightning ID Customization via Contrastive Alignment [[PDF](https://arxiv.org/abs/2404.16022), [Page](https://github.com/ToTheBeginning/PuLID)]
+[arxiv 2024.04]PuLID: Pure and Lightning ID Customization via Contrastive Alignment [[PDF](https://arxiv.org/abs/2404.16022), [Page](https://github.com/ToTheBeginning/PuLID)] ![Code](https://img.shields.io/github/stars/ToTheBeginning/PuLID?style=social&label=Star)
 
-[arxiv 2024.04]CharacterFactory: Sampling Consistent Characters with GANs for Diffusion Models [[PDF](https://arxiv.org/abs/2404.15677), [Page](https://github.com/qinghew/CharacterFactory)]
+[arxiv 2024.04]CharacterFactory: Sampling Consistent Characters with GANs for Diffusion Models [[PDF](https://arxiv.org/abs/2404.15677), [Page](https://github.com/qinghew/CharacterFactory)] ![Code](https://img.shields.io/github/stars/qinghew/CharacterFactory?style=social&label=Star)
 
-[arxiv 2024.04]TheaterGen: Character Management with LLM for Consistent Multi-turn Image Generation [[PDF](https://arxiv.org/abs/2404.18919),[Page](https://howe140.github.io/theatergen.io/)]
+[arxiv 2024.04]TheaterGen: Character Management with LLM for Consistent Multi-turn Image Generation [[PDF](https://arxiv.org/abs/2404.18919),[Page](https://howe140.github.io/theatergen.io/)] ![Code](https://img.shields.io/github/stars/donahowe/Theatergen?style=social&label=Star)
 
-[arxiv 2024.05]Customizing Text-to-Image Models with a Single Image Pair[[PDF](https://arxiv.org/abs/2405.01536),[Page](https://paircustomization.github.io/)]
+[arxiv 2024.05]Customizing Text-to-Image Models with a Single Image Pair[[PDF](https://arxiv.org/abs/2405.01536),[Page](https://paircustomization.github.io/)] ![Code](https://img.shields.io/github/stars/PairCustomization/PairCustomization?style=social&label=Star)
 
 [arxiv 2024.05]InstantFamily: Masked Attention for Zero-shot Multi-ID Image Generation [[PDF](https://arxiv.org/abs/2404.19427)]
 
-[arxiv 2024.05]MasterWeaver: Taming Editability and Identity for Personalized Text-to-Image Generation [[PDF](https://arxiv.org/abs/2405.05806),[Page](https://github.com/csyxwei/MasterWeaver)]
+[arxiv 2024.05]MasterWeaver: Taming Editability and Identity for Personalized Text-to-Image Generation [[PDF](https://arxiv.org/abs/2405.05806),[Page](https://github.com/csyxwei/MasterWeaver)] ![Code](https://img.shields.io/github/stars/csyxwei/MasterWeaver?style=social&label=Star)
 
 [arxiv 2024.05]Training-free Subject-Enhanced Attention Guidance for Compositional Text-to-image Generation [[PDF](https://arxiv.org/abs/2405.06948)]
 
-[arxiv  2024.05]Non-confusing Generation of Customized Concepts in Diffusion Models [[PDF](https://arxiv.org/abs/2405.06914),[Page](https://clif-official.github.io/clif/)]
+[arxiv  2024.05]Non-confusing Generation of Customized Concepts in Diffusion Models [[PDF](https://arxiv.org/abs/2405.06914),[Page](https://clif-official.github.io/clif/)] ![Code](https://img.shields.io/github/stars/clif-official/clif_code?style=social&label=Star)
 
 [arxiv 2024.05]Personalized Residuals for Concept-Driven Text-to-Image Generation [[PDF](https://arxiv.org/abs/2405.12978),[Page](https://cusuh.github.io/personalized-residuals/)]
 
-[arxiv 2024.05] FreeCustom: Tuning-Free Customized Image Generation for Multi-Concept Composition [[PDF](https://arxiv.org/abs/2405.13870),[Page](https://github.com/aim-uofa/FreeCustom)]
+[arxiv 2024.05] FreeCustom: Tuning-Free Customized Image Generation for Multi-Concept Composition [[PDF](https://arxiv.org/abs/2405.13870),[Page](https://github.com/aim-uofa/FreeCustom)] ![Code](https://img.shields.io/github/stars/aim-uofa/FreeCustom?style=social&label=Star)
 
-[arxiv 2024.05]AttenCraft: Attention-guided Disentanglement of Multiple Concepts for Text-to-Image Customization [[PDF](https://arxiv.org/abs/2405.17965),[Page](https://github.com/junjie-shentu/AttenCraft)]
+[arxiv 2024.05]AttenCraft: Attention-guided Disentanglement of Multiple Concepts for Text-to-Image Customization [[PDF](https://arxiv.org/abs/2405.17965),[Page](https://github.com/junjie-shentu/AttenCraft)] ![Code](https://img.shields.io/github/stars/junjie-shentu/AttenCraft?style=social&label=Star) 
 
-[arxiv 2024.05]RectifID: Personalizing Rectified Flow with Anchored Classifier Guidance [[PDF](https://arxiv.org/abs/2405.14677),[Page](https://github.com/feifeiobama/RectifID)]
+[arxiv 2024.05]RectifID: Personalizing Rectified Flow with Anchored Classifier Guidance [[PDF](https://arxiv.org/abs/2405.14677),[Page](https://github.com/feifeiobama/RectifID)] ![Code](https://img.shields.io/github/stars/feifeiobama/RectifID?style=social&label=Star)
 
 [arxiv 2024.06] HyperDreamBooth: HyperNetworks for Fast Personalization of Text-to-Image Model  [[PDF](https://arxiv.org/abs/2307.06949),[Page](https://hyperdreambooth.github.io/)]
 
-[arxiv 2024.06]AutoStudio: Crafting Consistent Subjects in Multi-turn Interactive Image Generation [[PDF](https://arxiv.org/abs/2406.01388),[Page](https://howe183.github.io/AutoStudio.io/)]
+[arxiv 2024.06]AutoStudio: Crafting Consistent Subjects in Multi-turn Interactive Image Generation [[PDF](https://arxiv.org/abs/2406.01388),[Page](https://howe183.github.io/AutoStudio.io/)] ![Code](https://img.shields.io/github/stars/donahowe/AutoStudio?style=social&label=Star)
 
 [arxiv 2024.06] Inv-Adapter: ID Customization Generation via Image Inversion and Lightweight Adapter[[PDF](https://arxiv.org/abs/2406.02881)]
 
@@ -1047,7 +1047,7 @@
 
 [arxiv 2024.08] DiffLoRA: Generating Personalized Low-Rank Adaptation Weights with Diffusion[[PDF](https://arxiv.org/abs/2408.06740)]
 
-[arxiv 2024.08]RealCustom++: Representing Images as Real-Word for Real-Time Customization [[PDF](https://arxiv.org/abs/2408.09744), [Page](https://corleone-huang.github.io/RealCustom)]
+[arxiv 2024.08]RealCustom++: Representing Images as Real-Word for Real-Time Customization [[PDF](https://arxiv.org/abs/2408.09744)]
 
 [arxiv 2024.08] MagicID: Flexible ID Fidelity Generation System[[PDF](https://arxiv.org/abs/2408.09248)]
 
