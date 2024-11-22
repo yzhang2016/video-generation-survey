@@ -892,7 +892,7 @@
 
 [arxiv 2023.12]InstructBooth: Instruction-following Personalized Text-to-Image Generation [[PDF](https://arxiv.org/abs/2312.03011)]
 
-[arxiv 2023.12]FaceStudio: Put Your Face Everywhere in Seconds [[PDF](https://arxiv.org/abs/2312.02663),[Page](https://icoz69.github.io/facestudio/)] ![Code](https://img.shields.io/github/stars/encentQQGYLab/FaceStudio?style=social&label=Star)
+[arxiv 2023.12]FaceStudio: Put Your Face Everywhere in Seconds [[PDF](https://arxiv.org/abs/2312.02663),[Page](https://icoz69.github.io/facestudio/)] ![Code](https://img.shields.io/github/stars/TencentQQGYLab/FaceStudio?style=social&label=Star)
 
 [arxiv 2023.12]Orthogonal Adaptation for Modular Customization of Diffusion Models [[PDF](https://arxiv.org/abs/2312.02432),[Page](https://ryanpo.com/ortha/)]
 
