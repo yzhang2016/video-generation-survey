@@ -827,7 +827,7 @@
 
 *[arxiv 2023.04]InstantBooth: Personalized Text-to-Image Generation without Test-Time Finetuning [[PDF](https://arxiv.org/abs/2304.03411)]
 
-[arxiv 2023.05]Mix-of-Show: Decentralized Low-Rank Adaptation for Multi-Concept Customization of Diffusion Models [[PDF](https://arxiv.org/abs/2305.18292),[Page](https://showlab.github.io/Mix-of-Show/)] ![Code](https://img.shields.io/github/stars/encentARC/Mix-of-Show?style=social&label=Star)
+[arxiv 2023.05]Mix-of-Show: Decentralized Low-Rank Adaptation for Multi-Concept Customization of Diffusion Models [[PDF](https://arxiv.org/abs/2305.18292),[Page](https://showlab.github.io/Mix-of-Show/)] ![Code](https://img.shields.io/github/stars/TencentARC/Mix-of-Show?style=social&label=Star)
 
 [arxiv 2023.05]Custom-Edit: Text-Guided Image Editing with Customized Diffusion Models [[PDF](https://arxiv.org/abs/2305.15779)]
 
