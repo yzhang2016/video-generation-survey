@@ -852,7 +852,7 @@
 ->[arxiv 2023.06]A-STAR: Test-time Attention Segregation and Retention for Text-to-image Synthesis
 [[PDF](https://arxiv.org/pdf/2306.14544.pdf)]
 
-[arxiv 2023.06]Generate Anything Anywhere in Any Scene [[PDF](https://arxiv.org/abs/2306.17154),[Page](https://yuheng-li.github.io/PACGen/)] ![Code](https://img.shields.io/github/stars/uheng-Li/PACGen?style=social&label=Star)
+[arxiv 2023.06]Generate Anything Anywhere in Any Scene [[PDF](https://arxiv.org/abs/2306.17154),[Page](https://yuheng-li.github.io/PACGen/)] ![Code](https://img.shields.io/github/stars/Yuheng-Li/PACGen?style=social&label=Star)
 
 [arxiv 2023.07]HyperDreamBooth: HyperNetworks for Fast Personalization of Text-to-Image Models [[PDF](https://arxiv.org/abs/2307.06949),[Page](https://hyperdreambooth.github.io/)]
 
