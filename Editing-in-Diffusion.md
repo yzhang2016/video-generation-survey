@@ -1,4 +1,4 @@
-# Image Editing In Diffusion [Open in Notion](https://vinthony.notion.site/Diffusion-Edit-84312204c0c446e4b9bcc50a1dce84e1)
+# Image Editing In Diffusion 
 
 
 ## Editing 
@@ -1795,6 +1795,8 @@ Cross-Attention Control [[PDF](https://arxiv.org/abs/2402.13404)]
 [arxiv 2024.09] Mamba-ST: State Space Model for Efficient Style Transfer  [[PDF](https://arxiv.org/abs/2409.10385)]
 
 [arxiv 2024.10] Harnessing the Latent Diffusion Model for Training-Free Image Style Transfer  [[PDF](https://arxiv.org/abs/2410.01366)]
+
+[arxiv 2024.11] Style-Friendly SNR Sampler for Style-Driven Generation  [[PDF](https://arxiv.org/pdf/2411.14793)] 
 
 [arxiv 2024.11]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
