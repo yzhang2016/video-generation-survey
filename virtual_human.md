@@ -1,9 +1,10 @@
 
 ## Face 
-[arxiv 2024.11]   [[PDF](),[Page]()]
-
+[arxiv 2024.11]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 ## Body 
+
+
 
 [arxiv 2024.10] MotionAura: Generating High-Quality and Motion Consistent Videos using Discrete Diffusion  [[PDF](https://arxiv.org/abs/2410.07659)]
 
@@ -19,23 +20,35 @@
 
 [arxiv 2024.11]  KMM: Key Frame Mask Mamba for Extended Motion Generation [[PDF](https://arxiv.org/abs/2411.06481),[Page](https://steve-zeyu-zhang.github.io/KMM/)]
 
-[arxiv 2024.11]   [[PDF](),[Page]()]
+[arxiv 2024.11] Rethinking Diffusion for Text-Driven Human Motion Generation  [[PDF](https://arxiv.org/abs/2411.16575)]
+
+[arxiv 2024.11] SMGDiff: Soccer Motion Generation using diffusion probabilistic models  [[PDF](https://arxiv.org/abs/2411.16216)]
+
+
+
+[arxiv 2024.11]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
+
 
 ## audio-to-gesture 
 [arxiv 2024.10] Emphasizing Semantic Consistency of Salient Posture for Speech-Driven Gesture Generation  [[PDF](https://arxiv.org/abs/2410.13786)]
 
-[arxiv 2024.11]   [[PDF](),[Page]()]
+[arxiv 2024.11]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
+
 
 ## Hands 
+
+
 [arxiv 2024.10]Learning Interaction-aware 3D Gaussian Splatting for One-shot Hand Avatars [[PDF](https://arxiv.org/abs/2410.08840),[Page](https://github.com/XuanHuang0/GuassianHand)]
 
 [arxiv 2024.11] UniHands: Unifying Various Wild-Collected Keypoints for Personalized Hand Reconstruction  [[PDF](https://arxiv.org/abs/2411.11845),[Page]()]
 
 
-[arxiv 2024.11]   [[PDF](),[Page]()]
-
+[arxiv 2024.11]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 ## Human Interaction 
+[arxiv 2024.05]  Scaling Up Dynamic Human-Scene Interaction Modeling [[PDF](https://arxiv.org/abs/2403.08629),[Page](https://jnnan.github.io/trumans/)] ![Code](https://img.shields.io/github/stars/jnnan/trumans_utils?style=social&label=Star)
+
+
 [arxiv 2024.10]  Sitcom-Crafter: A Plot-Driven Human Motion Generation System in 3D Scenes [[PDF](https://arxiv.org/abs/2410.10790),[Page](https://windvchen.github.io/Sitcom-Crafter/)]
 
 [arxiv 2024.09] DreamHOI: Subject-Driven Generation of 3D Human-Object Interactions with Diffusion Priors[[PDF](https://arxiv.org/abs/2409.08278),[Page](https://dreamhoi.github.io/)]
@@ -43,8 +56,8 @@
 [arxiv 2024.10] GraspDiffusion: Synthesizing Realistic Whole-body Hand-Object Interaction [[PDF](https://arxiv.org/abs/2410.13911),[Page]()]
 
 
-[arxiv 2024.11]   [[PDF](),[Page]()]
 
+[arxiv 2024.11]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 
 
@@ -58,4 +71,4 @@
 [arxiv 2024.11] FreeCap: Hybrid Calibration-Free Motion Capture in Open Environments  [[PDF](https://arxiv.org/abs/2411.04469)]
 
 
-[arxiv 2024.11]   [[PDF](),[Page]()]
+[arxiv 2024.11]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
