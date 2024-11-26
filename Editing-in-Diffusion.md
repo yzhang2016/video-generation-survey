@@ -408,12 +408,19 @@
 
 [arxiv 2024.11]  Test-time Conditional Text-to-Image Synthesis Using Diffusion Models [[PDF](https://arxiv.org/abs/2411.10800)]
 
+[arxiv 2024.11] HeadRouter: A Training-free Image Editing Framework for MM-DiTs by Adaptively Routing Attention Heads  [[PDF](https://arxiv.org/abs/2411.15034),[Page](https://yuci-gpt.github.io/headrouter/)] ![Code](https://img.shields.io/github/stars/ICTMCG/HeadRouter?style=social&label=Star)
+
+
 [arxiv 2024.11]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 
 ## Unified Generation
 
 [arxiv 2024.10] A Simple Approach to Unifying Diffusion-based Conditional Generation [[PDF](https://arxiv.org/abs/2410.11439),[Page](https://lixirui142.github.io/unicon-diffusion/)]
+
+[arxiv 2024.11] One Diffusion to Generate Them All  [[PDF](https://arxiv.org/abs/2411.16318),[Page](https://github.com/lehduong/OneDiffusion)] ![Code](https://img.shields.io/github/stars/lehduong/OneDiffusion?style=social&label=Star)
+
+[arxiv 2024.11] OminiControl: Minimal and Universal Control for Diffusion Transformer  [[PDF](https://arxiv.org/abs/2411.15098),[Page](https://github.com/Yuanshi9815/OminiControl)] ![Code](https://img.shields.io/github/stars/Yuanshi9815/OminiControl?style=social&label=Star)
 
 
 [arxiv 2024.11]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
@@ -648,6 +655,9 @@
 
 [arxiv 2024.11]  Token Merging for Training-Free Semantic Binding in Text-to-Image Synthesis [[PDF](https://arxiv.org/abs/2411.07132),[Page](https://github.com/hutaiHang/ToMe)]
 
+[arxiv 2024.11] Noise Diffusion for Enhancing Semantic Faithfulness in Text-to-Image Synthesis  [[PDF](https://arxiv.org/abs/2411.16503),[Page](https://github.com/Bomingmiao/NoiseDiffusion)] ![Code](https://img.shields.io/github/stars/Bomingmiao/NoiseDiffusion?style=social&label=Star)
+
+[arxiv 2024.11] Text Embedding is Not All You Need: Attention Control for Text-to-Image Semantic Alignment with Text Self-Attention Maps  [[PDF](https://arxiv.org/abs/2411.15236)]
 
 
 [arxiv 2024.11]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
@@ -687,6 +697,8 @@
 [arxiv 2024.11] Scalable Autoregressive Monocular Depth Estimation  [[PDF](https://arxiv.org/abs/2411.11361)]
 
 [arxiv 2024.11] Continuous Speculative Decoding for Autoregressive Image Generation [[PDF](https://arxiv.org/abs/2411.11925),[Page](https://github.com/MarkXCloud/CSpD)]
+
+[arxiv 2024.11]  Sample- and Parameter-Efficient Auto-Regressive Image Models [[PDF](https://arxiv.org/abs/2411.15648),[Page](https://github.com/elad-amrani/xtra)] ![Code](https://img.shields.io/github/stars/elad-amrani/xtra?style=social&label=Star)
 
 
 [arxiv 2024.11]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
@@ -778,6 +790,9 @@
 [arxiv 2024.10] TextCtrl: Diffusion-based Scene Text Editing with Prior Guidance Control  [[PDF](https://arxiv.org/abs/2410.10133),[Page]()]
 
 [arxiv 2024.10]  TextMaster: Universal Controllable Text Edit [[PDF](https://arxiv.org/abs/2410.09879),[Page]()]
+
+[arxiv 2024.11] AnyText2: Visual Text Generation and Editing With Customizable Attributes  [[PDF](https://arxiv.org/abs/2411.15245),[Page](https://github.com/tyxsspa/AnyText2)] ![Code](https://img.shields.io/github/stars/tyxsspa/AnyText2?style=social&label=Star)
+
 
 [arxiv 2024.11]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -1101,6 +1116,15 @@
 [arxiv 2024.11]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 
+## group generation 
+
+[arxiv 2024.10]  In-Context LoRA for Diffusion Transformers [[PDF](https://arxiv.org/pdf/2410.23775),[Page](https://github.com/ali-vilab/In-Context-LoRA)] ![Code](https://img.shields.io/github/stars/ali-vilab/In-Context-LoRA?style=social&label=Star)
+
+[arxiv 2024.11] Large-Scale Text-to-Image Model with Inpainting is a Zero-Shot Subject-Driven Image Generator  [[PDF](https://arxiv.org/abs/2411.15466),[Page](https://diptychprompting.github.io/)] 
+
+[arxiv 2024.11]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
+
+
 ## Story-telling
 
 **[ECCV 2022]** ***Story Dall-E***: Adapting pretrained text-to-image transformers for story continuation [[PDF](https://arxiv.org/pdf/2209.06192.pdf), [code](https://github.com/adymaharana/storydalle)]  
@@ -1241,8 +1265,11 @@ Cross-Attention Control [[PDF](https://arxiv.org/abs/2402.13404)]
 
 [arxiv 2024.05]  NIVeL: Neural Implicit Vector Layers for Text-to-Vector Generation  [[PDF](https://arxiv.org/abs/2405.15217)]
 
-[arxiv 2024.11]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
+[arxiv 2024.11] Chat2SVG: Vector Graphics Generation with Large Language Models and Image Diffusion Models  [[PDF](https://arxiv.org/abs/2411.16602),[Page](https://chat2svg.github.io/)]
 
+[arxiv 2024.11]  VQ-SGen: A Vector Quantized Stroke Representation for Sketch Generation [[PDF](https://arxiv.org/abs/2411.16446)]
+
+[arxiv 2024.11]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 
 ## composition & Translation
@@ -1786,6 +1813,8 @@ Cross-Attention Control [[PDF](https://arxiv.org/abs/2402.13404)]
 [arxiv 2024.06] Coherent Zero-Shot Visual Instruction Generation  [[PDF](https://arxiv.org/abs/2406.04337),[Page](https://instruct-vis-zero.github.io/)]
 
 [arxiv 2024.10] Inverse Painting: Reconstructing The Painting Process[[PDF](https://arxiv.org/abs/2409.20556),[Page](https://inversepainting.github.io/)]
+
+[arxiv 2024.11] TKG-DM: Training-free Chroma Key Content Generation Diffusion Model  [[PDF](https://arxiv.org/abs/2411.15580)] 
 
 [arxiv 2024.11]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
