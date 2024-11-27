@@ -155,7 +155,7 @@ A reading list of video generation
   [arxiv 2024.11]MovieBench: A Hierarchical Movie Level Dataset for Long Video Generation  [[PDF](https://weijiawu.github.io/MovieBench/),[Page](https://weijiawu.github.io/MovieBench/)] ![Code](https://img.shields.io/github/stars/showlab/MovieBench?style=social&label=Star)
 
 * **VIVID-10M**
-  [arxiv 2024.11]VIVID-10M: A Dataset and Baseline for Versatile and Interactive Video Local Editing [[PDF]([https://weijiawu.github.io/MovieBench/](https://arxiv.org/abs/2411.15260)),[Page](https://inkosizhong.github.io/VIVID/)] 
+  [arxiv 2024.11]VIVID-10M: A Dataset and Baseline for Versatile and Interactive Video Local Editing [[PDF](https://arxiv.org/abs/2411.15260),[Page](https://inkosizhong.github.io/VIVID/)] 
 
 
 
