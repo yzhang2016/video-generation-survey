@@ -106,6 +106,9 @@
 ## audio 
 [arxiv 2024.10] MuVi: Video-to-Music Generation with Semantic Alignment and Rhythmic Synchronization[[PDF](https://arxiv.org/abs/2410.12957)]
 
+[arxiv 2024.11]Video-Guided Foley Sound Generation with Multimodal Controls [[PDF](https://arxiv.org/abs/2411.17698), [Page](https://ificl.github.io/MultiFoley/)]
+
+
 [arxiv 2024.11] [[PDF](), [Page]()]
 
 
