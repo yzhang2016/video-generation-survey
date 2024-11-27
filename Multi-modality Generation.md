@@ -6,6 +6,9 @@
 
 
 ### Multi-modality Generation 
+[arxiv 2024.11] Multimodal Alignment and Fusion: A Survey [[PDF](https://arxiv.org/abs/2411.17040)]
+
+
 
 ### [Awesome-Multimodal-Large-Language-Models](https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models)
 
@@ -96,6 +99,7 @@
 [arxiv 2024.11] CATCH: Complementary Adaptive Token-level Contrastive Decoding to Mitigate Hallucinations in LVLMs[[PDF](https://arxiv.org/abs/2411.12713)]
 
 [arxiv 2024.11] [[PDF](), [Page]()]
+
 
 ## multi-modality evaluation 
 
