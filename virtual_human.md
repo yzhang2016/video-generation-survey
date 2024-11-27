@@ -24,6 +24,7 @@
 
 [arxiv 2024.11] SMGDiff: Soccer Motion Generation using diffusion probabilistic models  [[PDF](https://arxiv.org/abs/2411.16216)]
 
+[arxiv 2024.11] DRiVE: Diffusion-based Rigging Empowers Generation of Versatile and Expressive Characters  [[PDF](https://arxiv.org/abs/2411.17423),[Page](https://driveavatar.github.io/)] ![Code](https://img.shields.io/github/stars/DRiVEAvatar/DRiVEAvatar.github.io?style=social&label=Star)
 
 
 [arxiv 2024.11]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
@@ -54,6 +55,8 @@
 [arxiv 2024.09] DreamHOI: Subject-Driven Generation of 3D Human-Object Interactions with Diffusion Priors[[PDF](https://arxiv.org/abs/2409.08278),[Page](https://dreamhoi.github.io/)]
 
 [arxiv 2024.10] GraspDiffusion: Synthesizing Realistic Whole-body Hand-Object Interaction [[PDF](https://arxiv.org/abs/2410.13911),[Page]()]
+
+[arxiv 2024.11] AnchorCrafter: Animate CyberAnchors Saling Your Products via Human-Object Interacting Video Generation  [[PDF](https://arxiv.org/abs/2411.17383),[Page](https://cangcz.github.io/Anchor-Crafter/)] ![Code](https://img.shields.io/github/stars/cangcz/AnchorCrafter?style=social&label=Star)
 
 
 
