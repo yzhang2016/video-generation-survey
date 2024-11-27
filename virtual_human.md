@@ -26,6 +26,7 @@
 
 [arxiv 2024.11] DRiVE: Diffusion-based Rigging Empowers Generation of Versatile and Expressive Characters  [[PDF](https://arxiv.org/abs/2411.17423),[Page](https://driveavatar.github.io/)] ![Code](https://img.shields.io/github/stars/DRiVEAvatar/DRiVEAvatar.github.io?style=social&label=Star)
 
+[arxiv 2024.11]  UniPose: A Unified Multimodal Framework for Human Pose Comprehension, Generation and Editing [[PDF](https://arxiv.org/abs/2411.16781)] 
 
 [arxiv 2024.11]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
