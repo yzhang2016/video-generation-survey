@@ -50,6 +50,7 @@
 ## Human Interaction 
 [arxiv 2024.05]  Scaling Up Dynamic Human-Scene Interaction Modeling [[PDF](https://arxiv.org/abs/2403.08629),[Page](https://jnnan.github.io/trumans/)] ![Code](https://img.shields.io/github/stars/jnnan/trumans_utils?style=social&label=Star)
 
+[arxiv 2024.06]  Introducing HOT3D: An Egocentric Dataset for 3D Hand and Object Tracking [[PDF](https://arxiv.org/pdf/2406.09598),[Page](https://facebookresearch.github.io/hot3d/)] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 [arxiv 2024.10]  Sitcom-Crafter: A Plot-Driven Human Motion Generation System in 3D Scenes [[PDF](https://arxiv.org/abs/2410.10790),[Page](https://windvchen.github.io/Sitcom-Crafter/)]
 
@@ -58,6 +59,7 @@
 [arxiv 2024.10] GraspDiffusion: Synthesizing Realistic Whole-body Hand-Object Interaction [[PDF](https://arxiv.org/abs/2410.13911),[Page]()]
 
 [arxiv 2024.11] AnchorCrafter: Animate CyberAnchors Saling Your Products via Human-Object Interacting Video Generation  [[PDF](https://arxiv.org/abs/2411.17383),[Page](https://cangcz.github.io/Anchor-Crafter/)] ![Code](https://img.shields.io/github/stars/cangcz/AnchorCrafter?style=social&label=Star)
+
 
 
 
