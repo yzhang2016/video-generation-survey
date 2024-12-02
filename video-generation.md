@@ -1383,6 +1383,7 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2024.08]Diffusion Models Are Real-Time Game Engines [[PDF](https://arxiv.org/abs/2408.14837),[Page](https://gamengen.github.io/)]
 
+[arxiv 2024.08] Body of Her: A Preliminary Study on End-to-End Humanoid Agent  [[PDF](https://arxiv.org/pdf/2408.02879)] 
 
 [arxiv 2024.09] Video Game Generation: A Practical Study using Mario [[PDF](https://virtual-protocol.github.io/mario-videogamegen/static/pdfs/VideoGameGen.pdf),[Page](https://virtual-protocol.github.io/mario-videogamegen/)]
 
