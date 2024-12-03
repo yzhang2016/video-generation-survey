@@ -1,6 +1,6 @@
 
 ## Face 
-[arxiv 2024.11]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
+[arxiv 2024.12]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 ## Body 
 
@@ -28,13 +28,13 @@
 
 [arxiv 2024.11]  UniPose: A Unified Multimodal Framework for Human Pose Comprehension, Generation and Editing [[PDF](https://arxiv.org/abs/2411.16781)] 
 
-[arxiv 2024.11]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
+[arxiv 2024.12]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 
 ## audio-to-gesture 
 [arxiv 2024.10] Emphasizing Semantic Consistency of Salient Posture for Speech-Driven Gesture Generation  [[PDF](https://arxiv.org/abs/2410.13786)]
 
-[arxiv 2024.11]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
+[arxiv 2024.12]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 
 ## Hands 
@@ -45,7 +45,7 @@
 [arxiv 2024.11] UniHands: Unifying Various Wild-Collected Keypoints for Personalized Hand Reconstruction  [[PDF](https://arxiv.org/abs/2411.11845),[Page]()]
 
 
-[arxiv 2024.11]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
+[arxiv 2024.12]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 ## Human Interaction 
 [arxiv 2024.05]  Scaling Up Dynamic Human-Scene Interaction Modeling [[PDF](https://arxiv.org/abs/2403.08629),[Page](https://jnnan.github.io/trumans/)] ![Code](https://img.shields.io/github/stars/jnnan/trumans_utils?style=social&label=Star)
@@ -60,10 +60,11 @@
 
 [arxiv 2024.11] AnchorCrafter: Animate CyberAnchors Saling Your Products via Human-Object Interacting Video Generation  [[PDF](https://arxiv.org/abs/2411.17383),[Page](https://cangcz.github.io/Anchor-Crafter/)] ![Code](https://img.shields.io/github/stars/cangcz/AnchorCrafter?style=social&label=Star)
 
+[arxiv 2024.12] HOT3D: Hand and Object Tracking in 3D from Egocentric Multi-View Videos  [[PDF](https://arxiv.org/abs/2411.19167),[Page](https://facebookresearch.github.io/hot3d/)] 
 
 
 
-[arxiv 2024.11]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
+[arxiv 2024.12]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 
 
@@ -77,4 +78,4 @@
 [arxiv 2024.11] FreeCap: Hybrid Calibration-Free Motion Capture in Open Environments  [[PDF](https://arxiv.org/abs/2411.04469)]
 
 
-[arxiv 2024.11]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
+[arxiv 2024.12]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
