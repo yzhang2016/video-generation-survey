@@ -28,7 +28,11 @@
 
 [arxiv 2024.11]  UniPose: A Unified Multimodal Framework for Human Pose Comprehension, Generation and Editing [[PDF](https://arxiv.org/abs/2411.16781)] 
 
+[arxiv 2024.12] AToM: Aligning Text-to-Motion Model at Event-Level with GPT-4Vision Reward  [[PDF](https://arxiv.org/abs/2411.18654),[Page](https://atom-motion.github.io/)] ![Code](https://img.shields.io/github/stars/VincentHancoder/AToM?style=social&label=Star)
+
 [arxiv 2024.12]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
+
+
 
 
 ## audio-to-gesture 
@@ -62,6 +66,7 @@
 
 [arxiv 2024.12] HOT3D: Hand and Object Tracking in 3D from Egocentric Multi-View Videos  [[PDF](https://arxiv.org/abs/2411.19167),[Page](https://facebookresearch.github.io/hot3d/)] 
 
+[arxiv 2024.12]  OOD-HOI: Text-Driven 3D Whole-Body Human-Object Interactions Generation Beyond Training Domains [[PDF](https://nickk0212.github.io/ood-hoi/#),[Page](https://nickk0212.github.io/ood-hoi/)] 
 
 
 [arxiv 2024.12]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
