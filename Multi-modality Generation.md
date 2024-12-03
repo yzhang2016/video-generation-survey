@@ -76,14 +76,16 @@
 [arxiv 2024.11]Spider: Any-to-Many Multimodal LLM [[PDF](https://arxiv.org/abs/2411.09439)]
 
 
-[arxiv 2024.11] [[PDF](), [Page]()]
+[arxiv 2024.12]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
 
 ## Agent
 
 [arxiv 2024.10] Agent S: An Open Agentic Framework that Uses Computers Like a Human[[PDF](https://arxiv.org/abs/2410.08164), [Page](https://github.com/simular-ai/Agent-S)]
 
-[arxiv 2024.11] [[PDF](), [Page]()]
+[arxiv 2024.12]  SPAgent: Adaptive Task Decomposition and Model Selection for General Video Generation and Editing [[PDF](https://arxiv.org/abs/2411.18983)]
 
+
+[arxiv 2024.12]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
 
 
 ## Multi-modality Understanding 
@@ -98,8 +100,7 @@
 
 [arxiv 2024.11] CATCH: Complementary Adaptive Token-level Contrastive Decoding to Mitigate Hallucinations in LVLMs[[PDF](https://arxiv.org/abs/2411.12713)]
 
-[arxiv 2024.11] [[PDF](), [Page]()]
-
+[arxiv 2024.12]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
 
 ## multi-modality evaluation 
 
@@ -113,10 +114,9 @@
 [arxiv 2024.11]Video-Guided Foley Sound Generation with Multimodal Controls [[PDF](https://arxiv.org/abs/2411.17698), [Page](https://ificl.github.io/MultiFoley/)]
 
 
-[arxiv 2024.11] [[PDF](), [Page]()]
-
+[arxiv 2024.12]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
 
 ## speed 
 [arxiv 2024.10]PyramidDrop: Accelerating Your Large Vision-Language Models via Pyramid Visual Redundancy Reduction[[PDF](https://arxiv.org/abs/2410.17247), [Page]()]
 
-[arxiv 2024.11] [[PDF](), [Page]()]
+[arxiv 2024.12]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
