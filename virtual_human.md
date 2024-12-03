@@ -30,9 +30,11 @@
 
 [arxiv 2024.12] AToM: Aligning Text-to-Motion Model at Event-Level with GPT-4Vision Reward  [[PDF](https://arxiv.org/abs/2411.18654),[Page](https://atom-motion.github.io/)] ![Code](https://img.shields.io/github/stars/VincentHancoder/AToM?style=social&label=Star)
 
+[arxiv 2024.12]  AdaVLN: Towards Visual Language Navigation in Continuous Indoor Environments with Moving Humans
+ [[PDF](https://arxiv.org/abs/2411.18539),[Page](https://github.com/dillonloh/AdaVLN)] ![Code](https://img.shields.io/github/stars/dillonloh/AdaVLN?style=social&label=Star)
+
+
 [arxiv 2024.12]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
-
-
 
 
 ## audio-to-gesture 
@@ -77,6 +79,10 @@
 [arxiv 2024.10] DepthSplat：Connecting Gaussian Splatting and Depth  [[PDF](https://arxiv.org/abs/2410.13862),[Page](https://haofeixu.github.io/depthsplat/)]
 
 [arxiv 2024.10] Long-LRM: Long-sequence Large Reconstruction Model for Wide-coverage Gaussian Splats  [[PDF](https://arxiv.org/abs/2410.12781),[Page](https://arthurhero.github.io/projects/llrm/)]
+
+[arxiv 2024.12]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
+
+
 
 ## Capture 
 
