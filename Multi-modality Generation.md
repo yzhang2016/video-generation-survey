@@ -119,4 +119,9 @@
 ## speed 
 [arxiv 2024.10]PyramidDrop: Accelerating Your Large Vision-Language Models via Pyramid Visual Redundancy Reduction[[PDF](https://arxiv.org/abs/2410.17247), [Page]()]
 
+[arxiv 2024.12]  [CLS] Attention is All You Need for Training-Free Visual Token Pruning: Make VLM Inference Faster
+ [[PDF](https://arxiv.org/abs/2412.01818),[Page](https://theia-4869.github.io/FasterVLM)] ![Code](https://img.shields.io/github/stars/Theia-4869/FasterVLM?style=social&label=Star) 
+
+
+
 [arxiv 2024.12]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
