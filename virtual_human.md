@@ -33,6 +33,8 @@
 [arxiv 2024.12]  AdaVLN: Towards Visual Language Navigation in Continuous Indoor Environments with Moving Humans
  [[PDF](https://arxiv.org/abs/2411.18539),[Page](https://github.com/dillonloh/AdaVLN)] ![Code](https://img.shields.io/github/stars/dillonloh/AdaVLN?style=social&label=Star)
 
+[arxiv 2024.12]  InfiniDreamer: Arbitrarily Long Human Motion Generation via Segment Score Distillation [[PDF](https://arxiv.org/abs/2411.18303)] 
+
 
 [arxiv 2024.12]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -49,6 +51,8 @@
 [arxiv 2024.10]Learning Interaction-aware 3D Gaussian Splatting for One-shot Hand Avatars [[PDF](https://arxiv.org/abs/2410.08840),[Page](https://github.com/XuanHuang0/GuassianHand)]
 
 [arxiv 2024.11] UniHands: Unifying Various Wild-Collected Keypoints for Personalized Hand Reconstruction  [[PDF](https://arxiv.org/abs/2411.11845),[Page]()]
+
+[arxiv 2024.12]  FoundHand: Large-Scale Domain-Specific Learning for Controllable Hand Image Generation [[PDF](https://arxiv.org/abs/2412.02690)]
 
 
 [arxiv 2024.12]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
