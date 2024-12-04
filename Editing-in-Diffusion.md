@@ -418,9 +418,9 @@
 
 [arxiv 2024.12] InstantSwap: Fast Customized Concept Swapping across Sharp Shape Differences  [[PDF](https://arxiv.org/abs/2412.01197),[Page](https://instantswap.github.io/)] ![Code](https://img.shields.io/github/stars/chenyangzhu1/InstantSwap?style=social&label=Star)
 
-
 [arxiv 2024.12] FreeCond: Free Lunch in the Input Conditions of Text-Guided Inpainting  [[PDF](https://arxiv.org/abs/2412.00427),[Page](https://github.com/basiclab/FreeCond)] ![Code](https://img.shields.io/github/stars/basiclab/FreeCond?style=social&label=Star)
 
+[arxiv 2024.12]  Steering Rectified Flow Models in the Vector Field for Controlled Image Generation [[PDF](https://arxiv.org/abs/2412.00100),[Page](https://github.com/FlowChef/flowchef)] ![Code](https://img.shields.io/github/stars/FlowChef/flowchef?style=social&label=Star)
 
 
 [arxiv 2024.12]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
@@ -436,7 +436,7 @@
 
 [arxiv 2024.12] Adaptive Blind All-in-One Image Restoration  [[PDF](https://arxiv.org/abs/2411.18412),[Page](https://aba-ir.github.io/)] ![Code](https://img.shields.io/github/stars/davidserra9/abair/?style=social&label=Star)
 
-
+[arxiv 2024.12] OmniFlow: Any-to-Any Generation with Multi-Modal Rectified Flows  [[PDF](https://arxiv.org/abs/2412.01169),[Page]()] ![Code](https://img.shields.io/github/stars/jacklishufan/OmniFlows?style=social&label=Star)
 
 
 [arxiv 2024.12]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
