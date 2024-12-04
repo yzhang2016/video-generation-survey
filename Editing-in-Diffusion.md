@@ -414,6 +414,15 @@
 
 [arxiv 2024.12] SOWing Information: Cultivating Contextual Coherence with MLLMs in Image Generation [[PDF](https://arxiv.org/abs/2411.19182),[Page](https://pyh-129.github.io/SOW/)] ![Code](https://img.shields.io/github/stars/wangruoyu02/COW?style=social&label=Star)
 
+[arxiv 2024.12]  PainterNet: Adaptive Image Inpainting with Actual-Token Attention and Diverse Mask Control [[PDF](https://arxiv.org/abs/2412.01223)]
+
+[arxiv 2024.12] InstantSwap: Fast Customized Concept Swapping across Sharp Shape Differences  [[PDF](https://arxiv.org/abs/2412.01197),[Page](https://instantswap.github.io/)] ![Code](https://img.shields.io/github/stars/chenyangzhu1/InstantSwap?style=social&label=Star)
+
+
+[arxiv 2024.12] FreeCond: Free Lunch in the Input Conditions of Text-Guided Inpainting  [[PDF](https://arxiv.org/abs/2412.00427),[Page](https://github.com/basiclab/FreeCond)] ![Code](https://img.shields.io/github/stars/basiclab/FreeCond?style=social&label=Star)
+
+
+
 [arxiv 2024.12]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 
@@ -482,8 +491,11 @@
 
 [arxiv 2024.10] Consistency Diffusion Bridge Models  [[PDF](https://arxiv.org/abs/2410.22637)]
 
+[arxiv 2024.12]  Orthus: Autoregressive Interleaved Image-Text Generation with Modality-Specific Heads [[PDF](https://arxiv.org/pdf/2412.00127)]
 
 [arxiv 2024.12]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
+
+
 
 ## Instruct for editing 
 [arxiv 2024.07] GenArtist: Multimodal LLM as an Agent for Unified Image Generation and Editing  [[PDF](https://arxiv.org/abs/2407.05600),[Page](https://zhenyuw16.github.io/GenArtist_page/)]
@@ -729,8 +741,23 @@
 
 [arxiv 2024.11] LiteVAR: Compressing Visual Autoregressive Modelling with Efficient Attention and Quantization  [[PDF](https://arxiv.org/abs/2411.17178)] 
 
+[arxiv 2024.12]  CoDe: Collaborative Decoding Makes Visual Auto-Regressive Modeling Efficient [[PDF](https://arxiv.org/abs/2411.17787),[Page](https://czg1225.github.io/CoDe_page/)] ![Code](https://img.shields.io/github/stars/czg1225/CoDe?style=social&label=Star)
+
+[arxiv 2024.12] RandAR: Decoder-only Autoregressive Visual Generation in Random Orders  [[PDF](https://arxiv.org/abs/2412.01827),[Page](https://rand-ar.github.io/)] ![Code](https://img.shields.io/github/stars/ziqipang/RandAR?style=social&label=Star)
+
+[arxiv 2024.12] Switti: Designing Scale-Wise Transformers for Text-to-Image Synthesis  [[PDF](https://arxiv.org/pdf/2412.01819),[Page](https://yandex-research.github.io/switti/)] ![Code](https://img.shields.io/github/stars/yandex-research/switti?style=social&label=Star)
+
+[arxiv 2024.12] Taming Scalable Visual Tokenizer for Autoregressive Image Generation  [[PDF](https://arxiv.org/abs/2412.02692),[Page](TencentARC/SEED-Voken)] 
+
+[arxiv 2024.12] XQ-GAN: An Open-source Image Tokenization Framework for Autoregressive Generation  [[PDF](https://arxiv.org/abs/2412.01762),[Page](https://github.com/lxa9867/ImageFolder)] ![Code](https://img.shields.io/github/stars/lxa9867/ImageFolder?style=social&label=Star)
+
+[arxiv 2024.12]  TinyFusion: Diffusion Transformers Learned Shallow [[PDF](https://arxiv.org/abs/2412.01199),[Page](https://github.com/VainF/TinyFusion)] ![Code](https://img.shields.io/github/stars/VainF/TinyFusion?style=social&label=Star)
+
 
 [arxiv 2024.12]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
+
+
+
 
 ## Distill Diffusion Model 
 [arxiv 2024.05]Distilling Diffusion Models into Conditional GANs [[PDF](https://arxiv.org/abs/2405.05967),[Page](https://mingukkang.github.io/Diffusion2GAN/)]
@@ -830,7 +857,15 @@
 
 [arxiv 2024.11] Conditional Text-to-Image Generation with Reference Guidance  [[PDF](https://arxiv.org/abs/2411.16713)] 
 
+[arxiv 2024.12] Type-R: Automatically Retouching Typos for Text-to-Image Generation  [[PDF](https://arxiv.org/abs/2411.18159)] 
+
+[arxiv 2024.12] FonTS: Text Rendering with Typography and Style Controls  [[PDF](https://arxiv.org/pdf/2412.00136)]
+
+
 [arxiv 2024.12]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
+
+
+
 
 ## Caption 
 
@@ -1166,6 +1201,11 @@
 
 [arxiv 2024.11] Large-Scale Text-to-Image Model with Inpainting is a Zero-Shot Subject-Driven Image Generator  [[PDF](https://arxiv.org/abs/2411.15466),[Page](https://diptychprompting.github.io/)] 
 
+[arxiv 2024.12]  X-Prompt: Towards Universal In-Context Image Generation in Auto-Regressive Vision Language Foundation Models [[PDF](https://arxiv.org/abs/2412.01824),[Page](https://github.com/SunzeY/X-Prompt)] ![Code](https://img.shields.io/github/stars/SunzeY/X-Prompt?style=social&label=Star)
+
+[arxiv 2024.12] Generative Photography Scene-Consistent Camera Control for Realistic Text-to-Image Synthesis [[PDF](https://arxiv.org/abs/2412.02168),[Page](https://generative-photography.github.io/project/)] 
+
+
 [arxiv 2024.12]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 
@@ -1211,12 +1251,15 @@
 
 [arxiv 2024.10] Storynizor: Consistent Story Generation via Inter-Frame Synchronized and Shuffled ID Injection  [[PDF](https://arxiv.org/abs/2409.19624)]
 
-
-
 [arxiv 2024.11]  StoryAgent: Customized Storytelling Video Generation via Multi-Agent Collaboration [[PDF](https://arxiv.org/abs/2411.04925),[Page](https://github.com/storyagent123/Comparison-of-storytelling-video-results/blob/main/demo/readme.md)]
+
+[arxiv 2024.12] VideoGen-of-Thought: A Collaborative Framework for Multi-Shot Video Generation  [[PDF](https://arxiv.org/abs/2011.12948),[Page](https://cheliosoops.github.io/VGoT/)] 
 
 
 [arxiv 2024.12]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
+
+
+
 
 ## Layout Generation 
 [arxiv 2022.08]Layout-Bridging Text-to-Image Synthesis [[PDF](https://arxiv.org/pdf/2208.06162.pdf)]
@@ -1284,7 +1327,11 @@ Cross-Attention Control [[PDF](https://arxiv.org/abs/2402.13404)]
 
 [arxiv 2024.11]  HouseLLM: LLM-Assisted Two-Phase Text-to-Floorplan Generation [[PDF](https://arxiv.org/abs/2411.12279)] 
 
+[arxiv 2024.12] DogLayout: Denoising Diffusion GAN for Discrete and Continuous Layout Generation  [[PDF](https://arxiv.org/abs/2412.00381),[Page](https://github.com/deadsmither5/DogLayout)] ![Code](https://img.shields.io/github/stars/deadsmither5/DogLayout?style=social&label=Star) 
+
+
 [arxiv 2024.12]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
+
 
 ## SVG
 [arxiv 2022.11; UCB] VectorFusion: Text-to-SVG by Abstracting Pixel-Based Diffusion Models \[[PDF](https://arxiv.org/abs/2211.11319)\]
@@ -1314,6 +1361,9 @@ Cross-Attention Control [[PDF](https://arxiv.org/abs/2402.13404)]
 [arxiv 2024.11]  VQ-SGen: A Vector Quantized Stroke Representation for Sketch Generation [[PDF](https://arxiv.org/abs/2411.16446)]
 
 [arxiv 2024.11]  SketchAgent: Language-Driven Sequential Sketch Generation [[PDF](https://arxiv.org/abs/2411.17673),[Page](https://yael-vinker.github.io/sketch-agent/)] ![Code](https://img.shields.io/github/stars/yael-vinker/SketchAgent?style=social&label=Star)
+
+[arxiv 2024.12]  SVGDreamer++: Advancing Editability and Diversity in Text-Guided SVG Generation [[PDF](https://arxiv.org/abs/2411.17832)]
+
 
 
 [arxiv 2024.12]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
@@ -1574,6 +1624,12 @@ Cross-Attention Control [[PDF](https://arxiv.org/abs/2402.13404)]
 
 [arxiv 2024.11] DreamMix: Decoupling Object Attributes for Enhanced Editability in Customized Image Inpainting  [[PDF](https://arxiv.org/abs/2411.17223),[Page](https://github.com/mycfhs/DreamMix)] ![Code](https://img.shields.io/github/stars/mycfhs/DreamMix?style=social&label=Star)
 
+[arxiv 2024.12] ROICtrl: Boosting Instance Control for Visual Generatiol  [[PDF](https://arxiv.org/abs/2411.17949),[Page](https://roictrl.github.io/)] ![Code](https://img.shields.io/github/stars/showlab/ROICtrl?style=social&label=Star)
+
+[arxiv 2024.12] MFTF: Mask-free Training-free Object Level Layout Control Diffusion Model  [[PDF](https://arxiv.org/abs/2412.01284)]
+
+[arxiv 2024.12] Sketch-Guided Motion Diffusion for Stylized Cinemagraph Synthesis  [[PDF](https://arxiv.org/pdf/2412.00638)]
+
 [arxiv 2024.12]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 
@@ -1731,7 +1787,16 @@ Cross-Attention Control [[PDF](https://arxiv.org/abs/2402.13404)]
 [arxiv 2024.12] FAM Diffusion: Frequency and Attention Modulation for High-Resolution Image Generation with Stable Diffusion
   [[PDF](https://arxiv.org/abs/2411.18552)] 
 
+[arxiv 2024.12]  TSD-SR: One-Step Diffusion with Target Score Distillation for Real-World Image Super-Resolution [[PDF](https://arxiv.org/abs/2411.18263)] 
+
+[arxiv 2024.12] AccDiffusion v2: Towards More Accurate Higher-Resolution Diffusion Extrapolation  [[PDF](https://arxiv.org/abs/2412.02099),[Page](https://github.com/lzhxmu/AccDiffusion_v2)] ![Code](https://img.shields.io/github/stars/lzhxmu/AccDiffusion_v2?style=social&label=Star)
+
+
+
+
 [arxiv 2024.12]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
+
+
 
 
 ## translation 
@@ -2071,7 +2136,17 @@ Cross-Attention Control [[PDF](https://arxiv.org/abs/2402.13404)]
 
 [arxiv 2024.11]  PoM: Efficient Image and Video Generation with the Polynomial Mixer [[PDF](https://arxiv.org/abs/2411.12663),[Page](https://github.com/davidpicard/HoMM)]
 
+[arxiv 2024.12]  TSD-SR: One-Step Diffusion with Target Score Distillation for Real-World Image Super-Resolution [[PDF](https://arxiv.org/abs/2411.18263)] 
+
+
+[arxiv 2024.12] SNOOPI: Supercharged One-step Diffusion Distillation with Proper Guidance  [[PDF](https://arxiv.org/abs/2412.02687),[Page](https://snoopi-onestep.github.io/)] ![Code](https://img.shields.io/github/stars/VinAIResearch/SNOOPI?style=social&label=Star)
+
+[arxiv 2024.12] Schedule On the Fly: Diffusion Time Prediction for Faster and Better Image Generation  [[PDF](https://arxiv.org/abs/2412.01243)]
+
+
 [arxiv 2024.12]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
+
+
 
 ## consistency model 
 [arxiv 2024.10] Simplifying, stabilizing, and scaling continuous-time consistency models  [[PDF](https://arxiv.org/abs/2410.11081),[Page](https://openai.com/index/simplifying-stabilizing-and-scaling-continuous-time-consistency-models/)]
@@ -2199,7 +2274,11 @@ Cross-Attention Control [[PDF](https://arxiv.org/abs/2402.13404)]
 
 [arxiv 2024.11] Reward Incremental Learning in Text-to-Image Generation  [[PDF](https://arxiv.org/abs/2411.17310)] 
 
+[arxiv 2024.12] Bridging the Gap: Aligning Text-to-Image Diffusion Models with Specific Feedback  [[PDF](https://arxiv.org/abs/2412.00122),[Page](https://github.com/kingniu0329/Visions)] ![Code](https://img.shields.io/github/stars/kingniu0329/Visions?style=social&label=Star)
+
 [arxiv 2024.12]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
+
+
 
 
 ##  Finetuning 
@@ -2274,7 +2353,7 @@ Cross-Attention Control [[PDF](https://arxiv.org/abs/2402.13404)]
 [arxiv 2024.12]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 
-# architecture 
+# architecture /distribution
 [arxiv 2024.09]HydraViT: Stacking Heads for a Scalable ViT [[PDF](https://arxiv.org/abs/2409.17978), [Page](https://github.com/ds-kiel/HydraViT)]
 
 [arxiv 2024.10] MaskMamba: A Hybrid Mamba-Transformer Model for Masked Image Generation[[PDF](https://arxiv.org/pdf/2409.19937)]
