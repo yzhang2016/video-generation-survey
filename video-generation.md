@@ -157,6 +157,9 @@ A reading list of video generation
 * **VIVID-10M**
   [arxiv 2024.11]VIVID-10M: A Dataset and Baseline for Versatile and Interactive Video Local Editing [[PDF](https://arxiv.org/abs/2411.15260),[Page](https://inkosizhong.github.io/VIVID/)] 
 
+* **OpenHumanVid**
+  [arxiv 2024.12]A Large-Scale High-Quality Dataset for Enhancing Human-Centric Video Generation [[PDF](https://arxiv.org/abs/2412.00115),[Page](https://inkosizhong.github.io/VIVID/)]  ![Code](https://img.shields.io/github/stars/fudan-generative-vision/OpenHumanVid?style=social&label=Star)
+
 
 
 ## Video/Image VAE 
@@ -360,7 +363,12 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2024.10] MarDini: Masked Autoregressive Diffusion for Video Generation at Scale [[PDF](https://arxiv.org/abs/2410.20280), [Page](https://mardini-vidgen.github.io/)]
 
+[arxiv 2024.12] Open-Sora Plan: Open-Source Large Video Generation Model [[PDF](https://arxiv.org/abs/2412.00131),[Page](https://github.com/PKU-YuanGroup/Open-Sora-Plan)] ![Code](https://img.shields.io/github/stars/PKU-YuanGroup/Open-Sora-Plan?style=social&label=Star)
+
 [arxiv 2024.12]  [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
+
+
+
 
 ## LLMs-based 
 [arxiv 2023.12]VideoPoet: A Large Language Model for Zero-Shot Video Generation [[PDF](https://arxiv.org/abs/2312.14125),[Page](http://sites.research.google/videopoet/)]
@@ -418,6 +426,9 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2024.11] Free2Guide: Gradient-Free Path Integral Control for Enhancing Text-to-Video Generation with Large Vision-Language Models [[PDF](https://arxiv.org/abs/2411.17041),[Page](https://kjm981995.github.io/free2guide/)] 
 
+[arxiv 2024.12] PhyT2V: LLM-Guided Iterative Self-Refinement for Physics-Grounded Text-to-Video Generation [[PDF](https://arxiv.org/abs/2412.00596),[Page](https://github.com/pittisl/PhyT2V)] ![Code](https://img.shields.io/github/stars/pittisl/PhyT2V?style=social&label=Star)
+
+
 
 [arxiv 2024.12]  [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -438,6 +449,10 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 ## Caption
 [arxiv 2024.11] Grounded Video Caption Generation [[PDF](https://arxiv.org/abs/2411.07584)]
+
+[arxiv 2024.12] Progress-Aware Video Frame Captioning [[PDF](https://arxiv.org/abs/2412.02071),[Page](https://vision.cs.utexas.edu/projects/ProgressCaptioner/)] 
+
+
 
 [arxiv 2024.12]  [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -499,7 +514,12 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2024.10] ARLON: Boosting Diffusion Transformers with Autoregressive Models for Long Video Generation [[PDF](https://arxiv.org/abs/2410.20502), [Page](https://arlont2v.github.io/)]
 
+[arxiv 2024.12] Long Video Diffusion Generation with Segmented Cross-Attention and Content-Rich Video Data Curation [[PDF](https://arxiv.org/abs/2412.01316),[Page](https://presto-video.github.io/)] ![Code](https://img.shields.io/github/stars/rhymes-ai/Allegro?style=social&label=Star)
+
 [arxiv 2024.12]  [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
+
+
+
 
 ## sound generation 
 [arxiv 2024.07] Read, Watch and Scream! Sound Generation from Text and Video
@@ -599,7 +619,6 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2024.05]MOFA-Video: Controllable Image Animation via Generative Motion Field Adaptions in Frozen Image-to-Video Diffusion Model [[PDF](https://arxiv.org/abs/2405.20222),[Page](https://myniuuu.github.io/MOFA_Video/)]
 
-
 [arxiv 2024.06] FreeTraj: Tuning-Free Trajectory Control in Video Diffusion Models [[PDF](https://arxiv.org/abs/2406.16863),[Page](http://haonanqiu.com/projects/FreeTraj.html)]
 
 [arxiv 2024.06] MVOC: a training-free multiple video object composition method with diffusion models [[PDF](https://arxiv.org/abs/2406.15829),[Page](https://sobeymil.github.io/mvoc.com/)]
@@ -637,6 +656,9 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 [arxiv 2024.11] StableAnimator: High-Quality Identity-Preserving Human Image Animation [[PDF](https://arxiv.org/abs/2411.17697),[Page](https://francis-rings.github.io/StableAnimator/)] ![Code](https://img.shields.io/github/stars/Francis-Rings/StableAnimator?style=social&label=Star)
 
 [arxiv 2024.11] AnchorCrafter: Animate CyberAnchors Saling Your Products via Human-Object Interacting Video Generation  [[PDF](https://arxiv.org/abs/2411.17383),[Page](https://cangcz.github.io/Anchor-Crafter/)] ![Code](https://img.shields.io/github/stars/cangcz/AnchorCrafter?style=social&label=Star)
+
+
+[arxiv 2024.12] Motion Prompting: Controlling Video Generation with Motion Trajectories [[PDF](https://arxiv.org/abs/2412.02700),[Page](https://motion-prompting.github.io/)] 
 
 
 [arxiv 2024.12]  [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
@@ -687,6 +709,13 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 [arxiv 2024.11] AnimateAnything: Consistent and Controllable Animation for Video Generation [[PDF](https://arxiv.org/abs/2411.10836),[Page](https://yu-shaonian.github.io/Animate_Anything/)] ![Code](https://img.shields.io/github/stars/yu-shaonian/AnimateAnything?style=social&label=Star)
 
 [arxiv 2024.12] Trajectory Attention for Fine-grained Video Motion Control [[PDF](https://arxiv.org/abs/2411.19324),[Page]()] ![Code](https://img.shields.io/github/stars/xizaoqu/TrajectoryAttntion?style=social&label=Star)
+
+
+[arxiv 2024.12] I2VControl: Disentangled and Unified Video Motion Synthesis Control [[PDF](https://arxiv.org/abs/2411.17765),[Page](https://wanquanf.github.io/I2VControl)] 
+
+[arxiv 2024.12] Generative Photography Scene-Consistent Camera Control for Realistic Text-to-Image Synthesis [[PDF](https://arxiv.org/abs/2412.02168),[Page](https://generative-photography.github.io/project/)] 
+
+[arxiv 2024.12] CPA: Camera-pose-awareness Diffusion Transformer for Video Generation [[PDF](https://arxiv.org/abs/2412.01429),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 
 [arxiv 2024.12]  [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
@@ -851,7 +880,14 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2024.10] DreamVideo-2: Zero-Shot Subject-Driven Video Customization with Precise Motion Control [[PDF](https://arxiv.org/abs/2410.13830),[Page](https://dreamvideo2.github.io/)]
 
+[arxiv 2024.12]  MotionCharacter: Identity-Preserving and Motion Controllable Human Video Generation [[PDF](https://arxiv.org/abs/2411.18281),[Page](https://motioncharacter.github.io/)]
+
+
 [arxiv 2024.12]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
+
+
+
+
 
 ## Talking Face 
 [arxiv 2024.02]EMO Emote Portrait Alive: Generating Expressive Portrait Videos with Audio2Video Diffusion Model under Weak Conditions [[PDF](https://arxiv.org/abs/2402.17485),[Page](https://humanaigc.github.io/emote-portrait-alive/)]
@@ -901,8 +937,26 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2024.11] Sonic: Shifting Focus to Global Audio Perception in Portrait Animation  [[PDF](https://arxiv.org/pdf/2411.16331),[Page](https://jixiaozhong.github.io/Sonic/)] ![Code](https://img.shields.io/github/stars/jixiaozhong/Sonic?style=social&label=Star)
 
+[arxiv 2024.12] EmojiDiff: Advanced Facial Expression Control with High Identity Preservation in Portrait Generation  [[PDF](https://arxiv.org/abs/2412.01254),[Page](https://emojidiff.github.io/)] 
+
+[arxiv 2024.12]  FLOAT Generative Motion Latent Flow Matching for Audio-driven Talking Portrait [[PDF](https://arxiv.org/abs/2412.01064),[Page](https://deepbrainai-research.github.io/float/)] 
+
+[arxiv 2024.12]  Hallo3: Highly Dynamic and Realistic Portrait Image Animation with Diffusion Transformer Networks [[PDF](https://arxiv.org/pdf/2412.00733),[Page](https://github.com/fudan-generative-vision/hallo3)] ![Code](https://img.shields.io/github/stars/fudan-generative-vision/hallo3?style=social&label=Star)
+
+
 
 [arxiv 2024.12]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
+
+
+## Face swapping 
+
+
+
+[arxiv 2024.12] HiFiVFS: High Fidelity Video Face Swapping  [[PDF](https://arxiv.org/abs/2411.18293),[Page](https://cxcx1996.github.io/HiFiVFS/)] 
+
+
+[arxiv 2024.12]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
+
 
 
 ## Image-to-video Generation 
@@ -1210,7 +1264,12 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2024.10] Framer: Interactive Frame Interpolation [[PDF](https://arxiv.org/abs/2410.18978),[Page](https://aim-uofa.github.io/Framer/)]
 
+[arxiv 2024.12] Advanced Video Inpainting Using Optical Flow-Guided Efficient Diffusion  [[PDF](https://arxiv.org/pdf/2412.00857)]
+
 [arxiv 2024.12]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
+
+
+
 
 ## motion transfer 
 [arxiv 2023.05]LEO: Generative Latent Image Animator for Human Video Synthesis [[PDF](https://arxiv.org/abs/2305.03989),[Page](https://wyhsirius.github.io/LEO-project/)]
@@ -1427,8 +1486,17 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2024.11] DiffusionDrive: Truncated Diffusion Model for End-to-End Autonomous Driving  [[PDF](https://arxiv.org/abs/2411.15139),[Page](https://github.com/hustvl/DiffusionDrive)] ![Code](https://img.shields.io/github/stars/hustvl/DiffusionDrive?style=social&label=Star)
 
+[arxiv 2024.12]  InfinityDrive: Breaking Time Limits in Driving World Models [[PDF](https://arxiv.org/abs/2412.01522),[Page](https://metadrivescape.github.io/papers_project/InfinityDrive/page.html)] 
+
+
 
 [arxiv 2024.12]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
+
+
+## Feedback
+
+[arxiv 2024.12]  Improving Dynamic Object Interactions in Text-to-Video Generation with AI Feedback [[PDF](https://arxiv.org/abs/2412.02617),[Page](https://sites.google.com/view/aif-dynamic-t2v/)] 
+
 
 
 
