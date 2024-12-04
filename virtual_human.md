@@ -35,6 +35,8 @@
 
 [arxiv 2024.12]  InfiniDreamer: Arbitrarily Long Human Motion Generation via Segment Score Distillation [[PDF](https://arxiv.org/abs/2411.18303)] 
 
+[arxiv 2024.12] One Shot, One Talk: Whole-body Talking Avatar from a Single Image  [[PDF](https://arxiv.org/abs/2412.01106),[Page](https://ustc3dv.github.io/OneShotOneTalk/)] 
+
 
 [arxiv 2024.12]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -53,6 +55,8 @@
 [arxiv 2024.11] UniHands: Unifying Various Wild-Collected Keypoints for Personalized Hand Reconstruction  [[PDF](https://arxiv.org/abs/2411.11845),[Page]()]
 
 [arxiv 2024.12]  FoundHand: Large-Scale Domain-Specific Learning for Controllable Hand Image Generation [[PDF](https://arxiv.org/abs/2412.02690)]
+
+[arxiv 2024.12]  HandOS: 3D Hand Reconstruction in One Stage [[PDF](https://arxiv.org/abs/2412.01537),[Page](https://idea-research.github.io/HandOSweb/)] 
 
 
 [arxiv 2024.12]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
@@ -73,6 +77,9 @@
 [arxiv 2024.12] HOT3D: Hand and Object Tracking in 3D from Egocentric Multi-View Videos  [[PDF](https://arxiv.org/abs/2411.19167),[Page](https://facebookresearch.github.io/hot3d/)] 
 
 [arxiv 2024.12]  OOD-HOI: Text-Driven 3D Whole-Body Human-Object Interactions Generation Beyond Training Domains [[PDF](https://nickk0212.github.io/ood-hoi/#),[Page](https://nickk0212.github.io/ood-hoi/)] 
+
+[arxiv 2024.12]  FIction: 4D Future Interaction Prediction from Video [[PDF](https://arxiv.org/abs/2408.00672),[Page](https://vision.cs.utexas.edu/projects/FIction/)] ![Code](https://img.shields.io/github/stars/thechargedneutron/FIction?style=social&label=Star)
+
 
 
 [arxiv 2024.12]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
