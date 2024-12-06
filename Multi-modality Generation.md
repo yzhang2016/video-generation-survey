@@ -100,7 +100,13 @@
 
 [arxiv 2024.11] CATCH: Complementary Adaptive Token-level Contrastive Decoding to Mitigate Hallucinations in LVLMs[[PDF](https://arxiv.org/abs/2411.12713)]
 
+[arxiv 2024.12]  VisionZip: Longer is Better but Not Necessary in Vision Language Models [[PDF](https://arxiv.org/abs/2412.04467),[Page](https://github.com/dvlab-research/VisionZip)] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
+
+[arxiv 2024.12]  NVILA: Efficient Frontier Visual Language Models [[PDF](https://arxiv.org/abs/2412.04468)] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
+
+
 [arxiv 2024.12]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
+
 
 ## multi-modality evaluation 
 
