@@ -1194,7 +1194,10 @@
 
 [arxiv 2024.12]  Diffusion Self-Distillation for Zero-Shot Customized Image Generation [[PDF](https://arxiv.org/abs/2411.18616),[Page](https://primecai.github.io/dsd/)] 
 
+[arxiv 2024.12] UnZipLoRA: Separating Content and Style from a Single Image  [[PDF](https://arxiv.org/abs/2412.04465),[Page](https://unziplora.github.io/)] 
+
 [arxiv 2024.12]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
+
 
 
 ## group generation 
@@ -1632,8 +1635,9 @@ Cross-Attention Control [[PDF](https://arxiv.org/abs/2402.13404)]
 
 [arxiv 2024.12] Sketch-Guided Motion Diffusion for Stylized Cinemagraph Synthesis  [[PDF](https://arxiv.org/pdf/2412.00638)]
 
-[arxiv 2024.12]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
+[arxiv 2024.12] LayerFusion: Harmonized Multi-Layer Text-to-Image Generation with Generative Priors  [[PDF](https://arxiv.org/abs/2412.04460),[Page](https://layerfusion.github.io/)] 
 
+[arxiv 2024.12]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 
 ## Image Variation 
@@ -1927,6 +1931,10 @@ Cross-Attention Control [[PDF](https://arxiv.org/abs/2402.13404)]
 [arxiv 2024.10] Harnessing the Latent Diffusion Model for Training-Free Image Style Transfer  [[PDF](https://arxiv.org/abs/2410.01366)]
 
 [arxiv 2024.11] Style-Friendly SNR Sampler for Style-Driven Generation  [[PDF](https://arxiv.org/pdf/2411.14793)] 
+
+[arxiv 2024.12] UnZipLoRA: Separating Content and Style from a Single Image  [[PDF](https://arxiv.org/abs/2412.04465),[Page](https://unziplora.github.io/)] 
+
+
 
 [arxiv 2024.12]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
