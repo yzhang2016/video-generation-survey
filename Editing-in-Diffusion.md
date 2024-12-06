@@ -1213,9 +1213,9 @@
 
 ## Story-telling
 
-**[ECCV 2022]** ***Story Dall-E***: Adapting pretrained text-to-image transformers for story continuation [[PDF](https://arxiv.org/pdf/2209.06192.pdf), [code](https://github.com/adymaharana/storydalle)]  
+**[ECCV 2022]** ***Story Dall-E***: Adapting pretrained text-to-image transformers for story continuation [[PDF](https://arxiv.org/pdf/2209.06192.pdf), [code](https://github.com/adymaharana/storydalle)]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/adymaharana/storydalle?style=social&label=Star)
 
-**[arxiv 22.11; Ailibaba]** Synthesizing Coherent Story with Auto-Regressive Latent Diffusion Models \[[PDF](https://arxiv.org/pdf/2211.10950.pdf), [code](https://github.com/xichenpan/ARLDM)\]  
+**[arxiv 22.11; Ailibaba]** Synthesizing Coherent Story with Auto-Regressive Latent Diffusion Models \[[PDF](https://arxiv.org/pdf/2211.10950.pdf), [code](https://github.com/xichenpan/ARLDM)\]   ![Code](https://img.shields.io/github/stars/xichenpan/ARLDM?style=social&label=Star)
 
 **[CVPR 2023]** ***Make-A-Story***: Visual Memory Conditioned Consistent Story Generation  \[[PDF](https://arxiv.org/pdf/2211.13319.pdf) \]  
 
@@ -1223,17 +1223,17 @@
 
 [arxiv 2023.02]Zero-shot Generation of Coherent Storybook from Plain Text Story using Diffusion Models [[PDF](https://arxiv.org/abs/2302.03900)]
 
-[arxiv 2023.05]TaleCrafter: Interactive Story Visualization with Multiple Characters [[PDF](https://arxiv.org/abs/2305.18247), [Page](https://videocrafter.github.io/TaleCrafter/)]
+[arxiv 2023.05]TaleCrafter: Interactive Story Visualization with Multiple Characters [[PDF](https://arxiv.org/abs/2305.18247), [Page](https://videocrafter.github.io/TaleCrafter/)] ![Code](https://img.shields.io/github/stars/AILab-CVC/TaleCrafter?style=social&label=Star)
 
-[arxiv 2023.06]Intelligent Grimm -- Open-ended Visual Storytelling via Latent Diffusion Models [[PDF](https://arxiv.org/abs/2306.00973), [Page](https://haoningwu3639.github.io/StoryGen_Webpage/)]
+[arxiv 2023.06]Intelligent Grimm -- Open-ended Visual Storytelling via Latent Diffusion Models [[PDF](https://arxiv.org/abs/2306.00973), [Page](https://haoningwu3639.github.io/StoryGen_Webpage/)]  ![Code](https://img.shields.io/github/stars/haoningwu3639/StoryGen?style=social&label=Star)
 
 [arxiv 2023.08]Story Visualization by Online Text Augmentation with Context Memory[[PDF](https://arxiv.org/pdf/2308.07575.pdf)]
 
 [arxiv 2023.08]Text-Only Training for Visual Storytelling [[PDF](https://arxiv.org/pdf/2308.08881.pdf)]
 
-[arxiv 2023.08]StoryBench: A Multifaceted Benchmark for Continuous Story Visualization [[PDF](https://arxiv.org/pdf/2308.11606.pdf), [Page](https://github.com/google/storybench)]
+[arxiv 2023.08]StoryBench: A Multifaceted Benchmark for Continuous Story Visualization [[PDF](https://arxiv.org/pdf/2308.11606.pdf), [Page](https://github.com/google/storybench)]  ![Code](https://img.shields.io/github/stars/google/storybench?style=social&label=Star)
 
-[arxiv 2023.11]AutoStory: Generating Diverse Storytelling Images with Minimal Human Effort[[PDf](https://arxiv.org/abs/2311.11243),[Page](https://aim-uofa.github.io/AutoStory/)]
+[arxiv 2023.11]AutoStory: Generating Diverse Storytelling Images with Minimal Human Effort[[PDf](https://arxiv.org/abs/2311.11243),[Page](https://aim-uofa.github.io/AutoStory/)] ![Code](https://img.shields.io/github/stars/aim-uofa/AutoStory?style=social&label=Star)
 
 [arxiv 2023.12]Make-A-Storyboard: A General Framework for Storyboard with Disentangled and Merged Control [[PDF](https://arxiv.org/abs/2312.07549)]
 
@@ -1245,21 +1245,21 @@
 
 [arxiv 2024.07] Boosting Consistency in Story Visualization with Rich-Contextual Conditional Diffusion Models  [[PDF](https://arxiv.org/abs/2407.02482)]
 
-[arxiv 2024.07] SEED-Story: Multimodal Long Story Generation with Large Language Model  [[PDF](https://arxiv.org/abs/2407.08683),[Page](https://github.com/TencentARC/SEED-Story)]
+[arxiv 2024.07] SEED-Story: Multimodal Long Story Generation with Large Language Model  [[PDF](https://arxiv.org/abs/2407.08683),[Page](https://github.com/TencentARC/SEED-Story)] ![Code](https://img.shields.io/github/stars/TencentARC/SEED-Story?style=social&label=Star)
 
-[arxiv 2024.07] MovieDreamer: Hierarchical Generation for Coherent Long Visual Sequence  [[PDF](https://arxiv.org/abs/2407.16655),[Page](https://aim-uofa.github.io/MovieDreamer/)]
+[arxiv 2024.07] MovieDreamer: Hierarchical Generation for Coherent Long Visual Sequence  [[PDF](https://arxiv.org/abs/2407.16655),[Page](https://aim-uofa.github.io/MovieDreamer/)] ![Code](https://img.shields.io/github/stars/aim-uofa/MovieDreamer?style=social&label=Star)
 
 [arxiv 2024.08]Story3D-Agent: Exploring 3D Storytelling Visualization with Large Language Models[[PDF](https://arxiv.org/abs/2408.11801),[Page](https://yuzhou914.github.io/Story3D-Agent/)]
 
 [arxiv 2024.10] Storynizor: Consistent Story Generation via Inter-Frame Synchronized and Shuffled ID Injection  [[PDF](https://arxiv.org/abs/2409.19624)]
 
-[arxiv 2024.11]  StoryAgent: Customized Storytelling Video Generation via Multi-Agent Collaboration [[PDF](https://arxiv.org/abs/2411.04925),[Page](https://github.com/storyagent123/Comparison-of-storytelling-video-results/blob/main/demo/readme.md)]
+[arxiv 2024.11]  StoryAgent: Customized Storytelling Video Generation via Multi-Agent Collaboration [[PDF](https://arxiv.org/abs/2411.04925),[Page](https://github.com/storyagent123/Comparison-of-storytelling-video-results/blob/main/demo/readme.md)]  ![Code](https://img.shields.io/github/stars/storyagent123/Comparison-of-storytelling-video-results/tree/main
+?style=social&label=Star)
 
 [arxiv 2024.12] VideoGen-of-Thought: A Collaborative Framework for Multi-Shot Video Generation  [[PDF](https://arxiv.org/abs/2011.12948),[Page](https://cheliosoops.github.io/VGoT/)] 
 
 
 [arxiv 2024.12]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
-
 
 
 
