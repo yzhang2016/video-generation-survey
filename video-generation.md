@@ -183,6 +183,7 @@ A reading list of video generation
 
 [arxiv 2024.11] WF-VAE: Enhancing Video VAE by Wavelet-Driven Energy Flow for Latent Video Diffusion Model [[PDF](https://arxiv.org/abs/2411.17459),[Page](https://github.com/PKU-YuanGroup/WF-VAE)] ![Code](https://img.shields.io/github/stars/PKU-YuanGroup/WF-VAE?style=social&label=Star)
 
+[arxiv 2024.12] Four-Plane Factorized Video Autoencoders [[PDF](https://arxiv.org/abs/2412.04452),[Page](https://arxiv.org/abs/2412.04452)] 
 
 
 [arxiv 2024.12]  [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
@@ -664,6 +665,10 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 [arxiv 2024.12]  [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 
+## autoregressive for video 
+
+
+
 ## text 
 [arxiv 2024.06]  Text-Animator: Controllable Visual Text Video Generation[[PDF](https://arxiv.org/abs/2406.17777),[Page](https://laulampaul.github.io/text-animator.html)]
 
@@ -943,9 +948,13 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2024.12]  Hallo3: Highly Dynamic and Realistic Portrait Image Animation with Diffusion Transformer Networks [[PDF](https://arxiv.org/pdf/2412.00733),[Page](https://github.com/fudan-generative-vision/hallo3)] ![Code](https://img.shields.io/github/stars/fudan-generative-vision/hallo3?style=social&label=Star)
 
+[arxiv 2024.12] MEMO: Memory-Guided Diffusion for Expressive Talking Video Generation  [[PDF](https://arxiv.org/abs/2412.04448),[Page](https://memoavatar.github.io/)] ![Code](https://img.shields.io/github/stars/memoavatar/memo?style=social&label=Star)
 
 
 [arxiv 2024.12]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
+
+
+
 
 
 ## Face swapping 
@@ -1040,8 +1049,11 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2024.12] Diffusion Self-Distillation for Zero-Shot Customized Image Generation  [[PDF](https://arxiv.org/abs/2411.18613),[Page](https://cat-4d.github.io/)] 
 
-[arxiv 2024.12]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
+[arxiv 2024.12] PaintScene4D: Consistent 4D Scene Generation from Text Prompts  [[PDF](https://arxiv.org/abs/2412.04471),[Page](https://paintscene4d.github.io/)] ![Code](https://img.shields.io/github/stars/paintscene4d/paintscene4d.github.io?style=social&label=Star)
 
+[arxiv 2024.12]  4Real-Video: Learning Generalizable Photo-Realistic 4D Video Diffusion [[PDF](https://arxiv.org/abs/2412.04462),[Page](https://snap-research.github.io/4Real-Video/)] 
+
+[arxiv 2024.12]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 
 ## Audio-to-video Generation
