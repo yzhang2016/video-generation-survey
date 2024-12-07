@@ -75,6 +75,7 @@
 
 [arxiv 2024.11]Spider: Any-to-Many Multimodal LLM [[PDF](https://arxiv.org/abs/2411.09439)]
 
+[arxiv 2024.12] TokenFlow: Unified Image Tokenizer for Multimodal Understanding and Generation  [[PDF](https://arxiv.org/abs/2412.03069),[Page](https://byteflow-ai.github.io/TokenFlow/)] ![Code](https://img.shields.io/github/stars/ByteFlow-AI/TokenFlow?style=social&label=Star) 
 
 [arxiv 2024.12]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
 
