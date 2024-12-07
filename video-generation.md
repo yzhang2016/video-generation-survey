@@ -39,6 +39,10 @@ A reading list of video generation
 
 *  **Mochi from Genmo** [[Page](https://huggingface.co/genmo/mochi-1-preview#running)]
 
+*  **Hunyuan Video** [[Page](https://github.com/Tencent/HunyuanVideo)]
+
+
+
 ### Non-open source
 
 * **Gen-1/Gen-2** [[Page](https://research.runwayml.com/gen2)]
@@ -188,6 +192,14 @@ A reading list of video generation
 
 [arxiv 2024.12]  [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
+
+## Tokenizer 
+
+[arxiv 2024.12] Divot: Diffusion Powers Video Tokenizer for Comprehension and Generation [[PDF](https://arxiv.org/abs/2412.04432),[Page](https://github.com/TencentARC/Divot)] ![Code](https://img.shields.io/github/stars/TencentARC/Divot?style=social&label=Star)
+
+[arxiv 2024.12] TokenFlow: Unified Image Tokenizer for Multimodal Understanding and Generation  [[PDF](https://arxiv.org/abs/2412.03069),[Page](https://byteflow-ai.github.io/TokenFlow/)] ![Code](https://img.shields.io/github/stars/ByteFlow-AI/TokenFlow?style=social&label=Star) 
+
+[arxiv 2024.12]  [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 
 ## GAN/VAE-based methods 
@@ -366,9 +378,10 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2024.12] Open-Sora Plan: Open-Source Large Video Generation Model [[PDF](https://arxiv.org/abs/2412.00131),[Page](https://github.com/PKU-YuanGroup/Open-Sora-Plan)] ![Code](https://img.shields.io/github/stars/PKU-YuanGroup/Open-Sora-Plan?style=social&label=Star)
 
+[arxiv 2024.12] HunyuanVideo: A Systematic Framework For Large Video Generation Model [[PDF](https://arxiv.org/abs/2412.03603),[Page](https://github.com/Tencent/HunyuanVideo)] ![Code](https://img.shields.io/github/stars/Tencent/HunyuanVideo?style=social&label=Star)
+
+
 [arxiv 2024.12]  [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
-
-
 
 
 ## LLMs-based 
@@ -429,7 +442,7 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2024.12] PhyT2V: LLM-Guided Iterative Self-Refinement for Physics-Grounded Text-to-Video Generation [[PDF](https://arxiv.org/abs/2412.00596),[Page](https://github.com/pittisl/PhyT2V)] ![Code](https://img.shields.io/github/stars/pittisl/PhyT2V?style=social&label=Star)
 
-
+[arxiv 2024.12] Mimir: Improving Video Diffusion Models for Precise Text Understanding [[PDF](https://arxiv.org/abs/2412.03085),[Page](https://lucaria-academy.github.io/Mimir/)] 
 
 [arxiv 2024.12]  [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -453,6 +466,7 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2024.12] Progress-Aware Video Frame Captioning [[PDF](https://arxiv.org/abs/2412.02071),[Page](https://vision.cs.utexas.edu/projects/ProgressCaptioner/)] 
 
+[arxiv 2024.12] Mimir: Improving Video Diffusion Models for Precise Text Understanding [[PDF](https://arxiv.org/abs/2412.03085),[Page](https://lucaria-academy.github.io/Mimir/)] 
 
 
 [arxiv 2024.12]  [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
@@ -517,8 +531,9 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2024.12] Long Video Diffusion Generation with Segmented Cross-Attention and Content-Rich Video Data Curation [[PDF](https://arxiv.org/abs/2412.01316),[Page](https://presto-video.github.io/)] ![Code](https://img.shields.io/github/stars/rhymes-ai/Allegro?style=social&label=Star)
 
-[arxiv 2024.12]  [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
+[arxiv 2024.12] Advancing Auto-Regressive Continuation for Video Frames [[PDF](https://arxiv.org/pdf/2412.03758)]
 
+[arxiv 2024.12]  [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 
 
@@ -847,6 +862,10 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 [arxiv 2024.11] InTraGen: Trajectory-controlled Video Generation for Object Interactions [[PDF](https://arxiv.org/abs/2411.16804),[Page](https://github.com/insait-institute/InTraGen)] ![Code](https://img.shields.io/github/stars/insait-institute/InTraGen?style=social&label=Star)
 
 [arxiv 2024.12] MatchDiffusion:Training-free Generation of Match-Cuts [[PDF](https://arxiv.org/abs/2411.18677),[Page](https://matchdiffusion.github.io/)] ![Code](https://img.shields.io/github/stars/PardoAlejo/MatchDiffusion?style=social&label=Star)
+
+[arxiv 2024.12]  Instructional Video Generation [[PDF](https://arxiv.org/pdf/2412.04189),[Page](https://excitedbutter.github.io/Instructional-Video-Generation/)] 
+
+[arxiv 2024.12] InfiniCube: Unbounded and Controllable Dynamic 3D Driving Scene Generation with World-Guided Video Models [[PDF](https://arxiv.org/abs/2412.03934),[Page](https://research.nvidia.com/labs/toronto-ai/infinicube/)] 
 
 
 [arxiv 2024.12]  [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
@@ -1234,7 +1253,10 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2024.10] HARIVO: Harnessing Text-to-Image Models for Video Generation [[PDF](https://kwonminki.github.io/HARIVO/),[Page](https://kwonminki.github.io/HARIVO/)] 
 
-[arxiv 2024.11]  [[PDF](),[Page]()] 
+[arxiv 2024.12] DIVE: Taming DINO for Subject-Driven Video Editing  [[PDF](https://arxiv.org/abs/2412.03347),[Page](https://dino-video-editing.github.io/)] 
+
+[arxiv 2024.12]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
+
 
 
 
@@ -1500,6 +1522,7 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2024.12]  InfinityDrive: Breaking Time Limits in Driving World Models [[PDF](https://arxiv.org/abs/2412.01522),[Page](https://metadrivescape.github.io/papers_project/InfinityDrive/page.html)] 
 
+[arxiv 2024.12] Navigation World Models  [[PDF](https://arxiv.org/abs/2412.03572),[Page](https://www.amirbar.net/nwm/)]
 
 
 [arxiv 2024.12]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
