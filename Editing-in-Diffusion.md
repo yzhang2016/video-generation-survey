@@ -512,6 +512,9 @@
 
 [arxiv 2024.11] InsightEdit: Towards Better Instruction Following for Image Editing  [[PDF](https://poppyxu.github.io/InsightEdit_web/),[Page](https://poppyxu.github.io/InsightEdit_web/)] ![Code](https://img.shields.io/github/stars/poppyxu/InsightEdit?style=social&label=Star)
 
+[arxiv 2024.12] HumanEdit : A High-Quality Human-Rewarded Dataset for Instruction-based Image Editing  [[PDF](https://arxiv.org/abs/2412.04280),[Page](https://viiika.github.io/HumanEdit/)] ![Code](https://img.shields.io/github/stars/viiika/HumanEdit/?style=social&label=Star)
+
+
 
 [arxiv 2024.12]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -697,8 +700,9 @@
 
 [arxiv 2024.12]  Enhancing MMDiT-Based Text-to-Image Models for Similar Subject Generation [[PDF](https://arxiv.org/pdf/2411.18301),[Page](https://github.com/wtybest/EnMMDiT)] ![Code](https://img.shields.io/github/stars/wtybest/EnMMDiT?style=social&label=Star)
 
-[arxiv 2024.12]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
+
+[arxiv 2024.12]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 
 
@@ -754,6 +758,10 @@
 [arxiv 2024.12] XQ-GAN: An Open-source Image Tokenization Framework for Autoregressive Generation  [[PDF](https://arxiv.org/abs/2412.01762),[Page](https://github.com/lxa9867/ImageFolder)] ![Code](https://img.shields.io/github/stars/lxa9867/ImageFolder?style=social&label=Star)
 
 [arxiv 2024.12]  TinyFusion: Diffusion Transformers Learned Shallow [[PDF](https://arxiv.org/abs/2412.01199),[Page](https://github.com/VainF/TinyFusion)] ![Code](https://img.shields.io/github/stars/VainF/TinyFusion?style=social&label=Star)
+
+[arxiv 2024.12] Infinity ∞: Scaling Bitwise AutoRegressive Modeling for High-Resolution Image Synthesis  [[PDF](https://arxiv.org/abs/2412.04431),[Page](https://github.com/FoundationVision/Infinity)] ![Code](https://img.shields.io/github/stars/FoundationVision/Infinity?style=social&label=Star)
+
+[arxiv 2024.12] ZipAR: Accelerating Autoregressive Image Generation through Spatial Locality  [[PDF](https://arxiv.org/abs/2412.04062)]
 
 
 [arxiv 2024.12]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
@@ -819,6 +827,11 @@
 [arxiv 2024.11] TED-VITON: Transformer-Empowered Diffusion Models for Virtual Try-On  [[PDF](https://arxiv.org/abs/2411.17017)]
 
 [arxiv 2024.12]  TryOffDiff: Virtual-Try-Off via High-Fidelity Garment Reconstruction using Diffusion Models [[PDF](https://arxiv.org/abs/2411.18350),[Page](https://rizavelioglu.github.io/tryoffdiff/)] 
+
+[arxiv 2024.12]  AnyDressing: Customizable Multi-Garment Virtual Dressing via Latent Diffusion Models [[PDF](https://arxiv.org/abs/2412.04146),[Page](https://crayon-shinchan.github.io/AnyDressing/)] ![Code](https://img.shields.io/github/stars/Crayon-Shinchan/AnyDressing?style=social&label=Star)
+
+[arxiv 2024.12] PEMF-VVTO: Point-Enhanced Video Virtual Try-on via Mask-free Paradigm  [[PDF](https://arxiv.org/pdf/2412.03021)]
+
 
 [arxiv 2024.12]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -1196,8 +1209,9 @@
 
 [arxiv 2024.12] UnZipLoRA: Separating Content and Style from a Single Image  [[PDF](https://arxiv.org/abs/2412.04465),[Page](https://unziplora.github.io/)] 
 
-[arxiv 2024.12]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
+[arxiv 2024.12]  PatchDPO: Patch-level DPO for Finetuning-free Personalized Image Generation [[PDF](https://arxiv.org/abs/2412.03177),[Page](https://github.com/hqhQAQ/PatchDPO)] ![Code](https://img.shields.io/github/stars/hqhQAQ/PatchDPO?style=social&label=Star)
 
+[arxiv 2024.12]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 
 ## group generation 
@@ -1210,8 +1224,20 @@
 
 [arxiv 2024.12] Generative Photography Scene-Consistent Camera Control for Realistic Text-to-Image Synthesis [[PDF](https://arxiv.org/abs/2412.02168),[Page](https://generative-photography.github.io/project/)] 
 
+[arxiv 2024.12]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/huanngzh/MV-Adapter?style=social&label=Star)
+
+## multi-view consistency
+
+
+
+
+[arxiv 2024.12] MV-Adapter: Multi-view Consistent Image Generation Made Easy  [[PDF](https://arxiv.org/abs/2412.03632),[Page](https://huanngzh.github.io/MV-Adapter-Page/)] ![Code](https://img.shields.io/github/stars/huanngzh/MV-Adapter?style=social&label=Star)
+
 
 [arxiv 2024.12]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
+
+
+
 
 
 ## Story-telling
@@ -1333,6 +1359,8 @@ Cross-Attention Control [[PDF](https://arxiv.org/abs/2402.13404)]
 [arxiv 2024.11]  HouseLLM: LLM-Assisted Two-Phase Text-to-Floorplan Generation [[PDF](https://arxiv.org/abs/2411.12279)] 
 
 [arxiv 2024.12] DogLayout: Denoising Diffusion GAN for Discrete and Continuous Layout Generation  [[PDF](https://arxiv.org/abs/2412.00381),[Page](https://github.com/deadsmither5/DogLayout)] ![Code](https://img.shields.io/github/stars/deadsmither5/DogLayout?style=social&label=Star) 
+
+[arxiv 2024.12] VASCAR: Content-Aware Layout Generation via Visual-Aware Self-Correction  [[PDF](https://arxiv.org/abs/2412.04237)]
 
 
 [arxiv 2024.12]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
@@ -1637,6 +1665,16 @@ Cross-Attention Control [[PDF](https://arxiv.org/abs/2402.13404)]
 
 [arxiv 2024.12] LayerFusion: Harmonized Multi-Layer Text-to-Image Generation with Generative Priors  [[PDF](https://arxiv.org/abs/2412.04460),[Page](https://layerfusion.github.io/)] 
 
+[arxiv 2024.04]LTOS: Layout-controllable Text-Object Synthesis via Adaptive Cross-attention Fusions [[PDF](https://arxiv.org/abs/2404.13579)]
+
+[arxiv 2024.06]  Crafting Parts for Expressive Object Composition [[PDF](https://arxiv.org/abs/2406.10197),[Page](https://rangwani-harsh.github.io/PartCraft)]
+
+[arxiv 2024.12]  CreatiLayout: Siamese Multimodal Diffusion Transformer for
+Creative Layout-to-Image Generation [[PDF](https://arxiv.org/pdf/2412.03859),[Page](https://creatilayout.github.io/)] ![Code](https://img.shields.io/github/stars/HuiZhang0812/CreatiLayout?style=social&label=Star)
+
+[arxiv 2024.12] DynamicControl: Adaptive Condition Selection for Improved Text-to-Image Generation  [[PDF](https://arxiv.org/abs/2412.03255),[Page](https://hithqd.github.io/projects/Dynamiccontrol/)] ![Code](https://img.shields.io/github/stars/hithqd/DynamicControl?style=social&label=Star)
+
+
 [arxiv 2024.12]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 
@@ -1712,7 +1750,6 @@ Cross-Attention Control [[PDF](https://arxiv.org/abs/2402.13404)]
 
 [arxiv 2024.04]BeyondScene: Higher-Resolution Human-Centric Scene Generation With Pretrained Diffusion [[PDF](https://arxiv.org/abs/2404.04544), [Page](https://janeyeon.github.io/beyond-scene)]
 
-[arxiv 2024.04]LTOS: Layout-controllable Text-Object Synthesis via Adaptive Cross-attention Fusions [[PDF](https://arxiv.org/abs/2404.13579)]
 
 [arxiv 2024.05]CDFormer:When Degradation Prediction Embraces Diffusion Model for Blind Image Super-Resolution [[PDF](https://arxiv.org/abs/2405.07648)]
 
@@ -1730,7 +1767,6 @@ Cross-Attention Control [[PDF](https://arxiv.org/abs/2402.13404)]
 
 [arxiv 2024.06]  Towards Realistic Data Generation for Real-World Super-Resolution[[PDF](https://arxiv.org/abs/2406.07255)]
 
-[arxiv 2024.06]  Crafting Parts for Expressive Object Composition [[PDF](https://arxiv.org/abs/2406.10197),[Page](https://rangwani-harsh.github.io/PartCraft)]
 
 [arxiv 2024.06] LFMamba: Light Field Image Super-Resolution with State Space Model [[PDF](https://arxiv.org/abs/2406.12463)]
 
@@ -1797,12 +1833,17 @@ Cross-Attention Control [[PDF](https://arxiv.org/abs/2402.13404)]
 
 [arxiv 2024.12] AccDiffusion v2: Towards More Accurate Higher-Resolution Diffusion Extrapolation  [[PDF](https://arxiv.org/abs/2412.02099),[Page](https://github.com/lzhxmu/AccDiffusion_v2)] ![Code](https://img.shields.io/github/stars/lzhxmu/AccDiffusion_v2?style=social&label=Star)
 
+[arxiv 2024.12]  HIIF: Hierarchical Encoding based Implicit Image Function for Continuou Super-resolution [[PDF](https://arxiv.org/pdf/2412.03748)]
 
+
+[arxiv 2024.12] TASR: Timestep-Aware Diffusion Model for Image Super-Resolution  [[PDF](https://arxiv.org/abs/2412.03355),[Page](https://github.com/SleepyLin/TASR)] ![Code](https://img.shields.io/github/stars/SleepyLin/TASR?style=social&label=Star)
+
+[arxiv 2024.12] Pixel-level and Semantic-level Adjustable Super-resolution: A Dual-LoRA Approach  [[PDF](https://arxiv.org/pdf/2412.03017),[Page](https://github.com/csslc/PiSA-SR)] ![Code](https://img.shields.io/github/stars/csslc/PiSA-SR?style=social&label=Star)
+
+[arxiv 2024.12] Semantic Segmentation Prior for Diffusion-Based Real-World Super-Resolution  [[PDF](https://arxiv.org/pdf/2412.02960)]
 
 
 [arxiv 2024.12]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
-
-
 
 
 ## translation 
@@ -2153,6 +2194,10 @@ Cross-Attention Control [[PDF](https://arxiv.org/abs/2402.13404)]
 
 [arxiv 2024.12] Schedule On the Fly: Diffusion Time Prediction for Faster and Better Image Generation  [[PDF](https://arxiv.org/abs/2412.01243)]
 
+[arxiv 2024.12]  SwiftEdit: Lightning Fast Text-Guided Image Editing via One-Step Diffusion [[PDF](https://arxiv.org/abs/2412.04301),[Page](https://swift-edit.github.io/)] 
+
+[arxiv 2024.12]  Effortless Efficiency: Low-Cost Pruning of Diffusion Models [[PDF](https://arxiv.org/pdf/2412.02852.pdf),[Page](https://yangzhang-v5.github.io/EcoDiff/)] ![Code](https://img.shields.io/github/stars/YaNgZhAnG-V5/EcoDiff?style=social&label=Star)
+
 
 [arxiv 2024.12]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -2257,6 +2302,11 @@ Cross-Attention Control [[PDF](https://arxiv.org/abs/2402.13404)]
 [arxiv 2024.11] Image2Text2Image: A Novel Framework for Label-Free Evaluation of Image-to-Text Generation with Text-to-Image Diffusion Models  [[PDF](https://arxiv.org/abs/2411.05706)]
 
 [arxiv 2024.11] Evaluating the Generation of Spatial Relations in Text and Image Generative Models  [[PDF](https://arxiv.org/abs/2411.07664)]
+
+[arxiv 2024.12] T2I-FactualBench: Benchmarking the Factuality of Text-to-Image Models with Knowledge-Intensive Concepts  [[PDF](https://arxiv.org/abs/2412.04300)]
+
+[arxiv 2024.12]  BodyMetric: Evaluating the Realism of Human Bodies in Text-to-Image Generation [[PDF](https://arxiv.org/pdf/2412.04086)]
+
 
 [arxiv 2024.12]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
