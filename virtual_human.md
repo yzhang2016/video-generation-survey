@@ -4,8 +4,6 @@
 
 ## Body 
 
-
-
 [arxiv 2024.10] MotionAura: Generating High-Quality and Motion Consistent Videos using Discrete Diffusion  [[PDF](https://arxiv.org/abs/2410.07659)]
 
 [arxiv 2024.10]  ControlMM: Controllable Masked Motion Generation [[PDF](http://arxiv.org/abs/2312.03596),[Page](https://exitudio.github.io/ControlMM-page/)]
@@ -57,6 +55,10 @@
 [arxiv 2024.12]  FoundHand: Large-Scale Domain-Specific Learning for Controllable Hand Image Generation [[PDF](https://arxiv.org/abs/2412.02690)]
 
 [arxiv 2024.12]  HandOS: 3D Hand Reconstruction in One Stage [[PDF](https://arxiv.org/abs/2412.01537),[Page](https://idea-research.github.io/HandOSweb/)] 
+
+[arxiv 2024.12] GigaHands: A Massive Annotated Dataset of Bimanual Hand Activities  [[PDF](https://arxiv.org/abs/2412.04244),[Page](https://ivl.cs.brown.edu/research/gigahands.html)] 
+
+
 
 
 [arxiv 2024.12]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
