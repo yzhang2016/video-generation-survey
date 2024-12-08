@@ -1090,6 +1090,8 @@
 
 [arxiv 2024.04]PuLID: Pure and Lightning ID Customization via Contrastive Alignment [[PDF](https://arxiv.org/abs/2404.16022), [Page](https://github.com/ToTheBeginning/PuLID)] ![Code](https://img.shields.io/github/stars/ToTheBeginning/PuLID?style=social&label=Star)
 
+[arxiv 2024.04] Customizing Text-to-Image Diffusion with Object Viewpoint Control  [[PDF](http://arxiv.org/abs/2404.12333),[Page](https://customdiffusion360.github.io/)] ![Code](https://img.shields.io/github/stars/customdiffusion360/custom-diffusion360?style=social&label=Star)
+
 [arxiv 2024.04]CharacterFactory: Sampling Consistent Characters with GANs for Diffusion Models [[PDF](https://arxiv.org/abs/2404.15677), [Page](https://github.com/qinghew/CharacterFactory)] ![Code](https://img.shields.io/github/stars/qinghew/CharacterFactory?style=social&label=Star)
 
 [arxiv 2024.04]TheaterGen: Character Management with LLM for Consistent Multi-turn Image Generation [[PDF](https://arxiv.org/abs/2404.18919),[Page](https://howe140.github.io/theatergen.io/)] ![Code](https://img.shields.io/github/stars/donahowe/Theatergen?style=social&label=Star)
@@ -1210,6 +1212,8 @@
 [arxiv 2024.12] UnZipLoRA: Separating Content and Style from a Single Image  [[PDF](https://arxiv.org/abs/2412.04465),[Page](https://unziplora.github.io/)] 
 
 [arxiv 2024.12]  PatchDPO: Patch-level DPO for Finetuning-free Personalized Image Generation [[PDF](https://arxiv.org/abs/2412.03177),[Page](https://github.com/hqhQAQ/PatchDPO)] ![Code](https://img.shields.io/github/stars/hqhQAQ/PatchDPO?style=social&label=Star)
+
+
 
 [arxiv 2024.12]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
