@@ -484,8 +484,7 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2024.06] Pandora: Towards General World Model with Natural Language Actions and Video States [[PDF](https://arxiv.org/abs/2406.09455), [Page](https://world-model.maitrix.org/)]
 
-[arxiv 2024.12]  [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
-
+[arxiv 2024.12] Mind the Time: Temporally-Controlled Multi-Event Video Generation [[PDF](https://arxiv.org/abs/2412.05263),[Page](https://mint-video.github.io/)]
 
 [arxiv 2024.12]  [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -594,15 +593,9 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2023.10]MotionDirector: Motion Customization of Text-to-Video Diffusion Models [[PDF](https://arxiv.org/abs/2310.08465),[Page](https://showlab.github.io/MotionDirector/)]
 
-[arxiv 2023.11]MagicDance: Realistic Human Dance Video Generation with Motions & Facial Expressions Transfer [[PDF](https://arxiv.org/abs/2311.12052), [Page](https://boese0601.github.io/magicdance/)]
-
 [arxiv 2023.11]Space-Time Diffusion Features for Zero-Shot Text-Driven Motion Transfer[[PDF](https://arxiv.org/abs/2311.17009),[Page](https://diffusion-motion-transfer.github.io/)]
 
 [arxiv 2023.11]SparseCtrl: Adding Sparse Controls to Text-to-Video Diffusion Models[[PDF](https://arxiv.org/abs/2311.16933), [Page](https://guoyww.github.io/projects/SparseCtrl)]
-
-[arxiv 2023.11]MagicAnimate: Temporally Consistent Human Image Animation using Diffusion Model [[PDF](https://arxiv.org/abs/2311.16498), [Page](https://showlab.github.io/magicanimate)]
-
-[arxiv 2023.12]DreaMoving: A Human Dance Video Generation Framework based on Diffusion Models [[PDF](https://arxiv.org/abs/2312.05107), [Page](https://dreamoving.github.io/dreamoving)]
 
 
 [arxiv 2023.12]Fine-grained Controllable Video Generation via Object Appearance and Context [[PDF](https://arxiv.org/abs/2312.02919),[Page](https://hhsinping.github.io/factor)]
@@ -621,13 +614,8 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2024.02]InteractiveVideo: User-Centric Controllable Video Generation with Synergistic Multimodal Instructions [[PDF](https://arxiv.org/abs/2402.03040),[Page](https://github.com/invictus717/InteractiveVideo)]
 
-[arxiv 2024.02]EMO: Emote Portrait Alive - Generating Expressive Portrait Videos with Audio2Video Diffusion Model under Weak Conditions[[PDF](https://arxiv.org/abs/2402.17485),[Page](https://humanaigc.github.io/emote-portrait-alive/)]
 
 [arxiv 2024.03]Animate Your Motion: Turning Still Images into Dynamic Videos [[PDF](https://arxiv.org/abs/2403.10179),[Page](https://mingxiao-li.github.io/smcd/)]
-
-[arxiv 2024.03]Champ: Controllable and Consistent Human Image Animation with 3D Parametric Guidance [[PDF](https://arxiv.org/pdf/2403.14781.pdf),[Page](https://fudan-generative-vision.github.io/champ/#/)]
-
-[arxiv 2024.03]Make-Your-Anchor: A Diffusion-based 2D Avatar Generation Framework [[PDF](https://arxiv.org/abs/2403.16510), [Page](https://github.com/ICTMCG/Make-Your-Anchor)]
 
 [arxiv 2024.04]Motion Inversion for Video Customization [[PDF](https://arxiv.org/abs/2403.20193),[Page](https://wileewang.github.io/MotionInversion/)]
 
@@ -641,9 +629,6 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2024.06] MotionBooth: Motion-Aware Customized Text-to-Video Generation [[PDF](https://arxiv.org/abs/2406.17758),[Page](https://jianzongwu.github.io/projects/motionbooth)]
 
-[arxiv 2024.07]IDOL: Unified Dual-Modal Latent Diffusion for Human-Centric Joint Video-Depth Generation  [[PDF](https://arxiv.org/abs/2407.10937),[Page](https://yhzhai.github.io/idol/)]
-
-[arxiv 2024.07]HumanVid: Demystifying Training Data for Camera-controllable Human Image Animation  [[PDF](https://arxiv.org/abs/2407.17438),[Page](https://github.com/zhenzhiwang/HumanVid/)]
 
 [arxiv 2024.07]Tora: Trajectory-oriented Diffusion Transformer for Video Generation  [[PDF](https://arxiv.org/abs/2407.21705),[Page](https://ali-videoai.github.io/tora_video/),[Code](https://github.com/alibaba/Tora)]
 
@@ -651,27 +636,15 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2024.08] TrackGo: A Flexible and Efficient Method for Controllable Video Generation [[PDF](https://arxiv.org/abs/2408.11475),[Page](https://zhtjtcz.github.io/TrackGo-Page/)]
 
-[arxiv 2024.10] Replace Anyone in Videos [[PDF](https://arxiv.org/abs/2409.19911)]
-
-[arxiv 2024.10] MIMO: Controllable Character Video Synthesis with Spatial Decomposed Modeling [[PDF](http://arxiv.org/abs/2409.16160),[Page](https://menyifang.github.io/projects/MIMO/index.html)]
-
 [arxiv 2024.10] DragEntity: Trajectory Guided Video Generation using Entity and Positional Relationships [[PDF](https://arxiv.org/abs/2410.10751)]
 
 [arxiv 2024.10] MovieCharacter: A Tuning-Free Framework for Controllable Character Video Synthesis [[PDF](https://arxiv.org/abs/2410.20974),[Page](https://moviecharacter.github.io/)]
 
 [arxiv 2024.11] SG-I2V: Self-Guided Trajectory Control in Image-to-Video Generation [[PDF](https://arxiv.org/abs/2411.04989),[Page](https://kmcode1.github.io/Projects/SG-I2V/)]
 
-[arxiv 2024.11] MikuDance: Animating Character Art with Mixed Motion Dynamics [[PDF](https://arxiv.org/abs/2411.08656),[Page](https://kebii.github.io/MikuDance/)]
-
 [arxiv 2024.11] Motion Control for Enhanced Complex Action Video Generation [[PDF](https://arxiv.org/abs/2411.08328),[Page](https://mvideo-v1.github.io/)]
 
-[arxiv 2024.11] AnimateAnything: Consistent and Controllable Animation for Video Generation [[PDF](https://arxiv.org/abs/2411.10836),[Page](https://yu-shaonian.github.io/Animate_Anything/)]
-
 [arxiv 2024.11] OnlyFlow: Optical Flow based Motion Conditioning for Video Diffusion Models [[PDF](https://arxiv.org/abs/2411.10501)]
-
-[arxiv 2024.11] StableAnimator: High-Quality Identity-Preserving Human Image Animation [[PDF](https://arxiv.org/abs/2411.17697),[Page](https://francis-rings.github.io/StableAnimator/)] ![Code](https://img.shields.io/github/stars/Francis-Rings/StableAnimator?style=social&label=Star)
-
-[arxiv 2024.11] AnchorCrafter: Animate CyberAnchors Saling Your Products via Human-Object Interacting Video Generation  [[PDF](https://arxiv.org/abs/2411.17383),[Page](https://cangcz.github.io/Anchor-Crafter/)] ![Code](https://img.shields.io/github/stars/cangcz/AnchorCrafter?style=social&label=Star)
 
 
 [arxiv 2024.12] Motion Prompting: Controlling Video Generation with Motion Trajectories [[PDF](https://arxiv.org/abs/2412.02700),[Page](https://motion-prompting.github.io/)] 
@@ -680,7 +653,88 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 [arxiv 2024.12]  [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 
+## motion transfer | pose
+[arxiv 2023.05]LEO: Generative Latent Image Animator for Human Video Synthesis [[PDF](https://arxiv.org/abs/2305.03989),[Page](https://wyhsirius.github.io/LEO-project/)]
+
+*[arxiv 2023.03]Conditional Image-to-Video Generation with Latent Flow Diffusion Models [[PDF](https://arxiv.org/abs/2303.13744)]
+
+[arxiv 2023.07]DisCo: Disentangled Control for Referring Human Dance Generation in Real World
+[[PDF](https://arxiv.org/abs/2307.00040), [Page](https://disco-dance.github.io/)]
+
+[arxiv 2023.11]MagicAnimate: Temporally Consistent Human Image Animation using Diffusion Model [[PDF](https://arxiv.org/abs/2311.16498), [Page](https://showlab.github.io/magicanimate)]
+
+[arxiv 2023.12]DreaMoving: A Human Dance Video Generation Framework based on Diffusion Models [[PDF](https://arxiv.org/abs/2312.05107), [Page](https://dreamoving.github.io/dreamoving)]
+
+[arxiv 2023.12]MotionEditor: Editing Video Motion via Content-Aware Diffusion [[PDF](https://arxiv.org/abs/2311.18830),[Page](https://francis-rings.github.io/MotionEditor/)]
+
+[arxiv 2023.12]Customizing Motion in Text-to-Video Diffusion Models [[PDF](https://arxiv.org/abs/2312.04966),[Page](https://joaanna.github.io/customizing_motion/)]
+
+[arxiv 2023.12]MotionCrafter: One-Shot Motion Customization of Diffusion Models [[PDF](https://arxiv.org/abs/2312.05288)]
+
+[arxiv 2023.11]MagicDance: Realistic Human Dance Video Generation with Motions & Facial Expressions Transfer [[PDF](https://arxiv.org/abs/2311.12052), [Page](https://boese0601.github.io/magicdance/)]
+
+[arxiv 2023.11]MagicAnimate: Temporally Consistent Human Image Animation using Diffusion Model[[PDF](https://arxiv.org/abs/2311.16498),[Page](https://showlab.github.io/magicanimate)]
+
+[arxiv 2023.12] Animate Anyone: Consistent and Controllable Image-to-Video Synthesis for Character Animation[[PDF](https://arxiv.org/abs/2311.17117),[Page](https://humanaigc.github.io/animate-anyone/)]
+
+[arxiv 2024.01]Motion-Zero: Zero-Shot Moving Object Control Framework for Diffusion-Based Video Generation[[PDF](https://arxiv.org/abs/2401.10150)]
+
+[arxiv 2024.03]Spectral Motion Alignment for Video Motion Transfer using Diffusion Models[[PDF](https://arxiv.org/abs/2403.15249),[Page](https://geonyeong-park.github.io/spectral-motion-alignment/)]
+
+[arxiv 2024.03]Champ: Controllable and Consistent Human Image Animation with 3D Parametric Guidance [[PDF](https://arxiv.org/pdf/2403.14781.pdf),[Page](https://fudan-generative-vision.github.io/champ/#/)]
+
+[arxiv 2024.03]Make-Your-Anchor: A Diffusion-based 2D Avatar Generation Framework [[PDF](https://arxiv.org/abs/2403.16510), [Page](https://github.com/ICTMCG/Make-Your-Anchor)]
+
+[arxiv 2024.05]ReVideo: Remake a Video with Motion and Content Control [[PDF](https://arxiv.org/abs/2405.13865),[Page](https://mc-e.github.io/project/ReVideo/)]
+
+[arxiv 2024.05]VividPose: Advancing Stable Video Diffusion for Realistic Human Image Animation  [[PDF](https://arxiv.org/abs/2405.18156)]
+
+[arxiv 2024.05]Disentangling Foreground and Background Motion for Enhanced Realism in Human Video Generation [[PDF](https://arxiv.org/abs/2405.16393),[Page](https://liujl09.github.io/humanvideo_movingbackground/)]
+
+[arxiv 2024.05] MusePose: a Pose-Driven Image-to-Video Framework for Virtual Human Generation. [[PDF](),[Page](https://github.com/TMElyralab/MusePose?tab=readme-ov-file)]
+
+[arxiv 2024.05]MotionFollower: Editing Video Motion via Lightweight Score-Guided Diffusion [[PDF](https://arxiv.org/abs/2405.20325),[Page](https://francis-rings.github.io/MotionFollower/)]
+
+[arxiv 2024.06] UniAnimate: Taming Unified Video Diffusion Models for Consistent Human Image Animation[[PDF](https://arxiv.org/abs/2406.01188),[Page](https://unianimate.github.io/)]
+
+[arxiv 2024.06] Searching Priors Makes Text-to-Video Synthesis Better[[PDF](https://arxiv.org/abs/2406.03215),[Page](https://hrcheng98.github.io/Search_T2V/)]
+
+[arxiv 2024.06]MotionClone: Training-Free Motion Cloning for Controllable Video Generation[[PDF](https://arxiv.org/pdf/2406.05338)]
+
+[arxiv 2024.07]IDOL: Unified Dual-Modal Latent Diffusion for Human-Centric Joint Video-Depth Generation  [[PDF](https://arxiv.org/abs/2407.10937),[Page](https://yhzhai.github.io/idol/)]
+
+[arxiv 2024.07]HumanVid: Demystifying Training Data for Camera-controllable Human Image Animation  [[PDF](https://arxiv.org/abs/2407.17438),[Page](https://github.com/zhenzhiwang/HumanVid/)]
+
+[arxiv 2024.10] Replace Anyone in Videos [[PDF](https://arxiv.org/abs/2409.19911)]
+
+[arxiv 2024.10] MIMO: Controllable Character Video Synthesis with Spatial Decomposed Modeling [[PDF](http://arxiv.org/abs/2409.16160),[Page](https://menyifang.github.io/projects/MIMO/index.html)]
+
+[arxiv 2024.11] MikuDance: Animating Character Art with Mixed Motion Dynamics [[PDF](https://arxiv.org/abs/2411.08656),[Page](https://kebii.github.io/MikuDance/)]
+
+[arxiv 2024.11] StableAnimator: High-Quality Identity-Preserving Human Image Animation [[PDF](https://arxiv.org/abs/2411.17697),[Page](https://francis-rings.github.io/StableAnimator/)] ![Code](https://img.shields.io/github/stars/Francis-Rings/StableAnimator?style=social&label=Star)
+
+[arxiv 2024.11] AnimateAnything: Consistent and Controllable Animation for Video Generation [[PDF](https://arxiv.org/abs/2411.10836),[Page](https://yu-shaonian.github.io/Animate_Anything/)]
+
+[arxiv 2024.11] AnchorCrafter: Animate CyberAnchors Saling Your Products via Human-Object Interacting Video Generation  [[PDF](https://arxiv.org/abs/2411.17383),[Page](https://cangcz.github.io/Anchor-Crafter/)] ![Code](https://img.shields.io/github/stars/cangcz/AnchorCrafter?style=social&label=Star)
+
+
+[arxiv 2024.12]  Fleximo: Towards Flexible Text-to-Human Motion Video Generation [[PDF](https://arxiv.org/abs/2411.19459)] 
+
+[arxiv 2024.12]  MotionFlow: Attention-Driven Motion Transfer in Video Diffusion Models [[PDF](https://arxiv.org/pdf/2412.05275.pdf),[Page](https://motionflow-diffusion.github.io/)] 
+
+
+[arxiv 2024.12]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
+
+
+
+
+
+
 ## autoregressive for video 
+
+
+
+
 
 
 
@@ -1051,6 +1105,8 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2024.12]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
+
+
 ## 4D generation 
 [arxiv 2023.11]Animate124: Animating One Image to 4D Dynamic Scene [[PDF](https://arxiv.org/abs/2311.14603),[Page](https://animate124.github.io/)]
 
@@ -1072,7 +1128,11 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2024.12]  4Real-Video: Learning Generalizable Photo-Realistic 4D Video Diffusion [[PDF](https://arxiv.org/abs/2412.04462),[Page](https://snap-research.github.io/4Real-Video/)] 
 
+[arxiv 2024.12]  Birth and Death of a Rose [[PDF](https://arxiv.org/abs/2412.05278),[Page](https://chen-geng.com/rose4d)] 
+
 [arxiv 2024.12]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
+
+
 
 
 ## Audio-to-video Generation
@@ -1305,48 +1365,7 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 
 
-## motion transfer 
-[arxiv 2023.05]LEO: Generative Latent Image Animator for Human Video Synthesis [[PDF](https://arxiv.org/abs/2305.03989),[Page](https://wyhsirius.github.io/LEO-project/)]
 
-*[arxiv 2023.03]Conditional Image-to-Video Generation with Latent Flow Diffusion Models [[PDF](https://arxiv.org/abs/2303.13744)]
-
-[arxiv 2023.07]DisCo: Disentangled Control for Referring Human Dance Generation in Real World
-[[PDF](https://arxiv.org/abs/2307.00040), [Page](https://disco-dance.github.io/)]
-
-[arxiv 2023.12]MotionEditor: Editing Video Motion via Content-Aware Diffusion [[PDF](https://arxiv.org/abs/2311.18830),[Page](https://francis-rings.github.io/MotionEditor/)]
-
-[arxiv 2023.12]Customizing Motion in Text-to-Video Diffusion Models [[PDF](https://arxiv.org/abs/2312.04966),[Page](https://joaanna.github.io/customizing_motion/)]
-
-[arxiv 2023.12]MotionCrafter: One-Shot Motion Customization of Diffusion Models [[PDF](https://arxiv.org/abs/2312.05288)]
-
-[arxiv 2023.11]MagicAnimate: Temporally Consistent Human Image Animation using Diffusion Model[[PDF](https://arxiv.org/abs/2311.16498),[Page](https://showlab.github.io/magicanimate)]
-
-[arxiv 2023.12] Animate Anyone: Consistent and Controllable Image-to-Video Synthesis for Character Animation[[PDF](https://arxiv.org/abs/2311.17117),[Page](https://humanaigc.github.io/animate-anyone/)]
-
-[arxiv 2024.01]Motion-Zero: Zero-Shot Moving Object Control Framework for Diffusion-Based Video Generation[[PDF](https://arxiv.org/abs/2401.10150)]
-
-[arxiv 2024.03]Spectral Motion Alignment for Video Motion Transfer using Diffusion Models[[PDF](https://arxiv.org/abs/2403.15249),[Page](https://geonyeong-park.github.io/spectral-motion-alignment/)]
-
-[arxiv 2024.05]ReVideo: Remake a Video with Motion and Content Control [[PDF](https://arxiv.org/abs/2405.13865),[Page](https://mc-e.github.io/project/ReVideo/)]
-
-[arxiv 2024.05]VividPose: Advancing Stable Video Diffusion for Realistic Human Image Animation  [[PDF](https://arxiv.org/abs/2405.18156)]
-
-[arxiv 2024.05]Disentangling Foreground and Background Motion for Enhanced Realism in Human Video Generation [[PDF](https://arxiv.org/abs/2405.16393),[Page](https://liujl09.github.io/humanvideo_movingbackground/)]
-
-[arxiv 2024.05] MusePose: a Pose-Driven Image-to-Video Framework for Virtual Human Generation. [[PDF](),[Page](https://github.com/TMElyralab/MusePose?tab=readme-ov-file)]
-
-[arxiv 2024.05]MotionFollower: Editing Video Motion via Lightweight Score-Guided Diffusion [[PDF](https://arxiv.org/abs/2405.20325),[Page](https://francis-rings.github.io/MotionFollower/)]
-
-[arxiv 2024.06] UniAnimate: Taming Unified Video Diffusion Models for Consistent Human Image Animation[[PDF](https://arxiv.org/abs/2406.01188),[Page](https://unianimate.github.io/)]
-
-[arxiv 2024.06] Searching Priors Makes Text-to-Video Synthesis Better[[PDF](https://arxiv.org/abs/2406.03215),[Page](https://hrcheng98.github.io/Search_T2V/)]
-
-[arxiv 2024.06]MotionClone: Training-Free Motion Cloning for Controllable Video Generation[[PDF](https://arxiv.org/pdf/2406.05338)]
-
-[arxiv 2024.12]  Fleximo: Towards Flexible Text-to-Human Motion Video Generation [[PDF](https://arxiv.org/abs/2411.19459)] 
-
-
-[arxiv 2024.12]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 
 ## style transfer 
@@ -1489,7 +1508,7 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 [arxiv 2024.12]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 
-# world model & interactive generation
+## world model & interactive generation
 [arxiv 2024.06] AVID: Adapting Video Diffusion Models to World Models [[PDF](),[Page](https://sites.google.com/view/avid-world-model-adapters/home)]
 
 [arxiv 2024.08]Diffusion Models Are Real-Time Game Engines [[PDF](https://arxiv.org/abs/2408.14837),[Page](https://gamengen.github.io/)]
@@ -1498,7 +1517,6 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2024.09] Video Game Generation: A Practical Study using Mario [[PDF](https://virtual-protocol.github.io/mario-videogamegen/static/pdfs/VideoGameGen.pdf),[Page](https://virtual-protocol.github.io/mario-videogamegen/)]
 
-[arxiv 2024.10] FreeVS: Generative View Synthesis on Free Driving Trajectory [[PDF](https://arxiv.org/abs/2410.18079),[Page](https://freevs24.github.io/)]
 
 [arxiv 2024.10] WorldSimBench: Towards Video Generation Models as World Simulators [[PDF](https://arxiv.org/abs/2410.18072),[Page](https://iranqin.github.io/WorldSimBench.github.io/)]
 
@@ -1518,14 +1536,23 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2024.11] The Matrix： Infinite-Horizon World Generation with Real-Time Interaction [[PDF](https://thematrix1999.github.io/article/the_matrix.pdf),[Page](https://thematrix1999.github.io/)]
 
-[arxiv 2024.11] DiffusionDrive: Truncated Diffusion Model for End-to-End Autonomous Driving  [[PDF](https://arxiv.org/abs/2411.15139),[Page](https://github.com/hustvl/DiffusionDrive)] ![Code](https://img.shields.io/github/stars/hustvl/DiffusionDrive?style=social&label=Star)
-
-[arxiv 2024.12]  InfinityDrive: Breaking Time Limits in Driving World Models [[PDF](https://arxiv.org/abs/2412.01522),[Page](https://metadrivescape.github.io/papers_project/InfinityDrive/page.html)] 
-
 [arxiv 2024.12] Navigation World Models  [[PDF](https://arxiv.org/abs/2412.03572),[Page](https://www.amirbar.net/nwm/)]
 
 
 [arxiv 2024.12]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
+
+
+## driving
+[arxiv 2024.10] FreeVS: Generative View Synthesis on Free Driving Trajectory [[PDF](https://arxiv.org/abs/2410.18079),[Page](https://freevs24.github.io/)]
+
+[arxiv 2024.11] DiffusionDrive: Truncated Diffusion Model for End-to-End Autonomous Driving  [[PDF](https://arxiv.org/abs/2411.15139),[Page](https://github.com/hustvl/DiffusionDrive)] ![Code](https://img.shields.io/github/stars/hustvl/DiffusionDrive?style=social&label=Star)
+
+[arxiv 2024.12]  InfinityDrive: Breaking Time Limits in Driving World Models [[PDF](https://arxiv.org/abs/2412.01522),[Page](https://metadrivescape.github.io/papers_project/InfinityDrive/page.html)] 
+
+[arxiv 2024.12] Stag-1: Towards Realistic 4D Driving Simulation with Video Generation Model  [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/wzzheng/Stag?style=social&label=Star)
+
+[arxiv 2024.12]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
+
 
 
 ## Feedback
