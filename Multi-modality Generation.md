@@ -77,6 +77,8 @@
 
 [arxiv 2024.12] TokenFlow: Unified Image Tokenizer for Multimodal Understanding and Generation  [[PDF](https://arxiv.org/abs/2412.03069),[Page](https://byteflow-ai.github.io/TokenFlow/)] ![Code](https://img.shields.io/github/stars/ByteFlow-AI/TokenFlow?style=social&label=Star) 
 
+
+
 [arxiv 2024.12]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
 
 ## Agent
@@ -104,6 +106,8 @@
 [arxiv 2024.12]  VisionZip: Longer is Better but Not Necessary in Vision Language Models [[PDF](https://arxiv.org/abs/2412.04467),[Page](https://github.com/dvlab-research/VisionZip)] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
 
 [arxiv 2024.12]  NVILA: Efficient Frontier Visual Language Models [[PDF](https://arxiv.org/abs/2412.04468)] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
+
+[arxiv 2024.12]  Expanding Performance Boundaries of Open-Source Multimodal Models with Model, Data, and Test-Time Scaling [[PDF](https://arxiv.org/abs/2412.05271),[Page](https://internvl.github.io/blog/)] ![Code](https://img.shields.io/github/stars//OpenGVLab/InternVL?style=social&label=Star) 
 
 
 [arxiv 2024.12]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
