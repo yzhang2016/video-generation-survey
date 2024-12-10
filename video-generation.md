@@ -444,7 +444,12 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2024.12] Mimir: Improving Video Diffusion Models for Precise Text Understanding [[PDF](https://arxiv.org/abs/2412.03085),[Page](https://lucaria-academy.github.io/Mimir/)] 
 
+[arxiv 2024.12] Track4Gen: Teaching Video Diffusion Models to Track Points Improves Video Generation [[PDF](https://arxiv.org/abs/2412.06016),[Page](https://aaltoml.github.io/BayesVLM/)] 
+
 [arxiv 2024.12]  [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
+
+
+
 
 
 ## composition 
@@ -722,9 +727,9 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2024.12]  MotionFlow: Attention-Driven Motion Transfer in Video Diffusion Models [[PDF](https://arxiv.org/pdf/2412.05275.pdf),[Page](https://motionflow-diffusion.github.io/)] 
 
+[arxiv 2024.12]  MotionShop: Zero-Shot Motion Transfer in Video Diffusion Models with Mixture of Score Guidance [[PDF](https://motionshop-diffusion.github.io/#),[Page](https://motionshop-diffusion.github.io/#)] ![Code](https://img.shields.io/github/stars/gemlab-vt/motionshop?style=social&label=Star)
 
 [arxiv 2024.12]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
-
 
 
 
@@ -789,10 +794,14 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2024.12] Generative Photography Scene-Consistent Camera Control for Realistic Text-to-Image Synthesis [[PDF](https://arxiv.org/abs/2412.02168),[Page](https://generative-photography.github.io/project/)] 
 
-[arxiv 2024.12] CPA: Camera-pose-awareness Diffusion Transformer for Video Generation [[PDF](https://arxiv.org/abs/2412.01429),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
+[arxiv 2024.12] CPA: Camera-pose-awareness Diffusion Transformer for Video Generation [[PDF](https://arxiv.org/abs/2412.01429)]
 
+[arxiv 2024.12] Latent-Reframe: Enabling Camera Control for Video Diffusion Model without Training [[PDF](https://arxiv.org/abs/2412.06029),[Page](https://latent-reframe.github.io/)]
 
 [arxiv 2024.12]  [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
+
+
+
 
 
 ## inpainting / outpainting 
@@ -815,6 +824,9 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 [arxiv 2024.08]Video Diffusion Models are Strong Video Inpainter  [[PDF](https://arxiv.org/abs/2408.11402)]
 
 [arxiv 2024.09] Follow-Your-Canvas: Higher-Resolution Video Outpainting with Extensive Content Generation [[PDF](https://arxiv.org/abs/2409.01055),[Page](https://github.com/mayuelala/FollowYourCanvas)]
+
+[arxiv 2024.12]  UniPaint: Unified Space-time Video Inpainting via Mixture-of-Experts [[PDF](https://arxiv.org/abs/2412.06340)]
+
 
 [arxiv 2024.12]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -1192,6 +1204,8 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2024.11] VideoDirector: Precise Video Editing via Text-to-Video Models  [[PDF](https://arxiv.org/abs/2411.17592),[Page](https://anonymous.4open.science/w/c4KzqAbCaz89o0FeWkdya/)] 
 
+[arxiv 2024.12] MoViE: Mobile Diffusion for Video Editing  [[PDF](https://arxiv.org/abs/2412.06578)]
+
 
 [arxiv 2024.12]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -1384,6 +1398,16 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2024.12]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
+
+## architecture/distribution
+[arxiv 2024.12] Efficient Continuous Video Flow Model for Video Prediction  [[PDF](https://arxiv.org/abs/2412.05633)]
+
+[arxiv 2024.12]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
+
+
+
+
+
 ## Evaluation 
 [arxiv 2023.10]EvalCrafter: Benchmarking and Evaluating Large Video Generation Models [[PDF](https://arxiv.org/abs/2310.11440),[Page](https://evalcrafter.github.io/)]
 
@@ -1427,6 +1451,9 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 [arxiv 2024.11] VBench++: Comprehensive and Versatile Benchmark Suite for Video Generative Models [[PDF](https://arxiv.org/abs/2411.13503),[Page](https://github.com/Vchitect/VBench)]
 
 [arxiv 2024.12]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
+
+
+
 ## Survey
 [arxiv 2023.03]A Survey on Video Diffusion Models [[PDF](https://arxiv.org/abs/2310.10647)]
 
@@ -1473,7 +1500,11 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2024.12] Individual Content and Motion Dynamics Preserved Pruning for Video Diffusion Models  [[PDF](https://arxiv.org/abs/2411.18350),] 
 
+[arxiv 2024.12] Accelerating Video Diffusion Models via Distribution Matching  [[PDF](https://arxiv.org/abs/2412.05899)]
+
 [arxiv 2024.12]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
+
+
 
 
 ## Others 
@@ -1552,6 +1583,10 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 [arxiv 2024.12] Stag-1: Towards Realistic 4D Driving Simulation with Video Generation Model  [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/wzzheng/Stag?style=social&label=Star)
 
 [arxiv 2024.12]  UniMLVG: Unified Framework for Multi-view Long Video Generation with Comprehensive Control Capabilities for Autonomous Driving [[PDF](https://arxiv.org/abs/2412.04842),[Page](https://sensetime-fvg.github.io/UniMLVG/)]
+
+[arxiv 2024.12] UniScene: Unified Occupancy-centric Driving Scene Generation  [[PDF](https://arxiv.org/abs/2412.05435),[Page](https://arlo0o.github.io/uniscene/)]
+
+[arxiv 2024.12] ACT-BENCH: Towards Action Controllable World Models for Autonomous Driving  [[PDF](https://arxiv.org/abs/2412.05337)]
 
 
 [arxiv 2024.12]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
