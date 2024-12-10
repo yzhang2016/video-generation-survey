@@ -1130,9 +1130,9 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2024.12]  Birth and Death of a Rose [[PDF](https://arxiv.org/abs/2412.05278),[Page](https://chen-geng.com/rose4d)] 
 
+[arxiv 2024.12]  DNF: Unconditional 4D Generation with Dictionary-based Neural Fields [[PDF](https://arxiv.org/abs/2412.05161),[Page](https://xzhang-t.github.io/project/DNF/)] 
+
 [arxiv 2024.12]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
-
-
 
 
 ## Audio-to-video Generation
@@ -1551,6 +1551,9 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2024.12] Stag-1: Towards Realistic 4D Driving Simulation with Video Generation Model  [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/wzzheng/Stag?style=social&label=Star)
 
+[arxiv 2024.12]  UniMLVG: Unified Framework for Multi-view Long Video Generation with Comprehensive Control Capabilities for Autonomous Driving [[PDF](https://arxiv.org/abs/2412.04842),[Page](https://sensetime-fvg.github.io/UniMLVG/)]
+
+
 [arxiv 2024.12]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 
@@ -1560,6 +1563,10 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 [arxiv 2024.12]  Improving Dynamic Object Interactions in Text-to-Video Generation with AI Feedback [[PDF](https://arxiv.org/abs/2412.02617),[Page](https://sites.google.com/view/aif-dynamic-t2v/)] 
 
 
+[arxiv 2024.12]  LiFT: Leveraging Human Feedback for Text-to-Video Model Alignment [[PDF](https://arxiv.org/pdf/2412.04814),[Page](https://codegoat24.github.io/LiFT/)] ![Code](https://img.shields.io/github/stars/CodeGoat24/LiFT?style=social&label=Star)
+
+
+[arxiv 2024.12]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 
 ## CV Related 
