@@ -39,6 +39,7 @@
 
 [arxiv 2024.12]  SoPo: Text-to-Motion Generation Using Semi-Online Preference Optimization [[PDF](https://sopo-motion.github.io/),[Page](https://sopo-motion.github.io/)] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
+[arxiv 2024.12]  Retrieving Semantics from the Deep: an RAG Solution for Gesture Synthesis [[PDF](https://arxiv.org/abs/2403.17936),[Page](https://vcai.mpi-inf.mpg.de/projects/RAG-Gesture/)] 
 
 [arxiv 2024.12]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -90,6 +91,7 @@
 
 [arxiv 2024.12]  FIction: 4D Future Interaction Prediction from Video [[PDF](https://arxiv.org/abs/2408.00672),[Page](https://vision.cs.utexas.edu/projects/FIction/)] ![Code](https://img.shields.io/github/stars/thechargedneutron/FIction?style=social&label=Star)
 
+[arxiv 2024.12]  TriDi: Trilateral Diffusion of 3D Humans, Objects and Interactions [[PDF](https://arxiv.org/abs/),[Page](https://virtualhumans.mpi-inf.mpg.de/tridi/)] ![Code](https://img.shields.io/github/stars/ptrvilya/tridi?style=social&label=Star)
 
 
 [arxiv 2024.12]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
