@@ -700,6 +700,7 @@
 
 [arxiv 2024.12]  Enhancing MMDiT-Based Text-to-Image Models for Similar Subject Generation [[PDF](https://arxiv.org/pdf/2411.18301),[Page](https://github.com/wtybest/EnMMDiT)] ![Code](https://img.shields.io/github/stars/wtybest/EnMMDiT?style=social&label=Star)
 
+[arxiv 2024.12] Addressing Attribute Leakages in Diffusion-based Image Editing without Training  [[PDF](https://arxiv.org/abs/2412.04715)]
 
 
 [arxiv 2024.12]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
@@ -1213,9 +1214,16 @@
 
 [arxiv 2024.12]  PatchDPO: Patch-level DPO for Finetuning-free Personalized Image Generation [[PDF](https://arxiv.org/abs/2412.03177),[Page](https://github.com/hqhQAQ/PatchDPO)] ![Code](https://img.shields.io/github/stars/hqhQAQ/PatchDPO?style=social&label=Star)
 
+[arxiv 2024.12] LoRA.rar: Learning to Merge LoRAs via Hypernetworks for Subject-Style Conditioned Image Generation  [[PDF](https://arxiv.org/abs/2412.05148)]
+
+[arxiv 2024.12]  Customized Generation Reimagined: Fidelity and Editability Harmonized [[PDF](https://arxiv.org/abs/2412.04831),[Page](https://github.com/jinjianRick/DCI_ICO)] ![Code](https://img.shields.io/github/stars/jinjianRick/DCI_ICO?style=social&label=Star)
 
 
 [arxiv 2024.12]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
+
+
+
+
 
 
 ## group generation 
@@ -1365,6 +1373,8 @@ Cross-Attention Control [[PDF](https://arxiv.org/abs/2402.13404)]
 [arxiv 2024.12] DogLayout: Denoising Diffusion GAN for Discrete and Continuous Layout Generation  [[PDF](https://arxiv.org/abs/2412.00381),[Page](https://github.com/deadsmither5/DogLayout)] ![Code](https://img.shields.io/github/stars/deadsmither5/DogLayout?style=social&label=Star) 
 
 [arxiv 2024.12] VASCAR: Content-Aware Layout Generation via Visual-Aware Self-Correction  [[PDF](https://arxiv.org/abs/2412.04237)]
+
+[arxiv 2024.12] SLayR: Scene Layout Generation with Rectified Flow  [[PDF](https://arxiv.org/abs/2412.05003)]
 
 
 [arxiv 2024.12]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
@@ -1845,6 +1855,8 @@ Creative Layout-to-Image Generation [[PDF](https://arxiv.org/pdf/2412.03859),[Pa
 [arxiv 2024.12] Pixel-level and Semantic-level Adjustable Super-resolution: A Dual-LoRA Approach  [[PDF](https://arxiv.org/pdf/2412.03017),[Page](https://github.com/csslc/PiSA-SR)] ![Code](https://img.shields.io/github/stars/csslc/PiSA-SR?style=social&label=Star)
 
 [arxiv 2024.12] Semantic Segmentation Prior for Diffusion-Based Real-World Super-Resolution  [[PDF](https://arxiv.org/pdf/2412.02960)]
+
+[arxiv 2024.12]  ReF-LDM: A Latent Diffusion Model for Reference-based Face Image Restoration [[PDF](https://arxiv.org/abs/2412.05043),[Page](https://chiweihsiao.github.io/refldm.github.io/)] ![Code](https://img.shields.io/github/stars/ChiWeiHsiao/ref-ldm?style=social&label=Star)
 
 
 [arxiv 2024.12]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
