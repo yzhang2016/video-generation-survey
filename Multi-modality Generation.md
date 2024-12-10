@@ -87,6 +87,8 @@
 
 [arxiv 2024.12]  SPAgent: Adaptive Task Decomposition and Model Selection for General Video Generation and Editing [[PDF](https://arxiv.org/abs/2411.18983)]
 
+[arxiv 2024.12] TeamCraft: A Benchmark for Multi-Modal Multi-Agent Systems in Minecraft  [[PDF](https://arxiv.org/abs/2412.05255),[Page](https://teamcraft-bench.github.io/)] ![Code](https://img.shields.io/github/stars/teamcraft-bench/teamcraft?style=social&label=Star) 
+
 
 [arxiv 2024.12]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
 
