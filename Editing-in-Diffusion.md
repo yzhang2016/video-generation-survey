@@ -495,6 +495,11 @@
 
 [arxiv 2024.12]  Orthus: Autoregressive Interleaved Image-Text Generation with Modality-Specific Heads [[PDF](https://arxiv.org/pdf/2412.00127)]
 
+[arxiv 2024.12]  [MASK] is All You Need [[PDF](https://arxiv.org/abs/2412.06787),[Page](https://compvis.github.io/mask/)] ![Code](https://img.shields.io/github/stars/CompVis/mask?style=social&label=Star)
+
+[arxiv 2024.12] See Further When Clear: Curriculum Consistency Model  [[PDF](https://arxiv.org/abs/2412.06295)]
+
+
 [arxiv 2024.12]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 
@@ -1238,9 +1243,9 @@
 
 [arxiv 2024.12]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/huanngzh/MV-Adapter?style=social&label=Star)
 
+
+
 ## multi-view consistency
-
-
 
 
 [arxiv 2024.12] MV-Adapter: Multi-view Consistent Image Generation Made Easy  [[PDF](https://arxiv.org/abs/2412.03632),[Page](https://huanngzh.github.io/MV-Adapter-Page/)] ![Code](https://img.shields.io/github/stars/huanngzh/MV-Adapter?style=social&label=Star)
@@ -2214,6 +2219,9 @@ Creative Layout-to-Image Generation [[PDF](https://arxiv.org/pdf/2412.03859),[Pa
 
 [arxiv 2024.12]  Effortless Efficiency: Low-Cost Pruning of Diffusion Models [[PDF](https://arxiv.org/pdf/2412.02852.pdf),[Page](https://yangzhang-v5.github.io/EcoDiff/)] ![Code](https://img.shields.io/github/stars/YaNgZhAnG-V5/EcoDiff?style=social&label=Star)
 
+[arxiv 2024.12] FlexDiT: Dynamic Token Density Control for Diffusion Transformer  [[PDF](https://arxiv.org/abs/2412.06028)]
+
+
 
 [arxiv 2024.12]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -2445,6 +2453,8 @@ Creative Layout-to-Image Generation [[PDF](https://arxiv.org/pdf/2412.03859),[Pa
 [arxiv 2024.10] MoH: Multi-Head Attention as Mixture-of-Head Attention[[PDF](https://arxiv.org/abs/2410.11842),[Page](https://github.com/SkyworkAI/MoH)]
 
 [arxiv 2024.11] Edify Image: High-Quality Image Generation with Pixel Space Laplacian Diffusion Models  [[PDF](https://arxiv.org/abs/2411.07126),[Page](https://research.nvidia.com/labs/dir/edify-image/)]
+
+[arxiv 2024.12] Nested Diffusion Models Using Hierarchical Latent Priors  [[PDF](https://arxiv.org/abs/2412.05984)]
 
 
 [arxiv 2024.12]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
