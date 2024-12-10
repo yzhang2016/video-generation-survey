@@ -2,6 +2,8 @@
 ## Face 
 [arxiv 2024.12]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
+
+
 ## Body 
 
 [arxiv 2024.10] MotionAura: Generating High-Quality and Motion Consistent Videos using Discrete Diffusion  [[PDF](https://arxiv.org/abs/2410.07659)]
@@ -35,14 +37,20 @@
 
 [arxiv 2024.12] One Shot, One Talk: Whole-body Talking Avatar from a Single Image  [[PDF](https://arxiv.org/abs/2412.01106),[Page](https://ustc3dv.github.io/OneShotOneTalk/)] 
 
+[arxiv 2024.12]  SoPo: Text-to-Motion Generation Using Semi-Online Preference Optimization [[PDF](https://sopo-motion.github.io/),[Page](https://sopo-motion.github.io/)] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
+
 
 [arxiv 2024.12]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
+
+
 
 
 ## audio-to-gesture 
 [arxiv 2024.10] Emphasizing Semantic Consistency of Salient Posture for Speech-Driven Gesture Generation  [[PDF](https://arxiv.org/abs/2410.13786)]
 
 [arxiv 2024.12]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
+
+
 
 
 ## Hands 
@@ -59,9 +67,9 @@
 [arxiv 2024.12] GigaHands: A Massive Annotated Dataset of Bimanual Hand Activities  [[PDF](https://arxiv.org/abs/2412.04244),[Page](https://ivl.cs.brown.edu/research/gigahands.html)] 
 
 
-
-
 [arxiv 2024.12]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
+
+
 
 ## Human Interaction 
 [arxiv 2024.05]  Scaling Up Dynamic Human-Scene Interaction Modeling [[PDF](https://arxiv.org/abs/2403.08629),[Page](https://jnnan.github.io/trumans/)] ![Code](https://img.shields.io/github/stars/jnnan/trumans_utils?style=social&label=Star)
