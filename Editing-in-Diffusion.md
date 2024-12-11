@@ -438,6 +438,7 @@
 
 [arxiv 2024.12] OmniFlow: Any-to-Any Generation with Multi-Modal Rectified Flows  [[PDF](https://arxiv.org/abs/2412.01169),[Page]()] ![Code](https://img.shields.io/github/stars/jacklishufan/OmniFlows?style=social&label=Star)
 
+[arxiv 2024.12] UniReal: Universal Image Generation and Editing via Learning Real-world Dynamics  [[PDF](https://arxiv.org/abs/2412.07774),[Page](https://xavierchen34.github.io/UniReal-Page/)]
 
 [arxiv 2024.12]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -519,9 +520,12 @@
 
 [arxiv 2024.12] HumanEdit : A High-Quality Human-Rewarded Dataset for Instruction-based Image Editing  [[PDF](https://arxiv.org/abs/2412.04280),[Page](https://viiika.github.io/HumanEdit/)] ![Code](https://img.shields.io/github/stars/viiika/HumanEdit/?style=social&label=Star)
 
+[arxiv 2024.12] FireFlow: Fast Inversion of Rectified Flow for Image Semantic Editing  [[PDF](https://arxiv.org/abs/2412.07517),[Page](https://github.com/HolmesShuan/FireFlow-Fast-Inversion-of-Rectified-Flow-for-Image-Semantic-Editing)] ![Code](https://img.shields.io/github/stars/HolmesShuan/FireFlow-Fast-Inversion-of-Rectified-Flow-for-Image-Semantic-Editing?style=social&label=Star)
 
 
 [arxiv 2024.12]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
+
+
 
 ## Improve T2I base modules
 [arxiv 2023]LLM Blueprint: Enabling Text-to-Image Generation with Complex and Detailed Prompts [[PDF](https://arxiv.org/abs/2310.10640),[Page](https://github.com/hananshafi/llmblueprint)]
@@ -707,6 +711,12 @@
 
 [arxiv 2024.12] Addressing Attribute Leakages in Diffusion-based Image Editing without Training  [[PDF](https://arxiv.org/abs/2412.04715)]
 
+[arxiv 2024.12]  Learning Visual Generative Priors without Text [[PDF](https://arxiv.org/abs/2412.07767),[Page](https://xiaomabufei.github.io/lumos/)] ![Code](https://img.shields.io/github/stars/xiaomabufei/lumos?style=social&label=Star)
+
+[arxiv 2024.12] FiVA: Fine-grained Visual Attribute Dataset for Text-to-Image Diffusion Models  [[PDF](https://arxiv.org/abs/2412.07674),[Page](https://fiva-dataset.github.io/)] ![Code](https://img.shields.io/github/stars/wutong16/FiVA?style=social&label=Star)
+
+
+
 
 [arxiv 2024.12]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -770,8 +780,9 @@
 [arxiv 2024.12] ZipAR: Accelerating Autoregressive Image Generation through Spatial Locality  [[PDF](https://arxiv.org/abs/2412.04062)]
 
 
-[arxiv 2024.12]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
+[arxiv 2024.12] ACDiT: Interpolating Autoregressive Conditional Modeling and Diffusion Transformer  [[PDF](https://arxiv.org/abs/2412.07720)]
 
+[arxiv 2024.12]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 
 
@@ -1223,6 +1234,9 @@
 
 [arxiv 2024.12]  Customized Generation Reimagined: Fidelity and Editability Harmonized [[PDF](https://arxiv.org/abs/2412.04831),[Page](https://github.com/jinjianRick/DCI_ICO)] ![Code](https://img.shields.io/github/stars/jinjianRick/DCI_ICO?style=social&label=Star)
 
+[arxiv 2024.12] StoryWeaver: A Unified World Model for Knowledge-Enhanced Story Character Customization  [[PDF](https://arxiv.org/abs/2412.07375),[Page](https://github.com/Aria-Zhangjl/StoryWeaver)] ![Code](https://img.shields.io/github/stars/Aria-Zhangjl/StoryWeaver?style=social&label=Star)
+
+
 
 [arxiv 2024.12]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -1303,6 +1317,13 @@
 ?style=social&label=Star)
 
 [arxiv 2024.12] VideoGen-of-Thought: A Collaborative Framework for Multi-Shot Video Generation  [[PDF](https://arxiv.org/abs/2011.12948),[Page](https://cheliosoops.github.io/VGoT/)] 
+
+[arxiv 2024.12] DiffSensei: Bridging Multi-Modal LLMs and Diffusion Models for Customized Manga Generation  [[PDF](https://arxiv.org/abs/2412.07589),[Page](https://jianzongwu.github.io/projects/diffsensei/)] ![Code](https://img.shields.io/github/stars/jianzongwu/DiffSensei?style=social&label=Star)
+
+[arxiv 2024.12] StoryWeaver: A Unified World Model for Knowledge-Enhanced Story Character Customization  [[PDF](https://arxiv.org/abs/2412.07375),[Page](https://github.com/Aria-Zhangjl/StoryWeaver)] ![Code](https://img.shields.io/github/stars/Aria-Zhangjl/StoryWeaver?style=social&label=Star)
+
+
+[arxiv 2024.12]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 
 [arxiv 2024.12]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
@@ -1862,6 +1883,10 @@ Creative Layout-to-Image Generation [[PDF](https://arxiv.org/pdf/2412.03859),[Pa
 [arxiv 2024.12] Semantic Segmentation Prior for Diffusion-Based Real-World Super-Resolution  [[PDF](https://arxiv.org/pdf/2412.02960)]
 
 [arxiv 2024.12]  ReF-LDM: A Latent Diffusion Model for Reference-based Face Image Restoration [[PDF](https://arxiv.org/abs/2412.05043),[Page](https://chiweihsiao.github.io/refldm.github.io/)] ![Code](https://img.shields.io/github/stars/ChiWeiHsiao/ref-ldm?style=social&label=Star)
+
+[arxiv 2024.12]  Hero-SR: One-Step Diffusion for Super-Resolution with Human Perception Priors [[PDF](https://arxiv.org/abs/2412.07152),[Page](https://github.com/W-JG/Hero-SR)] ![Code](https://img.shields.io/github/stars/W-JG/Hero-SR?style=social&label=Star)
+
+[arxiv 2024.12] RAP-SR: RestorAtion Prior Enhancement in Diffusion Models for Realistic Image Super-Resolution  [[PDF](https://arxiv.org/abs/2412.07149),[Page](https://github.com/W-JG/RAP-SR)] ![Code](https://img.shields.io/github/stars/W-JG/RAP-SR?style=social&label=Star)
 
 
 [arxiv 2024.12]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
