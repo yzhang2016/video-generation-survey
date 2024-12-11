@@ -41,8 +41,9 @@
 
 [arxiv 2024.12]  Retrieving Semantics from the Deep: an RAG Solution for Gesture Synthesis [[PDF](https://arxiv.org/abs/2403.17936),[Page](https://vcai.mpi-inf.mpg.de/projects/RAG-Gesture/)] 
 
-[arxiv 2024.12]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
+[arxiv 2024.12]  CoMA: Compositional Human Motion Generation with Multi-modal Agents [[PDF](https://arxiv.org/abs/2412.07320),[Page](https://gabrie-l.github.io/coma-page/)] ![Code](https://img.shields.io/github/stars/Siwensun/CoMA?style=social&label=Star)
 
+[arxiv 2024.12]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 
 
