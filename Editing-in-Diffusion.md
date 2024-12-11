@@ -2478,4 +2478,9 @@ Creative Layout-to-Image Generation [[PDF](https://arxiv.org/pdf/2412.03859),[Pa
 [arxiv 2024.12]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 
+## basics 
+[arxiv 2024.12] Flow Matching Guide and Code  [[PDF](https://arxiv.org/abs/2412.06264),[Page](https://github.com/facebookresearch/flow_matching)] ![Code](https://img.shields.io/github/stars/facebookresearch/flow_matching?style=social&label=Star)
+
+[arxiv 2024.12]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
+
 
