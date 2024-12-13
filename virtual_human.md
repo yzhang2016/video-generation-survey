@@ -95,8 +95,15 @@
 [arxiv 2024.12]  TriDi: Trilateral Diffusion of 3D Humans, Objects and Interactions [[PDF](https://arxiv.org/abs/),[Page](https://virtualhumans.mpi-inf.mpg.de/tridi/)] ![Code](https://img.shields.io/github/stars/ptrvilya/tridi?style=social&label=Star)
 
 
+
+
 [arxiv 2024.12]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
+
+## Interaction Detection 
+
+[arxiv 2024.12]  Orchestrating the Symphony of Prompt Distribution Learning for Human-Object Interaction Detection [[PDF](https://arxiv.org/abs/2412.08506)]
+[arxiv 2024.12]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 
 ## environment 
