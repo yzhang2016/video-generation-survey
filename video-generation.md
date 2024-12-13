@@ -533,6 +533,9 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2024.06] FreeLong : Training-Free Long Video Generation with SpectralBlend Temporal Attention [[PDF](https://arxiv.org/pdf/2407.19918), [Page](https://freelongvideo.github.io/)]
 
+[arxiv 2024.06] ViD-GPT: Introducing GPT-style Autoregressive Generation in Video Diffusion Models [[PDF](https://arxiv.org/pdf/2406.10981),[Page](https://github.com/Dawn-LX/CausalCache-VDM)] ![Code](https://img.shields.io/github/stars/Dawn-LX/CausalCache-VDM?style=social&label=Star)
+
+
 [arxiv 2024.07]Multi-sentence Video Grounding for Long Video Generation[[PDF](https://arxiv.org/abs/2407.13219)]
 
 [arxiv 2024.08]Training-free High-quality Video Generation with Chain of Diffusion Model Experts [[PDF](https://arxiv.org/abs/2408.13423), [Page](https://confiner2025.github.io/)]
@@ -554,6 +557,10 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 [arxiv 2024.12] Owl-1: Omni World Model for Consistent Long Video Generation [[PDF](https://arxiv.org/abs/2412.09600),[Page](https://github.com/huang-yh/Owl)] ![Code](https://img.shields.io/github/stars/huang-yh/Owl?style=social&label=Star)
 
 [arxiv 2024.12]  [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
+
+
+
+
 
 
 ## sound generation 
