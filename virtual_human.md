@@ -94,7 +94,7 @@
 
 [arxiv 2024.12]  TriDi: Trilateral Diffusion of 3D Humans, Objects and Interactions [[PDF](https://arxiv.org/abs/),[Page](https://virtualhumans.mpi-inf.mpg.de/tridi/)] ![Code](https://img.shields.io/github/stars/ptrvilya/tridi?style=social&label=Star)
 
-
+[arxiv 2024.12] ContextHOI: Spatial Context Learning for Human-Object Interaction Detection  [[PDF](https://arxiv.org/abs/2412.09050)]
 
 
 [arxiv 2024.12]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
