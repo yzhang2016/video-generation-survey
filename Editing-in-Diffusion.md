@@ -428,7 +428,7 @@
 
 ## Unified Generation
 
-[arxiv 2024.10] A Simple Approach to Unifying Diffusion-based Conditional Generation [[PDF](https://arxiv.org/abs/2410.11439),[Page](https://lixirui142.github.io/unicon-diffusion/)]
+[arxiv 2024.10] A Simple Approach to Unifying Diffusion-based Conditional Generation [[PDF](https://arxiv.org/abs/2410.11439),[Page](https://lixirui142.github.io/unicon-diffusion/)] ![Code](https://img.shields.io/github/stars/lixirui142/UniCon?style=social&label=Star)
 
 [arxiv 2024.11] One Diffusion to Generate Them All  [[PDF](https://arxiv.org/abs/2411.16318),[Page](https://github.com/lehduong/OneDiffusion)] ![Code](https://img.shields.io/github/stars/lehduong/OneDiffusion?style=social&label=Star)
 
