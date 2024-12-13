@@ -1611,6 +1611,8 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2024.12] ACT-BENCH: Towards Action Controllable World Models for Autonomous Driving  [[PDF](https://arxiv.org/abs/2412.05337)]
 
+[arxiv 2024.12] Physical-Informed Driving World Model  [[PDF](https://arxiv.org/abs/2412.08410)]
+
 
 [arxiv 2024.12]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
