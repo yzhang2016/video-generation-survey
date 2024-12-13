@@ -500,6 +500,10 @@
 
 [arxiv 2024.12] See Further When Clear: Curriculum Consistency Model  [[PDF](https://arxiv.org/abs/2412.06295)]
 
+[arxiv 2024.12]  Analyzing and Improving Model Collapse in Rectified Flow Models [[PDF](https://arxiv.org/abs/2412.08175)]
+
+[arxiv 2024.12] Multimodal Latent Language Modeling with Next-Token Diffusion  [[PDF](https://arxiv.org/abs/2412.08635),[Page](https://aka.ms/GeneralAI)] 
+
 
 [arxiv 2024.12]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -715,6 +719,7 @@
 
 [arxiv 2024.12] FiVA: Fine-grained Visual Attribute Dataset for Text-to-Image Diffusion Models  [[PDF](https://arxiv.org/abs/2412.07674),[Page](https://fiva-dataset.github.io/)] ![Code](https://img.shields.io/github/stars/wutong16/FiVA?style=social&label=Star)
 
+[arxiv 2024.12]  Fast Prompt Alignment for Text-to-Image Generation [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 
 
@@ -849,6 +854,8 @@
 
 [arxiv 2024.12] PEMF-VVTO: Point-Enhanced Video Virtual Try-on via Mask-free Paradigm  [[PDF](https://arxiv.org/pdf/2412.03021)]
 
+[arxiv 2024.12]  Leffa: Learning Flow Fields in Attention for Controllable Person Image Generation [[PDF](https://arxiv.org/abs/2412.08486),[Page](https://github.com/franciszzj/Leffa)] ![Code](https://img.shields.io/github/stars/franciszzj/Leffa?style=social&label=Star)
+
 
 [arxiv 2024.12]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -892,6 +899,8 @@
 [arxiv 2024.12] Type-R: Automatically Retouching Typos for Text-to-Image Generation  [[PDF](https://arxiv.org/abs/2411.18159)] 
 
 [arxiv 2024.12] FonTS: Text Rendering with Typography and Style Controls  [[PDF](https://arxiv.org/pdf/2412.00136)]
+
+[arxiv 2024.12]  FlowEdit: Inversion-Free Text-Based Editing Using Pre-Trained Flow Models [[PDF](https://arxiv.org/abs/2412.08629),[Page](https://matankleiner.github.io/flowedit/)] ![Code](https://img.shields.io/github/stars/fallenshock/FlowEdit?style=social&label=Star)
 
 
 [arxiv 2024.12]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
@@ -1236,6 +1245,7 @@
 
 [arxiv 2024.12] StoryWeaver: A Unified World Model for Knowledge-Enhanced Story Character Customization  [[PDF](https://arxiv.org/abs/2412.07375),[Page](https://github.com/Aria-Zhangjl/StoryWeaver)] ![Code](https://img.shields.io/github/stars/Aria-Zhangjl/StoryWeaver?style=social&label=Star)
 
+[arxiv 2024.12] ObjectMate: A Recurrence Prior for Object Insertion and Subject-Driven Generation  [[PDF](https://arxiv.org/abs/2412.08645),[Page](https://object-mate.com/)]
 
 
 [arxiv 2024.12]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
@@ -1714,6 +1724,8 @@ Creative Layout-to-Image Generation [[PDF](https://arxiv.org/pdf/2412.03859),[Pa
 
 [arxiv 2024.12] DynamicControl: Adaptive Condition Selection for Improved Text-to-Image Generation  [[PDF](https://arxiv.org/abs/2412.03255),[Page](https://hithqd.github.io/projects/Dynamiccontrol/)] ![Code](https://img.shields.io/github/stars/hithqd/DynamicControl?style=social&label=Star)
 
+[arxiv 2024.12] ObjectMate: A Recurrence Prior for Object Insertion and Subject-Driven Generation  [[PDF](https://arxiv.org/abs/2412.08645),[Page](https://object-mate.com/)]
+
 
 [arxiv 2024.12]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -2021,6 +2033,8 @@ Creative Layout-to-Image Generation [[PDF](https://arxiv.org/pdf/2412.03859),[Pa
 
 [arxiv 2024.12] UnZipLoRA: Separating Content and Style from a Single Image  [[PDF](https://arxiv.org/abs/2412.04465),[Page](https://unziplora.github.io/)] 
 
+[arxiv 2024.12] StyleStudio: Text-Driven Style Transfer with Selective Control of Style Elements  [[PDF](https://arxiv.org/abs/2412.08503),[Page](https://stylestudio-official.github.io/)] ![Code](https://img.shields.io/github/stars/Westlake-AGI-Lab/StyleStudio?style=social&label=Star)
+
 
 
 [arxiv 2024.12]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
@@ -2319,6 +2333,7 @@ Creative Layout-to-Image Generation [[PDF](https://arxiv.org/pdf/2412.03859),[Pa
 
 [arxiv 2024.11]  Diffusion Models as Cartoonists! The Curious Case of High Density Regions [[PDF](https://arxiv.org/pdf/2411.01293)]
 
+[arxiv 2024.12] DMin: Scalable Training Data Influence Estimation for Diffusion Models  [[PDF](https://arxiv.org/abs/2412.08637）
 
 [arxiv 2024.12]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
