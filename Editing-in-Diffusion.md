@@ -526,6 +526,8 @@
 
 [arxiv 2024.12] FireFlow: Fast Inversion of Rectified Flow for Image Semantic Editing  [[PDF](https://arxiv.org/abs/2412.07517),[Page](https://github.com/HolmesShuan/FireFlow-Fast-Inversion-of-Rectified-Flow-for-Image-Semantic-Editing)] ![Code](https://img.shields.io/github/stars/HolmesShuan/FireFlow-Fast-Inversion-of-Rectified-Flow-for-Image-Semantic-Editing?style=social&label=Star)
 
+[arxiv 2024.12] FluxSpace: Disentangled Semantic Editing in Rectified Flow Transformers  [[PDF](https://arxiv.org/abs/2312.05390),[Page](https://fluxspace.github.io/)] 
+
 
 [arxiv 2024.12]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -721,6 +723,7 @@
 
 [arxiv 2024.12]  Fast Prompt Alignment for Text-to-Image Generation [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
+[arxiv 2024.12] Context Canvas: Enhancing Text-to-Image Diffusion Models with Knowledge Graph-Based RAG  [[PDF](https://arxiv.org/abs/2412.09614),[Page](https://context-canvas.github.io/)] 
 
 
 [arxiv 2024.12]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
@@ -1247,9 +1250,9 @@
 
 [arxiv 2024.12] ObjectMate: A Recurrence Prior for Object Insertion and Subject-Driven Generation  [[PDF](https://arxiv.org/abs/2412.08645),[Page](https://object-mate.com/)]
 
+[arxiv 2024.12] DECOR: Decomposition and Projection of Text Embeddings for Text-to-Image Customization  [[PDF](https://arxiv.org/abs/2412.09169)]
 
 [arxiv 2024.12]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
-
 
 
 
@@ -1900,6 +1903,12 @@ Creative Layout-to-Image Generation [[PDF](https://arxiv.org/pdf/2412.03859),[Pa
 
 [arxiv 2024.12] RAP-SR: RestorAtion Prior Enhancement in Diffusion Models for Realistic Image Super-Resolution  [[PDF](https://arxiv.org/abs/2412.07149),[Page](https://github.com/W-JG/RAP-SR)] ![Code](https://img.shields.io/github/stars/W-JG/RAP-SR?style=social&label=Star)
 
+[arxiv 2024.12]  FreeScale: Unleashing the Resolution of Diffusion Models via Tuning-Free Scale Fusion [[PDF](https://arxiv.org/abs/2412.09626),[Page](http://haonanqiu.com/projects/FreeScale.html)] 
+
+
+[arxiv 2024.12]  Arbitrary-steps Image Super-resolution via Diffusion Inversion [[PDF](),[Page](https://github.com/zsyOAOA/InvSR)] ![Code](https://img.shields.io/github/stars/zsyOAOA/InvSR?style=social&label=Star)
+
+
 
 [arxiv 2024.12]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -2260,6 +2269,7 @@ Creative Layout-to-Image Generation [[PDF](https://arxiv.org/pdf/2412.03859),[Pa
 
 [arxiv 2024.12] FlexDiT: Dynamic Token Density Control for Diffusion Transformer  [[PDF](https://arxiv.org/abs/2412.06028)]
 
+[arxiv 2024.12] SnapGen: Taming High-Resolution Text-to-Image Models for Mobile Devices with Efficient Architectures and Training  [[PDF](),[Page](https://snap-research.github.io/snapgen/)] 
 
 
 [arxiv 2024.12]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
@@ -2495,6 +2505,8 @@ Creative Layout-to-Image Generation [[PDF](https://arxiv.org/pdf/2412.03859),[Pa
 [arxiv 2024.11] Edify Image: High-Quality Image Generation with Pixel Space Laplacian Diffusion Models  [[PDF](https://arxiv.org/abs/2411.07126),[Page](https://research.nvidia.com/labs/dir/edify-image/)]
 
 [arxiv 2024.12] Nested Diffusion Models Using Hierarchical Latent Priors  [[PDF](https://arxiv.org/abs/2412.05984)]
+
+[arxiv 2024.12] SnapGen: Taming High-Resolution Text-to-Image Models for Mobile Devices with Efficient Architectures and Training  [[PDF](),[Page](https://snap-research.github.io/snapgen/)] 
 
 
 [arxiv 2024.12]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
