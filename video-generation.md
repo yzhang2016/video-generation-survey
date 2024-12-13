@@ -535,6 +535,8 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2024.06] ViD-GPT: Introducing GPT-style Autoregressive Generation in Video Diffusion Models [[PDF](https://arxiv.org/pdf/2406.10981),[Page](https://github.com/Dawn-LX/CausalCache-VDM)] ![Code](https://img.shields.io/github/stars/Dawn-LX/CausalCache-VDM?style=social&label=Star)
 
+[arxiv 2024.06] Live2Diff: Live Stream Translation via Uni-directional Attention in Video Diffusion Models [[PDF](https://arxiv.org/abs/2407.08701),[Page](https://live2diff.github.io/)] ![Code](https://img.shields.io/github/stars/open-mmlab/Live2Diff?style=social&label=Star)
+
 
 [arxiv 2024.07]Multi-sentence Video Grounding for Long Video Generation[[PDF](https://arxiv.org/abs/2407.13219)]
 
