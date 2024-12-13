@@ -1387,6 +1387,12 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 *[arxiv 2023.03]Seer: Language Instructed Video Prediction with Latent Diffusion Models [[PDF](https://arxiv.org/abs/2303.14897)]
 
+
+[arxiv 2024.12]  Extracting Motion and Appearance via Inter-Frame Attention for Efficient Video Frame Interpolation
+ [[PDF](https://arxiv.org/abs/2303.00440),[Page](https://github.com/MCG-NJU/EMA-VFI?tab=readme-ov-file)] ![Code](https://img.shields.io/github/stars/MCG-NJU/EMA-VFI?style=social&label=Star)
+
+
+
 [arxiv 2023.10]DynamiCrafter: Animating Open-domain Images with Video Diffusion Priors [[PDF](https://arxiv.org/abs/2310.12190), [Page](https://github.com/AILab-CVC/VideoCrafter)]
 
 
@@ -1694,6 +1700,8 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 [arxiv 2024.11]  Generative Omnimatte: Learning to Decompose Video into Layers [[PDF](https://arxiv.org/abs/2411.16683),[Page](https://gen-omnimatte.github.io/)]
 
 [arxiv 2024.12]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
+
+
 ## NLP related
 [arxiv 2022.10]DIFFUSEQ: SEQUENCE TO SEQUENCE TEXT GENERATION WITH DIFFUSION MODELS [[PDF](https://arxiv.org/pdf/2210.08933.pdf)]
 
