@@ -80,6 +80,7 @@
 
 [arxiv 2024.12] TokenFlow: Unified Image Tokenizer for Multimodal Understanding and Generation  [[PDF](https://arxiv.org/abs/2412.03069),[Page](https://byteflow-ai.github.io/TokenFlow/)] ![Code](https://img.shields.io/github/stars/ByteFlow-AI/TokenFlow?style=social&label=Star) 
 
+[arxiv 2024.12] Multimodal Latent Language Modeling with Next-Token Diffusion  [[PDF](https://arxiv.org/abs/2412.08635),[Page](https://aka.ms/GeneralAI)] 
 
 
 [arxiv 2024.12]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
@@ -119,8 +120,6 @@
 
 
 ## multi-modality evaluation 
-
-
 [arxiv 2024.10] The Curse of Multi-Modalities: Evaluating Hallucinations of Large Multimodal Models across Language, Visual, and Audio[[PDF](https://arxiv.org/abs/2410.12787)]
 
 
