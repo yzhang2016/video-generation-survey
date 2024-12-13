@@ -1055,6 +1055,9 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2024.10] DAWN: Dynamic Frame Avatar with Non-autoregressive Diffusion Framework for Talking Head Video Generation [[PDF](https://hanbo-cheng.github.io/DAWN/),[Page](https://hanbo-cheng.github.io/DAWN/)]
 
+[arxiv 2024.12] HelloMeme: Integrating Spatial Knitting Attentions to Embed High-Level andFidelity-Rich Conditions in Diffusion Models  [[PDF](),[Page](https://songkey.github.io/hellomeme/)] ![Code](https://img.shields.io/github/stars/HelloVision/HelloMeme?style=social&label=Star)
+
+
 [arxiv 2024.10] Takin-ADA: Emotion Controllable Audio-Driven Animation with Canonical and Landmark Loss Optimization [[PDF](https://arxiv.org/pdf/2410.14283)]
 
 [arxiv 2024.11] X-Portrait 2: Highly Expressive Portrait Animation [[PDF](),[Page](https://byteaigc.github.io/X-Portrait2/)]
