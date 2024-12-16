@@ -422,6 +422,7 @@
 
 [arxiv 2024.12]  Steering Rectified Flow Models in the Vector Field for Controlled Image Generation [[PDF](https://arxiv.org/abs/2412.00100),[Page](https://github.com/FlowChef/flowchef)] ![Code](https://img.shields.io/github/stars/FlowChef/flowchef?style=social&label=Star)
 
+[arxiv 2024.12]  BrushEdit: All-In-One Image Inpainting and Editing [[PDF](https://liyaowei-stu.github.io/project/BrushEdit/),[Page](https://liyaowei-stu.github.io/project/BrushEdit/)]
 
 [arxiv 2024.12]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -439,6 +440,9 @@
 [arxiv 2024.12] OmniFlow: Any-to-Any Generation with Multi-Modal Rectified Flows  [[PDF](https://arxiv.org/abs/2412.01169),[Page]()] ![Code](https://img.shields.io/github/stars/jacklishufan/OmniFlows?style=social&label=Star)
 
 [arxiv 2024.12] UniReal: Universal Image Generation and Editing via Learning Real-world Dynamics  [[PDF](https://arxiv.org/abs/2412.07774),[Page](https://xavierchen34.github.io/UniReal-Page/)]
+
+[arxiv 2024.12]  BrushEdit: All-In-One Image Inpainting and Editing [[PDF](https://liyaowei-stu.github.io/project/BrushEdit/),[Page](https://liyaowei-stu.github.io/project/BrushEdit/)]
+
 
 [arxiv 2024.12]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -859,9 +863,11 @@
 
 [arxiv 2024.12]  Leffa: Learning Flow Fields in Attention for Controllable Person Image Generation [[PDF](https://arxiv.org/abs/2412.08486),[Page](https://github.com/franciszzj/Leffa)] ![Code](https://img.shields.io/github/stars/franciszzj/Leffa?style=social&label=Star)
 
+[arxiv 2024.12]  SwiftTry: Fast and Consistent Video Virtual Try-On with Diffusion Models [[PDF](https://arxiv.org/abs/2412.10178)]
+
+[arxiv 2024.12] Dynamic Try-On: Taming Video Virtual Try-on with Dynamic Attention Mechanism  [[PDF](https://arxiv.org/abs/2412.09822),[Page](https://zhengjun-ai.github.io/dynamic-tryon-page/)] 
 
 [arxiv 2024.12]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
-
 
 
 
