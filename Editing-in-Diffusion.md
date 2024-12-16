@@ -1890,7 +1890,6 @@ Creative Layout-to-Image Generation [[PDF](https://arxiv.org/pdf/2412.03859),[Pa
 
 [arxiv 2024.12]  HIIF: Hierarchical Encoding based Implicit Image Function for Continuou Super-resolution [[PDF](https://arxiv.org/pdf/2412.03748)]
 
-
 [arxiv 2024.12] TASR: Timestep-Aware Diffusion Model for Image Super-Resolution  [[PDF](https://arxiv.org/abs/2412.03355),[Page](https://github.com/SleepyLin/TASR)] ![Code](https://img.shields.io/github/stars/SleepyLin/TASR?style=social&label=Star)
 
 [arxiv 2024.12] Pixel-level and Semantic-level Adjustable Super-resolution: A Dual-LoRA Approach  [[PDF](https://arxiv.org/pdf/2412.03017),[Page](https://github.com/csslc/PiSA-SR)] ![Code](https://img.shields.io/github/stars/csslc/PiSA-SR?style=social&label=Star)
