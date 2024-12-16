@@ -1665,6 +1665,8 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2024.12]  Doe-1: Closed-Loop Autonomous Driving with Large World Model [[PDF](https://arxiv.org/pdf/2412.08643),[Page](https://wzzheng.net/Doe)] ![Code](https://img.shields.io/github/stars/wzzheng/Doe?style=social&label=Star)
 
+[arxiv 2024.12]  GaussianWorld: Gaussian World Model for Streaming 3D Occupancy Prediction [[PDF](https://arxiv.org/abs/2412.10373),[Page](https://github.com/zuosc19/GaussianWorld)] ![Code](https://img.shields.io/github/stars/zuosc19/GaussianWorld?style=social&label=Star)
+
 
 [arxiv 2024.12]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
