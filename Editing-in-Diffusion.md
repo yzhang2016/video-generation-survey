@@ -424,7 +424,10 @@
 
 [arxiv 2024.12]  BrushEdit: All-In-One Image Inpainting and Editing [[PDF](https://liyaowei-stu.github.io/project/BrushEdit/),[Page](https://liyaowei-stu.github.io/project/BrushEdit/)]
 
+[arxiv 2024.12]  Dual-Schedule Inversion: Training- and Tuning-Free Inversion for Real Image Editing [[PDF](https://arxiv.org/pdf/2412.11152)]
+
 [arxiv 2024.12]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
+
 
 
 ## Unified Generation
@@ -486,6 +489,9 @@
 
 [arxiv 2024.10] On Inductive Biases That Enable Generalization of Diffusion Transformers  [[PDF](https://arxiv.org/abs/2410.21273),[Page](https://dit-generalization.github.io/)]
 
+[arxiv 2024.12] Causal Diffusion Transformer for Generative Modeling  [[PDF](https://arxiv.org/abs/2412.12095),[Page](https://github.com/causalfusion/causalfusion)] ![Code](https://img.shields.io/github/stars/causalfusion/causalfusion?style=social&label=Star)
+
+
 [arxiv 2024.12]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 
@@ -508,6 +514,7 @@
 
 [arxiv 2024.12] Multimodal Latent Language Modeling with Next-Token Diffusion  [[PDF](https://arxiv.org/abs/2412.08635),[Page](https://aka.ms/GeneralAI)] 
 
+[arxiv 2024.12] Exploring Diffusion and Flow Matching Under Generator Matching  [[PDF](https://arxiv.org/abs/2412.11024)]
 
 [arxiv 2024.12]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -531,6 +538,9 @@
 [arxiv 2024.12] FireFlow: Fast Inversion of Rectified Flow for Image Semantic Editing  [[PDF](https://arxiv.org/abs/2412.07517),[Page](https://github.com/HolmesShuan/FireFlow-Fast-Inversion-of-Rectified-Flow-for-Image-Semantic-Editing)] ![Code](https://img.shields.io/github/stars/HolmesShuan/FireFlow-Fast-Inversion-of-Rectified-Flow-for-Image-Semantic-Editing?style=social&label=Star)
 
 [arxiv 2024.12] FluxSpace: Disentangled Semantic Editing in Rectified Flow Transformers  [[PDF](https://arxiv.org/abs/2312.05390),[Page](https://fluxspace.github.io/)] 
+
+[arxiv 2024.12] Instruction-based Image Manipulation by Watching How Things Move  [[PDF](https://arxiv.org/abs/2412.12087),[Page](https://ljzycmd.github.io/projects/InstructMove/)] 
+
 
 
 [arxiv 2024.12]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
@@ -867,8 +877,9 @@
 
 [arxiv 2024.12] Dynamic Try-On: Taming Video Virtual Try-on with Dynamic Attention Mechanism  [[PDF](https://arxiv.org/abs/2412.09822),[Page](https://zhengjun-ai.github.io/dynamic-tryon-page/)] 
 
-[arxiv 2024.12]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
+[arxiv 2024.12] Learning Implicit Features with Flow Infused Attention for Realistic Virtual Try-On  [[PDF](https://arxiv.org/abs/2412.11435)]
 
+[arxiv 2024.12]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 
 ## Model adapatation/Merge 
@@ -1258,9 +1269,9 @@
 
 [arxiv 2024.12] DECOR: Decomposition and Projection of Text Embeddings for Text-to-Image Customization  [[PDF](https://arxiv.org/abs/2412.09169)]
 
+[arxiv 2024.12]  A LoRA is Worth a Thousand Pictures [[PDF](https://arxiv.org/pdf/2412.12048)]
+
 [arxiv 2024.12]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
-
-
 
 
 
@@ -1734,6 +1745,10 @@ Creative Layout-to-Image Generation [[PDF](https://arxiv.org/pdf/2412.03859),[Pa
 [arxiv 2024.12] DynamicControl: Adaptive Condition Selection for Improved Text-to-Image Generation  [[PDF](https://arxiv.org/abs/2412.03255),[Page](https://hithqd.github.io/projects/Dynamiccontrol/)] ![Code](https://img.shields.io/github/stars/hithqd/DynamicControl?style=social&label=Star)
 
 [arxiv 2024.12] ObjectMate: A Recurrence Prior for Object Insertion and Subject-Driven Generation  [[PDF](https://arxiv.org/abs/2412.08645),[Page](https://object-mate.com/)]
+
+[arxiv 2024.12] VersaGen: Unleashing Versatile Visual Control for Text-to-Image Synthesis  [[PDF](),[Page](https://github.com/FelixChan9527/VersaGen)] ![Code](https://img.shields.io/github/stars/FelixChan9527/VersaGen?style=social&label=Star)
+
+[arxiv 2024.12]  LineArt: A Knowledge-guided Training-free High-quality Appearance Transfer for Design Drawing with Diffusion Model [[PDF](https://arxiv.org/abs/2412.11519)]
 
 
 [arxiv 2024.12]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
