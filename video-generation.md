@@ -981,6 +981,8 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2024.12] Video Creation by Demonstration [[PDF](https://arxiv.org/abs/2412.09551),[Page](https://delta-diffusion.github.io/)] 
 
+[arxiv 2024.12] InterDyn: Controllable Interactive Dynamics with Video Diffusion Models [[PDF](https://arxiv.org/abs/2412.11785),[Page](https://interdyn.is.tue.mpg.de/)] 
+
 
 [arxiv 2024.12]  [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -1093,8 +1095,10 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2024.12]  LatentSync: Audio Conditioned Latent Diffusion Models for Lip Sync [[PDF](https://arxiv.org/abs/2412.09262)]
 
+[arxiv 2024.12] CAP4D: Creating Animatable 4D Portrait Avatars with Morphable Multi-View Diffusion Models  [[PDF](https://arxiv.org/abs/2412.12093),[Page](https://felixtaubner.github.io/cap4d/)] ![Code](https://img.shields.io/github/stars/felixtaubner/cap4d/?style=social&label=Star)
 
-[arxiv 2024.12]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
+
+[arxiv 2024.12]  VividFace: A Diffusion-Based Hybrid Framework for High-Fidelity Video Face Swapping [[PDF](https://arxiv.org/abs/2403.16999),[Page](https://hao-shao.com/projects/vividface.html)] ![Code](https://img.shields.io/github/stars/deepcs233/VividFace?style=social&label=Star)
 
 
 ## Face swapping 
@@ -1102,6 +1106,8 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 
 [arxiv 2024.12] HiFiVFS: High Fidelity Video Face Swapping  [[PDF](https://arxiv.org/abs/2411.18293),[Page](https://cxcx1996.github.io/HiFiVFS/)] 
+
+[arxiv 2024.12]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 
 [arxiv 2024.12]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
@@ -1260,6 +1266,8 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 [arxiv 2024.11] VideoDirector: Precise Video Editing via Text-to-Video Models  [[PDF](https://arxiv.org/abs/2411.17592),[Page](https://anonymous.4open.science/w/c4KzqAbCaz89o0FeWkdya/)] 
 
 [arxiv 2024.12] MoViE: Mobile Diffusion for Video Editing  [[PDF](https://arxiv.org/abs/2412.06578)]
+
+[arxiv 2024.12] Re-Attentional Controllable Video Diffusion Editing  [[PDF](https://arxiv.org/abs/2412.11710),[Page](https://github.com/mdswyz/ReAtCo)] ![Code](https://img.shields.io/github/stars/mdswyz/ReAtCo?style=social&label=Star)
 
 
 [arxiv 2024.12]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
@@ -1437,6 +1445,8 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2024.12] Elevating Flow-Guided Video Inpainting with Reference Generation  [[PDF](https://arxiv.org/abs/2412.08975),[Page](https://github.com/suhwan-cho/RGVI)] ![Code](https://img.shields.io/github/stars/suhwan-cho/RGVI?style=social&label=Star)
 
+[arxiv 2024.12] Generative Inbetweening through Frame-wise Conditions-Driven Video Generation  [[PDF](https://fcvg-inbetween.github.io/),[Page](https://fcvg-inbetween.github.io/)] ![Code](https://img.shields.io/github/stars/Tian-one/FCVG?style=social&label=Star)
+
 
 
 [arxiv 2024.12]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
@@ -1573,6 +1583,10 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 [arxiv 2024.12] From Slow Bidirectional to Fast Causal Video Generators  [[PDF](https://arxiv.org/abs/2412.07772),[Page](https://causvid.github.io/)] 
 
 [arxiv 2024.12]  Mobile Video Diffusion [[PDF](https://arxiv.org/abs/2412.07583)]
+
+[arxiv 2024.12]  AsymRnR: Video Diffusion Transformers Acceleration with Asymmetric Reduction and Restoration [[PDF](https://arxiv.org/abs/2412.11706)]
+
+[arxiv 2024.12]  SnapGen-V: Generating a Five-Second Video within Five Seconds on a Mobile Device [[PDF](https://arxiv.org/abs/2412.10494),[Page](https://snap-research.github.io/snapgen-v/)] 
 
 [arxiv 2024.12]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
