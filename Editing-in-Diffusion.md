@@ -426,8 +426,9 @@
 
 [arxiv 2024.12]  Dual-Schedule Inversion: Training- and Tuning-Free Inversion for Real Image Editing [[PDF](https://arxiv.org/pdf/2412.11152)]
 
-[arxiv 2024.12]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
+[arxiv 2024.12]  Prompt Augmentation for Self-supervised Text-guided Image Manipulation [[PDF](https://arxiv.org/pdf/2412.13081)]
 
+[arxiv 2024.12]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 
 ## Unified Generation
@@ -517,6 +518,11 @@
 [arxiv 2024.12] Exploring Diffusion and Flow Matching Under Generator Matching  [[PDF](https://arxiv.org/abs/2412.11024)]
 
 [arxiv 2024.12]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
+
+
+## Chat for editing 
+[arxiv 2024.12] ChatDiT: A Training-Free Baseline for Task-Agnostic Free-Form Chatting with Diffusion Transformers  [[PDF](https://arxiv.org/abs/2412.12571),[Page](https://github.com/ali-vilab/ChatDiT)] ![Code](https://img.shields.io/github/stars/ali-vilab/ChatDiT?style=social&label=Star)
+
 
 
 
@@ -738,6 +744,8 @@
 [arxiv 2024.12]  Fast Prompt Alignment for Text-to-Image Generation [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 [arxiv 2024.12] Context Canvas: Enhancing Text-to-Image Diffusion Models with Knowledge Graph-Based RAG  [[PDF](https://arxiv.org/abs/2412.09614),[Page](https://context-canvas.github.io/)] 
+
+[arxiv 2024.12] CoMPaSS: Enhancing Spatial Understanding in Text-to-Image Diffusion Models  [[PDF](https://arxiv.org/abs/2412.13195),[Page](https://github.com/blurgyy/CoMPaSS)] ![Code](https://img.shields.io/github/stars/blurgyy/CoMPaSS?style=social&label=Star)
 
 
 [arxiv 2024.12]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
@@ -2064,6 +2072,7 @@ Creative Layout-to-Image Generation [[PDF](https://arxiv.org/pdf/2412.03859),[Pa
 
 [arxiv 2024.12] StyleStudio: Text-Driven Style Transfer with Selective Control of Style Elements  [[PDF](https://arxiv.org/abs/2412.08503),[Page](https://stylestudio-official.github.io/)] ![Code](https://img.shields.io/github/stars/Westlake-AGI-Lab/StyleStudio?style=social&label=Star)
 
+[arxiv 2024.12]  OmniPrism: Learning Disentangled Visual Concept for Image Generation [[PDF](https://arxiv.org/abs/2412.12242/),[Page](https://tale17.github.io/omni/)] 
 
 
 [arxiv 2024.12]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
@@ -2116,6 +2125,9 @@ Creative Layout-to-Image Generation [[PDF](https://arxiv.org/pdf/2412.03859),[Pa
 ## scaling
 
 [arxiv 2024.10]  FINE: Factorizing Knowledge for Initialization of Variable-sized Diffusion Models [[PDF](https://arxiv.org/pdf/2409.19289)]
+
+[arxiv 2024.12]  Efficient Scaling of Diffusion Transformers for Text-to-Image Generation [[PDF](https://arxiv.org/abs/2412.12391)]
+
 
 [arxiv 2024.12]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
