@@ -43,6 +43,11 @@
 
 [arxiv 2024.12]  CoMA: Compositional Human Motion Generation with Multi-modal Agents [[PDF](https://arxiv.org/abs/2412.07320),[Page](https://gabrie-l.github.io/coma-page/)] ![Code](https://img.shields.io/github/stars/Siwensun/CoMA?style=social&label=Star)
 
+[arxiv 2024.12]  Move-in-2D: 2D-Conditioned Human Motion Generation [[PDF](https://arxiv.org/abs/2412.13185),[Page](https://hhsinping.github.io/Move-in-2D/)] 
+
+[arxiv 2024.12] Motion-2-to-3: Leveraging 2D Motion Data to Boost 3D Motion Generation  [[PDF](https://arxiv.org/abs/2412.13111),[Page](https://zju3dv.github.io/Motion-2-to-3/)] ![Code](https://img.shields.io/github/stars/zju3dv/Motion-2-to-3?style=social&label=Star)
+
+
 [arxiv 2024.12]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 
@@ -67,6 +72,9 @@
 [arxiv 2024.12]  HandOS: 3D Hand Reconstruction in One Stage [[PDF](https://arxiv.org/abs/2412.01537),[Page](https://idea-research.github.io/HandOSweb/)] 
 
 [arxiv 2024.12] GigaHands: A Massive Annotated Dataset of Bimanual Hand Activities  [[PDF](https://arxiv.org/abs/2412.04244),[Page](https://ivl.cs.brown.edu/research/gigahands.html)] 
+
+[arxiv 2024.12]  Dyn-HaMR: Recovering 4D Interacting Hand Motion from a Dynamic Camera [[PDF](https://arxiv.org/abs/),[Page](https://dyn-hamr.github.io/)] ![Code](https://img.shields.io/github/stars/ZhengdiYu/Dyn-HaMR?style=social&label=Star)
+
 
 
 [arxiv 2024.12]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
@@ -103,7 +111,11 @@
 ## Interaction Detection 
 
 [arxiv 2024.12]  Orchestrating the Symphony of Prompt Distribution Learning for Human-Object Interaction Detection [[PDF](https://arxiv.org/abs/2412.08506)]
+
+[arxiv 2024.12]  HandsOnVLM: Vision-Language Models for Hand-Object Interaction Prediction [[PDF](https://arxiv.org/abs/2412.13187)]
+
 [arxiv 2024.12]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
+
 
 
 ## environment 
