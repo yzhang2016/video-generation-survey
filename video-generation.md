@@ -189,6 +189,8 @@ A reading list of video generation
 
 [arxiv 2024.12] Four-Plane Factorized Video Autoencoders [[PDF](https://arxiv.org/abs/2412.04452),[Page](https://arxiv.org/abs/2412.04452)] 
 
+[arxiv 2024.12] VidTok: A Versatile and Open-Source Video Tokenizer [[PDF](https://arxiv.org/abs/2412.13061),[Page](https://github.com/microsoft/VidTok)] ![Code](https://img.shields.io/github/stars/microsoft/VidTok?style=social&label=Star)
+
 
 [arxiv 2024.12]  [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -686,6 +688,8 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 [arxiv 2024.12] 3DTrajMaster: Mastering 3D Trajectory for Multi-Entity Motion in Video Generation [[PDF](https://arxiv.org/abs/2412.07759),[Page](http://fuxiao0719.github.io/projects/3dtrajmaster)] ![Code](https://img.shields.io/github/stars/KwaiVGI/3DTrajMaster?style=social&label=Star)
 
 [arxiv 2024.12] Mojito: Motion Trajectory and Intensity Control for Video Generation [[PDF](https://arxiv.org/abs/2412.08948),[Page](https://sites.google.com/view/mojito-video)] ![Code](https://img.shields.io/github/stars/jkooy/mojito?style=social&label=Star)
+
+[arxiv 2024.12] MotionBridge: Dynamic Video Inbetweening with Flexible Controls [[PDF](https://arxiv.org/pdf/2412.13190)]
 
 
 [arxiv 2024.12]  [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
@@ -1269,6 +1273,7 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2024.12] Re-Attentional Controllable Video Diffusion Editing  [[PDF](https://arxiv.org/abs/2412.11710),[Page](https://github.com/mdswyz/ReAtCo)] ![Code](https://img.shields.io/github/stars/mdswyz/ReAtCo?style=social&label=Star)
 
+[arxiv 2024.12] MIVE: New Design and Benchmark for Multi-Instance Video Editing  [[PDF](https://arxiv.org/abs/2412.12877),[Page](https://kaist-viclab.github.io/mive-site/)]
 
 [arxiv 2024.12]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -1680,6 +1685,8 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 [arxiv 2024.12]  Doe-1: Closed-Loop Autonomous Driving with Large World Model [[PDF](https://arxiv.org/pdf/2412.08643),[Page](https://wzzheng.net/Doe)] ![Code](https://img.shields.io/github/stars/wzzheng/Doe?style=social&label=Star)
 
 [arxiv 2024.12]  GaussianWorld: Gaussian World Model for Streaming 3D Occupancy Prediction [[PDF](https://arxiv.org/abs/2412.10373),[Page](https://github.com/zuosc19/GaussianWorld)] ![Code](https://img.shields.io/github/stars/zuosc19/GaussianWorld?style=social&label=Star)
+
+[arxiv 2024.12] StreetCrafter: Street View Synthesis with Controllable Video Diffusion Models  [[PDF](https://arxiv.org/pdf/2412.13188)]
 
 
 [arxiv 2024.12]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
