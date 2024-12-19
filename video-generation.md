@@ -457,6 +457,7 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2024.12] STIV: Scalable Text and Image Conditioned Video Generation [[PDF](https://arxiv.org/abs/2412.07730)]
 
+[arxiv 2024.12] VideoDPO: Omni-Preference Alignment for Video Diffusion Generation [[PDF](https://arxiv.org/abs/2412.14167),[Page](https://videodpo.github.io/)] 
 
 [arxiv 2024.12]  [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -629,7 +630,6 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2023.11]SparseCtrl: Adding Sparse Controls to Text-to-Video Diffusion Models[[PDF](https://arxiv.org/abs/2311.16933), [Page](https://guoyww.github.io/projects/SparseCtrl)]
 
-
 [arxiv 2023.12]Fine-grained Controllable Video Generation via Object Appearance and Context [[PDF](https://arxiv.org/abs/2312.02919),[Page](https://hhsinping.github.io/factor)]
 
 [arxiv 2023.12]Drag-A-Video: Non-rigid Video Editing with Point-based Interaction [[PDF](https://arxiv.org/abs/2312.02936),[Page](https://drag-a-video.github.io/)]
@@ -660,7 +660,6 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2024.06] MotionBooth: Motion-Aware Customized Text-to-Video Generation [[PDF](https://arxiv.org/abs/2406.17758),[Page](https://jianzongwu.github.io/projects/motionbooth)]
 
-
 [arxiv 2024.07]Tora: Trajectory-oriented Diffusion Transformer for Video Generation  [[PDF](https://arxiv.org/abs/2407.21705),[Page](https://ali-videoai.github.io/tora_video/),[Code](https://github.com/alibaba/Tora)]
 
 [arxiv 2024.08] Puppet-Master: Scaling Interactive Video Generation as a Motion Prior for Part-Level Dynamics[[PDF](https://arxiv.org/abs/2408.04631),[Page](https://vgg-puppetmaster.github.io/)]
@@ -690,6 +689,8 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 [arxiv 2024.12] Mojito: Motion Trajectory and Intensity Control for Video Generation [[PDF](https://arxiv.org/abs/2412.08948),[Page](https://sites.google.com/view/mojito-video)] ![Code](https://img.shields.io/github/stars/jkooy/mojito?style=social&label=Star)
 
 [arxiv 2024.12] MotionBridge: Dynamic Video Inbetweening with Flexible Controls [[PDF](https://arxiv.org/pdf/2412.13190)]
+
+[arxiv 2024.12] AniDoc: Animation Creation Made Easier [[PDF](https://arxiv.org/pdf/2412.14173),[Page](https://github.com/yihao-meng/AniDoc)] ![Code](https://img.shields.io/github/stars/yihao-meng/AniDoc?style=social&label=Star)
 
 
 [arxiv 2024.12]  [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
@@ -782,6 +783,10 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 ## autoregressive for video 
 
+[arxiv 2024.12]  Autoregressive Video Generation without Vector Quantization [[PDF](https://arxiv.org/abs/2412.14169),[Page](https://github.com/baaivision/NOVA)] ![Code](https://img.shields.io/github/stars/baaivision/NOVA?style=social&label=Star)
+
+
+[arxiv 2024.12]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 
 ## text 
@@ -1101,8 +1106,14 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2024.12] CAP4D: Creating Animatable 4D Portrait Avatars with Morphable Multi-View Diffusion Models  [[PDF](https://arxiv.org/abs/2412.12093),[Page](https://felixtaubner.github.io/cap4d/)] ![Code](https://img.shields.io/github/stars/felixtaubner/cap4d/?style=social&label=Star)
 
-
 [arxiv 2024.12]  VividFace: A Diffusion-Based Hybrid Framework for High-Fidelity Video Face Swapping [[PDF](https://arxiv.org/abs/2403.16999),[Page](https://hao-shao.com/projects/vividface.html)] ![Code](https://img.shields.io/github/stars/deepcs233/VividFace?style=social&label=Star)
+
+[arxiv 2024.12] OSA-LCM: Real-time One-Step Diffusion-based Expressive Portrait Videos Generation  [[PDF](http://arxiv.org/abs/2412.13479),[Page](https://guohanzhong.github.io/osalcm/)] ![Code](https://img.shields.io/github/stars/Guohanzhong/OSA-LCM?style=social&label=Star)
+
+
+[arxiv 2024.12]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
+
+
 
 
 ## Face swapping 
