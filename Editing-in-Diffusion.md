@@ -447,6 +447,7 @@
 
 [arxiv 2024.12]  BrushEdit: All-In-One Image Inpainting and Editing [[PDF](https://liyaowei-stu.github.io/project/BrushEdit/),[Page](https://liyaowei-stu.github.io/project/BrushEdit/)]
 
+[arxiv 2024.12] Multimodal Understanding and Generation via Instruction Tuning  [[PDF](https://arxiv.org/abs/2412.14164v1),[Page](https://tsb0601.github.io/metamorph/)] 
 
 [arxiv 2024.12]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -492,6 +493,7 @@
 
 [arxiv 2024.12] Causal Diffusion Transformer for Generative Modeling  [[PDF](https://arxiv.org/abs/2412.12095),[Page](https://github.com/causalfusion/causalfusion)] ![Code](https://img.shields.io/github/stars/causalfusion/causalfusion?style=social&label=Star)
 
+[arxiv 2024.12] E-CAR: Efficient Continuous Autoregressive Image Generation via Multistage Modeling  [[PDF](https://arxiv.org/abs/2412.14170)]
 
 [arxiv 2024.12]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -886,6 +888,10 @@
 [arxiv 2024.12] Dynamic Try-On: Taming Video Virtual Try-on with Dynamic Attention Mechanism  [[PDF](https://arxiv.org/abs/2412.09822),[Page](https://zhengjun-ai.github.io/dynamic-tryon-page/)] 
 
 [arxiv 2024.12] Learning Implicit Features with Flow Infused Attention for Realistic Virtual Try-On  [[PDF](https://arxiv.org/abs/2412.11435)]
+
+[arxiv 2024.12] FashionComposer : Compositional Fashion Image Generation  [[PDF](https://arxiv.org/abs/2412.14168),[Page](https://sihuiji.github.io/FashionComposer-Page/)] ![Code](https://img.shields.io/github/stars/SihuiJi/FashionComposer?style=social&label=Star)
+
+
 
 [arxiv 2024.12]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -1758,6 +1764,7 @@ Creative Layout-to-Image Generation [[PDF](https://arxiv.org/pdf/2412.03859),[Pa
 
 [arxiv 2024.12]  LineArt: A Knowledge-guided Training-free High-quality Appearance Transfer for Design Drawing with Diffusion Model [[PDF](https://arxiv.org/abs/2412.11519)]
 
+[arxiv 2024.12] T3-S2S: Training-free Triplet Tuning for Sketch to Scene Generation  [[PDF](https://arxiv.org/abs/2412.13486)]
 
 [arxiv 2024.12]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
