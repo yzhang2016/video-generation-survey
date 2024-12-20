@@ -428,6 +428,8 @@
 
 [arxiv 2024.12]  Prompt Augmentation for Self-supervised Text-guided Image Manipulation [[PDF](https://arxiv.org/pdf/2412.13081)]
 
+[arxiv 2024.12] PixelMan: Consistent Object Editing with Diffusion Models via Pixel Manipulation and Generation  [[PDF](https://arxiv.org/abs/2412.14283),[Page](Ascend-Research/PixelMan)] 
+
 [arxiv 2024.12]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 
@@ -549,6 +551,7 @@
 
 [arxiv 2024.12] Instruction-based Image Manipulation by Watching How Things Move  [[PDF](https://arxiv.org/abs/2412.12087),[Page](https://ljzycmd.github.io/projects/InstructMove/)] 
 
+[arxiv 2024.12] UIP2P: Unsupervised Instruction-based Image Editing via Cycle Edit Consistency  [[PDF](https://arxiv.org/abs/2412.15216),[Page](https://enis.dev/uip2p/)]
 
 
 [arxiv 2024.12]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
@@ -814,6 +817,11 @@
 
 [arxiv 2024.12] ACDiT: Interpolating Autoregressive Conditional Modeling and Diffusion Transformer  [[PDF](https://arxiv.org/abs/2412.07720)]
 
+[arxiv 2024.12]  FlowAR: Scale-wise Autoregressive Image Generation Meets Flow Matching [[PDF](https://arxiv.org/abs/2412.15205),[Page](https://github.com/OliverRensu/FlowAR)] ![Code](https://img.shields.io/github/stars/OliverRensu/FlowAR?style=social&label=Star)
+
+[arxiv 2024.12]  Parallelized Autoregressive Visual Generation [[PDF](https://epiphqny.github.io/PAR-project/#),[Page](https://epiphqny.github.io/PAR-project/)] ![Code](https://img.shields.io/github/stars/Epiphqny/PAR?style=social&label=Star)
+
+
 [arxiv 2024.12]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 
@@ -891,6 +899,7 @@
 
 [arxiv 2024.12] FashionComposer : Compositional Fashion Image Generation  [[PDF](https://arxiv.org/abs/2412.14168),[Page](https://sihuiji.github.io/FashionComposer-Page/)] ![Code](https://img.shields.io/github/stars/SihuiJi/FashionComposer?style=social&label=Star)
 
+[arxiv 2024.12] DiffusionTrend: A Minimalist Approach to Virtual Fashion Try-On  [[PDF](https://arxiv.org/abs/2412.14465)]
 
 
 [arxiv 2024.12]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
@@ -1766,6 +1775,10 @@ Creative Layout-to-Image Generation [[PDF](https://arxiv.org/pdf/2412.03859),[Pa
 
 [arxiv 2024.12] T3-S2S: Training-free Triplet Tuning for Sketch to Scene Generation  [[PDF](https://arxiv.org/abs/2412.13486)]
 
+[arxiv 2024.12] Affordance-Aware Object Insertion via Mask-Aware Dual Diffusion  [[PDF](https://arxiv.org/abs/2412.14462),[Page](https://kakituken.github.io/affordance-any.github.io/)] ![Code](https://img.shields.io/github/stars/KaKituken/affordance-aware-any?style=social&label=Star)
+
+
+
 [arxiv 2024.12]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 
@@ -1943,6 +1956,7 @@ Creative Layout-to-Image Generation [[PDF](https://arxiv.org/pdf/2412.03859),[Pa
 
 [arxiv 2024.12]  Arbitrary-steps Image Super-resolution via Diffusion Inversion [[PDF](),[Page](https://github.com/zsyOAOA/InvSR)] ![Code](https://img.shields.io/github/stars/zsyOAOA/InvSR?style=social&label=Star)
 
+[arxiv 2024.12]  Tiled Diffusion [[PDF](https://arxiv.org/abs/2412.15185),[Page](https://madaror.github.io/tiled-diffusion.github.io/)] ![Code](https://img.shields.io/github/stars/madaror/tiled-diffusion?style=social&label=Star)
 
 
 [arxiv 2024.12]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
@@ -2546,6 +2560,8 @@ Creative Layout-to-Image Generation [[PDF](https://arxiv.org/pdf/2412.03859),[Pa
 [arxiv 2024.12] Nested Diffusion Models Using Hierarchical Latent Priors  [[PDF](https://arxiv.org/abs/2412.05984)]
 
 [arxiv 2024.12] SnapGen: Taming High-Resolution Text-to-Image Models for Mobile Devices with Efficient Architectures and Training  [[PDF](),[Page](https://snap-research.github.io/snapgen/)] 
+
+[arxiv 2024.12]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 
 [arxiv 2024.12]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
