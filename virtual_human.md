@@ -47,6 +47,8 @@
 
 [arxiv 2024.12] Motion-2-to-3: Leveraging 2D Motion Data to Boost 3D Motion Generation  [[PDF](https://arxiv.org/abs/2412.13111),[Page](https://zju3dv.github.io/Motion-2-to-3/)] ![Code](https://img.shields.io/github/stars/zju3dv/Motion-2-to-3?style=social&label=Star)
 
+[arxiv 2024.12] ScaMo: Exploring the Scaling Law in Autoregressive Motion Generation Model  [[PDF](https://arxiv.org/abs/2412.14559),[Page](https://shunlinlu.github.io/ScaMo/)] ![Code](https://img.shields.io/github/stars/shunlinlu/ScaMo_code?style=social&label=Star)
+
 
 [arxiv 2024.12]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
