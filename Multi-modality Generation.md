@@ -122,6 +122,8 @@
 
 [arxiv 2024.12]  Thinking in Space: How Multimodal Large Language Models See, Remember, and Recall Spaces [[PDF](https://arxiv.org/abs/2412.14171),[Page](https://vision-x-nyu.github.io/thinking-in-space.github.io/)] ![Code](https://img.shields.io/github/stars/vision-x-nyu/thinking-in-space?style=social&label=Star) 
 
+[arxiv 2024.12] OpenEMMA: Open-Source Multimodal Model for End-to-End Autonomous Driving  [[PDF](https://arxiv.org/abs/2412.15208),[Page](https://github.com/taco-group/OpenEMMA)] ![Code](https://img.shields.io/github/stars/taco-group/OpenEMMA?style=social&label=Star) 
+
 
 [arxiv 2024.12]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
 
