@@ -124,6 +124,8 @@
 
 [arxiv 2024.12] OpenEMMA: Open-Source Multimodal Model for End-to-End Autonomous Driving  [[PDF](https://arxiv.org/abs/2412.15208),[Page](https://github.com/taco-group/OpenEMMA)] ![Code](https://img.shields.io/github/stars/taco-group/OpenEMMA?style=social&label=Star) 
 
+[arxiv 2024.12]  VLM-AD: End-to-End Autonomous Driving through Vision-Language Model Supervision [[PDF](https://arxiv.org/abs/2412.14446)]
+
 
 [arxiv 2024.12]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
 
