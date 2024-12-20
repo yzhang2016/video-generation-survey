@@ -191,6 +191,8 @@ A reading list of video generation
 
 [arxiv 2024.12] VidTok: A Versatile and Open-Source Video Tokenizer [[PDF](https://arxiv.org/abs/2412.13061),[Page](https://github.com/microsoft/VidTok)] ![Code](https://img.shields.io/github/stars/microsoft/VidTok?style=social&label=Star)
 
+[arxiv 2024.12] Scaling 4D Representations  [[PDF](https://arxiv.org/abs/2412.15212)]
+
 
 [arxiv 2024.12]  [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -692,6 +694,10 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2024.12] AniDoc: Animation Creation Made Easier [[PDF](https://arxiv.org/pdf/2412.14173),[Page](https://github.com/yihao-meng/AniDoc)] ![Code](https://img.shields.io/github/stars/yihao-meng/AniDoc?style=social&label=Star)
 
+[arxiv 2024.12] LeviTor: 3D Trajectory Oriented Image-to-Video Synthesis [[PDF](https://arxiv.org/abs/2412.15214),[Page](https://ppetrichor.github.io/levitor.github.io/)] ![Code](https://img.shields.io/github/stars/qiuyu96/LeviTor?style=social&label=Star)
+
+
+
 
 [arxiv 2024.12]  [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -768,8 +774,10 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2024.12]  MotionShop: Zero-Shot Motion Transfer in Video Diffusion Models with Mixture of Score Guidance [[PDF](https://motionshop-diffusion.github.io/#),[Page](https://motionshop-diffusion.github.io/#)] ![Code](https://img.shields.io/github/stars/gemlab-vt/motionshop?style=social&label=Star)
 
-
 [arxiv 2024.12] DisPose: Disentangling Pose Guidance for Controllable Human Image Animation  [[PDF](https://arxiv.org/abs/2412.09349)]
+
+[arxiv 2024.12] Consistent Human Image and Video Generation with Spatially Conditioned Diffusion  [[PDF](https://arxiv.org/abs/2412.14531),[Page](https://github.com/ljzycmd/SCD)] ![Code](https://img.shields.io/github/stars/ljzycmd/SCD?style=social&label=Star)
+
 
 
 [arxiv 2024.12]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
@@ -1234,8 +1242,12 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2024.11] Tell What You Hear From What You See -- Video to Audio Generation Through Text [[PDF](https://arxiv.org/abs/2411.05679),[Page](https://github.com/Christina200/Online-LoRA-official)]
 
+[arxiv 2024.12]  AV-Link: Temporally-Aligned Diffusion Features for Cross-Modal Audio-Video Generation [[PDF](https://arxiv.org/abs/2412.15191),[Page](https://snap-research.github.io/AVLink/)] ![Code](https://img.shields.io/github/stars/snap-research/AVLink?style=social&label=Star)
+
 
 [arxiv 2024.12]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
+
+
 
 ## editing with video models 
 [arxiv 2023.12]VIDiff: Translating Videos via Multi-Modal Instructions with Diffusion Models[[PDF](https://arxiv.org/abs/2311.18837),[Page](https://chenhsing.github.io/VIDiff)]
@@ -1699,6 +1711,8 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2024.12] StreetCrafter: Street View Synthesis with Controllable Video Diffusion Models  [[PDF](https://arxiv.org/pdf/2412.13188)]
 
+[arxiv 2024.12]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
+
 
 [arxiv 2024.12]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -1710,6 +1724,10 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 
 [arxiv 2024.12]  LiFT: Leveraging Human Feedback for Text-to-Video Model Alignment [[PDF](https://arxiv.org/pdf/2412.04814),[Page](https://codegoat24.github.io/LiFT/)] ![Code](https://img.shields.io/github/stars/CodeGoat24/LiFT?style=social&label=Star)
+
+[arxiv 2024.12] OnlineVPO: Align Video Diffusion Model with Online Video-Centric Preference Optimization  [[PDF](https://arxiv.org/abs/2412.15159),[Page](https://onlinevpo.github.io/)] 
+
+[arxiv 2024.12] Prompt-A-Video: Prompt Your Video Diffusion Model via Preference-Aligned LLM  [[PDF](https://arxiv.org/abs/2412.15156),[Page](https://arxiv.org/abs/2412.15156)] 
 
 
 [arxiv 2024.12]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
