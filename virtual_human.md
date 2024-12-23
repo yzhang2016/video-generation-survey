@@ -125,6 +125,9 @@
 
 [arxiv 2024.10] Long-LRM: Long-sequence Large Reconstruction Model for Wide-coverage Gaussian Splats  [[PDF](https://arxiv.org/abs/2410.12781),[Page](https://arthurhero.github.io/projects/llrm/)]
 
+[arxiv 2024.12] SCENIC: Scene-aware Semantic Navigation with Instruction-guided Control  [[PDF](https://arxiv.org/abs/2412.15664),[Page](https://virtualhumans.mpi-inf.mpg.de/scenic/)] 
+
+
 [arxiv 2024.12]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 
