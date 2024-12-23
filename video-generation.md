@@ -1043,6 +1043,9 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2024.12] LoRACLR: Contrastive Adaptation for Customization of Diffusion Models  [[PDF](https://arxiv.org/abs/2412.09622),[Page](https://loraclr.github.io/)]
 
+[arxiv 2024.12] CustomTTT: Motion and Appearance Customized Video Generation via Test-Time Training  [[PDF](https://arxiv.org/abs/2412.15646),[Page](https://github.com/RongPiKing/CustomTTT)] ![Code](https://img.shields.io/github/stars/RongPiKing/CustomTTT?style=social&label=Star)
+
+
 [arxiv 2024.12]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 
