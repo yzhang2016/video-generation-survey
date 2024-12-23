@@ -1294,6 +1294,9 @@
 
 [arxiv 2024.12]  A LoRA is Worth a Thousand Pictures [[PDF](https://arxiv.org/pdf/2412.12048)]
 
+[arxiv 2024.12] Personalized Representation from Personalized Generation  [[PDF](https://arxiv.org/abs/2412.16156),[Page](https://personalized-rep.github.io/)] ![Code](https://img.shields.io/github/stars/ssundaram21/personalized-rep?style=social&label=Star)
+
+
 [arxiv 2024.12]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 
