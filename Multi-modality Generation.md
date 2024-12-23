@@ -126,6 +126,8 @@
 
 [arxiv 2024.12]  VLM-AD: End-to-End Autonomous Driving through Vision-Language Model Supervision [[PDF](https://arxiv.org/abs/2412.14446)]
 
+[arxiv 2024.12]  HoVLE: Unleashing the Power of Monolithic Vision-Language Models with Holistic Vision-Language Embedding [[PDF](https://arxiv.org/abs/2412.16158),[Page](https://huggingface.co/OpenGVLab/HoVLE)] 
+
 
 [arxiv 2024.12]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
 
