@@ -451,6 +451,8 @@
 
 [arxiv 2024.12] Multimodal Understanding and Generation via Instruction Tuning  [[PDF](https://arxiv.org/abs/2412.14164v1),[Page](https://tsb0601.github.io/metamorph/)] 
 
+[arxiv 2024.12]  DreamOmni: Unified Image Generation and Editing [[PDF](https://arxiv.org/pdf/2412.17098),[Page](https://zj-binxia.github.io/DreamOmni-ProjectPage/)] 
+
 [arxiv 2024.12]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 
@@ -900,6 +902,8 @@
 [arxiv 2024.12] FashionComposer : Compositional Fashion Image Generation  [[PDF](https://arxiv.org/abs/2412.14168),[Page](https://sihuiji.github.io/FashionComposer-Page/)] ![Code](https://img.shields.io/github/stars/SihuiJi/FashionComposer?style=social&label=Star)
 
 [arxiv 2024.12] DiffusionTrend: A Minimalist Approach to Virtual Fashion Try-On  [[PDF](https://arxiv.org/abs/2412.14465)]
+
+[arxiv 2024.12] PromptDresser: Improving the Quality and Controllability of Virtual Try-On via Generative Textual Prompt and Prompt-aware Mask  [[PDF](https://arxiv.org/abs/2412.16978),[Page](https://github.com/rlawjdghek/PromptDresser)] ![Code](https://img.shields.io/github/stars/rlawjdghek/PromptDresser?style=social&label=Star)
 
 
 [arxiv 2024.12]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
@@ -2326,6 +2330,8 @@ Creative Layout-to-Image Generation [[PDF](https://arxiv.org/pdf/2412.03859),[Pa
 [arxiv 2024.12] FlexDiT: Dynamic Token Density Control for Diffusion Transformer  [[PDF](https://arxiv.org/abs/2412.06028)]
 
 [arxiv 2024.12] SnapGen: Taming High-Resolution Text-to-Image Models for Mobile Devices with Efficient Architectures and Training  [[PDF](),[Page](https://snap-research.github.io/snapgen/)] 
+
+[arxiv 2024.12]  Self-Corrected Flow Distillation for Consistent One-Step and Few-Step Text-to-Image Generation [[PDF](https://arxiv.org/abs/2412.16906)]
 
 
 [arxiv 2024.12]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
