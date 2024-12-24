@@ -193,6 +193,11 @@ A reading list of video generation
 
 [arxiv 2024.12] Scaling 4D Representations  [[PDF](https://arxiv.org/abs/2412.15212)]
 
+[arxiv 2024.12] Large Motion Video Autoencoding with Cross-modal Video VAE [[PDF](https://arxiv.org/abs/2412.17805),[Page](https://yzxing87.github.io/vae/)] ![Code](https://img.shields.io/github/stars/VideoVAEPlus?style=social&label=Star)
+
+[arxiv 2024.12] VidTwin: Video VAE with Decoupled Structure and Dynamics [[PDF](https://arxiv.org/abs/2412.17726),[Page](https://github.com/microsoft/VidTok)] ![Code](https://img.shields.io/github/stars/microsoft/VidTok?style=social&label=Star)
+
+
 
 [arxiv 2024.12]  [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -778,6 +783,7 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2024.12] Consistent Human Image and Video Generation with Spatially Conditioned Diffusion  [[PDF](https://arxiv.org/abs/2412.14531),[Page](https://github.com/ljzycmd/SCD)] ![Code](https://img.shields.io/github/stars/ljzycmd/SCD?style=social&label=Star)
 
+[arxiv 2024.12] VAST 1.0: A Unified Framework for Controllable and Consistent Video Generation  [[PDF](https://arxiv.org/pdf/2412.16677)]
 
 
 [arxiv 2024.12]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
@@ -1558,6 +1564,9 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 [arxiv 2024.11] ViBe: A Text-to-Video Benchmark for Evaluating Hallucination in Large Multimodal Models [[PDF](https://arxiv.org/abs/2411.10867),[Page](https://vibe-t2v-bench.github.io/)]
 
 [arxiv 2024.11] VBench++: Comprehensive and Versatile Benchmark Suite for Video Generative Models [[PDF](https://arxiv.org/abs/2411.13503),[Page](https://github.com/Vchitect/VBench)]
+
+[arxiv 2024.12]  Is Your World Simulator a Good Story Presenter? A Consecutive Events-Based Benchmark for Future Long Video Generation [[PDF](https://arxiv.org/abs/),[Page](https://ypwang61.github.io/project/StoryEval/)] ![Code](https://img.shields.io/github/stars/ypwang61/StoryEval?style=social&label=Star)
+
 
 [arxiv 2024.12]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
