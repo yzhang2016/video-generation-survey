@@ -1127,6 +1127,8 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2024.12] OSA-LCM: Real-time One-Step Diffusion-based Expressive Portrait Videos Generation  [[PDF](http://arxiv.org/abs/2412.13479),[Page](https://guohanzhong.github.io/osalcm/)] ![Code](https://img.shields.io/github/stars/Guohanzhong/OSA-LCM?style=social&label=Star)
 
+[arxiv 2024.12] INFP: Audio-Driven Interactive Head Generation in Dyadic Conversations  [[PDF](https://www.arxiv.org/pdf/2412.04037),[Page](https://grisoon.github.io/INFP/)]
+
 
 [arxiv 2024.12]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
