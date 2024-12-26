@@ -430,6 +430,8 @@
 
 [arxiv 2024.12] PixelMan: Consistent Object Editing with Diffusion Models via Pixel Manipulation and Generation  [[PDF](https://arxiv.org/abs/2412.14283),[Page](Ascend-Research/PixelMan)] 
 
+[arxiv 2024.12]  Explaining in Diffusion: Explaining a Classifier Through Hierarchical Semantics with Text-to-Image Diffusion Models [[PDF](https://arxiv.org/abs/2412.18604),[Page](https://explain-in-diffusion.github.io/)] 
+
 [arxiv 2024.12]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 
@@ -823,6 +825,8 @@
 
 [arxiv 2024.12]  Parallelized Autoregressive Visual Generation [[PDF](https://epiphqny.github.io/PAR-project/#),[Page](https://epiphqny.github.io/PAR-project/)] ![Code](https://img.shields.io/github/stars/Epiphqny/PAR?style=social&label=Star)
 
+[arxiv 2024.12] RDPM: Solve Diffusion Probabilistic Models via Recurrent Token Prediction  [[PDF](https://arxiv.org/pdf/2412.18390)]
+
 
 [arxiv 2024.12]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -905,6 +909,7 @@
 
 [arxiv 2024.12] PromptDresser: Improving the Quality and Controllability of Virtual Try-On via Generative Textual Prompt and Prompt-aware Mask  [[PDF](https://arxiv.org/abs/2412.16978),[Page](https://github.com/rlawjdghek/PromptDresser)] ![Code](https://img.shields.io/github/stars/rlawjdghek/PromptDresser?style=social&label=Star)
 
+[arxiv 2024.12] Fashionability-Enhancing Outfit Image Editing with Conditional Diffusion Model  [[PDF](https://arxiv.org/pdf/2412.18421)]
 
 [arxiv 2024.12]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -2333,6 +2338,7 @@ Creative Layout-to-Image Generation [[PDF](https://arxiv.org/pdf/2412.03859),[Pa
 
 [arxiv 2024.12]  Self-Corrected Flow Distillation for Consistent One-Step and Few-Step Text-to-Image Generation [[PDF](https://arxiv.org/abs/2412.16906)]
 
+[arxiv 2024.12]  LatentCRF: Continuous CRF for Efficient Latent Diffusion [[PDF](https://arxiv.org/pdf/2412.18596)]
 
 [arxiv 2024.12]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
