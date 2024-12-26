@@ -568,6 +568,9 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2024.12] Owl-1: Omni World Model for Consistent Long Video Generation [[PDF](https://arxiv.org/abs/2412.09600),[Page](https://github.com/huang-yh/Owl)] ![Code](https://img.shields.io/github/stars/huang-yh/Owl?style=social&label=Star)
 
+[arxiv 2024.12] DiTCtrl: Exploring Attention Control in Multi-Modal Diffusion Transformer for Tuning-Free Multi-Prompt Longer Video Generation [[PDF](https://arxiv.org/abs/2412.18597),[Page](https://onevfall.github.io/project_page/ditctrl/)] ![Code](https://img.shields.io/github/stars/TencentARC/DiTCtrl?style=social&label=Star)
+
+
 [arxiv 2024.12]  [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 
@@ -864,6 +867,8 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 [arxiv 2024.12] ObjCtrl-2.5D: Training-free Object Control with Camera Poses [[PDF](https://arxiv.org/pdf/2412.07721),[Page](https://wzhouxiff.github.io/projects/ObjCtrl-2.5D/)] ![Code](https://img.shields.io/github/stars/wzhouxiff/ObjCtrl-2.5D?style=social&label=Star)
 
 [arxiv 2024.12] Learning Camera Movement Control from Real-World Drone Videos [[PDF](https://arxiv.org/abs/2412.09620),[Page](https://dvgformer.github.io/)] ![Code](https://img.shields.io/github/stars/hou-yz/dvgformer?style=social&label=Star)
+
+[arxiv 2024.12] Switch-a-View: Few-Shot View Selection Learned from Edited Videos [[PDF](https://arxiv.org/abs/2412.18386),[Page](https://vision.cs.utexas.edu/projects/switch_a_view/)] 
 
 
 [arxiv 2024.12]  [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
