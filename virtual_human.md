@@ -127,6 +127,8 @@
 
 [arxiv 2024.12] SCENIC: Scene-aware Semantic Navigation with Instruction-guided Control  [[PDF](https://arxiv.org/abs/2412.15664),[Page](https://virtualhumans.mpi-inf.mpg.de/scenic/)] 
 
+[arxiv 2024.12]  ZeroHSI: Zero-Shot 4D Human-Scene Interaction [[PDF](https://arxiv.org/abs/2412.18600),[Page](https://awfuact.github.io/zerohsi/)] 
+
 
 [arxiv 2024.12]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
