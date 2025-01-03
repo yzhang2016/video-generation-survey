@@ -2111,6 +2111,12 @@ Creative Layout-to-Image Generation [[PDF](https://arxiv.org/pdf/2412.03859),[Pa
 
 [arxiv 2024.12]  OmniPrism: Learning Disentangled Visual Concept for Image Generation [[PDF](https://arxiv.org/abs/2412.12242/),[Page](https://tale17.github.io/omni/)] 
 
+[arxiv 2025.01]  Conditional Balance: Improving Multi-Conditioning Trade-Offs in Image Generation [[PDF](https://arxiv.org/pdf/2412.19853)]
+
+[arxiv 2025.01] StyleRWKV: High-Quality and High-Efficiency Style Transfer with RWKV-like Architecture  [[PDF](https://arxiv.org/abs/2412.19535)]
+
+[arxiv 2025.01] Single Trajectory Distillation for Accelerating Image and Video Style Transfer  [[PDF](https://arxiv.org/abs/2412.18945),[Page](https://single-trajectory-distillation.github.io/)] 
+
 
 [arxiv 2025.01]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
