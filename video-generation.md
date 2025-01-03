@@ -791,7 +791,7 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 [arxiv 2024.12] VAST 1.0: A Unified Framework for Controllable and Consistent Video Generation  [[PDF](https://arxiv.org/pdf/2412.16677)]
 
 
-[arxiv 2025.01]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
+[arxiv 2025.01]  RAIN: Real-time Animation Of Infinite Video Stream [[PDF](https://arxiv.org/abs/2412.19489),[Page](https://pscgylotti.github.io/pages/RAIN/)] ![Code](https://img.shields.io/github/stars/Pscgylotti/RAIN?style=social&label=Star)
 
 
 [arxiv 2025.01]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
@@ -1058,6 +1058,8 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2024.12] CustomTTT: Motion and Appearance Customized Video Generation via Test-Time Training  [[PDF](https://arxiv.org/abs/2412.15646),[Page](https://github.com/RongPiKing/CustomTTT)] ![Code](https://img.shields.io/github/stars/RongPiKing/CustomTTT?style=social&label=Star)
 
+[arxiv 2025.01] VideoMaker: Zero-shot Customized Video Generation with the Inherent Force of Video Diffusion Models  [[PDF](https://arxiv.org/abs/2412.19645),[Page](https://wutao-cs.github.io/VideoMaker/)] 
+
 
 [arxiv 2025.01]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -1315,6 +1317,9 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 [arxiv 2024.12] Re-Attentional Controllable Video Diffusion Editing  [[PDF](https://arxiv.org/abs/2412.11710),[Page](https://github.com/mdswyz/ReAtCo)] ![Code](https://img.shields.io/github/stars/mdswyz/ReAtCo?style=social&label=Star)
 
 [arxiv 2024.12] MIVE: New Design and Benchmark for Multi-Instance Video Editing  [[PDF](https://arxiv.org/abs/2412.12877),[Page](https://kaist-viclab.github.io/mive-site/)]
+
+[arxiv 2025.01] Generative Video Propagation  [[PDF](https://arxiv.org/abs/2412.19761),[Page](https://genprop.github.io//)]
+
 
 [arxiv 2025.01]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -1736,7 +1741,7 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2024.12] StreetCrafter: Street View Synthesis with Controllable Video Diffusion Models  [[PDF](https://arxiv.org/pdf/2412.13188)]
 
-[arxiv 2025.01]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
+[arxiv 2025.01]  DrivingWorld: Constructing World Model for Autonomous Driving via Video GPT [[PDF](https://arxiv.org/abs/2412.19505),[Page](https://huxiaotaostasy.github.io/DrivingWorld/index.html)] ![Code](https://img.shields.io/github/stars/YvanYin/DrivingWorld?style=social&label=Star)
 
 
 [arxiv 2025.01]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
