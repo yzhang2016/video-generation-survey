@@ -5,7 +5,7 @@
 
 [arxiv 2024.12] Training Large Language Models to Reason in a Continuous Latent Space  [[PDF](https://arxiv.org/pdf/2412.06769)]
 
-[arxiv 2024.12]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
+[arxiv 2025.01]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
 
 
 ### Multi-modality Generation 
@@ -85,7 +85,7 @@
 
 [arxiv 2024.12] InternLM-XComposer2.5-OmniLive: A Comprehensive Multimodal System for Long-term Streaming Video and Audio Interactions  [[PDF](https://arxiv.org/abs/2412.09596),[Page](https://github.com/InternLM/InternLM-XComposer/tree/main/InternLM-XComposer-2.5-OmniLive)] ![Code](https://img.shields.io/github/stars/InternLM/InternLM-XComposer/tree/main/InternLM-XComposer-2.5-OmniLive?style=social&label=Star) 
 
-[arxiv 2024.12]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
+[arxiv 2025.01]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
 
 
 
@@ -98,8 +98,10 @@
 
 [arxiv 2024.12] TeamCraft: A Benchmark for Multi-Modal Multi-Agent Systems in Minecraft  [[PDF](https://arxiv.org/abs/2412.05255),[Page](https://teamcraft-bench.github.io/)] ![Code](https://img.shields.io/github/stars/teamcraft-bench/teamcraft?style=social&label=Star) 
 
+[arxiv 2025.01] UnrealZoo: Enriching Photo-realistic Virtual Worlds for Embodied AI  [[PDF](https://arxiv.org/abs/2412.20977),[Page](http://unrealzoo.site/)] ![Code](https://img.shields.io/github/stars/UnrealZoo/unrealzoo-gym?style=social&label=Star) 
 
-[arxiv 2024.12]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
+
+[arxiv 2025.01]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
 
 
 ## Multi-modality Understanding 
@@ -129,7 +131,7 @@
 [arxiv 2024.12]  HoVLE: Unleashing the Power of Monolithic Vision-Language Models with Holistic Vision-Language Embedding [[PDF](https://arxiv.org/abs/2412.16158),[Page](https://huggingface.co/OpenGVLab/HoVLE)] 
 
 
-[arxiv 2024.12]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
+[arxiv 2025.01]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
 
 
 ## multi-modality evaluation 
@@ -142,7 +144,7 @@
 [arxiv 2024.11]Video-Guided Foley Sound Generation with Multimodal Controls [[PDF](https://arxiv.org/abs/2411.17698), [Page](https://ificl.github.io/MultiFoley/)]
 
 
-[arxiv 2024.12]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
+[arxiv 2025.01]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
 
 ## speed 
 [arxiv 2024.10]PyramidDrop: Accelerating Your Large Vision-Language Models via Pyramid Visual Redundancy Reduction[[PDF](https://arxiv.org/abs/2410.17247), [Page]()]
@@ -152,4 +154,4 @@
 
 
 
-[arxiv 2024.12]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
+[arxiv 2025.01]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
