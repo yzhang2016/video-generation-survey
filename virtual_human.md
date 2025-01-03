@@ -120,8 +120,9 @@
 
 [arxiv 2024.12]  HandsOnVLM: Vision-Language Models for Hand-Object Interaction Prediction [[PDF](https://arxiv.org/abs/2412.13187)]
 
-[arxiv 2025.01]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
+[arxiv 2025.01]  Interacted Object Grounding in Spatio-Temporal Human-Object Interactions [[PDF](https://arxiv.org/abs/2412.19542),[Page](https://github.com/DirtyHarryLYL/HAKE-AVA)] ![Code](https://img.shields.io/github/stars/DirtyHarryLYL/HAKE-AVA?style=social&label=Star)
 
+[arxiv 2025.01]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 
 ## environment 
