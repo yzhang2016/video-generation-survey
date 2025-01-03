@@ -108,6 +108,8 @@
 
 [arxiv 2024.12] ContextHOI: Spatial Context Learning for Human-Object Interaction Detection  [[PDF](https://arxiv.org/abs/2412.09050)]
 
+[arxiv 2025.01] DiffGrasp: Whole-Body Grasping Synthesis Guided by Object Motion Using a Diffusion Model  [[PDF](https://www.arxiv.org/abs/2412.20657),[Page](https://iscas3dv.github.io/DiffGrasp/)] ![Code](https://img.shields.io/github/stars/iscas3dv/DiffGrasp?style=social&label=Star)
+
 
 [arxiv 2025.01]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
