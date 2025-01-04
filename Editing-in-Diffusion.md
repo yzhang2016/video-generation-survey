@@ -434,6 +434,9 @@
 
 [arxiv 2025.01] Edicho: Consistent Image Editing in the Wild  [[PDF](https://arxiv.org/abs/2412.21079),[Page](https://ezioby.github.io/edicho/)] ![Code](https://img.shields.io/github/stars/EzioBy/edicho?style=social&label=Star)
 
+[arxiv 2025.01] RORem: Training a Robust Object Remover with Human-in-the-Loop  [[PDF](https://arxiv.org/abs/2501.00740),[Page](https://github.com/leeruibin/RORem)] ![Code](https://img.shields.io/github/stars/leeruibin/RORem?style=social&label=Star)
+
+
 [arxiv 2025.01]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 
@@ -1307,6 +1310,9 @@
 
 [arxiv 2024.12] Personalized Representation from Personalized Generation  [[PDF](https://arxiv.org/abs/2412.16156),[Page](https://personalized-rep.github.io/)] ![Code](https://img.shields.io/github/stars/ssundaram21/personalized-rep?style=social&label=Star)
 
+[arxiv 2025.01] Object-level Visual Prompts for Compositional Image Generation  [[PDF](https://arxiv.org/abs/2501.01424),[Page](https://snap-research.github.io/visual-composer/)] 
+
+[arxiv 2025.01]  Nested Attention: Semantic-aware Attention Values for Concept Personalization [[PDF](https://arxiv.org/abs/2501.01407),[Page](https://snap-research.github.io/NestedAttention/)] 
 
 [arxiv 2025.01]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -1791,7 +1797,9 @@ Creative Layout-to-Image Generation [[PDF](https://arxiv.org/pdf/2412.03859),[Pa
 
 [arxiv 2024.12] Affordance-Aware Object Insertion via Mask-Aware Dual Diffusion  [[PDF](https://arxiv.org/abs/2412.14462),[Page](https://kakituken.github.io/affordance-any.github.io/)] ![Code](https://img.shields.io/github/stars/KaKituken/affordance-aware-any?style=social&label=Star)
 
+[arxiv 2025.01] Object-level Visual Prompts for Compositional Image Generation  [[PDF](https://arxiv.org/abs/2501.01424),[Page](https://snap-research.github.io/visual-composer/)] 
 
+[arxiv 2025.01] EliGen: Entity-Level Controlled Image Generation with Regional Attention  [[PDF](https://arxiv.org/abs/2501.01097)]
 
 [arxiv 2025.01]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -2200,6 +2208,12 @@ Creative Layout-to-Image Generation [[PDF](https://arxiv.org/pdf/2412.03859),[Pa
 
 ## hand writing 
 [arxiv 2023.03]WordStylist: Styled Verbatim Handwritten Text Generation with Latent Diffusion Models[[PDF](https://arxiv.org/abs/2303.16576)]
+
+## training speed
+[arxiv 2025.01] Reconstruction vs. Generation:Taming Optimization Dilemma in Latent Diffusion Models  [[PDF](https://arxiv.org/abs/2501.01423),[Page](https://github.com/hustvl/LightningDiT)] ![Code](https://img.shields.io/github/stars/ustvl/LightningDiT?style=social&label=Star)
+
+[arxiv 2025.01]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
+
 
 
 ## speed
