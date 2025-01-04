@@ -484,6 +484,7 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2024.07] InVi: Object Insertion In Videos Using Off-the-Shelf Diffusion Models[[PDF](https://arxiv.org/abs/2407.10958)]
 
+[arxiv 2025.01] VideoAnydoor: High-fidelity Video Object Insertion with Precise Motion Control [[PDF](https://arxiv.org/abs/2501.01427),[Page](https://videoanydoor.github.io/)] 
 
 
 [arxiv 2025.01]  [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
@@ -872,6 +873,10 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2024.12] Switch-a-View: Few-Shot View Selection Learned from Edited Videos [[PDF](https://arxiv.org/abs/2412.18386),[Page](https://vision.cs.utexas.edu/projects/switch_a_view/)] 
 
+[arxiv 2025.01] Free-Form Motion Control: A Synthetic Video Generation Dataset with Controllable Camera and Object Motions [[PDF](https://arxiv.org/abs/2501.01425),[Page](https://henghuiding.github.io/SynFMC/)] 
+
+[arxiv 2025.01] OG3R: On Unifying Video Generation and Camera Pose Estimation [[PDF](https://arxiv.org/abs/2501.01409),[Page](https://paulchhuang.github.io/jog3rwebsite/)] 
+
 
 [arxiv 2025.01]  [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -946,14 +951,18 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 [arxiv 2024.08] SeeClear: Semantic Distillation Enhances Pixel Condensation for Video Super-Resolution  [[PDF](https://arxiv.org/abs/2410.05799),[Page](https://github.com/Tang1705/SeeClear-NeurIPS24)]
 
 
-[arxiv 2024.08]   [[PDF](),[Page]()]
+[arxiv 2025.01]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
-#  restoration 
+
+## restoration 
 [arxiv 2024.08] Towards Real-world Event-guided Low-light Video Enhancement and Deblurring[[PDF](https://arxiv.org/abs/2408.14916)]
 
 [arxiv 2024.08] Cross-Modal Temporal Alignment for Event-guided Video Deblurring[[PDF](https://arxiv.org/abs/2408.14930)]
 
-[arxiv 2024.08]   [[PDF](),[Page]()]
+[arxiv 2025.01]  SVFR: A Unified Framework for Generalized Video Face Restoration [[PDF](https://arxiv.org/pdf/2501.01235),[Page](https://wangzhiyaoo.github.io/SVFR/)] ![Code](https://img.shields.io/github/stars/wangzhiyaoo/SVFR?style=social&label=Star)
+
+[arxiv 2025.01]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
+
 
 ## downstream apps
 [arxiv 2023.11]Breathing Life Into Sketches Using Text-to-Video Priors [[PDF](https://arxiv.org/abs/2311.13608),[Page](https://livesketch.github.io/)]
