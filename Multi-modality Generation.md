@@ -11,6 +11,7 @@
 ### Multi-modality Generation 
 [arxiv 2024.11] Multimodal Alignment and Fusion: A Survey [[PDF](https://arxiv.org/abs/2411.17040)]
 
+[arxiv 2025.01]  Next Token Prediction Towards Multimodal Intelligence[[PDF](https://arxiv.org/abs/2412.18619),[Page](https://github.com/LMM101/Awesome-Multimodal-Next-Token-Prediction)] ![Code](https://img.shields.io/github/stars/LMM101/Awesome-Multimodal-Next-Token-Prediction?style=social&label=Star) 
 
 
 ### [Awesome-Multimodal-Large-Language-Models](https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models)
@@ -130,6 +131,9 @@
 
 [arxiv 2024.12]  HoVLE: Unleashing the Power of Monolithic Vision-Language Models with Holistic Vision-Language Embedding [[PDF](https://arxiv.org/abs/2412.16158),[Page](https://huggingface.co/OpenGVLab/HoVLE)] 
 
+[arxiv 2025.01]  VideoRefer Suite: Advancing Spatial-Temporal Object Understanding with Video LLM [[PDF](http://arxiv.org/abs/2501.00599),[Page](https://damo-nlp-sg.github.io/VideoRefer/)] ![Code](https://img.shields.io/github/stars/DAMO-NLP-SG/VideoRefer?style=social&label=Star) 
+
+[arxiv 2025.01] VideoChat-Flash: Hierarchical Compression for Long-Context Video Modeling  [[PDF](https://arxiv.org/abs/2501.00574),[Page](https://github.com/OpenGVLab/VideoChat-Flash)] ![Code](https://img.shields.io/github/stars/OpenGVLab/VideoChat-Flash?style=social&label=Star) 
 
 [arxiv 2025.01]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
 
