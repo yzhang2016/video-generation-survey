@@ -1147,6 +1147,9 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2024.12] INFP: Audio-Driven Interactive Head Generation in Dyadic Conversations  [[PDF](https://www.arxiv.org/pdf/2412.04037),[Page](https://grisoon.github.io/INFP/)]
 
+[arxiv 2025.01]  JoyGen: Audio-Driven 3D Depth-Aware Talking-Face Video Editing [[PDF](https://arxiv.org/abs/2501.01798),[Page](https://joy-mm.github.io/JoyGen/)] ![Code](https://img.shields.io/github/stars/JOY-MM/JoyGen?style=social&label=Star)
+
+
 
 [arxiv 2025.01]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -1256,6 +1259,8 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 [arxiv 2024.12]  Birth and Death of a Rose [[PDF](https://arxiv.org/abs/2412.05278),[Page](https://chen-geng.com/rose4d)] 
 
 [arxiv 2024.12]  DNF: Unconditional 4D Generation with Dictionary-based Neural Fields [[PDF](https://arxiv.org/abs/2412.05161),[Page](https://xzhang-t.github.io/project/DNF/)] 
+
+[arxiv 2025.01] AR4D: Autoregressive 4D Generation from Monocular Videos [[PDF](https://arxiv.org/abs/2501.01722),[Page](https://hanxinzhu-lab.github.io/AR4D/)] 
 
 [arxiv 2025.01]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
