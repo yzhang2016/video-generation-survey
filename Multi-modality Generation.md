@@ -135,7 +135,13 @@
 
 [arxiv 2025.01] VideoChat-Flash: Hierarchical Compression for Long-Context Video Modeling  [[PDF](https://arxiv.org/abs/2501.00574),[Page](https://github.com/OpenGVLab/VideoChat-Flash)] ![Code](https://img.shields.io/github/stars/OpenGVLab/VideoChat-Flash?style=social&label=Star) 
 
+[arxiv 2025.01] VITA-1.5: Towards GPT-4o Level Real-Time Vision and Speech Interaction  [[PDF](https://arxiv.org/abs/2501.01957),[Page](https://github.com/VITA-MLLM/VITA)] ![Code](https://img.shields.io/github/stars/VITA-MLLM/VITA?style=social&label=Star) 
+
+[arxiv 2025.01] Virgo: A Preliminary Exploration on Reproducing o1-like MLLM  [[PDF](https://arxiv.org/abs/2501.01904),[Page](https://github.com/RUCAIBox/Virgo)] ![Code](https://img.shields.io/github/stars/RUCAIBox/Virgo?style=social&label=Star) 
+
+
 [arxiv 2025.01]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
+
 
 
 ## multi-modality evaluation 
