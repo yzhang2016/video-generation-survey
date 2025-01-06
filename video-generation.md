@@ -950,6 +950,9 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2024.08] SeeClear: Semantic Distillation Enhances Pixel Condensation for Video Super-Resolution  [[PDF](https://arxiv.org/abs/2410.05799),[Page](https://github.com/Tang1705/SeeClear-NeurIPS24)]
 
+[arxiv 2025.01]  SeedVR: Seeding Infinity in Diffusion Transformer Towards Generic Video Restoration [[PDF](https://arxiv.org/abs/2501.01320),[Page](https://iceclear.github.io/projects/seedvr/)] 
+
+
 
 [arxiv 2025.01]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
