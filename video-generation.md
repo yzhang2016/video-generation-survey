@@ -1140,7 +1140,8 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2024.12] PortraitTalk: Towards Customizable One-Shot Audio-to-Talking Face Generation  [[PDF](https://arxiv.org/abs/2412.07754)]
 
-[arxiv 2024.12]  LatentSync: Audio Conditioned Latent Diffusion Models for Lip Sync [[PDF](https://arxiv.org/abs/2412.09262)]
+[arxiv 2024.12]  LatentSync: Audio Conditioned Latent Diffusion Models for Lip Sync [[PDF](https://arxiv.org/abs/2412.09262),[Page](https://github.com/bytedance/LatentSync)] ![Code](https://img.shields.io/github/stars/bytedance/LatentSync?style=social&label=Star)
+
 
 [arxiv 2024.12] CAP4D: Creating Animatable 4D Portrait Avatars with Morphable Multi-View Diffusion Models  [[PDF](https://arxiv.org/abs/2412.12093),[Page](https://felixtaubner.github.io/cap4d/)] ![Code](https://img.shields.io/github/stars/felixtaubner/cap4d/?style=social&label=Star)
 
