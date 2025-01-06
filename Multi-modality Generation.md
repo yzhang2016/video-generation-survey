@@ -83,7 +83,6 @@
 
 [arxiv 2024.12] Multimodal Latent Language Modeling with Next-Token Diffusion  [[PDF](https://arxiv.org/abs/2412.08635),[Page](https://aka.ms/GeneralAI)] 
 
-
 [arxiv 2024.12] InternLM-XComposer2.5-OmniLive: A Comprehensive Multimodal System for Long-term Streaming Video and Audio Interactions  [[PDF](https://arxiv.org/abs/2412.09596),[Page](https://github.com/InternLM/InternLM-XComposer/tree/main/InternLM-XComposer-2.5-OmniLive)] ![Code](https://img.shields.io/github/stars/InternLM/InternLM-XComposer/tree/main/InternLM-XComposer-2.5-OmniLive?style=social&label=Star) 
 
 [arxiv 2025.01]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
@@ -138,6 +137,8 @@
 [arxiv 2025.01] VITA-1.5: Towards GPT-4o Level Real-Time Vision and Speech Interaction  [[PDF](https://arxiv.org/abs/2501.01957),[Page](https://github.com/VITA-MLLM/VITA)] ![Code](https://img.shields.io/github/stars/VITA-MLLM/VITA?style=social&label=Star) 
 
 [arxiv 2025.01] Virgo: A Preliminary Exploration on Reproducing o1-like MLLM  [[PDF](https://arxiv.org/abs/2501.01904),[Page](https://github.com/RUCAIBox/Virgo)] ![Code](https://img.shields.io/github/stars/RUCAIBox/Virgo?style=social&label=Star) 
+
+[arxiv 2025.01]  Scaling of Search and Learning: A Roadmap to Reproduce o1from Reinforcement Learning Perspective [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
 
 
 [arxiv 2025.01]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
