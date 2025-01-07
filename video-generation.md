@@ -952,7 +952,7 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2025.01]  SeedVR: Seeding Infinity in Diffusion Transformer Towards Generic Video Restoration [[PDF](https://arxiv.org/abs/2501.01320),[Page](https://iceclear.github.io/projects/seedvr/)] 
 
-
+[arxiv 2025.01]  STAR: Spatial-Temporal Augmentation with Text-to-Video Models for Real-World Video Super-Resolution [[PDF](https://arxiv.org/abs/2501.02976),[Page](https://nju-pcalab.github.io/projects/STAR/)] ![Code](https://img.shields.io/github/stars/NJU-PCALab/STAR?style=social&label=Star)
 
 [arxiv 2025.01]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -1024,6 +1024,8 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 [arxiv 2024.12] Video Creation by Demonstration [[PDF](https://arxiv.org/abs/2412.09551),[Page](https://delta-diffusion.github.io/)] 
 
 [arxiv 2024.12] InterDyn: Controllable Interactive Dynamics with Video Diffusion Models [[PDF](https://arxiv.org/abs/2412.11785),[Page](https://interdyn.is.tue.mpg.de/)] 
+
+[arxiv 2025.01] TransPixar: Advancing Text-to-Video Generation with Transparency [[PDF](https://arxiv.org/abs/2501.03006),[Page](https://wileewang.github.io/TransPixar/)] ![Code](https://img.shields.io/github/stars/wileewang/TransPixar?style=social&label=Star)
 
 
 [arxiv 2025.01]  [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
@@ -1235,8 +1237,9 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2024.10] FrameBridge: Improving Image-to-Video Generation with Bridge Models [[PDF](https://arxiv.org/abs/2410.15371),[Page](https://framebridge-demo.github.io/)]
 
-[arxiv 2025.01]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
+[arxiv 2025.01] Through-The-Mask: Mask-based Motion Trajectories for Image-to-Video Generation [[PDF](https://arxiv.org/abs/1234.56789),[Page](https://guyyariv.github.io/TTM/)] 
 
+[arxiv 2025.01]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 
 ## 4D generation 
