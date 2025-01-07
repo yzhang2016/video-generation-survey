@@ -140,6 +140,9 @@
 
 [arxiv 2025.01]  Scaling of Search and Learning: A Roadmap to Reproduce o1from Reinforcement Learning Perspective [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
 
+[arxiv 2025.01]  Dispider: Enabling Video LLMs with Active Real-Time Interaction via Disentangled Perception, Decision, and Reaction [[PDF](https://arxiv.org/abs/2501.03218),[Page](https://github.com/Mark12Ding/Dispider)] ![Code](https://img.shields.io/github/stars/Mark12Ding/Dispider?style=social&label=Star) 
+
+
 
 [arxiv 2025.01]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
 
