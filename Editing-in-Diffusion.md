@@ -434,6 +434,9 @@
 
 [arxiv 2025.01] Edicho: Consistent Image Editing in the Wild  [[PDF](https://arxiv.org/abs/2412.21079),[Page](https://ezioby.github.io/edicho/)] ![Code](https://img.shields.io/github/stars/EzioBy/edicho?style=social&label=Star)
 
+[arxiv 2025.01]  Exploring Optimal Latent Trajetory for Zero-shot Image Editing [[PDF](https://arxiv.org/pdf/2501.03631)]
+
+
 [arxiv 2025.01]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 
@@ -917,6 +920,10 @@
 [arxiv 2024.12] PromptDresser: Improving the Quality and Controllability of Virtual Try-On via Generative Textual Prompt and Prompt-aware Mask  [[PDF](https://arxiv.org/abs/2412.16978),[Page](https://github.com/rlawjdghek/PromptDresser)] ![Code](https://img.shields.io/github/stars/rlawjdghek/PromptDresser?style=social&label=Star)
 
 [arxiv 2024.12] Fashionability-Enhancing Outfit Image Editing with Conditional Diffusion Model  [[PDF](https://arxiv.org/pdf/2412.18421)]
+
+[arxiv 2025.01] MC-VTON: Minimal Control Virtual Try-On Diffusion Transformer [[PDF](https://arxiv.org/abs/2501.03630)]
+
+
 
 [arxiv 2025.01]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -1513,6 +1520,7 @@ Cross-Attention Control [[PDF](https://arxiv.org/abs/2402.13404)]
 
 [arxiv 2024.12]  SVGDreamer++: Advancing Editability and Diversity in Text-Guided SVG Generation [[PDF](https://arxiv.org/abs/2411.17832)]
 
+[arxiv 2025.01] NeuralSVG: An Implicit Representation for Text-to-Vector Generation  [[PDF](https://arxiv.org/abs/2501.03992),[Page](https://sagipolaczek.github.io/NeuralSVG/)] ![Code](https://img.shields.io/github/stars/SagiPolaczek/NeuralSVG?style=social&label=Star)
 
 
 [arxiv 2025.01]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
