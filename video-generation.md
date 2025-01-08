@@ -214,6 +214,8 @@ A reading list of video generation
 
 [arxiv 2024.12] Dynamic-VLM: Simple Dynamic Visual Token Compression for VideoLLM [[PDF](https://arxiv.org/abs/2412.09530) ]
 
+[arxiv 2025.01] LLaVA-Mini: Efficient Image and Video Large Multimodal Models with One Vision Token [[PDF](https://arxiv.org/abs/2501.03895),[Page](https://huggingface.co/ICTNLP/llava-mini-llama-3.1-8b)] ![Code](https://img.shields.io/github/stars/LLaVA-Mini?style=social&label=Star)
+
 
 [arxiv 2025.01]  [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -707,6 +709,7 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2024.12] LeviTor: 3D Trajectory Oriented Image-to-Video Synthesis [[PDF](https://arxiv.org/abs/2412.15214),[Page](https://ppetrichor.github.io/levitor.github.io/)] ![Code](https://img.shields.io/github/stars/qiuyu96/LeviTor?style=social&label=Star)
 
+[arxiv 2025.01] Diffusion as Shader: 3D-aware Video Diffusion for Versatile Video Generation Control [[PDF](https://arxiv.org/abs/2501.03847),[Page](https://igl-hkust.github.io/das/more_results.html#mesh-to-video)] ![Code](https://img.shields.io/github/stars/IGL-HKUST/DiffusionAsShader?style=social&label=Star)
 
 
 
@@ -1027,6 +1030,8 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2025.01] TransPixar: Advancing Text-to-Video Generation with Transparency [[PDF](https://arxiv.org/abs/2501.03006),[Page](https://wileewang.github.io/TransPixar/)] ![Code](https://img.shields.io/github/stars/wileewang/TransPixar?style=social&label=Star)
 
+[arxiv 2025.01] Cosmos World Foundation Model Platform for Physical AI [[PDF](https://arxiv.org/abs/2501.03575),[Page](https://www.nvidia.com/en-us/ai/cosmos/)] ![Code](https://img.shields.io/github/stars/NVIDIA/Cosmos?style=social&label=Star)
+
 
 [arxiv 2025.01]  [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -1073,6 +1078,8 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 [arxiv 2024.12] CustomTTT: Motion and Appearance Customized Video Generation via Test-Time Training  [[PDF](https://arxiv.org/abs/2412.15646),[Page](https://github.com/RongPiKing/CustomTTT)] ![Code](https://img.shields.io/github/stars/RongPiKing/CustomTTT?style=social&label=Star)
 
 [arxiv 2025.01] VideoMaker: Zero-shot Customized Video Generation with the Inherent Force of Video Diffusion Models  [[PDF](https://arxiv.org/abs/2412.19645),[Page](https://wutao-cs.github.io/VideoMaker/)] 
+
+[arxiv 2025.01] Magic Mirror: ID-Preserved Video Generation in Video Diffusion Transformers  [[PDF](https://arxiv.org/abs/2501.03931),[Page](https://julianjuaner.github.io/projects/MagicMirror/)] ![Code](https://img.shields.io/github/stars/dvlab-research/MagicMirror/?style=social&label=Star)
 
 
 [arxiv 2025.01]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
@@ -1519,7 +1526,7 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2024.12] Generative Inbetweening through Frame-wise Conditions-Driven Video Generation  [[PDF](https://fcvg-inbetween.github.io/),[Page](https://fcvg-inbetween.github.io/)] ![Code](https://img.shields.io/github/stars/Tian-one/FCVG?style=social&label=Star)
 
-
+[arxiv 2025.01]  MoG: Motion-Aware Generative Frame Interpolation [[PDF](https://arxiv.org/abs/2501.03699),[Page](https://mcg-nju.github.io/MoG_Web/)] 
 
 [arxiv 2025.01]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -1810,6 +1817,9 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 
 [arxiv 2024.11]  Generative Omnimatte: Learning to Decompose Video into Layers [[PDF](https://arxiv.org/abs/2411.16683),[Page](https://gen-omnimatte.github.io/)]
+
+[arxiv 2025.01] Sa2VA: Marrying SAM2 with LLaVA for Dense Grounded Understanding of Images and Videos  [[PDF](https://arxiv.org/abs/2501.04001),[Page](https://lxtgh.github.io/project/sa2va/)] ![Code](https://img.shields.io/github/stars/magic-research/Sa2VA?style=social&label=Star)
+
 
 [arxiv 2025.01]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
