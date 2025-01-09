@@ -462,6 +462,9 @@
 
 [arxiv 2025.01] ACE++: Instruction-Based Image Creation and Editing via Context-Aware Content Filling  [[PDF](https://arxiv.org/abs/2501.02487),[Page](https://ali-vilab.github.io/ACE_plus_page/)] ![Code](https://img.shields.io/github/stars/ali-vilab/ACE_plus?style=social&label=Star)
 
+[arxiv 2025.01] EditAR: Unified Conditional Generation with Autoregressive Models  [[PDF](https://arxiv.org/abs/2501.04699),[Page](https://jitengmu.github.io/EditAR/)] ![Code](https://img.shields.io/github/stars/JitengMu/EditAR?style=social&label=Star)
+
+
 [arxiv 2025.01]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 
@@ -923,6 +926,7 @@
 
 [arxiv 2025.01] MC-VTON: Minimal Control Virtual Try-On Diffusion Transformer [[PDF](https://arxiv.org/abs/2501.03630)]
 
+[arxiv 2025.01] Enhancing Virtual Try-On with Synthetic Pairs and Error-Aware Noise Scheduling  [[PDF](https://arxiv.org/abs/2501.04666)]
 
 
 [arxiv 2025.01]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
@@ -2367,6 +2371,9 @@ Creative Layout-to-Image Generation [[PDF](https://arxiv.org/pdf/2412.03859),[Pa
 [arxiv 2024.12]  Self-Corrected Flow Distillation for Consistent One-Step and Few-Step Text-to-Image Generation [[PDF](https://arxiv.org/abs/2412.16906)]
 
 [arxiv 2024.12]  LatentCRF: Continuous CRF for Efficient Latent Diffusion [[PDF](https://arxiv.org/pdf/2412.18596)]
+
+[arxiv 2025.01] DGQ: Distribution-Aware Group Quantization for Text-to-Image Diffusion Models  [[PDF](https://arxiv.org/abs/2501.04304),[Page](https://ugonfor.kr/DGQ/)] ![Code](https://img.shields.io/github/stars/ugonfor/DGQ?style=social&label=Star)
+
 
 [arxiv 2025.01]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
