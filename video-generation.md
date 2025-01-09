@@ -1081,6 +1081,8 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2025.01] Magic Mirror: ID-Preserved Video Generation in Video Diffusion Transformers  [[PDF](https://arxiv.org/abs/2501.03931),[Page](https://julianjuaner.github.io/projects/MagicMirror/)] ![Code](https://img.shields.io/github/stars/dvlab-research/MagicMirror/?style=social&label=Star)
 
+[arxiv 2025.01] ConceptMaster: Multi-Concept Video Customization on Diffusion Transformer Models Without Test-Time Tuning  [[PDF](https://arxiv.org/abs/2501.04698),[Page](https://yuzhou914.github.io/ConceptMaster/)] 
+
 
 [arxiv 2025.01]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
