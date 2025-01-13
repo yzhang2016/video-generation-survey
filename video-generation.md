@@ -575,6 +575,8 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2024.12] DiTCtrl: Exploring Attention Control in Multi-Modal Diffusion Transformer for Tuning-Free Multi-Prompt Longer Video Generation [[PDF](https://arxiv.org/abs/2412.18597),[Page](https://onevfall.github.io/project_page/ditctrl/)] ![Code](https://img.shields.io/github/stars/TencentARC/DiTCtrl?style=social&label=Star)
 
+[arxiv 2025.01] Tuning-Free Long Video Generation via Global-Local Collaborative Diffusion [[PDF](https://arxiv.org/pdf/2501.05484)]
+
 
 [arxiv 2025.01]  [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -600,7 +602,7 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2024.1]360DVD: Controllable Panorama Video Generation with 360-Degree Video Diffusion Model [[PDF](https://arxiv.org/abs/2401.06578)]
 
-## Video Story /  Concept 
+## Story /  Concept 
 [arxiv 2023.05]TaleCrafter: Interactive Story Visualization with Multiple Characters [[PDF](https://arxiv.org/abs/2305.18247), [Page](https://videocrafter.github.io/TaleCrafter/)]
 
 [arxiv 2023.07]Animate-A-Story: Storytelling with Retrieval-Augmented Video Generation [[PDF](https://arxiv.org/abs/2307.06940), [Page](https://videocrafter.github.io/Animate-A-Story)]
@@ -618,6 +620,8 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 [arxiv 2024.05]DisenStudio: Customized Multi-subject Text-to-Video Generation with Disentangled Spatial Control [[PDF](https://arxiv.org/abs/2405.12796),[Page](https://forchchch.github.io/disenstudio.github.io/)]
 
 [arxiv 2024.11] DreamRunner: Fine-Grained Storytelling Video Generation with Retrieval-Augmented Motion Adaptation [[PDF](https://arxiv.org/abs/2411.16657),[Page](https://dreamrunner-story2video.github.io/)] ![Code](https://img.shields.io/github/stars/wz0919/DreamRunner?style=social&label=Star)
+
+[arxiv 2025.01] VideoAuteur: Towards Long Narrative Video Generation [[PDF](https://arxiv.org/abs/2501.06173),[Page](https://videoauteur.github.io/)] ![Code](https://img.shields.io/github/stars/lambert-x/VideoAuteur?style=social&label=Star)
 
 
 [arxiv 2025.01]  [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
@@ -957,6 +961,10 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2025.01]  STAR: Spatial-Temporal Augmentation with Text-to-Video Models for Real-World Video Super-Resolution [[PDF](https://arxiv.org/abs/2501.02976),[Page](https://nju-pcalab.github.io/projects/STAR/)] ![Code](https://img.shields.io/github/stars/NJU-PCALab/STAR?style=social&label=Star)
 
+[arxiv 2025.01]  SVFR: A Unified Framework for Generalized Video Face Restoration [[PDF](https://arxiv.org/pdf/2501.01235),[Page](https://wangzhiyaoo.github.io/SVFR/)] ![Code](https://img.shields.io/github/stars/wangzhiyaoo/SVFR?style=social&label=Star)
+
+
+
 [arxiv 2025.01]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 
@@ -1083,6 +1091,7 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2025.01] ConceptMaster: Multi-Concept Video Customization on Diffusion Transformer Models Without Test-Time Tuning  [[PDF](https://arxiv.org/abs/2501.04698),[Page](https://yuzhou914.github.io/ConceptMaster/)] 
 
+[arxiv 2025.01] Multi-subject Open-set Personalization in Video Generation  [[PDF](https://arxiv.org/abs/2501.06187),[Page](https://snap-research.github.io/open-set-video-personalization/)] 
 
 [arxiv 2025.01]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
