@@ -2166,6 +2166,9 @@ Creative Layout-to-Image Generation [[PDF](https://arxiv.org/pdf/2412.03859),[Pa
 
 [arxiv 2024.11] ChatGen: Automatic Text-to-Image Generation From FreeStyle Chatting  [[PDF](https://arxiv.org/abs/2411.17176)]
 
+[arxiv 2025.01] EmotiCrafter: Text-to-Emotional-Image Generation based on Valence-Arousal Model  [[PDF](https://arxiv.org/pdf/2501.05710)]
+
+
 [arxiv 2025.01]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 
