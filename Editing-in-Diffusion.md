@@ -928,6 +928,8 @@
 
 [arxiv 2025.01] Enhancing Virtual Try-On with Synthetic Pairs and Error-Aware Noise Scheduling  [[PDF](https://arxiv.org/abs/2501.04666)]
 
+[arxiv 2025.01]  1-2-1: Renaissance of Single-Network Paradigm for Virtual Try-On [[PDF](https://arxiv.org/abs/2501.05369),[Page](https://ningshuliang.github.io/2023/Arxiv/index.html)] ![Code](https://img.shields.io/github/stars/ningshuliang/1-2-1-MNVTON?style=social&label=Star)
+
 
 [arxiv 2025.01]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -2588,6 +2590,9 @@ Creative Layout-to-Image Generation [[PDF](https://arxiv.org/pdf/2412.03859),[Pa
 
 [arxiv 2024.09]Taming Diffusion Models for Image Restoration: A Review [[PDF](https://arxiv.org/abs/2409.10353)]
 
+[arxiv 2025.01] An Empirical Study of Autoregressive Pre-training from Videos  [[PDF](https://arxiv.org/pdf/2501.05453),[Page](https://brjathu.github.io/toto/)] 
+
+
 [arxiv 2025.01]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 
@@ -2612,10 +2617,11 @@ Creative Layout-to-Image Generation [[PDF](https://arxiv.org/pdf/2412.03859),[Pa
 
 [arxiv 2024.12] SnapGen: Taming High-Resolution Text-to-Image Models for Mobile Devices with Efficient Architectures and Training  [[PDF](),[Page](https://snap-research.github.io/snapgen/)] 
 
-[arxiv 2025.01]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
+[arxiv 2025.01]  Decentralized Diffusion Models [[PDF](https://arxiv.org/abs/2501.05450),[Page](https://decentralizeddiffusion.github.io/)] 
 
 
 [arxiv 2025.01]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
+
 
 
 
