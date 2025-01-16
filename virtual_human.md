@@ -51,6 +51,7 @@
 
 [arxiv 2024.12] ScaMo: Exploring the Scaling Law in Autoregressive Motion Generation Model  [[PDF](https://arxiv.org/abs/2412.14559),[Page](https://shunlinlu.github.io/ScaMo/)] ![Code](https://img.shields.io/github/stars/shunlinlu/ScaMo_code?style=social&label=Star)
 
+[arxiv 2025.01]  Make-A-Character 2: Animatable 3D Character Generation From a Single Image [[PDF](https://arxiv.org/pdf/2501.07870)]
 
 [arxiv 2025.01]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -79,6 +80,7 @@
 
 [arxiv 2024.12]  Dyn-HaMR: Recovering 4D Interacting Hand Motion from a Dynamic Camera [[PDF](https://arxiv.org/abs/),[Page](https://dyn-hamr.github.io/)] ![Code](https://img.shields.io/github/stars/ZhengdiYu/Dyn-HaMR?style=social&label=Star)
 
+[arxiv 2025.01]  Predicting 4D Hand Trajectory from Monocular Videos [[PDF](https://arxiv.org/abs/2501.08329),[Page](https://judyye.github.io/4dhands)]
 
 
 [arxiv 2025.01]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
@@ -109,6 +111,8 @@
 [arxiv 2024.12] ContextHOI: Spatial Context Learning for Human-Object Interaction Detection  [[PDF](https://arxiv.org/abs/2412.09050)]
 
 [arxiv 2025.01] DiffGrasp: Whole-Body Grasping Synthesis Guided by Object Motion Using a Diffusion Model  [[PDF](https://www.arxiv.org/abs/2412.20657),[Page](https://iscas3dv.github.io/DiffGrasp/)] ![Code](https://img.shields.io/github/stars/iscas3dv/DiffGrasp?style=social&label=Star)
+
+[arxiv 2025.01]  DAViD: Modeling Dynamic Affordance of 3D Objects using Pre-trained Video Diffusion Models [[PDF](https://arxiv.org/abs/2501.08333),[Page](https://snuvclab.github.io/david/)] ![Code](https://img.shields.io/github/stars/snuvclab/david?style=social&label=Star)
 
 
 [arxiv 2025.01]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
