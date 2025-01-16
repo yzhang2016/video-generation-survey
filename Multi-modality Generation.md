@@ -5,6 +5,8 @@
 
 [arxiv 2024.12] Training Large Language Models to Reason in a Continuous Latent Space  [[PDF](https://arxiv.org/pdf/2412.06769)]
 
+
+
 [arxiv 2025.01]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
 
 
@@ -12,6 +14,12 @@
 [arxiv 2024.11] Multimodal Alignment and Fusion: A Survey [[PDF](https://arxiv.org/abs/2411.17040)]
 
 [arxiv 2025.01]  Next Token Prediction Towards Multimodal Intelligence[[PDF](https://arxiv.org/abs/2412.18619),[Page](https://github.com/LMM101/Awesome-Multimodal-Next-Token-Prediction)] ![Code](https://img.shields.io/github/stars/LMM101/Awesome-Multimodal-Next-Token-Prediction?style=social&label=Star) 
+
+
+[arxiv 2025.01] MiniMax-01: Scaling Foundation Models with Lightning Attention  [[PDF](https://arxiv.org/abs/2501.08313),[Page](https://github.com/MiniMax-AI/MiniMax-01)] ![Code](https://img.shields.io/github/stars/MiniMax-AI/MiniMax-01?style=social&label=Star) 
+
+
+[arxiv 2025.01]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
 
 
 ### [Awesome-Multimodal-Large-Language-Models](https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models)
