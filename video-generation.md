@@ -470,6 +470,9 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2024.12] VideoDPO: Omni-Preference Alignment for Video Diffusion Generation [[PDF](https://arxiv.org/abs/2412.14167),[Page](https://videodpo.github.io/)] 
 
+[arxiv 2025.01] RepVideo: Rethinking Cross-Layer Representation for Video Generation [[PDF](https://arxiv.org/abs/2501.08994),[Page](https://vchitect.github.io/RepVid-Webpage/)] ![Code](https://img.shields.io/github/stars/Vchitect/RepVideo?style=social&label=Star)
+
+
 [arxiv 2025.01]  [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 
@@ -488,6 +491,7 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2025.01] VideoAnydoor: High-fidelity Video Object Insertion with Precise Motion Control [[PDF](https://arxiv.org/abs/2501.01427),[Page](https://videoanydoor.github.io/)] 
 
+[arxiv 2025.01]BlobGEN-Vid: Compositional Text-to-Video Generation with Blob Video Representations  [[PDF](https://arxiv.org/abs/2501.07647),[Page](https://blobgen-vid2.github.io/)] 
 
 [arxiv 2025.01]  [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -577,6 +581,7 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2025.01] Tuning-Free Long Video Generation via Global-Local Collaborative Diffusion [[PDF](https://arxiv.org/pdf/2501.05484)]
 
+[arxiv 2025.01] Ouroboros-Diffusion: Exploring Consistent Content Generation in Tuning-free Long Video Diffusion [[PDF](https://arxiv.org/abs/2501.09019)]
 
 [arxiv 2025.01]  [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -715,6 +720,11 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2025.01] Diffusion as Shader: 3D-aware Video Diffusion for Versatile Video Generation Control [[PDF](https://arxiv.org/abs/2501.03847),[Page](https://igl-hkust.github.io/das/more_results.html#mesh-to-video)] ![Code](https://img.shields.io/github/stars/IGL-HKUST/DiffusionAsShader?style=social&label=Star)
 
+[arxiv 2025.01] Go-with-the-Flow: Motion-Controllable Video Diffusion Models Using Real-Time Warped Noise [[PDF](https://arxiv.org/abs/2501.08331),[Page](https://vgenai-netflix-eyeline-research.github.io/Go-with-the-Flow/)] ![Code](https://img.shields.io/github/stars/VGenAI-Netflix-Eyeline-Research/Go-with-the-Flow?style=social&label=Star)
+
+[arxiv 2025.01] LayerAnimate:Layer-specific Control for Animation [[PDF](https://arxiv.org/abs/2501.08295),[Page](https://layeranimate.github.io/)] ![Code](https://img.shields.io/github/stars/IamCreateAI/LayerAnimate?style=social&label=Star)
+
+[arxiv 2025.01] Training-Free Motion-Guided Video Generation with Enhanced Temporal Consistency Using Motion Consistency Loss [[PDF](https://arxiv.org/abs/2501.07563v1),[Page](https://zhangxinyu-xyz.github.io/SimulateMotion.github.io/)] 
 
 
 [arxiv 2025.01]  [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
@@ -807,7 +817,6 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 
 
-
 ## autoregressive for video 
 
 [arxiv 2024.12]  Autoregressive Video Generation without Vector Quantization [[PDF](https://arxiv.org/abs/2412.14169),[Page](https://github.com/baaivision/NOVA)] ![Code](https://img.shields.io/github/stars/baaivision/NOVA?style=social&label=Star)
@@ -883,6 +892,9 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 [arxiv 2025.01] Free-Form Motion Control: A Synthetic Video Generation Dataset with Controllable Camera and Object Motions [[PDF](https://arxiv.org/abs/2501.01425),[Page](https://henghuiding.github.io/SynFMC/)] 
 
 [arxiv 2025.01] OG3R: On Unifying Video Generation and Camera Pose Estimation [[PDF](https://arxiv.org/abs/2501.01409),[Page](https://paulchhuang.github.io/jog3rwebsite/)] 
+
+[arxiv 2025.01] Go-with-the-Flow: Motion-Controllable Video Diffusion Models Using Real-Time Warped Noise [[PDF](https://arxiv.org/abs/2501.08331),[Page](https://vgenai-netflix-eyeline-research.github.io/Go-with-the-Flow/)] ![Code](https://img.shields.io/github/stars/VGenAI-Netflix-Eyeline-Research/Go-with-the-Flow?style=social&label=Star)
+
 
 
 [arxiv 2025.01]  [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
@@ -1620,6 +1632,8 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2024.12]  Is Your World Simulator a Good Story Presenter? A Consecutive Events-Based Benchmark for Future Long Video Generation [[PDF](https://arxiv.org/abs/),[Page](https://ypwang61.github.io/project/StoryEval/)] ![Code](https://img.shields.io/github/stars/ypwang61/StoryEval?style=social&label=Star)
 
+[arxiv 2025.01]  MEt3R: Measuring Multi-View Consistency in Generated Images [[PDF](https://arxiv.org/abs/2501.06336),[Page](https://geometric-rl.mpi-inf.mpg.de/met3r/)] ![Code](https://img.shields.io/github/stars/mohammadasim98/MEt3R?style=social&label=Star)
+
 
 [arxiv 2025.01]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -1680,6 +1694,9 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 [arxiv 2024.12]  AsymRnR: Video Diffusion Transformers Acceleration with Asymmetric Reduction and Restoration [[PDF](https://arxiv.org/abs/2412.11706)]
 
 [arxiv 2024.12]  SnapGen-V: Generating a Five-Second Video within Five Seconds on a Mobile Device [[PDF](https://arxiv.org/abs/2412.10494),[Page](https://snap-research.github.io/snapgen-v/)] 
+
+[arxiv 2025.01] Diffusion Adversarial Post-Training for One-Step Video Generation  [[PDF](https://arxiv.org/abs/2501.08316)]
+
 
 [arxiv 2025.01]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -1753,6 +1770,8 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2024.12] GenEx: Generating an Explorable World  [[PDF](https://arxiv.org/abs/2412.09624),[Page](http://genex.world/)] 
 
+[arxiv 2025.01] GameFactory: Creating New Games with Generative Interactive Videos  [[PDF](KwaiVGI/GameFactory),[Page](https://vvictoryuki.github.io/gamefactory/)] ![Code](https://img.shields.io/github/stars/KwaiVGI/GameFactory?style=social&label=Star)
+
 
 [arxiv 2025.01]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -1798,6 +1817,7 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2024.12] Prompt-A-Video: Prompt Your Video Diffusion Model via Preference-Aligned LLM  [[PDF](https://arxiv.org/abs/2412.15156),[Page](https://arxiv.org/abs/2412.15156)] 
 
+[arxiv 2025.01] Personalized Preference Fine-tuning of Diffusion Models  [[PDF](https://arxiv.org/pdf/2501.06655)]
 
 [arxiv 2025.01]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
