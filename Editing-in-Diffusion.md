@@ -436,6 +436,8 @@
 
 [arxiv 2025.01]  Exploring Optimal Latent Trajetory for Zero-shot Image Editing [[PDF](https://arxiv.org/pdf/2501.03631)]
 
+[arxiv 2025.01] FramePainter: Endowing Interactive Image Editing with Video Diffusion Priors  [[PDF](https://arxiv.org/abs/2501.08225),[Page](https://github.com/YBYBZhang/FramePainter)] ![Code](https://img.shields.io/github/stars/YBYBZhang/FramePainter?style=social&label=Star)
+
 
 [arxiv 2025.01]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -766,6 +768,9 @@
 [arxiv 2024.12] CoMPaSS: Enhancing Spatial Understanding in Text-to-Image Diffusion Models  [[PDF](https://arxiv.org/abs/2412.13195),[Page](https://github.com/blurgyy/CoMPaSS)] ![Code](https://img.shields.io/github/stars/blurgyy/CoMPaSS?style=social&label=Star)
 
 [arxiv 2025.01] E2EDiff: Direct Mapping from Noise to Data for Enhanced Diffusion Models  [[PDF](https://arxiv.org/abs/2412.21044)] 
+
+[arxiv 2025.01] Focus-N-Fix: Region-Aware Fine-Tuning for Text-to-Image Generation  [[PDF](https://arxiv.org/pdf/2501.06481)]
+
 
 [arxiv 2025.01]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -2141,6 +2146,9 @@ Creative Layout-to-Image Generation [[PDF](https://arxiv.org/pdf/2412.03859),[Pa
 
 [arxiv 2025.01] Single Trajectory Distillation for Accelerating Image and Video Style Transfer  [[PDF](https://arxiv.org/abs/2412.18945),[Page](https://single-trajectory-distillation.github.io/)] 
 
+[arxiv 2025.01]  MangaNinja: Line Art Colorization with Precise Reference Following
+ [[PDF](https://arxiv.org/abs/2501.08332),[Page](https://johanan528.github.io/MangaNinjia/)] ![Code](https://img.shields.io/github/stars/ali-vilab/MangaNinjia?style=social&label=Star)
+
 
 [arxiv 2025.01]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -2378,6 +2386,8 @@ Creative Layout-to-Image Generation [[PDF](https://arxiv.org/pdf/2412.03859),[Pa
 [arxiv 2024.12]  LatentCRF: Continuous CRF for Efficient Latent Diffusion [[PDF](https://arxiv.org/pdf/2412.18596)]
 
 [arxiv 2025.01] DGQ: Distribution-Aware Group Quantization for Text-to-Image Diffusion Models  [[PDF](https://arxiv.org/abs/2501.04304),[Page](https://ugonfor.kr/DGQ/)] ![Code](https://img.shields.io/github/stars/ugonfor/DGQ?style=social&label=Star)
+
+[arxiv 2025.01] Dissecting Bit-Level Scaling Laws in Quantizing Vision Generative Models  [[PDF](https://arxiv.org/abs/2501.06218)]
 
 
 [arxiv 2025.01]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
