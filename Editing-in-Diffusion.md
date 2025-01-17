@@ -1332,6 +1332,9 @@
 
 [arxiv 2025.01] ACE++: Instruction-Based Image Creation and Editing via Context-Aware Content Filling  [[PDF](https://arxiv.org/abs/2501.02487),[Page](https://ali-vilab.github.io/ACE_plus_page/)] ![Code](https://img.shields.io/github/stars/ali-vilab/ACE_plus?style=social&label=Star)
 
+[arxiv 2025.01]  AnyStory: Towards Unified Single and Multiple Subject Personalization in Text-to-Image Generation [[PDF](https://aigcdesigngroup.github.io/AnyStory/),[Page](https://aigcdesigngroup.github.io/AnyStory/)] 
+
+
 
 [arxiv 2025.01]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
