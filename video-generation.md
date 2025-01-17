@@ -166,7 +166,7 @@ A reading list of video generation
 
 
 
-## Video/Image VAE 
+## VAE
 [arxiv 2024.05]CV-VAE: A Compatible Video VAE for Latent Generative Video Models [[PDF](https://arxiv.org/abs/2405.20279),[Page](https://ailab-cvc.github.io/cvvae/index.html)] ![Code](https://img.shields.io/github/stars/AILab-CVC/CV-VAE?style=social&label=Star)
 
 [arxiv 2024.06]OmniTokenizer: A Joint Image-Video Tokenizer for Visual Generation[[PDF](https://arxiv.org/abs/2406.09399),[Page](https://github.com/FoundationVision/OmniTokenizer)] ![Code](https://img.shields.io/github/stars/FoundationVision/OmniTokenizer?style=social&label=Star)
@@ -197,7 +197,7 @@ A reading list of video generation
 
 [arxiv 2024.12] VidTwin: Video VAE with Decoupled Structure and Dynamics [[PDF](https://arxiv.org/abs/2412.17726),[Page](https://github.com/microsoft/VidTok)] ![Code](https://img.shields.io/github/stars/microsoft/VidTok?style=social&label=Star)
 
-
+[arxiv 2025.01] Learnings from Scaling Visual Tokenizers for Reconstruction and Generation [[PDF](https://arxiv.org/abs/2501.09755),[Page](https://vitok.github.io/)] 
 
 [arxiv 2025.01]  [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -1051,6 +1051,10 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 [arxiv 2025.01] TransPixar: Advancing Text-to-Video Generation with Transparency [[PDF](https://arxiv.org/abs/2501.03006),[Page](https://wileewang.github.io/TransPixar/)] ![Code](https://img.shields.io/github/stars/wileewang/TransPixar?style=social&label=Star)
 
 [arxiv 2025.01] Cosmos World Foundation Model Platform for Physical AI [[PDF](https://arxiv.org/abs/2501.03575),[Page](https://www.nvidia.com/en-us/ai/cosmos/)] ![Code](https://img.shields.io/github/stars/NVIDIA/Cosmos?style=social&label=Star)
+
+[arxiv 2025.01] SynthLight: Portrait Relighting with Diffusion Model by Learning to Re-render Synthetic Faces [[PDF](https://arxiv.org/abs/2501.09756),[Page](https://vrroom.github.io/synthlight/)] 
+
+[arxiv 2025.01] VanGogh: A Unified Multimodal Diffusion-based Framework for Video Colorization [[PDF](https://arxiv.org/abs/2501.09499),[Page](https://becauseimbatman0.github.io/VanGogh)] ![Code](https://img.shields.io/github/stars/BecauseImBatman0/VanGogh?style=social&label=Star)
 
 
 [arxiv 2025.01]  [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
