@@ -808,8 +808,10 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2024.12] VAST 1.0: A Unified Framework for Controllable and Consistent Video Generation  [[PDF](https://arxiv.org/pdf/2412.16677)]
 
-
 [arxiv 2025.01]  RAIN: Real-time Animation Of Infinite Video Stream [[PDF](https://arxiv.org/abs/2412.19489),[Page](https://pscgylotti.github.io/pages/RAIN/)] ![Code](https://img.shields.io/github/stars/Pscgylotti/RAIN?style=social&label=Star)
+
+[arxiv 2025.01]  X-Dyna: Expressive Dynamic Human Image Animation [[PDF](https://arxiv.org/abs/2501.10021),[Page](https://x-dyna.github.io/xdyna.github.io/)] ![Code](https://img.shields.io/github/stars/bytedance/X-Dyna?style=social&label=Star)
+
 
 
 [arxiv 2025.01]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
@@ -927,6 +929,8 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2024.12] OmniDrag: Enabling Motion Control for Omnidirectional Image-to-Video Generation  [[PDF](https://arxiv.org/abs/2412.09623),[Page](https://lwq20020127.github.io/OmniDrag/)] 
 
+[arxiv 2025.01] DiffuEraser: A Diffusion Model for Video Inpainting  [[PDF](https://arxiv.org/abs/2501.10018),[Page](https://github.com/lixiaowen-xw/DiffuEraser)] ![Code](https://img.shields.io/github/stars/lixiaowen-xw/DiffuEraser?style=social&label=Star)
+
 
 [arxiv 2025.01]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -975,6 +979,7 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2025.01]  SVFR: A Unified Framework for Generalized Video Face Restoration [[PDF](https://arxiv.org/pdf/2501.01235),[Page](https://wangzhiyaoo.github.io/SVFR/)] ![Code](https://img.shields.io/github/stars/wangzhiyaoo/SVFR?style=social&label=Star)
 
+[arxiv 2025.01]  DiffVSR: Enhancing Real-World Video Super-Resolution with Diffusion Models for Advanced Visual Quality and Temporal Consistency [[PDF](https://arxiv.org/abs/2501.10110),[Page](https://xh9998.github.io/DiffVSR-project/)] ![Code](https://img.shields.io/github/stars/xh9998/DiffVSR?style=social&label=Star)
 
 
 [arxiv 2025.01]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
