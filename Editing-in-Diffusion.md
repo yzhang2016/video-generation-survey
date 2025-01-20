@@ -785,6 +785,7 @@
 
 [arxiv 2025.01] CAT: Content-Adaptive Image Tokenization  [[PDF](https://arxiv.org/pdf/2501.03120)]
 
+[arxiv 2025.01] One-D-Piece: Image Tokenizer Meets Quality-Controllable Compression  [[PDF](https://arxiv.org/abs/2501.10064),[Page](https://turingmotors.github.io/one-d-piece-tokenizer)] 
 
 [arxiv 2025.01]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -2501,6 +2502,8 @@ Creative Layout-to-Image Generation [[PDF](https://arxiv.org/pdf/2412.03859),[Pa
 [arxiv 2024.12] T2I-FactualBench: Benchmarking the Factuality of Text-to-Image Models with Knowledge-Intensive Concepts  [[PDF](https://arxiv.org/abs/2412.04300)]
 
 [arxiv 2024.12]  BodyMetric: Evaluating the Realism of Human Bodies in Text-to-Image Generation [[PDF](https://arxiv.org/pdf/2412.04086)]
+
+[arxiv 2025.01] IE-Bench: Advancing the Measurement of Text-Driven Image Editing for Human Perception Alignment  [[PDF](https://arxiv.org/abs/2501.09927)]
 
 
 [arxiv 2025.01]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
