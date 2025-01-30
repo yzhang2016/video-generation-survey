@@ -540,6 +540,10 @@
 [arxiv 2025.01]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 
+## CFG
+[arxiv 2025.01] Visual Generation Without Guidance  [[PDF](https://arxiv.org/abs/2501.15420),[Page](https://github.com/thu-ml/GFT)] ![Code](https://img.shields.io/github/stars/thu-ml/GFT?style=social&label=Star)
+
+
 ## Chat for editing 
 [arxiv 2024.12] ChatDiT: A Training-Free Baseline for Task-Agnostic Free-Form Chatting with Diffusion Transformers  [[PDF](https://arxiv.org/abs/2412.12571),[Page](https://github.com/ali-vilab/ChatDiT)] ![Code](https://img.shields.io/github/stars/ali-vilab/ChatDiT?style=social&label=Star)
 
@@ -1335,6 +1339,7 @@
 
 [arxiv 2025.01]  AnyStory: Towards Unified Single and Multiple Subject Personalization in Text-to-Image Generation [[PDF](https://aigcdesigngroup.github.io/AnyStory/),[Page](https://aigcdesigngroup.github.io/AnyStory/)] 
 
+[arxiv 2025.01]  IC-Portrait: In-Context Matching for View-Consistent Personalized Portrait [[PDF](https://arxiv.org/abs/2501.17159)]
 
 
 [arxiv 2025.01]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
@@ -1420,8 +1425,9 @@
 
 [arxiv 2024.12] StoryWeaver: A Unified World Model for Knowledge-Enhanced Story Character Customization  [[PDF](https://arxiv.org/abs/2412.07375),[Page](https://github.com/Aria-Zhangjl/StoryWeaver)] ![Code](https://img.shields.io/github/stars/Aria-Zhangjl/StoryWeaver?style=social&label=Star)
 
+[arxiv 2025.01] One-Prompt-One-Story: Free-Lunch Consistent Text-to-Image Generation Using a Single Prompt  [[PDF](https://arxiv.org/abs/2501.13554),[Page](https://github.com/byliutao/1Prompt1Story)] ![Code](https://img.shields.io/github/stars/byliutao/1Prompt1Story?style=social&label=Star)
 
-[arxiv 2025.01]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
+[arxiv 2025.01]  Bringing Characters to New Stories: Training-Free Theme-Specific Image Generation via Dynamic Visual Prompting [[PDF](https://arxiv.org/abs/2501.15641)]
 
 
 [arxiv 2025.01]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
@@ -1825,6 +1831,10 @@ Creative Layout-to-Image Generation [[PDF](https://arxiv.org/pdf/2412.03859),[Pa
 
 [arxiv 2025.01]  MObI: Multimodal Object Inpainting Using Diffusion Models [[PDF](https://arxiv.org/pdf/2501.03173)]
 
+[arxiv 2025.01] Slot-Guided Adaptation of Pre-trained Diffusion Models for Object-Centric Learning and Compositional Generation
+  [[PDF](https://arxiv.org/abs/2501.15878),[Page](https://kaanakan.github.io/SlotAdapt/)] 
+
+
 
 [arxiv 2025.01]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -2182,6 +2192,12 @@ Creative Layout-to-Image Generation [[PDF](https://arxiv.org/pdf/2412.03859),[Pa
 
 [arxiv 2025.01]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
+## test-time computation
+[arxiv 2025.01]  Can We Generate Images with CoT? Let's Verify and Reinforce Image Generation Step by Step [[PDF](https://arxiv.org/abs/2501.13926),[Page](https://github.com/ZiyuGuo99/Image-Generation-CoT)] ![Code](https://img.shields.io/github/stars/ZiyuGuo99/Image-Generation-CoT?style=social&label=Star)
+
+[arxiv 2025.01]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
+
+
 
 ## Joint generation
 
@@ -2190,6 +2206,10 @@ Creative Layout-to-Image Generation [[PDF](https://arxiv.org/pdf/2412.03859),[Pa
 [arxiv 2025.01]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 
+## camera 
+[arxiv 2025.01] PreciseCam: Precise Camera Control for Text-to-Image Generation  [[PDF](https://arxiv.org/abs/2501.12910),[Page](https://graphics.unizar.es/projects/PreciseCam2024/#)]
+
+[arxiv 2025.01]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 
 ## Mesh generation
@@ -2507,6 +2527,8 @@ Creative Layout-to-Image Generation [[PDF](https://arxiv.org/pdf/2412.03859),[Pa
 
 [arxiv 2025.01] IE-Bench: Advancing the Measurement of Text-Driven Image Editing for Human Perception Alignment  [[PDF](https://arxiv.org/abs/2501.09927)]
 
+[arxiv 2025.01] IMAGINE-E: Image Generation Intelligence Evaluation of State-of-the-art Text-to-Image Models  [[PDF](https://arxiv.org/abs/2501.13920),[Page](https://github.com/jylei16/Imagine-e)] ![Code](https://img.shields.io/github/stars/jylei16/Imagine-e?style=social&label=Star)
+
 
 [arxiv 2025.01]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -2639,6 +2661,9 @@ Creative Layout-to-Image Generation [[PDF](https://arxiv.org/pdf/2412.03859),[Pa
 [arxiv 2024.12] SnapGen: Taming High-Resolution Text-to-Image Models for Mobile Devices with Efficient Architectures and Training  [[PDF](),[Page](https://snap-research.github.io/snapgen/)] 
 
 [arxiv 2025.01]  Decentralized Diffusion Models [[PDF](https://arxiv.org/abs/2501.05450),[Page](https://decentralizeddiffusion.github.io/)] 
+
+[arxiv 2025.01]  ARFlow: Autogressive Flow with Hybrid Linear Attention [[PDF](https://arxiv.org/abs/2501.16085)]
+
 
 
 [arxiv 2025.01]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
