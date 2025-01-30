@@ -152,6 +152,8 @@
 
 [arxiv 2025.01] LlamaV-o1: Rethinking Step-by-step Visual Reasoning in LLMs  [[PDF](https://arxiv.org/abs/2501.06186),[Page](https://mbzuai-oryx.github.io/LlamaV-o1/)] ![Code](https://img.shields.io/github/stars/mbzuai-oryx/LlamaV-o1?style=social&label=Star) 
 
+[arxiv 2025.01] VideoLLaMA 3: Frontier Multimodal Foundation Models for Image and Video Understanding  [[PDF](https://arxiv.org/abs/2501.13106),[Page](https://github.com/DAMO-NLP-SG/VideoLLaMA3)] ![Code](https://img.shields.io/github/stars/DAMO-NLP-SG/VideoLLaMA3?style=social&label=Star) 
+
 
 [arxiv 2025.01]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
 
