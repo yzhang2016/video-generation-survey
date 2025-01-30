@@ -53,6 +53,9 @@
 
 [arxiv 2025.01]  Make-A-Character 2: Animatable 3D Character Generation From a Single Image [[PDF](https://arxiv.org/pdf/2501.07870)]
 
+[arxiv 2025.01]  FlexMotion: Lightweight, Physics-Aware, and Controllable Human Motion Generation [[PDF](https://arxiv.org/abs/2501.16778)]
+
+
 [arxiv 2025.01]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 
