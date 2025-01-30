@@ -726,6 +726,8 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2025.01] Training-Free Motion-Guided Video Generation with Enhanced Temporal Consistency Using Motion Consistency Loss [[PDF](https://arxiv.org/abs/2501.07563v1),[Page](https://zhangxinyu-xyz.github.io/SimulateMotion.github.io/)] 
 
+[arxiv 2025.01] Separate Motion from Appearance: Customizing Motion via Customizing Text-to-Video Diffusion Models [[PDF](https://arxiv.org/abs/2501.16714)]
+
 
 [arxiv 2025.01]  [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -1061,6 +1063,7 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2025.01] VanGogh: A Unified Multimodal Diffusion-based Framework for Video Colorization [[PDF](https://arxiv.org/abs/2501.09499),[Page](https://becauseimbatman0.github.io/VanGogh)] ![Code](https://img.shields.io/github/stars/BecauseImBatman0/VanGogh?style=social&label=Star)
 
+[arxiv 2025.01] RelightVid: Temporal-Consistent Diffusion Model for Video Relighting [[PDF](https://arxiv.org/abs/2501.16330)]
 
 [arxiv 2025.01]  [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -1113,6 +1116,9 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 [arxiv 2025.01] ConceptMaster: Multi-Concept Video Customization on Diffusion Transformer Models Without Test-Time Tuning  [[PDF](https://arxiv.org/abs/2501.04698),[Page](https://yuzhou914.github.io/ConceptMaster/)] 
 
 [arxiv 2025.01] Multi-subject Open-set Personalization in Video Generation  [[PDF](https://arxiv.org/abs/2501.06187),[Page](https://snap-research.github.io/open-set-video-personalization/)] 
+
+[arxiv 2025.01] EchoVideo: Identity-Preserving Human Video Generation by Multimodal Feature Fusion  [[PDF](https://arxiv.org/abs/2501.13452)]
+
 
 [arxiv 2025.01]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -1810,6 +1816,9 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2025.01]  DrivingWorld: Constructing World Model for Autonomous Driving via Video GPT [[PDF](https://arxiv.org/abs/2412.19505),[Page](https://huxiaotaostasy.github.io/DrivingWorld/index.html)] ![Code](https://img.shields.io/github/stars/YvanYin/DrivingWorld?style=social&label=Star)
 
+[arxiv 2025.01] HERMES: A Unified Self-Driving World Model for Simultaneous 3D Scene Understanding and Generation  [[PDF](https://arxiv.org/abs/2501.14729),[Page](https://github.com/LMD0311/HERMES)] ![Code](https://img.shields.io/github/stars/LMD0311/HERMES?style=social&label=Star)
+
+
 
 [arxiv 2025.01]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -1827,6 +1836,9 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 [arxiv 2024.12] Prompt-A-Video: Prompt Your Video Diffusion Model via Preference-Aligned LLM  [[PDF](https://arxiv.org/abs/2412.15156),[Page](https://arxiv.org/abs/2412.15156)] 
 
 [arxiv 2025.01] Personalized Preference Fine-tuning of Diffusion Models  [[PDF](https://arxiv.org/pdf/2501.06655)]
+
+[arxiv 2025.01] Improving Video Generation with Human Feedback  [[PDF](https://arxiv.org/abs/2501.13918),[Page](https://gongyeliu.github.io/videoalign/)] 
+
 
 [arxiv 2025.01]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
