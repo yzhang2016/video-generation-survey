@@ -2180,15 +2180,16 @@ Creative Layout-to-Image Generation [[PDF](https://arxiv.org/pdf/2412.03859),[Pa
 
 [arxiv 2025.01] EmotiCrafter: Text-to-Emotional-Image Generation based on Valence-Arousal Model  [[PDF](https://arxiv.org/pdf/2501.05710)]
 
+[arxiv 2025.01]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
+
+
+## Joint generation
+
+[arxiv 2025.01] Orchid: Image Latent Diffusion for Joint Appearance and Geometry Generation  [[PDF](https://arxiv.org/abs/2501.13087),[Page](https://orchid3d.github.io/)] 
 
 [arxiv 2025.01]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 
-
-## world model 
-[arxiv 2024.10]  AVID: Adapting Video Diffusion Models to World Models [[PDF](https://arxiv.org/abs/2410.12822),[Page](https://github.com/microsoft/causica/tree/main/research_experiments/avid)]
-
-[arxiv 2025.01]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 
 ## Mesh generation
@@ -2393,6 +2394,7 @@ Creative Layout-to-Image Generation [[PDF](https://arxiv.org/pdf/2412.03859),[Pa
 
 [arxiv 2025.01] Dissecting Bit-Level Scaling Laws in Quantizing Vision Generative Models  [[PDF](https://arxiv.org/abs/2501.06218)]
 
+[arxiv 2025.01]  Accelerate High-Quality Diffusion Models with Inner Loop Feedback [[PDF](https://arxiv.org/abs/2501.13107),[Page](https://mgwillia.github.io/ilf/)] 
 
 [arxiv 2025.01]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
