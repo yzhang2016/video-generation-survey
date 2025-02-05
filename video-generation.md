@@ -472,6 +472,7 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2025.01] RepVideo: Rethinking Cross-Layer Representation for Video Generation [[PDF](https://arxiv.org/abs/2501.08994),[Page](https://vchitect.github.io/RepVid-Webpage/)] ![Code](https://img.shields.io/github/stars/Vchitect/RepVideo?style=social&label=Star)
 
+[arxiv 2025.02] VideoJAM: Joint Appearance-Motion Representations for Enhanced Motion Generation in Video Models [[PDF](https://arxiv.org/abs/2502.02492),[Page](https://hila-chefer.github.io/videojam-paper.github.io/)] 
 
 [arxiv 2025.01]  [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -816,7 +817,7 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 
 
-[arxiv 2025.01]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
+[arxiv 2025.02]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 
 
@@ -826,7 +827,7 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 [arxiv 2024.12]  Autoregressive Video Generation without Vector Quantization [[PDF](https://arxiv.org/abs/2412.14169),[Page](https://github.com/baaivision/NOVA)] ![Code](https://img.shields.io/github/stars/baaivision/NOVA?style=social&label=Star)
 
 
-[arxiv 2025.01]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
+[arxiv 2025.02]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 
 ## text 
@@ -934,7 +935,7 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 [arxiv 2025.01] DiffuEraser: A Diffusion Model for Video Inpainting  [[PDF](https://arxiv.org/abs/2501.10018),[Page](https://github.com/lixiaowen-xw/DiffuEraser)] ![Code](https://img.shields.io/github/stars/lixiaowen-xw/DiffuEraser?style=social&label=Star)
 
 
-[arxiv 2025.01]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
+[arxiv 2025.02]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 
 ## Video Quality 
@@ -984,7 +985,7 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 [arxiv 2025.01]  DiffVSR: Enhancing Real-World Video Super-Resolution with Diffusion Models for Advanced Visual Quality and Temporal Consistency [[PDF](https://arxiv.org/abs/2501.10110),[Page](https://xh9998.github.io/DiffVSR-project/)] ![Code](https://img.shields.io/github/stars/xh9998/DiffVSR?style=social&label=Star)
 
 
-[arxiv 2025.01]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
+[arxiv 2025.02]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 
 ## restoration 
@@ -994,7 +995,7 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2025.01]  SVFR: A Unified Framework for Generalized Video Face Restoration [[PDF](https://arxiv.org/pdf/2501.01235),[Page](https://wangzhiyaoo.github.io/SVFR/)] ![Code](https://img.shields.io/github/stars/wangzhiyaoo/SVFR?style=social&label=Star)
 
-[arxiv 2025.01]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
+[arxiv 2025.02]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 
 ## downstream apps
@@ -1120,7 +1121,7 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 [arxiv 2025.01] EchoVideo: Identity-Preserving Human Video Generation by Multimodal Feature Fusion  [[PDF](https://arxiv.org/abs/2501.13452)]
 
 
-[arxiv 2025.01]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
+[arxiv 2025.02]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 
 
@@ -1189,7 +1190,6 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2024.12]  LatentSync: Audio Conditioned Latent Diffusion Models for Lip Sync [[PDF](https://arxiv.org/abs/2412.09262),[Page](https://github.com/bytedance/LatentSync)] ![Code](https://img.shields.io/github/stars/bytedance/LatentSync?style=social&label=Star)
 
-
 [arxiv 2024.12] CAP4D: Creating Animatable 4D Portrait Avatars with Morphable Multi-View Diffusion Models  [[PDF](https://arxiv.org/abs/2412.12093),[Page](https://felixtaubner.github.io/cap4d/)] ![Code](https://img.shields.io/github/stars/felixtaubner/cap4d/?style=social&label=Star)
 
 [arxiv 2024.12]  VividFace: A Diffusion-Based Hybrid Framework for High-Fidelity Video Face Swapping [[PDF](https://arxiv.org/abs/2403.16999),[Page](https://hao-shao.com/projects/vividface.html)] ![Code](https://img.shields.io/github/stars/deepcs233/VividFace?style=social&label=Star)
@@ -1200,9 +1200,9 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2025.01]  JoyGen: Audio-Driven 3D Depth-Aware Talking-Face Video Editing [[PDF](https://arxiv.org/abs/2501.01798),[Page](https://joy-mm.github.io/JoyGen/)] ![Code](https://img.shields.io/github/stars/JOY-MM/JoyGen?style=social&label=Star)
 
+[arxiv 2025.02]  OmniHuman-1: Rethinking the Scaling-Up of One-Stage Conditioned Human Animation Models [[PDF](http://arxiv.org/abs/2502.01061),[Page](https://omnihuman-lab.github.io/)] 
 
-
-[arxiv 2025.01]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
+[arxiv 2025.02]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 
 
@@ -1213,10 +1213,10 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2024.12] HiFiVFS: High Fidelity Video Face Swapping  [[PDF](https://arxiv.org/abs/2411.18293),[Page](https://cxcx1996.github.io/HiFiVFS/)] 
 
-[arxiv 2025.01]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
+[arxiv 2025.02]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 
-[arxiv 2025.01]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
+[arxiv 2025.02]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 
 
@@ -1284,7 +1284,7 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2025.01] Through-The-Mask: Mask-based Motion Trajectories for Image-to-Video Generation [[PDF](https://arxiv.org/abs/1234.56789),[Page](https://guyyariv.github.io/TTM/)] 
 
-[arxiv 2025.01]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
+[arxiv 2025.02]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 
 ## 4D generation 
@@ -1314,7 +1314,7 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2025.01] AR4D: Autoregressive 4D Generation from Monocular Videos [[PDF](https://arxiv.org/abs/2501.01722),[Page](https://hanxinzhu-lab.github.io/AR4D/)] 
 
-[arxiv 2025.01]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
+[arxiv 2025.02]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 
 ## Audio-to-video Generation
@@ -1331,7 +1331,7 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 [arxiv 2024.12]  AV-Link: Temporally-Aligned Diffusion Features for Cross-Modal Audio-Video Generation [[PDF](https://arxiv.org/abs/2412.15191),[Page](https://snap-research.github.io/AVLink/)] ![Code](https://img.shields.io/github/stars/snap-research/AVLink?style=social&label=Star)
 
 
-[arxiv 2025.01]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
+[arxiv 2025.02]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 
 
@@ -1387,7 +1387,7 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 [arxiv 2025.01] Generative Video Propagation  [[PDF](https://arxiv.org/abs/2412.19761),[Page](https://genprop.github.io//)]
 
 
-[arxiv 2025.01]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
+[arxiv 2025.02]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 
 ## Editing with image model 
@@ -1509,7 +1509,7 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2024.12] DIVE: Taming DINO for Subject-Driven Video Editing  [[PDF](https://arxiv.org/abs/2412.03347),[Page](https://dino-video-editing.github.io/)] 
 
-[arxiv 2025.01]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
+[arxiv 2025.02]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 
 
@@ -1566,7 +1566,7 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2025.01]  MoG: Motion-Aware Generative Frame Interpolation [[PDF](https://arxiv.org/abs/2501.03699),[Page](https://mcg-nju.github.io/MoG_Web/)] 
 
-[arxiv 2025.01]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
+[arxiv 2025.02]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 
 
@@ -1591,13 +1591,13 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 
 
-[arxiv 2025.01]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
+[arxiv 2025.02]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 
 ## architecture/distribution
 [arxiv 2024.12] Efficient Continuous Video Flow Model for Video Prediction  [[PDF](https://arxiv.org/abs/2412.05633)]
 
-[arxiv 2025.01]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
+[arxiv 2025.02]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 
 
@@ -1650,7 +1650,7 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 [arxiv 2025.01]  MEt3R: Measuring Multi-View Consistency in Generated Images [[PDF](https://arxiv.org/abs/2501.06336),[Page](https://geometric-rl.mpi-inf.mpg.de/met3r/)] ![Code](https://img.shields.io/github/stars/mohammadasim98/MEt3R?style=social&label=Star)
 
 
-[arxiv 2025.01]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
+[arxiv 2025.02]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 
 
@@ -1713,7 +1713,7 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 [arxiv 2025.01] Diffusion Adversarial Post-Training for One-Step Video Generation  [[PDF](https://arxiv.org/abs/2501.08316)]
 
 
-[arxiv 2025.01]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
+[arxiv 2025.02]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 
 ## Dataset optimization 
@@ -1735,7 +1735,7 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2024.11] AutoVFX: Physically Realistic Video Editing from Natural Language Instructions [[PDF](https://arxiv.org/abs/2411.02394),[Page](https://haoyuhsu.github.io/autovfx-website/)]
 
-[arxiv 2025.01]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
+[arxiv 2025.02]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 ## CG2real
 [arxiv 2024.09] AMG: Avatar Motion Guided Video Generation [[PDF](https://arxiv.org/abs/2409.01502),[Page](https://github.com/zshyang/amg)]
@@ -1750,7 +1750,7 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2024.10] FashionR2R: Texture-preserving Rendered-to-Real Image Translation with Diffusion Models [[PDF](https://arxiv.org/pdf/2410.14429),[Page](https://rickhh.github.io/FashionR2R/)]
 
-[arxiv 2025.01]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
+[arxiv 2025.02]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 
 ## world model & interactive generation
@@ -1788,7 +1788,7 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 [arxiv 2025.01] GameFactory: Creating New Games with Generative Interactive Videos  [[PDF](KwaiVGI/GameFactory),[Page](https://vvictoryuki.github.io/gamefactory/)] ![Code](https://img.shields.io/github/stars/KwaiVGI/GameFactory?style=social&label=Star)
 
 
-[arxiv 2025.01]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
+[arxiv 2025.02]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 
 ## driving
@@ -1820,7 +1820,7 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 
 
-[arxiv 2025.01]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
+[arxiv 2025.02]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 
 
@@ -1840,7 +1840,7 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 [arxiv 2025.01] Improving Video Generation with Human Feedback  [[PDF](https://arxiv.org/abs/2501.13918),[Page](https://gongyeliu.github.io/videoalign/)] 
 
 
-[arxiv 2025.01]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
+[arxiv 2025.02]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 
 ## CV Related 
@@ -1873,7 +1873,7 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 [arxiv 2025.01] Sa2VA: Marrying SAM2 with LLaVA for Dense Grounded Understanding of Images and Videos  [[PDF](https://arxiv.org/abs/2501.04001),[Page](https://lxtgh.github.io/project/sa2va/)] ![Code](https://img.shields.io/github/stars/magic-research/Sa2VA?style=social&label=Star)
 
 
-[arxiv 2025.01]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
+[arxiv 2025.02]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 
 ## NLP related
