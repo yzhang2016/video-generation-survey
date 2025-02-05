@@ -7,7 +7,7 @@
 
 
 
-[arxiv 2025.01]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
+[arxiv 2025.02]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
 
 
 ### Multi-modality Generation 
@@ -19,7 +19,7 @@
 [arxiv 2025.01] MiniMax-01: Scaling Foundation Models with Lightning Attention  [[PDF](https://arxiv.org/abs/2501.08313),[Page](https://github.com/MiniMax-AI/MiniMax-01)] ![Code](https://img.shields.io/github/stars/MiniMax-AI/MiniMax-01?style=social&label=Star) 
 
 
-[arxiv 2025.01]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
+[arxiv 2025.02]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
 
 
 ### [Awesome-Multimodal-Large-Language-Models](https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models)
@@ -93,8 +93,14 @@
 
 [arxiv 2024.12] InternLM-XComposer2.5-OmniLive: A Comprehensive Multimodal System for Long-term Streaming Video and Audio Interactions  [[PDF](https://arxiv.org/abs/2412.09596),[Page](https://github.com/InternLM/InternLM-XComposer/tree/main/InternLM-XComposer-2.5-OmniLive)] ![Code](https://img.shields.io/github/stars/InternLM/InternLM-XComposer/tree/main/InternLM-XComposer-2.5-OmniLive?style=social&label=Star) 
 
-[arxiv 2025.01]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
+[arxiv 2025.02]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
 
+
+## Feedback 
+[arxiv 2025.02] DAMO: Data- and Model-aware Alignment of Multi-modal LLMs  [[PDF](https://arxiv.org/abs/2502.01943),[Page](https://github.com/injadlu/DAMO)] ![Code](https://img.shields.io/github/stars/injadlu/DAMO?style=social&label=Star) 
+
+
+[arxiv 2025.02]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
 
 
 
@@ -109,7 +115,7 @@
 [arxiv 2025.01] UnrealZoo: Enriching Photo-realistic Virtual Worlds for Embodied AI  [[PDF](https://arxiv.org/abs/2412.20977),[Page](http://unrealzoo.site/)] ![Code](https://img.shields.io/github/stars/UnrealZoo/unrealzoo-gym?style=social&label=Star) 
 
 
-[arxiv 2025.01]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
+[arxiv 2025.02]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
 
 
 ## Multi-modality Understanding 
@@ -155,7 +161,7 @@
 [arxiv 2025.01] VideoLLaMA 3: Frontier Multimodal Foundation Models for Image and Video Understanding  [[PDF](https://arxiv.org/abs/2501.13106),[Page](https://github.com/DAMO-NLP-SG/VideoLLaMA3)] ![Code](https://img.shields.io/github/stars/DAMO-NLP-SG/VideoLLaMA3?style=social&label=Star) 
 
 
-[arxiv 2025.01]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
+[arxiv 2025.02]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
 
 
 
@@ -169,7 +175,7 @@
 [arxiv 2024.11]Video-Guided Foley Sound Generation with Multimodal Controls [[PDF](https://arxiv.org/abs/2411.17698), [Page](https://ificl.github.io/MultiFoley/)]
 
 
-[arxiv 2025.01]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
+[arxiv 2025.02]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
 
 ## speed 
 [arxiv 2024.10]PyramidDrop: Accelerating Your Large Vision-Language Models via Pyramid Visual Redundancy Reduction[[PDF](https://arxiv.org/abs/2410.17247), [Page]()]
@@ -179,4 +185,4 @@
 
 
 
-[arxiv 2025.01]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
+[arxiv 2025.02]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
