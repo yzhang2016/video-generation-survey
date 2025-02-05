@@ -2,7 +2,7 @@
 ## Gaussian Face 
 [arxiv 2025.01] PERSE: Personalized 3D Generative Avatars from A Single Portrait  [[PDF](https://arxiv.org/abs/2412.21206),[Page](https://hyunsoocha.github.io/perse/)] ![Code](https://img.shields.io/github/stars/snuvclab/perse?style=social&label=Star)
 
-[arxiv 2025.01]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
+[arxiv 2025.02]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 
 
@@ -55,15 +55,19 @@
 
 [arxiv 2025.01]  FlexMotion: Lightweight, Physics-Aware, and Controllable Human Motion Generation [[PDF](https://arxiv.org/abs/2501.16778)]
 
+[arxiv 2025.02]  MotionLab: Unified Human Motion Generation and Editing via the Motion-Condition-Motion Paradigm [[PDF](https://arxiv.org/abs/2502.02358),[Page](https://diouo.github.io/motionlab.github.io/)] ![Code](https://img.shields.io/github/stars/Diouo/MotionLab?style=social&label=Star)
 
-[arxiv 2025.01]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
+[arxiv 2025.02] CASIM: Composite Aware Semantic Injection for Text to Motion Generation  [[PDF](https://arxiv.org/abs/2502.02063),[Page](https://cjerry1243.github.io/casim_t2m/)] ![Code](https://img.shields.io/github/stars/cjerry1243/casim_t2m?style=social&label=Star)
+
+
+[arxiv 2025.02]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 
 
 ## audio-to-gesture 
 [arxiv 2024.10] Emphasizing Semantic Consistency of Salient Posture for Speech-Driven Gesture Generation  [[PDF](https://arxiv.org/abs/2410.13786)]
 
-[arxiv 2025.01]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
+[arxiv 2025.02]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 
 
@@ -86,7 +90,7 @@
 [arxiv 2025.01]  Predicting 4D Hand Trajectory from Monocular Videos [[PDF](https://arxiv.org/abs/2501.08329),[Page](https://judyye.github.io/4dhands)]
 
 
-[arxiv 2025.01]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
+[arxiv 2025.02]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 
 
@@ -118,7 +122,7 @@
 [arxiv 2025.01]  DAViD: Modeling Dynamic Affordance of 3D Objects using Pre-trained Video Diffusion Models [[PDF](https://arxiv.org/abs/2501.08333),[Page](https://snuvclab.github.io/david/)] ![Code](https://img.shields.io/github/stars/snuvclab/david?style=social&label=Star)
 
 
-[arxiv 2025.01]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
+[arxiv 2025.02]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 
 ## Interaction Detection 
@@ -129,7 +133,7 @@
 
 [arxiv 2025.01]  Interacted Object Grounding in Spatio-Temporal Human-Object Interactions [[PDF](https://arxiv.org/abs/2412.19542),[Page](https://github.com/DirtyHarryLYL/HAKE-AVA)] ![Code](https://img.shields.io/github/stars/DirtyHarryLYL/HAKE-AVA?style=social&label=Star)
 
-[arxiv 2025.01]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
+[arxiv 2025.02]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 
 ## environment 
@@ -142,7 +146,7 @@
 [arxiv 2024.12]  ZeroHSI: Zero-Shot 4D Human-Scene Interaction [[PDF](https://arxiv.org/abs/2412.18600),[Page](https://awfuact.github.io/zerohsi/)] 
 
 
-[arxiv 2025.01]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
+[arxiv 2025.02]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 
 
@@ -151,4 +155,4 @@
 [arxiv 2024.11] FreeCap: Hybrid Calibration-Free Motion Capture in Open Environments  [[PDF](https://arxiv.org/abs/2411.04469)]
 
 
-[arxiv 2025.01]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
+[arxiv 2025.02]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
