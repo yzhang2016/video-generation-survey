@@ -59,6 +59,8 @@
 
 [arxiv 2025.02] CASIM: Composite Aware Semantic Injection for Text to Motion Generation  [[PDF](https://arxiv.org/abs/2502.02063),[Page](https://cjerry1243.github.io/casim_t2m/)] ![Code](https://img.shields.io/github/stars/cjerry1243/casim_t2m?style=social&label=Star)
 
+[arxiv 2025.02] Free-T2M: Frequency Enhanced Text-to-Motion Diffusion Model With Consistency Loss  [[PDF](https://arxiv.org/abs/2501.18232),[Page](https://github.com/Hxxxz0/Free-T2m)] ![Code](https://img.shields.io/github/stars/Hxxxz0/Free-T2m?style=social&label=Star)
+
 
 [arxiv 2025.02]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
