@@ -160,6 +160,9 @@
 
 [arxiv 2025.01] VideoLLaMA 3: Frontier Multimodal Foundation Models for Image and Video Understanding  [[PDF](https://arxiv.org/abs/2501.13106),[Page](https://github.com/DAMO-NLP-SG/VideoLLaMA3)] ![Code](https://img.shields.io/github/stars/DAMO-NLP-SG/VideoLLaMA3?style=social&label=Star) 
 
+[arxiv 2025.02] MINT: Mitigating Hallucinations in Large Vision-Language Models via Token Reduction  [[PDF](https://arxiv.org/abs/2502.00717)]
+
+[arxiv 2025.02]  PixelWorld: Towards Perceiving Everything as Pixels [[PDF](https://arxiv.org/abs/2501.19339),[Page](https://tiger-ai-lab.github.io/PixelWorld/)] ![Code](https://img.shields.io/github/stars/TIGER-AI-Lab/PixelWorld?style=social&label=Star) 
 
 [arxiv 2025.02]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
 
@@ -167,6 +170,14 @@
 
 ## multi-modality evaluation 
 [arxiv 2024.10] The Curse of Multi-Modalities: Evaluating Hallucinations of Large Multimodal Models across Language, Visual, and Audio[[PDF](https://arxiv.org/abs/2410.12787)]
+
+
+## Compression
+[arxiv 2025.02]  AdaSVD: Adaptive Singular Value Decomposition for Large Language Models [[PDF](https://arxiv.org/abs/2502.01403),[Page](https://github.com/ZHITENGLI/AdaSVD)] ![Code](https://img.shields.io/github/stars/ZHITENGLI/AdaSVD?style=social&label=Star) 
+
+[arxiv 2025.02]  Vision-centric Token Compression in Large Language Model [[PDF](https://arxiv.org/pdf/2502.00791)]
+
+[arxiv 2025.02]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
 
 
 ## audio 
