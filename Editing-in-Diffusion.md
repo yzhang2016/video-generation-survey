@@ -441,6 +441,11 @@
 
 [arxiv 2025.02]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
+## Analysis
+[arxiv 2025.02]  SliderSpace: Decomposing the Visual Capabilities of Diffusion Models [[PDF](https://arxiv.org/pdf/2502.01639),[Page](https://sliderspace.baulab.info/)] 
+
+[arxiv 2025.02]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
+
 
 ## Unified Generation
 
@@ -542,6 +547,13 @@
 
 ## CFG
 [arxiv 2025.01] Visual Generation Without Guidance  [[PDF](https://arxiv.org/abs/2501.15420),[Page](https://github.com/thu-ml/GFT)] ![Code](https://img.shields.io/github/stars/thu-ml/GFT?style=social&label=Star)
+
+[arxiv 2025.02] REG: Rectified Gradient Guidance for Conditional Diffusion Models  [[PDF](https://arxiv.org/pdf/2501.18865)]
+
+
+[arxiv 2025.02]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
+
+
 
 
 ## Chat for editing 
@@ -791,6 +803,9 @@
 
 [arxiv 2025.01] One-D-Piece: Image Tokenizer Meets Quality-Controllable Compression  [[PDF](https://arxiv.org/abs/2501.10064),[Page](https://turingmotors.github.io/one-d-piece-tokenizer)] 
 
+[arxiv 2025.02] Diffusion Autoencoders are Scalable Image Tokenizers  [[PDF](https://arxiv.org/abs/2501.18593),[Page](https://yinboc.github.io/dito/)] ![Code](https://img.shields.io/github/stars/yinboc/dito?style=social&label=Star)
+
+
 [arxiv 2025.02]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 
@@ -939,6 +954,8 @@
 [arxiv 2025.01] Enhancing Virtual Try-On with Synthetic Pairs and Error-Aware Noise Scheduling  [[PDF](https://arxiv.org/abs/2501.04666)]
 
 [arxiv 2025.01]  1-2-1: Renaissance of Single-Network Paradigm for Virtual Try-On [[PDF](https://arxiv.org/abs/2501.05369),[Page](https://ningshuliang.github.io/2023/Arxiv/index.html)] ![Code](https://img.shields.io/github/stars/ningshuliang/1-2-1-MNVTON?style=social&label=Star)
+
+[arxiv 2025.02] MFP-VTON: Enhancing Mask-Free Person-to-Person Virtual Try-On via Diffusion Transformer  [[PDF](https://arxiv.org/pdf/2502.01626)]
 
 
 [arxiv 2025.02]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
@@ -1185,7 +1202,6 @@
 
 [arxiv 2024.04]OneActor: Consistent Character Generation via Cluster-Conditioned Guidance [[PDF](https://arxiv.org/abs/2404.10267)]
 
-
 [arxiv 2024.04] MoA: Mixture-of-Attention for Subject-Context Disentanglement in Personalized Image Generation [[PDF](https://arxiv.org/abs/2404.11565),[Page](https://snap-research.github.io/mixture-of-attention)]
 
 [arxiv 2024.04]MultiBooth: Towards Generating All Your Concepts in an Image from Text[[PDF](https://arxiv.org/abs/2404.14239),[Page](https://multibooth.github.io/)] ![Code](https://img.shields.io/github/stars/chenyangzhu1/MultiBooth?style=social&label=Star)
@@ -1340,6 +1356,8 @@
 [arxiv 2025.01]  AnyStory: Towards Unified Single and Multiple Subject Personalization in Text-to-Image Generation [[PDF](https://aigcdesigngroup.github.io/AnyStory/),[Page](https://aigcdesigngroup.github.io/AnyStory/)] 
 
 [arxiv 2025.01]  IC-Portrait: In-Context Matching for View-Consistent Personalized Portrait [[PDF](https://arxiv.org/abs/2501.17159)]
+
+[arxiv 2025.02] Generating Multi-Image Synthetic Data for Text-to-Image Customization  [[PDF](https://arxiv.org/abs/2502.01720),[Page](https://www.cs.cmu.edu/~syncd-project/)] ![Code](https://img.shields.io/github/stars/nupurkmr9/syncd-project?style=social&label=Star)
 
 
 [arxiv 2025.02]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
@@ -2417,6 +2435,9 @@ Creative Layout-to-Image Generation [[PDF](https://arxiv.org/pdf/2412.03859),[Pa
 
 [arxiv 2025.01]  Accelerate High-Quality Diffusion Models with Inner Loop Feedback [[PDF](https://arxiv.org/abs/2501.13107),[Page](https://mgwillia.github.io/ilf/)] 
 
+[arxiv 2025.02]  Improved Training Technique for Latent Consistency Models [[PDF](https://arxiv.org/abs/2502.01441),[Page](https://github.com/quandao10/sLCT/)] ![Code](https://img.shields.io/github/stars/quandao10/sLCT?style=social&label=Star)
+
+
 [arxiv 2025.02]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 
@@ -2562,6 +2583,9 @@ Creative Layout-to-Image Generation [[PDF](https://arxiv.org/pdf/2412.03859),[Pa
 [arxiv 2025.01]  VisionReward: Fine-Grained Multi-Dimensional Human Preference Learning for Image and Video Generation [[PDF](https://arxiv.org/abs/2412.21059),[Page](https://github.com/THUDM/VisionReward)] ![Code](https://img.shields.io/github/stars/THUDM/VisionReward?style=social&label=Star)
 
 [arxiv 2025.02] Calibrated Multi-Preference Optimization for Aligning Diffusion Models  [[PDF](https://arxiv.org/pdf/2502.02588) ]
+
+[arxiv 2025.02]  Diffusion Model as a Noise-Aware Latent Reward Model for Step-Level Preference Optimization [[PDF](https://arxiv.org/abs/2502.01051),[Page](https://github.com/casiatao/LPO)] ![Code](https://img.shields.io/github/stars/casiatao/LPO?style=social&label=Star)
+
 
 [arxiv 2025.02]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
