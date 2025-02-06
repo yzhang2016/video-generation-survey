@@ -48,7 +48,6 @@
 
 [arxiv 2024.01]Taiyi-Diffusion-XL: Advancing Bilingual Text-to-Image Generation with Large Vision-Language Model Support [[PDF](https://arxiv.org/abs/2401.14688)]
 
-
 [arxiv 2024.02]Playground v2.5: Three Insights towards Enhancing Aesthetic Quality in Text-to-Image Generation [[PDF](https://arxiv.org/abs/2402.17245),[Page](https://huggingface.co/playgroundai/playground-v2.5-1024px-aesthetic)]
 
 [arxiv 2024.03]SD3: Scaling Rectified Flow Transformers for High-Resolution Image Synthesis [[PDF](https://arxiv.org/abs/2403.03206)]
@@ -74,7 +73,11 @@
 
 [arxiv 2024.10] Efficient High-Resolution Image Synthesis with Linear Diffusion Transformer  [[PDF](https://arxiv.org/abs/2410.10629),[Page](https://nvlabs.github.io/Sana/)]
 
-[arxiv 2024.08] [[PDF](),[Page]()]
+[arxiv 2025.02] SANA 1.5: Efficient Scaling of Training-Time and Inference-Time Compute in Linear Diffusion Transformer  [[PDF](https://arxiv.org/abs/2501.18427),[Page](https://github.com/NVlabs/Sana)] ![Code](https://img.shields.io/github/stars/NVlabs/Sana?style=social&label=Star)
+
+[arxiv 2025.02]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
+
+
 
 
 ## GAN/VAE/Transformer-based 
@@ -114,7 +117,8 @@
 [arxiv 2024.09]MaskBit: Embedding-free Image Generation via Bit Token [[PDF](https://arxiv.org/abs/2409.16211),[Page](https://weber-mark.github.io/projects/maskbit.html)]
 
 
-[arxiv 2024.10] [[PDF](),[Page]()]
+[arxiv 2025.02]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
+
 
 ## autoregressive 
 [arxiv 2023.07]Scaling Autoregressive Multi-Modal Models: Pretraining and Instruction Tuning [[PDF](https://ai.meta.com/research/publications/scaling-autoregressive-multi-modal-models-pretraining-and-instruction-tuning/)]
@@ -135,8 +139,7 @@
 
 [arxiv 2024.10] Fluid: Scaling Autoregressive Text-to-image Generative Models with Continuous Tokens[[PDF](https://arxiv.org/abs/2410.13863)]
 
-[arxiv 2024.10] [[PDF](),[Page]()]
-
+[arxiv 2025.02]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 
 
