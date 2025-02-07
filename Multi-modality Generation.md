@@ -164,6 +164,10 @@
 
 [arxiv 2025.02]  PixelWorld: Towards Perceiving Everything as Pixels [[PDF](https://arxiv.org/abs/2501.19339),[Page](https://tiger-ai-lab.github.io/PixelWorld/)] ![Code](https://img.shields.io/github/stars/TIGER-AI-Lab/PixelWorld?style=social&label=Star) 
 
+[arxiv 2025.02] Ola: Pushing the Frontiers of Omni-Modal Language Model with Progressive Modality Alignment  [[PDF](https://arxiv.org/abs/2502.04328),[Page](https://ola-omni.github.io/)] ![Code](https://img.shields.io/github/stars/Ola-Omni/Ola?style=social&label=Star) 
+
+
+
 [arxiv 2025.02]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
 
 
@@ -178,6 +182,9 @@
 [arxiv 2025.02]  Vision-centric Token Compression in Large Language Model [[PDF](https://arxiv.org/pdf/2502.00791)]
 
 [arxiv 2025.02]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
+
+## few-shot
+[arxiv 2025.02]  Efficient Few-Shot Continual Learning in Vision-Language Models [[PDF](https://arxiv.org/pdf/2502.04098)]
 
 
 ## audio 
