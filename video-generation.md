@@ -731,7 +731,7 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2025.02] VidSketch: Hand-drawn Sketch-Driven Video Generation with Diffusion Control  [[PDF](https://arxiv.org/abs/2502.01101),[Page](https://csfufu.github.io/vid_sketch/)] ![Code](https://img.shields.io/github/stars/CSfufu/VidSketch?style=social&label=Star)
 
-
+[arxiv 2025.02] MotionCanvas: Cinematic Shot Design with Controllable Image-to-Video Generation  [[PDF](https://arxiv.org/abs/2502.04299),[Page](https://motion-canvas25.github.io/)] 
 
 [arxiv 2025.02]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -1290,6 +1290,10 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2025.01] Through-The-Mask: Mask-based Motion Trajectories for Image-to-Video Generation [[PDF](https://arxiv.org/abs/1234.56789),[Page](https://guyyariv.github.io/TTM/)] 
 
+[arxiv 2025.02] MotionAgent: Fine-grained Controllable Video Generation via Motion Field Agent  [[PDF](https://arxiv.org/pdf/2502.03207)]
+
+
+
 [arxiv 2025.02]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 
@@ -1337,6 +1341,8 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 [arxiv 2024.12]  AV-Link: Temporally-Aligned Diffusion Features for Cross-Modal Audio-Video Generation [[PDF](https://arxiv.org/abs/2412.15191),[Page](https://snap-research.github.io/AVLink/)] ![Code](https://img.shields.io/github/stars/snap-research/AVLink?style=social&label=Star)
 
 [arxiv 2025.02]  AGAV-Rater: Enhancing LMM for AI-Generated Audio-Visual Quality Assessment [[PDF](https://arxiv.org/abs/2501.18314),[Page](https://agav-rater.github.io/)] 
+
+[arxiv 2025.02] UniForm: A Unified Diffusion Transformer for Audio-Video Generation  [[PDF](https://arxiv.org/abs/2502.03897),[Page](https://uniform-t2av.github.io/)] 
 
 
 [arxiv 2025.02]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
@@ -1394,6 +1400,7 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2025.01] Generative Video Propagation  [[PDF](https://arxiv.org/abs/2412.19761),[Page](https://genprop.github.io//)]
 
+[arxiv 2025.02]  DynVFX: Augmenting Real Videos with Dynamic Content [[PDF](https://arxiv.org/abs/2502.03621),[Page](https://dynvfx.github.io/)] 
 
 [arxiv 2025.02]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -1573,6 +1580,9 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 [arxiv 2024.12] Generative Inbetweening through Frame-wise Conditions-Driven Video Generation  [[PDF](https://fcvg-inbetween.github.io/),[Page](https://fcvg-inbetween.github.io/)] ![Code](https://img.shields.io/github/stars/Tian-one/FCVG?style=social&label=Star)
 
 [arxiv 2025.01]  MoG: Motion-Aware Generative Frame Interpolation [[PDF](https://arxiv.org/abs/2501.03699),[Page](https://mcg-nju.github.io/MoG_Web/)] 
+
+[arxiv 2025.02]  Seeing World Dynamics in a Nutshell [[PDF](https://arxiv.org/pdf/2502.03465),[Page](https://github.com/Nut-World/NutWorld)] ![Code](https://img.shields.io/github/stars/Nut-World/NutWorld?style=social&label=Star)
+
 
 [arxiv 2025.02]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
