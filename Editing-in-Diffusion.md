@@ -438,6 +438,7 @@
 
 [arxiv 2025.01] FramePainter: Endowing Interactive Image Editing with Video Diffusion Priors  [[PDF](https://arxiv.org/abs/2501.08225),[Page](https://github.com/YBYBZhang/FramePainter)] ![Code](https://img.shields.io/github/stars/YBYBZhang/FramePainter?style=social&label=Star)
 
+[arxiv 2025.02] PartEdit: Fine-Grained Image Editing using Pre-Trained Diffusion Models  [[PDF](https://arxiv.org/abs/2502.04050),[Page](https://partedit.github.io/PartEdit/)]
 
 [arxiv 2025.02]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -549,6 +550,10 @@
 [arxiv 2025.01] Visual Generation Without Guidance  [[PDF](https://arxiv.org/abs/2501.15420),[Page](https://github.com/thu-ml/GFT)] ![Code](https://img.shields.io/github/stars/thu-ml/GFT?style=social&label=Star)
 
 [arxiv 2025.02] REG: Rectified Gradient Guidance for Conditional Diffusion Models  [[PDF](https://arxiv.org/pdf/2501.18865)]
+
+[arxiv 2025.02]  DICE: Distilling Classifier-Free Guidance into Text Embeddings [[PDF](https://arxiv.org/pdf/2502.03726)]
+
+[arxiv 2025.02] Variational Control for Guidance in Diffusion Models  [[PDF](https://arxiv.org/pdf/2502.03686)]
 
 
 [arxiv 2025.02]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
@@ -805,6 +810,9 @@
 
 [arxiv 2025.02] Diffusion Autoencoders are Scalable Image Tokenizers  [[PDF](https://arxiv.org/abs/2501.18593),[Page](https://yinboc.github.io/dito/)] ![Code](https://img.shields.io/github/stars/yinboc/dito?style=social&label=Star)
 
+[arxiv 2025.02]  Masked Autoencoders Are Effective Tokenizers for Diffusion Models [[PDF](https://arxiv.org/abs/2502.03444)]
+
+
 
 [arxiv 2025.02]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -956,6 +964,8 @@
 [arxiv 2025.01]  1-2-1: Renaissance of Single-Network Paradigm for Virtual Try-On [[PDF](https://arxiv.org/abs/2501.05369),[Page](https://ningshuliang.github.io/2023/Arxiv/index.html)] ![Code](https://img.shields.io/github/stars/ningshuliang/1-2-1-MNVTON?style=social&label=Star)
 
 [arxiv 2025.02] MFP-VTON: Enhancing Mask-Free Person-to-Person Virtual Try-On via Diffusion Transformer  [[PDF](https://arxiv.org/pdf/2502.01626)]
+
+[arxiv 2025.02] TRUEPOSE: Human-Parsing-guided Attention Diffusion for Full-ID Preserving Pose Transfer  [[PDF](https://arxiv.org/pdf/2502.03426)]
 
 
 [arxiv 2025.02]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
@@ -2037,6 +2047,9 @@ Creative Layout-to-Image Generation [[PDF](https://arxiv.org/pdf/2412.03859),[Pa
 
 [arxiv 2025.02] One Diffusion Step to Real-World Super-Resolution via Flow Trajectory Distillation  [[PDF](https://arxiv.org/abs/2502.01993),[Page](https://github.com/JianzeLi-114/FluxSR)] ![Code](https://img.shields.io/github/stars/JianzeLi-114/FluxSR?style=social&label=Star)
 
+[arxiv 2025.02] DeblurDiff: Real-World Image Deblurring with Generative Diffusion Models  [[PDF](https://arxiv.org/abs/2502.03810),[Page](https://github.com/kkkls/DeblurDiff)] ![Code](https://img.shields.io/github/stars/kkkls/DeblurDiff?style=social&label=Star)
+
+
 [arxiv 2025.02]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 
@@ -2510,6 +2523,9 @@ Creative Layout-to-Image Generation [[PDF](https://arxiv.org/pdf/2412.03859),[Pa
 [arxiv 2024.11]  Diffusion Models as Cartoonists! The Curious Case of High Density Regions [[PDF](https://arxiv.org/pdf/2411.01293)]
 
 [arxiv 2024.12] DMin: Scalable Training Data Influence Estimation for Diffusion Models  [[PDF](https://arxiv.org/abs/2412.08637）
+
+[arxiv 2025.02]  ConceptAttention: Diffusion Transformers Learn Highly Interpretable Features [[PDF](https://arxiv.org/pdf/2502.04320)]
+
 
 [arxiv 2025.02]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
