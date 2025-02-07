@@ -1398,6 +1398,10 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2024.12] MIVE: New Design and Benchmark for Multi-Instance Video Editing  [[PDF](https://arxiv.org/abs/2412.12877),[Page](https://kaist-viclab.github.io/mive-site/)]
 
+[arxiv 2024.12] AniGS: Animatable Gaussian Avatar from a Single Image with Inconsistent Gaussian Reconstruction  [[PDF](https://arxiv.org/pdf/2412.02684),[Page](https://lingtengqiu.github.io/2024/AniGS/)] ![Code](https://img.shields.io/github/stars/aigc3d/AniGS?style=social&label=Star)
+
+
+
 [arxiv 2025.01] Generative Video Propagation  [[PDF](https://arxiv.org/abs/2412.19761),[Page](https://genprop.github.io//)]
 
 [arxiv 2025.02]  DynVFX: Augmenting Real Videos with Dynamic Content [[PDF](https://arxiv.org/abs/2502.03621),[Page](https://dynvfx.github.io/)] 
