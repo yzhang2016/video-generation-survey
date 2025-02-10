@@ -93,6 +93,9 @@
 
 [arxiv 2024.12] InternLM-XComposer2.5-OmniLive: A Comprehensive Multimodal System for Long-term Streaming Video and Audio Interactions  [[PDF](https://arxiv.org/abs/2412.09596),[Page](https://github.com/InternLM/InternLM-XComposer/tree/main/InternLM-XComposer-2.5-OmniLive)] ![Code](https://img.shields.io/github/stars/InternLM/InternLM-XComposer/tree/main/InternLM-XComposer-2.5-OmniLive?style=social&label=Star) 
 
+[arxiv 2025.02] Long-VITA: Scaling Large Multi-modal Models to 1 Million Tokens with Leading Short-Context Accuray  [[PDF](https://arxiv.org/abs/2502.05177),[Page](https://github.com/VITA-MLLM/Long-VITA)] ![Code](https://img.shields.io/github/stars/VITA-MLLM/Long-VITA?style=social&label=Star) 
+
+
 [arxiv 2025.02]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
 
 
