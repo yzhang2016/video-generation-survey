@@ -400,6 +400,11 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2025.01] Open-Sora: Democratizing Efficient Video Production for All  [[PDF](https://arxiv.org/pdf/2412.20404),[Page](https://github.com/hpcaitech/Open-Sora)] ![Code](https://img.shields.io/github/stars/hpcaitech/Open-Sora?style=social&label=Star)
 
+[arxiv 2025.02]  FlashVideo:Flowing Fidelity to Detail for Efficient High-Resolution Video Generation [[PDF](https://arxiv.org/abs/2502.05179),[Page](https://github.com/FoundationVision/FlashVideo)] ![Code](https://img.shields.io/github/stars/FoundationVision/FlashVideo?style=social&label=Star)
+
+[arxiv 2025.02] Goku: Flow Based Video Generative Foundation Models  [[PDF](https://arxiv.org/abs/2502.04896),[Page](https://saiyan-world.github.io/goku/)] ![Code](https://img.shields.io/github/stars/Saiyan-World/goku?style=social&label=Star)
+
+
 
 [arxiv 2025.02]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -818,6 +823,7 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2025.01]  X-Dyna: Expressive Dynamic Human Image Animation [[PDF](https://arxiv.org/abs/2501.10021),[Page](https://x-dyna.github.io/xdyna.github.io/)] ![Code](https://img.shields.io/github/stars/bytedance/X-Dyna?style=social&label=Star)
 
+[arxiv 2025.02] HumanDiT: Pose-Guided Diffusion Transformer for Long-form Human Motion Video Generation  [[PDF](https://arxiv.org/abs/2502.04847),[Page](https://agnjason.github.io/HumanDiT-page/)] 
 
 
 [arxiv 2025.02]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
@@ -1735,6 +1741,8 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 [arxiv 2024.12]  SnapGen-V: Generating a Five-Second Video within Five Seconds on a Mobile Device [[PDF](https://arxiv.org/abs/2412.10494),[Page](https://snap-research.github.io/snapgen-v/)] 
 
 [arxiv 2025.01] Diffusion Adversarial Post-Training for One-Step Video Generation  [[PDF](https://arxiv.org/abs/2501.08316)]
+
+[arxiv 2025.02]  Fast Video Generation with SLIDING TILE ATTENTION [[PDF](https://arxiv.org/pdf/2502.04507)]
 
 
 [arxiv 2025.02]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
