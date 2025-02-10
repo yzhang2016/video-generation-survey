@@ -560,6 +560,13 @@
 
 
 
+## ROPE
+
+[arxiv 2025.02] VideoRoPE: What Makes for Good Video Rotary Position Embedding?  [[PDF](https://arxiv.org/abs/2502.05173),[Page](https://github.com/Wiselnn570/VideoRoPE)] ![Code](https://img.shields.io/github/stars/Wiselnn570/VideoRoPE?style=social&label=Star)
+
+[arxiv 2025.02]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
+
+
 
 ## Chat for editing 
 [arxiv 2024.12] ChatDiT: A Training-Free Baseline for Task-Agnostic Free-Form Chatting with Diffusion Transformers  [[PDF](https://arxiv.org/abs/2412.12571),[Page](https://github.com/ali-vilab/ChatDiT)] ![Code](https://img.shields.io/github/stars/ali-vilab/ChatDiT?style=social&label=Star)
@@ -812,6 +819,7 @@
 
 [arxiv 2025.02]  Masked Autoencoders Are Effective Tokenizers for Diffusion Models [[PDF](https://arxiv.org/abs/2502.03444)]
 
+[arxiv 2025.02] QLIP: Text-Aligned Visual Tokenization Unifies Auto-Regressive Multimodal Understanding and Generation  [[PDF](https://arxiv.org/abs/2502.05178),[Page](https://nvlabs.github.io/QLIP/)] ![Code](https://img.shields.io/github/stars/NVlabs/QLIP?style=social&label=Star)
 
 
 [arxiv 2025.02]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
@@ -1024,6 +1032,8 @@
 [arxiv 2024.10] Altogether: Image Captioning via Re-aligning Alt-text  [[PDF](https://arxiv.org/abs/2410.17251),[Page]()]
 
 [arxiv 2024.11] Precision or Recall? An Analysis of Image Captions for Training Text-to-Image Generation Model  [[PDF](https://arxiv.org/abs/2411.05079),[Page](https://github.com/shengcheng/Captions4T2I)]
+
+[arxiv 2025.02]  Decoder-Only LLMs are Better Controllers for Diffusion Models [[PDF](https://arxiv.org/pdf/2502.04412)]
 
 
 [arxiv 2025.02]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
@@ -1368,6 +1378,8 @@
 [arxiv 2025.01]  IC-Portrait: In-Context Matching for View-Consistent Personalized Portrait [[PDF](https://arxiv.org/abs/2501.17159)]
 
 [arxiv 2025.02] Generating Multi-Image Synthetic Data for Text-to-Image Customization  [[PDF](https://arxiv.org/abs/2502.01720),[Page](https://www.cs.cmu.edu/~syncd-project/)] ![Code](https://img.shields.io/github/stars/nupurkmr9/syncd-project?style=social&label=Star)
+
+[arxiv 2025.02] Multitwine: Multi-Object Compositing with Text and Layout Control  [[PDF](https://arxiv.org/abs/2502.05165)]
 
 
 [arxiv 2025.02]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
@@ -1862,6 +1874,7 @@ Creative Layout-to-Image Generation [[PDF](https://arxiv.org/pdf/2412.03859),[Pa
 [arxiv 2025.01] Slot-Guided Adaptation of Pre-trained Diffusion Models for Object-Centric Learning and Compositional Generation
   [[PDF](https://arxiv.org/abs/2501.15878),[Page](https://kaanakan.github.io/SlotAdapt/)] 
 
+[arxiv 2025.02] Multitwine: Multi-Object Compositing with Text and Layout Control  [[PDF](https://arxiv.org/abs/2502.05165)]
 
 
 [arxiv 2025.02]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
@@ -2602,6 +2615,7 @@ Creative Layout-to-Image Generation [[PDF](https://arxiv.org/pdf/2412.03859),[Pa
 
 [arxiv 2025.02]  Diffusion Model as a Noise-Aware Latent Reward Model for Step-Level Preference Optimization [[PDF](https://arxiv.org/abs/2502.01051),[Page](https://github.com/casiatao/LPO)] ![Code](https://img.shields.io/github/stars/casiatao/LPO?style=social&label=Star)
 
+[arxiv 2025.02] Hummingbird: High Fidelity Image Generation via Multimodal Context Alignment  [[PDF](https://arxiv.org/abs/2502.05153),[Page](https://roar-ai.github.io/hummingbird/)] 
 
 [arxiv 2025.02]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
