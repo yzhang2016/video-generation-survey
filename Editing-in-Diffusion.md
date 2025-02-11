@@ -442,10 +442,16 @@
 
 [arxiv 2025.02]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
+
+
+
 ## Analysis
 [arxiv 2025.02]  SliderSpace: Decomposing the Visual Capabilities of Diffusion Models [[PDF](https://arxiv.org/pdf/2502.01639),[Page](https://sliderspace.baulab.info/)] 
 
 [arxiv 2025.02]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
+
+
+
 
 
 ## Unified Generation
@@ -1381,6 +1387,10 @@
 
 [arxiv 2025.02] Multitwine: Multi-Object Compositing with Text and Layout Control  [[PDF](https://arxiv.org/abs/2502.05165)]
 
+[arxiv 2025.02] Beyond Fine-Tuning: A Systematic Study of Sampling Techniques in Personalized Image Generation  [[PDF](https://arxiv.org/abs/2502.05895),[Page](https://github.com/ControlGenAI/PersonGenSampler)] ![Code](https://img.shields.io/github/stars/ControlGenAI/PersonGenSampler?style=social&label=Star)
+
+[arxiv 2025.02]  FreeBlend: Advancing Concept Blending with Staged Feedback-Driven Interpolation Diffusion [[PDF](https://arxiv.org/abs/2502.05606)]
+
 
 [arxiv 2025.02]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -2207,6 +2217,8 @@ Creative Layout-to-Image Generation [[PDF](https://arxiv.org/pdf/2412.03859),[Pa
 
 [arxiv 2025.01]  MangaNinja: Line Art Colorization with Precise Reference Following
  [[PDF](https://arxiv.org/abs/2501.08332),[Page](https://johanan528.github.io/MangaNinjia/)] ![Code](https://img.shields.io/github/stars/ali-vilab/MangaNinjia?style=social&label=Star)
+
+[arxiv 2025.02] MaterialFusion: High-Quality, Zero-Shot, and Controllable Material Transfer with Diffusion Models  [[PDF](https://arxiv.org/abs/2502.06606),[Page](https://github.com/kzGarifullin/MaterialFusion)] ![Code](https://img.shields.io/github/stars/kzGarifullin/MaterialFusion?style=social&label=Star)
 
 
 [arxiv 2025.02]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
