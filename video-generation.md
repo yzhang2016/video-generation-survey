@@ -164,6 +164,10 @@ A reading list of video generation
 * **OpenHumanVid**
   [arxiv 2024.12]A Large-Scale High-Quality Dataset for Enhancing Human-Centric Video Generation [[PDF](https://arxiv.org/abs/2412.00115),[Page](https://inkosizhong.github.io/VIVID/)]  ![Code](https://img.shields.io/github/stars/fudan-generative-vision/OpenHumanVid?style=social&label=Star)
 
+* **Se\~norita-2M**
+  [arxiv 2025.02]  Se\~norita-2M: A High-Quality Instruction-based Dataset for General Video Editing by Video Specialists [[PDF](https://arxiv.org/abs/2502.06734),[Page](https://senorita.github.io/)] 
+
+[arxiv 2025.02]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 
 ## VAE
@@ -404,6 +408,7 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2025.02] Goku: Flow Based Video Generative Foundation Models  [[PDF](https://arxiv.org/abs/2502.04896),[Page](https://saiyan-world.github.io/goku/)] ![Code](https://img.shields.io/github/stars/Saiyan-World/goku?style=social&label=Star)
 
+[arxiv 2025.02] Lumina-Video: Efficient and Flexible Video Generation with Multi-scale Next-DiT  [[PDF](https://arxiv.org/abs/2502.06782),[Page](https://github.com/Alpha-VLLM/Lumina-Video)] ![Code](https://img.shields.io/github/stars/Alpha-VLLM/Lumina-Video?style=social&label=Star)
 
 
 [arxiv 2025.02]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
@@ -481,8 +486,9 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2025.02]  Inference-Time Text-to-Video Alignment with Diffusion Latent Beam Search [[PDF](https://arxiv.org/abs/2501.19252),[Page](https://sites.google.com/view/t2v-dlbs)] 
 
-[arxiv 2025.02]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
+[arxiv 2025.02]  History-Guided Video Diffusion [[PDF](https://arxiv.org/abs/2502.06764),[Page](https://boyuan.space/history-guidance)] 
 
+[arxiv 2025.02]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 
 ## composition 
@@ -1346,9 +1352,13 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2024.12]  AV-Link: Temporally-Aligned Diffusion Features for Cross-Modal Audio-Video Generation [[PDF](https://arxiv.org/abs/2412.15191),[Page](https://snap-research.github.io/AVLink/)] ![Code](https://img.shields.io/github/stars/snap-research/AVLink?style=social&label=Star)
 
+[arxiv 2024.12] Every Image Listens, Every Image Dances: Music-Driven Image Animation  [[PDF](https://arxiv.org/html/2501.18801v1)]
+
 [arxiv 2025.02]  AGAV-Rater: Enhancing LMM for AI-Generated Audio-Visual Quality Assessment [[PDF](https://arxiv.org/abs/2501.18314),[Page](https://agav-rater.github.io/)] 
 
 [arxiv 2025.02] UniForm: A Unified Diffusion Transformer for Audio-Video Generation  [[PDF](https://arxiv.org/abs/2502.03897),[Page](https://uniform-t2av.github.io/)] 
+
+
 
 
 [arxiv 2025.02]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
@@ -1406,11 +1416,16 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2024.12] AniGS: Animatable Gaussian Avatar from a Single Image with Inconsistent Gaussian Reconstruction  [[PDF](https://arxiv.org/pdf/2412.02684),[Page](https://lingtengqiu.github.io/2024/AniGS/)] ![Code](https://img.shields.io/github/stars/aigc3d/AniGS?style=social&label=Star)
 
-
-
 [arxiv 2025.01] Generative Video Propagation  [[PDF](https://arxiv.org/abs/2412.19761),[Page](https://genprop.github.io//)]
 
 [arxiv 2025.02]  DynVFX: Augmenting Real Videos with Dynamic Content [[PDF](https://arxiv.org/abs/2502.03621),[Page](https://dynvfx.github.io/)] 
+
+[arxiv 2025.02]  Animate Anyone 2: High-Fidelity Character Image Animation with Environment Affordance [[PDF](https://arxiv.org/abs/2502.06145),[Page](https://humanaigc.github.io/animate-anyone-2/)] 
+
+[arxiv 2025.02] VFX Creator: Animated Visual Effect Generation with Controllable Diffusion Transformer  [[PDF](https://arxiv.org/abs/2502.05979),[Page](https://vfx-creator0.github.io/)] 
+
+[arxiv 2025.02]  AdaFlow: Efficient Long Video Editing via Adaptive Attention Slimming And Keyframe Selection [[PDF](https://arxiv.org/abs/2502.05433),[Page](https://github.com/jidantang55/AdaFlow)] ![Code](https://img.shields.io/github/stars/jidantang55/AdaFlow?style=social&label=Star)
+
 
 [arxiv 2025.02]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -1624,6 +1639,9 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 ## architecture/distribution
 [arxiv 2024.12] Efficient Continuous Video Flow Model for Video Prediction  [[PDF](https://arxiv.org/abs/2412.05633)]
+
+[arxiv 2025.02] Efficient-vDiT: Efficient Video Diffusion Transformers With Attention Tile  [[PDF](https://arxiv.org/abs/2502.06155)]
+
 
 [arxiv 2025.02]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
