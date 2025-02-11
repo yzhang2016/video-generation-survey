@@ -61,6 +61,8 @@
 
 [arxiv 2025.02] Free-T2M: Frequency Enhanced Text-to-Motion Diffusion Model With Consistency Loss  [[PDF](https://arxiv.org/abs/2501.18232),[Page](https://github.com/Hxxxz0/Free-T2m)] ![Code](https://img.shields.io/github/stars/Hxxxz0/Free-T2m?style=social&label=Star)
 
+[arxiv 2025.02] Fg-T2M++: LLMs-Augmented Fine-Grained Text Driven Human Motion Generation  [[PDF](https://arxiv.org/abs/2502.05534)]
+
 
 [arxiv 2025.02]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
