@@ -549,6 +549,10 @@
 
 [arxiv 2024.12] Exploring Diffusion and Flow Matching Under Generator Matching  [[PDF](https://arxiv.org/abs/2412.11024)]
 
+[arxiv 2025.02] Variational Rectified Flow Matching  [[PDF](https://arxiv.org/pdf/2502.09616)]
+
+[arxiv 2025.02]  Designing a Conditional Prior Distribution for Flow-Based Generative Models [[PDF](https://arxiv.org/pdf/2502.09611)]
+
 [arxiv 2025.02]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 
@@ -1391,6 +1395,8 @@
 
 [arxiv 2025.02]  FreeBlend: Advancing Concept Blending with Staged Feedback-Driven Interpolation Diffusion [[PDF](https://arxiv.org/abs/2502.05606)]
 
+[arxiv 2025.02]  E-MD3C: Taming Masked Diffusion Transformers for Efficient Zero-Shot Object Customization [[PDF](https://arxiv.org/pdf/2502.09164)]
+
 
 [arxiv 2025.02]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -1592,6 +1598,9 @@ Cross-Attention Control [[PDF](https://arxiv.org/abs/2402.13404)]
 [arxiv 2024.12]  SVGDreamer++: Advancing Editability and Diversity in Text-Guided SVG Generation [[PDF](https://arxiv.org/abs/2411.17832)]
 
 [arxiv 2025.01] NeuralSVG: An Implicit Representation for Text-to-Vector Generation  [[PDF](https://arxiv.org/abs/2501.03992),[Page](https://sagipolaczek.github.io/NeuralSVG/)] ![Code](https://img.shields.io/github/stars/SagiPolaczek/NeuralSVG?style=social&label=Star)
+
+[arxiv 2025.02] SwiftSketch: A Diffusion Model for Image-to-Vector Sketch Generation  [[PDF](https://arxiv.org/abs/2502.08642),[Page](https://swiftsketch.github.io/)] ![Code](https://img.shields.io/github/stars/swiftsketch/SwiftSketch?style=social&label=Star)
+
 
 
 [arxiv 2025.02]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
@@ -2220,6 +2229,16 @@ Creative Layout-to-Image Generation [[PDF](https://arxiv.org/pdf/2412.03859),[Pa
 
 [arxiv 2025.02] MaterialFusion: High-Quality, Zero-Shot, and Controllable Material Transfer with Diffusion Models  [[PDF](https://arxiv.org/abs/2502.06606),[Page](https://github.com/kzGarifullin/MaterialFusion)] ![Code](https://img.shields.io/github/stars/kzGarifullin/MaterialFusion?style=social&label=Star)
 
+[arxiv 2025.02] StyleBlend: Enhancing Style-Specific Content Creation in Text-to-Image Diffusion Models  [[PDF](https://arxiv.org/pdf/2502.09064)]
+
+[arxiv 2025.02] Contextual Gesture: Co-Speech Gesture Video Generation through Context-aware Gesture Representation  [[PDF](https://arxiv.org/pdf/2502.07466),[Page](https://github.com/LinLLLL/MaskST)] ![Code](https://img.shields.io/github/stars/LinLLLL/MaskST?style=social&label=Star)
+
+
+[arxiv 2025.02]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
+
+
+## RAG
+[arxiv 2025.02]  ImageRAG: Dynamic Image Retrieval for Reference-Guided Image Generation [[PDF](https://arxiv.org/pdf/2502.09411),[Page](https://rotem-shalev.github.io/ImageRAG)] ![Code](https://img.shields.io/github/stars/rotem-shalev/ImageRAG?style=social&label=Star)
 
 [arxiv 2025.02]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -2628,6 +2647,9 @@ Creative Layout-to-Image Generation [[PDF](https://arxiv.org/pdf/2412.03859),[Pa
 [arxiv 2025.02]  Diffusion Model as a Noise-Aware Latent Reward Model for Step-Level Preference Optimization [[PDF](https://arxiv.org/abs/2502.01051),[Page](https://github.com/casiatao/LPO)] ![Code](https://img.shields.io/github/stars/casiatao/LPO?style=social&label=Star)
 
 [arxiv 2025.02] Hummingbird: High Fidelity Image Generation via Multimodal Context Alignment  [[PDF](https://arxiv.org/abs/2502.05153),[Page](https://roar-ai.github.io/hummingbird/)] 
+
+[arxiv 2025.02]  Preference Alignment on Diffusion Model: A Comprehensive Survey for Image Generation and Editing [[PDF](https://arxiv.org/pdf/2502.07829)]
+
 
 [arxiv 2025.02]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
