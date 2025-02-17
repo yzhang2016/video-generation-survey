@@ -410,6 +410,8 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2025.02] Lumina-Video: Efficient and Flexible Video Generation with Multi-scale Next-DiT  [[PDF](https://arxiv.org/abs/2502.06782),[Page](https://github.com/Alpha-VLLM/Lumina-Video)] ![Code](https://img.shields.io/github/stars/Alpha-VLLM/Lumina-Video?style=social&label=Star)
 
+[arxiv 2025.02] Step-Video-T2V Technical Report: The Practice, Challenges, and Future of Video Foundation Model  [[PDF](https://arxiv.org/abs/2502.10248),[Page](https://yuewen.cn/videos)] ![Code](https://img.shields.io/github/stars/stepfun-ai/Step-Video-T2V?style=social&label=Star)
+
 
 [arxiv 2025.02]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
