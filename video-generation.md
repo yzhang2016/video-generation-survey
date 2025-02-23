@@ -223,6 +223,8 @@ A reading list of video generation
 
 [arxiv 2025.01] LLaVA-Mini: Efficient Image and Video Large Multimodal Models with One Vision Token [[PDF](https://arxiv.org/abs/2501.03895),[Page](https://huggingface.co/ICTNLP/llava-mini-llama-3.1-8b)] ![Code](https://img.shields.io/github/stars/LLaVA-Mini?style=social&label=Star)
 
+[arxiv 2025.02] FlexTok: Resampling Images into 1D Token Sequences of Flexible Length  [[PDF](https://arxiv.org/abs/2502.13967),[Page](https://flextok.epfl.ch/)] 
+
 
 [arxiv 2025.02]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -515,7 +517,12 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2025.01]BlobGEN-Vid: Compositional Text-to-Video Generation with Blob Video Representations  [[PDF](https://arxiv.org/abs/2501.07647),[Page](https://blobgen-vid2.github.io/)] 
 
+[arxiv 2025.02]  DC-ControlNet: Decoupling Inter- and Intra-Element Conditions in Image Generation with Diffusion Models [[PDF](https://arxiv.org/abs/2502.14779),[Page](https://um-lab.github.io/DC-ControlNet/)] 
+
+
 [arxiv 2025.02]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
+
+
 
 ## Caption
 [arxiv 2024.11] Grounded Video Caption Generation [[PDF](https://arxiv.org/abs/2411.07584)]
@@ -610,6 +617,8 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 [arxiv 2025.01] Ouroboros-Diffusion: Exploring Consistent Content Generation in Tuning-free Long Video Diffusion [[PDF](https://arxiv.org/abs/2501.09019)]
 
 [arxiv 2025.02] MaskFlow: Discrete Flows for Flexible and Efficient Long Video Generation  [[PDF](https://arxiv.org/abs/2502.11234),[Page](https://compvis.github.io/maskflow/)] ![Code](https://img.shields.io/github/stars/CompVis/maskflow?style=social&label=Star)
+
+[arxiv 2025.02] MALT Diffusion: Memory-Augmented Latent Transformers for Any-Length Video Generation  [[PDF](https://arxiv.org/pdf/2502.12632)]
 
 
 [arxiv 2025.02]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
@@ -760,6 +769,9 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 [arxiv 2025.02] VidSketch: Hand-drawn Sketch-Driven Video Generation with Diffusion Control  [[PDF](https://arxiv.org/abs/2502.01101),[Page](https://csfufu.github.io/vid_sketch/)] ![Code](https://img.shields.io/github/stars/CSfufu/VidSketch?style=social&label=Star)
 
 [arxiv 2025.02] MotionCanvas: Cinematic Shot Design with Controllable Image-to-Video Generation  [[PDF](https://arxiv.org/abs/2502.04299),[Page](https://motion-canvas25.github.io/)] 
+
+[arxiv 2025.02] MotionMatcher: Motion Customization of Text-to-Video Diffusion Models via Motion Feature Matching  [[PDF](https://arxiv.org/abs/2502.13234),[Page](https://www.csie.ntu.edu.tw/~b09902097/motionmatcher/)] ![Code](https://img.shields.io/github/stars/b09902097/motionmatcher?style=social&label=Star)
+
 
 [arxiv 2025.02]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -1261,6 +1273,8 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2025.02] SkyReels-A1: Expressive Portrait Animation in Video Diffusion Transformer  [[PDF](https://arxiv.org/abs/2502.10841),[Page](https://skyworkai.github.io/skyreels-a1.github.io/)] ![Code](https://img.shields.io/github/stars/SkyworkAI/SkyReels-A1?style=social&label=Star)
 
+[arxiv 2025.02]  AV-Flow: Transforming Text to Audio-Visual Human-like Interactions [[PDF](https://arxiv.org/abs/2502.13133),[Page](https://aggelinacha.github.io/AV-Flow/)] 
+
 
 [arxiv 2025.02]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -1654,6 +1668,9 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 [arxiv 2025.02]  Seeing World Dynamics in a Nutshell [[PDF](https://arxiv.org/pdf/2502.03465),[Page](https://github.com/Nut-World/NutWorld)] ![Code](https://img.shields.io/github/stars/Nut-World/NutWorld?style=social&label=Star)
 
 
+[arxiv 2025.02] Event-based Video Frame Interpolation with Cross-Modal Asymmetric Bidirectional Motion Fields  [[PDF](https://openaccess.thecvf.com/content/CVPR2023/papers/Kim_Event-Based_Video_Frame_Interpolation_With_Cross-Modal_Asymmetric_Bidirectional_Motion_Fields_CVPR_2023_paper.pdf),[Page](https://github.com/intelpro/CBMNet)] ![Code](https://img.shields.io/github/stars/intelpro/CBMNet?style=social&label=Star)
+
+
 [arxiv 2025.02]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 
@@ -1941,6 +1958,8 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 [arxiv 2025.01] Improving Video Generation with Human Feedback  [[PDF](https://arxiv.org/abs/2501.13918),[Page](https://gongyeliu.github.io/videoalign/)] 
 
 [arxiv 2025.02]  HuViDPO: Enhancing Video Generation through Direct Preference Optimization for Human-Centric Alignment [[PDF](https://arxiv.org/abs/2502.01690)]
+
+[arxiv 2025.02] CHATS: Combining Human-Aligned Optimization and Test-Time Sampling for Text-to-Image Generation  [[PDF](https://arxiv.org/pdf/2502.12579)]
 
 
 [arxiv 2025.02]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
