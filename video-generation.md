@@ -203,6 +203,9 @@ A reading list of video generation
 
 [arxiv 2025.01] Learnings from Scaling Visual Tokenizers for Reconstruction and Generation [[PDF](https://arxiv.org/abs/2501.09755),[Page](https://vitok.github.io/)] 
 
+[arxiv 2025.02]  DLFR-VAE: Dynamic Latent Frame Rate VAE for Video Generation [[PDF](http://arxiv.org/abs/2502.11897),[Page](https://github.com/thu-nics/DLFR-VAE)] ![Code](https://img.shields.io/github/stars/thu-nics/DLFR-VAE?style=social&label=Star)
+
+
 [arxiv 2025.02]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 
@@ -541,6 +544,10 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2024.12] Mind the Time: Temporally-Controlled Multi-Event Video Generation [[PDF](https://arxiv.org/abs/2412.05263),[Page](https://mint-video.github.io/)]
 
+[arxiv 2025.02] Object-Centric Image to Video Generation with Language Guidance  [[PDF](https://arxiv.org/abs/2502.11655),[Page](https://play-slot.github.io/TextOCVP/)] ![Code](https://img.shields.io/github/stars/angelvillar96/TextOCVP?style=social&label=Star)
+
+
+
 [arxiv 2025.02]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 
@@ -601,6 +608,9 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 [arxiv 2025.01] Tuning-Free Long Video Generation via Global-Local Collaborative Diffusion [[PDF](https://arxiv.org/pdf/2501.05484)]
 
 [arxiv 2025.01] Ouroboros-Diffusion: Exploring Consistent Content Generation in Tuning-free Long Video Diffusion [[PDF](https://arxiv.org/abs/2501.09019)]
+
+[arxiv 2025.02] MaskFlow: Discrete Flows for Flexible and Efficient Long Video Generation  [[PDF](https://arxiv.org/abs/2502.11234),[Page](https://compvis.github.io/maskflow/)] ![Code](https://img.shields.io/github/stars/CompVis/maskflow?style=social&label=Star)
+
 
 [arxiv 2025.02]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -930,6 +940,8 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2025.02] VidCRAFT3: Camera, Object, and Lighting Control for Image-to-Video Generation  [[PDF](https://arxiv.org/pdf/2502.07531)]
 
+[arxiv 2025.02]  RealCam-I2V: Real-World Image-to-Video Generation with Interactive Complex Camera Control [[PDF](https://arxiv.org/abs/2502.10059),[Page](https://zgctroy.github.io/RealCam-I2V/)] ![Code](https://img.shields.io/github/stars/ZGCTroy/RealCam-I2V?style=social&label=Star)
+
 
 [arxiv 2025.02]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -1159,6 +1171,8 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2025.02] Movie Weaver: Tuning-Free Multi-Concept Video Personalization with Anchored Prompts  [[PDF](https://jeff-liangf.github.io/projects/movieweaver/Movie_Weaver.pdf),[Page](https://jeff-liangf.github.io/projects/movieweaver/)] 
 
+[arxiv 2025.02] Phantom: Subject-consistent video generation via cross-modal alignment  [[PDF](https://phantom-video.github.io/Phantom/),[Page](https://github.com/Phantom-video/Phantom)] ![Code](https://img.shields.io/github/stars/Phantom-video/Phantom?style=social&label=Star)
+
 
 [arxiv 2025.02]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -1243,6 +1257,9 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2025.02]  Long-Term TalkingFace Generation via Motion-Prior Conditional Diffusion Model [[PDF](https://arxiv.org/pdf/2502.09533)]
 
+[arxiv 2025.02] SayAnything: Audio-Driven Lip Synchronization with Conditional Video Diffusion  [[PDF](https://arxiv.org/pdf/2502.11515)]
+
+[arxiv 2025.02] SkyReels-A1: Expressive Portrait Animation in Video Diffusion Transformer  [[PDF](https://arxiv.org/abs/2502.10841),[Page](https://skyworkai.github.io/skyreels-a1.github.io/)] ![Code](https://img.shields.io/github/stars/SkyworkAI/SkyReels-A1?style=social&label=Star)
 
 
 [arxiv 2025.02]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
@@ -1360,6 +1377,9 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 [arxiv 2024.12]  DNF: Unconditional 4D Generation with Dictionary-based Neural Fields [[PDF](https://arxiv.org/abs/2412.05161),[Page](https://xzhang-t.github.io/project/DNF/)] 
 
 [arxiv 2025.01] AR4D: Autoregressive 4D Generation from Monocular Videos [[PDF](https://arxiv.org/abs/2501.01722),[Page](https://hanxinzhu-lab.github.io/AR4D/)] 
+
+[arxiv 2025.02] MVTokenFlow: High-quality 4D Content Generation using Multiview Token Flow  [[PDF](https://arxiv.org/abs/2502.11697),[Page](https://soolab.github.io/MVTokenFlow)] ![Code](https://img.shields.io/github/stars/SooLab/MVTokenFlow?style=social&label=Star)
+
 
 [arxiv 2025.02]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
