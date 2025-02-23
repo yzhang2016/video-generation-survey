@@ -104,6 +104,7 @@
 
 [arxiv 2025.02]  MM-RLHF: The Next Step Forward in Multimodal LLM Alignment [[PDF](https://arxiv.org/abs/2502.10391),[Page](https://mm-rlhf.github.io/)] ![Code](https://img.shields.io/github/stars/Kwai-YuanQi/MM-RLHF?style=social&label=Star) 
 
+[arxiv 2025.02] RE-ALIGN: Aligning Vision Language Models via Retrieval-Augmented Direct Preference Optimization  [[PDF](https://arxiv.org/abs/2502.13146),[Page](https://github.com/taco-group/Re-Align)] ![Code](https://img.shields.io/github/stars/taco-group/Re-Align?style=social&label=Star) 
 
 
 [arxiv 2025.02]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
@@ -119,6 +120,11 @@
 [arxiv 2024.12] TeamCraft: A Benchmark for Multi-Modal Multi-Agent Systems in Minecraft  [[PDF](https://arxiv.org/abs/2412.05255),[Page](https://teamcraft-bench.github.io/)] ![Code](https://img.shields.io/github/stars/teamcraft-bench/teamcraft?style=social&label=Star) 
 
 [arxiv 2025.01] UnrealZoo: Enriching Photo-realistic Virtual Worlds for Embodied AI  [[PDF](https://arxiv.org/abs/2412.20977),[Page](http://unrealzoo.site/)] ![Code](https://img.shields.io/github/stars/UnrealZoo/unrealzoo-gym?style=social&label=Star) 
+
+[arxiv 2025.02] Magma: A Foundation Model for Multimodal AI Agents  [[PDF](https://www.arxiv.org/pdf/2502.13130),[Page](https://microsoft.github.io/Magma/)] ![Code](https://img.shields.io/github/stars/microsoft/Magma?style=social&label=Star) 
+
+[arxiv 2025.02] PC-Agent: A Hierarchical Multi-Agent Collaboration Framework for Complex Task Automation on PC  [[PDF](https://arxiv.org/pdf/2502.14282)] 
+
 
 
 [arxiv 2025.02]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
@@ -173,6 +179,8 @@
 [arxiv 2025.02] Ola: Pushing the Frontiers of Omni-Modal Language Model with Progressive Modality Alignment  [[PDF](https://arxiv.org/abs/2502.04328),[Page](https://ola-omni.github.io/)] ![Code](https://img.shields.io/github/stars/Ola-Omni/Ola?style=social&label=Star) 
 
 [arxiv 2025.02] video-SALMONN-o1: Reasoning-enhanced Audio-visual Large Language Model  [[PDF](https://arxiv.org/pdf/2502.11775),[Page](https://github.com/BriansIDP/video-SALMONN-o1)] ![Code](https://img.shields.io/github/stars/BriansIDP/video-SALMONN-o1?style=social&label=Star) 
+
+[arxiv 2025.02] Qwen2.5-VL Technical Report  [[PDF](https://arxiv.org/abs/2502.13923),[Page](https://github.com/QwenLM/Qwen2.5-VL)] ![Code](https://img.shields.io/github/stars/QwenLM/Qwen2.5-VL?style=social&label=Star) 
 
 
 [arxiv 2025.02]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
