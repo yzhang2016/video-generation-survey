@@ -64,7 +64,6 @@
 
 [arxiv 2024.09]EMOVA: Empowering Language Models to See, Hear and Speak with Vivid Emotions[[PDF](https://arxiv.org/abs/2409.18042), [Page](https://emova-ollm.github.io/)]
 
-
 [arxiv 2024.09] Molmo and PixMo: Open Weights and Open Data for State-of-the-Art Multimodal Models[[PDF](https://arxiv.org/abs/2409.17146),)]
 
 
@@ -74,7 +73,6 @@
 [arxiv 2024.09] Visual Prompting in Multimodal Large Language Models: A Survey[[PDF](https://arxiv.org/abs/2409.15310)]
 
 
-[arxiv 2024.09] Emu3: Next-Token Prediction is All You Need[[PDF](https://arxiv.org/abs/2409.18869), [Page](https://emu.baai.ac.cn/)]
 
 
 [arxiv 2024.10]ACE: All-round Creator and Editor Following Instructions via Diffusion Transformer [[PDF](https://arxiv.org/abs/2410.00086), [Page](https://ali-vilab.github.io/ace-page/)]
@@ -103,6 +101,9 @@
 
 ## Feedback 
 [arxiv 2025.02] DAMO: Data- and Model-aware Alignment of Multi-modal LLMs  [[PDF](https://arxiv.org/abs/2502.01943),[Page](https://github.com/injadlu/DAMO)] ![Code](https://img.shields.io/github/stars/injadlu/DAMO?style=social&label=Star) 
+
+[arxiv 2025.02]  MM-RLHF: The Next Step Forward in Multimodal LLM Alignment [[PDF](https://arxiv.org/abs/2502.10391),[Page](https://mm-rlhf.github.io/)] ![Code](https://img.shields.io/github/stars/Kwai-YuanQi/MM-RLHF?style=social&label=Star) 
+
 
 
 [arxiv 2025.02]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
@@ -171,10 +172,20 @@
 
 [arxiv 2025.02] Ola: Pushing the Frontiers of Omni-Modal Language Model with Progressive Modality Alignment  [[PDF](https://arxiv.org/abs/2502.04328),[Page](https://ola-omni.github.io/)] ![Code](https://img.shields.io/github/stars/Ola-Omni/Ola?style=social&label=Star) 
 
+[arxiv 2025.02] video-SALMONN-o1: Reasoning-enhanced Audio-visual Large Language Model  [[PDF](https://arxiv.org/pdf/2502.11775),[Page](https://github.com/BriansIDP/video-SALMONN-o1)] ![Code](https://img.shields.io/github/stars/BriansIDP/video-SALMONN-o1?style=social&label=Star) 
 
 
 [arxiv 2025.02]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
 
+
+## Multi-modality Understanding and Generation 
+[arxiv 2024.09] Emu3: Next-Token Prediction is All You Need[[PDF](https://arxiv.org/abs/2409.18869), [Page](https://emu.baai.ac.cn/)]
+
+
+[arxiv 2025.02]  HermesFlow: Seamlessly Closing the Gap in Multimodal Understanding and Generation [[PDF](https://arxiv.org/pdf/2502.12148),[Page](https://github.com/Gen-Verse/HermesFlow)] ![Code](https://img.shields.io/github/stars/Gen-Verse/HermesFlow?style=social&label=Star) 
+
+
+[arxiv 2025.02]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
 
 
 ## multi-modality evaluation 
