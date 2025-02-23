@@ -440,8 +440,9 @@
 
 [arxiv 2025.02] PartEdit: Fine-Grained Image Editing using Pre-Trained Diffusion Models  [[PDF](https://arxiv.org/abs/2502.04050),[Page](https://partedit.github.io/PartEdit/)]
 
-[arxiv 2025.02]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
+[arxiv 2025.02] PhotoDoodle: Learning Artistic Image Editing from Few-Shot Pairwise Data  [[PDF](https://arxiv.org/abs/2502.14397),[Page](https://github.com/showlab/PhotoDoodle)] ![Code](https://img.shields.io/github/stars/showlab/PhotoDoodle?style=social&label=Star)
 
+[arxiv 2025.02]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 
 
@@ -554,6 +555,8 @@
 [arxiv 2025.02]  Designing a Conditional Prior Distribution for Flow-Based Generative Models [[PDF](https://arxiv.org/pdf/2502.09611)]
 
 [arxiv 2025.02]  Bidirectional Diffusion Bridge Models [[PDF](https://arxiv.org/abs/2502.09655),[Page](https://github.com/kvmduc/BDBM)] ![Code](https://img.shields.io/github/stars/kvmduc/BDBM?style=social&label=Star)
+
+[arxiv 2025.02] Is Noise Conditioning Necessary for Denoising Generative Models?  [[PDF](https://arxiv.org/pdf/2502.13129)]
 
 
 [arxiv 2025.02]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
@@ -991,6 +994,9 @@
 
 [arxiv 2025.02] TRUEPOSE: Human-Parsing-guided Attention Diffusion for Full-ID Preserving Pose Transfer  [[PDF](https://arxiv.org/pdf/2502.03426)]
 
+[arxiv 2025.02] CrossVTON: Mimicking the Logic Reasoning on Cross-category Virtual Try-on guided by Tri-zone Priors  [[PDF](https://arxiv.org/pdf/2502.14373)]
+
+
 
 [arxiv 2025.02]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -1407,6 +1413,10 @@
 [arxiv 2025.02]  FreeBlend: Advancing Concept Blending with Staged Feedback-Driven Interpolation Diffusion [[PDF](https://arxiv.org/abs/2502.05606)]
 
 [arxiv 2025.02]  E-MD3C: Taming Masked Diffusion Transformers for Efficient Zero-Shot Object Customization [[PDF](https://arxiv.org/pdf/2502.09164)]
+
+[arxiv 2025.02]  Personalized Image Generation with Deep Generative Models: A Decade Survey [[PDF](https://arxiv.org/abs/2502.13081),[Page](https://github.com/csyxwei/Awesome-Personalized-Image-Generation)] ![Code](https://img.shields.io/github/stars/csyxwei/Awesome-Personalized-Image-Generation?style=social&label=Star)
+
+[arxiv 2025.02] IP-Composer: Semantic Composition of Visual Concepts  [[PDF](https://arxiv.org/pdf/2502.13951),[Page](https://ip-composer.github.io/IP-Composer/)] ![Code](https://img.shields.io/github/stars/ip-composer/IP-Composer?style=social&label=Star)
 
 
 [arxiv 2025.02]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
@@ -2101,6 +2111,8 @@ Creative Layout-to-Image Generation [[PDF](https://arxiv.org/pdf/2412.03859),[Pa
 
 [arxiv 2024.11] Large-Scale Text-to-Image Model with Inpainting is a Zero-Shot Subject-Driven Image Generator  [[PDF](https://arxiv.org/abs/2411.15466),[Page](https://diptychprompting.github.io/)] 
 
+[arxiv 2025.02] RelaCtrl: Relevance-Guided Efficient Control for Diffusion Transformers  [[PDF](https://arxiv.org/abs/2502.14377),[Page](https://relactrl.github.io/RelaCtrl/)] 
+
 
 [arxiv 2025.02]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -2774,6 +2786,7 @@ Creative Layout-to-Image Generation [[PDF](https://arxiv.org/pdf/2412.03859),[Pa
 
 [arxiv 2025.01]  ARFlow: Autogressive Flow with Hybrid Linear Attention [[PDF](https://arxiv.org/abs/2501.16085)]
 
+[arxiv 2025.02]  Spiking Vision Transformer with Saccadic Attention [[PDF](https://arxiv.org/abs/2502.12677)]
 
 
 [arxiv 2025.02]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
