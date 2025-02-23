@@ -553,6 +553,9 @@
 
 [arxiv 2025.02]  Designing a Conditional Prior Distribution for Flow-Based Generative Models [[PDF](https://arxiv.org/pdf/2502.09611)]
 
+[arxiv 2025.02]  Bidirectional Diffusion Bridge Models [[PDF](https://arxiv.org/abs/2502.09655),[Page](https://github.com/kvmduc/BDBM)] ![Code](https://img.shields.io/github/stars/kvmduc/BDBM?style=social&label=Star)
+
+
 [arxiv 2025.02]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 
@@ -565,6 +568,9 @@
 
 [arxiv 2025.02] Variational Control for Guidance in Diffusion Models  [[PDF](https://arxiv.org/pdf/2502.03686)]
 
+[arxiv 2025.02] Diffusion Models without Classifier-free Guidance  [[PDF](https://arxiv.org/pdf/2502.12154),[Page](https://github.com/tzco/Diffusion-wo-CFG)] ![Code](https://img.shields.io/github/stars/tzco/Diffusion-wo-CFG?style=social&label=Star)
+
+[arxiv 2025.02] Classifier-free Guidance with Adaptive Scaling  [[PDF](https://arxiv.org/pdf/2502.10574)]
 
 [arxiv 2025.02]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -1028,6 +1034,11 @@
 [arxiv 2024.12] FonTS: Text Rendering with Typography and Style Controls  [[PDF](https://arxiv.org/pdf/2412.00136)]
 
 [arxiv 2024.12]  FlowEdit: Inversion-Free Text-Based Editing Using Pre-Trained Flow Models [[PDF](https://arxiv.org/abs/2412.08629),[Page](https://matankleiner.github.io/flowedit/)] ![Code](https://img.shields.io/github/stars/fallenshock/FlowEdit?style=social&label=Star)
+
+[arxiv 2025.02]  Precise Parameter Localization for Textual Generation in Diffusion Models [[PDF](https://arxiv.org/abs/2502.09935),[Page](https://t2i-text-loc.github.io/)] 
+
+[arxiv 2025.02]  ControlText: Unlocking Controllable Fonts in Multilingual Text Rendering without Font Annotations [[PDF](https://arxiv.org/pdf/2502.10999),[Page](https://github.com/bowen-upenn/ControlText)] ![Code](https://img.shields.io/github/stars/bowen-upenn/ControlText?style=social&label=Star)
+
 
 
 [arxiv 2025.02]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
@@ -2494,6 +2505,8 @@ Creative Layout-to-Image Generation [[PDF](https://arxiv.org/pdf/2412.03859),[Pa
 
 [arxiv 2025.02]  Improved Training Technique for Latent Consistency Models [[PDF](https://arxiv.org/abs/2502.01441),[Page](https://github.com/quandao10/sLCT/)] ![Code](https://img.shields.io/github/stars/quandao10/sLCT?style=social&label=Star)
 
+[arxiv 2025.02] Region-Adaptive Sampling for Diffusion Transformers  [[PDF](https://arxiv.org/pdf/2502.10389),[Page](https://microsoft.github.io/RAS/)] ![Code](https://img.shields.io/github/stars/microsoft/RAS?style=social&label=Star)
+
 
 [arxiv 2025.02]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -2649,6 +2662,12 @@ Creative Layout-to-Image Generation [[PDF](https://arxiv.org/pdf/2412.03859),[Pa
 [arxiv 2025.02] Hummingbird: High Fidelity Image Generation via Multimodal Context Alignment  [[PDF](https://arxiv.org/abs/2502.05153),[Page](https://roar-ai.github.io/hummingbird/)] 
 
 [arxiv 2025.02]  Preference Alignment on Diffusion Model: A Comprehensive Survey for Image Generation and Editing [[PDF](https://arxiv.org/pdf/2502.07829)]
+
+[arxiv 2025.02] Generating on Generated: An Approach Towards Self-Evolving Diffusion Models  [[PDF](https://arxiv.org/pdf/2502.09963)]
+
+[arxiv 2025.02]  Diffusion-Sharpening: Fine-tuning Diffusion Models with Denoising Trajectory Sharpening [[PDF](https://arxiv.org/pdf/2502.12146),[Page](https://github.com/Gen-Verse/Diffusion-Sharpening)] ![Code](https://img.shields.io/github/stars/Gen-Verse/Diffusion-Sharpening?style=social&label=Star)
+
+[arxiv 2025.02] Learning to Sample Effective and Diverse Prompts for Text-to-Image Generation  [[PDF](https://arxiv.org/pdf/2502.11477)]
 
 
 [arxiv 2025.02]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
