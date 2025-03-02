@@ -1829,6 +1829,9 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 [arxiv 2025.02]  Magic 1-For-1: Generating One Minute Video Clips within One Minute [[PDF](https://arxiv.org/abs/2502.07701),[Page](https://magic-141.github.io/Magic-141/)] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 
+[arxiv 2025.02]  Hardware-Friendly Static Quantization Method for Video Diffusion Transformers [[PDF](https://arxiv.org/pdf/2502.15077)]
+
+
 [arxiv 2025.02]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 
@@ -1936,6 +1939,7 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2025.01] HERMES: A Unified Self-Driving World Model for Simultaneous 3D Scene Understanding and Generation  [[PDF](https://arxiv.org/abs/2501.14729),[Page](https://github.com/LMD0311/HERMES)] ![Code](https://img.shields.io/github/stars/LMD0311/HERMES?style=social&label=Star)
 
+[arxiv 2025.02] VaViM and VaVAM: Autonomous Driving through Video Generative Modeling  [[PDF](https://arxiv.org/abs/2502.15672),[Page](https://valeoai.github.io/vavim-vavam/)] ![Code](https://img.shields.io/github/stars/valeoai/VideoActionModel?style=social&label=Star)
 
 
 [arxiv 2025.02]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
