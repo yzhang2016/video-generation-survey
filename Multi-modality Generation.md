@@ -182,6 +182,11 @@
 
 [arxiv 2025.02] Qwen2.5-VL Technical Report  [[PDF](https://arxiv.org/abs/2502.13923),[Page](https://github.com/QwenLM/Qwen2.5-VL)] ![Code](https://img.shields.io/github/stars/QwenLM/Qwen2.5-VL?style=social&label=Star) 
 
+[arxiv 2025.02]  Introducing Visual Perception Token into Multimodal Large Language Model [[PDF](https://arxiv.org/abs/2502.17425),[Page](https://github.com/yu-rp/VisualPerceptionToken)] ![Code](https://img.shields.io/github/stars/yu-rp/VisualPerceptionToken?style=social&label=Star) 
+
+[arxiv 2025.02] MLLMs Know Where to Look: Training-free Perception of Small Visual Details with Multimodal LLMs  [[PDF](https://arxiv.org/abs/2502.17422),[Page](https://github.com/saccharomycetes/mllms_know)] ![Code](https://img.shields.io/github/stars/saccharomycetes/mllms_know?style=social&label=Star) 
+
+
 
 [arxiv 2025.02]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
 
@@ -204,6 +209,10 @@
 [arxiv 2025.02]  AdaSVD: Adaptive Singular Value Decomposition for Large Language Models [[PDF](https://arxiv.org/abs/2502.01403),[Page](https://github.com/ZHITENGLI/AdaSVD)] ![Code](https://img.shields.io/github/stars/ZHITENGLI/AdaSVD?style=social&label=Star) 
 
 [arxiv 2025.02]  Vision-centric Token Compression in Large Language Model [[PDF](https://arxiv.org/pdf/2502.00791)]
+
+[arxiv 2025.02] From 16-Bit to 1-Bit: Visual KV Cache Quantization for Memory-Efficient Multimodal Large Language Models  [[PDF](https://arxiv.org/abs/2502.14882)]
+
+
 
 [arxiv 2025.02]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
 
