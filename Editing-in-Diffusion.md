@@ -1583,6 +1583,7 @@ Cross-Attention Control [[PDF](https://arxiv.org/abs/2402.13404)]
 
 [arxiv 2024.12] SLayR: Scene Layout Generation with Rectified Flow  [[PDF](https://arxiv.org/abs/2412.05003)]
 
+[arxiv 2025.02]  WorldCraft: Photo-Realistic 3D World Creation and Customization via LLM Agents [[PDF](https://arxiv.org/pdf/2502.15601)]
 
 [arxiv 2025.02]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
 
@@ -2102,6 +2103,9 @@ Creative Layout-to-Image Generation [[PDF](https://arxiv.org/pdf/2412.03859),[Pa
 
 [arxiv 2025.02] DeblurDiff: Real-World Image Deblurring with Generative Diffusion Models  [[PDF](https://arxiv.org/abs/2502.03810),[Page](https://github.com/kkkls/DeblurDiff)] ![Code](https://img.shields.io/github/stars/kkkls/DeblurDiff?style=social&label=Star)
 
+[arxiv 2025.02]  CondiQuant: Condition Number Based Low-Bit Quantization for Image Super-Resolution [[PDF](https://arxiv.org/pdf/2502.15478),[Page](https://github.com/Kai-Liu001/CondiQuant)] ![Code](https://img.shields.io/github/stars/Kai-Liu001/CondiQuant?style=social&label=Star)
+
+
 
 [arxiv 2025.02]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -2255,6 +2259,8 @@ Creative Layout-to-Image Generation [[PDF](https://arxiv.org/pdf/2412.03859),[Pa
 [arxiv 2025.02] StyleBlend: Enhancing Style-Specific Content Creation in Text-to-Image Diffusion Models  [[PDF](https://arxiv.org/pdf/2502.09064)]
 
 [arxiv 2025.02] Contextual Gesture: Co-Speech Gesture Video Generation through Context-aware Gesture Representation  [[PDF](https://arxiv.org/pdf/2502.07466),[Page](https://github.com/LinLLLL/MaskST)] ![Code](https://img.shields.io/github/stars/LinLLLL/MaskST?style=social&label=Star)
+
+[arxiv 2025.02] GCC: Generative Color Constancy via Diffusing a Color Checker  [[PDF](https://arxiv.org/abs/2502.17435),[Page](https://chenwei891213.github.io/GCC/)] 
 
 
 [arxiv 2025.02]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
@@ -2519,6 +2525,8 @@ Creative Layout-to-Image Generation [[PDF](https://arxiv.org/pdf/2412.03859),[Pa
 
 [arxiv 2025.02] Region-Adaptive Sampling for Diffusion Transformers  [[PDF](https://arxiv.org/pdf/2502.10389),[Page](https://microsoft.github.io/RAS/)] ![Code](https://img.shields.io/github/stars/microsoft/RAS?style=social&label=Star)
 
+[arxiv 2025.02] One-step Diffusion Models with f-Divergence Distribution Matching  [[PDF](https://arxiv.org/abs/2502.15681),[Page](https://research.nvidia.com/labs/genair/f-distill/)] 
+
 
 [arxiv 2025.02]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -2681,6 +2689,7 @@ Creative Layout-to-Image Generation [[PDF](https://arxiv.org/pdf/2412.03859),[Pa
 
 [arxiv 2025.02] Learning to Sample Effective and Diverse Prompts for Text-to-Image Generation  [[PDF](https://arxiv.org/pdf/2502.11477)]
 
+[arxiv 2025.02]  InterFeedback: Unveiling Interactive Intelligence of Large Multimodal Models via Human Feedback [[PDF](https://arxiv.org/abs/2502.15027)]
 
 [arxiv 2025.02]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
