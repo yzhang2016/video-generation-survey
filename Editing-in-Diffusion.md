@@ -2553,7 +2553,7 @@ Creative Layout-to-Image Generation [[PDF](https://arxiv.org/pdf/2412.03859),[Pa
 [arxiv 2025.02] TraFlow: Trajectory Distillation on Pre-Trained Rectified Flow  [[PDF](https://arxiv.org/pdf/2502.16972)]
 
 [arxiv 2025.02]  SpargeAttn: Accurate Sparse Attention Accelerating Any Model Inference
- [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
+ [[PDF](https://arxiv.org/abs/2502.18137),[Page](https://github.com/thu-ml/SpargeAttn)] ![Code](https://img.shields.io/github/stars/thu-ml/SpargeAttn?style=social&label=Star)
 
 
 [arxiv 2025.02]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
