@@ -772,6 +772,8 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2025.02] MotionMatcher: Motion Customization of Text-to-Video Diffusion Models via Motion Feature Matching  [[PDF](https://arxiv.org/abs/2502.13234),[Page](https://www.csie.ntu.edu.tw/~b09902097/motionmatcher/)] ![Code](https://img.shields.io/github/stars/b09902097/motionmatcher?style=social&label=Star)
 
+[arxiv 2025.02]  C-Drag: Chain-of-Thought Driven Motion Controller for Video Generation [[PDF](https://arxiv.org/pdf/2502.19868),[Page](https://github.com/WesLee88524/C-Drag-Official-Repo)] ![Code](https://img.shields.io/github/stars/WesLee88524/C-Drag-Official-Repo?style=social&label=Star)
+
 
 [arxiv 2025.02]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -1127,6 +1129,10 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2025.01] RelightVid: Temporal-Consistent Diffusion Model for Video Relighting [[PDF](https://arxiv.org/abs/2501.16330)]
 
+[arxiv 2025.02] Mobius: Text to Seamless Looping Video Generation via Latent Shift  [[PDF](https://arxiv.org/abs/2502.20307),[Page](https://mobius-diffusion.github.io/)] ![Code](https://img.shields.io/github/stars/YisuiTT/Mobius?style=social&label=Star)
+
+
+
 [arxiv 2025.02]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 
@@ -1184,6 +1190,9 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 [arxiv 2025.02] Movie Weaver: Tuning-Free Multi-Concept Video Personalization with Anchored Prompts  [[PDF](https://jeff-liangf.github.io/projects/movieweaver/Movie_Weaver.pdf),[Page](https://jeff-liangf.github.io/projects/movieweaver/)] 
 
 [arxiv 2025.02] Phantom: Subject-consistent video generation via cross-modal alignment  [[PDF](https://phantom-video.github.io/Phantom/),[Page](https://github.com/Phantom-video/Phantom)] ![Code](https://img.shields.io/github/stars/Phantom-video/Phantom?style=social&label=Star)
+
+[arxiv 2025.02] FantasyID: Face Knowledge Enhanced ID-Preserving Video Generation  [[PDF](https://arxiv.org/abs/2502.13995),[Page](https://fantasy-amap.github.io/fantasy-id/)] ![Code](https://img.shields.io/github/stars/Fantasy-AMAP/fantasy-id?style=social&label=Star)
+
 
 
 [arxiv 2025.02]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
@@ -1274,6 +1283,12 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 [arxiv 2025.02] SkyReels-A1: Expressive Portrait Animation in Video Diffusion Transformer  [[PDF](https://arxiv.org/abs/2502.10841),[Page](https://skyworkai.github.io/skyreels-a1.github.io/)] ![Code](https://img.shields.io/github/stars/SkyworkAI/SkyReels-A1?style=social&label=Star)
 
 [arxiv 2025.02]  AV-Flow: Transforming Text to Audio-Visual Human-like Interactions [[PDF](https://arxiv.org/abs/2502.13133),[Page](https://aggelinacha.github.io/AV-Flow/)] 
+
+[arxiv 2025.02] InsTaG: Learning Personalized 3D Talking Head from Few-Second Video  [[PDF](https://arxiv.org/abs/2502.20387),[Page](https://fictionarry.github.io/InsTaG/)] ![Code](https://img.shields.io/github/stars/Fictionarry/InsTaG?style=social&label=Star)
+
+[arxiv 2025.02] ARTalk: Speech-Driven 3D Head Animation via Autoregressive Model  [[PDF](https://arxiv.org/abs/2502.20323),[Page](https://xg-chu.site/project_artalk/)] 
+
+[arxiv 2025.02]  High-Fidelity Relightable Monocular Portrait Animation with Lighting-Controllable Video Diffusion Model [[PDF](https://arxiv.org/pdf/2502.19894)]
 
 
 [arxiv 2025.02]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
@@ -1484,6 +1499,9 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 [arxiv 2025.02] VFX Creator: Animated Visual Effect Generation with Controllable Diffusion Transformer  [[PDF](https://arxiv.org/abs/2502.05979),[Page](https://vfx-creator0.github.io/)] 
 
 [arxiv 2025.02]  AdaFlow: Efficient Long Video Editing via Adaptive Attention Slimming And Keyframe Selection [[PDF](https://arxiv.org/abs/2502.05433),[Page](https://github.com/jidantang55/AdaFlow)] ![Code](https://img.shields.io/github/stars/jidantang55/AdaFlow?style=social&label=Star)
+
+[arxiv 2025.02]  VideoGrain: Modulating Space-Time Attention for Multi-Grained Video Editing [[PDF](https://arxiv.org/abs/2502.17258),[Page](https://knightyxp.github.io/VideoGrain_project_page/)] ![Code](https://img.shields.io/github/stars/knightyxp/VideoGrain?style=social&label=Star)
+
 
 
 [arxiv 2025.02]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
