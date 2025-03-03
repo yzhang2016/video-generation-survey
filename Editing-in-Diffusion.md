@@ -442,8 +442,12 @@
 
 [arxiv 2025.02] PhotoDoodle: Learning Artistic Image Editing from Few-Shot Pairwise Data  [[PDF](https://arxiv.org/abs/2502.14397),[Page](https://github.com/showlab/PhotoDoodle)] ![Code](https://img.shields.io/github/stars/showlab/PhotoDoodle?style=social&label=Star)
 
-[arxiv 2025.02]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
+[arxiv 2025.02] KV-Edit: Training-Free Image Editing for Precise Background Preservation  [[PDF](https://arxiv.org/abs/2502.17363),[Page](https://xilluill.github.io/projectpages/KV-Edit/)] ![Code](https://img.shields.io/github/stars/Xilluill/KV-Edit?style=social&label=Star)
 
+[arxiv 2025.02]  Tight Inversion: Image-Conditioned Inversion for Real Image Editing [[PDF](https://arxiv.org/pdf/2502.20376)]
+
+
+[arxiv 2025.02]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 
 ## Analysis
@@ -525,6 +529,10 @@
 [arxiv 2024.12] Causal Diffusion Transformer for Generative Modeling  [[PDF](https://arxiv.org/abs/2412.12095),[Page](https://github.com/causalfusion/causalfusion)] ![Code](https://img.shields.io/github/stars/causalfusion/causalfusion?style=social&label=Star)
 
 [arxiv 2024.12] E-CAR: Efficient Continuous Autoregressive Image Generation via Multistage Modeling  [[PDF](https://arxiv.org/abs/2412.14170)]
+
+[arxiv 2025.02]  Fractal Generative Models [[PDF](https://arxiv.org/pdf/2502.17437),[Page](https://github.com/LTH14/fractalgen)] ![Code](https://img.shields.io/github/stars/LTH14/fractalgen?style=social&label=Star)
+
+
 
 [arxiv 2025.02]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -900,6 +908,8 @@
 
 [arxiv 2024.12] RDPM: Solve Diffusion Probabilistic Models via Recurrent Token Prediction  [[PDF](https://arxiv.org/pdf/2412.18390)]
 
+[arxiv 2025.02] Beyond Next-Token: Next-X Prediction for Autoregressive Visual Generation  [[PDF](https://arxiv.org/abs/2502.20388),[Page](https://oliverrensu.github.io/project/xAR/)] ![Code](https://img.shields.io/github/stars/OliverRensu/xAR?style=social&label=Star)
+
 
 [arxiv 2025.02]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -1061,6 +1071,8 @@
 [arxiv 2024.11] Precision or Recall? An Analysis of Image Captions for Training Text-to-Image Generation Model  [[PDF](https://arxiv.org/abs/2411.05079),[Page](https://github.com/shengcheng/Captions4T2I)]
 
 [arxiv 2025.02]  Decoder-Only LLMs are Better Controllers for Diffusion Models [[PDF](https://arxiv.org/pdf/2502.04412)]
+
+[arxiv 2025.02]  LDGen: Enhancing Text-to-Image Synthesis via Large Language Model-Driven Language Representation [[PDF](https://arxiv.org/abs/2502.18302),[Page](https://zrealli.github.io/LDGen/)] ![Code](https://img.shields.io/github/stars/zrealli/LDGen?style=social&label=Star)
 
 
 [arxiv 2025.02]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
@@ -1917,6 +1929,10 @@ Creative Layout-to-Image Generation [[PDF](https://arxiv.org/pdf/2412.03859),[Pa
 
 [arxiv 2025.02] Multitwine: Multi-Object Compositing with Text and Layout Control  [[PDF](https://arxiv.org/abs/2502.05165)]
 
+[arxiv 2025.02] ART: Anonymous Region Transformer for Variable Multi-Layer Transparent Image Generation  [[PDF](https://arxiv.org/pdf/2502.18364),[Page](https://art-msra.github.io/)] ![Code](https://img.shields.io/github/stars/microsoft/art-msra?style=social&label=Star)
+
+[arxiv 2025.02] SYNTHIA: Novel Concept Design with Affordance Composition  [[PDF](https://arxiv.org/abs/2502.17793),[Page](https://github.com/HyeonjeongHa/SYNTHIA)] ![Code](https://img.shields.io/github/stars/HyeonjeongHa/SYNTHIA?style=social&label=Star)
+
 
 [arxiv 2025.02]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -2262,6 +2278,10 @@ Creative Layout-to-Image Generation [[PDF](https://arxiv.org/pdf/2412.03859),[Pa
 
 [arxiv 2025.02] GCC: Generative Color Constancy via Diffusing a Color Checker  [[PDF](https://arxiv.org/abs/2502.17435),[Page](https://chenwei891213.github.io/GCC/)] 
 
+[arxiv 2025.02] K-LoRA: Unlocking Training-Free Fusion of Any Subject and Style LoRAs  [[PDF](https://arxiv.org/abs/2502.18461),[Page](https://k-lora.github.io/K-LoRA.io/)] ![Code](https://img.shields.io/github/stars/HVision-NKU/K-LoRA?style=social&label=Star)
+
+[arxiv 2025.02] Attention Distillation: A Unified Approach to Visual Characteristics Transfer  [[PDF](https://arxiv.org/abs/2502.20235),[Page](https://github.com/xugao97/AttentionDistillation)] ![Code](https://img.shields.io/github/stars/xugao97/AttentionDistillation?style=social&label=Star)
+
 
 [arxiv 2025.02]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -2352,6 +2372,9 @@ Creative Layout-to-Image Generation [[PDF](https://arxiv.org/pdf/2412.03859),[Pa
 [arxiv 2023.07]DreamIdentity: Improved Editability for Efficient Face-identity Preserved Image Generation [[PDF](https://arxiv.org/abs/2307.00300),[Page](https://dreamidentity.github.io/)]
 
 [arxiv 2024.10] FuseAnyPart: Diffusion-Driven Facial Parts Swapping via Multiple Reference Images  [[PDF](https://arxiv.org/abs/2410.22771),[Page](https://thomas-wyh.github.io/)]
+
+[arxiv 2025.02] GHOST 2.0: Generative High-fidelity One Shot Transfer of Heads  [[PDF](https://arxiv.org/pdf/2502.18417)]
+
 
 [arxiv 2025.02]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -2526,6 +2549,11 @@ Creative Layout-to-Image Generation [[PDF](https://arxiv.org/pdf/2412.03859),[Pa
 [arxiv 2025.02] Region-Adaptive Sampling for Diffusion Transformers  [[PDF](https://arxiv.org/pdf/2502.10389),[Page](https://microsoft.github.io/RAS/)] ![Code](https://img.shields.io/github/stars/microsoft/RAS?style=social&label=Star)
 
 [arxiv 2025.02] One-step Diffusion Models with f-Divergence Distribution Matching  [[PDF](https://arxiv.org/abs/2502.15681),[Page](https://research.nvidia.com/labs/genair/f-distill/)] 
+
+[arxiv 2025.02] TraFlow: Trajectory Distillation on Pre-Trained Rectified Flow  [[PDF](https://arxiv.org/pdf/2502.16972)]
+
+[arxiv 2025.02]  SpargeAttn: Accurate Sparse Attention Accelerating Any Model Inference
+ [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 
 [arxiv 2025.02]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
