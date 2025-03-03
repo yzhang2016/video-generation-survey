@@ -125,6 +125,10 @@
 
 [arxiv 2025.01]  DAViD: Modeling Dynamic Affordance of 3D Objects using Pre-trained Video Diffusion Models [[PDF](https://arxiv.org/abs/2501.08333),[Page](https://snuvclab.github.io/david/)] ![Code](https://img.shields.io/github/stars/snuvclab/david?style=social&label=Star)
 
+[arxiv 2025.02]  InterMimic: Towards Universal Whole-Body Control for Physics-Based Human-Object Interactions [[PDF](https://arxiv.org/pdf/2502.20390),[Page](https://sirui-xu.github.io/InterMimic/)] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
+
+[arxiv 2025.02]  Ready-to-React: Online Reaction Policy for Two-Character Interaction Generation [[PDF](https://arxiv.org/abs/2502.20370),[Page](https://zju3dv.github.io/ready_to_react/)] ![Code](https://img.shields.io/github/stars/zju3dv/ready_to_react?style=social&label=Star)
+
 
 [arxiv 2025.02]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
