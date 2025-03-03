@@ -73,8 +73,6 @@
 [arxiv 2024.09] Visual Prompting in Multimodal Large Language Models: A Survey[[PDF](https://arxiv.org/abs/2409.15310)]
 
 
-
-
 [arxiv 2024.10]ACE: All-round Creator and Editor Following Instructions via Diffusion Transformer [[PDF](https://arxiv.org/abs/2410.00086), [Page](https://ali-vilab.github.io/ace-page/)]
 
 [arxiv 2024.10]Baichuan-Omni Technical Report [[PDF](https://arxiv.org/abs/2410.08565), [Page](https://github.com/westlake-baichuan-mllm/bc-omni)]
@@ -105,6 +103,8 @@
 [arxiv 2025.02]  MM-RLHF: The Next Step Forward in Multimodal LLM Alignment [[PDF](https://arxiv.org/abs/2502.10391),[Page](https://mm-rlhf.github.io/)] ![Code](https://img.shields.io/github/stars/Kwai-YuanQi/MM-RLHF?style=social&label=Star) 
 
 [arxiv 2025.02] RE-ALIGN: Aligning Vision Language Models via Retrieval-Augmented Direct Preference Optimization  [[PDF](https://arxiv.org/abs/2502.13146),[Page](https://github.com/taco-group/Re-Align)] ![Code](https://img.shields.io/github/stars/taco-group/Re-Align?style=social&label=Star) 
+
+[arxiv 2025.02] OmniAlign-V: Towards Enhanced Alignment of MLLMs with Human Preference  [[PDF](https://arxiv.org/abs/2502.18411),[Page](https://github.com/PhoenixZ810/OmniAlign-V)] ![Code](https://img.shields.io/github/stars/PhoenixZ810/OmniAlign-V?style=social&label=Star) 
 
 
 [arxiv 2025.02]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
@@ -196,6 +196,8 @@
 
 
 [arxiv 2025.02]  HermesFlow: Seamlessly Closing the Gap in Multimodal Understanding and Generation [[PDF](https://arxiv.org/pdf/2502.12148),[Page](https://github.com/Gen-Verse/HermesFlow)] ![Code](https://img.shields.io/github/stars/Gen-Verse/HermesFlow?style=social&label=Star) 
+
+[arxiv 2025.02]  UniTok: A Unified Tokenizer for Visual Generation and Understanding [[PDF](https://arxiv.org/abs/2502.20321),[Page](https://github.com/FoundationVision/UniTok)] ![Code](https://img.shields.io/github/stars/FoundationVision/UniTok?style=social&label=Star) 
 
 
 [arxiv 2025.02]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
