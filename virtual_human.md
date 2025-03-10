@@ -2,7 +2,7 @@
 ## Gaussian Face 
 [arxiv 2025.01] PERSE: Personalized 3D Generative Avatars from A Single Portrait  [[PDF](https://arxiv.org/abs/2412.21206),[Page](https://hyunsoocha.github.io/perse/)] ![Code](https://img.shields.io/github/stars/snuvclab/perse?style=social&label=Star)
 
-[arxiv 2025.02]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
+[arxiv 2025.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 
 
@@ -64,14 +64,14 @@
 [arxiv 2025.02] Fg-T2M++: LLMs-Augmented Fine-Grained Text Driven Human Motion Generation  [[PDF](https://arxiv.org/abs/2502.05534)]
 
 
-[arxiv 2025.02]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
+[arxiv 2025.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 
 
 ## audio-to-gesture 
 [arxiv 2024.10] Emphasizing Semantic Consistency of Salient Posture for Speech-Driven Gesture Generation  [[PDF](https://arxiv.org/abs/2410.13786)]
 
-[arxiv 2025.02]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
+[arxiv 2025.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 
 
@@ -94,7 +94,7 @@
 [arxiv 2025.01]  Predicting 4D Hand Trajectory from Monocular Videos [[PDF](https://arxiv.org/abs/2501.08329),[Page](https://judyye.github.io/4dhands)]
 
 
-[arxiv 2025.02]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
+[arxiv 2025.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 
 
@@ -129,8 +129,10 @@
 
 [arxiv 2025.02]  Ready-to-React: Online Reaction Policy for Two-Character Interaction Generation [[PDF](https://arxiv.org/abs/2502.20370),[Page](https://zju3dv.github.io/ready_to_react/)] ![Code](https://img.shields.io/github/stars/zju3dv/ready_to_react?style=social&label=Star)
 
+[arxiv 2025.03]  Towards Semantic 3D Hand-Object Interaction Generation via Functional Text Guidance [[PDF](https://arxiv.org/pdf/2502.20805)]
 
-[arxiv 2025.02]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
+
+[arxiv 2025.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 
 ## Interaction Detection 
@@ -141,7 +143,7 @@
 
 [arxiv 2025.01]  Interacted Object Grounding in Spatio-Temporal Human-Object Interactions [[PDF](https://arxiv.org/abs/2412.19542),[Page](https://github.com/DirtyHarryLYL/HAKE-AVA)] ![Code](https://img.shields.io/github/stars/DirtyHarryLYL/HAKE-AVA?style=social&label=Star)
 
-[arxiv 2025.02]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
+[arxiv 2025.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 
 ## environment 
@@ -154,7 +156,7 @@
 [arxiv 2024.12]  ZeroHSI: Zero-Shot 4D Human-Scene Interaction [[PDF](https://arxiv.org/abs/2412.18600),[Page](https://awfuact.github.io/zerohsi/)] 
 
 
-[arxiv 2025.02]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
+[arxiv 2025.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 
 
@@ -163,4 +165,4 @@
 [arxiv 2024.11] FreeCap: Hybrid Calibration-Free Motion Capture in Open Environments  [[PDF](https://arxiv.org/abs/2411.04469)]
 
 
-[arxiv 2025.02]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
+[arxiv 2025.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
