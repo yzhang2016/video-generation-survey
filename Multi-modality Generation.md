@@ -7,7 +7,7 @@
 
 
 
-[arxiv 2025.02]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
+[arxiv 2025.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
 
 
 ### Multi-modality Generation 
@@ -19,7 +19,7 @@
 [arxiv 2025.01] MiniMax-01: Scaling Foundation Models with Lightning Attention  [[PDF](https://arxiv.org/abs/2501.08313),[Page](https://github.com/MiniMax-AI/MiniMax-01)] ![Code](https://img.shields.io/github/stars/MiniMax-AI/MiniMax-01?style=social&label=Star) 
 
 
-[arxiv 2025.02]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
+[arxiv 2025.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
 
 
 ### [Awesome-Multimodal-Large-Language-Models](https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models)
@@ -94,7 +94,7 @@
 [arxiv 2025.02] CoS: Chain-of-Shot Prompting for Long Video Understanding  [[PDF](https://arxiv.org/abs/2502.06428),[Page](https://lwpyh.github.io/CoS/)] ![Code](https://img.shields.io/github/stars/lwpyh/CoS_codes?style=social&label=Star) 
 
 
-[arxiv 2025.02]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
+[arxiv 2025.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
 
 
 ## Feedback 
@@ -107,7 +107,7 @@
 [arxiv 2025.02] OmniAlign-V: Towards Enhanced Alignment of MLLMs with Human Preference  [[PDF](https://arxiv.org/abs/2502.18411),[Page](https://github.com/PhoenixZ810/OmniAlign-V)] ![Code](https://img.shields.io/github/stars/PhoenixZ810/OmniAlign-V?style=social&label=Star) 
 
 
-[arxiv 2025.02]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
+[arxiv 2025.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
 
 
 
@@ -127,7 +127,7 @@
 
 
 
-[arxiv 2025.02]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
+[arxiv 2025.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
 
 
 ## Multi-modality Understanding 
@@ -186,9 +186,12 @@
 
 [arxiv 2025.02] MLLMs Know Where to Look: Training-free Perception of Small Visual Details with Multimodal LLMs  [[PDF](https://arxiv.org/abs/2502.17422),[Page](https://github.com/saccharomycetes/mllms_know)] ![Code](https://img.shields.io/github/stars/saccharomycetes/mllms_know?style=social&label=Star) 
 
+[arxiv 2025.03]  Visual-RFT: Visual Reinforcement Fine-Tuning [[PDF](https://arxiv.org/pdf/2503.01785),[Page](https://github.com/Liuziyu77/Visual-RFT)] ![Code](https://img.shields.io/github/stars/Liuziyu77/Visual-RFT?style=social&label=Star) 
+
+[arxiv 2025.03]  NEXUS-O: AN OMNI-PERCEPTIVE AND -INTERACTIVE MODEL FOR LANGUAGE, AUDIO, AND VISION [[PDF](https://arxiv.org/pdf/2503.01879)]
 
 
-[arxiv 2025.02]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
+[arxiv 2025.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
 
 
 ## Multi-modality Understanding and Generation 
@@ -199,8 +202,11 @@
 
 [arxiv 2025.02]  UniTok: A Unified Tokenizer for Visual Generation and Understanding [[PDF](https://arxiv.org/abs/2502.20321),[Page](https://github.com/FoundationVision/UniTok)] ![Code](https://img.shields.io/github/stars/FoundationVision/UniTok?style=social&label=Star) 
 
+[arxiv 2025.03]  WeGen: A Unified Model for Interactive Multimodal Generation as We Chat [[PDF](https://arxiv.org/pdf/2503.01115),[Page](https://github.com/hzphzp/WeGen)] ![Code](https://img.shields.io/github/stars/hzphzp/WeGen?style=social&label=Star) 
 
-[arxiv 2025.02]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
+
+
+[arxiv 2025.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
 
 
 ## multi-modality evaluation 
@@ -214,9 +220,9 @@
 
 [arxiv 2025.02] From 16-Bit to 1-Bit: Visual KV Cache Quantization for Memory-Efficient Multimodal Large Language Models  [[PDF](https://arxiv.org/abs/2502.14882)]
 
+[arxiv 2025.03]  Token-Efficient Long Video Understanding for Multimodal LLMs [[PDF](https://arxiv.org/pdf/2503.04130),[Page](https://research.nvidia.com/labs/lpr/storm/)] 
 
-
-[arxiv 2025.02]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
+[arxiv 2025.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
 
 ## few-shot
 [arxiv 2025.02]  Efficient Few-Shot Continual Learning in Vision-Language Models [[PDF](https://arxiv.org/pdf/2502.04098)]
@@ -228,7 +234,7 @@
 [arxiv 2024.11]Video-Guided Foley Sound Generation with Multimodal Controls [[PDF](https://arxiv.org/abs/2411.17698), [Page](https://ificl.github.io/MultiFoley/)]
 
 
-[arxiv 2025.02]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
+[arxiv 2025.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
 
 ## speed 
 [arxiv 2024.10]PyramidDrop: Accelerating Your Large Vision-Language Models via Pyramid Visual Redundancy Reduction[[PDF](https://arxiv.org/abs/2410.17247), [Page]()]
@@ -238,4 +244,4 @@
 
 
 
-[arxiv 2025.02]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
+[arxiv 2025.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
