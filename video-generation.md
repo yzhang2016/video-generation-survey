@@ -735,7 +735,7 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2024.06] MotionBooth: Motion-Aware Customized Text-to-Video Generation [[PDF](https://arxiv.org/abs/2406.17758),[Page](https://jianzongwu.github.io/projects/motionbooth)]
 
-[arxiv 2024.07] Tora: Trajectory-oriented Diffusion Transformer for Video Generation  [[PDF](https://arxiv.org/abs/2407.21705),[Page](https://ali-videoai.github.io/tora_video/)] ![Code](https://img.shields.io/github/stars/alibaba/Tora?style=social&label=Star)
+[CVPR 2025] Tora: Trajectory-oriented Diffusion Transformer for Video Generation  [[PDF](https://arxiv.org/abs/2407.21705),[Page](https://ali-videoai.github.io/tora_video/)] [![Code](https://img.shields.io/github/stars/alibaba/Tora?style=social&label=Star)](https://github.com/alibaba/Tora)
 
 [arxiv 2024.08] Puppet-Master: Scaling Interactive Video Generation as a Motion Prior for Part-Level Dynamics[[PDF](https://arxiv.org/abs/2408.04631),[Page](https://vgg-puppetmaster.github.io/)]
 
