@@ -1454,6 +1454,10 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2025.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
+## unified editing and generation
+[arxiv 2025.03] VACE: All-in-One Video Creation and Editing  [[PDF](https://arxiv.org/pdf/2503.07598),[Page](https://ali-vilab.github.io/VACE-Page/)] 
+
+[arxiv 2025.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 
 ## editing with video models 
