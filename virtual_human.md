@@ -73,6 +73,11 @@
 
 [arxiv 2025.03] HERO: Human Reaction Generation from Videos  [[PDF](https://arxiv.org/pdf/2503.08270),[Page](https://jackyu6.github.io/HERO/)] 
 
+[arxiv 2025.03]  NIL: No-data Imitation Learning by Leveraging Pre-trained Video Diffusion Models [[PDF](https://arxiv.org/pdf/2503.10626)]
+
+[arxiv 2025.03] ACMo: Attribute Controllable Motion Generation  [[PDF](https://arxiv.org/abs/2503.11038),[Page](https://mjwei3d.github.io/ACMo/)] ![Code](https://img.shields.io/github/stars/MingjieWe/ACMo?style=social&label=Star)
+
+
 
 [arxiv 2025.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
