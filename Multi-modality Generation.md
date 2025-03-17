@@ -190,6 +190,9 @@
 
 [arxiv 2025.03]  NEXUS-O: AN OMNI-PERCEPTIVE AND -INTERACTIVE MODEL FOR LANGUAGE, AUDIO, AND VISION [[PDF](https://arxiv.org/pdf/2503.01879)]
 
+[arxiv 2025.03] Vision-R1: Incentivizing Reasoning Capability in Multimodal Large Language Models  [[PDF](https://arxiv.org/pdf/2503.06749),[Page](https://github.com/Osilly/Vision-R1)] ![Code](https://img.shields.io/github/stars/Osilly/Vision-R1?style=social&label=Star) 
+
+
 
 [arxiv 2025.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
 
@@ -235,6 +238,13 @@
 
 
 [arxiv 2025.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
+
+
+## Study 
+[arxiv 2025.03] Should VLMs be Pre-trained with Image Data?  [[PDF](https://arxiv.org/abs/2503.07603)]
+
+[arxiv 2025.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
+
 
 ## speed 
 [arxiv 2024.10]PyramidDrop: Accelerating Your Large Vision-Language Models via Pyramid Visual Redundancy Reduction[[PDF](https://arxiv.org/abs/2410.17247), [Page]()]
