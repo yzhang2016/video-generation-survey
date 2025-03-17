@@ -926,6 +926,8 @@
 
 [arxiv 2025.02] Beyond Next-Token: Next-X Prediction for Autoregressive Visual Generation  [[PDF](https://arxiv.org/abs/2502.20388),[Page](https://oliverrensu.github.io/project/xAR/)] ![Code](https://img.shields.io/github/stars/OliverRensu/xAR?style=social&label=Star)
 
+[arxiv 2025.03]  NFIG: Autoregressive Image Generation with Next-Frequency Prediction [[PDF](https://arxiv.org/abs/2503.07076)]
+
 
 [arxiv 2025.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -1022,6 +1024,7 @@
 
 [arxiv 2025.02] CrossVTON: Mimicking the Logic Reasoning on Cross-category Virtual Try-on guided by Tri-zone Priors  [[PDF](https://arxiv.org/pdf/2502.14373)]
 
+[arxiv 2025.03] MF-VITON: High-Fidelity Mask-Free Virtual Try-On with Minimal Input  [[PDF](https://arxiv.org/pdf/2503.08650),[Page](https://zhenchenwan.github.io/MF-VITON/)] ![Code](https://img.shields.io/github/stars/ZhenchenWan/MF-VITON-High-Fidelity-Mask-Free-Virtual-Try-On-with-Minimal-Input?style=social&label=Star)
 
 
 [arxiv 2025.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
@@ -1071,6 +1074,7 @@
 
 [arxiv 2025.02]  ControlText: Unlocking Controllable Fonts in Multilingual Text Rendering without Font Annotations [[PDF](https://arxiv.org/pdf/2502.10999),[Page](https://github.com/bowen-upenn/ControlText)] ![Code](https://img.shields.io/github/stars/bowen-upenn/ControlText?style=social&label=Star)
 
+[arxiv 2025.03]  Recognition-Synergistic Scene Text Editing [[PDF](https://arxiv.org/pdf/2503.08387),[Page](https://github.com/ZhengyaoFang/RS-STE)] ![Code](https://img.shields.io/github/stars/ZhengyaoFang/RS-STE?style=social&label=Star)
 
 
 [arxiv 2025.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
@@ -1445,6 +1449,10 @@
 [arxiv 2025.02]  Personalized Image Generation with Deep Generative Models: A Decade Survey [[PDF](https://arxiv.org/abs/2502.13081),[Page](https://github.com/csyxwei/Awesome-Personalized-Image-Generation)] ![Code](https://img.shields.io/github/stars/csyxwei/Awesome-Personalized-Image-Generation?style=social&label=Star)
 
 [arxiv 2025.02] IP-Composer: Semantic Composition of Visual Concepts  [[PDF](https://arxiv.org/pdf/2502.13951),[Page](https://ip-composer.github.io/IP-Composer/)] ![Code](https://img.shields.io/github/stars/ip-composer/IP-Composer?style=social&label=Star)
+
+[arxiv 2025.03]  LatexBlend: Scaling Multi-concept Customized Generation with Latent Textual Blending [[PDF](https://jinjianrick.github.io/latexblend/unicanvas_ijcv.pdf),[Page](https://jinjianrick.github.io/latexblend/)] ![Code](https://img.shields.io/github/stars/jinjianRick/latexblend?style=social&label=Star)
+
+[arxiv 2025.03] DynamicID: Zero-Shot Multi-ID Image Personalization with Flexible Facial Editability  [[PDF](https://arxiv.org/pdf/2503.06505)]
 
 
 [arxiv 2025.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
@@ -1951,6 +1959,14 @@ Creative Layout-to-Image Generation [[PDF](https://arxiv.org/pdf/2412.03859),[Pa
 
 [arxiv 2025.03]  ToLo: A Two-Stage, Training-Free Layout-To-Image Generation Framework For High-Overlap Layouts [[PDF](https://arxiv.org/pdf/2503.01667),[Page](https://github.com/misaka12435/ToLo)] ![Code](https://img.shields.io/github/stars/misaka12435/ToLo?style=social&label=Star)
 
+[arxiv 2025.03] EasyControl: Adding Efficient and Flexible Control for Diffusion Transformer  [[PDF](https://arxiv.org/pdf/2503.07027),[Page](https://github.com/Xiaojiu-z/EasyControl)] ![Code](https://img.shields.io/github/stars/Xiaojiu-z/EasyControl?style=social&label=Star)
+
+[arxiv 2025.03]  PixelPonder: Dynamic Patch Adaptation for Enhanced Multi-Conditional Text-to-Image Generation [[PDF](https://arxiv.org/abs/2503.06684),[Page](https://hithqd.github.io/projects/PixelPonder/)] ![Code](https://img.shields.io/github/stars/chfyfr/PixelPonder?style=social&label=Star)
+
+[arxiv 2025.03]  Adding Additional Control to One-Step Diffusion with Joint Distribution Matching [[PDF](https://arxiv.org/pdf/2503.06652)]
+
+[arxiv 2025.03] OminiControl2: Efficient Conditioning for Diffusion Transformers  [[PDF](https://arxiv.org/pdf/2503.08280),[Page](https://github.com/Yuanshi9815/OminiControl)] ![Code](https://img.shields.io/github/stars/Yuanshi9815/OminiControl?style=social&label=Star)
+
 
 [arxiv 2025.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -2143,6 +2159,12 @@ Creative Layout-to-Image Generation [[PDF](https://arxiv.org/pdf/2412.03859),[Pa
 
 [arxiv 2025.03] DifIISR: A Diffusion Model with Gradient Guidance for Infrared Image Super-Resolution  [[PDF](https://arxiv.org/abs/2503.01187),[Page](https://github.com/zirui0625/DifIISR)] ![Code](https://img.shields.io/github/stars/zirui0625/DifIISR?style=social&label=Star)
 
+[arxiv 2025.03] QArtSR: Quantization via Reverse-Module and Timestep-Retraining in One-Step Diffusion based Image Super-Resolution  [[PDF](https://arxiv.org/abs/2503.05584),[Page](https://github.com/libozhu03/QArtSR)] ![Code](https://img.shields.io/github/stars/libozhu03/QArtSR?style=social&label=Star)
+
+[arxiv 2025.03] CATANet: Efficient Content-Aware Token Aggregation for Lightweight Image Super-Resolution  [[PDF](https://arxiv.org/abs/2503.06896),[Page](https://github.com/EquationWalker/CATANet)] ![Code](https://img.shields.io/github/stars/EquationWalker/CATANet?style=social&label=Star)
+
+[arxiv 2025.03]  One-Step Diffusion Model for Image Motion-Deblurring [[PDF](https://arxiv.org/abs/2503.06537),[Page](https://github.com/xyLiu339/OSDD)] ![Code](https://img.shields.io/github/stars/xyLiu339/OSDD?style=social&label=Star)
+
 
 [arxiv 2025.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -2302,6 +2324,8 @@ Creative Layout-to-Image Generation [[PDF](https://arxiv.org/pdf/2412.03859),[Pa
 [arxiv 2025.02] K-LoRA: Unlocking Training-Free Fusion of Any Subject and Style LoRAs  [[PDF](https://arxiv.org/abs/2502.18461),[Page](https://k-lora.github.io/K-LoRA.io/)] ![Code](https://img.shields.io/github/stars/HVision-NKU/K-LoRA?style=social&label=Star)
 
 [arxiv 2025.02] Attention Distillation: A Unified Approach to Visual Characteristics Transfer  [[PDF](https://arxiv.org/abs/2502.20235),[Page](https://github.com/xugao97/AttentionDistillation)] ![Code](https://img.shields.io/github/stars/xugao97/AttentionDistillation?style=social&label=Star)
+
+[arxiv 2025.03] AttenST: A Training-Free Attention-Driven Style Transfer Framework with Pre-Trained Diffusion Models  [[PDF](https://arxiv.org/pdf/2503.07307)]
 
 
 [arxiv 2025.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
@@ -2593,6 +2617,10 @@ Creative Layout-to-Image Generation [[PDF](https://arxiv.org/pdf/2412.03859),[Pa
 
 [arxiv 2025.03]  Optimizing for the Shortest Path in Denoising Diffusion Model [[PDF](https://arxiv.org/pdf/2503.03265),[Page](https://github.com/UnicomAI/ShortDF)] ![Code](https://img.shields.io/github/stars/UnicomAI/ShortDF?style=social&label=Star)
 
+[arxiv 2025.03]  Effective and Efficient Masked Image Generation Models [[PDF](https://arxiv.org/abs/2503.07197)]
+
+[arxiv 2025.03] Learning Few-Step Diffusion Models by Trajectory Distribution Matching  [[PDF](https://arxiv.org/pdf/2503.06674),[Page](https://tdm-t2x.github.io/)] ![Code](https://img.shields.io/github/stars/Luo-Yihong/TDM?style=social&label=Star)
+
 
 [arxiv 2025.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -2713,6 +2741,8 @@ Creative Layout-to-Image Generation [[PDF](https://arxiv.org/pdf/2412.03859),[Pa
 [arxiv 2025.03]  Q-Eval-100K: Evaluating Visual Quality and Alignment Level for Text-to-Vision Content [[PDF](https://arxiv.org/pdf/2503.02357),[Page](https://github.com/zzc-1998/Q-Eval)] ![Code](https://img.shields.io/github/stars/zzc-1998/Q-Eval?style=social&label=Star)
 
 [arxiv 2025.03] GRADEO: Towards Human-Like Evaluation for Text-to-Video Generation via Multi-Step Reasoning  [[PDF](https://arxiv.org/pdf/2503.02341)]
+
+[arxiv 2025.03]  WISE: A World Knowledge-Informed Semantic Evaluation for Text-to-Image Generation [[PDF](https://arxiv.org/abs/2503.07265),[Page](https://github.com/PKU-YuanGroup/WISE)] ![Code](https://img.shields.io/github/stars/PKU-YuanGroup/WISE?style=social&label=Star)
 
 
 [arxiv 2025.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
@@ -2866,6 +2896,8 @@ Creative Layout-to-Image Generation [[PDF](https://arxiv.org/pdf/2412.03859),[Pa
 [arxiv 2025.01]  ARFlow: Autogressive Flow with Hybrid Linear Attention [[PDF](https://arxiv.org/abs/2501.16085)]
 
 [arxiv 2025.02]  Spiking Vision Transformer with Saccadic Attention [[PDF](https://arxiv.org/abs/2502.12677)]
+
+[arxiv 2025.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 
 [arxiv 2025.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
