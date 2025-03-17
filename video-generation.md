@@ -530,6 +530,8 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2025.02]  DC-ControlNet: Decoupling Inter- and Intra-Element Conditions in Image Generation with Diffusion Models [[PDF](https://arxiv.org/abs/2502.14779),[Page](https://um-lab.github.io/DC-ControlNet/)] 
 
+[arxiv 2025.03]  Get In Video: Add Anything You Want to the Video [[PDF](https://arxiv.org/abs/2503.06268),[Page](https://zhuangshaobin.github.io/GetInVideo-project/)] ![Code](https://img.shields.io/github/stars/xh9998/DiffVSR?style=social&label=Star)
+
 
 [arxiv 2025.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -564,6 +566,7 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2025.02] Object-Centric Image to Video Generation with Language Guidance  [[PDF](https://arxiv.org/abs/2502.11655),[Page](https://play-slot.github.io/TextOCVP/)] ![Code](https://img.shields.io/github/stars/angelvillar96/TextOCVP?style=social&label=Star)
 
+[arxiv 2025.03]  Tuning-Free Multi-Event Long Video Generation via Synchronized Coupled Sampling [[PDF](https://arxiv.org/abs/2503.08605),[Page](https://syncos2025.github.io/)] 
 
 
 [arxiv 2025.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
@@ -678,6 +681,8 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 [arxiv 2024.11] DreamRunner: Fine-Grained Storytelling Video Generation with Retrieval-Augmented Motion Adaptation [[PDF](https://arxiv.org/abs/2411.16657),[Page](https://dreamrunner-story2video.github.io/)] ![Code](https://img.shields.io/github/stars/wz0919/DreamRunner?style=social&label=Star)
 
 [arxiv 2025.01] VideoAuteur: Towards Long Narrative Video Generation [[PDF](https://arxiv.org/abs/2501.06173),[Page](https://videoauteur.github.io/)] ![Code](https://img.shields.io/github/stars/lambert-x/VideoAuteur?style=social&label=Star)
+
+[arxiv 2025.03] Text2Story: Advancing Video Storytelling with Text Guidance  [[PDF](https://arxiv.org/pdf/2503.06310)]
 
 
 [arxiv 2025.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
@@ -887,6 +892,8 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2024.12]  Autoregressive Video Generation without Vector Quantization [[PDF](https://arxiv.org/abs/2412.14169),[Page](https://github.com/baaivision/NOVA)] ![Code](https://img.shields.io/github/stars/baaivision/NOVA?style=social&label=Star)
 
+[arxiv 2025.03] AR-Diffusion: Asynchronous Video Generation with Auto-Regressive Diffusion  [[PDF](https://arxiv.org/abs/2503.07418),[Page](https://github.com/iva-mzsun/AR-Diffusion)] ![Code](https://img.shields.io/github/stars/iva-mzsun/AR-Diffusion?style=social&label=Star)
+
 
 [arxiv 2025.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -970,6 +977,9 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 [arxiv 2025.02]  RealCam-I2V: Real-World Image-to-Video Generation with Interactive Complex Camera Control [[PDF](https://arxiv.org/abs/2502.10059),[Page](https://zgctroy.github.io/RealCam-I2V/)] ![Code](https://img.shields.io/github/stars/ZGCTroy/RealCam-I2V?style=social&label=Star)
 
 [arxiv 2025.03] GEN3C: 3D-Informed World-Consistent Video Generation with Precise Camera Control  [[PDF](https://arxiv.org/pdf/2503.03751),[Page](https://research.nvidia.com/labs/toronto-ai/GEN3C/)] ![Code](https://img.shields.io/github/stars/nv-tlabs/GEN3C?style=social&label=Star)
+
+[arxiv 2025.03] TrajectoryCrafter: Redirecting Camera Trajectory for Monocular Videos via Diffusion Models  [[PDF](https://arxiv.org/abs/2503.05638),[Page](https://trajectorycrafter.github.io/)] ![Code](https://img.shields.io/github/stars/TrajectoryCrafter/TrajectoryCrafter?style=social&label=Star)
+
 
 
 [arxiv 2025.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
@@ -1212,7 +1222,11 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2025.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
+## relation 
+[arxiv 2025.03]  DreamRelation: Relation-Centric Video Customization [[PDF](https://arxiv.org/abs/2503.07602),[Page](https://dreamrelation.github.io/)] 
 
+
+[arxiv 2025.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 
 
@@ -1529,6 +1543,9 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 [arxiv 2025.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 
+[arxiv 2025.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
+
+
 ## Editing with image model 
 *[arxiv 2022.12]Tune-A-Video: One-Shot Tuning of Image Diffusion Models for Text-to-Video Generation [[PDF](https://arxiv.org/abs/2212.11565), [Page](https://tuneavideo.github.io/)]
 
@@ -1710,6 +1727,9 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2025.02] Event-based Video Frame Interpolation with Cross-Modal Asymmetric Bidirectional Motion Fields  [[PDF](https://openaccess.thecvf.com/content/CVPR2023/papers/Kim_Event-Based_Video_Frame_Interpolation_With_Cross-Modal_Asymmetric_Bidirectional_Motion_Fields_CVPR_2023_paper.pdf),[Page](https://github.com/intelpro/CBMNet)] ![Code](https://img.shields.io/github/stars/intelpro/CBMNet?style=social&label=Star)
 
+[arxiv 2025.03] VideoPainter: Any-length Video Inpainting and Editing with Plug-and-Play Context Control  [[PDF](https://arxiv.org/abs/2503.05639),[Page](https://yxbian23.github.io/project/video-painter/)] ![Code](https://img.shields.io/github/stars/TencentARC/VideoPainter?style=social&label=Star)
+
+
 
 [arxiv 2025.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -1734,6 +1754,7 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2024.12]  StyleMaster: Stylize Your Video with Artistic Generation and Translation [[PDF](https://arxiv.org/abs/2412.07744),[Page](https://zixuan-ye.github.io/stylemaster)] ![Code](https://img.shields.io/github/stars/KwaiVGI/StyleMaster?style=social&label=Star)
 
+[arxiv 2025.03]  SOYO: A Tuning-Free Approach for Video Style Morphing via Style-Adaptive Interpolation in Diffusion Models [[PDF](https://arxiv.org/pdf/2503.06998)]
 
 
 [arxiv 2025.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
