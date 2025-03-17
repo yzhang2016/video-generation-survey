@@ -450,6 +450,10 @@
 
 [arxiv 2025.03]  h-Edit: Effective and Flexible Diffusion-Based Editing via Doob’s h-Transform [[PDF](https://arxiv.org/pdf/2503.02187),[Page](https://github.com/nktoan/h-edit)] ![Code](https://img.shields.io/github/stars/nktoan/h-edit?style=social&label=Star)
 
+[arxiv 2025.03] InteractEdit: Zero-Shot Editing of Human-Object Interactions in Images  [[PDF](https://arxiv.org/pdf/2503.09130),[Page](https://jiuntian.github.io/interactedit/)] ![Code](https://img.shields.io/github/stars/jiuntian/interactedit?style=social&label=Star)
+
+[arxiv 2025.03] MoEdit: On Learning Quantity Perception for Multi-object Image Editing  [[PDF](https://arxiv.org/abs/2503.10112),[Page](https://github.com/Tear-kitty/MoEdit)] ![Code](https://img.shields.io/github/stars/Tear-kitty/MoEdit?style=social&label=Star)
+
 
 [arxiv 2025.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -490,6 +494,10 @@
 [arxiv 2025.03] MIGE: A Unified Framework for Multimodal Instruction-Based Image Generation and Editing  [[PDF](https://arxiv.org/abs/2502.21291),[Page](https://github.com/Eureka-Maggie/MIGE)] ![Code](https://img.shields.io/github/stars/Eureka-Maggie/MIGE?style=social&label=Star)
 
 [arxiv 2025.03]  WeGen: A Unified Model for Interactive Multimodal Generation as We Chat [[PDF](https://arxiv.org/pdf/2503.01115),[Page](https://github.com/hzphzp/WeGen)] ![Code](https://img.shields.io/github/stars/hzphzp/WeGen?style=social&label=Star) 
+
+[arxiv 2025.03] UniCombine: Unified Multi-Conditional Combination with Diffusion Transformer  [[PDF](https://arxiv.org/pdf/2503.09277),[Page](https://github.com/Xuan-World/UniCombine)] ![Code](https://img.shields.io/github/stars/Xuan-World/UniCombine?style=social&label=Star)
+
+[arxiv 2025.03] RealGeneral: Unifying Visual Generation via Temporal In-Context Learning with Video Models  [[PDF](https://arxiv.org/pdf/2503.10406),[Page](https://lyne1.github.io/RealGeneral/)] !
 
 [arxiv 2025.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -541,6 +549,8 @@
 
 [arxiv 2025.03] Spiking Transformer: Introducing Accurate Addition-Only Spiking Self-Attention for Transformer  [[PDF](https://arxiv.org/pdf/2503.00226)]
 
+[arxiv 2025.03] DiT-Air: Revisiting the Efficiency of Diffusion Model Architecture Design in Text to Image Generation  [[PDF](https://arxiv.org/abs/2503.10618)]
+
 
 [arxiv 2025.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -573,6 +583,8 @@
 [arxiv 2025.02]  Bidirectional Diffusion Bridge Models [[PDF](https://arxiv.org/abs/2502.09655),[Page](https://github.com/kvmduc/BDBM)] ![Code](https://img.shields.io/github/stars/kvmduc/BDBM?style=social&label=Star)
 
 [arxiv 2025.02] Is Noise Conditioning Necessary for Denoising Generative Models?  [[PDF](https://arxiv.org/pdf/2502.13129)]
+
+[arxiv 2025.03] The Curse of Conditions: Analyzing and Improving Optimal Transport for Conditional Flow-Based Generation  [[PDF](https://arxiv.org/abs/2503.10636),[Page](https://hkchengrex.github.io/C2OT)] ![Code](https://img.shields.io/github/stars/hkchengrex/C2OT?style=social&label=Star)
 
 
 [arxiv 2025.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
@@ -836,8 +848,13 @@
 
 [arxiv 2025.03] T2ICount: Enhancing Cross-modal Understanding for Zero-Shot Counting  [[PDF](https://arxiv.org/abs/2502.20625),[Page](https://github.com/cha15yq/T2ICount)] ![Code](https://img.shields.io/github/stars/cha15yq/T2ICount?style=social&label=Star)
 
+[arxiv 2025.03]  Investigating and Improving Counter-Stereotypical Action Relation in Text-to-Image Diffusion Models [[PDF](https://arxiv.org/pdf/2503.10037)]
+
 
 [arxiv 2025.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
+
+
+
 
 ## data augmentation
 [arxiv 2025.03] How far can we go with ImageNet for Text-to-Image generation?  [[PDF](https://arxiv.org/abs/2502.21318),[Page](https://lucasdegeorge.github.io/projects/t2i_imagenet/)] ![Code](https://img.shields.io/github/stars/lucasdegeorge/T2I-ImageNet?style=social&label=Star)
@@ -863,6 +880,8 @@
 [arxiv 2025.02] QLIP: Text-Aligned Visual Tokenization Unifies Auto-Regressive Multimodal Understanding and Generation  [[PDF](https://arxiv.org/abs/2502.05178),[Page](https://nvlabs.github.io/QLIP/)] ![Code](https://img.shields.io/github/stars/NVlabs/QLIP?style=social&label=Star)
 
 [arxiv 2025.03] DLF: Extreme Image Compression with Dual-generative Latent Fusion  [[PDF](https://arxiv.org/pdf/2503.01428)]
+
+[arxiv 2025.03] FlowTok: Flowing Seamlessly Across Text and Image Tokens  [[PDF](https://arxiv.org/pdf/2503.10772),[Page](https://tacju.github.io/projects/flowtok.html)] ![Code](https://img.shields.io/github/stars/bytedance/1d-tokenizer?style=social&label=Star)
 
 
 [arxiv 2025.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
@@ -928,6 +947,9 @@
 
 [arxiv 2025.03]  NFIG: Autoregressive Image Generation with Next-Frequency Prediction [[PDF](https://arxiv.org/abs/2503.07076)]
 
+[arxiv 2025.03] Autoregressive Image Generation with Randomized Parallel Decoding  [[PDF](https://arxiv.org/abs/2503.10568),[Page](https://github.com/hp-l33/ARPG)] ![Code](https://img.shields.io/github/stars/hp-l33/ARPG?style=social&label=Star)
+
+[arxiv 2025.03]  Direction-Aware Diagonal Autoregressive Image Generation [[PDF](https://arxiv.org/pdf/2503.11129)]
 
 [arxiv 2025.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -1469,8 +1491,9 @@
 
 [arxiv 2024.12] Generative Photography Scene-Consistent Camera Control for Realistic Text-to-Image Synthesis [[PDF](https://arxiv.org/abs/2412.02168),[Page](https://generative-photography.github.io/project/)] 
 
+[arxiv 2025.03]  Piece it Together: Part-Based Concepting with IP-Priors [[PDF](https://arxiv.org/pdf/2503.10365),[Page](https://eladrich.github.io/PiT/)] ![Code](https://img.shields.io/github/stars/eladrich/PiT?style=social&label=Star)
 
-
+[arxiv 2025.03] ConceptGuard: Continual Personalized Text-to-Image Generation with Forgetting and Confusion Mitigation  [[PDF](https://arxiv.org/abs/2503.10358)】
 
 [arxiv 2025.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -2327,6 +2350,8 @@ Creative Layout-to-Image Generation [[PDF](https://arxiv.org/pdf/2412.03859),[Pa
 
 [arxiv 2025.03] AttenST: A Training-Free Attention-Driven Style Transfer Framework with Pre-Trained Diffusion Models  [[PDF](https://arxiv.org/pdf/2503.07307)]
 
+[arxiv 2025.03] ConsisLoRA: Enhancing Content and Style Consistency for LoRA-based Style Transfer  [[PDF](https://arxiv.org/pdf/2503.10614),[Page](https://consislora.github.io/)] ![Code](https://img.shields.io/github/stars/000linlin/ConsisLoRA?style=social&label=Star)
+
 
 [arxiv 2025.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -2342,6 +2367,11 @@ Creative Layout-to-Image Generation [[PDF](https://arxiv.org/pdf/2412.03859),[Pa
 
 [arxiv 2025.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
+
+## agent
+[arxiv 2025.03] CoSTA∗: Cost-Sensitive Toolpath Agent for Multi-turn Image Editin  [[PDF](https://arxiv.org/abs/2503.10613),[Page](https://github.com/tianyi-lab/CoSTAR)] ![Code](https://img.shields.io/github/stars/tianyi-lab/CoSTAR?style=social&label=Star)
+
+[arxiv 2025.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 
 
@@ -2621,6 +2651,10 @@ Creative Layout-to-Image Generation [[PDF](https://arxiv.org/pdf/2412.03859),[Pa
 
 [arxiv 2025.03] Learning Few-Step Diffusion Models by Trajectory Distribution Matching  [[PDF](https://arxiv.org/pdf/2503.06674),[Page](https://tdm-t2x.github.io/)] ![Code](https://img.shields.io/github/stars/Luo-Yihong/TDM?style=social&label=Star)
 
+[arxiv 2025.03] NAMI: Efficient Image Generation via Progressive Rectified Flow Transformers  [[PDF](https://arxiv.org/pdf/2503.09242)]
+
+[arxiv 2025.03] Distilling Diversity and Control in Diffusion Models  [[PDF](https://arxiv.org/pdf/2503.10637),[Page](https://distillation.baulab.info/)] ![Code](https://img.shields.io/github/stars/rohitgandikota/distillation?style=social&label=Star)
+
 
 [arxiv 2025.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -2897,7 +2931,7 @@ Creative Layout-to-Image Generation [[PDF](https://arxiv.org/pdf/2412.03859),[Pa
 
 [arxiv 2025.02]  Spiking Vision Transformer with Saccadic Attention [[PDF](https://arxiv.org/abs/2502.12677)]
 
-[arxiv 2025.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
+[arxiv 2025.03]  Transformers without Normalization [[PDF](https://arxiv.org/abs/2503.10622),[Page](https://jiachenzhu.github.io/DyT/)] ![Code](https://img.shields.io/github/stars/jiachenzhu/DyT?style=social&label=Star)
 
 
 [arxiv 2025.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
