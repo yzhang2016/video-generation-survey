@@ -63,6 +63,16 @@
 
 [arxiv 2025.02] Fg-T2M++: LLMs-Augmented Fine-Grained Text Driven Human Motion Generation  [[PDF](https://arxiv.org/abs/2502.05534)]
 
+[arxiv 2025.03] StickMotion: Generating 3D Human Motions by Drawing a Stickman  [[PDF](https://arxiv.org/abs/2503.04829)]
+
+[arxiv 2025.03]  HumanMM: Global Human Motion Recovery from Multi-shot Videos [[PDF](https://arxiv.org/abs/2503.07597),[Page](https://zhangyuhong01.github.io/HumanMM/)] ![Code](https://img.shields.io/github/stars/zhangyuhong01/HumanMM-code?style=social&label=Star)
+
+[arxiv 2025.03]  PersonaBooth: Personalized Text-to-Motion Generation [[PDF](https://arxiv.org/abs/2503.07390),[Page](https://boeun-kim.github.io/page-PersonaBooth/)] ![Code](https://img.shields.io/github/stars/Boeun-Kim/MoST?style=social&label=Star)
+
+[arxiv 2025.03] Motion Anything: Any to Motion Generation  [[PDF](https://arxiv.org/abs/2503.06955),[Page](https://steve-zeyu-zhang.github.io/MotionAnything/)] ![Code](https://img.shields.io/github/stars/steve-zeyu-zhang/MotionAnything?style=social&label=Star)
+
+[arxiv 2025.03] HERO: Human Reaction Generation from Videos  [[PDF](https://arxiv.org/pdf/2503.08270),[Page](https://jackyu6.github.io/HERO/)] 
+
 
 [arxiv 2025.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -70,6 +80,9 @@
 
 ## audio-to-gesture 
 [arxiv 2024.10] Emphasizing Semantic Consistency of Salient Posture for Speech-Driven Gesture Generation  [[PDF](https://arxiv.org/abs/2410.13786)]
+
+[arxiv 2025.03]  ExGes: Expressive Human Motion Retrieval and Modulation for Audio-Driven Gesture Synthesis [[PDF](https://arxiv.org/pdf/2503.06499)]
+
 
 [arxiv 2025.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
