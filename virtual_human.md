@@ -77,6 +77,10 @@
 
 [arxiv 2025.03] ACMo: Attribute Controllable Motion Generation  [[PDF](https://arxiv.org/abs/2503.11038),[Page](https://mjwei3d.github.io/ACMo/)] ![Code](https://img.shields.io/github/stars/MingjieWe/ACMo?style=social&label=Star)
 
+[arxiv 2025.03] SALAD: Skeleton-aware Latent Diffusion for Text-driven Motion Generation and Editing
+  [[PDF](https://arxiv.org/abs/2503.13836),[Page](https://seokhyeonhong.github.io/projects/salad/)] ![Code](https://img.shields.io/github/stars/seokhyeonhong/salad?style=social&label=Star)
+
+[arxiv 2025.03] MAG: Multi-Modal Aligned Autoregressive Co-Speech Gesture Generation without Vector Quantization  [[PDF](https://arxiv.org/pdf/2503.14040)]
 
 
 [arxiv 2025.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
@@ -149,6 +153,10 @@
 
 [arxiv 2025.03]  Towards Semantic 3D Hand-Object Interaction Generation via Functional Text Guidance [[PDF](https://arxiv.org/pdf/2502.20805)]
 
+[arxiv 2025.03] 3D Human Interaction Generation: A Survey [[PDF](https://arxiv.org/abs/2503.13120)]
+
+[arxiv 2025.03] A Survey on Human Interaction Motion Generation  [[PDF](https://arxiv.org/abs/2503.12763)]
+
 
 [arxiv 2025.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -160,6 +168,9 @@
 [arxiv 2024.12]  HandsOnVLM: Vision-Language Models for Hand-Object Interaction Prediction [[PDF](https://arxiv.org/abs/2412.13187)]
 
 [arxiv 2025.01]  Interacted Object Grounding in Spatio-Temporal Human-Object Interactions [[PDF](https://arxiv.org/abs/2412.19542),[Page](https://github.com/DirtyHarryLYL/HAKE-AVA)] ![Code](https://img.shields.io/github/stars/DirtyHarryLYL/HAKE-AVA?style=social&label=Star)
+
+[arxiv 2025.03]  UniHOPE: A Unified Approach for Hand-Only and Hand-Object Pose Estimation [[PDF](https://arxiv.org/pdf/2503.13303),[Page](https://github.com/JoyboyWang/UniHOPE_Pytorch)] ![Code](https://img.shields.io/github/stars/JoyboyWang/UniHOPE_Pytorch?style=social&label=Star)
+
 
 [arxiv 2025.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
