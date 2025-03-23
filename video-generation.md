@@ -517,6 +517,8 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2025.03] The Best of Both Worlds: Integrating Language Models and Diffusion Models for Video Generation  [[PDF](https://arxiv.org/pdf/2503.04606),[Page](https://landiff.github.io/)] 
 
+[arxiv 2025.03] MagicComp: Training-free Dual-Phase Refinement for Compositional Video Generation  [[PDF](https://arxiv.org/pdf/2503.14428),[Page](https://hong-yu-zhang.github.io/MagicComp-Page/)] ![Code](https://img.shields.io/github/stars/Hong-yu-Zhang/MagicComp?style=social&label=Star)
+
 
 [arxiv 2025.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -893,6 +895,8 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2025.02] AnyCharV: Bootstrap Controllable Character Video Generation with Fine-to-Coarse Guidance  [[PDF](),[Page](https://anycharv.github.io/)] ![Code](https://img.shields.io/github/stars/AnyCharV/AnyCharV?style=social&label=Star)
 
+[arxiv 2025.03] Cosmos-Transfer1: Conditional World Generation with Adaptive Multimodal Control  [[PDF](https://arxiv.org/abs/2503.14492),[Page](https://github.com/nvidia-cosmos/cosmos-transfer1)] ![Code](https://img.shields.io/github/stars/nvidia-cosmos/cosmos-transfer1?style=social&label=Star)
+
 
 [arxiv 2025.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -904,6 +908,8 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 [arxiv 2024.12]  Autoregressive Video Generation without Vector Quantization [[PDF](https://arxiv.org/abs/2412.14169),[Page](https://github.com/baaivision/NOVA)] ![Code](https://img.shields.io/github/stars/baaivision/NOVA?style=social&label=Star)
 
 [arxiv 2025.03] AR-Diffusion: Asynchronous Video Generation with Auto-Regressive Diffusion  [[PDF](https://arxiv.org/abs/2503.07418),[Page](https://github.com/iva-mzsun/AR-Diffusion)] ![Code](https://img.shields.io/github/stars/iva-mzsun/AR-Diffusion?style=social&label=Star)
+
+[arxiv 2025.03]  Fast Autoregressive Video Generation with Diagonal Decoding[[PDF](https://arxiv.org/abs/2503.14070),[Page](https://www.microsoft.com/en-us/research/project/ar-videos/diagonal-decoding/)] 
 
 
 [arxiv 2025.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
@@ -1236,8 +1242,9 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2025.02] FantasyID: Face Knowledge Enhanced ID-Preserving Video Generation  [[PDF](https://arxiv.org/abs/2502.13995),[Page](https://fantasy-amap.github.io/fantasy-id/)] ![Code](https://img.shields.io/github/stars/Fantasy-AMAP/fantasy-id?style=social&label=Star)
 
-[arxiv 2025.03] CINEMA: Coherent Multi-Subject Video Generation via MLLM-Based Guidance  [[PDF](https://arxiv.org/pdf/2503.10391),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
+[arxiv 2025.03] CINEMA: Coherent Multi-Subject Video Generation via MLLM-Based Guidance  [[PDF](https://arxiv.org/pdf/2503.10391),[Page](https://ml-gsai.github.io/Concat-ID-demo/)] ![Code](https://img.shields.io/github/stars/ML-GSAI/Concat-ID?style=social&label=Star)
 
+[arxiv 2025.03] Concat-ID: Towards Universal Identity-Preserving Video Synthesis  [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 
 [arxiv 2025.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
@@ -1339,6 +1346,10 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 [arxiv 2025.03] KeyFace: Expressive Audio-Driven Facial Animation for Long Sequences via KeyFrame Interpolation  [[PDF](https://arxiv.org/abs/2503.01715)]
 
 [arxiv 2025.03]  RASA: Replace Anyone, Say Anything – A Training-Free Framework for Audio-Driven and Universal Portrait Video Editing [[PDF](https://arxiv.org/abs/2503.11571),[Page](https://alice01010101.github.io/RASA/)]
+
+[arxiv 2025.03]  PC-Talk: Precise Facial Animation Control for Audio-Driven Talking Face Generation [[PDF](https://arxiv.org/abs/2503.14295),[Page](https://bq-wang0511.github.io/PC-Talk/)] 
+
+
 
 [arxiv 2025.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -1493,6 +1504,8 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2025.02] UniForm: A Unified Diffusion Transformer for Audio-Video Generation  [[PDF](https://arxiv.org/abs/2502.03897),[Page](https://uniform-t2av.github.io/)] 
 
+[arxiv 2025.03]  MusicInfuser: Making Video Diffusion Listen and Dance [[PDF](https://arxiv.org/abs/2503.14505),[Page](https://susunghong.github.io/MusicInfuser/)] ![Code](https://img.shields.io/github/stars/SusungHong/MusicInfuser?style=social&label=Star)
+
 
 [arxiv 2025.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -1507,6 +1520,9 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 ## unified editing and generation
 [arxiv 2025.03] VACE: All-in-One Video Creation and Editing  [[PDF](https://arxiv.org/pdf/2503.07598),[Page](https://ali-vilab.github.io/VACE-Page/)] 
+
+[arxiv 2025.03] VEGGIE: Instructional Editing and Reasoning Video Concepts with Grounded Generation  [[PDF](VEGGIE: Instructional Editing and Reasoning of Video Concepts with Grounded Generation),[Page](https://veggie-gen.github.io/)] ![Code](https://img.shields.io/github/stars/Yui010206/VEGGIE-VidEdit/?style=social&label=Star)
+
 
 [arxiv 2025.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -1932,6 +1948,8 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 
 [arxiv 2025.02]  Hardware-Friendly Static Quantization Method for Video Diffusion Transformers [[PDF](https://arxiv.org/pdf/2502.15077)]
+
+[arxiv 2025.03] W2SVD: Weak-to-Strong Video Distillation for Large-Scale Portrait Few-Step Synthesis  [[PDF](https://arxiv.org/abs/2503.13319),[Page](https://w2svd.github.io/W2SVD/)]
 
 
 [arxiv 2025.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
