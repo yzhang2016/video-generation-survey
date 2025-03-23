@@ -454,6 +454,8 @@
 
 [arxiv 2025.03] MoEdit: On Learning Quantity Perception for Multi-object Image Editing  [[PDF](https://arxiv.org/abs/2503.10112),[Page](https://github.com/Tear-kitty/MoEdit)] ![Code](https://img.shields.io/github/stars/Tear-kitty/MoEdit?style=social&label=Star)
 
+[arxiv 2025.03]  Edit Transfer: Learning Image Editing via Vision In-Context Relations [[PDF](https://arxiv.org/abs/2503.13327),[Page](https://cuc-mipg.github.io/EditTransfer.github.io/)] ![Code](https://img.shields.io/github/stars/CUC-MIPG/Edit-Transfer?style=social&label=Star)
+
 
 [arxiv 2025.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -499,9 +501,10 @@
 
 [arxiv 2025.03] RealGeneral: Unifying Visual Generation via Temporal In-Context Learning with Video Models  [[PDF](https://arxiv.org/pdf/2503.10406),[Page](https://lyne1.github.io/RealGeneral/)] !
 
+[arxiv 2025.03]  BlobCtrl: A Unified and Flexible Framework for Element-level Image Generation and Editing [[PDF](https://arxiv.org/pdf/2503.13434),[Page](https://liyaowei-stu.github.io/project/BlobCtrl/)] ![Code](https://img.shields.io/github/stars/TencentARC/BlobCtrl?style=social&label=Star)
+
+
 [arxiv 2025.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
-
-
 
 
 ## Generation and Understanding in a Unified Framework 
@@ -585,6 +588,8 @@
 [arxiv 2025.02] Is Noise Conditioning Necessary for Denoising Generative Models?  [[PDF](https://arxiv.org/pdf/2502.13129)]
 
 [arxiv 2025.03] The Curse of Conditions: Analyzing and Improving Optimal Transport for Conditional Flow-Based Generation  [[PDF](https://arxiv.org/abs/2503.10636),[Page](https://hkchengrex.github.io/C2OT)] ![Code](https://img.shields.io/github/stars/hkchengrex/C2OT?style=social&label=Star)
+
+[arxiv 2025.03] Deeply Supervised Flow-Based Models  [[PDF](https://arxiv.org/abs/2503.14494),[Page](https://deepflow-project.github.io/)]
 
 
 [arxiv 2025.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
@@ -1476,6 +1481,10 @@
 
 [arxiv 2025.03] DynamicID: Zero-Shot Multi-ID Image Personalization with Flexible Facial Editability  [[PDF](https://arxiv.org/pdf/2503.06505)]
 
+[arxiv 2025.03]  Personalize Anything for Free with Diffusion Transformer [[PDF](https://arxiv.org/pdf/2503.12590),[Page](https://fenghora.github.io/Personalize-Anything-Page/)] ![Code](https://img.shields.io/github/stars/fenghora/personalize-anything?style=social&label=Star)
+
+[arxiv 2025.03]  EditID: Training-Free Editable ID Customization for Text-to-Image Generation [[PDF](https://arxiv.org/pdf/2503.12526)]
+
 
 [arxiv 2025.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -1990,6 +1999,7 @@ Creative Layout-to-Image Generation [[PDF](https://arxiv.org/pdf/2412.03859),[Pa
 
 [arxiv 2025.03] OminiControl2: Efficient Conditioning for Diffusion Transformers  [[PDF](https://arxiv.org/pdf/2503.08280),[Page](https://github.com/Yuanshi9815/OminiControl)] ![Code](https://img.shields.io/github/stars/Yuanshi9815/OminiControl?style=social&label=Star)
 
+[arxiv 2025.03]  STAY Diffusion: Styled Layout Diffusion Model for Diverse Layout-to-Image Generation[[PDF](https://arxiv.org/abs/2503.12213)]
 
 [arxiv 2025.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -2187,6 +2197,12 @@ Creative Layout-to-Image Generation [[PDF](https://arxiv.org/pdf/2412.03859),[Pa
 [arxiv 2025.03] CATANet: Efficient Content-Aware Token Aggregation for Lightweight Image Super-Resolution  [[PDF](https://arxiv.org/abs/2503.06896),[Page](https://github.com/EquationWalker/CATANet)] ![Code](https://img.shields.io/github/stars/EquationWalker/CATANet?style=social&label=Star)
 
 [arxiv 2025.03]  One-Step Diffusion Model for Image Motion-Deblurring [[PDF](https://arxiv.org/abs/2503.06537),[Page](https://github.com/xyLiu339/OSDD)] ![Code](https://img.shields.io/github/stars/xyLiu339/OSDD?style=social&label=Star)
+
+[arxiv 2025.03] One-Step Residual Shifting Diffusion for Image Super-Resolution via Distillation [[PDF](https://arxiv.org/abs/2503.13358)]
+
+[arxiv 2025.03] The Power of Context: How Multimodality Improves Image Super-Resolution  [[PDF](https://arxiv.org/abs/2503.14503)]
+
+[arxiv 2025.03]  CTSR: Controllable Fidelity-Realness Trade-off Distillation for Real-World Image Super Resolution [[PDF](https://arxiv.org/pdf/2503.14272),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 
 [arxiv 2025.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
@@ -2825,6 +2841,8 @@ Creative Layout-to-Image Generation [[PDF](https://arxiv.org/pdf/2412.03859),[Pa
 
 [arxiv 2025.02]  InterFeedback: Unveiling Interactive Intelligence of Large Multimodal Models via Human Feedback [[PDF](https://arxiv.org/abs/2502.15027)]
 
+[arxiv 2025.03]  Rewards Are Enough for Fast Photo-Realistic Text-to-image Generation [[PDF](https://arxiv.org/abs/2503.13070),[Page](https://github.com/Luo-Yihong/R0)] ![Code](https://img.shields.io/github/stars/Luo-Yihong/R0?style=social&label=Star)
+
 [arxiv 2025.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 
@@ -2932,6 +2950,8 @@ Creative Layout-to-Image Generation [[PDF](https://arxiv.org/pdf/2412.03859),[Pa
 [arxiv 2025.02]  Spiking Vision Transformer with Saccadic Attention [[PDF](https://arxiv.org/abs/2502.12677)]
 
 [arxiv 2025.03]  Transformers without Normalization [[PDF](https://arxiv.org/abs/2503.10622),[Page](https://jiachenzhu.github.io/DyT/)] ![Code](https://img.shields.io/github/stars/jiachenzhu/DyT?style=social&label=Star)
+
+[arxiv 2025.03]  DiffMoE: Dynamic Token Selection for Scalable Diffusion Transformers [[PDF](https://arxiv.org/abs/2503.14487),[Page](https://shiml20.github.io/DiffMoE/)] ![Code](https://img.shields.io/github/stars/KwaiVGI/DiffMoE?style=social&label=Star)
 
 
 [arxiv 2025.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
