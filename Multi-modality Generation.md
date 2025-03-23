@@ -106,6 +106,8 @@
 
 [arxiv 2025.02] OmniAlign-V: Towards Enhanced Alignment of MLLMs with Human Preference  [[PDF](https://arxiv.org/abs/2502.18411),[Page](https://github.com/PhoenixZ810/OmniAlign-V)] ![Code](https://img.shields.io/github/stars/PhoenixZ810/OmniAlign-V?style=social&label=Star) 
 
+[arxiv 2025.03] Aligning Multimodal LLM with Human Preference: A Survey [[PDF](https://arxiv.org/abs/2503.14504),[Page](https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models/tree/Alignment)] ![Code](https://img.shields.io/github/stars/BradyFU/Awesome-Multimodal-Large-Language-Models/tree/Alignment?style=social&label=Star) 
+
 
 [arxiv 2025.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
 
@@ -125,6 +127,7 @@
 
 [arxiv 2025.02] PC-Agent: A Hierarchical Multi-Agent Collaboration Framework for Complex Task Automation on PC  [[PDF](https://arxiv.org/pdf/2502.14282)] 
 
+[arxiv 2025.03]  STEVE: AStep Verification Pipeline for Computer-use Agent Training [[PDF](https://arxiv.org/abs/2503.12532),[Page](https://github.com/FanbinLu/STEVE-R1)] ![Code](https://img.shields.io/github/stars/FanbinLu/STEVE-R1?style=social&label=Star) 
 
 
 [arxiv 2025.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
@@ -197,6 +200,13 @@
 [arxiv 2025.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
 
 
+## Long Video Understanding
+
+[arxiv 2025.03]  VideoMind: A Chain-of-LoRA Agent for Long Video Reasoning [[PDF](https://arxiv.org/abs/2503.13444),[Page](https://videomind.github.io/)] ![Code](https://img.shields.io/github/stars/yeliudev/VideoMind?style=social&label=Star) 
+
+[arxiv 2025.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
+
+
 ## Multi-modality Understanding and Generation 
 [arxiv 2024.09] Emu3: Next-Token Prediction is All You Need[[PDF](https://arxiv.org/abs/2409.18869), [Page](https://emu.baai.ac.cn/)]
 
@@ -207,6 +217,7 @@
 
 [arxiv 2025.03]  WeGen: A Unified Model for Interactive Multimodal Generation as We Chat [[PDF](https://arxiv.org/pdf/2503.01115),[Page](https://github.com/hzphzp/WeGen)] ![Code](https://img.shields.io/github/stars/hzphzp/WeGen?style=social&label=Star) 
 
+[arxiv 2025.03]  Unified Autoregressive Visual Generation and Understanding with Continuous Tokens [[PDF](https://arxiv.org/pdf/2503.13436)]
 
 
 [arxiv 2025.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
