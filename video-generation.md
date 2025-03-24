@@ -519,6 +519,8 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2025.03] MagicComp: Training-free Dual-Phase Refinement for Compositional Video Generation  [[PDF](https://arxiv.org/pdf/2503.14428),[Page](https://hong-yu-zhang.github.io/MagicComp-Page/)] ![Code](https://img.shields.io/github/stars/Hong-yu-Zhang/MagicComp?style=social&label=Star)
 
+[arxiv 2025.03]  Temporal Regularization Makes Your Video Generator Stronger [[PDF](https://arxiv.org/abs/2412.02114),[Page](https://haroldchen19.github.io/FluxFlow/)] 
+
 
 [arxiv 2025.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -804,6 +806,10 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 [arxiv 2025.02] MotionMatcher: Motion Customization of Text-to-Video Diffusion Models via Motion Feature Matching  [[PDF](https://arxiv.org/abs/2502.13234),[Page](https://www.csie.ntu.edu.tw/~b09902097/motionmatcher/)] ![Code](https://img.shields.io/github/stars/b09902097/motionmatcher?style=social&label=Star)
 
 [arxiv 2025.02]  C-Drag: Chain-of-Thought Driven Motion Controller for Video Generation [[PDF](https://arxiv.org/pdf/2502.19868),[Page](https://github.com/WesLee88524/C-Drag-Official-Repo)] ![Code](https://img.shields.io/github/stars/WesLee88524/C-Drag-Official-Repo?style=social&label=Star)
+
+[arxiv 2025.03]  MagicMotion: Controllable Video Generation with Dense-to-Sparse Trajectory Guidance [[PDF](https://arxiv.org/abs/2503.16421),[Page](https://quanhaol.github.io/magicmotion-site/)] ![Code](https://img.shields.io/github/stars/quanhaol/MagicMotion?style=social&label=Star)
+
+[arxiv 2025.03] PoseTraj: Pose-Aware Trajectory Control in Video Diffusion  [[PDF](https://arxiv.org/abs/2503.16068),[Page](https://robingg1.github.io/Pose-Traj/)] ![Code](https://img.shields.io/github/stars/robingg1/PoseTraj?style=social&label=Star)
 
 
 [arxiv 2025.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
@@ -1092,6 +1098,8 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2025.01]  DiffVSR: Enhancing Real-World Video Super-Resolution with Diffusion Models for Advanced Visual Quality and Temporal Consistency [[PDF](https://arxiv.org/abs/2501.10110),[Page](https://xh9998.github.io/DiffVSR-project/)] ![Code](https://img.shields.io/github/stars/xh9998/DiffVSR?style=social&label=Star)
 
+[arxiv 2025.03]  Temporal-Consistent Video Restoration with Pre-trained Diffusion Models [[PDF](https://arxiv.org/pdf/2503.14863)]
+
 
 [arxiv 2025.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -1349,7 +1357,7 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2025.03]  PC-Talk: Precise Facial Animation Control for Audio-Driven Talking Face Generation [[PDF](https://arxiv.org/abs/2503.14295),[Page](https://bq-wang0511.github.io/PC-Talk/)] 
 
-
+[arxiv 2025.03] Cafe-Talk: Generating 3D Talking Face Animation with Multimodal Coarse- and Fine-grained Control  [[PDF](https://arxiv.org/abs/2503.14517),[Page](https://harryxd2018.github.io/cafe-talk/)] 
 
 [arxiv 2025.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -1480,6 +1488,8 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 [arxiv 2025.01] AR4D: Autoregressive 4D Generation from Monocular Videos [[PDF](https://arxiv.org/abs/2501.01722),[Page](https://hanxinzhu-lab.github.io/AR4D/)] 
 
 [arxiv 2025.02] MVTokenFlow: High-quality 4D Content Generation using Multiview Token Flow  [[PDF](https://arxiv.org/abs/2502.11697),[Page](https://soolab.github.io/MVTokenFlow)] ![Code](https://img.shields.io/github/stars/SooLab/MVTokenFlow?style=social&label=Star)
+
+[arxiv 2025.03]  SV4D 2.0: Enhancing Spatio-Temporal Consistency in Multi-View Video Diffusion for High-Quality 4D Generation [[PDF](https://arxiv.org/pdf/2503.16396)]
 
 
 [arxiv 2025.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
@@ -1784,6 +1794,8 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2025.03] MTV-Inpaint: Multi-Task Long Video Inpainting  [[PDF](https://arxiv.org/pdf/2503.11412),[Page](https://mtv-inpaint.github.io/)] ![Code](https://img.shields.io/github/stars/ysy31415/MTV-Inpaint?style=social&label=Star)
 
+[arxiv 2025.03] EDEN: Enhanced Diffusion for High-quality Large-motion Video Frame Interpolation  [[PDF](https://arxiv.org/abs/2503.15831),[Page](https://github.com/bbldCVer/EDEN)] ![Code](https://img.shields.io/github/stars/bbldCVer/EDEN?style=social&label=Star)
+
 
 [arxiv 2025.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -2060,6 +2072,8 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 [arxiv 2025.01] HERMES: A Unified Self-Driving World Model for Simultaneous 3D Scene Understanding and Generation  [[PDF](https://arxiv.org/abs/2501.14729),[Page](https://github.com/LMD0311/HERMES)] ![Code](https://img.shields.io/github/stars/LMD0311/HERMES?style=social&label=Star)
 
 [arxiv 2025.02] VaViM and VaVAM: Autonomous Driving through Video Generative Modeling  [[PDF](https://arxiv.org/abs/2502.15672),[Page](https://valeoai.github.io/vavim-vavam/)] ![Code](https://img.shields.io/github/stars/valeoai/VideoActionModel?style=social&label=Star)
+
+[arxiv 2025.03] MiLA: Multi-view Intensive-fidelity Long-term Video Generation World Model for Autonomous Driving  [[PDF](https://xiaomi-mlab.github.io/mila.github.io/),[Page](https://github.com/xiaomi-mlab/mila.github.io)] ![Code](https://img.shields.io/github/stars/xiaomi-mlab/mila.github.io?style=social&label=Star)
 
 
 [arxiv 2025.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
