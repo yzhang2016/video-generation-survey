@@ -811,6 +811,10 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2025.03] PoseTraj: Pose-Aware Trajectory Control in Video Diffusion  [[PDF](https://arxiv.org/abs/2503.16068),[Page](https://robingg1.github.io/Pose-Traj/)] ![Code](https://img.shields.io/github/stars/robingg1/PoseTraj?style=social&label=Star)
 
+[arxiv 2025.03] Enabling Versatile Controls for Video Diffusion Models  [[PDF](https://pp-vctrl.github.io/),[Page](https://pp-vctrl.github.io/)] ![Code](https://img.shields.io/github/stars/PaddlePaddle/PaddleMIX/tree/develop/ppdiffusers/examples/ppvctrl?style=social&label=Star)
+
+[arxiv 2025.03] Re-HOLD: Video Hand Object Interaction Reenactment via adaptive Layout-instructed Diffusion Model  [[PDF](https://arxiv.org/abs/2503.16942),[Page](https://fyycs.github.io/Re-HOLD/)] 
+
 
 [arxiv 2025.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
