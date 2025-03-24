@@ -159,6 +159,8 @@
 
 [arxiv 2025.03] A Survey on Human Interaction Motion Generation  [[PDF](https://arxiv.org/abs/2503.12763)]
 
+[arxiv 2025.03] Auto-Regressive Diffusion for Generating 3D Human-Object Interactions  [[PDF](https://arxiv.org/pdf/2503.16801),[Page](https://github.com/gengzichen/ARDHOI)] ![Code](https://img.shields.io/github/stars/gengzichen/ARDHOI?style=social&label=Star)
+
 
 [arxiv 2025.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
