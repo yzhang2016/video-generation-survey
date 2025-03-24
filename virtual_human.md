@@ -82,6 +82,8 @@
 
 [arxiv 2025.03] MAG: Multi-Modal Aligned Autoregressive Co-Speech Gesture Generation without Vector Quantization  [[PDF](https://arxiv.org/pdf/2503.14040)]
 
+[arxiv 2025.03] MotionStreamer: Streaming Motion Generation via Diffusion-based Autoregressive Model in Causal Latent Space  [[PDF](https://arxiv.org/abs/2503.15451),[Page](https://zju3dv.github.io/MotionStreamer/)] ![Code](https://img.shields.io/github/stars/Li-xingXiao/272-dim-Motion-Representation?style=social&label=Star)
+
 
 [arxiv 2025.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -171,6 +173,8 @@
 
 [arxiv 2025.03]  UniHOPE: A Unified Approach for Hand-Only and Hand-Object Pose Estimation [[PDF](https://arxiv.org/pdf/2503.13303),[Page](https://github.com/JoyboyWang/UniHOPE_Pytorch)] ![Code](https://img.shields.io/github/stars/JoyboyWang/UniHOPE_Pytorch?style=social&label=Star)
 
+[arxiv 2025.03] Reconstructing In-the-Wild Open-Vocabulary Human-Object Interactions [[PDF](https://arxiv.org/abs/2503.15898),[Page](https://wenboran2002.github.io/3dhoi/)] ![Code](https://img.shields.io/github/stars/wenboran2002/open-3dhoi?style=social&label=Star)
+
 
 [arxiv 2025.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -183,6 +187,8 @@
 [arxiv 2024.12] SCENIC: Scene-aware Semantic Navigation with Instruction-guided Control  [[PDF](https://arxiv.org/abs/2412.15664),[Page](https://virtualhumans.mpi-inf.mpg.de/scenic/)] 
 
 [arxiv 2024.12]  ZeroHSI: Zero-Shot 4D Human-Scene Interaction [[PDF](https://arxiv.org/abs/2412.18600),[Page](https://awfuact.github.io/zerohsi/)] 
+
+[arxiv 2025.03] SceneMI: Motion In-betweening for Modeling Human-Scene Interactions  [[PDF](https://arxiv.org/pdf/2503.16289),[Page](https://inwoohwang.me/SceneMI/)] 
 
 
 [arxiv 2025.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
