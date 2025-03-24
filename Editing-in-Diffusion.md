@@ -458,6 +458,7 @@
 
 [arxiv 2025.03] Single Image Iterative Subject-driven Generation and Editing  [[PDF](https://arxiv.org/pdf/2503.16025)]
 
+[arxiv 2025.03] Adams Bashforth Moulton Solver for Inversion and Editing in Rectified Flow  [[PDF](https://arxiv.org/pdf/2503.16522)]
 
 [arxiv 2025.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -2231,6 +2232,8 @@ Creative Layout-to-Image Generation [[PDF](https://arxiv.org/pdf/2412.03859),[Pa
 
 [arxiv 2025.03]  CTSR: Controllable Fidelity-Realness Trade-off Distillation for Real-World Image Super Resolution [[PDF](https://arxiv.org/pdf/2503.14272),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
+[arxiv 2025.03] Dereflection Any Image with Diffusion Priors and Diversified Data  [[PDF](https://abuuu122.github.io/DAI.github.io/),[Page](https://abuuu122.github.io/DAI.github.io/)] ![Code](https://img.shields.io/github/stars/Abuuu122/Dereflection-Any-Image?style=social&label=Star)
+
 
 [arxiv 2025.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -2443,6 +2446,9 @@ Creative Layout-to-Image Generation [[PDF](https://arxiv.org/pdf/2412.03859),[Pa
 
 [arxiv 2025.03] DesignDiffusion: High-Quality Text-to-Design Image Generation with Diffusion Models  [[PDF](https://arxiv.org/pdf/2503.01645)]
 
+[arxiv 2025.03]  A Recipe for Generating 3D Worlds From a Single Image [[PDF](https://katjaschwarz.github.io/worlds/),[Page](https://katjaschwarz.github.io/worlds/)] 
+
+
 [arxiv 2025.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 
@@ -2505,6 +2511,8 @@ Creative Layout-to-Image Generation [[PDF](https://arxiv.org/pdf/2412.03859),[Pa
 [arxiv 2024.10] FuseAnyPart: Diffusion-Driven Facial Parts Swapping via Multiple Reference Images  [[PDF](https://arxiv.org/abs/2410.22771),[Page](https://thomas-wyh.github.io/)]
 
 [arxiv 2025.02] GHOST 2.0: Generative High-fidelity One Shot Transfer of Heads  [[PDF](https://arxiv.org/pdf/2502.18417)]
+
+[arxiv 2025.03]  HyperLoRA: Parameter-Efficient Adaptive Generation for Portrait Synthesis [[PDF](https://arxiv.org/pdf/2503.16944)]
 
 
 [arxiv 2025.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
