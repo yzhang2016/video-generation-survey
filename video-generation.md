@@ -903,6 +903,9 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2025.03] Cosmos-Transfer1: Conditional World Generation with Adaptive Multimodal Control  [[PDF](https://arxiv.org/abs/2503.14492),[Page](https://github.com/nvidia-cosmos/cosmos-transfer1)] ![Code](https://img.shields.io/github/stars/nvidia-cosmos/cosmos-transfer1?style=social&label=Star)
 
+[arxiv 2025.03] Decouple and Track: Benchmarking and Improving Video Diffusion Transformers For Motion Transfer  [[PDF](https://arxiv.org/pdf/2503.17350),[Page](https://shi-qingyu.github.io/DeT.github.io/)] 
+
+
 
 [arxiv 2025.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -2039,6 +2042,8 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 [arxiv 2025.01] GameFactory: Creating New Games with Generative Interactive Videos  [[PDF](KwaiVGI/GameFactory),[Page](https://vvictoryuki.github.io/gamefactory/)] ![Code](https://img.shields.io/github/stars/KwaiVGI/GameFactory?style=social&label=Star)
 
 [arxiv 2025.02] Pre-Trained Video Generative Models as World Simulators  [[PDF](https://arxiv.org/pdf/2502.07825)]
+
+[arxiv 2025.03] Position: Interactive Generative Video as Next-Generation Game Engine  [[PDF](https://arxiv.org/abs/2503.17359)]
 
 
 [arxiv 2025.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
