@@ -220,6 +220,8 @@
 [arxiv 2025.03]  Unified Autoregressive Visual Generation and Understanding with Continuous Tokens [[PDF](https://arxiv.org/pdf/2503.13436)]
 
 
+[arxiv 2025.03]  GoT: Unleashing Reasoning Capability of Multimodal Large Language Model for Visual Generation and Editing [[PDF](https://arxiv.org/abs/2503.10639),[Page](https://github.com/rongyaofang/GoT)] ![Code](https://img.shields.io/github/stars/rongyaofang/GoT?style=social&label=Star) 
+
 [arxiv 2025.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
 
 
