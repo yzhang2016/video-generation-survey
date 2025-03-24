@@ -456,8 +456,14 @@
 
 [arxiv 2025.03]  Edit Transfer: Learning Image Editing via Vision In-Context Relations [[PDF](https://arxiv.org/abs/2503.13327),[Page](https://cuc-mipg.github.io/EditTransfer.github.io/)] ![Code](https://img.shields.io/github/stars/CUC-MIPG/Edit-Transfer?style=social&label=Star)
 
+[arxiv 2025.03] Single Image Iterative Subject-driven Generation and Editing  [[PDF](https://arxiv.org/pdf/2503.16025)]
+
 
 [arxiv 2025.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
+
+
+
+
 
 
 ## Analysis
@@ -868,7 +874,7 @@
 
 
 
-## VAE 
+## VAE /  tokenizer
 
 [arxiv 2024.06] Scaling the Codebook Size of VQGAN to 100,000 with a Utilization Rate of 99%  [[PDF](https://arxiv.org/abs/2406.11837))]
 
@@ -887,6 +893,8 @@
 [arxiv 2025.03] DLF: Extreme Image Compression with Dual-generative Latent Fusion  [[PDF](https://arxiv.org/pdf/2503.01428)]
 
 [arxiv 2025.03] FlowTok: Flowing Seamlessly Across Text and Image Tokens  [[PDF](https://arxiv.org/pdf/2503.10772),[Page](https://tacju.github.io/projects/flowtok.html)] ![Code](https://img.shields.io/github/stars/bytedance/1d-tokenizer?style=social&label=Star)
+
+[arxiv 2025.03] Tokenize Image as a Set  [[PDF](https://arxiv.org/pdf/2503.16425),[Page](https://github.com/Gengzigang/TokenSet)] ![Code](https://img.shields.io/github/stars/Gengzigang/TokenSet?style=social&label=Star)
 
 
 [arxiv 2025.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
@@ -956,6 +964,11 @@
 
 [arxiv 2025.03]  Direction-Aware Diagonal Autoregressive Image Generation [[PDF](https://arxiv.org/pdf/2503.11129)]
 
+[arxiv 2025.03] TokenBridge: Bridging Continuous and Discrete Tokens for Autoregressive Visual Generation  [[PDF](https://arxiv.org/abs/2503.16430),[Page](https://yuqingwang1029.github.io/TokenBridge/)] ![Code](https://img.shields.io/github/stars/yuqingwang1029/TokenBridge?style=social&label=Star)
+
+[arxiv 2025.03]  Improving Autoregressive Image Generation through Coarse-to-Fine Token Prediction [[PDF](https://arxiv.org/abs/2503.16194)]
+
+
 [arxiv 2025.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 
@@ -968,6 +981,10 @@
 [arxiv 2024.10] EvolveDirector: Approaching Advanced Text-to-Image Generation with Large Vision-Language Models  [[PDF](https://arxiv.org/abs/2410.07133)]
 
 [arxiv 2024.10]  DDIL: Improved Diffusion Distillation With Imitation Learning[[PDF](https://arxiv.org/abs/2410.11971)]
+
+
+[arxiv 2025.03] Scale-wise Distillation of Diffusion Models  [[PDF](https://arxiv.org/abs/2503.16397),[Page](https://yandex-research.github.io/swd/)] ![Code](https://img.shields.io/github/stars/yandex-research/swd?style=social&label=Star)
+
 
 
 ## Try-on 
@@ -1053,8 +1070,12 @@
 
 [arxiv 2025.03] MF-VITON: High-Fidelity Mask-Free Virtual Try-On with Minimal Input  [[PDF](https://arxiv.org/pdf/2503.08650),[Page](https://zhenchenwan.github.io/MF-VITON/)] ![Code](https://img.shields.io/github/stars/ZhenchenWan/MF-VITON-High-Fidelity-Mask-Free-Virtual-Try-On-with-Minimal-Input?style=social&label=Star)
 
+[arxiv 2025.03] Shining Yourself: High-Fidelity Ornaments Virtual Try-on with Diffusion Model  [[PDF](https://arxiv.org/pdf/2503.16065),[Page](https://shiningyourself.github.io/)] 
+
+[arxiv 2025.03] Multi-focal Conditioned Latent Diffusion for Person Image Synthesis  [[PDF](https://arxiv.org/pdf/2503.15686),[Page](https://github.com/jqliu09/mcld)] ![Code](https://img.shields.io/github/stars/jqliu09/mcld?style=social&label=Star)
 
 [arxiv 2025.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
+
 
 
 ## Model adapatation/Merge 
@@ -1484,6 +1505,12 @@
 [arxiv 2025.03]  Personalize Anything for Free with Diffusion Transformer [[PDF](https://arxiv.org/pdf/2503.12590),[Page](https://fenghora.github.io/Personalize-Anything-Page/)] ![Code](https://img.shields.io/github/stars/fenghora/personalize-anything?style=social&label=Star)
 
 [arxiv 2025.03]  EditID: Training-Free Editable ID Customization for Text-to-Image Generation [[PDF](https://arxiv.org/pdf/2503.12526)]
+
+[arxiv 2025.03]  Visual Persona: Foundation Model for Full-Body Human Customization [[PDF](https://arxiv.org/pdf/2503.15406),[Page](https://cvlab-kaist.github.io/Visual-Persona/)] ![Code](https://img.shields.io/github/stars/cvlab-kaist/Visual-Persona?style=social&label=Star)
+
+[arxiv 2025.03]  Efficient Personalization of Quantized Diffusion Model without Backpropagation [[PDF](https://arxiv.org/pdf/2503.14868),[Page](https://ignoww.github.io/ZOODiP_project/)] ![Code](https://img.shields.io/github/stars/ignoww/ZOODiP?style=social&label=Star)
+
+[arxiv 2025.03]  InfiniteYou: Flexible Photo Recrafting While Preserving Your Identity [[PDF](https://arxiv.org/pdf/2503.16418),[Page](https://bytedance.github.io/InfiniteYou)] ![Code](https://img.shields.io/github/stars/bytedance/InfiniteYou?style=social&label=Star)
 
 
 [arxiv 2025.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
@@ -2672,7 +2699,18 @@ Creative Layout-to-Image Generation [[PDF](https://arxiv.org/pdf/2412.03859),[Pa
 [arxiv 2025.03] Distilling Diversity and Control in Diffusion Models  [[PDF](https://arxiv.org/pdf/2503.10637),[Page](https://distillation.baulab.info/)] ![Code](https://img.shields.io/github/stars/rohitgandikota/distillation?style=social&label=Star)
 
 
+[arxiv 2025.03]  FP4DiT: Towards Effective Floating Point Quantization for Diffusion Transformers [[PDF](https://arxiv.org/abs/2503.15465),[Page](https://github.com/cccrrrccc/FP4DiT)] ![Code](https://img.shields.io/github/stars/cccrrrccc/FP4DiT?style=social&label=Star)
+
+
+[arxiv 2025.03] Di[M]O: Distilling Masked Diffusion Models into One-step Generator  [[PDF](https://arxiv.org/abs/2503.15457),[Page](https://yuanzhi-zhu.github.io/DiMO/)] ![Code](https://img.shields.io/github/stars/yuanzhi-zhu/DiMO?style=social&label=Star)
+
+[arxiv 2025.03]  BlockDance: Reuse Structurally Similar Spatio-Temporal Features to Accelerate Diffusion Transformers [[PDF](https://arxiv.org/pdf/2503.15927)]
+
+
 [arxiv 2025.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
+
+
+
 
 
 
