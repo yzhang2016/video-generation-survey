@@ -1378,6 +1378,7 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2025.03] Versatile Multimodal Controls for Whole-Body Talking Human Animation  [[PDF](https://arxiv.org/pdf/2503.08714)]
 
+[arxiv 2025.03] MagicInfinite: Generating Infinite Talking Videos with Your Words and Voice  [[PDF](https://arxiv.org/abs/2503.05978),[Page](https://www.hedra.com/)] 
 
 
 [arxiv 2025.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
@@ -1522,6 +1523,7 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 [arxiv 2025.02] UniForm: A Unified Diffusion Transformer for Audio-Video Generation  [[PDF](https://arxiv.org/abs/2502.03897),[Page](https://uniform-t2av.github.io/)] 
 
 [arxiv 2025.03]  MusicInfuser: Making Video Diffusion Listen and Dance [[PDF](https://arxiv.org/abs/2503.14505),[Page](https://susunghong.github.io/MusicInfuser/)] ![Code](https://img.shields.io/github/stars/SusungHong/MusicInfuser?style=social&label=Star)
+
 
 
 [arxiv 2025.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
