@@ -195,6 +195,7 @@
 
 [arxiv 2025.03] Vision-R1: Incentivizing Reasoning Capability in Multimodal Large Language Models  [[PDF](https://arxiv.org/pdf/2503.06749),[Page](https://github.com/Osilly/Vision-R1)] ![Code](https://img.shields.io/github/stars/Osilly/Vision-R1?style=social&label=Star) 
 
+[arxiv 2025.03] Qwen2.5-Omni Technical Report  [[PDF](https://arxiv.org/abs/2503.20215)]
 
 
 [arxiv 2025.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
@@ -227,6 +228,14 @@
 
 ## multi-modality evaluation 
 [arxiv 2024.10] The Curse of Multi-Modalities: Evaluating Hallucinations of Large Multimodal Models across Language, Visual, and Audio[[PDF](https://arxiv.org/abs/2410.12787)]
+
+
+## reasoning
+
+[arxiv 2025.03] Video-R1: Reinforcing Video Reasoning in MLLMs  [[PDF](https://arxiv.org/abs/2503.21776),[Page](https://github.com/tulerfeng/Video-R1)] ![Code](https://img.shields.io/github/stars/tulerfeng/Video-R1?style=social&label=Star) 
+
+[arxiv 2025.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
+
 
 
 ## Compression
@@ -265,6 +274,12 @@
 [arxiv 2024.12]  [CLS] Attention is All You Need for Training-Free Visual Token Pruning: Make VLM Inference Faster
  [[PDF](https://arxiv.org/abs/2412.01818),[Page](https://theia-4869.github.io/FasterVLM)] ![Code](https://img.shields.io/github/stars/Theia-4869/FasterVLM?style=social&label=Star) 
 
+
+[arxiv 2025.03]  Dynamic Pyramid Network for Efficient Multimodal Large Language Model [[PDF](https://arxiv.org/abs/2503.20322)]
+
+[arxiv 2025.03]  Mobile-VideoGPT Fast and Accurate Video Understanding Language Model [[PDF](https://arxiv.org/pdf/2503.21782),[Page](https://amshaker.github.io/Mobile-VideoGPT/)] ![Code](https://img.shields.io/github/stars/Amshaker/Mobile-VideoGPT?style=social&label=Star) 
+
+[arxiv 2025.03]  InternVL-X: Advancing and Accelerating InternVL Series with Efficient Visual Token Compression [[PDF](https://arxiv.org/abs/2503.21307),[Page](https://github.com/ludc506/InternVL-X)] ![Code](https://img.shields.io/github/stars/ludc506/InternVL-X?style=social&label=Star) 
 
 
 [arxiv 2025.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
