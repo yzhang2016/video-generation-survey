@@ -161,6 +161,8 @@
 
 [arxiv 2025.03] Auto-Regressive Diffusion for Generating 3D Human-Object Interactions  [[PDF](https://arxiv.org/pdf/2503.16801),[Page](https://github.com/gengzichen/ARDHOI)] ![Code](https://img.shields.io/github/stars/gengzichen/ARDHOI?style=social&label=Star)
 
+[arxiv 2025.03]  Guiding Human-Object Interactions with Rich Geometry and Relations [[PDF](https://arxiv.org/abs/2503.20172),[Page](https://lalalfhdh.github.io/rog_page/)]
+
 
 [arxiv 2025.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
