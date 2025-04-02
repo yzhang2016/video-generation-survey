@@ -1,5 +1,11 @@
 # Image Editing In Diffusion 
 
+## text-to-image
+[arxiv 2025.03] Lumina-Image 2.0: A Unified and Efficient Image Generative Framework  [[PDF](https://arxiv.org/abs/2503.21758)]
+
+
+[arxiv 2025.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
+
 
 ## Editing 
 
@@ -460,8 +466,9 @@
 
 [arxiv 2025.03] Adams Bashforth Moulton Solver for Inversion and Editing in Rectified Flow  [[PDF](https://arxiv.org/pdf/2503.16522)]
 
-[arxiv 2025.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
+[arxiv 2025.03] EditCLIP: Representation Learning for Image Editing  [[PDF](https://arxiv.org/abs/2503.20318),[Page](https://qianwangx.github.io/EditCLIP/)] ![Code](https://img.shields.io/github/stars/QianWangX/EditCLIP?style=social&label=Star)
 
+[arxiv 2025.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 
 
@@ -1125,6 +1132,8 @@
 
 [arxiv 2025.03]  Recognition-Synergistic Scene Text Editing [[PDF](https://arxiv.org/pdf/2503.08387),[Page](https://github.com/ZhengyaoFang/RS-STE)] ![Code](https://img.shields.io/github/stars/ZhengyaoFang/RS-STE?style=social&label=Star)
 
+[arxiv 2025.03] Beyond Words: Advancing Long-Text Image Generation via Multimodal Autoregressive Models  [[PDF](https://arxiv.org/html/2503.20198v1),[Page](https://fingerrec.github.io/longtextar/)] 
+
 
 [arxiv 2025.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -1513,6 +1522,9 @@
 
 [arxiv 2025.03]  InfiniteYou: Flexible Photo Recrafting While Preserving Your Identity [[PDF](https://arxiv.org/pdf/2503.16418),[Page](https://bytedance.github.io/InfiniteYou)] ![Code](https://img.shields.io/github/stars/bytedance/InfiniteYou?style=social&label=Star)
 
+[arxiv 2025.03] Zero-Shot Visual Concept Blending Without Text Guidance  [[PDF](https://arxiv.org/abs/2503.21277),[Page](https://github.com/ToyotaCRDL/Visual-Concept-Blending)] ![Code](https://img.shields.io/github/stars/ToyotaCRDL/Visual-Concept-Blending?style=social&label=Star)
+
+
 
 [arxiv 2025.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -1531,6 +1543,8 @@
 [arxiv 2025.03]  Piece it Together: Part-Based Concepting with IP-Priors [[PDF](https://arxiv.org/pdf/2503.10365),[Page](https://eladrich.github.io/PiT/)] ![Code](https://img.shields.io/github/stars/eladrich/PiT?style=social&label=Star)
 
 [arxiv 2025.03] ConceptGuard: Continual Personalized Text-to-Image Generation with Forgetting and Confusion Mitigation  [[PDF](https://arxiv.org/abs/2503.10358)】
+
+[arxiv 2025.03] Latent Beam Diffusion Models for Decoding Image Sequences  [[PDF](https://arxiv.org/abs/2503.20429)]
 
 [arxiv 2025.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -2029,6 +2043,10 @@ Creative Layout-to-Image Generation [[PDF](https://arxiv.org/pdf/2412.03859),[Pa
 
 [arxiv 2025.03]  STAY Diffusion: Styled Layout Diffusion Model for Diverse Layout-to-Image Generation[[PDF](https://arxiv.org/abs/2503.12213)]
 
+[arxiv 2025.03] Contrastive Learning Guided Latent Diffusion Model for Image-to-Image Translation  [[PDF](https://arxiv.org/abs/2503.20484)]
+
+[arxiv 2025.03]  Efficient Multi-Instance Generation with Janus-Pro-Dirven Prompt Parsing [[PDF](https://arxiv.org/html/2503.21069v1)]
+
 [arxiv 2025.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 
@@ -2234,6 +2252,12 @@ Creative Layout-to-Image Generation [[PDF](https://arxiv.org/pdf/2412.03859),[Pa
 
 [arxiv 2025.03] Dereflection Any Image with Diffusion Priors and Diversified Data  [[PDF](https://abuuu122.github.io/DAI.github.io/),[Page](https://abuuu122.github.io/DAI.github.io/)] ![Code](https://img.shields.io/github/stars/Abuuu122/Dereflection-Any-Image?style=social&label=Star)
 
+[arxiv 2025.03] Consistency Trajectory Matching for One-Step Generative Super-Resolution  [[PDF](https://arxiv.org/abs/2503.20349)]
+
+[arxiv 2025.03] Progressive Focused Transformer for Single Image Super-Resolution  [[PDF](https://arxiv.org/abs/2503.20337)]
+
+[arxiv 2025.03] Diffusion Image Prior  [[PDF](https://arxiv.org/abs/2503.21410)]
+
 
 [arxiv 2025.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -2398,6 +2422,8 @@ Creative Layout-to-Image Generation [[PDF](https://arxiv.org/pdf/2412.03859),[Pa
 
 [arxiv 2025.03] ConsisLoRA: Enhancing Content and Style Consistency for LoRA-based Style Transfer  [[PDF](https://arxiv.org/pdf/2503.10614),[Page](https://consislora.github.io/)] ![Code](https://img.shields.io/github/stars/000linlin/ConsisLoRA?style=social&label=Star)
 
+[arxiv 2025.03] Pluggable Style Representation Learning for Multi-Style Transfer[[PDF](https://arxiv.org/abs/2503.20368),[Page](https://github.com/SYSU-SAIL/SaMST)] ![Code](https://img.shields.io/github/stars/SYSU-SAIL/SaMST?style=social&label=Star)
+
 
 [arxiv 2025.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -2456,6 +2482,9 @@ Creative Layout-to-Image Generation [[PDF](https://arxiv.org/pdf/2412.03859),[Pa
 
 ## test-time computation
 [arxiv 2025.01]  Can We Generate Images with CoT? Let's Verify and Reinforce Image Generation Step by Step [[PDF](https://arxiv.org/abs/2501.13926),[Page](https://github.com/ZiyuGuo99/Image-Generation-CoT)] ![Code](https://img.shields.io/github/stars/ZiyuGuo99/Image-Generation-CoT?style=social&label=Star)
+
+[arxiv 2025.03] Test-Time Visual In-Context Tuning  [[PDF](https://arxiv.org/html/2503.21777v1)]
+
 
 [arxiv 2025.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -2998,6 +3027,8 @@ Creative Layout-to-Image Generation [[PDF](https://arxiv.org/pdf/2412.03859),[Pa
 [arxiv 2025.03]  Transformers without Normalization [[PDF](https://arxiv.org/abs/2503.10622),[Page](https://jiachenzhu.github.io/DyT/)] ![Code](https://img.shields.io/github/stars/jiachenzhu/DyT?style=social&label=Star)
 
 [arxiv 2025.03]  DiffMoE: Dynamic Token Selection for Scalable Diffusion Transformers [[PDF](https://arxiv.org/abs/2503.14487),[Page](https://shiml20.github.io/DiffMoE/)] ![Code](https://img.shields.io/github/stars/KwaiVGI/DiffMoE?style=social&label=Star)
+
+[arxiv 2025.03]  UniDisc: Unified Multimodal Discrete Diffusion [[PDF](https://arxiv.org/abs/2503.20853),[Page](https://unidisc.github.io/)] ![Code](https://img.shields.io/github/stars/alexanderswerdlow/unidisc?style=social&label=Star)
 
 
 [arxiv 2025.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
