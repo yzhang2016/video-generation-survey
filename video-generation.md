@@ -433,6 +433,8 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2025.03]  Step-Video-TI2V Technical Report: A State-of-the-Art Text-Driven Image-to-Video Generation Model [[PDF](https://arxiv.org/abs/2503.11251),[Page](https://github.com/stepfun-ai/Step-Video-TI2V)] ![Code](https://img.shields.io/github/stars/stepfun-ai/Step-Video-TI2V?style=social&label=Star)
 
+[arxiv 2025.03]  Wan: Open and Advanced Large-Scale Video Generative Models [[PDF](https://arxiv.org/abs/2503.20314),[Page](https://github.com/Wan-Video/Wan2.1)] ![Code](https://img.shields.io/github/stars/Wan-Video/Wan2.1?style=social&label=Star)
+
 
 [arxiv 2025.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -1261,8 +1263,14 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2025.03] Concat-ID: Towards Universal Identity-Preserving Video Synthesis  [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
+[arxiv 2025.03]  VideoMage: Multi-Subject and Motion Customization of Text-to-Video Diffusion Models [[PDF](https://arxiv.org/abs/2503.21781),[Page](https://jasper0314-huang.github.io/videomage-customization)] !
+
+
 
 [arxiv 2025.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
+
+
+
 
 ## relation 
 [arxiv 2025.03]  DreamRelation: Relation-Centric Video Customization [[PDF](https://arxiv.org/abs/2503.07602),[Page](https://dreamrelation.github.io/)] 
@@ -1499,6 +1507,8 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2025.03]  SV4D 2.0: Enhancing Spatio-Temporal Consistency in Multi-View Video Diffusion for High-Quality 4D Generation [[PDF](https://arxiv.org/pdf/2503.16396)]
 
+[arxiv 2025.03] Free4D: Tuning-free 4D Scene Generation with Spatial-Temporal Consistency  [[PDF](https://arxiv.org/abs/2503.20785),[Page](https://free4d.github.io/)] ![Code](https://img.shields.io/github/stars/TQTQliu/Free4D?style=social&label=Star)
+
 
 [arxiv 2025.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -1524,6 +1534,7 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2025.03]  MusicInfuser: Making Video Diffusion Listen and Dance [[PDF](https://arxiv.org/abs/2503.14505),[Page](https://susunghong.github.io/MusicInfuser/)] ![Code](https://img.shields.io/github/stars/SusungHong/MusicInfuser?style=social&label=Star)
 
+[arxiv 2025.03] Zero-Shot Audio-Visual Editing via Cross-Modal Delta Denoising  [[PDF](https://arxiv.org/abs/2503.20782),[Page](https://genjib.github.io/project_page/AVED/index.html)] 
 
 
 [arxiv 2025.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
@@ -1543,7 +1554,17 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 [arxiv 2025.03] VEGGIE: Instructional Editing and Reasoning Video Concepts with Grounded Generation  [[PDF](VEGGIE: Instructional Editing and Reasoning of Video Concepts with Grounded Generation),[Page](https://veggie-gen.github.io/)] ![Code](https://img.shields.io/github/stars/Yui010206/VEGGIE-VidEdit/?style=social&label=Star)
 
 
+
+
 [arxiv 2025.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
+
+
+## instruct 
+[arxiv 2025.03] InsViE-1M: Effective Instruction-based Video Editing with Elaborate Dataset Construction  [[PDF](https://arxiv.org/abs/2503.20287),[Page](https://github.com/langmanbusi/InsViE)] ![Code](https://img.shields.io/github/stars/langmanbusi/InsViE?style=social&label=Star)
+
+[arxiv 2025.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
+
+
 
 
 ## editing with video models 
@@ -1805,6 +1826,9 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2025.03] EDEN: Enhanced Diffusion for High-quality Large-motion Video Frame Interpolation  [[PDF](https://arxiv.org/abs/2503.15831),[Page](https://github.com/bbldCVer/EDEN)] ![Code](https://img.shields.io/github/stars/bbldCVer/EDEN?style=social&label=Star)
 
+[arxiv 2025.03]  EGVD: Event-Guided Video Diffusion Model for Physically Realistic Large-Motion Frame Interpolation [[PDF](https://arxiv.org/abs/2503.20268),[Page](https://github.com/OpenImagingLab/EGVD)] ![Code](https://img.shields.io/github/stars/OpenImagingLab/EGVD?style=social&label=Star)
+
+
 
 [arxiv 2025.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -1899,6 +1923,10 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 [arxiv 2025.02]  MJ-VIDEO: Fine-Grained Benchmarking and Rewarding Video Preferences in Video Generation [[PDF](https://arxiv.org/pdf/2502.01719)]
 
 [arxiv 2025.03]  What Are You Doing? A Closer Look at Controllable Human Video Generation [[PDF](https://arxiv.org/pdf/2503.04666),[Page](https://github.com/google-deepmind/wyd-benchmark)] ![Code](https://img.shields.io/github/stars/google-deepmind/wyd-benchmark?style=social&label=Star)
+
+[arxiv 2025.03]  Exploring the Evolution of Physics Cognition in Video Generation: A Survey [[PDF](https://arxiv.org/abs/2503.21765),[Page](https://github.com/minnie-lin/Awesome-Physics-Cognition-based-Video-Generation)] ![Code](https://img.shields.io/github/stars/minnie-lin/Awesome-Physics-Cognition-based-Video-Generation?style=social&label=Star)
+
+[arxiv 2025.03] VBench-2.0: Advancing Video Generation Benchmark Suite for Intrinsic Faithfulness  [[PDF](https://arxiv.org/abs/2503.21755),[Page](https://vchitect.github.io/VBench-2.0-project/)] ![Code](https://img.shields.io/github/stars/Vchitect/VBench?style=social&label=Star)
 
 
 [arxiv 2025.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
