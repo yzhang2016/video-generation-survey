@@ -7,7 +7,7 @@
 
 
 
-[arxiv 2025.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
+[arxiv 2025.04]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
 
 
 ### Multi-modality Generation 
@@ -19,7 +19,7 @@
 [arxiv 2025.01] MiniMax-01: Scaling Foundation Models with Lightning Attention  [[PDF](https://arxiv.org/abs/2501.08313),[Page](https://github.com/MiniMax-AI/MiniMax-01)] ![Code](https://img.shields.io/github/stars/MiniMax-AI/MiniMax-01?style=social&label=Star) 
 
 
-[arxiv 2025.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
+[arxiv 2025.04]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
 
 
 ### [Awesome-Multimodal-Large-Language-Models](https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models)
@@ -94,7 +94,7 @@
 [arxiv 2025.02] CoS: Chain-of-Shot Prompting for Long Video Understanding  [[PDF](https://arxiv.org/abs/2502.06428),[Page](https://lwpyh.github.io/CoS/)] ![Code](https://img.shields.io/github/stars/lwpyh/CoS_codes?style=social&label=Star) 
 
 
-[arxiv 2025.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
+[arxiv 2025.04]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
 
 
 ## Feedback 
@@ -109,7 +109,7 @@
 [arxiv 2025.03] Aligning Multimodal LLM with Human Preference: A Survey [[PDF](https://arxiv.org/abs/2503.14504),[Page](https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models/tree/Alignment)] ![Code](https://img.shields.io/github/stars/BradyFU/Awesome-Multimodal-Large-Language-Models/tree/Alignment?style=social&label=Star) 
 
 
-[arxiv 2025.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
+[arxiv 2025.04]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
 
 
 
@@ -130,7 +130,7 @@
 [arxiv 2025.03]  STEVE: AStep Verification Pipeline for Computer-use Agent Training [[PDF](https://arxiv.org/abs/2503.12532),[Page](https://github.com/FanbinLu/STEVE-R1)] ![Code](https://img.shields.io/github/stars/FanbinLu/STEVE-R1?style=social&label=Star) 
 
 
-[arxiv 2025.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
+[arxiv 2025.04]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
 
 
 ## Multi-modality Understanding 
@@ -198,14 +198,14 @@
 [arxiv 2025.03] Qwen2.5-Omni Technical Report  [[PDF](https://arxiv.org/abs/2503.20215)]
 
 
-[arxiv 2025.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
+[arxiv 2025.04]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
 
 
 ## Long Video Understanding
 
 [arxiv 2025.03]  VideoMind: A Chain-of-LoRA Agent for Long Video Reasoning [[PDF](https://arxiv.org/abs/2503.13444),[Page](https://videomind.github.io/)] ![Code](https://img.shields.io/github/stars/yeliudev/VideoMind?style=social&label=Star) 
 
-[arxiv 2025.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
+[arxiv 2025.04]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
 
 
 ## Multi-modality Understanding and Generation 
@@ -220,10 +220,13 @@
 
 [arxiv 2025.03]  Unified Autoregressive Visual Generation and Understanding with Continuous Tokens [[PDF](https://arxiv.org/pdf/2503.13436)]
 
-
 [arxiv 2025.03]  GoT: Unleashing Reasoning Capability of Multimodal Large Language Model for Visual Generation and Editing [[PDF](https://arxiv.org/abs/2503.10639),[Page](https://github.com/rongyaofang/GoT)] ![Code](https://img.shields.io/github/stars/rongyaofang/GoT?style=social&label=Star) 
 
-[arxiv 2025.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
+[arxiv 2025.03]  Harmonizing Visual Representations for Unified Multimodal Understanding and Generation [[PDF](https://arxiv.org/abs/2503.21979),[Page](https://github.com/wusize/Harmon)] ![Code](https://img.shields.io/github/stars/wusize/Harmon?style=social&label=Star) 
+
+
+
+[arxiv 2025.04]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
 
 
 ## multi-modality evaluation 
@@ -234,7 +237,7 @@
 
 [arxiv 2025.03] Video-R1: Reinforcing Video Reasoning in MLLMs  [[PDF](https://arxiv.org/abs/2503.21776),[Page](https://github.com/tulerfeng/Video-R1)] ![Code](https://img.shields.io/github/stars/tulerfeng/Video-R1?style=social&label=Star) 
 
-[arxiv 2025.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
+[arxiv 2025.04]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
 
 
 
@@ -247,7 +250,7 @@
 
 [arxiv 2025.03]  Token-Efficient Long Video Understanding for Multimodal LLMs [[PDF](https://arxiv.org/pdf/2503.04130),[Page](https://research.nvidia.com/labs/lpr/storm/)] 
 
-[arxiv 2025.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
+[arxiv 2025.04]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
 
 ## few-shot
 [arxiv 2025.02]  Efficient Few-Shot Continual Learning in Vision-Language Models [[PDF](https://arxiv.org/pdf/2502.04098)]
@@ -259,13 +262,13 @@
 [arxiv 2024.11]Video-Guided Foley Sound Generation with Multimodal Controls [[PDF](https://arxiv.org/abs/2411.17698), [Page](https://ificl.github.io/MultiFoley/)]
 
 
-[arxiv 2025.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
+[arxiv 2025.04]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
 
 
 ## Study 
 [arxiv 2025.03] Should VLMs be Pre-trained with Image Data?  [[PDF](https://arxiv.org/abs/2503.07603)]
 
-[arxiv 2025.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
+[arxiv 2025.04]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
 
 
 ## speed 
@@ -282,4 +285,4 @@
 [arxiv 2025.03]  InternVL-X: Advancing and Accelerating InternVL Series with Efficient Visual Token Compression [[PDF](https://arxiv.org/abs/2503.21307),[Page](https://github.com/ludc506/InternVL-X)] ![Code](https://img.shields.io/github/stars/ludc506/InternVL-X?style=social&label=Star) 
 
 
-[arxiv 2025.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
+[arxiv 2025.04]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
