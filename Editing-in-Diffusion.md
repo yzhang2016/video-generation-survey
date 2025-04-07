@@ -468,6 +468,9 @@
 
 [arxiv 2025.03] EditCLIP: Representation Learning for Image Editing  [[PDF](https://arxiv.org/abs/2503.20318),[Page](https://qianwangx.github.io/EditCLIP/)] ![Code](https://img.shields.io/github/stars/QianWangX/EditCLIP?style=social&label=Star)
 
+[arxiv 2025.04]  FreeInv: Free Lunch for Improving DDIM Inversion [[PDF](https://arxiv.org/pdf/2503.23035),[Page](https://yuxiangbao.github.io/FreeInv/)] 
+
+
 [arxiv 2025.04]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 
@@ -975,6 +978,10 @@
 [arxiv 2025.03] TokenBridge: Bridging Continuous and Discrete Tokens for Autoregressive Visual Generation  [[PDF](https://arxiv.org/abs/2503.16430),[Page](https://yuqingwang1029.github.io/TokenBridge/)] ![Code](https://img.shields.io/github/stars/yuqingwang1029/TokenBridge?style=social&label=Star)
 
 [arxiv 2025.03]  Improving Autoregressive Image Generation through Coarse-to-Fine Token Prediction [[PDF](https://arxiv.org/abs/2503.16194)]
+
+[arxiv 2025.04] Training-Free Text-Guided Image Editing with Visual Autoregressive Model  [[PDF](https://arxiv.org/abs/2503.23897),[Page](https://github.com/wyf0912/AREdit)] ![Code](https://img.shields.io/github/stars/wyf0912/AREdit?style=social&label=Star)
+
+[arxiv 2025.04]  FastVAR: Linear Visual Autoregressive Modeling via Cached Token Pruning [[PDF](https://arxiv.org/abs/2503.23367)]
 
 
 [arxiv 2025.04]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
@@ -1526,6 +1533,9 @@
 
 [arxiv 2025.03] Meta-LoRA: Meta-Learning LoRA Components for Domain-Aware ID Personalization  [[PDF](https://arxiv.org/abs/2503.22352)]
 
+[arxiv 2025.04] Consistent Subject Generation via Contrastive Instantiated Concepts  [[PDF](https://arxiv.org/abs/2503.24387),[Page](https://contrastive-concept-instantiation.github.io/)] ![Code](https://img.shields.io/github/stars/contrastive-concept-instantiation/cocoins?style=social&label=Star)
+
+[arxiv 2025.04]  Enhancing Creative Generation on Stable Diffusion-based Models [[PDF](https://arxiv.org/abs/2503.23538)]
 
 [arxiv 2025.04]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -1618,6 +1628,8 @@
 [arxiv 2025.01] One-Prompt-One-Story: Free-Lunch Consistent Text-to-Image Generation Using a Single Prompt  [[PDF](https://arxiv.org/abs/2501.13554),[Page](https://github.com/byliutao/1Prompt1Story)] ![Code](https://img.shields.io/github/stars/byliutao/1Prompt1Story?style=social&label=Star)
 
 [arxiv 2025.01]  Bringing Characters to New Stories: Training-Free Theme-Specific Image Generation via Dynamic Visual Prompting [[PDF](https://arxiv.org/abs/2501.15641)]
+
+[arxiv 2025.04] Object Isolated Attention for Consistent Story Visualization  [[PDF](https://arxiv.org/abs/2503.23353)]
 
 
 [arxiv 2025.04]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
@@ -2264,6 +2276,7 @@ Creative Layout-to-Image Generation [[PDF](https://arxiv.org/pdf/2412.03859),[Pa
 
 [arxiv 2025.03] Diffusion Image Prior  [[PDF](https://arxiv.org/abs/2503.21410)]
 
+[arxiv 2025.04] DiT4SR: Taming Diffusion Transformer for Real-World Image Super-Resolution  [[PDF](https://arxiv.org/abs/2503.23580)]
 
 [arxiv 2025.04]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -2881,6 +2894,7 @@ Creative Layout-to-Image Generation [[PDF](https://arxiv.org/pdf/2412.03859),[Pa
 
 [arxiv 2025.03]  Q-Insight: Understanding Image Quality via Visual Reinforcement Learning [[PDF](https://arxiv.org/abs/2503.22679),[Page](https://github.com/lwq20020127/Q-Insight)] ![Code](https://img.shields.io/github/stars/lwq20020127/Q-Insight?style=social&label=Star)
 
+[arxiv 2025.04] HumanAesExpert: Advancing a Multi-Modality Foundation Model for Human Image Aesthetic Assessment  [[PDF](https://arxiv.org/abs/2503.23907),[Page](https://humanaesexpert.github.io/HumanAesExpert/)] ![Code](https://img.shields.io/github/stars/HumanAesExpert/HumanAesExpert?style=social&label=Star)
 
 [arxiv 2025.04]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
