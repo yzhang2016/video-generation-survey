@@ -84,6 +84,8 @@
 
 [arxiv 2025.03] MotionStreamer: Streaming Motion Generation via Diffusion-based Autoregressive Model in Causal Latent Space  [[PDF](https://arxiv.org/abs/2503.15451),[Page](https://zju3dv.github.io/MotionStreamer/)] ![Code](https://img.shields.io/github/stars/Li-xingXiao/272-dim-Motion-Representation?style=social&label=Star)
 
+[arxiv 2025.04]  Shape My Moves: Text-Driven Shape-Aware Synthesis of Human Motions [[PDF](https://arxiv.org/abs/2504.03639),[Page](https://shape-move.github.io/)] 
+
 
 [arxiv 2025.04]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -116,6 +118,8 @@
 [arxiv 2024.12]  Dyn-HaMR: Recovering 4D Interacting Hand Motion from a Dynamic Camera [[PDF](https://arxiv.org/abs/),[Page](https://dyn-hamr.github.io/)] ![Code](https://img.shields.io/github/stars/ZhengdiYu/Dyn-HaMR?style=social&label=Star)
 
 [arxiv 2025.01]  Predicting 4D Hand Trajectory from Monocular Videos [[PDF](https://arxiv.org/abs/2501.08329),[Page](https://judyye.github.io/4dhands)]
+
+[arxiv 2025.04]  Direction-Aware Hybrid Representation Learning for 3D Hand Pose and Shape Estimation [[PDF](https://arxiv.org/abs/2504.01298)]
 
 
 [arxiv 2025.04]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
@@ -164,6 +168,9 @@
 [arxiv 2025.03]  Guiding Human-Object Interactions with Rich Geometry and Relations [[PDF](https://arxiv.org/abs/2503.20172),[Page](https://lalalfhdh.github.io/rog_page/)]
 
 [arxiv 2025.04]  SIGHT: Single-Image Conditioned Generation of Hand Trajectories for Hand-Object Interaction [[PDF](https://arxiv.org/abs/2503.22869)]
+
+[arxiv 2025.04]  MixerMDM: Learnable Composition of Human Motion Diffusion Models [[PDF](https://arxiv.org/abs/2504.01019),[Page](https://pabloruizponce.com/papers/MixerMDM)] ![Code](https://img.shields.io/github/stars/pabloruizponce/MixerMDM?style=social&label=Star)
+
 
 [arxiv 2025.04]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
