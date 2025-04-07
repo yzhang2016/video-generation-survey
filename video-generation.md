@@ -527,6 +527,8 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2025.04] Towards Physically Plausible Video Generation via VLM Planning  [[PDF](https://arxiv.org/abs/2503.23368)]
 
+[arxiv 2025.04] FreSca: Unveiling the Scaling Space in Diffusion Models  [[PDF](https://arxiv.org/abs/2504.02154),[Page](https://wikichao.github.io/FreSca/)] ![Code](https://img.shields.io/github/stars/WikiChao/FreSca?style=social&label=Star)
+
 
 [arxiv 2025.04]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -550,6 +552,8 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 [arxiv 2025.03]  Get In Video: Add Anything You Want to the Video [[PDF](https://arxiv.org/abs/2503.06268),[Page](https://zhuangshaobin.github.io/GetInVideo-project/)] ![Code](https://img.shields.io/github/stars/xh9998/DiffVSR?style=social&label=Star)
 
 [arxiv 2025.03] DreamInsert: Zero-Shot Image-to-Video Object Insertion from A Single Image  [[PDF](https://arxiv.org/pdf/2503.10342)]
+
+[arxiv 2025.04]  VIP: Video Inpainting Pipeline for Real World Human Removal [[PDF](https://arxiv.org/abs/2504.03041)]
 
 
 [arxiv 2025.04]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
@@ -707,6 +711,9 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 [arxiv 2025.03] Text2Story: Advancing Video Storytelling with Text Guidance  [[PDF](https://arxiv.org/pdf/2503.06310)]
 
 [arxiv 2025.03] Long Context Tuning for Video Generation  [[PDF](https://arxiv.org/pdf/2503.10589),[Page](https://guoyww.github.io/projects/long-context-video/)] 
+
+[arxiv 2025.04] AnimeGamer: Infinite Anime Life Simulation with Next Game State Prediction  [[PDF](https://arxiv.org/pdf/2504.01014),[Page](https://howe125.github.io/AnimeGamer.github.io/)] ![Code](https://img.shields.io/github/stars/TencentARC/AnimeGamer?style=social&label=Star)
+
 
 [arxiv 2025.04]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -919,6 +926,8 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2025.04] HumanDreamer: Generating Controllable Human-Motion Videos via Decoupled Generation  [[PDF](https://arxiv.org/abs/2503.24026),[Page](https://humandreamer.github.io/)] ![Code](https://img.shields.io/github/stars/GigaAI-research/HumanDreamer?style=social&label=Star)
 
+[arxiv 2025.04] DreamActor-M1: Holistic, Expressive and Robust Human Image Animation with Hybrid Guidance  [[PDF](https://arxiv.org/abs/2504.01724),[Page](https://grisoon.github.io/DreamActor-M1/)] 
+
 
 [arxiv 2025.04]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -1027,6 +1036,7 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2025.03]  ReCamMaster: Camera-Controlled Generative Rendering from A Single Video [[PDF](https://arxiv.org/abs/2503.11647),[Page](https://jianhongbai.github.io/ReCamMaster/)] ![Code](https://img.shields.io/github/stars/KwaiVGI/ReCamMaster?style=social&label=Star)
 
+[arxiv 2025.04] OmniCam: Unified Multimodal Video Generation via Camera Control  [[PDF](https://arxiv.org/abs/2504.02312)]
 
 [arxiv 2025.04]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -1208,6 +1218,9 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2025.04]  Every Painting Awakened: A Training-free Framework for Painting-to-Animation Generation [[PDF](https://arxiv.org/abs/2503.23736),[Page](https://painting-animation.github.io/animation/)] ![Code](https://img.shields.io/github/stars/lingyuliu/Every-Painting-Awakened?style=social&label=Star)
 
+[arxiv 2025.04] VideoScene: Distilling Video Diffusion Model to Generate 3D Scenes in One Step  [[PDF](https://arxiv.org/abs/2504.01956),[Page](https://hanyang-21.github.io/VideoScene)] ![Code](https://img.shields.io/github/stars/hanyang-21/VideoScene?style=social&label=Star)
+
+[arxiv 2025.04]  Scene Splatter: Momentum 3D Scene Generation from Single Image with Video Diffusion Model [[PDF](https://arxiv.org/abs/2504.02764),[Page](https://shengjun-zhang.github.io/SceneSplatter/)] 
 
 
 [arxiv 2025.04]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
@@ -1277,6 +1290,8 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 [arxiv 2025.03]  VideoMage: Multi-Subject and Motion Customization of Text-to-Video Diffusion Models [[PDF](https://arxiv.org/abs/2503.21781),[Page](https://jasper0314-huang.github.io/videomage-customization)] !
 
 [arxiv 2025.04] JointTuner: Appearance-Motion Adaptive Joint Training for Customized Video Generation [[PDF](https://arxiv.org/abs/2503.23951),[Page](https://fdchen24.github.io/JointTuner-Website/)]
+
+[arxiv 2025.04] SkyReels-A2: Compose Anything in Video Diffusion Transformers  [[PDF](https://arxiv.org/abs/2504.02436),[Page](https://github.com/SkyworkAI/SkyReels-A2)] ![Code](https://img.shields.io/github/stars/SkyworkAI/SkyReels-A2?style=social&label=Star)
 
 
 [arxiv 2025.04]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
@@ -1388,6 +1403,12 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2025.04]  DeepDubber-V1: Towards High Quality and Dialogue, Narration, Monologue Adaptive Movie Dubbing Via Multi-Modal Chain-of-Thoughts Reasoning Guidance. [[PDF](https://arxiv.org/abs/2503.23660)]
 
+[arxiv 2025.04] Audio-visual Controlled Video Diffusion with Masked Selective State Spaces Modeling for Natural Talking Head Generation  [[PDF](https://arxiv.org/abs/2504.02542),[Page](https://harlanhong.github.io/publications/actalker/index.html)] ![Code](https://img.shields.io/github/stars/harlanhong/ACTalker?style=social&label=Star)
+
+[arxiv 2025.04] OmniTalker: Real-Time Text-Driven Talking Head Generation with In-Context Audio-Visual Style Replication  [[PDF](https://arxiv.org/abs/2504.02433),[Page](https://humanaigc.github.io/omnitalker)] 
+
+[arxiv 2025.04]  VoiceCraft-Dub: Automated Video Dubbing with Neural Codec Language Models [[PDF](https://arxiv.org/abs/2504.02386),[Page](https://voicecraft-dub.github.io/)] 
+
 
 [arxiv 2025.04]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -1404,6 +1425,8 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 [arxiv 2025.03] MagicInfinite: Generating Infinite Talking Videos with Your Words and Voice  [[PDF](https://arxiv.org/abs/2503.05978),[Page](https://www.hedra.com/)] 
 
 [arxiv 2025.04]  MoCha: Towards Movie-Grade Talking Character Synthesis [[PDF](https://arxiv.org/abs/2503.23307),[Page](https://congwei1230.github.io/MoCha/)] 
+
+[arxiv 2025.04] DreamActor-M1: Holistic, Expressive and Robust Human Image Animation with Hybrid Guidance  [[PDF](https://arxiv.org/abs/2504.01724),[Page](https://grisoon.github.io/DreamActor-M1/)] 
 
 
 [arxiv 2025.04]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
@@ -1856,6 +1879,7 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2025.03]  EGVD: Event-Guided Video Diffusion Model for Physically Realistic Large-Motion Frame Interpolation [[PDF](https://arxiv.org/abs/2503.20268),[Page](https://github.com/OpenImagingLab/EGVD)] ![Code](https://img.shields.io/github/stars/OpenImagingLab/EGVD?style=social&label=Star)
 
+[arxiv 2025.04] Hierarchical Flow Diffusion for Efficient Frame Interpolation  [[PDF](https://arxiv.org/abs/2504.00380),[Page](https://hfd-interpolation.github.io/)] 
 
 
 [arxiv 2025.04]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
@@ -2112,6 +2136,8 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 [arxiv 2025.03] Position: Interactive Generative Video as Next-Generation Game Engine  [[PDF](https://arxiv.org/abs/2503.17359)]
 
 [arxiv 2025.04]  Can Test-Time Scaling Improve World Foundation Model? [[PDF](https://arxiv.org/abs/2503.24320),[Page](https://github.com/Mia-Cong/SWIFT)] ![Code](https://img.shields.io/github/stars/Mia-Cong/SWIFT?style=social&label=Star)
+
+[arxiv 2025.04] WorldScore: A Unified Evaluation Benchmark for World Generation  [[PDF](https://arxiv.org/abs/2504.00983),[Page](https://haoyi-duan.github.io/WorldScore/)] ![Code](https://img.shields.io/github/stars/haoyi-duan/WorldScore?style=social&label=Star)
 
 
 [arxiv 2025.04]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
