@@ -195,6 +195,13 @@
 
 [arxiv 2025.03] Qwen2.5-Omni Technical Report  [[PDF](https://arxiv.org/abs/2503.20215)]
 
+[arxiv 2025.04]  Shot-by-Shot: Film-Grammar-Aware Training-Free Audio Description Generation [[PDF](https://arxiv.org/abs/2504.01020),[Page](https://www.robots.ox.ac.uk/vgg/research/shot-by-shot/)] ![Code](https://img.shields.io/github/stars/Jyxarthur/shot-by-shot?style=social&label=Star) 
+
+[arxiv 2025.04] UniViTAR: Unified Vision Transformer with Native Resolution  [[PDF](https://arxiv.org/abs/2504.01792)]
+
+[arxiv 2025.04]  Aligned Better, Listen Better for Audio-Visual Large Language Models [[PDF](https://arxiv.org/abs/2504.02061),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
+
+[arxiv 2025.04] TokenFLEX: Unified VLM Training for Flexible Visual Tokens Inference  [[PDF](https://arxiv.org/abs/2504.03154)]
 
 [arxiv 2025.04]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
 
@@ -202,6 +209,14 @@
 ## Long Video Understanding
 
 [arxiv 2025.03]  VideoMind: A Chain-of-LoRA Agent for Long Video Reasoning [[PDF](https://arxiv.org/abs/2503.13444),[Page](https://videomind.github.io/)] ![Code](https://img.shields.io/github/stars/yeliudev/VideoMind?style=social&label=Star) 
+
+[arxiv 2025.04]  Chapter-Llama: Efficient Chaptering in Hour-Long Videos with LLMs [[PDF](https://arxiv.org/abs/2504.00072),[Page](https://imagine.enpc.fr/~lucas.ventura/chapter-llama/)] ![Code](https://img.shields.io/github/stars/lucas-ventura/chapter-llama/?style=social&label=Star) 
+
+[arxiv 2025.04]  Slow-Fast Architecture for Video Multi-Modal Large Language Models [[PDF](https://arxiv.org/abs/2504.01328),[Page](https://github.com/SHI-Labs/Slow-Fast-Video-Multimodal-LLM)] ![Code](https://img.shields.io/github/stars/SHI-Labs/Slow-Fast-Video-Multimodal-LLM?style=social&label=Star) 
+
+[arxiv 2025.04] TimeSearch: Hierarchical Video Search with Spotlight and Reflection for Human-like Long Video Understanding  [[PDF](https://arxiv.org/abs/2504.01407)]
+
+[arxiv 2025.04] Re-thinking Temporal Search for Long-Form Video Understanding  [[PDF](https://arxiv.org/abs/2504.02259)]
 
 [arxiv 2025.04]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
 
@@ -284,3 +299,11 @@
 
 
 [arxiv 2025.04]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
+
+## Evaluation
+
+[arxiv 2025.04]  MME-Unify: A Comprehensive Benchmark for Unified Multimodal Understanding and Generation Models [[PDF](https://arxiv.org/abs/2504.03641),[Page](https://mme-unify.github.io/)] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
+
+[arxiv 2025.04]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
+
+
