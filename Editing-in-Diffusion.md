@@ -470,6 +470,8 @@
 
 [arxiv 2025.04]  FreeInv: Free Lunch for Improving DDIM Inversion [[PDF](https://arxiv.org/pdf/2503.23035),[Page](https://yuxiangbao.github.io/FreeInv/)] 
 
+[arxiv 2025.04] TurboFill: Adapting Few-step Text-to-image Model for Fast Image Inpainting  [[PDF](https://arxiv.org/abs/2504.00996),[Page](https://liangbinxie.github.io/projects/TurboFill/)]
+
 
 [arxiv 2025.04]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -982,6 +984,8 @@
 [arxiv 2025.04] Training-Free Text-Guided Image Editing with Visual Autoregressive Model  [[PDF](https://arxiv.org/abs/2503.23897),[Page](https://github.com/wyf0912/AREdit)] ![Code](https://img.shields.io/github/stars/wyf0912/AREdit?style=social&label=Star)
 
 [arxiv 2025.04]  FastVAR: Linear Visual Autoregressive Modeling via Cached Token Pruning [[PDF](https://arxiv.org/abs/2503.23367)]
+
+[arxiv 2025.04] Fine-Tuning Visual Autoregressive Models for Subject-Driven Generation  [[PDF](https://arxiv.org/abs/2504.02612)]
 
 
 [arxiv 2025.04]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
@@ -1536,6 +1540,9 @@
 [arxiv 2025.04] Consistent Subject Generation via Contrastive Instantiated Concepts  [[PDF](https://arxiv.org/abs/2503.24387),[Page](https://contrastive-concept-instantiation.github.io/)] ![Code](https://img.shields.io/github/stars/contrastive-concept-instantiation/cocoins?style=social&label=Star)
 
 [arxiv 2025.04]  Enhancing Creative Generation on Stable Diffusion-based Models [[PDF](https://arxiv.org/abs/2503.23538)]
+
+[arxiv 2025.04] Concept Lancet: Image Editing with Compositional Representation Transplant  [[PDF](https://arxiv.org/abs/2504.02828),[Page](https://peterljq.github.io/project/colan)] ![Code](https://img.shields.io/github/stars/peterljq/Concept-Lancet?style=social&label=Star)
+
 
 [arxiv 2025.04]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -2497,6 +2504,8 @@ Creative Layout-to-Image Generation [[PDF](https://arxiv.org/pdf/2412.03859),[Pa
 
 [arxiv 2025.03]  Parametric Shadow Control for Portrait Generationin Text-to-Image Diffusion Models [[PDF](https://arxiv.org/abs/2503.21943)]
 
+[arxiv 2025.04]  MAD: Makeup All-in-One with Cross-Domain Diffusion Model [[PDF](https://arxiv.org/abs/2504.02545),[Page](https://basiclab.github.io/MAD)] 
+
 
 [arxiv 2025.04]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -2895,6 +2904,9 @@ Creative Layout-to-Image Generation [[PDF](https://arxiv.org/pdf/2412.03859),[Pa
 [arxiv 2025.03]  Q-Insight: Understanding Image Quality via Visual Reinforcement Learning [[PDF](https://arxiv.org/abs/2503.22679),[Page](https://github.com/lwq20020127/Q-Insight)] ![Code](https://img.shields.io/github/stars/lwq20020127/Q-Insight?style=social&label=Star)
 
 [arxiv 2025.04] HumanAesExpert: Advancing a Multi-Modality Foundation Model for Human Image Aesthetic Assessment  [[PDF](https://arxiv.org/abs/2503.23907),[Page](https://humanaesexpert.github.io/HumanAesExpert/)] ![Code](https://img.shields.io/github/stars/HumanAesExpert/HumanAesExpert?style=social&label=Star)
+
+[arxiv 2025.04] GPT-ImgEval: A Comprehensive Benchmark for Diagnosing GPT4o in Image Generation  [[PDF](https://arxiv.org/abs/2504.02782),[Page](https://github.com/PicoTrex/GPT-ImgEval)] ![Code](https://img.shields.io/github/stars/PicoTrex/GPT-ImgEval?style=social&label=Star)
+
 
 [arxiv 2025.04]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
