@@ -1,6 +1,4 @@
 
-
-
 ###  LLM 
 
 [arxiv 2024.12] Training Large Language Models to Reason in a Continuous Latent Space  [[PDF](https://arxiv.org/pdf/2412.06769)]
