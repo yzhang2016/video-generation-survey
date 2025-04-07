@@ -84,7 +84,7 @@ A reading list of video generation
 
 
 
-## :point_right: Databases
+## Databases
 
 * **HowTo100M**
 
@@ -168,9 +168,11 @@ A reading list of video generation
   [arxiv 2025.02]  Se\~norita-2M: A High-Quality Instruction-based Dataset for General Video Editing by Video Specialists [[PDF](https://arxiv.org/abs/2502.06734),[Page](https://senorita.github.io/)] 
 
 
-
 * **VideoUFO**
   [arxiv 2025.03]  VideoUFO: A Million-Scale User-Focused Dataset for Text-to-Video Generation [[PDF](https://arxiv.org/pdf/2503.01739),[Page](https://huggingface.co/datasets/WenhaoWang/VideoUFO)] 
+
+* **VideoUFO**
+  [arxiv 2025.04]  HOIGen-1M: A Large-scale Dataset for Human-Object Interaction Video Generation [[PDF](https://arxiv.org/abs/2503.23715),[Page](https://liuqi-creat.github.io/HOIGen.github.io/)] 
 
 
 
@@ -523,6 +525,8 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2025.03]  Temporal Regularization Makes Your Video Generator Stronger [[PDF](https://arxiv.org/abs/2412.02114),[Page](https://haroldchen19.github.io/FluxFlow/)] 
 
+[arxiv 2025.04] Towards Physically Plausible Video Generation via VLM Planning  [[PDF](https://arxiv.org/abs/2503.23368)]
+
 
 [arxiv 2025.04]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -560,6 +564,8 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 [arxiv 2024.12] Mimir: Improving Video Diffusion Models for Precise Text Understanding [[PDF](https://arxiv.org/abs/2412.03085),[Page](https://lucaria-academy.github.io/Mimir/)] 
 
 [arxiv 2024.12] InstanceCap: Improving Text-to-Video Generation via Instance-aware Structured Caption [[PDF](https://arxiv.org/abs/2412.09283),[Page](https://github.com/NJU-PCALab/InstanceCap)] ![Code](https://img.shields.io/github/stars/NJU-PCALab/InstanceCap?style=social&label=Star)
+
+[arxiv 2025.04]  Any2Caption:Interpreting Any Condition to Caption for Controllable Video Generation [[PDF](https://arxiv.org/abs/2503.24379),[Page](https://sqwu.top/Any2Cap/)] ![Code](https://img.shields.io/github/stars/ChocoWu/Any2Caption?style=social&label=Star)
 
 
 [arxiv 2025.04]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
@@ -911,6 +917,7 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2025.03] Decouple and Track: Benchmarking and Improving Video Diffusion Transformers For Motion Transfer  [[PDF](https://arxiv.org/pdf/2503.17350),[Page](https://shi-qingyu.github.io/DeT.github.io/)] 
 
+[arxiv 2025.04] HumanDreamer: Generating Controllable Human-Motion Videos via Decoupled Generation  [[PDF](https://arxiv.org/abs/2503.24026),[Page](https://humandreamer.github.io/)] ![Code](https://img.shields.io/github/stars/GigaAI-research/HumanDreamer?style=social&label=Star)
 
 
 [arxiv 2025.04]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
@@ -1199,6 +1206,10 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2025.03]  TASTE-Rob: Advancing Video Generation of Task-Oriented Hand-Object Interaction for Generalizable Robotic Manipulation [[PDF](https://arxiv.org/pdf/2503.11423),[Page](https://taste-rob.github.io/)]
 
+[arxiv 2025.04]  Every Painting Awakened: A Training-free Framework for Painting-to-Animation Generation [[PDF](https://arxiv.org/abs/2503.23736),[Page](https://painting-animation.github.io/animation/)] ![Code](https://img.shields.io/github/stars/lingyuliu/Every-Painting-Awakened?style=social&label=Star)
+
+
+
 [arxiv 2025.04]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 
@@ -1265,6 +1276,7 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2025.03]  VideoMage: Multi-Subject and Motion Customization of Text-to-Video Diffusion Models [[PDF](https://arxiv.org/abs/2503.21781),[Page](https://jasper0314-huang.github.io/videomage-customization)] !
 
+[arxiv 2025.04] JointTuner: Appearance-Motion Adaptive Joint Training for Customized Video Generation [[PDF](https://arxiv.org/abs/2503.23951),[Page](https://fdchen24.github.io/JointTuner-Website/)]
 
 
 [arxiv 2025.04]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
@@ -1374,6 +1386,9 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2025.03] Cafe-Talk: Generating 3D Talking Face Animation with Multimodal Coarse- and Fine-grained Control  [[PDF](https://arxiv.org/abs/2503.14517),[Page](https://harryxd2018.github.io/cafe-talk/)] 
 
+[arxiv 2025.04]  DeepDubber-V1: Towards High Quality and Dialogue, Narration, Monologue Adaptive Movie Dubbing Via Multi-Modal Chain-of-Thoughts Reasoning Guidance. [[PDF](https://arxiv.org/abs/2503.23660)]
+
+
 [arxiv 2025.04]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 
@@ -1387,6 +1402,8 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 [arxiv 2025.03] Versatile Multimodal Controls for Whole-Body Talking Human Animation  [[PDF](https://arxiv.org/pdf/2503.08714)]
 
 [arxiv 2025.03] MagicInfinite: Generating Infinite Talking Videos with Your Words and Voice  [[PDF](https://arxiv.org/abs/2503.05978),[Page](https://www.hedra.com/)] 
+
+[arxiv 2025.04]  MoCha: Towards Movie-Grade Talking Character Synthesis [[PDF](https://arxiv.org/abs/2503.23307),[Page](https://congwei1230.github.io/MoCha/)] 
 
 
 [arxiv 2025.04]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
@@ -1541,6 +1558,14 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 
 [arxiv 2025.04]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
+
+
+## Audio and video Generation
+[arxiv 2025.04]  JavisDiT: Joint Audio-Video Diffusion Transformer with Hierarchical Spatio-Temporal Prior Synchronization [[PDF](https://arxiv.org/pdf/2503.23377.pdf),[Page](https://javisdit.github.io/)] ![Code](https://img.shields.io/github/stars/JavisDiT/JavisDiT?style=social&label=Star)
+
+[arxiv 2025.04]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
+
+
 
 ## audio generation 
 
@@ -1931,6 +1956,8 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2025.03] VBench-2.0: Advancing Video Generation Benchmark Suite for Intrinsic Faithfulness  [[PDF](https://arxiv.org/abs/2503.21755),[Page](https://vchitect.github.io/VBench-2.0-project/)] ![Code](https://img.shields.io/github/stars/Vchitect/VBench?style=social&label=Star)
 
+[arxiv 2025.04]  VideoGen-Eval: Agent-based System for Video Generation Evaluation [[PDF](https://arxiv.org/abs/2503.23452),[Page](https://github.com/AILab-CVC/VideoGen-Eval)] ![Code](https://img.shields.io/github/stars/AILab-CVC/VideoGen-Eval?style=social&label=Star)
+
 
 [arxiv 2025.04]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -2002,6 +2029,8 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 [arxiv 2025.02]  Hardware-Friendly Static Quantization Method for Video Diffusion Transformers [[PDF](https://arxiv.org/pdf/2502.15077)]
 
 [arxiv 2025.03] W2SVD: Weak-to-Strong Video Distillation for Large-Scale Portrait Few-Step Synthesis  [[PDF](https://arxiv.org/abs/2503.13319),[Page](https://w2svd.github.io/W2SVD/)]
+
+[arxiv 2025.04]  On-device Sora: Enabling Training-Free Diffusion-based Text-to-Video Generation for Mobile Devices [[PDF](https://arxiv.org/abs/2503.23796),[Page](https://github.com/eai-lab/On-device-Sora)] ![Code](https://img.shields.io/github/stars/eai-lab/On-device-Sora?style=social&label=Star)
 
 
 [arxiv 2025.04]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
@@ -2081,6 +2110,8 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 [arxiv 2025.02] Pre-Trained Video Generative Models as World Simulators  [[PDF](https://arxiv.org/pdf/2502.07825)]
 
 [arxiv 2025.03] Position: Interactive Generative Video as Next-Generation Game Engine  [[PDF](https://arxiv.org/abs/2503.17359)]
+
+[arxiv 2025.04]  Can Test-Time Scaling Improve World Foundation Model? [[PDF](https://arxiv.org/abs/2503.24320),[Page](https://github.com/Mia-Cong/SWIFT)] ![Code](https://img.shields.io/github/stars/Mia-Cong/SWIFT?style=social&label=Star)
 
 
 [arxiv 2025.04]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
