@@ -171,6 +171,8 @@
 
 [arxiv 2025.04]  MixerMDM: Learnable Composition of Human Motion Diffusion Models [[PDF](https://arxiv.org/abs/2504.01019),[Page](https://pabloruizponce.com/papers/MixerMDM)] ![Code](https://img.shields.io/github/stars/pabloruizponce/MixerMDM?style=social&label=Star)
 
+[arxiv 2025.04]  InteractVLM: 3D Interaction Reasoning from 2D Foundational Models [[PDF](https://arxiv.org/abs/2504.05303),[Page](https://interactvlm.is.tue.mpg.de/)] 
+
 
 [arxiv 2025.04]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
