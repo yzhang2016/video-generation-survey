@@ -197,7 +197,6 @@
 
 [arxiv 2025.04]  Shot-by-Shot: Film-Grammar-Aware Training-Free Audio Description Generation [[PDF](https://arxiv.org/abs/2504.01020),[Page](https://www.robots.ox.ac.uk/vgg/research/shot-by-shot/)] ![Code](https://img.shields.io/github/stars/Jyxarthur/shot-by-shot?style=social&label=Star) 
 
-[arxiv 2025.04] UniViTAR: Unified Vision Transformer with Native Resolution  [[PDF](https://arxiv.org/abs/2504.01792)]
 
 [arxiv 2025.04]  Aligned Better, Listen Better for Audio-Visual Large Language Models [[PDF](https://arxiv.org/abs/2504.02061),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
 
@@ -217,6 +216,10 @@
 [arxiv 2025.04] TimeSearch: Hierarchical Video Search with Spotlight and Reflection for Human-like Long Video Understanding  [[PDF](https://arxiv.org/abs/2504.01407)]
 
 [arxiv 2025.04] Re-thinking Temporal Search for Long-Form Video Understanding  [[PDF](https://arxiv.org/abs/2504.02259)]
+
+[arxiv 2025.04] VideoAgent2: Enhancing the LLM-Based Agent System for Long-Form Video Understanding by Uncertainty-Aware CoT  [[PDF](https://arxiv.org/abs/2504.04471)]
+
+
 
 [arxiv 2025.04]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
 
@@ -267,6 +270,15 @@
 
 ## few-shot
 [arxiv 2025.02]  Efficient Few-Shot Continual Learning in Vision-Language Models [[PDF](https://arxiv.org/pdf/2502.04098)]
+
+
+## visual encoder 
+[arxiv 2025.04] UniViTAR: Unified Vision Transformer with Native Resolution  [[PDF](https://arxiv.org/abs/2504.01792)]
+
+[arxiv 2025.04]  UniToken: Harmonizing Multimodal Understanding and Generation through Unified Visual Encoding [[PDF](https://arxiv.org/abs/2504.04423),[Page](https://github.com/SxJyJay/UniToken)] ![Code](https://img.shields.io/github/stars/SxJyJay/UniToken?style=social&label=Star) 
+
+[arxiv 2025.04]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
+
 
 
 ## audio 
