@@ -2471,6 +2471,9 @@ Creative Layout-to-Image Generation [[PDF](https://arxiv.org/pdf/2412.03859),[Pa
 ## agent
 [arxiv 2025.03] CoSTA∗: Cost-Sensitive Toolpath Agent for Multi-turn Image Editin  [[PDF](https://arxiv.org/abs/2503.10613),[Page](https://github.com/tianyi-lab/CoSTAR)] ![Code](https://img.shields.io/github/stars/tianyi-lab/CoSTAR?style=social&label=Star)
 
+[arxiv 2025.04] CREA: A Collaborative Multi-Agent Framework for Creative Content Generation with Diffusion Models  [[PDF](https://arxiv.org/abs/2504.05306),[Page](https://crea-diffusion.github.io/)] 
+
+
 [arxiv 2025.04]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 
