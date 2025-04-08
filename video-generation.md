@@ -663,6 +663,9 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2025.03]  VideoMerge: Towards Training-free Long Video Generation [[PDF](https://arxiv.org/abs/2503.09926)]
 
+[arxiv 2025.04] One-Minute Video Generation with Test-Time Training  [[PDF](https://arxiv.org/abs/2504.05298),[Page](https://test-time-training.github.io/video-dit/)] ![Code](https://img.shields.io/github/stars/test-time-training/ttt-video-dit?style=social&label=Star)
+
+
 [arxiv 2025.04]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 
@@ -714,6 +717,7 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2025.04] AnimeGamer: Infinite Anime Life Simulation with Next Game State Prediction  [[PDF](https://arxiv.org/pdf/2504.01014),[Page](https://howe125.github.io/AnimeGamer.github.io/)] ![Code](https://img.shields.io/github/stars/TencentARC/AnimeGamer?style=social&label=Star)
 
+[arxiv 2025.04] One-Minute Video Generation with Test-Time Training  [[PDF](https://arxiv.org/abs/2504.05298),[Page](https://test-time-training.github.io/video-dit/)] ![Code](https://img.shields.io/github/stars/test-time-training/ttt-video-dit?style=social&label=Star)
 
 [arxiv 2025.04]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -927,6 +931,8 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 [arxiv 2025.04] HumanDreamer: Generating Controllable Human-Motion Videos via Decoupled Generation  [[PDF](https://arxiv.org/abs/2503.24026),[Page](https://humandreamer.github.io/)] ![Code](https://img.shields.io/github/stars/GigaAI-research/HumanDreamer?style=social&label=Star)
 
 [arxiv 2025.04] DreamActor-M1: Holistic, Expressive and Robust Human Image Animation with Hybrid Guidance  [[PDF](https://arxiv.org/abs/2504.01724),[Page](https://grisoon.github.io/DreamActor-M1/)] 
+
+[arxiv 2025.04] Multi-identity Human Image Animation with Structural Video Diffusion  [[PDF](https://arxiv.org/abs/2504.04126)]
 
 
 [arxiv 2025.04]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
@@ -1428,6 +1434,8 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2025.04] DreamActor-M1: Holistic, Expressive and Robust Human Image Animation with Hybrid Guidance  [[PDF](https://arxiv.org/abs/2504.01724),[Page](https://grisoon.github.io/DreamActor-M1/)] 
 
+[arxiv 2025.04]  DiTaiListener: Controllable High Fidelity Listener Video Generation with Diffusion [[PDF](https://arxiv.org/abs/2504.04010),[Page](https://havent-invented.github.io/DiTaiListener)] 
+
 
 [arxiv 2025.04]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -1551,6 +1559,7 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2025.03] Zero4D: Training-Free 4D Video Generation From Single Video Using Off-the-Shelf Video Diffusion Model  [[PDF](https://arxiv.org/abs/2503.22622),[Page](https://zero4dvid.github.io/)] 
 
+[arxiv 2025.04] Video4DGen: Enhancing Video and 4D Generation through Mutual Optimization  [[PDF](https://arxiv.org/abs/2504.04153),[Page](https://video4dgen.github.io/)] ![Code](https://img.shields.io/github/stars/yikaiw/Vidu4D?style=social&label=Star)
 
 
 [arxiv 2025.04]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
@@ -1981,6 +1990,10 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 [arxiv 2025.03] VBench-2.0: Advancing Video Generation Benchmark Suite for Intrinsic Faithfulness  [[PDF](https://arxiv.org/abs/2503.21755),[Page](https://vchitect.github.io/VBench-2.0-project/)] ![Code](https://img.shields.io/github/stars/Vchitect/VBench?style=social&label=Star)
 
 [arxiv 2025.04]  VideoGen-Eval: Agent-based System for Video Generation Evaluation [[PDF](https://arxiv.org/abs/2503.23452),[Page](https://github.com/AILab-CVC/VideoGen-Eval)] ![Code](https://img.shields.io/github/stars/AILab-CVC/VideoGen-Eval?style=social&label=Star)
+
+[arxiv 2025.04] Video-Bench: Human-Aligned Video Generation Benchmark  [[PDF](https://arxiv.org/abs/2504.04907),[Page](https://github.com/Video-Bench/Video-Bench)] ![Code](https://img.shields.io/github/stars/Video-Bench/Video-Bench?style=social&label=Star)
+
+[arxiv 2025.04] Can You Count to Nine? A Human Evaluation Benchmark for Counting Limits in Modern Text-to-Video Models  [[PDF](https://arxiv.org/abs/2504.04051)]
 
 
 [arxiv 2025.04]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
