@@ -719,7 +719,13 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2025.04] One-Minute Video Generation with Test-Time Training  [[PDF](https://arxiv.org/abs/2504.05298),[Page](https://test-time-training.github.io/video-dit/)] ![Code](https://img.shields.io/github/stars/test-time-training/ttt-video-dit?style=social&label=Star)
 
+[arxiv 2025.04]  VC-LLM: Automated Advertisement Video Creation from Raw Footage using Multi-modal LLMs [[PDF](https://arxiv.org/abs/2504.05673)]
+
 [arxiv 2025.04]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
+
+
+
+
 
 ## Stereo Video Generation 
 
@@ -1043,6 +1049,10 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 [arxiv 2025.03]  ReCamMaster: Camera-Controlled Generative Rendering from A Single Video [[PDF](https://arxiv.org/abs/2503.11647),[Page](https://jianhongbai.github.io/ReCamMaster/)] ![Code](https://img.shields.io/github/stars/KwaiVGI/ReCamMaster?style=social&label=Star)
 
 [arxiv 2025.04] OmniCam: Unified Multimodal Video Generation via Camera Control  [[PDF](https://arxiv.org/abs/2504.02312)]
+
+[arxiv 2025.04]  CamContextI2V: Context-aware Controllable Video Generation [[PDF](https://arxiv.org/abs/2504.06022),[Page](https://github.com/LDenninger/CamContextI2V)] ![Code](https://img.shields.io/github/stars/LDenninger/CamContextI2V?style=social&label=Star)
+
+
 
 [arxiv 2025.04]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -1889,6 +1899,9 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 [arxiv 2025.03]  EGVD: Event-Guided Video Diffusion Model for Physically Realistic Large-Motion Frame Interpolation [[PDF](https://arxiv.org/abs/2503.20268),[Page](https://github.com/OpenImagingLab/EGVD)] ![Code](https://img.shields.io/github/stars/OpenImagingLab/EGVD?style=social&label=Star)
 
 [arxiv 2025.04] Hierarchical Flow Diffusion for Efficient Frame Interpolation  [[PDF](https://arxiv.org/abs/2504.00380),[Page](https://hfd-interpolation.github.io/)] 
+
+
+[arxiv 2025.04]  Time-adaptive Video Frame Interpolation based on Residual Diffusion [[PDF](https://arxiv.org/abs/2504.05402)]
 
 
 [arxiv 2025.04]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
