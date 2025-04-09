@@ -1755,6 +1755,7 @@ Cross-Attention Control [[PDF](https://arxiv.org/abs/2402.13404)]
 
 [arxiv 2025.02] SwiftSketch: A Diffusion Model for Image-to-Vector Sketch Generation  [[PDF](https://arxiv.org/abs/2502.08642),[Page](https://swiftsketch.github.io/)] ![Code](https://img.shields.io/github/stars/swiftsketch/SwiftSketch?style=social&label=Star)
 
+[arxiv 2025.04] OmniSVG: A Unified Scalable Vector Graphics Generation Model  [[PDF](https://arxiv.org/abs/2504.06263),[Page](https://omnisvg.github.io/)] ![Code](https://img.shields.io/github/stars/OmniSVG/OmniSVG?style=social&label=Star)
 
 
 [arxiv 2025.04]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
@@ -2285,6 +2286,9 @@ Creative Layout-to-Image Generation [[PDF](https://arxiv.org/pdf/2412.03859),[Pa
 
 [arxiv 2025.04] DiT4SR: Taming Diffusion Transformer for Real-World Image Super-Resolution  [[PDF](https://arxiv.org/abs/2503.23580)]
 
+[arxiv 2025.04]  HiFlow: Training-free High-Resolution Image Generation with Flow-Aligned Guidance [[PDF](https://arxiv.org/abs/2504.06232),[Page](https://github.com/Bujiazi/HiFlow)] ![Code](https://img.shields.io/github/stars/Bujiazi/HiFlow?style=social&label=Star)
+
+
 [arxiv 2025.04]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 
@@ -2451,6 +2455,8 @@ Creative Layout-to-Image Generation [[PDF](https://arxiv.org/pdf/2412.03859),[Pa
 [arxiv 2025.03] Pluggable Style Representation Learning for Multi-Style Transfer[[PDF](https://arxiv.org/abs/2503.20368),[Page](https://github.com/SYSU-SAIL/SaMST)] ![Code](https://img.shields.io/github/stars/SYSU-SAIL/SaMST?style=social&label=Star)
 
 [arxiv 2025.03]  Semantix: An Energy Guided Sampler for Semantic Style Transfer [[PDF](https://arxiv.org/abs/2503.22344),[Page](https://huiang-he.github.io/semantix/)] ![Code](https://img.shields.io/github/stars/Huiang-He/Semantix-Styler?style=social&label=Star)
+
+[arxiv 2025.04]  A Training-Free Style-aligned Image Generation with Scale-wise Autoregressive Model[[PDF](https://arxiv.org/abs/2504.06144)]
 
 
 [arxiv 2025.04]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
@@ -3070,6 +3076,8 @@ Creative Layout-to-Image Generation [[PDF](https://arxiv.org/pdf/2412.03859),[Pa
 [arxiv 2025.03]  DiffMoE: Dynamic Token Selection for Scalable Diffusion Transformers [[PDF](https://arxiv.org/abs/2503.14487),[Page](https://shiml20.github.io/DiffMoE/)] ![Code](https://img.shields.io/github/stars/KwaiVGI/DiffMoE?style=social&label=Star)
 
 [arxiv 2025.03]  UniDisc: Unified Multimodal Discrete Diffusion [[PDF](https://arxiv.org/abs/2503.20853),[Page](https://unidisc.github.io/)] ![Code](https://img.shields.io/github/stars/alexanderswerdlow/unidisc?style=social&label=Star)
+
+[arxiv 2025.04]  DDT: Decoupled Diffusion Transformer [[PDF](https://arxiv.org/abs/2504.05741),[Page](https://github.com/MCG-NJU/DDT)] ![Code](https://img.shields.io/github/stars/MCG-NJU/DDT?style=social&label=Star)
 
 
 [arxiv 2025.04]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
