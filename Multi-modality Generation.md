@@ -240,6 +240,7 @@
 
 [arxiv 2025.03]  Harmonizing Visual Representations for Unified Multimodal Understanding and Generation [[PDF](https://arxiv.org/abs/2503.21979),[Page](https://github.com/wusize/Harmon)] ![Code](https://img.shields.io/github/stars/wusize/Harmon?style=social&label=Star) 
 
+[arxiv 2025.04]  Transfer between Modalities with MetaQueries [[PDF](https://arxiv.org/abs/2504.06256),[Page](https://xichenpan.com/metaquery/)] 
 
 
 [arxiv 2025.04]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
@@ -252,6 +253,8 @@
 ## reasoning
 
 [arxiv 2025.03] Video-R1: Reinforcing Video Reasoning in MLLMs  [[PDF](https://arxiv.org/abs/2503.21776),[Page](https://github.com/tulerfeng/Video-R1)] ![Code](https://img.shields.io/github/stars/tulerfeng/Video-R1?style=social&label=Star) 
+
+[arxiv 2025.04] Skywork R1V: Pioneering Multimodal Reasoning with Chain-of-Thought  [[PDF](https://arxiv.org/abs/2504.05599)]
 
 [arxiv 2025.04]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
 
