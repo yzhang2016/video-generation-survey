@@ -1048,6 +1048,8 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2025.03]  ReCamMaster: Camera-Controlled Generative Rendering from A Single Video [[PDF](https://arxiv.org/abs/2503.11647),[Page](https://jianhongbai.github.io/ReCamMaster/)] ![Code](https://img.shields.io/github/stars/KwaiVGI/ReCamMaster?style=social&label=Star)
 
+[arxiv 2025.03] FullDiT: Multi-Task Video Generative Foundation Model with Full Attention  [[PDF](https://arxiv.org/pdf/2503.19907v1),[Page](https://fulldit.github.io/)] ![Code]
+
 [arxiv 2025.04] OmniCam: Unified Multimodal Video Generation via Camera Control  [[PDF](https://arxiv.org/abs/2504.02312)]
 
 [arxiv 2025.04]  CamContextI2V: Context-aware Controllable Video Generation [[PDF](https://arxiv.org/abs/2504.06022),[Page](https://github.com/LDenninger/CamContextI2V)] ![Code](https://img.shields.io/github/stars/LDenninger/CamContextI2V?style=social&label=Star)
@@ -1305,9 +1307,13 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2025.03]  VideoMage: Multi-Subject and Motion Customization of Text-to-Video Diffusion Models [[PDF](https://arxiv.org/abs/2503.21781),[Page](https://jasper0314-huang.github.io/videomage-customization)] !
 
+[arxiv 2025.03] FullDiT: Multi-Task Video Generative Foundation Model with Full Attention  [[PDF](https://arxiv.org/pdf/2503.19907v1),[Page](https://fulldit.github.io/)] ![Code]
+
+
 [arxiv 2025.04] JointTuner: Appearance-Motion Adaptive Joint Training for Customized Video Generation [[PDF](https://arxiv.org/abs/2503.23951),[Page](https://fdchen24.github.io/JointTuner-Website/)]
 
 [arxiv 2025.04] SkyReels-A2: Compose Anything in Video Diffusion Transformers  [[PDF](https://arxiv.org/abs/2504.02436),[Page](https://github.com/SkyworkAI/SkyReels-A2)] ![Code](https://img.shields.io/github/stars/SkyworkAI/SkyReels-A2?style=social&label=Star)
+
 
 
 [arxiv 2025.04]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
