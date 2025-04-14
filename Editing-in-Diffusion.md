@@ -522,6 +522,8 @@
 
 [arxiv 2025.03]  BlobCtrl: A Unified and Flexible Framework for Element-level Image Generation and Editing [[PDF](https://arxiv.org/pdf/2503.13434),[Page](https://liyaowei-stu.github.io/project/BlobCtrl/)] ![Code](https://img.shields.io/github/stars/TencentARC/BlobCtrl?style=social&label=Star)
 
+[arxiv 2025.04] VisualCloze : A Universal Image Generation Framework via Visual In-Context Learning  [[PDF](https://arxiv.org/abs/2504.07960),[Page](https://visualcloze.github.io/)] ![Code](https://img.shields.io/github/stars/lzyhha/VisualCloze?style=social&label=Star)
+
 
 [arxiv 2025.04]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -609,6 +611,8 @@
 [arxiv 2025.03] The Curse of Conditions: Analyzing and Improving Optimal Transport for Conditional Flow-Based Generation  [[PDF](https://arxiv.org/abs/2503.10636),[Page](https://hkchengrex.github.io/C2OT)] ![Code](https://img.shields.io/github/stars/hkchengrex/C2OT?style=social&label=Star)
 
 [arxiv 2025.03] Deeply Supervised Flow-Based Models  [[PDF](https://arxiv.org/abs/2503.14494),[Page](https://deepflow-project.github.io/)]
+
+[arxiv 2025.04] PixelFlow: Pixel-Space Generative Models with Flow  [[PDF](https://arxiv.org/abs/2504.07963),[Page](https://github.com/ShoufaChen/PixelFlow)] ![Code](https://img.shields.io/github/stars/ShoufaChen/PixelFlow?style=social&label=Star)
 
 
 [arxiv 2025.04]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
@@ -909,6 +913,8 @@
 
 [arxiv 2025.03] Tokenize Image as a Set  [[PDF](https://arxiv.org/pdf/2503.16425),[Page](https://github.com/Gengzigang/TokenSet)] ![Code](https://img.shields.io/github/stars/Gengzigang/TokenSet?style=social&label=Star)
 
+[arxiv 2025.04] GigaTok: Scaling Visual Tokenizers to 3 Billion Parameters for Autoregressive Image Generation  [[PDF](https://arxiv.org/abs/2504.08736),[Page](https://silentview.github.io/GigaTok/)] ![Code](https://img.shields.io/github/stars/SilentView/GigaTok?style=social&label=Star)
+
 
 [arxiv 2025.04]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -1162,6 +1168,8 @@
 [arxiv 2025.02]  Decoder-Only LLMs are Better Controllers for Diffusion Models [[PDF](https://arxiv.org/pdf/2502.04412)]
 
 [arxiv 2025.02]  LDGen: Enhancing Text-to-Image Synthesis via Large Language Model-Driven Language Representation [[PDF](https://arxiv.org/abs/2502.18302),[Page](https://zrealli.github.io/LDGen/)] ![Code](https://img.shields.io/github/stars/zrealli/LDGen?style=social&label=Star)
+
+[arxiv 2025.04] Generating Fine Details of Entity Interactions [[PDF](https://arxiv.org/abs/2504.08714),[Page](https://concepts-ai.com/p/detailscribe/)] ![Code](https://img.shields.io/github/stars/gxy000/DetailScribe?style=social&label=Star)
 
 
 [arxiv 2025.04]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
@@ -1565,6 +1573,8 @@
 [arxiv 2025.03] Latent Beam Diffusion Models for Decoding Image Sequences  [[PDF](https://arxiv.org/abs/2503.20429)]
 
 [arxiv 2025.04] Consistent Subject Generation via Contrastive Instantiated Concepts  [[PDF](https://arxiv.org/abs/2503.24387)]
+
+[arxiv 2025.04] FlexIP: Dynamic Control of Preservation and Personality for Customized Image Generation  [[PDF](https://arxiv.org/abs/2504.07405),[Page](https://flexip-tech.github.io/flexip/#/)]
 
 [arxiv 2025.04]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -2072,6 +2082,8 @@ Creative Layout-to-Image Generation [[PDF](https://arxiv.org/pdf/2412.03859),[Pa
 
 [arxiv 2025.03] ORIGEN: Zero-Shot 3D Orientation Grounding in Text-to-Image Generation  [[PDF](https://arxiv.org/abs/2503.22194),[Page](https://origen2025.github.io/)] 
 
+[arxiv 2025.04] DreamFuse: Adaptive Image Fusion with Diffusion Transformer  [[PDF](https://arxiv.org/abs/2504.08291),[Page](https://ll3rd.github.io/DreamFuse/)] 
+
 
 [arxiv 2025.04]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -2287,6 +2299,10 @@ Creative Layout-to-Image Generation [[PDF](https://arxiv.org/pdf/2412.03859),[Pa
 [arxiv 2025.04] DiT4SR: Taming Diffusion Transformer for Real-World Image Super-Resolution  [[PDF](https://arxiv.org/abs/2503.23580)]
 
 [arxiv 2025.04]  HiFlow: Training-free High-Resolution Image Generation with Flow-Aligned Guidance [[PDF](https://arxiv.org/abs/2504.06232),[Page](https://github.com/Bujiazi/HiFlow)] ![Code](https://img.shields.io/github/stars/Bujiazi/HiFlow?style=social&label=Star)
+
+[arxiv 2025.04]  ZipIR: Latent Pyramid Diffusion Transformer for High-Resolution Image Restoration [[PDF](https://arxiv.org/pdf/2504.08591)]
+
+[arxiv 2025.04]  Crafting Query-Aware Selective Attention for Single Image Super-Resolution [[PDF](https://arxiv.org/abs/2504.06634)]
 
 
 [arxiv 2025.04]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
@@ -2514,6 +2530,8 @@ Creative Layout-to-Image Generation [[PDF](https://arxiv.org/pdf/2412.03859),[Pa
 [arxiv 2025.03]  Parametric Shadow Control for Portrait Generationin Text-to-Image Diffusion Models [[PDF](https://arxiv.org/abs/2503.21943)]
 
 [arxiv 2025.04]  MAD: Makeup All-in-One with Cross-Domain Diffusion Model [[PDF](https://arxiv.org/abs/2504.02545),[Page](https://basiclab.github.io/MAD)] 
+
+[arxiv 2025.04] PosterMaker: Towards High-Quality Product Poster Generation with Accurate Text Rendering  [[PDF](https://arxiv.org/abs/2504.06632),[Page](https://poster-maker.github.io/)] ![Code](https://img.shields.io/github/stars/eafn/PosterMaker?style=social&label=Star)
 
 
 [arxiv 2025.04]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
@@ -2783,6 +2801,8 @@ Creative Layout-to-Image Generation [[PDF](https://arxiv.org/pdf/2412.03859),[Pa
 [arxiv 2025.03] Di[M]O: Distilling Masked Diffusion Models into One-step Generator  [[PDF](https://arxiv.org/abs/2503.15457),[Page](https://yuanzhi-zhu.github.io/DiMO/)] ![Code](https://img.shields.io/github/stars/yuanzhi-zhu/DiMO?style=social&label=Star)
 
 [arxiv 2025.03]  BlockDance: Reuse Structurally Similar Spatio-Temporal Features to Accelerate Diffusion Transformers [[PDF](https://arxiv.org/pdf/2503.15927)]
+
+[arxiv 2025.04]  DyDiT++: Dynamic Diffusion Transformers for Efficient Visual Generation [[PDF](https://arxiv.org/abs/2504.06803),[Page](https://github.com/alibaba-damo-academy/DyDiT)] ![Code](https://img.shields.io/github/stars/alibaba-damo-academy/DyDiT?style=social&label=Star)
 
 
 [arxiv 2025.04]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
