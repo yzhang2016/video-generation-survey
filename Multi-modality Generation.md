@@ -202,6 +202,9 @@
 
 [arxiv 2025.04] TokenFLEX: Unified VLM Training for Flexible Visual Tokens Inference  [[PDF](https://arxiv.org/abs/2504.03154)]
 
+[arxiv 2025.04]  Kimi-VL Technical Report [[PDF](https://arxiv.org/abs/2504.07491),[Page](https://github.com/MoonshotAI/Kimi-VL)] ![Code](https://img.shields.io/github/stars//MoonshotAI/Kimi-VL?style=social&label=Star) 
+
+
 [arxiv 2025.04]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
 
 
@@ -255,6 +258,11 @@
 [arxiv 2025.03] Video-R1: Reinforcing Video Reasoning in MLLMs  [[PDF](https://arxiv.org/abs/2503.21776),[Page](https://github.com/tulerfeng/Video-R1)] ![Code](https://img.shields.io/github/stars/tulerfeng/Video-R1?style=social&label=Star) 
 
 [arxiv 2025.04] Skywork R1V: Pioneering Multimodal Reasoning with Chain-of-Thought  [[PDF](https://arxiv.org/abs/2504.05599)]
+
+[arxiv 2025.04]  VLM-R1: A Stable and Generalizable R1-style Large Vision-Language Model [[PDF](https://arxiv.org/abs/2504.07615),[Page](https://github.com/om-ai-lab/VLM-R1)] ![Code](https://img.shields.io/github/stars/om-ai-lab/VLM-R1?style=social&label=Star) 
+
+[arxiv 2025.04] VideoChat-R1: Enhancing Spatio-Temporal Perception via Reinforcement Fine-Tuning  [[PDF](https://arxiv.org/abs/2504.06958),[Page](https://github.com/OpenGVLab/VideoChat-R1)] ![Code](https://img.shields.io/github/stars/OpenGVLab/VideoChat-R1?style=social&label=Star) 
+
 
 [arxiv 2025.04]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
 
