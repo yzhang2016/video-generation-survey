@@ -437,6 +437,9 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2025.03]  Wan: Open and Advanced Large-Scale Video Generative Models [[PDF](https://arxiv.org/abs/2503.20314),[Page](https://github.com/Wan-Video/Wan2.1)] ![Code](https://img.shields.io/github/stars/Wan-Video/Wan2.1?style=social&label=Star)
 
+[arxiv 2025.04]  Seaweed-7B: Cost-Effective Training of Video Generation Foundation Model [[PDF](https://arxiv.org/abs/2504.08685),[Page](https://seaweed.video/)] 
+
+
 
 [arxiv 2025.04]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -529,6 +532,8 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2025.04] FreSca: Unveiling the Scaling Space in Diffusion Models  [[PDF](https://arxiv.org/abs/2504.02154),[Page](https://wikichao.github.io/FreSca/)] ![Code](https://img.shields.io/github/stars/WikiChao/FreSca?style=social&label=Star)
 
+[arxiv 2025.04] Discriminator-Free Direct Preference Optimization for Video Diffusion  [[PDF](https://arxiv.org/abs/2504.08542)]
+
 
 [arxiv 2025.04]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -554,6 +559,8 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 [arxiv 2025.03] DreamInsert: Zero-Shot Image-to-Video Object Insertion from A Single Image  [[PDF](https://arxiv.org/pdf/2503.10342)]
 
 [arxiv 2025.04]  VIP: Video Inpainting Pipeline for Real World Human Removal [[PDF](https://arxiv.org/abs/2504.03041)]
+
+[arxiv 2025.04]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 
 [arxiv 2025.04]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
@@ -840,6 +847,8 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2025.03] Re-HOLD: Video Hand Object Interaction Reenactment via adaptive Layout-instructed Diffusion Model  [[PDF](https://arxiv.org/abs/2503.16942),[Page](https://fyycs.github.io/Re-HOLD/)] 
 
+[arxiv 2025.04]  Training-free Guidance in Text-to-Video Generation via Multimodal Planning and Structured Noise Initialization [[PDF](https://arxiv.org/abs/2504.08641),[Page](https://video-msg.github.io/)] ![Code](https://img.shields.io/github/stars/jialuli-luka/Video-MSG?style=social&label=Star)
+
 
 [arxiv 2025.04]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -939,6 +948,8 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 [arxiv 2025.04] DreamActor-M1: Holistic, Expressive and Robust Human Image Animation with Hybrid Guidance  [[PDF](https://arxiv.org/abs/2504.01724),[Page](https://grisoon.github.io/DreamActor-M1/)] 
 
 [arxiv 2025.04] Multi-identity Human Image Animation with Structural Video Diffusion  [[PDF](https://arxiv.org/abs/2504.04126)]
+
+[arxiv 2025.04]  TokenMotion: Decoupled Motion Control via Token Disentanglement for Human-centric Video Generation [[PDF](https://arxiv.org/pdf/2504.08181)]
 
 
 [arxiv 2025.04]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
@@ -1054,6 +1065,11 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2025.04]  CamContextI2V: Context-aware Controllable Video Generation [[PDF](https://arxiv.org/abs/2504.06022),[Page](https://github.com/LDenninger/CamContextI2V)] ![Code](https://img.shields.io/github/stars/LDenninger/CamContextI2V?style=social&label=Star)
 
+[arxiv 2025.04]  RealCam-Vid: High-resolution Video Dataset with Dynamic Scenes and Metric-scale Camera Movements [[PDF](https://arxiv.org/abs/2504.08212),[Page](https://github.com/ZGCTroy/RealCam-Vid)] ![Code](https://img.shields.io/github/stars/ZGCTroy/RealCam-Vid?style=social&label=Star)
+
+[arxiv 2025.04]  TokenMotion: Decoupled Motion Control via Token Disentanglement for Human-centric Video Generation [[PDF](https://arxiv.org/pdf/2504.08181)]
+
+[arxiv 2025.04] GenDoP: Auto-regressive Camera Trajectory Generation as a Director of Photography  [[PDF](https://arxiv.org/abs/2504.07083),[Page](https://kszpxxzmc.github.io/GenDoP/)] ![Code](https://img.shields.io/github/stars/3DTopia/GenDoP?style=social&label=Star)
 
 
 [arxiv 2025.04]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
@@ -1621,6 +1637,9 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2025.03]  DeepAudio-V1:Towards Multi-Modal Multi-Stage End-to-End Video to Speech and Audio Generation [[PDF](https://arxiv.org/abs/2503.22265)]
 
+[arxiv 2025.04] Extending Visual Dynamics for Video-to-Music Generation  [[PDF](https://arxiv.org/abs/2504.07594)】
+
+
 [arxiv 2025.04]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 
@@ -2171,6 +2190,8 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2025.04] WorldScore: A Unified Evaluation Benchmark for World Generation  [[PDF](https://arxiv.org/abs/2504.00983),[Page](https://haoyi-duan.github.io/WorldScore/)] ![Code](https://img.shields.io/github/stars/haoyi-duan/WorldScore?style=social&label=Star)
 
+[arxiv 2025.04] MineWorld: a Real-Time and Open-Source Interactive World Model on Minecraft  [[PDF](https://arxiv.org/abs/2504.08388),[Page](https://github.com/microsoft/MineWorld)] ![Code](https://img.shields.io/github/stars/microsoft/MineWorld?style=social&label=Star)
+
 
 [arxiv 2025.04]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -2235,6 +2256,8 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 [arxiv 2025.02]  HuViDPO: Enhancing Video Generation through Direct Preference Optimization for Human-Centric Alignment [[PDF](https://arxiv.org/abs/2502.01690)]
 
 [arxiv 2025.02] CHATS: Combining Human-Aligned Optimization and Test-Time Sampling for Text-to-Image Generation  [[PDF](https://arxiv.org/pdf/2502.12579)]
+
+[arxiv 2025.04]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 
 [arxiv 2025.04]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
