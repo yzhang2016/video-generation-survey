@@ -103,8 +103,6 @@
 
 
 ## Hands 
-
-
 [arxiv 2024.10]Learning Interaction-aware 3D Gaussian Splatting for One-shot Hand Avatars [[PDF](https://arxiv.org/abs/2410.08840),[Page](https://github.com/XuanHuang0/GuassianHand)]
 
 [arxiv 2024.11] UniHands: Unifying Various Wild-Collected Keypoints for Personalized Hand Reconstruction  [[PDF](https://arxiv.org/abs/2411.11845),[Page]()]
@@ -123,6 +121,13 @@
 
 
 [arxiv 2025.04]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
+
+
+# ego
+[arxiv 2025.04]  The Invisible EgoHand: 3D Hand Forecasting through EgoBody Pose Estimation [[PDF](https://arxiv.org/abs/2504.08654),[Page](https://masashi-hatano.github.io/EgoH4/)] ![Code](https://img.shields.io/github/stars/masashi-hatano/EgoH4?style=social&label=Star)
+
+[arxiv 2025.04]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
+
 
 
 
@@ -212,6 +217,9 @@
 ## Capture 
 
 [arxiv 2024.11] FreeCap: Hybrid Calibration-Free Motion Capture in Open Environments  [[PDF](https://arxiv.org/abs/2411.04469)]
+
+[arxiv 2025.04]  EMO-X: Efficient Multi-Person Pose and Shape Estimation in One-Stage [[PDF](https://arxiv.org/abs/2504.08718)]
+
 
 
 [arxiv 2025.04]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
