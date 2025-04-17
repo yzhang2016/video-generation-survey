@@ -178,6 +178,10 @@
 
 [arxiv 2025.04]  InteractVLM: 3D Interaction Reasoning from 2D Foundational Models [[PDF](https://arxiv.org/abs/2504.05303),[Page](https://interactvlm.is.tue.mpg.de/)] 
 
+[arxiv 2025.04]  How Do I Do That? Synthesizing 3D Hand Motion and Contacts for Everyday Interactions [[PDF](https://arxiv.org/abs/2504.12284),[Page](https://ap229997.github.io/projects/latentact/)] ![Code](https://img.shields.io/github/stars/ap229997/latentact?style=social&label=Star)
+
+[arxiv 2025.04]  InterAnimate: Taming Region-aware Diffusion Model for Realistic Human Interaction Animation [[PDF](https://arxiv.org/pdf/2504.10905)]
+
 
 [arxiv 2025.04]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -220,6 +224,7 @@
 
 [arxiv 2025.04]  EMO-X: Efficient Multi-Person Pose and Shape Estimation in One-Stage [[PDF](https://arxiv.org/abs/2504.08718)]
 
+[arxiv 2025.04] CoMotion: Concurrent Multi-person 3D Motion  [[PDF](https://arxiv.org/abs/2504.12186),[Page](https://github.com/apple/ml-comotion)] ![Code](https://img.shields.io/github/stars/apple/ml-comotion?style=social&label=Star)
 
 
 [arxiv 2025.04]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
