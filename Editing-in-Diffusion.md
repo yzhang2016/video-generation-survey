@@ -3,6 +3,8 @@
 ## text-to-image
 [arxiv 2025.03] Lumina-Image 2.0: A Unified and Efficient Image Generative Framework  [[PDF](https://arxiv.org/abs/2503.21758)]
 
+[arxiv 2025.04] Seedream 3.0 Technical Report  [[PDF](https://arxiv.org/abs/2504.11346),[Page](https://team.doubao.com/zh/tech/seedream3_0)] 
+
 
 [arxiv 2025.04]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -993,6 +995,8 @@
 
 [arxiv 2025.04] Fine-Tuning Visual Autoregressive Models for Subject-Driven Generation  [[PDF](https://arxiv.org/abs/2504.02612)]
 
+[arxiv 2025.04]  SimpleAR: Pushing the Frontier of Autoregressive Visual Generation through Pretraining, SFT, and RL [[PDF](https://arxiv.org/abs/2504.11455),[Page](https://github.com/wdrink/SimpleAR)] ![Code](https://img.shields.io/github/stars/wdrink/SimpleAR?style=social&label=Star)
+
 
 [arxiv 2025.04]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -1009,6 +1013,11 @@
 
 
 [arxiv 2025.03] Scale-wise Distillation of Diffusion Models  [[PDF](https://arxiv.org/abs/2503.16397),[Page](https://yandex-research.github.io/swd/)] ![Code](https://img.shields.io/github/stars/yandex-research/swd?style=social&label=Star)
+
+[arxiv 2025.04]  Autoregressive Distillation of Diffusion Transformers [[PDF](https://arxiv.org/abs/2504.11295),[Page](https://github.com/alsdudrla10/ARD)] ![Code](https://img.shields.io/github/stars/alsdudrla10/ARD?style=social&label=Star)
+
+
+[arxiv 2025.04]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 
 
@@ -1726,6 +1735,9 @@ Cross-Attention Control [[PDF](https://arxiv.org/abs/2402.13404)]
 [arxiv 2024.12] SLayR: Scene Layout Generation with Rectified Flow  [[PDF](https://arxiv.org/abs/2412.05003)]
 
 [arxiv 2025.02]  WorldCraft: Photo-Realistic 3D World Creation and Customization via LLM Agents [[PDF](https://arxiv.org/pdf/2502.15601)]
+
+[arxiv 2025.04] LayoutCoT: Unleashing the Deep Reasoning Potential of Large Language Models for Layout Generation  [[PDF](https://arxiv.org/pdf/2504.10829)]
+
 
 [arxiv 2025.04]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
 
