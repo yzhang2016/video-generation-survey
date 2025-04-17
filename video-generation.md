@@ -218,6 +218,10 @@ A reading list of video generation
 
 [arxiv 2025.03] HiTVideo: Hierarchical Tokenizers for Enhancing Text-to-Video Generation with Autoregressive Large Language Models  [[PDF](https://arxiv.org/pdf/2503.11513),[Page](https://ziqinzhou66.github.io/project/HiTVideo)] 
 
+[arxiv 2025.04]  VGDFR: Diffusion-based Video Generation with Dynamic Latent Frame Rate [[PDF](https://arxiv.org/pdf/2504.12259),[Page](https://github.com/thu-nics/VGDFR)] ![Code](https://img.shields.io/github/stars/thu-nics/VGDFR?style=social&label=Star)
+
+
+
 [arxiv 2025.04]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 
@@ -534,8 +538,19 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2025.04] Discriminator-Free Direct Preference Optimization for Video Diffusion  [[PDF](https://arxiv.org/abs/2504.08542)]
 
+[arxiv 2025.04] The Devil is in the Prompts: Retrieval-Augmented Prompt Optimization for Text-to-Video Generation  [[PDF](https://arxiv.org/abs/2504.11739),[Page](https://whynothaha.github.io/Prompt_optimizer/RAPO.html)] 
 
 [arxiv 2025.04]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
+
+
+## loss 
+[arxiv 2025.04]  REPA-E: Unlocking VAE for End-to-End Tuning with Latent Diffusion Transformers [[PDF](https://arxiv.org/abs/2504.10483),[Page](https://end2end-diffusion.github.io/)] ![Code](https://img.shields.io/github/stars/End2End-Diffusion/REPA-E?style=social&label=Star)
+
+
+[arxiv 2025.04]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
+
+
+
 
 
 ## composition 
@@ -850,6 +865,9 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 [arxiv 2025.04]  Training-free Guidance in Text-to-Video Generation via Multimodal Planning and Structured Noise Initialization [[PDF](https://arxiv.org/abs/2504.08641),[Page](https://video-msg.github.io/)] ![Code](https://img.shields.io/github/stars/jialuli-luka/Video-MSG?style=social&label=Star)
 
 
+[arxiv 2025.04] OmniVDiff: Omni Controllable Video Diffusion for Generation and Understanding  [[PDF](https://arxiv.org/abs/2504.10825),[Page](https://tele-ai.github.io/OmniVDiff/)] ![Code](https://img.shields.io/github/stars/Tele-AI/OmniVDiff?style=social&label=Star)
+
+
 [arxiv 2025.04]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 
@@ -950,6 +968,10 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 [arxiv 2025.04] Multi-identity Human Image Animation with Structural Video Diffusion  [[PDF](https://arxiv.org/abs/2504.04126)]
 
 [arxiv 2025.04]  TokenMotion: Decoupled Motion Control via Token Disentanglement for Human-centric Video Generation [[PDF](https://arxiv.org/pdf/2504.08181)]
+
+[arxiv 2025.04] UniAnimate-DiT: Human Image Animation with Large-Scale Video Diffusion Transformer  [[PDF](https://arxiv.org/abs/2504.11289),[Page](https://github.com/ali-vilab/UniAnimate-DiT)] ![Code](https://img.shields.io/github/stars/ali-vilab/UniAnimate-DiT?style=social&label=Star)
+
+[arxiv 2025.04] Taming Consistency Distillation for Accelerated Human Image Animation  [[PDF](https://arxiv.org/pdf/2504.11143)]
 
 
 [arxiv 2025.04]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
@@ -1070,6 +1092,8 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 [arxiv 2025.04]  TokenMotion: Decoupled Motion Control via Token Disentanglement for Human-centric Video Generation [[PDF](https://arxiv.org/pdf/2504.08181)]
 
 [arxiv 2025.04] GenDoP: Auto-regressive Camera Trajectory Generation as a Director of Photography  [[PDF](https://arxiv.org/abs/2504.07083),[Page](https://kszpxxzmc.github.io/GenDoP/)] ![Code](https://img.shields.io/github/stars/3DTopia/GenDoP?style=social&label=Star)
+
+[arxiv 2025.04] Modular-Cam: Modular Dynamic Camera-view Video Generation with LLM  [[PDF](https://arxiv.org/abs/2504.12048),[Page](https://modular-cam.github.io/)] 
 
 
 [arxiv 2025.04]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
@@ -1726,6 +1750,8 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 [arxiv 2025.02]  VideoGrain: Modulating Space-Time Attention for Multi-Grained Video Editing [[PDF](https://arxiv.org/abs/2502.17258),[Page](https://knightyxp.github.io/VideoGrain_project_page/)] ![Code](https://img.shields.io/github/stars/knightyxp/VideoGrain?style=social&label=Star)
 
 [arxiv 2025.03] SwapAnyone: Consistent and Realistic Video Synthesis for Swapping Any Person into Any Video  [[PDF](https://arxiv.org/abs/2503.09154),[Page](https://github.com/PKU-YuanGroup/SwapAnyone)] ![Code](https://img.shields.io/github/stars/PKU-YuanGroup/SwapAnyone?style=social&label=Star)
+
+[arxiv 2025.04] Understanding Attention Mechanism in Video Diffusion Models  [[PDF](https://arxiv.org/pdf/2504.12027)]
 
 
 [arxiv 2025.04]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
