@@ -182,6 +182,8 @@
 
 [arxiv 2025.04]  InterAnimate: Taming Region-aware Diffusion Model for Realistic Human Interaction Animation [[PDF](https://arxiv.org/pdf/2504.10905)]
 
+[arxiv 2025.04] HUMOTO: A 4D Dataset of Mocap Human Object Interactions  [[PDF](https://arxiv.org/abs/2504.10414),[Page](https://jiaxin-lu.github.io/humoto/)] 
+
 
 [arxiv 2025.04]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
