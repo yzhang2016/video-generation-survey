@@ -220,6 +220,7 @@ A reading list of video generation
 
 [arxiv 2025.04]  VGDFR: Diffusion-based Video Generation with Dynamic Latent Frame Rate [[PDF](https://arxiv.org/pdf/2504.12259),[Page](https://github.com/thu-nics/VGDFR)] ![Code](https://img.shields.io/github/stars/thu-nics/VGDFR?style=social&label=Star)
 
+[arxiv 2025.04] D2iT: Dynamic Diffusion Transformer for Accurate Image Generation  [[PDF](https://arxiv.org/pdf/2504.09454),[Page](https://github.com/jiawn-creator/Dynamic-DiT)] ![Code](https://img.shields.io/github/stars/jiawn-creator/Dynamic-DiT?style=social&label=Star)
 
 
 [arxiv 2025.04]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
@@ -540,6 +541,9 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2025.04] The Devil is in the Prompts: Retrieval-Augmented Prompt Optimization for Text-to-Video Generation  [[PDF](https://arxiv.org/abs/2504.11739),[Page](https://whynothaha.github.io/Prompt_optimizer/RAPO.html)] 
 
+[arxiv 2025.04]  EquiVDM: Equivariant Video Diffusion Models with Temporally Consistent Noise [[PDF](https://arxiv.org/pdf/2504.09789),[Page](https://research.nvidia.com/labs/genair/equivdm/)] 
+
+
 [arxiv 2025.04]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 
@@ -686,6 +690,8 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 [arxiv 2025.03]  VideoMerge: Towards Training-free Long Video Generation [[PDF](https://arxiv.org/abs/2503.09926)]
 
 [arxiv 2025.04] One-Minute Video Generation with Test-Time Training  [[PDF](https://arxiv.org/abs/2504.05298),[Page](https://test-time-training.github.io/video-dit/)] ![Code](https://img.shields.io/github/stars/test-time-training/ttt-video-dit?style=social&label=Star)
+
+[arxiv 2025.04]  SkyReels-V2: Infinite-length Film Generative Model [[PDF](https://arxiv.org/abs/2504.13074),[Page](https://github.com/SkyworkAI/SkyReels-V2)] ![Code](https://img.shields.io/github/stars/SkyworkAI/SkyReels-V2?style=social&label=Star)
 
 
 [arxiv 2025.04]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
@@ -1095,6 +1101,7 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2025.04] Modular-Cam: Modular Dynamic Camera-view Video Generation with LLM  [[PDF](https://arxiv.org/abs/2504.12048),[Page](https://modular-cam.github.io/)] 
 
+[arxiv 2025.04]  CamMimic: Zero-Shot Image to Camera Motion Personalized Video Generation using Diffusion Models [[PDF](https://arxiv.org/abs/2504.09472),[Page](https://cammimic.github.io/)]
 
 [arxiv 2025.04]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -1183,6 +1190,8 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 [arxiv 2025.01]  DiffVSR: Enhancing Real-World Video Super-Resolution with Diffusion Models for Advanced Visual Quality and Temporal Consistency [[PDF](https://arxiv.org/abs/2501.10110),[Page](https://xh9998.github.io/DiffVSR-project/)] ![Code](https://img.shields.io/github/stars/xh9998/DiffVSR?style=social&label=Star)
 
 [arxiv 2025.03]  Temporal-Consistent Video Restoration with Pre-trained Diffusion Models [[PDF](https://arxiv.org/pdf/2503.14863)]
+
+[arxiv 2025.04]  EvTexture: Event-driven Texture Enhancement for Video Super-Resolution [[PDF](https://arxiv.org/abs/2406.13457),[Page](https://dachunkai.github.io/evtexture.github.io/)] ![Code](https://img.shields.io/github/stars/DachunKai/EvTexture?style=social&label=Star)
 
 
 [arxiv 2025.04]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
@@ -1279,6 +1288,8 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 [arxiv 2025.04] VideoScene: Distilling Video Diffusion Model to Generate 3D Scenes in One Step  [[PDF](https://arxiv.org/abs/2504.01956),[Page](https://hanyang-21.github.io/VideoScene)] ![Code](https://img.shields.io/github/stars/hanyang-21/VideoScene?style=social&label=Star)
 
 [arxiv 2025.04]  Scene Splatter: Momentum 3D Scene Generation from Single Image with Video Diffusion Model [[PDF](https://arxiv.org/abs/2504.02764),[Page](https://shengjun-zhang.github.io/SceneSplatter/)] 
+
+[arxiv 2025.04]  Aligning Anime Video Generation with Human Feedback [[PDF](https://arxiv.org/pdf/2504.10044)]
 
 
 [arxiv 2025.04]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
@@ -1643,6 +1654,8 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 [arxiv 2025.03]  MusicInfuser: Making Video Diffusion Listen and Dance [[PDF](https://arxiv.org/abs/2503.14505),[Page](https://susunghong.github.io/MusicInfuser/)] ![Code](https://img.shields.io/github/stars/SusungHong/MusicInfuser?style=social&label=Star)
 
 [arxiv 2025.03] Zero-Shot Audio-Visual Editing via Cross-Modal Delta Denoising  [[PDF](https://arxiv.org/abs/2503.20782),[Page](https://genjib.github.io/project_page/AVED/index.html)] 
+
+[arxiv 2025.04] KeyVID: Keyframe-Aware Video Diffusion for Audio-Synchronized Visual Animation  [[PDF](https://arxiv.org/pdf/2504.09656),[Page](https://github.com/XingruiWang/KeyVID)] ![Code](https://img.shields.io/github/stars/XingruiWang/KeyVID?style=social&label=Star)
 
 
 [arxiv 2025.04]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
