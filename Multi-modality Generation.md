@@ -204,6 +204,10 @@
 
 [arxiv 2025.04]  Kimi-VL Technical Report [[PDF](https://arxiv.org/abs/2504.07491),[Page](https://github.com/MoonshotAI/Kimi-VL)] ![Code](https://img.shields.io/github/stars//MoonshotAI/Kimi-VL?style=social&label=Star) 
 
+[arxiv 2025.04]  InternVL3: Exploring Advanced Training and Test-Time Recipes for Open-Source Multimodal Models [[PDF](https://arxiv.org/abs/2504.10479),[Page](https://github.com/OpenGVLab/InternVL)] ![Code](https://img.shields.io/github/stars/OpenGVLab/InternVL?style=social&label=Star) 
+
+[arxiv 2025.04]  VistaDPO: Video Hierarchical Spatial-Temporal Direct Preference Optimization for Large Video Models [[PDF](https://arxiv.org/abs/2504.13122),[Page](https://github.com/HaroldChen19/VistaDPO)] ![Code](https://img.shields.io/github/stars/HaroldChen19/VistaDPO?style=social&label=Star) 
+
 
 [arxiv 2025.04]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
 
