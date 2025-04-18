@@ -474,6 +474,8 @@
 
 [arxiv 2025.04] TurboFill: Adapting Few-step Text-to-image Model for Fast Image Inpainting  [[PDF](https://arxiv.org/abs/2504.00996),[Page](https://liangbinxie.github.io/projects/TurboFill/)]
 
+[arxiv 2025.04]  UNIEDIT-FLOW: Unleashing Inversion and Editing in the Era of Flow Models [[PDF](https://arxiv.org/pdf/2504.13109),[Page](https://uniedit-flow.github.io/)] 
+
 
 [arxiv 2025.04]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -989,13 +991,27 @@
 
 [arxiv 2025.03]  Improving Autoregressive Image Generation through Coarse-to-Fine Token Prediction [[PDF](https://arxiv.org/abs/2503.16194)]
 
-[arxiv 2025.04] Training-Free Text-Guided Image Editing with Visual Autoregressive Model  [[PDF](https://arxiv.org/abs/2503.23897),[Page](https://github.com/wyf0912/AREdit)] ![Code](https://img.shields.io/github/stars/wyf0912/AREdit?style=social&label=Star)
-
 [arxiv 2025.04]  FastVAR: Linear Visual Autoregressive Modeling via Cached Token Pruning [[PDF](https://arxiv.org/abs/2503.23367)]
 
 [arxiv 2025.04] Fine-Tuning Visual Autoregressive Models for Subject-Driven Generation  [[PDF](https://arxiv.org/abs/2504.02612)]
 
 [arxiv 2025.04]  SimpleAR: Pushing the Frontier of Autoregressive Visual Generation through Pretraining, SFT, and RL [[PDF](https://arxiv.org/abs/2504.11455),[Page](https://github.com/wdrink/SimpleAR)] ![Code](https://img.shields.io/github/stars/wdrink/SimpleAR?style=social&label=Star)
+
+[arxiv 2025.04] Head-Aware KV Cache Compression for Efficient Visual Autoregressive Modeling  [[PDF](https://arxiv.org/abs/2504.09261)]
+
+
+[arxiv 2025.04]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
+
+
+## autoregressive Editing 
+[arxiv 2025.04] Training-Free Text-Guided Image Editing with Visual Autoregressive Model  [[PDF](https://arxiv.org/abs/2503.23897),[Page](https://github.com/wyf0912/AREdit)] ![Code](https://img.shields.io/github/stars/wyf0912/AREdit?style=social&label=Star)
+
+[arxiv 2025.04] Anchor Token Matching: Implicit Structure Locking for Training-free AR Image Editing  [[PDF](https://arxiv.org/abs/2504.10434),[Page](https://github.com/hutaiHang/ATM)] ![Code](https://img.shields.io/github/stars/hutaiHang/ATM?style=social&label=Star)
+
+[arxiv 2025.04]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
+
+## autoregressive concept
+[arxiv 2025.04] Personalized Text-to-Image Generation with Auto-Regressive Models  [[PDF](https://arxiv.org/abs/2504.13162),[Page](https://github.com/KaiyueSun98/T2I-Personalization-with-AR)] ![Code](https://img.shields.io/github/stars/KaiyueSun98/T2I-Personalization-with-AR?style=social&label=Star)
 
 
 [arxiv 2025.04]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
@@ -1107,6 +1123,9 @@
 [arxiv 2025.03] Shining Yourself: High-Fidelity Ornaments Virtual Try-on with Diffusion Model  [[PDF](https://arxiv.org/pdf/2503.16065),[Page](https://shiningyourself.github.io/)] 
 
 [arxiv 2025.03] Multi-focal Conditioned Latent Diffusion for Person Image Synthesis  [[PDF](https://arxiv.org/pdf/2503.15686),[Page](https://github.com/jqliu09/mcld)] ![Code](https://img.shields.io/github/stars/jqliu09/mcld?style=social&label=Star)
+
+[arxiv 2025.04] TryOffDiff: Virtual-Try-Off via High-Fidelity Garment Reconstruction using Diffusion Models  [[PDF](https://arxiv.org/abs/2411.18350),[Page](https://rizavelioglu.github.io/tryoffdiff/)] ![Code](https://img.shields.io/github/stars/rizavelioglu/tryoffdiff/?style=social&label=Star)
+
 
 [arxiv 2025.04]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -1559,6 +1578,8 @@
 [arxiv 2025.04]  Enhancing Creative Generation on Stable Diffusion-based Models [[PDF](https://arxiv.org/abs/2503.23538)]
 
 [arxiv 2025.04] Concept Lancet: Image Editing with Compositional Representation Transplant  [[PDF](https://arxiv.org/abs/2504.02828),[Page](https://peterljq.github.io/project/colan)] ![Code](https://img.shields.io/github/stars/peterljq/Concept-Lancet?style=social&label=Star)
+
+[arxiv 2025.04] InstantCharacter: Personalize Any Characters with a Scalable Diffusion Transformer Framework  [[PDF](https://arxiv.org/abs/2504.12395),[Page](https://github.com/Tencent/InstantCharacter)] ![Code](https://img.shields.io/github/stars/Tencent/InstantCharacter?style=social&label=Star)
 
 
 [arxiv 2025.04]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
@@ -2316,6 +2337,8 @@ Creative Layout-to-Image Generation [[PDF](https://arxiv.org/pdf/2412.03859),[Pa
 
 [arxiv 2025.04]  Crafting Query-Aware Selective Attention for Single Image Super-Resolution [[PDF](https://arxiv.org/abs/2504.06634)]
 
+[arxiv 2025.04]  Enhanced Semantic Extraction and Guidance for UGC Image Super Resolution [[PDF](https://arxiv.org/abs/2504.09887),[Page](https://github.com/Moonsofang/NTIRE-2025-SRlab)] ![Code](https://img.shields.io/github/stars/Moonsofang/NTIRE-2025-SRlab?style=social&label=Star)
+
 
 [arxiv 2025.04]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -2895,6 +2918,7 @@ Creative Layout-to-Image Generation [[PDF](https://arxiv.org/pdf/2412.03859),[Pa
 
 [arxiv 2025.02]  ConceptAttention: Diffusion Transformers Learn Highly Interpretable Features [[PDF](https://arxiv.org/pdf/2502.04320)]
 
+[arxiv 2025.04] Analysis of Attention in Video Diffusion Transformers  [[PDF](https://arxiv.org/abs/2504.10317),[Page](https://seasoned-draw-b97.notion.site/Analysis-of-Attention-in-Video-Diffusion-Transformers-1aea04ac6ca780c2b6b2cf6ed87e311f)] 
 
 [arxiv 2025.04]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -2996,6 +3020,9 @@ Creative Layout-to-Image Generation [[PDF](https://arxiv.org/pdf/2412.03859),[Pa
 [arxiv 2025.02]  InterFeedback: Unveiling Interactive Intelligence of Large Multimodal Models via Human Feedback [[PDF](https://arxiv.org/abs/2502.15027)]
 
 [arxiv 2025.03]  Rewards Are Enough for Fast Photo-Realistic Text-to-image Generation [[PDF](https://arxiv.org/abs/2503.13070),[Page](https://github.com/Luo-Yihong/R0)] ![Code](https://img.shields.io/github/stars/Luo-Yihong/R0?style=social&label=Star)
+
+[arxiv 2025.04] InstructEngine: Instruction-driven Text-to-Image Alignment  [[PDF](https://arxiv.org/pdf/2504.10329)]
+
 
 [arxiv 2025.04]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
