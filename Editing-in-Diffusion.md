@@ -476,6 +476,9 @@
 
 [arxiv 2025.04]  UNIEDIT-FLOW: Unleashing Inversion and Editing in the Era of Flow Models [[PDF](https://arxiv.org/pdf/2504.13109),[Page](https://uniedit-flow.github.io/)] 
 
+[arxiv 2025.04]  SPICE: A Synergistic, Precise, Iterative, and Customizable Image Editing Workflow [[PDF](https://arxiv.org/abs/2504.09697),[Page](https://kenantang.github.io/spice/)] ![Code](https://img.shields.io/github/stars/kenantang/spice?style=social&label=Star)
+
+
 
 [arxiv 2025.04]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -882,6 +885,8 @@
 
 [arxiv 2025.03]  Investigating and Improving Counter-Stereotypical Action Relation in Text-to-Image Diffusion Models [[PDF](https://arxiv.org/pdf/2503.10037)]
 
+[arxiv 2025.04] ESPLoRA: Enhanced Spatial Precision with Low-Rank Adaption in Text-to-Image Diffusion Models for High-Definition Synthesis  [[PDF](https://arxiv.org/abs/2504.13745)]
+
 
 [arxiv 2025.04]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -1179,6 +1184,8 @@
 
 [arxiv 2025.03] Beyond Words: Advancing Long-Text Image Generation via Multimodal Autoregressive Models  [[PDF](https://arxiv.org/html/2503.20198v1),[Page](https://fingerrec.github.io/longtextar/)] 
 
+[arxiv 2025.04]  Point-Driven Interactive Text and Image Layer Editing Using Diffusion Models [[PDF](https://arxiv.org/abs/2504.14108)]
+
 
 [arxiv 2025.04]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -1198,6 +1205,8 @@
 [arxiv 2025.02]  LDGen: Enhancing Text-to-Image Synthesis via Large Language Model-Driven Language Representation [[PDF](https://arxiv.org/abs/2502.18302),[Page](https://zrealli.github.io/LDGen/)] ![Code](https://img.shields.io/github/stars/zrealli/LDGen?style=social&label=Star)
 
 [arxiv 2025.04] Generating Fine Details of Entity Interactions [[PDF](https://arxiv.org/abs/2504.08714),[Page](https://concepts-ai.com/p/detailscribe/)] ![Code](https://img.shields.io/github/stars/gxy000/DetailScribe?style=social&label=Star)
+
+[arxiv 2025.04] Describe Anything: Detailed Localized Image and Video Captioning  [[PDF](https://arxiv.org/abs/2504.16072),[Page](https://describe-anything.github.io/)] ![Code](https://img.shields.io/github/stars/NVlabs/describe-anything?style=social&label=Star)
 
 
 [arxiv 2025.04]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
@@ -1580,6 +1589,10 @@
 [arxiv 2025.04] Concept Lancet: Image Editing with Compositional Representation Transplant  [[PDF](https://arxiv.org/abs/2504.02828),[Page](https://peterljq.github.io/project/colan)] ![Code](https://img.shields.io/github/stars/peterljq/Concept-Lancet?style=social&label=Star)
 
 [arxiv 2025.04] InstantCharacter: Personalize Any Characters with a Scalable Diffusion Transformer Framework  [[PDF](https://arxiv.org/abs/2504.12395),[Page](https://github.com/Tencent/InstantCharacter)] ![Code](https://img.shields.io/github/stars/Tencent/InstantCharacter?style=social&label=Star)
+
+[arxiv 2025.04] FreeGraftor: Training-Free Cross-Image Feature Grafting for Subject-Driven Text-to-Image Generation  [[PDF](https://arxiv.org/abs/2504.15958),[Page](https://github.com/Nihukat/FreeGraftor)] ![Code](https://img.shields.io/github/stars/Nihukat/FreeGraftor?style=social&label=Star)
+
+[arxiv 2025.04]  Learning Joint ID-Textual Representation for ID-Preserving Image Synthesis [[PDF](https://arxiv.org/abs/2504.14202)]
 
 
 [arxiv 2025.04]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
@@ -2120,6 +2133,8 @@ Creative Layout-to-Image Generation [[PDF](https://arxiv.org/pdf/2412.03859),[Pa
 
 [arxiv 2025.04] DreamFuse: Adaptive Image Fusion with Diffusion Transformer  [[PDF](https://arxiv.org/abs/2504.08291),[Page](https://ll3rd.github.io/DreamFuse/)] 
 
+[arxiv 2025.04]  Insert Anything: Image Insertion via In-Context Editing in DiT [[PDF](https://arxiv.org/abs/2504.15009),[Page](https://song-wensong.github.io/insert-anything/)] ![Code](https://img.shields.io/github/stars/song-wensong/insert-anything?style=social&label=Star)
+
 
 [arxiv 2025.04]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -2341,6 +2356,12 @@ Creative Layout-to-Image Generation [[PDF](https://arxiv.org/pdf/2412.03859),[Pa
 [arxiv 2025.04]  Crafting Query-Aware Selective Attention for Single Image Super-Resolution [[PDF](https://arxiv.org/abs/2504.06634)]
 
 [arxiv 2025.04]  Enhanced Semantic Extraction and Guidance for UGC Image Super Resolution [[PDF](https://arxiv.org/abs/2504.09887),[Page](https://github.com/Moonsofang/NTIRE-2025-SRlab)] ![Code](https://img.shields.io/github/stars/Moonsofang/NTIRE-2025-SRlab?style=social&label=Star)
+
+[arxiv 2025.04]  InstaRevive: One-Step Image Enhancement via Dynamic Score Matching [[PDF](https://arxiv.org/abs/2504.15513),[Page](https://github.com/EternalEvan/InstaRevive)] ![Code](https://img.shields.io/github/stars/EternalEvan/InstaRevive?style=social&label=Star)
+
+[arxiv 2025.04] DSPO: Direct Semantic Preference Optimization for Real-World Image Super-Resolution  [[PDF](https://arxiv.org/abs/2504.15176)]
+
+[arxiv 2025.04] Acquire and then Adapt: Squeezing out Text-to-Image Model for Image Restoration  [[PDF](https://arxiv.org/abs/2504.15159)]
 
 
 [arxiv 2025.04]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
@@ -2571,6 +2592,8 @@ Creative Layout-to-Image Generation [[PDF](https://arxiv.org/pdf/2412.03859),[Pa
 
 [arxiv 2025.04] PosterMaker: Towards High-Quality Product Poster Generation with Accurate Text Rendering  [[PDF](https://arxiv.org/abs/2504.06632),[Page](https://poster-maker.github.io/)] ![Code](https://img.shields.io/github/stars/eafn/PosterMaker?style=social&label=Star)
 
+[arxiv 2025.04] MirrorVerse: Pushing Diffusion Models to Realistically Reflect the World  [[PDF](https://arxiv.org/abs/2504.15397),[Page](https://mirror-verse.github.io/)] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
+
 
 [arxiv 2025.04]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -2581,6 +2604,8 @@ Creative Layout-to-Image Generation [[PDF](https://arxiv.org/pdf/2412.03859),[Pa
 [arxiv 2025.01]  Can We Generate Images with CoT? Let's Verify and Reinforce Image Generation Step by Step [[PDF](https://arxiv.org/abs/2501.13926),[Page](https://github.com/ZiyuGuo99/Image-Generation-CoT)] ![Code](https://img.shields.io/github/stars/ZiyuGuo99/Image-Generation-CoT?style=social&label=Star)
 
 [arxiv 2025.03] Test-Time Visual In-Context Tuning  [[PDF](https://arxiv.org/html/2503.21777v1)]
+
+[arxiv 2025.04]  From Reflection to Perfection: Scaling Inference-Time Optimization for Text-to-Image Diffusion Models via Reflection Tuning [[PDF](https://arxiv.org/abs/2504.16080),[Page](https://diffusion-cot.github.io/reflection2perfection/)] ![Code](https://img.shields.io/github/stars/Diffusion-CoT/ReflectionFlow?style=social&label=Star)
 
 
 [arxiv 2025.04]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
@@ -3025,6 +3050,10 @@ Creative Layout-to-Image Generation [[PDF](https://arxiv.org/pdf/2412.03859),[Pa
 [arxiv 2025.03]  Rewards Are Enough for Fast Photo-Realistic Text-to-image Generation [[PDF](https://arxiv.org/abs/2503.13070),[Page](https://github.com/Luo-Yihong/R0)] ![Code](https://img.shields.io/github/stars/Luo-Yihong/R0?style=social&label=Star)
 
 [arxiv 2025.04] InstructEngine: Instruction-driven Text-to-Image Alignment  [[PDF](https://arxiv.org/pdf/2504.10329)]
+
+[arxiv 2025.04]  Reasoning Physical Video Generation with Diffusion Timestep Tokens via Reinforcement Learning [[PDF](https://arxiv.org/pdf/2504.15932)]
+
+[arxiv 2025.04] SUDO: Enhancing Text-to-Image Diffusion Models with Self-Supervised Direct Preference Optimization  [[PDF](https://arxiv.org/abs/2504.14534),[Page](https://github.com/SPengLiang/SUDO)] ![Code](https://img.shields.io/github/stars/SPengLiang/SUDO?style=social&label=Star)
 
 
 [arxiv 2025.04]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
