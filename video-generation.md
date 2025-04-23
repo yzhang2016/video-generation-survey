@@ -444,6 +444,7 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2025.04]  Seaweed-7B: Cost-Effective Training of Video Generation Foundation Model [[PDF](https://arxiv.org/abs/2504.08685),[Page](https://seaweed.video/)] 
 
+[arxiv 2025.04] Turbo2K: Towards Ultra-Efficient and High-Quality 2K Video Synthesis  [[PDF](https://arxiv.org/abs/2504.14470),[Page](https://jingjingrenabc.github.io/turbo2k/)] 
 
 
 [arxiv 2025.04]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
@@ -579,7 +580,7 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2025.04]  VIP: Video Inpainting Pipeline for Real World Human Removal [[PDF](https://arxiv.org/abs/2504.03041)]
 
-[arxiv 2025.04]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
+[arxiv 2025.04] DyST-XL: Dynamic Layout Planning and Content Control for Compositional Text-to-Video Generation  [[PDF](https://arxiv.org/abs/2504.15032)]
 
 
 [arxiv 2025.04]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
@@ -979,6 +980,10 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2025.04] Taming Consistency Distillation for Accelerated Human Image Animation  [[PDF](https://arxiv.org/pdf/2504.11143)]
 
+[arxiv 2025.04]  RealisDance-DiT: Simple yet Strong Baseline towards Controllable Character Animation in the Wild [[PDF](https://arxiv.org/abs/2504.14977),[Page](https://thefoxofsky.github.io/project_pages/RealisDance-DiT/index)] ![Code](https://img.shields.io/github/stars/damo-cv/RealisDance?style=social&label=Star)
+
+[arxiv 2025.04]  Unifying Precisely 3D-Enhanced Camera and Human Motion Controls for Video Generation [[PDF](https://arxiv.org/abs/2504.14899),[Page](https://ewrfcas.github.io/Uni3C/)] ![Code](https://img.shields.io/github/stars/ewrfcas/Uni3C?style=social&label=Star)
+
 
 [arxiv 2025.04]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -1103,6 +1108,11 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2025.04]  CamMimic: Zero-Shot Image to Camera Motion Personalized Video Generation using Diffusion Models [[PDF](https://arxiv.org/abs/2504.09472),[Page](https://cammimic.github.io/)]
 
+[arxiv 2025.04] CameraBench: Towards Understanding Camera Motions in Any Video  [[PDF](https://arxiv.org/abs/2504.15376),[Page](https://linzhiqiu.github.io/papers/camerabench/)] 
+
+[arxiv 2025.04]  Unifying Precisely 3D-Enhanced Camera and Human Motion Controls for Video Generation [[PDF](https://arxiv.org/abs/2504.14899),[Page](https://ewrfcas.github.io/Uni3C/)] ![Code](https://img.shields.io/github/stars/ewrfcas/Uni3C?style=social&label=Star)
+
+
 [arxiv 2025.04]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 
@@ -1192,6 +1202,8 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 [arxiv 2025.03]  Temporal-Consistent Video Restoration with Pre-trained Diffusion Models [[PDF](https://arxiv.org/pdf/2503.14863)]
 
 [arxiv 2025.04]  EvTexture: Event-driven Texture Enhancement for Video Super-Resolution [[PDF](https://arxiv.org/abs/2406.13457),[Page](https://dachunkai.github.io/evtexture.github.io/)] ![Code](https://img.shields.io/github/stars/DachunKai/EvTexture?style=social&label=Star)
+
+[arxiv 2025.04]  RepNet-VSR: Reparameterizable Architecture for High-Fidelity Video Super-Resolution [[PDF](https://arxiv.org/abs/2504.15649)]
 
 
 [arxiv 2025.04]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
@@ -1766,8 +1778,7 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2025.04] Understanding Attention Mechanism in Video Diffusion Models  [[PDF](https://arxiv.org/pdf/2504.12027)]
 
-
-[arxiv 2025.04]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
+[arxiv 2025.04] Visual Prompting for One-shot Controllable Video Editing without Inversion  [[PDF](https://arxiv.org/abs/2504.14335),[Page](https://vp4video-editing.github.io/)] 
 
 
 [arxiv 2025.04]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
@@ -2086,7 +2097,7 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [ResearchGate 2024.07]Conditional Video Generation Guided by Multimodal Inputs: A Comprehensive Survey [[PDF](https://www.researchgate.net/publication/382443305_Conditional_Video_Generation_Guided_by_Multimodal_Inputs_A_Comprehensive_Survey)]
 
-
+[arxiv 2025.04]  Survey of Video Diffusion Models: Foundations, Implementations, and Applications [[PDF](https://arxiv.org/abs/2504.16081)]
 
 
 
