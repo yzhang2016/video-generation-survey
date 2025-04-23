@@ -208,6 +208,9 @@
 
 [arxiv 2025.04]  VistaDPO: Video Hierarchical Spatial-Temporal Direct Preference Optimization for Large Video Models [[PDF](https://arxiv.org/abs/2504.13122),[Page](https://github.com/HaroldChen19/VistaDPO)] ![Code](https://img.shields.io/github/stars/HaroldChen19/VistaDPO?style=social&label=Star) 
 
+[arxiv 2025.04]  Eagle 2.5: Boosting Long-Context Post-Training for Frontier Vision-Language Models [[PDF](https://arxiv.org/pdf/2504.15271),[Page](https://nvlabs.github.io/EAGLE/)] ![Code](https://img.shields.io/github/stars/NVlabs/EAGLE?style=social&label=Star) 
+
+
 
 [arxiv 2025.04]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
 
@@ -226,7 +229,7 @@
 
 [arxiv 2025.04] VideoAgent2: Enhancing the LLM-Based Agent System for Long-Form Video Understanding by Uncertainty-Aware CoT  [[PDF](https://arxiv.org/abs/2504.04471)]
 
-
+[arxiv 2025.04] Vidi: Large Multimodal Models for Video Understanding and Editing  [[PDF](https://arxiv.org/pdf/2504.15681),[Page](https://bytedance.github.io/vidi-website/)] ![Code](https://img.shields.io/github/stars/bytedance/vidi?style=social&label=Star) 
 
 [arxiv 2025.04]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
 
@@ -250,6 +253,8 @@
 [arxiv 2025.04]  Transfer between Modalities with MetaQueries [[PDF](https://arxiv.org/abs/2504.06256),[Page](https://xichenpan.com/metaquery/)] 
 
 
+
+
 [arxiv 2025.04]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
 
 
@@ -266,6 +271,8 @@
 [arxiv 2025.04]  VLM-R1: A Stable and Generalizable R1-style Large Vision-Language Model [[PDF](https://arxiv.org/abs/2504.07615),[Page](https://github.com/om-ai-lab/VLM-R1)] ![Code](https://img.shields.io/github/stars/om-ai-lab/VLM-R1?style=social&label=Star) 
 
 [arxiv 2025.04] VideoChat-R1: Enhancing Spatio-Temporal Perception via Reinforcement Fine-Tuning  [[PDF](https://arxiv.org/abs/2504.06958),[Page](https://github.com/OpenGVLab/VideoChat-R1)] ![Code](https://img.shields.io/github/stars/OpenGVLab/VideoChat-R1?style=social&label=Star) 
+
+[arxiv 2025.04] Relation-R1: Cognitive Chain-of-Thought Guided Reinforcement Learning for Unified Relational Comprehension  [[PDF](https://arxiv.org/pdf/2504.14642),[Page](https://github.com/HKUST-LongGroup/Relation-R1)] ![Code](https://img.shields.io/github/stars/HKUST-LongGroup/Relation-R1?style=social&label=Star) 
 
 
 [arxiv 2025.04]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
@@ -323,6 +330,8 @@
 [arxiv 2025.03]  Mobile-VideoGPT Fast and Accurate Video Understanding Language Model [[PDF](https://arxiv.org/pdf/2503.21782),[Page](https://amshaker.github.io/Mobile-VideoGPT/)] ![Code](https://img.shields.io/github/stars/Amshaker/Mobile-VideoGPT?style=social&label=Star) 
 
 [arxiv 2025.03]  InternVL-X: Advancing and Accelerating InternVL Series with Efficient Visual Token Compression [[PDF](https://arxiv.org/abs/2503.21307),[Page](https://github.com/ludc506/InternVL-X)] ![Code](https://img.shields.io/github/stars/ludc506/InternVL-X?style=social&label=Star) 
+
+[arxiv 2025.04]  Memory-efficient Streaming VideoLLMs for Real-time Procedural Video Understanding [[PDF](https://arxiv.org/abs/2504.13915),[Page](https://dibschat.github.io/ProVideLLM/)] 
 
 
 [arxiv 2025.04]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
