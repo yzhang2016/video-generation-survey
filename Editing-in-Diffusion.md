@@ -1604,6 +1604,9 @@
 
 [arxiv 2025.04] Consistent Subject Generation via Contrastive Instantiated Concepts  [[PDF](https://arxiv.org/abs/2503.24387)]
 
+[arxiv 2025.04] Less-to-More Generalization: Unlocking More Controllability by In-Context Generation  [[PDF](https://arxiv.org/abs/2504.02160),[Page](https://bytedance.github.io/UNO)] ![Code](https://img.shields.io/github/stars/bytedance/UNO?style=social&label=Star)
+
+
 [arxiv 2025.04] FlexIP: Dynamic Control of Preservation and Personality for Customized Image Generation  [[PDF](https://arxiv.org/abs/2504.07405),[Page](https://flexip-tech.github.io/flexip/#/)]
 
 [arxiv 2025.04]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
