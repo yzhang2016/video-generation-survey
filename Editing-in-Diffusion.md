@@ -1595,6 +1595,9 @@
 [arxiv 2025.04]  Learning Joint ID-Textual Representation for ID-Preserving Image Synthesis [[PDF](https://arxiv.org/abs/2504.14202)]
 
 
+[arxiv 2025.04] DreamO: A Unified Framework for Image Customization  [[PDF](https://arxiv.org/abs/2504.16915),[Page](https://mc-e.github.io/project/DreamO/)] ![Code](https://img.shields.io/github/stars/bytedance/DreamO?style=social&label=Star)
+
+
 [arxiv 2025.04]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 
