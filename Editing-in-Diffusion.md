@@ -531,6 +531,8 @@
 
 [arxiv 2025.04] VisualCloze : A Universal Image Generation Framework via Visual In-Context Learning  [[PDF](https://arxiv.org/abs/2504.07960),[Page](https://visualcloze.github.io/)] ![Code](https://img.shields.io/github/stars/lzyhha/VisualCloze?style=social&label=Star)
 
+[arxiv 2025.04]  Step1X-Edit: A Practical Framework for General Image Editing [[PDF](https://arxiv.org/abs/2504.17761),[Page](https://github.com/stepfun-ai/Step1X-Edit)] ![Code](https://img.shields.io/github/stars/stepfun-ai/Step1X-Edit?style=social&label=Star)
+
 
 [arxiv 2025.04]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -1004,6 +1006,8 @@
 
 [arxiv 2025.04] Head-Aware KV Cache Compression for Efficient Visual Autoregressive Modeling  [[PDF](https://arxiv.org/abs/2504.09261)]
 
+[arxiv 2025.04] Token-Shuffle: Towards High-Resolution Image Generation with Autoregressive Models  [[PDF](https://arxiv.org/abs/2504.17789)]
+
 
 [arxiv 2025.04]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -1130,6 +1134,8 @@
 [arxiv 2025.03] Multi-focal Conditioned Latent Diffusion for Person Image Synthesis  [[PDF](https://arxiv.org/pdf/2503.15686),[Page](https://github.com/jqliu09/mcld)] ![Code](https://img.shields.io/github/stars/jqliu09/mcld?style=social&label=Star)
 
 [arxiv 2025.04] TryOffDiff: Virtual-Try-Off via High-Fidelity Garment Reconstruction using Diffusion Models  [[PDF](https://arxiv.org/abs/2411.18350),[Page](https://rizavelioglu.github.io/tryoffdiff/)] ![Code](https://img.shields.io/github/stars/rizavelioglu/tryoffdiff/?style=social&label=Star)
+
+[arxiv 2025.04] 3DV-TON: Textured 3D-Guided Consistent Video Try-on via Diffusion Models  [[PDF](https://arxiv.org/abs/2504.17414),[Page](https://2y7c3.github.io/3DV-TON/)]
 
 
 [arxiv 2025.04]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
@@ -3002,6 +3008,8 @@ Creative Layout-to-Image Generation [[PDF](https://arxiv.org/pdf/2412.03859),[Pa
 [arxiv 2025.04] HumanAesExpert: Advancing a Multi-Modality Foundation Model for Human Image Aesthetic Assessment  [[PDF](https://arxiv.org/abs/2503.23907),[Page](https://humanaesexpert.github.io/HumanAesExpert/)] ![Code](https://img.shields.io/github/stars/HumanAesExpert/HumanAesExpert?style=social&label=Star)
 
 [arxiv 2025.04] GPT-ImgEval: A Comprehensive Benchmark for Diagnosing GPT4o in Image Generation  [[PDF](https://arxiv.org/abs/2504.02782),[Page](https://github.com/PicoTrex/GPT-ImgEval)] ![Code](https://img.shields.io/github/stars/PicoTrex/GPT-ImgEval?style=social&label=Star)
+
+[arxiv 2025.04] RefVNLI: Towards Scalable Evaluation of Subject-driven Text-to-image Generation  [[PDF](https://arxiv.org/abs/2504.17502)]
 
 
 [arxiv 2025.04]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
