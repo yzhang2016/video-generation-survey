@@ -171,7 +171,7 @@ A reading list of video generation
 * **VideoUFO**
   [arxiv 2025.03]  VideoUFO: A Million-Scale User-Focused Dataset for Text-to-Video Generation [[PDF](https://arxiv.org/pdf/2503.01739),[Page](https://huggingface.co/datasets/WenhaoWang/VideoUFO)] 
 
-* **VideoUFO**
+* **HOIGen-1M**
   [arxiv 2025.04]  HOIGen-1M: A Large-scale Dataset for Human-Object Interaction Video Generation [[PDF](https://arxiv.org/abs/2503.23715),[Page](https://liuqi-creat.github.io/HOIGen.github.io/)] 
 
 
@@ -1112,6 +1112,8 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2025.04]  Unifying Precisely 3D-Enhanced Camera and Human Motion Controls for Video Generation [[PDF](https://arxiv.org/abs/2504.14899),[Page](https://ewrfcas.github.io/Uni3C/)] ![Code](https://img.shields.io/github/stars/ewrfcas/Uni3C?style=social&label=Star)
 
+[arxiv 2025.04] Dynamic Camera Poses and Where to Find Them  [[PDF](https://arxiv.org/abs/2504.17788),[Page](https://research.nvidia.com/labs/dir/dynpose-100k/)] 
+
 
 [arxiv 2025.04]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -1779,6 +1781,8 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 [arxiv 2025.04] Understanding Attention Mechanism in Video Diffusion Models  [[PDF](https://arxiv.org/pdf/2504.12027)]
 
 [arxiv 2025.04] Visual Prompting for One-shot Controllable Video Editing without Inversion  [[PDF](https://arxiv.org/abs/2504.14335),[Page](https://vp4video-editing.github.io/)] 
+
+[arxiv 2025.04]  Towards Generalized and Training-Free Text-Guided Semantic Manipulation [[PDF](https://arxiv.org/abs/2504.17269)]
 
 
 [arxiv 2025.04]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
