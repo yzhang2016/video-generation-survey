@@ -1027,6 +1027,13 @@
 
 
 
+## autoregressive speed
+[arxiv 2025.04]  Fast Autoregressive Models for Continuous Latent Generation [[PDF](https://arxiv.org/pdf/2504.18391)]
+
+[arxiv 2025.04]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
+
+
+
 ## Distill Diffusion Model 
 [arxiv 2024.05]Distilling Diffusion Models into Conditional GANs [[PDF](https://arxiv.org/abs/2405.05967),[Page](https://mingukkang.github.io/Diffusion2GAN/)]
 
@@ -2371,6 +2378,8 @@ Creative Layout-to-Image Generation [[PDF](https://arxiv.org/pdf/2412.03859),[Pa
 [arxiv 2025.04] DSPO: Direct Semantic Preference Optimization for Real-World Image Super-Resolution  [[PDF](https://arxiv.org/abs/2504.15176)]
 
 [arxiv 2025.04] Acquire and then Adapt: Squeezing out Text-to-Image Model for Image Restoration  [[PDF](https://arxiv.org/abs/2504.15159)]
+
+[arxiv 2025.04]  Dual Prompting Image Restoration with Diffusion Transformers [[PDF](https://arxiv.org/pdf/2504.17825)]
 
 
 [arxiv 2025.04]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
