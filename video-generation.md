@@ -1379,6 +1379,7 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2025.04] SkyReels-A2: Compose Anything in Video Diffusion Transformers  [[PDF](https://arxiv.org/abs/2504.02436),[Page](https://github.com/SkyworkAI/SkyReels-A2)] ![Code](https://img.shields.io/github/stars/SkyworkAI/SkyReels-A2?style=social&label=Star)
 
+[arxiv 2025.04] Subject-driven Video Generation via Disentangled Identity and Motion  [[PDF](https://arxiv.org/abs/2504.17816),[Page](https://carpedkm.github.io/projects/disentangled_sub/index.html)] ![Code](https://img.shields.io/github/stars/carpedkm/disentangled-subject-to-vid?style=social&label=Star)
 
 
 [arxiv 2025.04]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
@@ -2086,6 +2087,8 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 [arxiv 2025.04] Video-Bench: Human-Aligned Video Generation Benchmark  [[PDF](https://arxiv.org/abs/2504.04907),[Page](https://github.com/Video-Bench/Video-Bench)] ![Code](https://img.shields.io/github/stars/Video-Bench/Video-Bench?style=social&label=Star)
 
 [arxiv 2025.04] Can You Count to Nine? A Human Evaluation Benchmark for Counting Limits in Modern Text-to-Video Models  [[PDF](https://arxiv.org/abs/2504.04051)]
+
+[arxiv 2025.04] VEU-Bench: Towards Comprehensive Understanding of Video Editing [[PDF](https://arxiv.org/abs/your-paper-id),[Page](https://labazh.github.io/VEU-Bench.github.io/)] 
 
 
 [arxiv 2025.04]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
