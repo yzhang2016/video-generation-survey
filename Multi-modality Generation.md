@@ -274,6 +274,8 @@
 
 [arxiv 2025.04] Relation-R1: Cognitive Chain-of-Thought Guided Reinforcement Learning for Unified Relational Comprehension  [[PDF](https://arxiv.org/pdf/2504.14642),[Page](https://github.com/HKUST-LongGroup/Relation-R1)] ![Code](https://img.shields.io/github/stars/HKUST-LongGroup/Relation-R1?style=social&label=Star) 
 
+[arxiv 2025.04]  Unsupervised Visual Chain-of-Thought Reasoning via Preference Optimization [[PDF](https://arxiv.org/pdf/2504.18397),[Page](https://kesenzhao.github.io/my_project/projects/UV-CoT.html)] ![Code](https://img.shields.io/github/stars/kesenzhao/UV-CoT?style=social&label=Star) 
+
 
 [arxiv 2025.04]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
 
