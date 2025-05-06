@@ -596,7 +596,11 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2024.12] InstanceCap: Improving Text-to-Video Generation via Instance-aware Structured Caption [[PDF](https://arxiv.org/abs/2412.09283),[Page](https://github.com/NJU-PCALab/InstanceCap)] ![Code](https://img.shields.io/github/stars/NJU-PCALab/InstanceCap?style=social&label=Star)
 
+[arxiv 2025.03] Cockatiel: Ensembling Synthetic and Human Preferenced Training for Detailed Video Caption  [[PDF](https://sais-fuxi.github.io/projects/cockatiel),[Page](https://sais-fuxi.github.io/projects/cockatiel/)] ![Code](https://img.shields.io/github/stars/Fr0zenCrane/Cockatiel?style=social&label=Star)
+
 [arxiv 2025.04]  Any2Caption:Interpreting Any Condition to Caption for Controllable Video Generation [[PDF](https://arxiv.org/abs/2503.24379),[Page](https://sqwu.top/Any2Cap/)] ![Code](https://img.shields.io/github/stars/ChocoWu/Any2Caption?style=social&label=Star)
+
+
 
 
 [arxiv 2025.05]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
