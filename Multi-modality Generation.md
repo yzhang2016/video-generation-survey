@@ -258,6 +258,9 @@
 
 [arxiv 2025.05] X-Fusion: Introducing New Modality to Frozen Large Language Models  [[PDF](https://arxiv.org/abs/2504.20996),[Page](https://sichengmo.github.io/XFusion/)] 
 
+[arxiv 2025.05] Unified Multimodal Understanding and Generation Models: Advances, Challenges, and Opportunities  [[PDF](https://arxiv.org/pdf/2505.02567)]
+
+
 
 [arxiv 2025.05]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
 
