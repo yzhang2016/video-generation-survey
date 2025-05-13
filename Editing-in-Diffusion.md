@@ -486,9 +486,13 @@
 
 [arxiv 2025.05]  CompleteMe: Reference-based Human Image Completion [[PDF](https://arxiv.org/pdf/2504.20042)]
 
+[arxiv 2025.05] SuperEdit: Rectifying and Facilitating Supervision for Instruction-Based Image Editing  [[PDF](https://arxiv.org/abs/2505.02370),[Page](https://liming-ai.github.io/SuperEdit)] ![Code](https://img.shields.io/github/stars/bytedance/SuperEdit?style=social&label=Star)
+
+[arxiv 2025.05] Multi-turn Consistent Image Editing  [[PDF](https://arxiv.org/pdf/2505.04320)]
+
+[arxiv 2025.05] MDE-Edit: Masked Dual-Editing for Multi-Object Image Editing via Diffusion Models  [[PDF](https://arxiv.org/pdf/2505.05101)]
 
 [arxiv 2025.05]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
-
 
 
 
@@ -1043,6 +1047,12 @@
 
 [arxiv 2025.05]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
+## autoregressive continuous
+[arxiv 2025.05]  Continuous Visual Autoregressive Generation via Score Maximization [[PDF](https://arxiv.org/pdf/2505.07812),[Page](https://github.com/shaochenze/EAR)] ![Code](https://img.shields.io/github/stars/shaochenze/EAR?style=social&label=Star)
+
+
+[arxiv 2025.05]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
+
 
 
 ## Distill Diffusion Model 
@@ -1209,6 +1219,8 @@
 [arxiv 2025.03] Beyond Words: Advancing Long-Text Image Generation via Multimodal Autoregressive Models  [[PDF](https://arxiv.org/html/2503.20198v1),[Page](https://fingerrec.github.io/longtextar/)] 
 
 [arxiv 2025.04]  Point-Driven Interactive Text and Image Layer Editing Using Diffusion Models [[PDF](https://arxiv.org/abs/2504.14108)]
+
+[arxiv 2025.05]  FLUX-Text: A Simple and Advanced Diffusion Transformer Baseline for Scene Text Editing [[PDF](https://arxiv.org/abs/2505.03329)]
 
 
 [arxiv 2025.05]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
@@ -1621,6 +1633,10 @@
 
 [arxiv 2025.04] DreamO: A Unified Framework for Image Customization  [[PDF](https://arxiv.org/abs/2504.16915),[Page](https://mc-e.github.io/project/DreamO/)] ![Code](https://img.shields.io/github/stars/bytedance/DreamO?style=social&label=Star)
 
+[arxiv 2025.05] Multi-party Collaborative Attention Control for Image Customization  [[PDF](https://arxiv.org/pdf/2505.01428)]
+
+[arxiv 2025.05] PIDiff: Image Customization for Personalized Identities with Diffusion Models  [[PDF](https://arxiv.org/pdf/2505.05081)]
+
 
 [arxiv 2025.05]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -1802,6 +1818,7 @@ Cross-Attention Control [[PDF](https://arxiv.org/abs/2402.13404)]
 
 [arxiv 2025.04] LayoutCoT: Unleashing the Deep Reasoning Potential of Large Language Models for Layout Generation  [[PDF](https://arxiv.org/pdf/2504.10829)]
 
+[arxiv 2025.05] Lay-Your-Scene: Natural Scene Layout Generation with Diffusion Transformers  [[PDF](https://arxiv.org/pdf/2505.04718)]
 
 [arxiv 2025.05]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
 
@@ -2162,6 +2179,8 @@ Creative Layout-to-Image Generation [[PDF](https://arxiv.org/pdf/2412.03859),[Pa
 
 [arxiv 2025.04]  Insert Anything: Image Insertion via In-Context Editing in DiT [[PDF](https://arxiv.org/abs/2504.15009),[Page](https://song-wensong.github.io/insert-anything/)] ![Code](https://img.shields.io/github/stars/song-wensong/insert-anything?style=social&label=Star)
 
+[arxiv 2025.05] InstanceGen: Image Generation with Instance-level Instructions  [[PDF](https://arxiv.org/abs/2505.05678),[Page](https://tau-vailab.github.io/InstanceGen/)] 
+
 
 [arxiv 2025.05]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -2393,6 +2412,8 @@ Creative Layout-to-Image Generation [[PDF](https://arxiv.org/pdf/2412.03859),[Pa
 [arxiv 2025.04]  Dual Prompting Image Restoration with Diffusion Transformers [[PDF](https://arxiv.org/pdf/2504.17825)]
 
 [arxiv 2025.05] GuideSR: Rethinking Guidance for One-Step High-Fidelity Diffusion-Based Super-Resolution  [[PDF](https://arxiv.org/abs/2505.00687)]
+
+[arxiv 2025.05]  EAM: Enhancing Anything with Diffusion Transformers for Blind Super-Resolution [[PDF](https://arxiv.org/pdf/2505.05209)]
 
 
 [arxiv 2025.05]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
@@ -2901,6 +2922,8 @@ Creative Layout-to-Image Generation [[PDF](https://arxiv.org/pdf/2412.03859),[Pa
 
 [arxiv 2025.04]  DyDiT++: Dynamic Diffusion Transformers for Efficient Visual Generation [[PDF](https://arxiv.org/abs/2504.06803),[Page](https://github.com/alibaba-damo-academy/DyDiT)] ![Code](https://img.shields.io/github/stars/alibaba-damo-academy/DyDiT?style=social&label=Star)
 
+[arxiv 2025.05]  Quantization of Diffusion Models [[PDF](https://arxiv.org/abs/2505.05215),[Page](https://github.com/TaylorJocelyn/Diffusion-Model-Quantization)] ![Code](https://img.shields.io/github/stars/TaylorJocelyn/Diffusion-Model-Quantization?style=social&label=Star)
+
 
 [arxiv 2025.05]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -3036,6 +3059,7 @@ Creative Layout-to-Image Generation [[PDF](https://arxiv.org/pdf/2412.03859),[Pa
 
 [arxiv 2025.04] RefVNLI: Towards Scalable Evaluation of Subject-driven Text-to-image Generation  [[PDF](https://arxiv.org/abs/2504.17502)]
 
+[arxiv 2025.05] WorldGenBench: A World-Knowledge-Integrated Benchmark for Reasoning-Driven Text-to-Image Generation  [[PDF](https://arxiv.org/abs/2505.01490),[Page](https://dwanzhang-ai.github.io/WorldGenBench/)] 
 
 [arxiv 2025.05]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -3091,9 +3115,20 @@ Creative Layout-to-Image Generation [[PDF](https://arxiv.org/pdf/2412.03859),[Pa
 
 [arxiv 2025.04] SUDO: Enhancing Text-to-Image Diffusion Models with Self-Supervised Direct Preference Optimization  [[PDF](https://arxiv.org/abs/2504.14534),[Page](https://github.com/SPengLiang/SUDO)] ![Code](https://img.shields.io/github/stars/SPengLiang/SUDO?style=social&label=Star)
 
+[arxiv 2025.05]  Flow-GRPO: Training Flow Matching Models via Online RL [[PDF](https://arxiv.org/abs/2505.05470),[Page](https://github.com/yifan123/flow_grpo)] ![Code](https://img.shields.io/github/stars/yifan123/flow_grpo?style=social&label=Star)
+
+
 
 [arxiv 2025.05]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
+
+
+## GPT4o evaluation 
+[arxiv 2025.05] Preliminary Explorations with GPT-4o(mni) Native Image Generation  [[PDF](https://arxiv.org/pdf/2505.05501)]
+
+[arxiv 2025.05] A Preliminary Study for GPT-4o on Image Restoration  [[PDF](https://arxiv.org/abs/2505.05621)]
+
+[arxiv 2025.05]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 
 ##  Finetuning 
