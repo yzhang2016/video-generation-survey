@@ -757,6 +757,10 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2025.04]  VC-LLM: Automated Advertisement Video Creation from Raw Footage using Multi-modal LLMs [[PDF](https://arxiv.org/abs/2504.05673)]
 
+[arxiv 2025.05]  ShotAdapter: Text-to-Multi-Shot Video Generation with Diffusion Models [[PDF](https://arxiv.org/abs/2505.07652),[Page](https://shotadapter.github.io/)] 
+
+
+
 [arxiv 2025.05]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 
@@ -1390,6 +1394,8 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2025.04] Subject-driven Video Generation via Disentangled Identity and Motion  [[PDF](https://arxiv.org/abs/2504.17816),[Page](https://carpedkm.github.io/projects/disentangled_sub/index.html)] ![Code](https://img.shields.io/github/stars/carpedkm/disentangled-subject-to-vid?style=social&label=Star)
 
+[arxiv 2025.05]  HunyuanCustom: A Multimodal-Driven Architecture for Customized Video Generation [[PDF](https://arxiv.org/pdf/2505.04512),[Page](https://hunyuancustom.github.io/)] ![Code](https://img.shields.io/github/stars/Tencent/HunyuanCustom?style=social&label=Star)
+
 
 [arxiv 2025.05]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -1526,6 +1532,7 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2025.04]  DiTaiListener: Controllable High Fidelity Listener Video Generation with Diffusion [[PDF](https://arxiv.org/abs/2504.04010),[Page](https://havent-invented.github.io/DiTaiListener)] 
 
+[arxiv 2025.05]  HunyuanCustom: A Multimodal-Driven Architecture for Customized Video Generation [[PDF](https://arxiv.org/pdf/2505.04512),[Page](https://hunyuancustom.github.io/)] ![Code](https://img.shields.io/github/stars/Tencent/HunyuanCustom?style=social&label=Star)
 
 [arxiv 2025.05]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -1810,6 +1817,8 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2025.04]  Towards Generalized and Training-Free Text-Guided Semantic Manipulation [[PDF](https://arxiv.org/abs/2504.17269)]
 
+[arxiv 2025.05]  DAPE: Dual-Stage Parameter-Efficient Fine-Tuning for Consistent Video Editing with Diffusion Models [[PDF](https://arxiv.org/abs/2505.07057),[Page](https://junhaoooxia.github.io/DAPE.github.io/)] ![Code](https://img.shields.io/github/stars/junhaoooxia/DAPE.github.io?style=social&label=Star)
+
 
 [arxiv 2025.05]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -2007,6 +2016,8 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 
 [arxiv 2025.04]  Time-adaptive Video Frame Interpolation based on Residual Diffusion [[PDF](https://arxiv.org/abs/2504.05402)]
+
+[arxiv 2025.05] TimeTracker: Event-based Continuous Point Tracking for Video Frame Interpolation with Non-linear Motion  [[PDF](https://arxiv.org/abs/2505.03116)】
 
 
 [arxiv 2025.05]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
@@ -2343,7 +2354,7 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2025.02] CHATS: Combining Human-Aligned Optimization and Test-Time Sampling for Text-to-Image Generation  [[PDF](https://arxiv.org/pdf/2502.12579)]
 
-[arxiv 2025.05]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
+[arxiv 2025.05] DanceGRPO: Unleashing GRPO on Visual Generation  [[PDF](https://arxiv.org/abs/2505.07818),[Page](https://dancegrpo.github.io/)] ![Code](https://img.shields.io/github/stars/XueZeyue/DanceGRPO?style=social&label=Star)
 
 
 [arxiv 2025.05]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
