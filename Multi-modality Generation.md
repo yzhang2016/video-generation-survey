@@ -106,6 +106,8 @@
 
 [arxiv 2025.03] Aligning Multimodal LLM with Human Preference: A Survey [[PDF](https://arxiv.org/abs/2503.14504),[Page](https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models/tree/Alignment)] ![Code](https://img.shields.io/github/stars/BradyFU/Awesome-Multimodal-Large-Language-Models/tree/Alignment?style=social&label=Star) 
 
+[arxiv 2025.05] Unified Multimodal Chain-of-Thought Reward Model through Reinforcement Fine-Tuning  [[PDF](https://arxiv.org/abs/2505.03318),[Page](https://codegoat24.github.io/UnifiedReward/think)] ![Code](https://img.shields.io/github/stars/CodeGoat24/UnifiedReward?style=social&label=Star) 
+
 
 [arxiv 2025.05]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
 
@@ -282,6 +284,9 @@
 [arxiv 2025.04] Relation-R1: Cognitive Chain-of-Thought Guided Reinforcement Learning for Unified Relational Comprehension  [[PDF](https://arxiv.org/pdf/2504.14642),[Page](https://github.com/HKUST-LongGroup/Relation-R1)] ![Code](https://img.shields.io/github/stars/HKUST-LongGroup/Relation-R1?style=social&label=Star) 
 
 [arxiv 2025.04]  Unsupervised Visual Chain-of-Thought Reasoning via Preference Optimization [[PDF](https://arxiv.org/pdf/2504.18397),[Page](https://kesenzhao.github.io/my_project/projects/UV-CoT.html)] ![Code](https://img.shields.io/github/stars/kesenzhao/UV-CoT?style=social&label=Star) 
+
+[arxiv 2025.05]  R1-Reward: Training Multimodal Reward Model Through Stable Reinforcement Learning [[PDF](https://arxiv.org/abs/2505.02835),[Page](https://arxiv.org/abs/2505.02835)] ![Code](https://img.shields.io/github/stars/yfzhang114/r1_reward?style=social&label=Star) 
+
 
 
 [arxiv 2025.05]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
