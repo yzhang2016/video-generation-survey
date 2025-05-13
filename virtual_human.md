@@ -90,6 +90,8 @@
 
 [arxiv 2025.05]  GENMO: A GENeralist Model for Human MOtion [[PDF](https://arxiv.org/abs/2505.01425),[Page](https://research.nvidia.com/labs/dair/genmo/)] 
 
+[arxiv 2025.05]  ReAlign: Bilingual Text-to-Motion Generation via Step-Aware Reward-Guided Alignment [[PDF](https://arxiv.org/abs/2505.04974),[Page](https://github.com/wengwanjiang/ReAlign)] ![Code](https://img.shields.io/github/stars/wengwanjiang/ReAlign?style=social&label=Star)
+
 
 [arxiv 2025.05]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
