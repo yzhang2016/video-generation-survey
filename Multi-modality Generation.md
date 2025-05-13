@@ -13,7 +13,6 @@
 
 [arxiv 2025.01]  Next Token Prediction Towards Multimodal Intelligence[[PDF](https://arxiv.org/abs/2412.18619),[Page](https://github.com/LMM101/Awesome-Multimodal-Next-Token-Prediction)] ![Code](https://img.shields.io/github/stars/LMM101/Awesome-Multimodal-Next-Token-Prediction?style=social&label=Star) 
 
-
 [arxiv 2025.01] MiniMax-01: Scaling Foundation Models with Lightning Attention  [[PDF](https://arxiv.org/abs/2501.08313),[Page](https://github.com/MiniMax-AI/MiniMax-01)] ![Code](https://img.shields.io/github/stars/MiniMax-AI/MiniMax-01?style=social&label=Star) 
 
 
@@ -108,6 +107,8 @@
 
 [arxiv 2025.05] Unified Multimodal Chain-of-Thought Reward Model through Reinforcement Fine-Tuning  [[PDF](https://arxiv.org/abs/2505.03318),[Page](https://codegoat24.github.io/UnifiedReward/think)] ![Code](https://img.shields.io/github/stars/CodeGoat24/UnifiedReward?style=social&label=Star) 
 
+[arxiv 2025.05] Skywork-VL Reward: An Effective Reward Model for Multimodal Understanding and Reasoning  [[PDF](https://arxiv.org/abs/2505.07263),[Page](https://huggingface.co/Skywork/Skywork-VL-Reward-7B)] 
+
 
 [arxiv 2025.05]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
 
@@ -133,7 +134,7 @@
 [arxiv 2025.05]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
 
 
-## Multi-modality Understanding 
+## Understanding 
 
 [arxiv 2024.10]TemporalBench Benchmarking Fine-grained Temporal Understanding for Multimodal Video Models [[PDF](https://arxiv.org/abs/2410.10818), [Page](https://temporalbench.github.io/)]
 
@@ -212,7 +213,7 @@
 
 [arxiv 2025.04]  Eagle 2.5: Boosting Long-Context Post-Training for Frontier Vision-Language Models [[PDF](https://arxiv.org/pdf/2504.15271),[Page](https://nvlabs.github.io/EAGLE/)] ![Code](https://img.shields.io/github/stars/NVlabs/EAGLE?style=social&label=Star) 
 
-
+[arxiv 2025.05]  Seed1.5-VL Technical Report [[PDF](https://arxiv.org/abs/2505.07062)]
 
 [arxiv 2025.05]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
 
@@ -236,7 +237,7 @@
 [arxiv 2025.05]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
 
 
-## Multi-modality Understanding and Generation 
+## Understanding and Generation 
 [arxiv 2024.09] Emu3: Next-Token Prediction is All You Need[[PDF](https://arxiv.org/abs/2409.18869), [Page](https://emu.baai.ac.cn/)]
 
 
@@ -262,12 +263,16 @@
 
 [arxiv 2025.05] Unified Multimodal Understanding and Generation Models: Advances, Challenges, and Opportunities  [[PDF](https://arxiv.org/pdf/2505.02567)]
 
+[arxiv 2025.05] Mogao: An Omni Foundation Model for Interleaved Multi-Modal Generation  [[PDF](https://arxiv.org/pdf/2505.05472)]
 
+[arxiv 2025.05]  TokLIP: Marry Visual Tokens to CLIP for Multimodal Comprehension and Generation [[PDF](https://arxiv.org/abs/2505.05422),[Page](https://arxiv.org/abs/2505.05422)] ![Code](https://img.shields.io/github/stars/TencentARC/TokLIP?style=social&label=Star) 
+
+[arxiv 2025.05] Selftok: Discrete Visual Tokens of Autoregression, by Diffusion, and for Reasoning  [[PDF](https://arxiv.org/pdf/2505.07538),[Page](https://selftok-team.github.io/report/)] 
 
 [arxiv 2025.05]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
 
 
-## multi-modality evaluation 
+## evaluation 
 [arxiv 2024.10] The Curse of Multi-Modalities: Evaluating Hallucinations of Large Multimodal Models across Language, Visual, and Audio[[PDF](https://arxiv.org/abs/2410.12787)]
 
 
@@ -287,6 +292,7 @@
 
 [arxiv 2025.05]  R1-Reward: Training Multimodal Reward Model Through Stable Reinforcement Learning [[PDF](https://arxiv.org/abs/2505.02835),[Page](https://arxiv.org/abs/2505.02835)] ![Code](https://img.shields.io/github/stars/yfzhang114/r1_reward?style=social&label=Star) 
 
+[arxiv 2025.05]  EchoInk-R1: Exploring Audio-Visual Reasoning in Multimodal LLMs via Reinforcement Learning [[PDF](https://arxiv.org/abs/2505.04623),[Page](https://github.com/HarryHsing/EchoInk)] ![Code](https://img.shields.io/github/stars/HarryHsing/EchoInk?style=social&label=Star) 
 
 
 [arxiv 2025.05]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
@@ -312,6 +318,10 @@
 [arxiv 2025.04] UniViTAR: Unified Vision Transformer with Native Resolution  [[PDF](https://arxiv.org/abs/2504.01792)]
 
 [arxiv 2025.04]  UniToken: Harmonizing Multimodal Understanding and Generation through Unified Visual Encoding [[PDF](https://arxiv.org/abs/2504.04423),[Page](https://github.com/SxJyJay/UniToken)] ![Code](https://img.shields.io/github/stars/SxJyJay/UniToken?style=social&label=Star) 
+
+[arxiv 2025.05]  OpenVision: A Fully-Open, Cost-Effective Family of Advanced Vision Encoders for Multimodal Learning [[PDF](https://arxiv.org/abs/2505.04601),[Page](https://ucsc-vlaa.github.io/OpenVision/)] ![Code](https://img.shields.io/github/stars/UCSC-VLAA/OpenVision?style=social&label=Star) 
+
+
 
 [arxiv 2025.05]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
 
@@ -353,6 +363,9 @@
 ## Evaluation
 
 [arxiv 2025.04]  MME-Unify: A Comprehensive Benchmark for Unified Multimodal Understanding and Generation Models [[PDF](https://arxiv.org/abs/2504.03641),[Page](https://mme-unify.github.io/)] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
+
+[arxiv 2025.05] On Path to Multimodal Generalist: General-Level and General-Bench  [[PDF](https://arxiv.org/abs/2505.04620),[Page](https://generalist.top/)] ![Code](https://img.shields.io/github/stars/path2generalist/General-Level?style=social&label=Star) 
+
 
 [arxiv 2025.05]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
 
