@@ -92,6 +92,8 @@
 
 [arxiv 2025.05]  ReAlign: Bilingual Text-to-Motion Generation via Step-Aware Reward-Guided Alignment [[PDF](https://arxiv.org/abs/2505.04974),[Page](https://github.com/wengwanjiang/ReAlign)] ![Code](https://img.shields.io/github/stars/wengwanjiang/ReAlign?style=social&label=Star)
 
+[arxiv 2025.05] MoCLIP: Motion-Aware Fine-Tuning and Distillation of CLIP for Human Motion Generation  [[PDF](https://arxiv.org/abs/2505.10810)]
+
 
 [arxiv 2025.05]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -191,6 +193,10 @@
 [arxiv 2025.04] HUMOTO: A 4D Dataset of Mocap Human Object Interactions  [[PDF](https://arxiv.org/abs/2504.10414),[Page](https://jiaxin-lu.github.io/humoto/)] 
 
 [arxiv 2025.05]  HOIGaze: Gaze Estimation During Hand-Object Interactions in Extended Reality Exploiting Eye-Hand-Head Coordination [[PDF](https://arxiv.org/abs/2504.19828),[Page](https://zhiminghu.net/hu25_hoigaze.html)] ![Code](https://img.shields.io/github/stars/CraneHzm/HOIGaze?style=social&label=Star)
+
+[arxiv 2025.05]  MEgoHand: Multimodal Egocentric Hand-Object Interaction Motion Generation [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
+
+[arxiv 2025.05]  Large-Scale Multi-Character Interaction Synthesis [[PDF](https://arxiv.org/abs/2505.14087)]
 
 
 [arxiv 2025.05]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
