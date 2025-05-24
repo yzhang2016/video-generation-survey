@@ -1,97 +1,16 @@
+### [Awesome-Multimodal-Large-Language-Models](https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models)
 
 ###  LLM 
 
 [arxiv 2024.12] Training Large Language Models to Reason in a Continuous Latent Space  [[PDF](https://arxiv.org/pdf/2412.06769)]
 
 
-
 [arxiv 2025.05]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
 
 
-### Multi-modality Generation 
-[arxiv 2024.11] Multimodal Alignment and Fusion: A Survey [[PDF](https://arxiv.org/abs/2411.17040)]
-
-[arxiv 2025.01]  Next Token Prediction Towards Multimodal Intelligence[[PDF](https://arxiv.org/abs/2412.18619),[Page](https://github.com/LMM101/Awesome-Multimodal-Next-Token-Prediction)] ![Code](https://img.shields.io/github/stars/LMM101/Awesome-Multimodal-Next-Token-Prediction?style=social&label=Star) 
-
-[arxiv 2025.01] MiniMax-01: Scaling Foundation Models with Lightning Attention  [[PDF](https://arxiv.org/abs/2501.08313),[Page](https://github.com/MiniMax-AI/MiniMax-01)] ![Code](https://img.shields.io/github/stars/MiniMax-AI/MiniMax-01?style=social&label=Star) 
 
 
-[arxiv 2025.05]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
 
-
-### [Awesome-Multimodal-Large-Language-Models](https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models)
-
-[arxiv 2023.07]Generative Pretraining in Multimodality [[PDF](https://arxiv.org/abs/2307.05222),[Page](https://github.com/baaivision/Emu)]
-
-[arxiv 2023.07]Generating Images with Multimodal Language Models [[PDF](https://arxiv.org/abs/2305.17216),[Page](https://jykoh.com/gill)]
-
-[arxiv 2023.07]3D-LLM: Injecting the 3D World into Large Language Models[[PDF] (https://arxiv.org/abs/2307.12981),[Page](https://vis-www.cs.umass.edu/3dllm/)]
-
-[arxiv 2023.10]Making LLaMA SEE and Draw with SEED Tokenizer [[PDF](https://arxiv.org/abs/2310.01218),[Page](https://github.com/AILab-CVC/SEED)]
-
-[arxiv 2023.10]Iterative Self-Refinement with GPT-4V(ision) for Automatic Image Design and Generation [[PDf](https://arxiv.org/abs/2310.08541),[Page](https://idea2img.github.io/)]
-
-[arxiv 2023.12]CoDi-2: In-Context, Interleaved, and Interactive Any-to-Any Generation[[PDF](https://arxiv.org/abs/2311.18775),[Page](https://codi-2.github.io/)]
-
-[arxiv 2023.12]SmartEdit: Exploring Complex Instruction-based Image Editing with Multimodal Large Language Models [[PDF](https://arxiv.org/abs/2312.06739),[Page](https://yuzhou914.github.io/SmartEdit/)]
-
-[arxiv 2023.12]InstructAny2Pix: Flexible Visual Editing via Multimodal Instruction Following [[PDF](https://arxiv.org/abs/2312.06738), [Page](https://github.com/jacklishufan/InstructAny2Pix.git)]
-
-[arxiv 2023.12]Massively Multimodal Masked Modeling [[PDF](https://arxiv.org/abs/2312.06647),[Page](https://4m.epfl.ch/)]
-
-[arxiv 2023.12]Gemini: A Family of Highly Capable Multimodal Models [[PDF](https://arxiv.org/abs/2312.11805)]
-
-[arxiv 2023.12]Generative Multimodal Models are In-Context Learners [[PDF](https://arxiv.org/abs/2312.13286),[Page](https://baaivision.github.io/emu2)]
-
-[arxiv 2024.1]DiffusionGPT: LLM-Driven Text-to-Image Generation System [[PDF](https://arxiv.org/abs/2401.10061)]
-
-[arxiv 2024.1]Image Anything: Towards Reasoning-coherent and Training-free Multi-modal Image Generation [[PDF](https://arxiv.org/abs/2401.17664),[Page](https://vlislab22.github.io/ImageAnything/)]
-
-[arxiv 2024.03]3D-VLA 3D Vision-Language-Action Generative World Model[[PDF](https://arxiv.org/abs/2403.09631),[Page](https://vis-www.cs.umass.edu/3dvla/)]
-
-[arxiv 2024.03]LLaVA-PruMerge: Adaptive Token Reduction for Efficient Large Multimodal Models [[PDF](https://arxiv.org/abs/2403.15388),[Page](https://llava-prumerge.github.io/)]
-
-[arxiv 2024.04]SEED-X: Multimodal Models with Unified Multi-granularity Comprehension and Generation [[PDF](https://arxiv.org/abs/2404.14396)]
-
-[arxiv 2024.06]The Evolution of Multimodal Model Architectures [[PDF](https://arxiv.org/pdf/2405.17927)]
-
-[arxiv 2024.08] Show-o: One Single Transformer to Unify Multimodal Understanding and Generation[[PDF](https://arxiv.org/abs/2408.12528), [Page](https://github.com/showlab/Show-o)]
-
-[arxiv 2024.09] VILA-U: a Unified Foundation Model Integrating Visual Understanding and Generation[[PDF](https://arxiv.org/abs/2409.04429)]
-
-[arxiv 2024.09]EMOVA: Empowering Language Models to See, Hear and Speak with Vivid Emotions[[PDF](https://arxiv.org/abs/2409.18042), [Page](https://emova-ollm.github.io/)]
-
-[arxiv 2024.09] Molmo and PixMo: Open Weights and Open Data for State-of-the-Art Multimodal Models[[PDF](https://arxiv.org/abs/2409.17146),)]
-
-
-[arxiv 2024.09]MonoFormer: One Transformer for Both Diffusion and Autoregression [[PDF](https://arxiv.org/abs/2409.16280), [Page](https://monoformer.github.io/)]
-
-
-[arxiv 2024.09] Visual Prompting in Multimodal Large Language Models: A Survey[[PDF](https://arxiv.org/abs/2409.15310)]
-
-
-[arxiv 2024.10]ACE: All-round Creator and Editor Following Instructions via Diffusion Transformer [[PDF](https://arxiv.org/abs/2410.00086), [Page](https://ali-vilab.github.io/ace-page/)]
-
-[arxiv 2024.10]Baichuan-Omni Technical Report [[PDF](https://arxiv.org/abs/2410.08565), [Page](https://github.com/westlake-baichuan-mllm/bc-omni)]
-
-[arxiv 2024.10] PUMA: Empowering Unified MLLM with Multi-granular Visual Generation[[PDF](https://arxiv.org/abs/2410.13861), [Page](https://rongyaofang.github.io/puma/)]
-
-[arxiv 2024.10]Janus: Decoupling Visual Encoding for Unified Multimodal Understanding and Generation [[PDF](https://arxiv.org/abs/2410.13848), [Page](https://github.com/deepseek-ai/Janus)]
-
-[arxiv 2024.11]Spider: Any-to-Many Multimodal LLM [[PDF](https://arxiv.org/abs/2411.09439)]
-
-[arxiv 2024.12] TokenFlow: Unified Image Tokenizer for Multimodal Understanding and Generation  [[PDF](https://arxiv.org/abs/2412.03069),[Page](https://byteflow-ai.github.io/TokenFlow/)] ![Code](https://img.shields.io/github/stars/ByteFlow-AI/TokenFlow?style=social&label=Star) 
-
-[arxiv 2024.12] Multimodal Latent Language Modeling with Next-Token Diffusion  [[PDF](https://arxiv.org/abs/2412.08635),[Page](https://aka.ms/GeneralAI)] 
-
-[arxiv 2024.12] InternLM-XComposer2.5-OmniLive: A Comprehensive Multimodal System for Long-term Streaming Video and Audio Interactions  [[PDF](https://arxiv.org/abs/2412.09596),[Page](https://github.com/InternLM/InternLM-XComposer/tree/main/InternLM-XComposer-2.5-OmniLive)] ![Code](https://img.shields.io/github/stars/InternLM/InternLM-XComposer/tree/main/InternLM-XComposer-2.5-OmniLive?style=social&label=Star) 
-
-[arxiv 2025.02] Long-VITA: Scaling Large Multi-modal Models to 1 Million Tokens with Leading Short-Context Accuray  [[PDF](https://arxiv.org/abs/2502.05177),[Page](https://github.com/VITA-MLLM/Long-VITA)] ![Code](https://img.shields.io/github/stars/VITA-MLLM/Long-VITA?style=social&label=Star) 
-
-[arxiv 2025.02] CoS: Chain-of-Shot Prompting for Long Video Understanding  [[PDF](https://arxiv.org/abs/2502.06428),[Page](https://lwpyh.github.io/CoS/)] ![Code](https://img.shields.io/github/stars/lwpyh/CoS_codes?style=social&label=Star) 
-
-
-[arxiv 2025.05]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
 
 
 ## Feedback 
@@ -136,11 +55,43 @@
 
 ## Understanding 
 
+[arxiv 2023.07]Generative Pretraining in Multimodality [[PDF](https://arxiv.org/abs/2307.05222),[Page](https://github.com/baaivision/Emu)]
+
+[arxiv 2023.07]Generating Images with Multimodal Language Models [[PDF](https://arxiv.org/abs/2305.17216),[Page](https://jykoh.com/gill)]
+
+[arxiv 2023.07]3D-LLM: Injecting the 3D World into Large Language Models[[PDF] (https://arxiv.org/abs/2307.12981),[Page](https://vis-www.cs.umass.edu/3dllm/)]
+
+[arxiv 2023.10]Making LLaMA SEE and Draw with SEED Tokenizer [[PDF](https://arxiv.org/abs/2310.01218),[Page](https://github.com/AILab-CVC/SEED)]
+
+[arxiv 2023.10]Iterative Self-Refinement with GPT-4V(ision) for Automatic Image Design and Generation [[PDf](https://arxiv.org/abs/2310.08541),[Page](https://idea2img.github.io/)]
+
+[arxiv 2023.12]CoDi-2: In-Context, Interleaved, and Interactive Any-to-Any Generation[[PDF](https://arxiv.org/abs/2311.18775),[Page](https://codi-2.github.io/)]
+
+[arxiv 2023.12]Massively Multimodal Masked Modeling [[PDF](https://arxiv.org/abs/2312.06647),[Page](https://4m.epfl.ch/)]
+
+[arxiv 2023.12]Gemini: A Family of Highly Capable Multimodal Models [[PDF](https://arxiv.org/abs/2312.11805)]
+
+[arxiv 2023.12]Generative Multimodal Models are In-Context Learners [[PDF](https://arxiv.org/abs/2312.13286),[Page](https://baaivision.github.io/emu2)]
+
+[arxiv 2024.03]LLaVA-PruMerge: Adaptive Token Reduction for Efficient Large Multimodal Models [[PDF](https://arxiv.org/abs/2403.15388),[Page](https://llava-prumerge.github.io/)]
+
+[arxiv 2024.06]The Evolution of Multimodal Model Architectures [[PDF](https://arxiv.org/pdf/2405.17927)]
+
+[arxiv 2024.09]EMOVA: Empowering Language Models to See, Hear and Speak with Vivid Emotions[[PDF](https://arxiv.org/abs/2409.18042), [Page](https://emova-ollm.github.io/)]
+
+[arxiv 2024.09] Molmo and PixMo: Open Weights and Open Data for State-of-the-Art Multimodal Models[[PDF](https://arxiv.org/abs/2409.17146),)]
+
+[arxiv 2024.09] Visual Prompting in Multimodal Large Language Models: A Survey[[PDF](https://arxiv.org/abs/2409.15310)]
+
+[arxiv 2024.10]Baichuan-Omni Technical Report [[PDF](https://arxiv.org/abs/2410.08565), [Page](https://github.com/westlake-baichuan-mllm/bc-omni)]
+
 [arxiv 2024.10]TemporalBench Benchmarking Fine-grained Temporal Understanding for Multimodal Video Models [[PDF](https://arxiv.org/abs/2410.10818), [Page](https://temporalbench.github.io/)]
 
 [arxiv 2024.10] γ−MoD: Exploring Mixture-of-Depth Adaptation for Multimodal Large Language Models[[PDF](https://arxiv.org/abs/2410.13859), [Page](https://github.com/Yaxin9Luo/Gamma-MOD)]
 
 [arxiv 2024.10]Remember, Retrieve and Generate: Understanding Infinite Visual Concepts as Your Personalized Assistant [[PDF](https://arxiv.org/abs/2410.13360), [Page](https://github.com/Hoar012/RAP-MLLM)]
+
+[arxiv 2024.11] Multimodal Alignment and Fusion: A Survey [[PDF](https://arxiv.org/abs/2411.17040)]
 
 [arxiv 2024.11] LLaVA-o1: Let Vision Language Models Reason Step-by-Step[[PDF](https://arxiv.org/abs/2411.10440), [Page]()]
 
@@ -160,6 +111,11 @@
 
 [arxiv 2024.12]  HoVLE: Unleashing the Power of Monolithic Vision-Language Models with Holistic Vision-Language Embedding [[PDF](https://arxiv.org/abs/2412.16158),[Page](https://huggingface.co/OpenGVLab/HoVLE)] 
 
+[arxiv 2024.12] Multimodal Latent Language Modeling with Next-Token Diffusion  [[PDF](https://arxiv.org/abs/2412.08635),[Page](https://aka.ms/GeneralAI)] 
+
+[arxiv 2024.12] InternLM-XComposer2.5-OmniLive: A Comprehensive Multimodal System for Long-term Streaming Video and Audio Interactions  [[PDF](https://arxiv.org/abs/2412.09596),[Page](https://github.com/InternLM/InternLM-XComposer/tree/main/InternLM-XComposer-2.5-OmniLive)] ![Code](https://img.shields.io/github/stars/InternLM/InternLM-XComposer/tree/main/InternLM-XComposer-2.5-OmniLive?style=social&label=Star) 
+
+
 [arxiv 2025.01]  VideoRefer Suite: Advancing Spatial-Temporal Object Understanding with Video LLM [[PDF](http://arxiv.org/abs/2501.00599),[Page](https://damo-nlp-sg.github.io/VideoRefer/)] ![Code](https://img.shields.io/github/stars/DAMO-NLP-SG/VideoRefer?style=social&label=Star) 
 
 [arxiv 2025.01] VideoChat-Flash: Hierarchical Compression for Long-Context Video Modeling  [[PDF](https://arxiv.org/abs/2501.00574),[Page](https://github.com/OpenGVLab/VideoChat-Flash)] ![Code](https://img.shields.io/github/stars/OpenGVLab/VideoChat-Flash?style=social&label=Star) 
@@ -176,7 +132,13 @@
 
 [arxiv 2025.01] VideoLLaMA 3: Frontier Multimodal Foundation Models for Image and Video Understanding  [[PDF](https://arxiv.org/abs/2501.13106),[Page](https://github.com/DAMO-NLP-SG/VideoLLaMA3)] ![Code](https://img.shields.io/github/stars/DAMO-NLP-SG/VideoLLaMA3?style=social&label=Star) 
 
+[arxiv 2025.01]  Next Token Prediction Towards Multimodal Intelligence[[PDF](https://arxiv.org/abs/2412.18619),[Page](https://github.com/LMM101/Awesome-Multimodal-Next-Token-Prediction)] ![Code](https://img.shields.io/github/stars/LMM101/Awesome-Multimodal-Next-Token-Prediction?style=social&label=Star) 
+
+[arxiv 2025.01] MiniMax-01: Scaling Foundation Models with Lightning Attention  [[PDF](https://arxiv.org/abs/2501.08313),[Page](https://github.com/MiniMax-AI/MiniMax-01)] ![Code](https://img.shields.io/github/stars/MiniMax-AI/MiniMax-01?style=social&label=Star) 
+
 [arxiv 2025.02] MINT: Mitigating Hallucinations in Large Vision-Language Models via Token Reduction  [[PDF](https://arxiv.org/abs/2502.00717)]
+
+[arxiv 2025.02] Long-VITA: Scaling Large Multi-modal Models to 1 Million Tokens with Leading Short-Context Accuray  [[PDF](https://arxiv.org/abs/2502.05177),[Page](https://github.com/VITA-MLLM/Long-VITA)] ![Code](https://img.shields.io/github/stars/VITA-MLLM/Long-VITA?style=social&label=Star) 
 
 [arxiv 2025.02]  PixelWorld: Towards Perceiving Everything as Pixels [[PDF](https://arxiv.org/abs/2501.19339),[Page](https://tiger-ai-lab.github.io/PixelWorld/)] ![Code](https://img.shields.io/github/stars/TIGER-AI-Lab/PixelWorld?style=social&label=Star) 
 
@@ -200,7 +162,6 @@
 
 [arxiv 2025.04]  Shot-by-Shot: Film-Grammar-Aware Training-Free Audio Description Generation [[PDF](https://arxiv.org/abs/2504.01020),[Page](https://www.robots.ox.ac.uk/vgg/research/shot-by-shot/)] ![Code](https://img.shields.io/github/stars/Jyxarthur/shot-by-shot?style=social&label=Star) 
 
-
 [arxiv 2025.04]  Aligned Better, Listen Better for Audio-Visual Large Language Models [[PDF](https://arxiv.org/abs/2504.02061),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
 
 [arxiv 2025.04] TokenFLEX: Unified VLM Training for Flexible Visual Tokens Inference  [[PDF](https://arxiv.org/abs/2504.03154)]
@@ -218,7 +179,12 @@
 [arxiv 2025.05]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
 
 
+## downstream
+[arxiv 2025.05]  Multi-SpatialMLLM: Multi-Frame Spatial Understanding with Multi-Modal Large Language Models [[PDF](https://arxiv.org/abs/2505.17015),[Page](https://runsenxu.com/projects/Multi-SpatialMLLM)] ![Code](https://img.shields.io/github/stars/facebookresearch/Multi-SpatialMLLM?style=social&label=Star) 
+
+
 ## Long Video Understanding
+[arxiv 2025.02] CoS: Chain-of-Shot Prompting for Long Video Understanding  [[PDF](https://arxiv.org/abs/2502.06428),[Page](https://lwpyh.github.io/CoS/)] ![Code](https://img.shields.io/github/stars/lwpyh/CoS_codes?style=social&label=Star) 
 
 [arxiv 2025.03]  VideoMind: A Chain-of-LoRA Agent for Long Video Reasoning [[PDF](https://arxiv.org/abs/2503.13444),[Page](https://videomind.github.io/)] ![Code](https://img.shields.io/github/stars/yeliudev/VideoMind?style=social&label=Star) 
 
@@ -234,12 +200,47 @@
 
 [arxiv 2025.04] Vidi: Large Multimodal Models for Video Understanding and Editing  [[PDF](https://arxiv.org/pdf/2504.15681),[Page](https://bytedance.github.io/vidi-website/)] ![Code](https://img.shields.io/github/stars/bytedance/vidi?style=social&label=Star) 
 
+[arxiv 2025.05]  CrossLMM: Decoupling Long Video Sequences from LMMs via Dual Cross-Attention Mechanisms [[PDF](https://arxiv.org/abs/2505.17020),[Page](https://github.com/shilinyan99/CrossLMM)] ![Code](https://img.shields.io/github/stars/shilinyan99/CrossLMM?style=social&label=Star) 
+
+[arxiv 2025.05]  QuickVideo: Real-Time Long Video Understanding with System Algorithm Co-Design[[PDF](https://arxiv.org/abs/2505.16175),[Page](https://github.com/TIGER-AI-Lab/QuickVideo)] ![Code](https://img.shields.io/github/stars/TIGER-AI-Lab/QuickVideo?style=social&label=Star) 
+
+[arxiv 2025.05] VideoEval-Pro: Robust and Realistic Long Video Understanding Evaluation  [[PDF](https://arxiv.org/abs/2505.14640),[Page](https://tiger-ai-lab.github.io/VideoEval-Pro/home_page.html)] ![Code](https://img.shields.io/github/stars/TIGER-AI-Lab/VideoEval-Pro?style=social&label=Star) 
+
+
 [arxiv 2025.05]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
 
 
-## Understanding and Generation 
+## Generation 
+[arxiv 2023.12]SmartEdit: Exploring Complex Instruction-based Image Editing with Multimodal Large Language Models [[PDF](https://arxiv.org/abs/2312.06739),[Page](https://yuzhou914.github.io/SmartEdit/)]
+
+[arxiv 2023.12]InstructAny2Pix: Flexible Visual Editing via Multimodal Instruction Following [[PDF](https://arxiv.org/abs/2312.06738), [Page](https://github.com/jacklishufan/InstructAny2Pix.git)]
+
+[arxiv 2024.1]DiffusionGPT: LLM-Driven Text-to-Image Generation System [[PDF](https://arxiv.org/abs/2401.10061)]
+
+[arxiv 2024.1]Image Anything: Towards Reasoning-coherent and Training-free Multi-modal Image Generation [[PDF](https://arxiv.org/abs/2401.17664),[Page](https://vlislab22.github.io/ImageAnything/)]
+
+[arxiv 2024.03]3D-VLA 3D Vision-Language-Action Generative World Model[[PDF](https://arxiv.org/abs/2403.09631),[Page](https://vis-www.cs.umass.edu/3dvla/)]
+
+[arxiv 2024.04]SEED-X: Multimodal Models with Unified Multi-granularity Comprehension and Generation [[PDF](https://arxiv.org/abs/2404.14396)]
+
+[arxiv 2024.08] Show-o: One Single Transformer to Unify Multimodal Understanding and Generation[[PDF](https://arxiv.org/abs/2408.12528), [Page](https://github.com/showlab/Show-o)]
+
+[arxiv 2024.09] VILA-U: a Unified Foundation Model Integrating Visual Understanding and Generation[[PDF](https://arxiv.org/abs/2409.04429)]
+
+
 [arxiv 2024.09] Emu3: Next-Token Prediction is All You Need[[PDF](https://arxiv.org/abs/2409.18869), [Page](https://emu.baai.ac.cn/)]
 
+[arxiv 2024.09]MonoFormer: One Transformer for Both Diffusion and Autoregression [[PDF](https://arxiv.org/abs/2409.16280), [Page](https://monoformer.github.io/)]
+
+[arxiv 2024.10] PUMA: Empowering Unified MLLM with Multi-granular Visual Generation[[PDF](https://arxiv.org/abs/2410.13861), [Page](https://rongyaofang.github.io/puma/)]
+
+[arxiv 2024.10]ACE: All-round Creator and Editor Following Instructions via Diffusion Transformer [[PDF](https://arxiv.org/abs/2410.00086), [Page](https://ali-vilab.github.io/ace-page/)]
+
+[arxiv 2024.10]Janus: Decoupling Visual Encoding for Unified Multimodal Understanding and Generation [[PDF](https://arxiv.org/abs/2410.13848), [Page](https://github.com/deepseek-ai/Janus)]
+
+[arxiv 2024.11]Spider: Any-to-Many Multimodal LLM [[PDF](https://arxiv.org/abs/2411.09439)]
+
+[arxiv 2024.12] TokenFlow: Unified Image Tokenizer for Multimodal Understanding and Generation  [[PDF](https://arxiv.org/abs/2412.03069),[Page](https://byteflow-ai.github.io/TokenFlow/)] ![Code](https://img.shields.io/github/stars/ByteFlow-AI/TokenFlow?style=social&label=Star) 
 
 [arxiv 2025.02]  HermesFlow: Seamlessly Closing the Gap in Multimodal Understanding and Generation [[PDF](https://arxiv.org/pdf/2502.12148),[Page](https://github.com/Gen-Verse/HermesFlow)] ![Code](https://img.shields.io/github/stars/Gen-Verse/HermesFlow?style=social&label=Star) 
 
@@ -269,6 +270,18 @@
 
 [arxiv 2025.05] Selftok: Discrete Visual Tokens of Autoregression, by Diffusion, and for Reasoning  [[PDF](https://arxiv.org/pdf/2505.07538),[Page](https://selftok-team.github.io/report/)] 
 
+[arxiv 2025.05]  GoT-R1: Unleashing Reasoning Capability of MLLM for Visual Generation with Reinforcement Learning[[PDF](https://arxiv.org/abs/2505.17022),[Page](https://github.com/gogoduan/GoT-R1)] ![Code](https://img.shields.io/github/stars/gogoduan/GoT-R1?style=social&label=Star) 
+
+[arxiv 2025.05] Delving into RL for Image Generation with CoT: A Study on DPO vs. GRPO  [[PDF](https://arxiv.org/abs/2505.17017),[Page](https://github.com/ZiyuGuo99/Image-Generation-CoT)] ![Code](https://img.shields.io/github/stars/ZiyuGuo99/Image-Generation-CoT?style=social&label=Star) 
+
+[arxiv 2025.05]  UniGen: Enhanced Training & Test-Time Strategies for Unified Multimodal Understanding and Generation [[PDF](https://arxiv.org/abs/2505.14682)]
+
+[arxiv 2025.05]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
+
+
+## diffusion LLM
+[arxiv 2025.05]  MMaDA: Multimodal Large Diffusion Language Models [[PDF](https://arxiv.org/abs/2505.15809),[Page](https://github.com/Gen-Verse/MMaDA)] ![Code](https://img.shields.io/github/stars/Gen-Verse/MMaDA?style=social&label=Star) 
+
 [arxiv 2025.05]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
 
 
@@ -294,6 +307,22 @@
 
 [arxiv 2025.05]  EchoInk-R1: Exploring Audio-Visual Reasoning in Multimodal LLMs via Reinforcement Learning [[PDF](https://arxiv.org/abs/2505.04623),[Page](https://github.com/HarryHsing/EchoInk)] ![Code](https://img.shields.io/github/stars/HarryHsing/EchoInk?style=social&label=Star) 
 
+[arxiv 2025.05] SophiaVL-R1: Reinforcing MLLMs Reasoning with Thinking Reward  [[PDF](https://arxiv.org/abs/2505.17018),[Page](https://github.com/kxfan2002/SophiaVL-R1)] ![Code](https://img.shields.io/github/stars/kxfan2002/SophiaVL-R1?style=social&label=Star) 
+
+[arxiv 2025.05] R1-ShareVL: Incentivizing Reasoning Capability of Multimodal Large Language Models via Share-GRPO  [[PDF](https://arxiv.org/abs/2505.16673),[Page](https://github.com/HJYao00/R1-ShareVL)] ![Code](https://img.shields.io/github/stars/HJYao00/R1-ShareVL?style=social&label=Star) 
+
+[arxiv 2025.05]  STAR-R1: Spacial TrAnsformation Reasoning by Reinforcing Multimodal LLMs [[PDF](https://arxiv.org/abs/2505.15804),[Page](https://github.com/zongzhao23/STAR-R1)] ![Code](https://img.shields.io/github/stars/zongzhao23/STAR-R1?style=social&label=Star) 
+
+[arxiv 2025.05]  Visual Thoughts: A Unified Perspective of Understanding Multimodal Chain-of-Thought [[PDF](https://arxiv.org/abs/2505.15510)]
+
+[arxiv 2025.05] Chain-of-Focus: Adaptive Visual Search and Zooming for Multimodal Reasoning via RL  [[PDF](https://arxiv.org/abs/2505.15436)]
+
+[arxiv 2025.05]  Visionary-R1: Mitigating Shortcuts in Visual Reasoning with Reinforcement Learning [[PDF](https://arxiv.org/abs/2505.14677),[Page](https://github.com/maifoundations/Visionary-R1)] ![Code](https://img.shields.io/github/stars/maifoundations/Visionary-R1?style=social&label=Star) 
+
+[arxiv 2025.05]  VisionReasoner: Unified Visual Perception and Reasoning via Reinforcement Learning [[PDF](https://arxiv.org/abs/2505.12081),[Page](https://github.com/dvlab-research/VisionReasoner)] ![Code](https://img.shields.io/github/stars/dvlab-research/VisionReasoner?style=social&label=Star) 
+
+[arxiv 2025.05]  Patho-R1: A Multimodal Reinforcement Learning-Based Pathology Expert Reasoner [[PDF](https://arxiv.org/abs/2505.11404),[Page](https://github.com/Wenchuan-Zhang/Patho-R1)] ![Code](https://img.shields.io/github/stars/Wenchuan-Zhang/Patho-R1?style=social&label=Star) 
+
 
 [arxiv 2025.05]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
 
@@ -314,17 +343,26 @@
 [arxiv 2025.02]  Efficient Few-Shot Continual Learning in Vision-Language Models [[PDF](https://arxiv.org/pdf/2502.04098)]
 
 
-## visual encoder 
+## tokenzier
 [arxiv 2025.04] UniViTAR: Unified Vision Transformer with Native Resolution  [[PDF](https://arxiv.org/abs/2504.01792)]
 
 [arxiv 2025.04]  UniToken: Harmonizing Multimodal Understanding and Generation through Unified Visual Encoding [[PDF](https://arxiv.org/abs/2504.04423),[Page](https://github.com/SxJyJay/UniToken)] ![Code](https://img.shields.io/github/stars/SxJyJay/UniToken?style=social&label=Star) 
 
 [arxiv 2025.05]  OpenVision: A Fully-Open, Cost-Effective Family of Advanced Vision Encoders for Multimodal Learning [[PDF](https://arxiv.org/abs/2505.04601),[Page](https://ucsc-vlaa.github.io/OpenVision/)] ![Code](https://img.shields.io/github/stars/UCSC-VLAA/OpenVision?style=social&label=Star) 
 
+[arxiv 2025.05] ALTo: Adaptive-Length Tokenizer for Autoregressive Mask Generation  [[PDF](https://arxiv.org/pdf/2505.16495),[Page](https://github.com/yayafengzi/ALToLLM)] ![Code](https://img.shields.io/github/stars/yayafengzi/ALToLLM?style=social&label=Star) 
+
+[arxiv 2025.05] UniCTokens: Boosting Personalized Understanding and Generation via Unified Concept Tokens  [[PDF](https://arxiv.org/abs/2505.14671),[Page](https://github.com/arctanxarc/UniCTokens)] ![Code](https://img.shields.io/github/stars/arctanxarc/UniCTokens?style=social&label=Star) 
+
+[arxiv 2025.05]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
 
 
 [arxiv 2025.05]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
 
+## RoPE
+[arxiv 2025.05] Circle-RoPE: Cone-like Decoupled Rotary Positional Embedding for Large Vision-Language Models  [[PDF](https://arxiv.org/abs/2505.16416),[Page](https://github.com/lose4578/CircleRoPE)] ![Code](https://img.shields.io/github/stars/lose4578/CircleRoPE?style=social&label=Star) 
+
+[arxiv 2025.05]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
 
 
 ## audio 
@@ -365,6 +403,14 @@
 [arxiv 2025.04]  MME-Unify: A Comprehensive Benchmark for Unified Multimodal Understanding and Generation Models [[PDF](https://arxiv.org/abs/2504.03641),[Page](https://mme-unify.github.io/)] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
 
 [arxiv 2025.05] On Path to Multimodal Generalist: General-Level and General-Bench  [[PDF](https://arxiv.org/abs/2505.04620),[Page](https://generalist.top/)] ![Code](https://img.shields.io/github/stars/path2generalist/General-Level?style=social&label=Star) 
+
+[arxiv 2025.05] SpatialScore: Towards Unified Evaluation for Multimodal Spatial Understanding  [[PDF](https://arxiv.org/abs/2505.17012),[Page](https://haoningwu3639.github.io/SpatialScore)] ![Code](https://img.shields.io/github/stars/haoningwu3639/SpatialScore/?style=social&label=Star) 
+
+[arxiv 2025.05]  LENS: Multi-level Evaluation of Multimodal Reasoning with Large Language Models [[PDF](https://arxiv.org/abs/2505.15616),[Page](https://lens4mllms.github.io/mars2-workshop-iccv2025/)] 
+
+[arxiv 2025.05] HumaniBench: A Human-Centric Framework for Large Multimodal Models Evaluation  [[PDF](https://arxiv.org/abs/2505.11454)]
+
+[arxiv 2025.05] Human-Aligned Bench: Fine-Grained Assessment of Reasoning Ability in MLLMs vs. Humans  [[PDF](https://arxiv.org/abs/2505.11141),[Page](https://yansheng-qiu.github.io/human-aligned-bench.github.io/)] ![Code](https://img.shields.io/github/stars/yansheng-qiu/Human_Aligned_Bench?style=social&label=Star) 
 
 
 [arxiv 2025.05]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
