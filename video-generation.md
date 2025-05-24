@@ -242,6 +242,9 @@ A reading list of video generation
 
 [arxiv 2025.02] FlexTok: Resampling Images into 1D Token Sequences of Flexible Length  [[PDF](https://arxiv.org/abs/2502.13967),[Page](https://flextok.epfl.ch/)] 
 
+[arxiv 2025.05] Learning Adaptive and Temporally Causal Video Tokenization in a 1D Latent Space  [[PDF](https://arxiv.org/abs/2505.17011),[Page](https://github.com/VisionXLab/AdapTok)] ![Code](https://img.shields.io/github/stars/VisionXLab/AdapTok?style=social&label=Star)
+
+[arxiv 2025.05] VFRTok: Variable Frame Rates Video Tokenizer with Duration-Proportional Information Assumption  [[PDF](https://arxiv.org/abs/2505.12053)]
 
 [arxiv 2025.05]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -446,6 +449,8 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2025.04] Turbo2K: Towards Ultra-Efficient and High-Quality 2K Video Synthesis  [[PDF](https://arxiv.org/abs/2504.14470),[Page](https://jingjingrenabc.github.io/turbo2k/)] 
 
+[arxiv 2025.05] MAGI-1: Autoregressive Video Generation at Scale  [[PDF](https://arxiv.org/abs/2505.13211),[Page](https://github.com/SandAI-org/Magi-1)] ![Code](https://img.shields.io/github/stars/SandAI-org/Magi-1?style=social&label=Star)
+
 
 [arxiv 2025.05]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -544,6 +549,7 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2025.04]  EquiVDM: Equivariant Video Diffusion Models with Temporally Consistent Noise [[PDF](https://arxiv.org/pdf/2504.09789),[Page](https://research.nvidia.com/labs/genair/equivdm/)] 
 
+[arxiv 2025.05] Self-Rewarding Large Vision-Language Models for Optimizing Prompts in Text-to-Image Generation  [[PDF](https://arxiv.org/abs/2505.16763)]
 
 [arxiv 2025.05]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -1219,6 +1225,8 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 [arxiv 2025.04]  EvTexture: Event-driven Texture Enhancement for Video Super-Resolution [[PDF](https://arxiv.org/abs/2406.13457),[Page](https://dachunkai.github.io/evtexture.github.io/)] ![Code](https://img.shields.io/github/stars/DachunKai/EvTexture?style=social&label=Star)
 
 [arxiv 2025.04]  RepNet-VSR: Reparameterizable Architecture for High-Fidelity Video Super-Resolution [[PDF](https://arxiv.org/abs/2504.15649)]
+
+[arxiv 2025.05]  DOVE: Efficient One-Step Diffusion Model for Real-World Video Super-Resolution [[PDF](https://arxiv.org/pdf/2505.16239),[Page](https://github.com/zhengchen1999/DOVE)] ![Code](https://img.shields.io/github/stars/zhengchen1999/DOVE?style=social&label=Star)
 
 
 [arxiv 2025.05]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
@@ -2202,6 +2210,16 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2025.04]  On-device Sora: Enabling Training-Free Diffusion-based Text-to-Video Generation for Mobile Devices [[PDF](https://arxiv.org/abs/2503.23796),[Page](https://github.com/eai-lab/On-device-Sora)] ![Code](https://img.shields.io/github/stars/eai-lab/On-device-Sora?style=social&label=Star)
 
+[arxiv 2025.05] Training-Free Efficient Video Generation via Dynamic Token Carving  [[PDF](https://arxiv.org/abs/2505.16864),[Page](https://julianjuaner.github.io/projects/jenga/)] ![Code](https://img.shields.io/github/stars/dvlab-research/Jenga/?style=social&label=Star)
+
+[arxiv 2025.05]  REPA Works Until It Doesn't: Early-Stopped, Holistic Alignment Supercharges Diffusion Training [[PDF](https://arxiv.org/abs/2505.16792),[Page](https://github.com/NUS-HPC-AI-Lab/HASTE)] ![Code](https://img.shields.io/github/stars/NUS-HPC-AI-Lab/HASTE?style=social&label=Star)
+
+[arxiv 2025.05]  DraftAttention: Fast Video Diffusion via Low-Resolution Attention Guidance
+ [[PDF](https://arxiv.org/abs/2505.14708),[Page](https://github.com/shawnricecake/draft-attention)] ![Code](https://img.shields.io/github/stars/shawnricecake/draft-attention?style=social&label=Star)
+
+[arxiv 2025.05] Faster Video Diffusion with Trainable Sparse Attention  [[PDF](https://arxiv.org/pdf/2505.13389)]
+
+[arxiv 2025.05]  QVGen: Pushing the Limit of Quantized Video Generative Models [[PDF](https://arxiv.org/abs/2505.11497)]
 
 [arxiv 2025.05]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -2289,6 +2307,7 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2025.05] A Survey of Interactive Generative Video  [[PDF](https://arxiv.org/pdf/2504.21853)]
 
+[arxiv 2025.05] Vid2World: Crafting Video Diffusion Models to Interactive World Models  [[PDF](https://arxiv.org/abs/2505.14357),[Page](https://knightnemo.github.io/vid2world/)] 
 
 [arxiv 2025.05]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
