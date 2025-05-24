@@ -904,6 +904,9 @@
 
 [arxiv 2025.05]  VSC: Visual Search Compositional Text-to-Image Diffusion Model [[PDF](https://arxiv.org/abs/2505.01104)]
 
+[arxiv 2025.05] DetailMaster: Can Your Text-to-Image Model Handle Long Prompts?  [[PDF](https://arxiv.org/abs/2505.16915)]
+
+[arxiv 2025.05]  Harnessing Caption Detailness for Data-Efficient Text-to-Image Generation[[PDF](https://arxiv.org/abs/2505.15172)]
  
 [arxiv 2025.05]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -1023,6 +1026,8 @@
 
 [arxiv 2025.04] Token-Shuffle: Towards High-Resolution Image Generation with Autoregressive Models  [[PDF](https://arxiv.org/abs/2504.17789)]
 
+[arxiv 2025.05]  TensorAR: Refinement is All You Need in Autoregressive Image Generation [[PDF](https://arxiv.org/pdf/2505.16324)]
+
 
 [arxiv 2025.05]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -1032,7 +1037,9 @@
 
 [arxiv 2025.04] Anchor Token Matching: Implicit Structure Locking for Training-free AR Image Editing  [[PDF](https://arxiv.org/abs/2504.10434),[Page](https://github.com/hutaiHang/ATM)] ![Code](https://img.shields.io/github/stars/hutaiHang/ATM?style=social&label=Star)
 
+[arxiv 2025.05] Context-Aware Autoregressive Models for Multi-Conditional Image Generation  [[PDF](https://arxiv.org/abs/2505.12274)]
 [arxiv 2025.05]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
+
 
 ## autoregressive concept
 [arxiv 2025.04] Personalized Text-to-Image Generation with Auto-Regressive Models  [[PDF](https://arxiv.org/abs/2504.13162),[Page](https://github.com/KaiyueSun98/T2I-Personalization-with-AR)] ![Code](https://img.shields.io/github/stars/KaiyueSun98/T2I-Personalization-with-AR?style=social&label=Star)
@@ -1164,6 +1171,8 @@
 [arxiv 2025.04] TryOffDiff: Virtual-Try-Off via High-Fidelity Garment Reconstruction using Diffusion Models  [[PDF](https://arxiv.org/abs/2411.18350),[Page](https://rizavelioglu.github.io/tryoffdiff/)] ![Code](https://img.shields.io/github/stars/rizavelioglu/tryoffdiff/?style=social&label=Star)
 
 [arxiv 2025.04] 3DV-TON: Textured 3D-Guided Consistent Video Try-on via Diffusion Models  [[PDF](https://arxiv.org/abs/2504.17414),[Page](https://2y7c3.github.io/3DV-TON/)]
+
+[arxiv 2025.05]  Pursuing Temporal-Consistent Video Virtual Try-On via Dynamic Pose Interaction [[PDF](https://arxiv.org/abs/2505.16980)]
 
 
 [arxiv 2025.05]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
@@ -2585,12 +2594,17 @@ Creative Layout-to-Image Generation [[PDF](https://arxiv.org/pdf/2412.03859),[Pa
 
 [arxiv 2025.04]  A Training-Free Style-aligned Image Generation with Scale-wise Autoregressive Model[[PDF](https://arxiv.org/abs/2504.06144)]
 
+[arxiv 2025.05] Style Transfer with Diffusion Models for Synthetic-to-Real Domain Adaptation  [[PDF](https://arxiv.org/abs/2505.16360),[Page](https://github.com/echigot/cactif)] ![Code](https://img.shields.io/github/stars/echigot/cactif?style=social&label=Star)
+
 
 [arxiv 2025.05]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 
 ## RAG
 [arxiv 2025.02]  ImageRAG: Dynamic Image Retrieval for Reference-Guided Image Generation [[PDF](https://arxiv.org/pdf/2502.09411),[Page](https://rotem-shalev.github.io/ImageRAG)] ![Code](https://img.shields.io/github/stars/rotem-shalev/ImageRAG?style=social&label=Star)
+
+[arxiv 2025.05] IA-T2I: Internet-Augmented Text-to-Image Generation  [[PDF](https://arxiv.org/abs/2505.15779)]
+
 
 [arxiv 2025.05]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -3061,6 +3075,14 @@ Creative Layout-to-Image Generation [[PDF](https://arxiv.org/pdf/2412.03859),[Pa
 
 [arxiv 2025.05] WorldGenBench: A World-Knowledge-Integrated Benchmark for Reasoning-Driven Text-to-Image Generation  [[PDF](https://arxiv.org/abs/2505.01490),[Page](https://dwanzhang-ai.github.io/WorldGenBench/)] 
 
+[arxiv 2025.05] T2I-ConBench: Text-to-Image Benchmark for Continual Post-training  [[PDF](https://arxiv.org/abs/2505.16875),[Page](https://k1nght.github.io/T2I-ConBench/)] ![Code](https://img.shields.io/github/stars/K1nght/T2I-ConBench?style=social&label=Star)
+
+[arxiv 2025.05]  CineTechBench: A Benchmark for Cinematographic Technique Understanding and Generation [[PDF](http://arxiv.org/abs/2505.15145),[Page](https://github.com/PRIS-CV/CineTechBench)] ![Code](https://img.shields.io/github/stars/PRIS-CV/CineTechBench?style=social&label=Star)
+
+[arxiv 2025.05] VisualQuality-R1: Reasoning-Induced Image Quality Assessment via Reinforcement Learning to Rank  [[PDF](https://arxiv.org/abs/2505.14460),[Page](https://github.com/TianheWu/VisualQuality-R1)] ![Code](https://img.shields.io/github/stars/TianheWu/VisualQuality-R1?style=social&label=Star)
+
+[arxiv 2025.05] VTBench: Evaluating Visual Tokenizers for Autoregressive Image Generation  [[PDF](https://arxiv.org/pdf/2505.13439),[Page](https://github.com/huawei-lin/VTBench)] ![Code](https://img.shields.io/github/stars/huawei-lin/VTBench?style=social&label=Star)
+
 [arxiv 2025.05]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 
@@ -3117,7 +3139,9 @@ Creative Layout-to-Image Generation [[PDF](https://arxiv.org/pdf/2412.03859),[Pa
 
 [arxiv 2025.05]  Flow-GRPO: Training Flow Matching Models via Online RL [[PDF](https://arxiv.org/abs/2505.05470),[Page](https://github.com/yifan123/flow_grpo)] ![Code](https://img.shields.io/github/stars/yifan123/flow_grpo?style=social&label=Star)
 
+[arxiv 2025.05] VARD: Efficient and Dense Fine-Tuning for Diffusion Models with Value-based RL  [[PDF](https://arxiv.org/abs/2505.15791)]
 
+[arxiv 2025.05] Diffusion-NPO: Negative Preference Optimization for Better Preference Aligned Generation of Diffusion Models [[PDF](https://arxiv.org/abs/2505.11245),[Page](https://github.com/G-U-N/Diffusion-NPO)] ![Code](https://img.shields.io/github/stars/G-U-N/Diffusion-NPO?style=social&label=Star)
 
 [arxiv 2025.05]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
