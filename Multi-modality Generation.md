@@ -9,10 +9,6 @@
 
 
 
-
-
-
-
 ## Feedback 
 [arxiv 2025.02] DAMO: Data- and Model-aware Alignment of Multi-modal LLMs  [[PDF](https://arxiv.org/abs/2502.01943),[Page](https://github.com/injadlu/DAMO)] ![Code](https://img.shields.io/github/stars/injadlu/DAMO?style=social&label=Star) 
 
@@ -28,6 +24,7 @@
 
 [arxiv 2025.05] Skywork-VL Reward: An Effective Reward Model for Multimodal Understanding and Reasoning  [[PDF](https://arxiv.org/abs/2505.07263),[Page](https://huggingface.co/Skywork/Skywork-VL-Reward-7B)] 
 
+[arxiv 2025.05]  One RL to See Them All: Visual Triple Unified Reinforcement Learning [[PDF](https://arxiv.org/abs/2505.18129),[Page](https://github.com/MiniMax-AI/One-RL-to-See-Them-All)] ![Code](https://img.shields.io/github/stars/MiniMax-AI/One-RL-to-See-Them-All?style=social&label=Star) 
 
 [arxiv 2025.05]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
 
@@ -206,6 +203,7 @@
 
 [arxiv 2025.05] VideoEval-Pro: Robust and Realistic Long Video Understanding Evaluation  [[PDF](https://arxiv.org/abs/2505.14640),[Page](https://tiger-ai-lab.github.io/VideoEval-Pro/home_page.html)] ![Code](https://img.shields.io/github/stars/TIGER-AI-Lab/VideoEval-Pro?style=social&label=Star) 
 
+[arxiv 2025.05] Deep Video Discovery: Agentic Search with Tool Use for Long-form Video Understanding  [[PDF](https://arxiv.org/abs/2505.18079)]
 
 [arxiv 2025.05]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
 
@@ -276,6 +274,9 @@
 
 [arxiv 2025.05]  UniGen: Enhanced Training & Test-Time Strategies for Unified Multimodal Understanding and Generation [[PDF](https://arxiv.org/abs/2505.14682)]
 
+[arxiv 2025.05] Co-Reinforcement Learning for Unified Multimodal Understanding and Generation  [[PDF](https://arxiv.org/abs/2505.17534)]
+
+
 [arxiv 2025.05]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
 
 
@@ -335,7 +336,7 @@
 
 [arxiv 2025.02] From 16-Bit to 1-Bit: Visual KV Cache Quantization for Memory-Efficient Multimodal Large Language Models  [[PDF](https://arxiv.org/abs/2502.14882)]
 
-[arxiv 2025.03]  Token-Efficient Long Video Understanding for Multimodal LLMs [[PDF](https://arxiv.org/pdf/2503.04130),[Page](https://research.nvidia.com/labs/lpr/storm/)] 
+[arxiv 2025.03]  Token-Efficient Long Video Understanding for Multimodal LLMs [[PDF](https://arxiv.org/pdf/2503.04130)]
 
 [arxiv 2025.05]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
 
@@ -354,7 +355,7 @@
 
 [arxiv 2025.05] UniCTokens: Boosting Personalized Understanding and Generation via Unified Concept Tokens  [[PDF](https://arxiv.org/abs/2505.14671),[Page](https://github.com/arctanxarc/UniCTokens)] ![Code](https://img.shields.io/github/stars/arctanxarc/UniCTokens?style=social&label=Star) 
 
-[arxiv 2025.05]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
+[arxiv 2025.05] Slot-MLLM: Object-Centric Visual Tokenization for Multimodal LLM  [[PDF](https://arxiv.org/abs/2505.17726),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
 
 
 [arxiv 2025.05]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
