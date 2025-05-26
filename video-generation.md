@@ -551,8 +551,9 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2025.05] Self-Rewarding Large Vision-Language Models for Optimizing Prompts in Text-to-Image Generation  [[PDF](https://arxiv.org/abs/2505.16763)]
 
-[arxiv 2025.05]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
+[arxiv 2025.05] Model Already Knows the Best Noise: Bayesian Active Noise Selection via Attention in Video Diffusion Model  [[PDF](https://arxiv.org/abs/2505.17561),[Page](https://anse-project.github.io/anse-project/)] 
 
+[arxiv 2025.05]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 ## loss 
 [arxiv 2025.04]  REPA-E: Unlocking VAE for End-to-End Tuning with Latent Diffusion Transformers [[PDF](https://arxiv.org/abs/2504.10483),[Page](https://end2end-diffusion.github.io/)] ![Code](https://img.shields.io/github/stars/End2End-Diffusion/REPA-E?style=social&label=Star)
@@ -706,6 +707,7 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2025.04] FreePCA: Integrating Consistency Information across Long-short Frames in Training-free Long Video Generation via Principal Component Analysis  [[PDF](https://arxiv.org/abs/2505.01172),[Page](https://github.com/JosephTiTan/FreePCA)] ![Code](https://img.shields.io/github/stars/JosephTiTan/FreePCA?style=social&label=Star)
 
+[arxiv 2025.05]  InfLVG: Reinforce Inference-Time Consistent Long Video Generation with GRPO [[PDF](https://arxiv.org/abs/2505.17574),[Page](https://github.com/MAPLE-AIGC/InfLVG)] ![Code](https://img.shields.io/github/stars/MAPLE-AIGC/InfLVG?style=social&label=Star)
 
 
 [arxiv 2025.05]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
@@ -891,6 +893,8 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2025.04] OmniVDiff: Omni Controllable Video Diffusion for Generation and Understanding  [[PDF](https://arxiv.org/abs/2504.10825),[Page](https://tele-ai.github.io/OmniVDiff/)] ![Code](https://img.shields.io/github/stars/Tele-AI/OmniVDiff?style=social&label=Star)
 
+[arxiv 2025.05]  WonderPlay: Dynamic 3D Scene Generation from a Single Image and Actions [[PDF](https://arxiv.org/abs/2505.18151),[Page](https://kyleleey.github.io/WonderPlay/)] ![Code](https://img.shields.io/github/stars/kyleleey/WonderPlay?style=social&label=Star)
+
 
 [arxiv 2025.05]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -1002,6 +1006,8 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 [arxiv 2025.04]  Unifying Precisely 3D-Enhanced Camera and Human Motion Controls for Video Generation [[PDF](https://arxiv.org/abs/2504.14899),[Page](https://ewrfcas.github.io/Uni3C/)] ![Code](https://img.shields.io/github/stars/ewrfcas/Uni3C?style=social&label=Star)
 
 [arxiv 2025.05] AnimateAnywhere: Rouse the Background in Human Image Animation  [[PDF](https://arxiv.org/pdf/2404.06451v1.pdf),[Page](https://animateanywhere.github.io/)] ![Code](https://img.shields.io/github/stars/liuxiaoyu1104/AnimateAnywhere?style=social&label=Star)
+
+,:[arxiv 2025.05] DanceTogether! Identity-Preserving Multi-Person Interactive Video Generation  [[PDF](https://arxiv.org/abs/2505.18078),[Page](https://dancetog.github.io/)] ![Code](https://img.shields.io/github/stars/yisuanwang/DanceTog?style=social&label=Star)
 
 
 [arxiv 2025.05]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
@@ -1553,6 +1559,13 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 [arxiv 2025.05]  FlowDubber: Movie Dubbing with LLM-based Semantic-aware Learning and Flow Matching based Voice Enhancing [[PDF](https://arxiv.org/abs/2505.01263),[Page](https://galaxycong.github.io/LLM-Flow-Dubber/)] 
 
 [arxiv 2025.05]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
+
+
+# duplex 
+[arxiv 2025.05]  DualTalk: Dual-Speaker Interaction for 3D Talking Head Conversations [[PDF](https://arxiv.org/pdf/2505.18096),[Page](https://ziqiaopeng.github.io/dualtalk/)] 
+
+[arxiv 2025.05]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
+
 
 
 
