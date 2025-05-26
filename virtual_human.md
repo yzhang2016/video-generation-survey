@@ -198,6 +198,7 @@
 
 [arxiv 2025.05]  Large-Scale Multi-Character Interaction Synthesis [[PDF](https://arxiv.org/abs/2505.14087)]
 
+[arxiv 2025.05]  Multi-Person Interaction Generation from Two-Person Motion Priors [[PDF](https://arxiv.org/pdf/2505.17860)]
 
 [arxiv 2025.05]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
