@@ -492,8 +492,9 @@
 
 [arxiv 2025.05] MDE-Edit: Masked Dual-Editing for Multi-Object Image Editing via Diffusion Models  [[PDF](https://arxiv.org/pdf/2505.05101)]
 
-[arxiv 2025.05]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
+[arxiv 2025.05]  R-Genie: Reasoning-Guided Generative Image Editing [[PDF](https://arxiv.org/abs/2505.17768),[Page](https://dongzhang89.github.io/RGenie.github.io/)] ![Code](https://img.shields.io/github/stars/HE-Lingfeng/R-Genie-public?style=social&label=Star)
 
+[arxiv 2025.05]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 
 
@@ -944,6 +945,7 @@
 
 [arxiv 2025.04] GigaTok: Scaling Visual Tokenizers to 3 Billion Parameters for Autoregressive Image Generation  [[PDF](https://arxiv.org/abs/2504.08736),[Page](https://silentview.github.io/GigaTok/)] ![Code](https://img.shields.io/github/stars/SilentView/GigaTok?style=social&label=Star)
 
+[arxiv 2025.05]  TokBench: Evaluating Your Visual Tokenizer before Visual Generation [[PDF](https://arxiv.org/pdf/2505.18142),[Page](https://wjf5203.github.io/TokBench/)] ![Code](https://img.shields.io/github/stars/wjf5203/TokBench?style=social&label=Star)
 
 [arxiv 2025.05]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -1231,6 +1233,7 @@
 
 [arxiv 2025.05]  FLUX-Text: A Simple and Advanced Diffusion Transformer Baseline for Scene Text Editing [[PDF](https://arxiv.org/abs/2505.03329)]
 
+[arxiv 2025.05]  TextFlux: An OCR-Free DiT Model for High-Fidelity Multilingual Scene Text Synthesis [[PDF](https://arxiv.org/abs/2505.17778),[Page](https://yyyyyxie.github.io/textflux-site/)] ![Code](https://img.shields.io/github/stars/yyyyyxie/textflux?style=social&label=Star)
 
 [arxiv 2025.05]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -2424,6 +2427,7 @@ Creative Layout-to-Image Generation [[PDF](https://arxiv.org/pdf/2412.03859),[Pa
 
 [arxiv 2025.05]  EAM: Enhancing Anything with Diffusion Transformers for Blind Super-Resolution [[PDF](https://arxiv.org/pdf/2505.05209)]
 
+[arxiv 2025.05] RestoreVAR: Visual Autoregressive Generation for All-in-One Image Restoration  [[PDF](https://arxiv.org/abs/2505.18047),[Page](https://sudraj2002.github.io/restorevarpage/)] ![Code](https://img.shields.io/github/stars/sudraj2002/RestoreVAR?style=social&label=Star)
 
 [arxiv 2025.05]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
