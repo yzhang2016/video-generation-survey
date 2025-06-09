@@ -664,12 +664,14 @@
 
 [arxiv 2025.06]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
+# VLM guided Generation
+[arxiv 2025.06] Dual-Process Image Generation  [[PDF](https://arxiv.org/abs/2506.01955),[Page](https://dual-process.github.io/)] ![Code](https://img.shields.io/github/stars/https://github.com/g-luo/dual_process?style=social&label=Star)
+
+[arxiv 2025.06]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 
 ## Chat for editing 
 [arxiv 2024.12] ChatDiT: A Training-Free Baseline for Task-Agnostic Free-Form Chatting with Diffusion Transformers  [[PDF](https://arxiv.org/abs/2412.12571),[Page](https://github.com/ali-vilab/ChatDiT)] ![Code](https://img.shields.io/github/stars/ali-vilab/ChatDiT?style=social&label=Star)
-
-
 
 
 ## Instruct for editing 
@@ -908,6 +910,9 @@
 [arxiv 2025.05] DetailMaster: Can Your Text-to-Image Model Handle Long Prompts?  [[PDF](https://arxiv.org/abs/2505.16915)]
 
 [arxiv 2025.05]  Harnessing Caption Detailness for Data-Efficient Text-to-Image Generation[[PDF](https://arxiv.org/abs/2505.15172)]
+
+[arxiv 2025.06]  IMAGHarmony: Controllable Image Editing with Consistent Object Quantity and Layout [[PDF](https://arxiv.org/abs/2506.01949),[Page](https://github.com/muzishen/IMAGHarmony)] ![Code](https://img.shields.io/github/stars/muzishen/IMAGHarmony?style=social&label=Star)
+
  
 [arxiv 2025.06]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
