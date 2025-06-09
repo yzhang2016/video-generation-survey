@@ -714,7 +714,10 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 
 
+## robot 
+[arxiv 2025.06] Learning Video Generation for Robotic Manipulation with Collaborative Trajectory Control  [[PDF](https://arxiv.org/abs/2506.01943),[Page](https://fuxiao0719.github.io/projects/robomaster/)] ![Code](https://img.shields.io/github/stars/KwaiVGI/RoboMaster?style=social&label=Star)
 
+[arxiv 2025.06]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 
 ## sound generation 
@@ -1757,6 +1760,7 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2025.03] VEGGIE: Instructional Editing and Reasoning Video Concepts with Grounded Generation  [[PDF](VEGGIE: Instructional Editing and Reasoning of Video Concepts with Grounded Generation),[Page](https://veggie-gen.github.io/)] ![Code](https://img.shields.io/github/stars/Yui010206/VEGGIE-VidEdit/?style=social&label=Star)
 
+[arxiv 2025.06] Many-for-Many: Unify the Training of Multiple Video and Image Generation and Manipulation Tasks  [[PDF](https://arxiv.org/abs/2506.01758),[Page](https://github.com/leeruibin/MfM)] ![Code](https://img.shields.io/github/stars/leeruibin/MfM?style=social&label=Star)
 
 
 
