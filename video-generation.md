@@ -222,6 +222,8 @@ A reading list of video generation
 
 [arxiv 2025.04] D2iT: Dynamic Diffusion Transformer for Accurate Image Generation  [[PDF](https://arxiv.org/pdf/2504.09454),[Page](https://github.com/jiawn-creator/Dynamic-DiT)] ![Code](https://img.shields.io/github/stars/jiawn-creator/Dynamic-DiT?style=social&label=Star)
 
+[arxiv 2025.06]  Hi-VAE: Efficient Video Autoencoding with Global and Detailed Motion [[PDF](https://arxiv.org/pdf/2506.07136)]
+
 
 [arxiv 2025.06]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -709,8 +711,21 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2025.05]  InfLVG: Reinforce Inference-Time Consistent Long Video Generation with GRPO [[PDF](https://arxiv.org/abs/2505.17574),[Page](https://github.com/MAPLE-AIGC/InfLVG)] ![Code](https://img.shields.io/github/stars/MAPLE-AIGC/InfLVG?style=social&label=Star)
 
+[arxiv 2025.06] LumosFlow: Motion-Guided Long Video Generation  [[PDF](https://arxiv.org/abs/2506.02497),[Page](https://jiahaochen1.github.io/LumosFlow/)]
+
+[arxiv 2025.06] Self Forcing: Bridging the Train-Test Gap in Autoregressive Video Diffusion  [[PDF](https://arxiv.org/pdf/2506.08009),[Page](https://self-forcing.github.io/)] ![Code](https://img.shields.io/github/stars/guandeh17/Self-Forcing?style=social&label=Star)
+
 
 [arxiv 2025.06]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
+
+
+## memory
+[arxiv 2025.06]  Context as Memory: Scene-Consistent Interactive Long Video Generation with Memory Retrieval [[PDF](https://arxiv.org/abs/2506.03141),[Page](https://context-as-memory.github.io/)]
+
+[arxiv 2025.06] Video World Models with Long-term Spatial Memory  [[PDF](http://arxiv.org/abs/2506.05284),[Page](https://spmem.github.io/)] 
+
+[arxiv 2025.06]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
+
 
 
 
@@ -897,6 +912,12 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 [arxiv 2025.04] OmniVDiff: Omni Controllable Video Diffusion for Generation and Understanding  [[PDF](https://arxiv.org/abs/2504.10825),[Page](https://tele-ai.github.io/OmniVDiff/)] ![Code](https://img.shields.io/github/stars/Tele-AI/OmniVDiff?style=social&label=Star)
 
 [arxiv 2025.05]  WonderPlay: Dynamic 3D Scene Generation from a Single Image and Actions [[PDF](https://arxiv.org/abs/2505.18151),[Page](https://kyleleey.github.io/WonderPlay/)] ![Code](https://img.shields.io/github/stars/kyleleey/WonderPlay?style=social&label=Star)
+
+[arxiv 2025.06] IllumiCraft: Unified Geometry and Illumination Diffusion for Controllable Video Generation  [[PDF](https://arxiv.org/abs/2506.03150),[Page](https://yuanze-lin.me/IllumiCraft_page)] 
+
+[arxiv 2025.06] FullDiT2: Efficient In-Context Conditioning for Video Diffusion Transformers  [[PDF](https://arxiv.org/abs/2506.04213),[Page](https://fulldit2.github.io/)] 
+
+[arxiv 2025.06] Follow-Your-Motion: Video Motion Transfer via Efficient Spatial-Temporal Decoupled Finetuning  [[PDF](https://arxiv.org/abs/2506.05207),[Page](https://follow-your-motion.github.io/)] ![Code](https://img.shields.io/github/stars/mayuelala/FollowYourMotion?style=social&label=Star)
 
 
 [arxiv 2025.06]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
@@ -1144,6 +1165,7 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2025.04] Dynamic Camera Poses and Where to Find Them  [[PDF](https://arxiv.org/abs/2504.17788),[Page](https://research.nvidia.com/labs/dir/dynpose-100k/)] 
 
+[arxiv 2025.06]  CamCloneMaster: Enabling Reference-based Camera Control for Video Generation [[PDF](https://arxiv.org/abs/2506.03140),[Page](https://camclonemaster.github.io/)] 
 
 [arxiv 2025.06]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -1183,6 +1205,7 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2025.06]  MiniMax-Remover: Taming Bad Noise Helps Video Object Removal [[PDF](https://arxiv.org/abs/2505.24873),[Page](https://minimax-remover.github.io/)] ![Code](https://img.shields.io/github/stars/zibojia/MiniMax-Remover?style=social&label=Star)
 
+[arxiv 2025.06]  Follow-Your-Creation: Empowering 4D Creation through Video Inpainting [[PDF](https://arxiv.org/abs/2506.04590),[Page](https://follow-your-creation.github.io/)] ![Code](https://img.shields.io/github/stars/mayuelala/FollowYourCreation?style=social&label=Star)
 
 [arxiv 2025.06]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -1240,6 +1263,12 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 [arxiv 2025.04]  RepNet-VSR: Reparameterizable Architecture for High-Fidelity Video Super-Resolution [[PDF](https://arxiv.org/abs/2504.15649)]
 
 [arxiv 2025.05]  DOVE: Efficient One-Step Diffusion Model for Real-World Video Super-Resolution [[PDF](https://arxiv.org/pdf/2505.16239),[Page](https://github.com/zhengchen1999/DOVE)] ![Code](https://img.shields.io/github/stars/zhengchen1999/DOVE?style=social&label=Star)
+
+[arxiv 2025.06] SeedVR2: One-Step Video Restoration via Diffusion Adversarial Post-Training  [[PDF](https://arxiv.org/abs/2506.05301),[Page](https://iceclear.github.io/projects/seedvr2/)] ![Code](https://img.shields.io/github/stars/IceClear/SeedVR2?style=social&label=Star)
+
+[arxiv 2025.06]  DualX-VSR: Dual Axial Spatial×Temporal Transformer for Real-World Video Super-Resolution without Motion Compensation [[PDF](https://arxiv.org/pdf/2506.04830)]
+
+[arxiv 2025.06] LiftVSR: Lifting Image Diffusion to Video Super-Resolution via Hybrid Temporal Modeling with Only 4  [[PDF](https://arxiv.org/abs/2506.08529),[Page](https://kopperx.github.io/projects/liftvsr)] ![Code](https://img.shields.io/github/stars/kopperx/LiftVSR?style=social&label=Star)
 
 
 [arxiv 2025.06]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
@@ -1339,6 +1368,8 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2025.04]  Aligning Anime Video Generation with Human Feedback [[PDF](https://arxiv.org/pdf/2504.10044)]
 
+[arxiv 2025.06] LayerFlow: A Unified Model for Layer-aware Video Generation  [[PDF](https://arxiv.org/abs/2506.04228),[Page](https://sihuiji.github.io/LayerFlow-Page/)] ![Code](https://img.shields.io/github/stars/SihuiJi/LayerFlow?style=social&label=Star)
+
 
 [arxiv 2025.06]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -1417,10 +1448,14 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2025.05]  HunyuanCustom: A Multimodal-Driven Architecture for Customized Video Generation [[PDF](https://arxiv.org/pdf/2505.04512),[Page](https://hunyuancustom.github.io/)] ![Code](https://img.shields.io/github/stars/Tencent/HunyuanCustom?style=social&label=Star)
 
+[arxiv 2025.06] HunyuanVideo-HOMA: Generic Human-Object Interaction in Multimodal Driven Human Animation  [[PDF](https://arxiv.org/pdf/2506.08797),[Page](https://anonymous.4open.science/w/homa-page-0FBE/)] ![Code](https://img.shields.io/github/stars/?style=social&label=Star)
+
 
 [arxiv 2025.06]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 
+## shot
+[arxiv 2025.06] AnimeShooter: A Multi-Shot Animation Dataset for Reference-Guided Video Generation  [[PDF](https://arxiv.org/abs/2506.03126),[Page](https://qiulu66.github.io/animeshooter/)] ![Code](https://img.shields.io/github/stars/qiulu66/Anime-Shooter?style=social&label=Star)
 
 
 ## relation 
@@ -1555,7 +1590,18 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2025.05]  HunyuanCustom: A Multimodal-Driven Architecture for Customized Video Generation [[PDF](https://arxiv.org/pdf/2505.04512),[Page](https://hunyuancustom.github.io/)] ![Code](https://img.shields.io/github/stars/Tencent/HunyuanCustom?style=social&label=Star)
 
+[arxiv 2025.06]  Seeing Voices: Generating A-Roll Video from Audio with Mirage [[PDF](https://arxiv.org/abs/2506.08279),[Page](http://mirage.app/research/seeing-voices)] 
+
+[arxiv 2025.06]  HunyuanVideo-Avatar: High-Fidelity Audio-Driven Human Animation for Multiple Characters [[PDF](https://arxiv.org/pdf/2505.20156),[Page](https://hunyuanvideo-avatar.github.io/)] ![Code](https://img.shields.io/github/stars/Tencent-Hunyuan/HunyuanVideo-Avatar?style=social&label=Star)
+
 [arxiv 2025.06]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
+
+
+## Conversation Video Generation 
+[arxiv 2025.06]  Let Them Talk: Audio-Driven Multi-Person Conversational Video Generation [[PDF](https://arxiv.org/abs/2505.22647),[Page](https://meigen-ai.github.io/multi-talk/)] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
+
+[arxiv 2025.06]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
+
 
 
 # video dubbing
@@ -1697,6 +1743,8 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2025.04] Video4DGen: Enhancing Video and 4D Generation through Mutual Optimization  [[PDF](https://arxiv.org/abs/2504.04153),[Page](https://video4dgen.github.io/)] ![Code](https://img.shields.io/github/stars/yikaiw/Vidu4D?style=social&label=Star)
 
+[arxiv 2025.06] ORV: 4D Occupancy-centric Robot Video Generation  [[PDF](https://arxiv.org/abs/2506.03079),[Page](https://orangesodahub.github.io/ORV/)] ![Code](https://img.shields.io/github/stars/OrangeSodahub/ORV?style=social&label=Star)
+
 
 [arxiv 2025.06]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -1732,6 +1780,8 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2025.04] KeyVID: Keyframe-Aware Video Diffusion for Audio-Synchronized Visual Animation  [[PDF](https://arxiv.org/pdf/2504.09656),[Page](https://github.com/XingruiWang/KeyVID)] ![Code](https://img.shields.io/github/stars/XingruiWang/KeyVID?style=social&label=Star)
 
+[arxiv 2025.06]  Audio-Sync Video Generation with Multi-Stream Temporal Control [[PDF](https://arxiv.org/pdf/2506.08003),[Page](https://hjzheng.net/projects/MTV/)] ![Code](https://img.shields.io/github/stars/suimuc/MTV_Framework?style=social&label=Star)
+
 
 [arxiv 2025.06]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -1762,6 +1812,7 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2025.06] Many-for-Many: Unify the Training of Multiple Video and Image Generation and Manipulation Tasks  [[PDF](https://arxiv.org/abs/2506.01758),[Page](https://github.com/leeruibin/MfM)] ![Code](https://img.shields.io/github/stars/leeruibin/MfM?style=social&label=Star)
 
+[arxiv 2025.06]  UNIC: Unified In-Context Video Editing [[PDF](https://zixuan-ye.github.io/UNIC/YOUR_PAPER_LINK_HERE),[Page](https://zixuan-ye.github.io/UNIC/)] 
 
 
 [arxiv 2025.06]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
@@ -1848,7 +1899,10 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2025.05]  DAPE: Dual-Stage Parameter-Efficient Fine-Tuning for Consistent Video Editing with Diffusion Models [[PDF](https://arxiv.org/abs/2505.07057),[Page](https://junhaoooxia.github.io/DAPE.github.io/)] ![Code](https://img.shields.io/github/stars/junhaoooxia/DAPE.github.io?style=social&label=Star)
 
-[arxiv 2025.06]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
+[arxiv 2025.06] FlowDirector: Training-Free Flow Steering for Precise Text-to-Video Editing  [[PDF](https://arxiv.org/abs/2506.05046),[Page](https://flowdirector-edit.github.io/)] ![Code](https://img.shields.io/github/stars/Westlake-AGI-Lab/FlowDirector?style=social&label=Star)
+
+[arxiv 2025.06] FADE: Frequency-Aware Diffusion Model Factorization for Video Editing  [[PDF](https://arxiv.org/abs/2506.05934),[Page](https://github.com/EternalEvan/FADE)] ![Code](https://img.shields.io/github/stars/EternalEvan/FADE?style=social&label=Star)
+
 
 [arxiv 2025.06]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -2049,6 +2103,8 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2025.05] TimeTracker: Event-based Continuous Point Tracking for Video Frame Interpolation with Non-linear Motion  [[PDF](https://arxiv.org/abs/2505.03116)】
 
+[arxiv 2025.06]  Controllable Human-centric Keyframe Interpolation with Generative Prior [[PDF](https://arxiv.org/abs/2506.03119),[Page](https://gseancdat.github.io/projects/PoseFuse3D_KI)] ![Code](https://img.shields.io/github/stars/GSeanCDAT/PoseFuse3D-KI?style=social&label=Star)
+
 
 [arxiv 2025.06]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -2075,6 +2131,7 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2025.03]  SOYO: A Tuning-Free Approach for Video Style Morphing via Style-Adaptive Interpolation in Diffusion Models [[PDF](https://arxiv.org/pdf/2503.06998)]
 
+[arxiv 2025.06]  Dreamland: Controllable World Creation with Simulator and Generative Models [[PDF](https://www.arxiv.org/abs/2506.08006),[Page](https://metadriverse.github.io/dreamland/)] 
 
 [arxiv 2025.06]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -2243,6 +2300,15 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2025.05]  QVGen: Pushing the Limit of Quantized Video Generative Models [[PDF](https://arxiv.org/abs/2505.11497)]
 
+[arxiv 2025.06]  DCM: Dual-Expert Consistency Model for Efficient and High-Quality Video Generation [[PDF](https://arxiv.org/abs/2506.03123),[Page](https://github.com/Vchitect/DCM)] ![Code](https://img.shields.io/github/stars/Vchitect/DCM?style=social&label=Star)
+
+[arxiv 2025.06] Sparse-vDiT: Unleashing the Power of Sparse Attention to Accelerate Video Diffusion Transformers  [[PDF](https://arxiv.org/abs/2506.03065),[Page](https://github.com/Peyton-Chen/Sparse-vDiT)] ![Code](https://img.shields.io/github/stars/Peyton-Chen/Sparse-vDiT?style=social&label=Star)
+
+[arxiv 2025.06]  FPSAttention: Training-Aware FP8 and Sparsity Co-Design for Fast Video Diffusion [[PDF](https://arxiv.org/abs/2506.04648),[Page](https://fps.ziplab.co/)] 
+
+[arxiv 2025.06] MagCache: Fast Video Generation with Magnitude-Aware Cache  [[PDF](https://arxiv.org/abs/2506.09045),[Page](https://zehong-ma.github.io/MagCache/)] ![Code](https://img.shields.io/github/stars/Zehong-Ma/MagCache?style=social&label=Star)
+
+
 [arxiv 2025.06]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 
@@ -2331,6 +2397,9 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2025.05] Vid2World: Crafting Video Diffusion Models to Interactive World Models  [[PDF](https://arxiv.org/abs/2505.14357),[Page](https://knightnemo.github.io/vid2world/)] 
 
+[arxiv 2025.06]  Voyager: Long-Range and World-Consistent Video Diffusion for Explorable 3D Scene Generation [[PDF](https://arxiv.org/abs/2506.04225),[Page](https://voyager-world.github.io/)] ![Code](https://img.shields.io/github/stars/Voyager-World/Voyager?style=social&label=Star)
+
+
 [arxiv 2025.06]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 
@@ -2397,6 +2466,7 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2025.05] DanceGRPO: Unleashing GRPO on Visual Generation  [[PDF](https://arxiv.org/abs/2505.07818),[Page](https://dancegrpo.github.io/)] ![Code](https://img.shields.io/github/stars/XueZeyue/DanceGRPO?style=social&label=Star)
 
+[arxiv 2025.06] DenseDPO: Fine-Grained Temporal Preference Optimization for Video Diffusion Models  [[PDF](https://arxiv.org/abs/2506.03517),[Page](https://snap-research.github.io/DenseDPO/)] 
 
 [arxiv 2025.06]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
