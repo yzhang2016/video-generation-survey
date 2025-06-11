@@ -26,6 +26,9 @@
 
 [arxiv 2025.05]  One RL to See Them All: Visual Triple Unified Reinforcement Learning [[PDF](https://arxiv.org/abs/2505.18129),[Page](https://github.com/MiniMax-AI/One-RL-to-See-Them-All)] ![Code](https://img.shields.io/github/stars/MiniMax-AI/One-RL-to-See-Them-All?style=social&label=Star) 
 
+[arxiv 2025.06] LeanPO: Lean Preference Optimization for Likelihood Alignment in Video-LLMs  [[PDF](https://arxiv.org/abs/2506.05260),[Page](https://github.com/Wang-Xiaodong1899/LeanPO)] ![Code](https://img.shields.io/github/stars/Wang-Xiaodong1899/LeanPO?style=social&label=Star) 
+
+
 [arxiv 2025.06]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
 
 
@@ -173,6 +176,9 @@
 
 [arxiv 2025.05]  Seed1.5-VL Technical Report [[PDF](https://arxiv.org/abs/2505.07062)]
 
+[arxiv 2025.06] HaploVL - A Single-Transformer Baseline for Multi-Modal Understanding  [[PDF](http://arxiv.org/abs/2503.14694),[Page](https://github.com/Tencent/HaploVLM)] ![Code](https://img.shields.io/github/stars/Tencent/HaploVLM?style=social&label=Star) 
+
+
 [arxiv 2025.06]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
 
 
@@ -204,6 +210,9 @@
 [arxiv 2025.05] VideoEval-Pro: Robust and Realistic Long Video Understanding Evaluation  [[PDF](https://arxiv.org/abs/2505.14640),[Page](https://tiger-ai-lab.github.io/VideoEval-Pro/home_page.html)] ![Code](https://img.shields.io/github/stars/TIGER-AI-Lab/VideoEval-Pro?style=social&label=Star) 
 
 [arxiv 2025.05] Deep Video Discovery: Agentic Search with Tool Use for Long-form Video Understanding  [[PDF](https://arxiv.org/abs/2505.18079)]
+
+[arxiv 2025.06]  Movie Facts and Fibs (MF2): A Benchmark for Long Movie Understanding [[PDF](https://arxiv.org/abs/2506.06275)]
+
 
 [arxiv 2025.06]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
 
@@ -328,6 +337,15 @@
 
 [arxiv 2025.06]  SiLVR: A Simple Language-based Video Reasoning Framework [[PDF](https://arxiv.org/abs/2505.24869),[Page](https://sites.google.com/cs.unc.edu/silvr)] ![Code](https://img.shields.io/github/stars/CeeZh/SILVR?style=social&label=Star) 
 
+[arxiv 2025.06] Video-Skill-CoT: Skill-based Chain-of-Thoughts for Domain-Adaptive Video Reasoning  [[PDF](https://arxiv.org/abs/2506.03525),[Page](https://video-skill-cot.github.io/)] ![Code](https://img.shields.io/github/stars/daeunni/Video-Skill-CoT?style=social&label=Star) 
+
+[arxiv 2025.06]  MINT-CoT: Enabling Interleaved Visual Tokens in Mathematical Chain-of-Thought Reasoning [[PDF](https://arxiv.org/abs/2506.05331),[Page](https://github.com/xinyan-cxy/MINT-CoT)] ![Code](https://img.shields.io/github/stars/xinyan-cxy/MINT-CoT?style=social&label=Star) 
+
+[arxiv 2025.06] VideoChat-A1: Thinking with Long Videos by Chain-of-Shot Reasoning  [[PDF](https://arxiv.org/abs/2506.06097)]
+
+[arxiv 2025.06] Play to Generalize: Learning to Reason Through Game Play  [[PDF](https://arxiv.org/abs/2506.08011),[Page](https://github.com/yunfeixie233/ViGaL)] ![Code](https://img.shields.io/github/stars/yunfeixie233/ViGaL?style=social&label=Star) 
+
+[arxiv 2025.06]  DeepVideo-R1: Video Reinforcement Fine-Tuning via Difficulty-aware Regressive GRPO [[PDF](https://arxiv.org/abs/2506.07464)]
 
 [arxiv 2025.06]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
 
@@ -360,6 +378,8 @@
 [arxiv 2025.05] UniCTokens: Boosting Personalized Understanding and Generation via Unified Concept Tokens  [[PDF](https://arxiv.org/abs/2505.14671),[Page](https://github.com/arctanxarc/UniCTokens)] ![Code](https://img.shields.io/github/stars/arctanxarc/UniCTokens?style=social&label=Star) 
 
 [arxiv 2025.05] Slot-MLLM: Object-Centric Visual Tokenization for Multimodal LLM  [[PDF](https://arxiv.org/abs/2505.17726),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
+
+[arxiv 2025.06] UniWorld-V1: High-Resolution Semantic Encoders for Unified Visual Understanding and Generation  [[PDF](https://arxiv.org/abs/2506.03147),[Page](https://github.com/PKU-YuanGroup/UniWorld-V1)] ![Code](https://img.shields.io/github/stars/PKU-YuanGroup/UniWorld-V1?style=social&label=Star) 
 
 
 [arxiv 2025.06]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
