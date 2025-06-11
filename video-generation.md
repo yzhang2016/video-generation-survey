@@ -1590,7 +1590,7 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 
 ## Conversation Video Generation 
-[arxiv 2025.06]  Let Them Talk: Audio-Driven Multi-Person Conversational Video Generation [[PDF](https://arxiv.org/abs/2505.22647),[Page](https://meigen-ai.github.io/multi-talk/)] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
+[arxiv 2025.06]  Let Them Talk: Audio-Driven Multi-Person Conversational Video Generation [[PDF](https://arxiv.org/abs/2505.22647),[Page](https://meigen-ai.github.io/multi-talk/)] ![Code](https://img.shields.io/github/stars/MeiGen-AI/MultiTalk?style=social&label=Star)
 
 [arxiv 2025.06]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
