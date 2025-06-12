@@ -453,6 +453,7 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2025.05] MAGI-1: Autoregressive Video Generation at Scale  [[PDF](https://arxiv.org/abs/2505.13211),[Page](https://github.com/SandAI-org/Magi-1)] ![Code](https://img.shields.io/github/stars/SandAI-org/Magi-1?style=social&label=Star)
 
+[arxiv 2025.06] Seedance 1.0: Exploring the Boundaries of Video Generation Models  [[PDF](https://arxiv.org/abs/2506.09113),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 [arxiv 2025.06]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -555,7 +556,10 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2025.05] Model Already Knows the Best Noise: Bayesian Active Noise Selection via Attention in Video Diffusion Model  [[PDF](https://arxiv.org/abs/2505.17561),[Page](https://anse-project.github.io/anse-project/)] 
 
+[arxiv 2025.06]  Cross-Frame Representation Alignment for Fine-Tuning Video Diffusion Models [[PDF](https://arxiv.org/pdf/2506.09229),[Page](https://crepavideo.github.io/)] ![Code](https://img.shields.io/github/stars/deepshwang/crepa?style=social&label=Star)
+
 [arxiv 2025.06]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
+
 
 ## loss 
 [arxiv 2025.04]  REPA-E: Unlocking VAE for End-to-End Tuning with Latent Diffusion Transformers [[PDF](https://arxiv.org/abs/2504.10483),[Page](https://end2end-diffusion.github.io/)] ![Code](https://img.shields.io/github/stars/End2End-Diffusion/REPA-E?style=social&label=Star)
@@ -730,6 +734,8 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 ## sound generation 
 [arxiv 2024.07] Read, Watch and Scream! Sound Generation from Text and Video
 [[PDF](https://arxiv.org/abs/2407.05551), [Page](https://naver-ai.github.io/rewas)]
+
+[arxiv 2025.06] Hearing Hands: Generating Sounds from Physical Interactions in 3D Scenes  [[PDF](https://openaccess.thecvf.com/content/CVPR2025/papers/Dou_Hearing_Hands_Generating_Sounds_from_Physical_Interactions_in_3D_Scenes_CVPR_2025_paper.pdf),[Page](https://www.yimingdou.com/hearing_hands/)] 
 
 [arxiv 2025.06]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -1576,6 +1582,9 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2025.04]  MoCha: Towards Movie-Grade Talking Character Synthesis [[PDF](https://arxiv.org/abs/2503.23307),[Page](https://congwei1230.github.io/MoCha/)] 
 
+[arxiv 2025.04]  FantasyTalking: Realistic Talking Portrait Generation via Coherent Motion Synthesis [[PDF](https://arxiv.org/abs/2504.04842),[Page](https://fantasy-amap.github.io/fantasy-talking/)] ![Code](https://img.shields.io/github/stars/Fantasy-AMAP/fantasy-talking?style=social&label=Star)
+
+
 [arxiv 2025.04] DreamActor-M1: Holistic, Expressive and Robust Human Image Animation with Hybrid Guidance  [[PDF](https://arxiv.org/abs/2504.01724),[Page](https://grisoon.github.io/DreamActor-M1/)] 
 
 [arxiv 2025.04]  DiTaiListener: Controllable High Fidelity Listener Video Generation with Diffusion [[PDF](https://arxiv.org/abs/2504.04010),[Page](https://havent-invented.github.io/DiTaiListener)] 
@@ -1586,11 +1595,16 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2025.06]  HunyuanVideo-Avatar: High-Fidelity Audio-Driven Human Animation for Multiple Characters [[PDF](https://arxiv.org/pdf/2505.20156),[Page](https://hunyuanvideo-avatar.github.io/)] ![Code](https://img.shields.io/github/stars/Tencent-Hunyuan/HunyuanVideo-Avatar?style=social&label=Star)
 
+[arxiv 2025.06] TalkingMachines:Real-Time Audio-Driven FaceTime-Style Video via Autoregressive Diffusion Models [[PDF](https://arxiv.org/abs/2506.03099),[Page](https://aaxwaz.github.io/TalkingMachines/)] 
+
+
 [arxiv 2025.06]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 
 ## Multi-person talking Video Generation 
 [arxiv 2025.06]  Let Them Talk: Audio-Driven Multi-Person Conversational Video Generation [[PDF](https://arxiv.org/abs/2505.22647),[Page](https://meigen-ai.github.io/multi-talk/)] ![Code](https://img.shields.io/github/stars/MeiGen-AI/MultiTalk?style=social&label=Star)
+
+[arxiv 2025.06] InterActHuman: Multi-Concept Human Animation with Layout-Aligned Audio Conditions  [[PDF](https://arxiv.org/abs/2506.09984),[Page](https://zhenzhiwang.github.io/interacthuman/)] 
 
 [arxiv 2025.06]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -1611,13 +1625,11 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2025.06]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
-
+# Ego
+[arxiv 2025.06]  PlayerOne: Egocentric World Simulator [[PDF](https://arxiv.org/pdf/2506.09995),[Page](https://playerone-hku.github.io/)] ![Code](https://img.shields.io/github/stars/yuanpengtu/PlayerOne?style=social&label=Star)
 
 
 ## Face swapping 
-
-
-
 [arxiv 2024.12] HiFiVFS: High Fidelity Video Face Swapping  [[PDF](https://arxiv.org/abs/2411.18293),[Page](https://cxcx1996.github.io/HiFiVFS/)] 
 
 [arxiv 2025.03] High-Fidelity Diffusion Face Swapping with ID-Constrained Facial Conditioning  [[PDF](https://arxiv.org/abs/2503.22179)]
@@ -2300,6 +2312,8 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2025.06] MagCache: Fast Video Generation with Magnitude-Aware Cache  [[PDF](https://arxiv.org/abs/2506.09045),[Page](https://zehong-ma.github.io/MagCache/)] ![Code](https://img.shields.io/github/stars/Zehong-Ma/MagCache?style=social&label=Star)
 
+[arxiv 2025.06]  Autoregressive Adversarial Post-Training for Real-Time Interactive Video Generation [[PDF](https://arxiv.org/abs/2506.09350),[Page](https://seaweed-apt.com/2)] 
+
 
 [arxiv 2025.06]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -2391,6 +2405,7 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2025.06]  Voyager: Long-Range and World-Consistent Video Diffusion for Explorable 3D Scene Generation [[PDF](https://arxiv.org/abs/2506.04225),[Page](https://voyager-world.github.io/)] ![Code](https://img.shields.io/github/stars/Voyager-World/Voyager?style=social&label=Star)
 
+[arxiv 2025.06] V-JEPA 2: Self-Supervised Video Models Enable Understanding, Prediction and Planning  [[PDF](https://arxiv.org/abs/2506.09985),[Page](https://github.com/facebookresearch/vjepa2)] ![Code](https://img.shields.io/github/stars/facebookresearch/vjepa2?style=social&label=Star)
 
 [arxiv 2025.06]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -2438,6 +2453,7 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2025.03] MiLA: Multi-view Intensive-fidelity Long-term Video Generation World Model for Autonomous Driving  [[PDF](https://xiaomi-mlab.github.io/mila.github.io/),[Page](https://github.com/xiaomi-mlab/mila.github.io)] ![Code](https://img.shields.io/github/stars/xiaomi-mlab/mila.github.io?style=social&label=Star)
 
+[arxiv 2025.06] ReSim: Reliable World Simulation for Autonomous Driving  [[PDF](https://arxiv.org/abs/2506.09981),[Page](https://opendrivelab.com/ReSim)] ![Code](https://img.shields.io/github/stars/OpenDriveLab/ReSim?style=social&label=Star)
 
 [arxiv 2025.06]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
