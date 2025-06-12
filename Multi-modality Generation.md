@@ -285,6 +285,8 @@
 
 [arxiv 2025.05] Co-Reinforcement Learning for Unified Multimodal Understanding and Generation  [[PDF](https://arxiv.org/abs/2505.17534)]
 
+[arxiv 2025.06]  Ming-Omni: A Unified Multimodal Model for Perception and Generation [[PDF](https://arxiv.org/abs/2506.09344),[Page](https://lucaria-academy.github.io/Ming-Omni/)] ![Code](https://img.shields.io/github/stars/inclusionAI/Ming?style=social&label=Star) 
+
 
 [arxiv 2025.06]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
 
