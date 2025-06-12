@@ -2474,6 +2474,8 @@ Creative Layout-to-Image Generation [[PDF](https://arxiv.org/pdf/2412.03859),[Pa
 
 [arxiv 2025.06]  Controlled Data Rebalancing in Multi-Task Learning for Real-World Image Super-Resolution [[PDF](https://arxiv.org/pdf/2506.05607)]
 
+[arxiv 2025.06]  Text-Aware Image Restoration with Diffusion Models [[PDF](https://arxiv.org/abs/2506.09993),[Page](https://cvlab-kaist.github.io/TAIR/)] ![Code](https://img.shields.io/github/stars/cvlab-kaist/TAIR?style=social&label=Star)
+
 
 [arxiv 2025.06]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -2646,6 +2648,7 @@ Creative Layout-to-Image Generation [[PDF](https://arxiv.org/pdf/2412.03859),[Pa
 
 [arxiv 2025.05] Style Transfer with Diffusion Models for Synthetic-to-Real Domain Adaptation  [[PDF](https://arxiv.org/abs/2505.16360),[Page](https://github.com/echigot/cactif)] ![Code](https://img.shields.io/github/stars/echigot/cactif?style=social&label=Star)
 
+[arxiv 2025.06] Only-Style: Stylistic Consistency in Image Generation without Content Leakage  [[PDF](https://arxiv.org/abs/2506.09916),[Page](https://tilemahosaravanis.github.io/Only-Style-PP/)] ![Code](https://img.shields.io/github/stars/TilemahosAravanis/Only-Style?style=social&label=Star)
 
 [arxiv 2025.06]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -2673,6 +2676,7 @@ Creative Layout-to-Image Generation [[PDF](https://arxiv.org/pdf/2412.03859),[Pa
 
 [arxiv 2025.04] CREA: A Collaborative Multi-Agent Framework for Creative Content Generation with Diffusion Models  [[PDF](https://arxiv.org/abs/2504.05306),[Page](https://crea-diffusion.github.io/)] 
 
+[arxiv 2025.06]  ComfyUI-R1: Exploring Reasoning Models for Workflow Generation [[PDF](https://arxiv.org/abs/2506.09790),[Page](https://github.com/AIDC-AI/ComfyUI-Copilot)] ![Code](https://img.shields.io/github/stars/AIDC-AI/ComfyUI-Copilot?style=social&label=Star)
 
 [arxiv 2025.06]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
