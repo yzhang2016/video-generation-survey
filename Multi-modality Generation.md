@@ -28,6 +28,7 @@
 
 [arxiv 2025.06] LeanPO: Lean Preference Optimization for Likelihood Alignment in Video-LLMs  [[PDF](https://arxiv.org/abs/2506.05260),[Page](https://github.com/Wang-Xiaodong1899/LeanPO)] ![Code](https://img.shields.io/github/stars/Wang-Xiaodong1899/LeanPO?style=social&label=Star) 
 
+[arxiv 2025.06]  Omni-DPO: A Dual-Perspective Paradigm for Dynamic Preference Learning of LLMs [[PDF](https://arxiv.org/abs/2506.10054)] ![Code](https://img.shields.io/github/stars/pspdada/Omni-DPO?style=social&label=Star) 
 
 [arxiv 2025.06]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
 
@@ -213,6 +214,8 @@
 
 [arxiv 2025.06]  Movie Facts and Fibs (MF2): A Benchmark for Long Movie Understanding [[PDF](https://arxiv.org/abs/2506.06275)]
 
+[arxiv 2025.06] VRBench: A Benchmark for Multi-Step Reasoning in Long Narrative Videos  [[PDF](https://arxiv.org/abs/2506.10857),[Page](https://vrbench.github.io/)] ![Code](https://img.shields.io/github/stars/OpenGVLab/VRBench?style=social&label=Star) 
+
 
 [arxiv 2025.06]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
 
@@ -287,6 +290,7 @@
 
 [arxiv 2025.06]  Ming-Omni: A Unified Multimodal Model for Perception and Generation [[PDF](https://arxiv.org/abs/2506.09344),[Page](https://lucaria-academy.github.io/Ming-Omni/)] ![Code](https://img.shields.io/github/stars/inclusionAI/Ming?style=social&label=Star) 
 
+[arxiv 2025.06] Pisces: An Auto-regressive Foundation Model for Image Understanding and Generation  [[PDF](https://arxiv.org/abs/2506.10395)]
 
 [arxiv 2025.06]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
 
