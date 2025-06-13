@@ -94,6 +94,7 @@
 
 [arxiv 2025.05] MoCLIP: Motion-Aware Fine-Tuning and Distillation of CLIP for Human Motion Generation  [[PDF](https://arxiv.org/abs/2505.10810)]
 
+[arxiv 2025.06]  Motion-R1: Chain-of-Thought Reasoning and Reinforcement Learning for Human Motion Generation [[PDF](https://arxiv.org/abs/2506.10353),[Page](https://motion-r1.github.io/)] ![Code](https://img.shields.io/github/stars/GigaAI-Research/Motion-R1?style=social&label=Star)
 
 [arxiv 2025.06]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
