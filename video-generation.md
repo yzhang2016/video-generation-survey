@@ -1907,6 +1907,7 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2025.06] FADE: Frequency-Aware Diffusion Model Factorization for Video Editing  [[PDF](https://arxiv.org/abs/2506.05934),[Page](https://github.com/EternalEvan/FADE)] ![Code](https://img.shields.io/github/stars/EternalEvan/FADE?style=social&label=Star)
 
+[arxiv 2025.06] LoRA-Edit: Controllable First-Frame-Guided Video Editing via Mask-Aware LoRA Fine-Tuning  [[PDF](https://arxiv.org/abs/2506.10082),[Page](https://cjeen.github.io/LoraEditPaper/)] ![Code](https://img.shields.io/github/stars/cjeen/LoRAEdit?style=social&label=Star)
 
 [arxiv 2025.06]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
