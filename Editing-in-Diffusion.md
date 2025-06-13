@@ -515,7 +515,10 @@
 [arxiv 2025.06]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 
+## reason
+[arxiv 2025.06]  MMMG: A Massive, Multidisciplinary, Multi-Tier Generation Benchmark for Text-to-Image Reasoning [[PDF](https://arxiv.org/abs/2506.10963),[Page](https://mmmgbench.github.io/)] ![Code](https://img.shields.io/github/stars/MMMGBench/MMMG/?style=social&label=Star)
 
+[arxiv 2025.06]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 
 ## Unified Generation
@@ -559,6 +562,8 @@
 [arxiv 2025.05]  In-Context Edit: Enabling Instructional Image Editing with In-Context Generation in Large Scale Diffusion Transformer [[PDF](https://arxiv.org/pdf/2504.20690),[Page](https://river-zhang.github.io/ICEdit-gh-pages/)] ![Code](https://img.shields.io/github/stars/River-Zhang/ICEdit?style=social&label=Star)
 
 [arxiv 2025.06]  SeedEdit 3.0: Fast and High-Quality Generative Image Editing [[PDF](https://arxiv.org/abs/2506.05083),[Page](https://seed.bytedance.com/zh/tech/seededit)] 
+
+[arxiv 2025.06]  VINCIE: Unlocking In-context Image Editing from Video [[PDF](https://arxiv.org/pdf/2506.10941),[Page](https://vincie2025.github.io/)] 
 
 
 [arxiv 2025.06]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
@@ -611,6 +616,7 @@
 
 [arxiv 2025.03] DiT-Air: Revisiting the Efficiency of Diffusion Model Architecture Design in Text to Image Generation  [[PDF](https://arxiv.org/abs/2503.10618)]
 
+[arxiv 2025.06] M4V: Multi-Modal Mamba for Text-to-Video Generation  [[PDF](https://arxiv.org/abs/xxx),[Page](https://huangjch526.github.io/M4V_project/)] 
 
 [arxiv 2025.06]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -1059,6 +1065,9 @@
 [arxiv 2025.05]  TensorAR: Refinement is All You Need in Autoregressive Image Generation [[PDF](https://arxiv.org/pdf/2505.16324)]
 
 [arxiv 2025.06] HMAR: Efficient Hierarchical Masked Auto-Regressive Image Generation  [[PDF](https://arxiv.org/abs/2506.04421),[Page](https://research.nvidia.com/labs/dir/hmar/)] 
+
+[arxiv 2025.06] SpectralAR: Spectral Autoregressive Visual Generation  [[PDF](https://arxiv.org/abs/2506.10962),[Page](https://huang-yh.github.io/spectralar/)] ![Code](https://img.shields.io/github/stars/huang-yh/SpectralAR?style=social&label=Star)
+
 
 [arxiv 2025.06]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -2717,6 +2726,7 @@ Creative Layout-to-Image Generation [[PDF](https://arxiv.org/pdf/2412.03859),[Pa
 
 [arxiv 2025.04] MirrorVerse: Pushing Diffusion Models to Realistically Reflect the World  [[PDF](https://arxiv.org/abs/2504.15397),[Page](https://mirror-verse.github.io/)] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
+[arxiv 2025.06] PosterCraft: Rethinking High-Quality Aesthetic Poster Generation in a Unified Framework  [[PDF](https://arxiv.org/abs/2506.10741),[Page](https://ephemeral182.github.io/PosterCraft/)] ![Code](https://img.shields.io/github/stars/Ephemeral182/PosterCraft?style=social&label=Star)
 
 [arxiv 2025.06]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
