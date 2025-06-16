@@ -505,6 +505,7 @@
 [arxiv 2025.06] DragNeXt: Rethinking Drag-Based Image Editing  [[PDF](https://arxiv.org/abs/2506.07611),[Page](https://arxiv.org/pdf/2506.07611)] 
 
 
+
 [arxiv 2025.06]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 
