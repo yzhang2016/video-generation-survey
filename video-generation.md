@@ -1268,6 +1268,7 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2025.06] LiftVSR: Lifting Image Diffusion to Video Super-Resolution via Hybrid Temporal Modeling with Only 4  [[PDF](https://arxiv.org/abs/2506.08529),[Page](https://kopperx.github.io/projects/liftvsr)] ![Code](https://img.shields.io/github/stars/kopperx/LiftVSR?style=social&label=Star)
 
+[arxiv 2025.06]  MambaVSR: Content-Aware Scanning State Space Model for Video Super-Resolution [[PDF](https://arxiv.org/pdf/2506.11768)]
 
 [arxiv 2025.06]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
