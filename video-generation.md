@@ -613,7 +613,7 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2025.04]  Any2Caption:Interpreting Any Condition to Caption for Controllable Video Generation [[PDF](https://arxiv.org/abs/2503.24379),[Page](https://sqwu.top/Any2Cap/)] ![Code](https://img.shields.io/github/stars/ChocoWu/Any2Caption?style=social&label=Star)
 
-
+[arxiv 2025.06] Evaluating Multimodal Large Language Models on Video Captioning via Monte Carlo Tree Search  [[PDF](https://arxiv.org/abs/2506.11155),[Page](https://github.com/tjunlp-lab/MCTS-VCB)] ![Code](https://img.shields.io/github/stars/tjunlp-lab/MCTS-VCB?style=social&label=Star)
 
 
 [arxiv 2025.06]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
@@ -1598,6 +1598,7 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2025.06] TalkingMachines:Real-Time Audio-Driven FaceTime-Style Video via Autoregressive Diffusion Models [[PDF](https://arxiv.org/abs/2506.03099),[Page](https://aaxwaz.github.io/TalkingMachines/)] 
 
+[arxiv 2025.06] AlignHuman: Improving Motion and Fidelity via Timestep-Segment Preference Optimization for Audio-Driven Human Animation  [[PDF](https://arxiv.org/abs/2506.11144),[Page](https://alignhuman.github.io/)] 
 
 [arxiv 2025.06]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
