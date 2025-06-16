@@ -1801,6 +1801,9 @@
 
 [arxiv 2025.06]  ViStoryBench: Comprehensive Benchmark Suite for Story Visualization [[PDF](https://arxiv.org/abs/2505.24862),[Page](https://vistorybench.github.io/)] ![Code](https://img.shields.io/github/stars/vistorybench/vistorybench?style=social&label=Star)
 
+[arxiv 2025.06] Enhance Multimodal Consistency and Coherence for Text-Image Plan Generation  [[PDF](https://arxiv.org/abs/2506.11380),[Page](https://github.com/psunlpgroup/MPlanner)] ![Code](https://img.shields.io/github/stars/psunlpgroup/MPlanner?style=social&label=Star)
+
+
 [arxiv 2025.06]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 
