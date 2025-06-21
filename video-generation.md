@@ -174,7 +174,12 @@ A reading list of video generation
 * **HOIGen-1M**
   [arxiv 2025.04]  HOIGen-1M: A Large-scale Dataset for Human-Object Interaction Video Generation [[PDF](https://arxiv.org/abs/2503.23715),[Page](https://liuqi-creat.github.io/HOIGen.github.io/)] 
 
+* **UltraVideo**
+  [arxiv 2025.06]  UltraVideo: High-Quality UHD Video Dataset with Comprehensive Captions [[PDF](https://arxiv.org/abs/2506.13691),[Page](https://xzc-zju.github.io/projects/UltraVideo/)] 
 
+
+* **Sekai: worlk exploration**
+  [arxiv 2025.06]  Sekai: A Video Dataset towards World Exploration[[PDF](https://arxiv.org/pdf/2506.15675),[Page](https://lixsp11.github.io/sekai-project/)] 
 
 [arxiv 2025.06]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -1165,6 +1170,9 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2025.06]  CamCloneMaster: Enabling Reference-based Camera Control for Video Generation [[PDF](https://arxiv.org/abs/2506.03140),[Page](https://camclonemaster.github.io/)] 
 
+[arxiv 2025.06] Vid-CamEdit: Video Camera Trajectory Editing with Generative Rendering from Estimated Geometry  [[PDF](https://arxiv.org/abs/xxx),[Page](https://cvlab-kaist.github.io/Vid-CamEdit/)] ![Code](https://img.shields.io/github/stars/cvlab-kaist/Vid-CamEdit?style=social&label=Star)
+
+
 [arxiv 2025.06]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 
@@ -1269,6 +1277,9 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 [arxiv 2025.06] LiftVSR: Lifting Image Diffusion to Video Super-Resolution via Hybrid Temporal Modeling with Only 4  [[PDF](https://arxiv.org/abs/2506.08529),[Page](https://kopperx.github.io/projects/liftvsr)] ![Code](https://img.shields.io/github/stars/kopperx/LiftVSR?style=social&label=Star)
 
 [arxiv 2025.06]  MambaVSR: Content-Aware Scanning State Space Model for Video Super-Resolution [[PDF](https://arxiv.org/pdf/2506.11768)]
+
+[arxiv 2025.06]  One-Step Diffusion for Detail-Rich and Temporally Consistent Video Super-Resolution [[PDF](https://arxiv.org/abs/2506.15591),[Page](https://github.com/yjsunnn/DLoRAL)] ![Code](https://img.shields.io/github/stars/yjsunnn/DLoRAL?style=social&label=Star)
+
 
 [arxiv 2025.06]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -1910,6 +1921,9 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 [arxiv 2025.06] FADE: Frequency-Aware Diffusion Model Factorization for Video Editing  [[PDF](https://arxiv.org/abs/2506.05934),[Page](https://github.com/EternalEvan/FADE)] ![Code](https://img.shields.io/github/stars/EternalEvan/FADE?style=social&label=Star)
 
 [arxiv 2025.06] LoRA-Edit: Controllable First-Frame-Guided Video Editing via Mask-Aware LoRA Fine-Tuning  [[PDF](https://arxiv.org/abs/2506.10082),[Page](https://cjeen.github.io/LoraEditPaper/)] ![Code](https://img.shields.io/github/stars/cjeen/LoRAEdit?style=social&label=Star)
+
+[arxiv 2025.06] UniRelight: Learning Joint Decomposition and Synthesis for Video Relighting  [[PDF](https://arxiv.org/abs/2506.15673),[Page](https://research.nvidia.com/labs/toronto-ai/UniRelight/)] 
+
 
 [arxiv 2025.06]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
