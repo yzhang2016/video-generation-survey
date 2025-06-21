@@ -504,6 +504,7 @@
 
 [arxiv 2025.06] DragNeXt: Rethinking Drag-Based Image Editing  [[PDF](https://arxiv.org/abs/2506.07611),[Page](https://arxiv.org/pdf/2506.07611)] 
 
+[arxiv 2025.06]  AttentionDrag: Exploiting Latent Correlation Knowledge in Pre-trained Diffusion Models for Image Editing [[PDF](https://arxiv.org/abs/2506.13301),[Page](https://github.com/GPlaying/AttentionDrag)] ![Code](https://img.shields.io/github/stars/GPlaying/AttentionDrag?style=social&label=Star)
 
 
 [arxiv 2025.06]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
@@ -1803,6 +1804,7 @@
 
 [arxiv 2025.06] Enhance Multimodal Consistency and Coherence for Text-Image Plan Generation  [[PDF](https://arxiv.org/abs/2506.11380),[Page](https://github.com/psunlpgroup/MPlanner)] ![Code](https://img.shields.io/github/stars/psunlpgroup/MPlanner?style=social&label=Star)
 
+[arxiv 2025.06] ViSTA: Visual Storytelling using Multi-modal Adapters for Text-to-Image Diffusion Models  [[PDF](https://arxiv.org/pdf/2506.12198)]
 
 [arxiv 2025.06]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -2663,6 +2665,9 @@ Creative Layout-to-Image Generation [[PDF](https://arxiv.org/pdf/2412.03859),[Pa
 
 [arxiv 2025.06] Only-Style: Stylistic Consistency in Image Generation without Content Leakage  [[PDF](https://arxiv.org/abs/2506.09916),[Page](https://tilemahosaravanis.github.io/Only-Style-PP/)] ![Code](https://img.shields.io/github/stars/TilemahosAravanis/Only-Style?style=social&label=Star)
 
+[arxiv 2025.06]  SA-LUT: Spatial Adaptive 4D Look-Up Table for Photorealistic Style Transfer [[PDF](https://arxiv.org/pdf/2506.13465),[Page](https://github.com/Ry3nG/SA-LUT)] ![Code](https://img.shields.io/github/stars/Ry3nG/SA-LUT?style=social&label=Star)
+
+
 [arxiv 2025.06]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 
@@ -3006,6 +3011,7 @@ Creative Layout-to-Image Generation [[PDF](https://arxiv.org/pdf/2412.03859),[Pa
 
 [arxiv 2025.05]  Quantization of Diffusion Models [[PDF](https://arxiv.org/abs/2505.05215),[Page](https://github.com/TaylorJocelyn/Diffusion-Model-Quantization)] ![Code](https://img.shields.io/github/stars/TaylorJocelyn/Diffusion-Model-Quantization?style=social&label=Star)
 
+[arxiv 2025.06] Cost-Aware Routing for Efficient Text-To-Image Generation  [[PDF](https://arxiv.org/pdf/2506.14753)]
 
 [arxiv 2025.06]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -3210,6 +3216,9 @@ Creative Layout-to-Image Generation [[PDF](https://arxiv.org/pdf/2412.03859),[Pa
 [arxiv 2025.05] VARD: Efficient and Dense Fine-Tuning for Diffusion Models with Value-based RL  [[PDF](https://arxiv.org/abs/2505.15791)]
 
 [arxiv 2025.05] Diffusion-NPO: Negative Preference Optimization for Better Preference Aligned Generation of Diffusion Models [[PDF](https://arxiv.org/abs/2505.11245),[Page](https://github.com/G-U-N/Diffusion-NPO)] ![Code](https://img.shields.io/github/stars/G-U-N/Diffusion-NPO?style=social&label=Star)
+
+[arxiv 2025.06] Evolutionary Caching to Accelerate Your Off-the-Shelf Diffusion Model  [[PDF](https://arxiv.org/abs/2506.15682),[Page](https://github.com/aniaggarwal/ecad)] ![Code](https://img.shields.io/github/stars/aniaggarwal/ecad?style=social&label=Star)
+
 
 [arxiv 2025.06]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
