@@ -216,6 +216,7 @@
 
 [arxiv 2025.06] VRBench: A Benchmark for Multi-Step Reasoning in Long Narrative Videos  [[PDF](https://arxiv.org/abs/2506.10857),[Page](https://vrbench.github.io/)] ![Code](https://img.shields.io/github/stars/OpenGVLab/VRBench?style=social&label=Star) 
 
+[arxiv 2025.06]  Ego-R1: Chain-of-Tool-Thought for Ultra-Long Egocentric Video Reasoning [[PDF](https://arxiv.org/abs/2506.13654),[Page](https://egolife-ai.github.io/Ego-R1/)] ![Code](https://img.shields.io/github/stars/egolife-ai/Ego-R1?style=social&label=Star) 
 
 [arxiv 2025.06]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
 
@@ -291,6 +292,9 @@
 [arxiv 2025.06]  Ming-Omni: A Unified Multimodal Model for Perception and Generation [[PDF](https://arxiv.org/abs/2506.09344),[Page](https://lucaria-academy.github.io/Ming-Omni/)] ![Code](https://img.shields.io/github/stars/inclusionAI/Ming?style=social&label=Star) 
 
 [arxiv 2025.06] Pisces: An Auto-regressive Foundation Model for Image Understanding and Generation  [[PDF](https://arxiv.org/abs/2506.10395)]
+
+[arxiv 2025.06] Show-o2: Improved Native Unified Multimodal Models  [[PDF](https://arxiv.org/abs/2506.15564),[Page](https://github.com/showlab/Show-o)] ![Code](https://img.shields.io/github/stars/showlab/Show-o?style=social&label=Star) 
+
 
 [arxiv 2025.06]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
 
