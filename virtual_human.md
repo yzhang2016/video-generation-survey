@@ -201,6 +201,10 @@
 
 [arxiv 2025.05]  Multi-Person Interaction Generation from Two-Person Motion Priors [[PDF](https://arxiv.org/pdf/2505.17860)]
 
+[arxiv 2025.06] HOIDiNi: Human-Object Interaction through Diffusion Noise Optimization  [[PDF](https://arxiv.org/pdf/2506.15625),[Page](https://hoidini.github.io/)] ![Code](https://img.shields.io/github/stars/hoidini/HOIDiNi?style=social&label=Star)
+
+[arxiv 2025.06]  GenHOI: Generalizing Text-driven 4D Human-Object Interaction Synthesis for Unseen Objects [[PDF](https://arxiv.org/abs/2506.15483),[Page](https://etach-qs.github.io/GenHOI_project/)] ![Code](https://img.shields.io/github/stars/etach-qs/GenHOI?style=social&label=Star)
+
 [arxiv 2025.06]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 
