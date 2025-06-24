@@ -297,6 +297,8 @@
 
 [arxiv 2025.06]  UniFork: Exploring Modality Alignment for Unified Multimodal Understanding and Generation [[PDF](https://arxiv.org/abs/2506.17202),[Page](https://github.com/tliby/UniFork)] ![Code](https://img.shields.io/github/stars/tliby/UniFork?style=social&label=Star) 
 
+[arxiv 2025.06] OmniGen2: Exploration to Advanced Multimodal Generation  [[PDF](https://arxiv.org/abs/2506.18871),[Page](https://github.com/VectorSpaceLab/OmniGen2)] ![Code](https://img.shields.io/github/stars/VectorSpaceLab/OmniGen2?style=social&label=Star) 
+
 
 [arxiv 2025.06]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
 
