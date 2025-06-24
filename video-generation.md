@@ -181,6 +181,11 @@ A reading list of video generation
 * **Sekai: worlk exploration**
   [arxiv 2025.06]  Sekai: A Video Dataset towards World Exploration[[PDF](https://arxiv.org/pdf/2506.15675),[Page](https://lixsp11.github.io/sekai-project/)] 
 
+
+* **Phantom-Data**
+  [arxiv 2025.06]  Phantom-Data: Towards a General Subject-Consistent Video Generation Dataset[[PDF](https://arxiv.org/pdf/2506.18851),[Page]([https://lixsp11.github.io/sekai-project/](https://phantom-video.github.io/Phantom-Data/))]  ![Code](https://img.shields.io/github/stars/Phantom-video/Phantom-Data?style=social&label=Star)
+ 
+
 [arxiv 2025.06]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 
@@ -729,6 +734,10 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 [arxiv 2025.06]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 
+## memory 
+[arxiv 2025.06] VMem: Consistent Interactive Video Scene Generation with Surfel-Indexed View Memory  [[PDF](http://arxiv.org/abs/2506.18903),[Page](https://v-mem.github.io/)] ![Code](https://img.shields.io/github/stars/runjiali-rl/vmem?style=social&label=Star)
+
+[arxiv 2025.06]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 
 ## robot 
@@ -791,6 +800,7 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2025.06]  EchoShot: Multi-Shot Portrait Video Generation [[PDF](https://arxiv.org/pdf/2506.15838),[Page](https://johnneywang.github.io/EchoShot-webpage)] 
 
+[arxiv 2025.06]  FilMaster: Bridging Cinematic Principles and Generative AI for Automated Film Generation [[PDF](https://arxiv.org/abs/2506.18899),[Page](https://filmaster-ai.github.io/)] 
 
 [arxiv 2025.06]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -1174,12 +1184,18 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2025.06] Vid-CamEdit: Video Camera Trajectory Editing with Generative Rendering from Estimated Geometry  [[PDF](https://arxiv.org/abs/xxx),[Page](https://cvlab-kaist.github.io/Vid-CamEdit/)] ![Code](https://img.shields.io/github/stars/cvlab-kaist/Vid-CamEdit?style=social&label=Star)
 
+[arxiv 2025.06]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
+
 
 [arxiv 2025.06]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 
 ## lighting 
 [arxiv 2025.02] Light-A-Video: Training-free Video Relighting via Progressive Light Fusion  [[PDF](https://arxiv.org/abs/2502.08590),[Page](https://bujiazi.github.io/light-a-video.github.io/)] ![Code](https://img.shields.io/github/stars/bcmi/Light-A-Video/?style=social&label=Star)
+
+[arxiv 2025.06]  TC-Light: Temporally Consistent Relighting for Dynamic Long Videos [[PDF](https://arxiv.org/abs/2506.18904),[Page](https://dekuliutesla.github.io/tclight/)] ![Code](https://img.shields.io/github/stars/Linketic/TC-Light?style=social&label=Star)
+
+
 
 [arxiv 2025.06]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -1614,6 +1630,10 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 [arxiv 2025.06] TalkingMachines:Real-Time Audio-Driven FaceTime-Style Video via Autoregressive Diffusion Models [[PDF](https://arxiv.org/abs/2506.03099),[Page](https://aaxwaz.github.io/TalkingMachines/)] 
 
 [arxiv 2025.06] AlignHuman: Improving Motion and Fidelity via Timestep-Segment Preference Optimization for Audio-Driven Human Animation  [[PDF](https://arxiv.org/abs/2506.11144),[Page](https://alignhuman.github.io/)] 
+
+[arxiv 2025.06]  OmniAvatar: Efficient Audio-Driven Avatar Video Generation with Adaptive Body Animation [[PDF](https://arxiv.org/abs/2506.18866),[Page](https://omni-avatar.github.io/)] ![Code](https://img.shields.io/github/stars/Omni-Avatar/OmniAvatar?style=social&label=Star)
+
+
 
 [arxiv 2025.06]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -2432,6 +2452,10 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2025.06]  Hunyuan-GameCraft: High-dynamic Interactive Game Video Generation with Hybrid History Condition [[PDF](https://arxiv.org/abs/2506.17201),[Page](https://hunyuan-gamecraft.github.io/)] 
 
+[arxiv 2025.06] From Virtual Games to Real-World Play  [[PDF](https://arxiv.org/pdf/2506.18901),[Page](https://wenqsun.github.io/RealPlay/)] ![Code](https://img.shields.io/github/stars/wenqsun/Real-Play?style=social&label=Star)
+
+[arxiv 2025.06]   Matrix-Game: Interactive World Foundation Model[[PDF](https://arxiv.org/pdf/2506.18701),[Page](https://matrix-game-homepage.github.io/)] ![Code](https://img.shields.io/github/stars/SkyworkAI/Matrix-Game?style=social&label=Star)
+
 
 [arxiv 2025.06]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -2513,6 +2537,8 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 [arxiv 2025.05] DanceGRPO: Unleashing GRPO on Visual Generation  [[PDF](https://arxiv.org/abs/2505.07818),[Page](https://dancegrpo.github.io/)] ![Code](https://img.shields.io/github/stars/XueZeyue/DanceGRPO?style=social&label=Star)
 
 [arxiv 2025.06] DenseDPO: Fine-Grained Temporal Preference Optimization for Video Diffusion Models  [[PDF](https://arxiv.org/abs/2506.03517),[Page](https://snap-research.github.io/DenseDPO/)] 
+
+[arxiv 2025.06]  RDPO: Real Data Preference Optimization for Physics Consistency Video Generation [[PDF](https://arxiv.org/abs/%3CARXIV%20PAPER%20ID%3E),[Page](https://wwenxu.github.io/RDPO/)] 
 
 [arxiv 2025.06]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
