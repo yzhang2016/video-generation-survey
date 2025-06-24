@@ -563,8 +563,9 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2025.06]  Cross-Frame Representation Alignment for Fine-Tuning Video Diffusion Models [[PDF](https://arxiv.org/pdf/2506.09229),[Page](https://crepavideo.github.io/)] ![Code](https://img.shields.io/github/stars/deepshwang/crepa?style=social&label=Star)
 
-[arxiv 2025.06]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
+[arxiv 2025.06]  Emergent Temporal Correspondences from Video Diffusion Transformers [[PDF](https://arxiv.org/abs/2506.17220),[Page](https://arxiv.org/cvlab-kaist.github.io/DiffTrack)] ![Code](https://img.shields.io/github/stars/cvlab-kaist/DiffTrack?style=social&label=Star)
 
+[arxiv 2025.06]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 ## loss 
 [arxiv 2025.04]  REPA-E: Unlocking VAE for End-to-End Tuning with Latent Diffusion Transformers [[PDF](https://arxiv.org/abs/2504.10483),[Page](https://end2end-diffusion.github.io/)] ![Code](https://img.shields.io/github/stars/End2End-Diffusion/REPA-E?style=social&label=Star)
@@ -788,6 +789,7 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2025.05]  ShotAdapter: Text-to-Multi-Shot Video Generation with Diffusion Models [[PDF](https://arxiv.org/abs/2505.07652),[Page](https://shotadapter.github.io/)] 
 
+[arxiv 2025.06]  EchoShot: Multi-Shot Portrait Video Generation [[PDF](https://arxiv.org/pdf/2506.15838),[Page](https://johnneywang.github.io/EchoShot-webpage)] 
 
 
 [arxiv 2025.06]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
@@ -1280,6 +1282,8 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2025.06]  One-Step Diffusion for Detail-Rich and Temporally Consistent Video Super-Resolution [[PDF](https://arxiv.org/abs/2506.15591),[Page](https://github.com/yjsunnn/DLoRAL)] ![Code](https://img.shields.io/github/stars/yjsunnn/DLoRAL?style=social&label=Star)
 
+[arxiv 2025.06] FastInit: Fast Noise Initialization for Temporally Consistent Video Generation  [[PDF](https://arxiv.org/pdf/2506.16119)]
+
 
 [arxiv 2025.06]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -1617,7 +1621,7 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 ## Multi-person talking Video Generation 
 [arxiv 2025.06]  Let Them Talk: Audio-Driven Multi-Person Conversational Video Generation [[PDF](https://arxiv.org/abs/2505.22647),[Page](https://meigen-ai.github.io/multi-talk/)] ![Code](https://img.shields.io/github/stars/MeiGen-AI/MultiTalk?style=social&label=Star)
 
-[arxiv 2025.06] InterActHuman: Multi-Concept Human Animation with Layout-Aligned Audio Conditions  [[PDF](https://arxiv.org/abs/2506.09984),[Page](https://zhenzhiwang.github.io/interacthuman/)] 
+[arxiv 2025.06] InterActHuman: Multi-Concept Human Animation with Layout-Aligned Audio Conditions  [[PDF](https://arxiv.org/abs/2506.09984)]
 
 [arxiv 2025.06]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -1646,6 +1650,8 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 [arxiv 2024.12] HiFiVFS: High Fidelity Video Face Swapping  [[PDF](https://arxiv.org/abs/2411.18293),[Page](https://cxcx1996.github.io/HiFiVFS/)] 
 
 [arxiv 2025.03] High-Fidelity Diffusion Face Swapping with ID-Constrained Facial Conditioning  [[PDF](https://arxiv.org/abs/2503.22179)]
+
+[arxiv 2025.06]  Controllable and Expressive One-Shot Video Head Swapping [[PDF](https://humanaigc.github.io/SwapAnyHead/),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 
 [arxiv 2025.06]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
@@ -2423,6 +2429,9 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 [arxiv 2025.06]  Voyager: Long-Range and World-Consistent Video Diffusion for Explorable 3D Scene Generation [[PDF](https://arxiv.org/abs/2506.04225),[Page](https://voyager-world.github.io/)] ![Code](https://img.shields.io/github/stars/Voyager-World/Voyager?style=social&label=Star)
 
 [arxiv 2025.06] V-JEPA 2: Self-Supervised Video Models Enable Understanding, Prediction and Planning  [[PDF](https://arxiv.org/abs/2506.09985),[Page](https://github.com/facebookresearch/vjepa2)] ![Code](https://img.shields.io/github/stars/facebookresearch/vjepa2?style=social&label=Star)
+
+[arxiv 2025.06]  Hunyuan-GameCraft: High-dynamic Interactive Game Video Generation with Hybrid History Condition [[PDF](https://arxiv.org/abs/2506.17201),[Page](https://hunyuan-gamecraft.github.io/)] 
+
 
 [arxiv 2025.06]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
