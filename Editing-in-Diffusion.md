@@ -506,6 +506,7 @@
 
 [arxiv 2025.06]  AttentionDrag: Exploiting Latent Correlation Knowledge in Pre-trained Diffusion Models for Image Editing [[PDF](https://arxiv.org/abs/2506.13301),[Page](https://github.com/GPlaying/AttentionDrag)] ![Code](https://img.shields.io/github/stars/GPlaying/AttentionDrag?style=social&label=Star)
 
+[arxiv 2025.06] CPAM: Context-Preserving Adaptive Manipulation for Zero-Shot Real Image Editing  [[PDF](https://arxiv.org/pdf/2506.18438)]
 
 [arxiv 2025.06]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -1700,6 +1701,7 @@
 
 [arxiv 2025.06] Negative-Guided Subject Fidelity Optimization for Zero-Shot Subject-Driven Generation  [[PDF](https://arxiv.org/abs/2506.03621),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
+[arxiv 2025.06] ShowFlow: From Robust Single Concept to Condition-Free Multi-Concept Generation  [[PDF](https://arxiv.org/pdf/2506.18493)]
 
 [arxiv 2025.06]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -1805,6 +1807,8 @@
 [arxiv 2025.06] Enhance Multimodal Consistency and Coherence for Text-Image Plan Generation  [[PDF](https://arxiv.org/abs/2506.11380),[Page](https://github.com/psunlpgroup/MPlanner)] ![Code](https://img.shields.io/github/stars/psunlpgroup/MPlanner?style=social&label=Star)
 
 [arxiv 2025.06] ViSTA: Visual Storytelling using Multi-modal Adapters for Text-to-Image Diffusion Models  [[PDF](https://arxiv.org/pdf/2506.12198)]
+
+[arxiv 2025.06]  Audit & Repair: An Agentic Framework for Consistent Story Visualization in Text-to-Image Diffusion Models [[PDF](https://arxiv.org/abs/2506.18900),[Page](https://auditandrepair.github.io/)] 
 
 [arxiv 2025.06]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -3017,6 +3021,9 @@ Creative Layout-to-Image Generation [[PDF](https://arxiv.org/pdf/2412.03859),[Pa
 [arxiv 2025.05]  Quantization of Diffusion Models [[PDF](https://arxiv.org/abs/2505.05215),[Page](https://github.com/TaylorJocelyn/Diffusion-Model-Quantization)] ![Code](https://img.shields.io/github/stars/TaylorJocelyn/Diffusion-Model-Quantization?style=social&label=Star)
 
 [arxiv 2025.06] Cost-Aware Routing for Efficient Text-To-Image Generation  [[PDF](https://arxiv.org/pdf/2506.14753)]
+
+[arxiv 2025.06]  Make It Efficient: Dynamic Sparse Attention for Autoregressive Image Generation [[PDF](https://arxiv.org/abs/2506.18226)]
+
 
 [arxiv 2025.06]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
