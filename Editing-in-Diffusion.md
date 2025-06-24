@@ -2491,6 +2491,11 @@ Creative Layout-to-Image Generation [[PDF](https://arxiv.org/pdf/2412.03859),[Pa
 
 [arxiv 2025.06]  Text-Aware Image Restoration with Diffusion Models [[PDF](https://arxiv.org/abs/2506.09993),[Page](https://cvlab-kaist.github.io/TAIR/)] ![Code](https://img.shields.io/github/stars/cvlab-kaist/TAIR?style=social&label=Star)
 
+[arxiv 2025.06] Reversing Flow for Image Restoration  [[PDF](https://arxiv.org/abs/2506.16961)]
+
+[arxiv 2025.06] Visual-Instructed Degradation Diffusion for All-in-One Image Restoration  [[PDF](https://arxiv.org/pdf/2506.16960)]
+
+[arxiv 2025.06]  RealSR-R1: Reinforcement Learning for Real-World Image Super-Resolution with Vision-Language Chain-of-Thought [[PDF](https://arxiv.org/pdf/2506.16796),[Page](https://github.com/Junboooo/RealSR-R1)] ![Code](https://img.shields.io/github/stars/Junboooo/RealSR-R1?style=social&label=Star)
 
 [arxiv 2025.06]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
