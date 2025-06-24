@@ -3024,6 +3024,7 @@ Creative Layout-to-Image Generation [[PDF](https://arxiv.org/pdf/2412.03859),[Pa
 
 [arxiv 2025.06]  Make It Efficient: Dynamic Sparse Attention for Autoregressive Image Generation [[PDF](https://arxiv.org/abs/2506.18226)]
 
+[arxiv 2025.06]  Morse: Dual-Sampling for Lossless Acceleration of Diffusion Models [[PDF](https://arxiv.org/abs/2506.18251),[Page](https://github.com/deep-optimization/Morse)] ![Code](https://img.shields.io/github/stars/deep-optimization/Morse?style=social&label=Star)
 
 [arxiv 2025.06]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
