@@ -295,6 +295,8 @@
 
 [arxiv 2025.06] Show-o2: Improved Native Unified Multimodal Models  [[PDF](https://arxiv.org/abs/2506.15564),[Page](https://github.com/showlab/Show-o)] ![Code](https://img.shields.io/github/stars/showlab/Show-o?style=social&label=Star) 
 
+[arxiv 2025.06]  UniFork: Exploring Modality Alignment for Unified Multimodal Understanding and Generation [[PDF](https://arxiv.org/abs/2506.17202),[Page](https://github.com/tliby/UniFork)] ![Code](https://img.shields.io/github/stars/tliby/UniFork?style=social&label=Star) 
+
 
 [arxiv 2025.06]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
 
