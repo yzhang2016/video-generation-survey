@@ -218,6 +218,10 @@
 
 [arxiv 2025.06]  Ego-R1: Chain-of-Tool-Thought for Ultra-Long Egocentric Video Reasoning [[PDF](https://arxiv.org/abs/2506.13654),[Page](https://egolife-ai.github.io/Ego-R1/)] ![Code](https://img.shields.io/github/stars/egolife-ai/Ego-R1?style=social&label=Star) 
 
+[arxiv 2025.06]  Task-Aware KV Compression For Cost-Effective Long Video Understanding [[PDF](https://arxiv.org/abs/2506.21184),[Page](https://github.com/UnableToUseGit/VideoX22L)] ![Code](https://img.shields.io/github/stars/UnableToUseGit/VideoX22L?style=social&label=Star) 
+
+[arxiv 2025.06]  Video-XL-2: Towards Very Long-Video Understanding Through Task-Aware KV Sparsification [[PDF](https://arxiv.org/abs/2506.19225),[Page](https://unabletousegit.github.io/video-xl2.github.io/)] ![Code](https://img.shields.io/github/stars/VectorSpaceLab/Video-XL?style=social&label=Star) 
+
 [arxiv 2025.06]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
 
 
@@ -360,6 +364,9 @@
 [arxiv 2025.06] Play to Generalize: Learning to Reason Through Game Play  [[PDF](https://arxiv.org/abs/2506.08011),[Page](https://github.com/yunfeixie233/ViGaL)] ![Code](https://img.shields.io/github/stars/yunfeixie233/ViGaL?style=social&label=Star) 
 
 [arxiv 2025.06]  DeepVideo-R1: Video Reinforcement Fine-Tuning via Difficulty-aware Regressive GRPO [[PDF](https://arxiv.org/abs/2506.07464)]
+
+[arxiv 2025.06] MMSearch-R1: Incentivizing LMMs to Search  [[PDF](https://arxiv.org/abs/2506.20670),[Page](https://github.com/EvolvingLMMs-Lab/multimodal-search-r1)] ![Code](https://img.shields.io/github/stars/EvolvingLMMs-Lab/multimodal-search-r1?style=social&label=Star) 
+
 
 [arxiv 2025.06]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
 
