@@ -210,6 +210,7 @@
 [arxiv 2025.06] DuetGen: Music Driven Two-Person Dance Generation via Hierarchical Masked Modeling  [[PDF](https://arxiv.org/abs/2506.18680),[Page](https://github.com/anindita127/DuetGen)] ![Code](https://img.shields.io/github/stars/anindita127/DuetGen?style=social&label=Star)
 
 
+
 [arxiv 2025.06]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 
@@ -240,6 +241,7 @@
 
 [arxiv 2025.03] SceneMI: Motion In-betweening for Modeling Human-Scene Interactions  [[PDF](https://arxiv.org/pdf/2503.16289),[Page](https://inwoohwang.me/SceneMI/)] 
 
+[arxiv 2025.06]  GenHSI: Controllable Generation of Human-Scene Interaction Videos [[PDF](https://arxiv.org/pdf/2506.19840),[Page](https://kunkun0w0.github.io/project/GenHSI/)] ![Code](https://img.shields.io/github/stars/kunkun0w0/GenHSI?style=social&label=Star)
 
 [arxiv 2025.06]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
