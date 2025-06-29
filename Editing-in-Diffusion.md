@@ -663,6 +663,7 @@
 
 [arxiv 2025.06] STARFlow: Scaling Latent Normalizing Flows for High-resolution Image Synthesis  [[PDF](https://arxiv.org/abs/2506.06276)]
 
+[arxiv 2025.06] Improving Progressive Generation with Decomposable Flow Matching  [[PDF](https://arxiv.org/abs/2506.19839),[Page](https://snap-research.github.io/dfm/)] 
 
 [arxiv 2025.06]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -1703,7 +1704,14 @@
 
 [arxiv 2025.06] ShowFlow: From Robust Single Concept to Condition-Free Multi-Concept Generation  [[PDF](https://arxiv.org/pdf/2506.18493)]
 
+[arxiv 2025.06] XVerse: Consistent Multi-Subject Control of Identity and Semantic Attributes via DiT Modulation  [[PDF](https://arxiv.org/abs/2506.21416),[Page](https://bytedance.github.io/XVerse/)] ![Code](https://img.shields.io/github/stars/bytedance/XVerse?style=social&label=Star)
+
+
 [arxiv 2025.06]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
+
+## multi-human
+[arxiv 2025.06]  MultiHuman-Testbench: Benchmarking Image Generation for Multiple Humans [[PDF](https://arxiv.org/abs/2506.20879)]
+
 
 
 
@@ -2255,6 +2263,9 @@ Creative Layout-to-Image Generation [[PDF](https://arxiv.org/pdf/2412.03859),[Pa
 
 [arxiv 2025.05] InstanceGen: Image Generation with Instance-level Instructions  [[PDF](https://arxiv.org/abs/2505.05678),[Page](https://tau-vailab.github.io/InstanceGen/)] 
 
+[arxiv 2025.06]  Controllable 3D Placement of Objects with Scene-Aware Diffusion Models [[PDF](https://arxiv.org/pdf/2506.21446)]
+
+[arxiv 2025.06] Rethink Sparse Signals for Pose-guided Text-to-image Generation  [[PDF](https://arxiv.org/abs/2506.20983),[Page](https://github.com/DREAMXFAR/SP-Ctrl)] ![Code](https://img.shields.io/github/stars/DREAMXFAR/SP-Ctrl?style=social&label=Star)
 
 [arxiv 2025.06]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -2500,6 +2511,8 @@ Creative Layout-to-Image Generation [[PDF](https://arxiv.org/pdf/2412.03859),[Pa
 [arxiv 2025.06] Visual-Instructed Degradation Diffusion for All-in-One Image Restoration  [[PDF](https://arxiv.org/pdf/2506.16960)]
 
 [arxiv 2025.06]  RealSR-R1: Reinforcement Learning for Real-World Image Super-Resolution with Vision-Language Chain-of-Thought [[PDF](https://arxiv.org/pdf/2506.16796),[Page](https://github.com/Junboooo/RealSR-R1)] ![Code](https://img.shields.io/github/stars/Junboooo/RealSR-R1?style=social&label=Star)
+
+[arxiv 2025.06] Diffusion Transformer-to-Mamba Distillation for High-Resolution Image Generation  [[PDF](https://arxiv.org/abs/2506.18999)]
 
 [arxiv 2025.06]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -3025,6 +3038,9 @@ Creative Layout-to-Image Generation [[PDF](https://arxiv.org/pdf/2412.03859),[Pa
 [arxiv 2025.06]  Make It Efficient: Dynamic Sparse Attention for Autoregressive Image Generation [[PDF](https://arxiv.org/abs/2506.18226)]
 
 [arxiv 2025.06]  Morse: Dual-Sampling for Lossless Acceleration of Diffusion Models [[PDF](https://arxiv.org/abs/2506.18251),[Page](https://github.com/deep-optimization/Morse)] ![Code](https://img.shields.io/github/stars/deep-optimization/Morse?style=social&label=Star)
+
+[arxiv 2025.06] Inverse-and-Edit: Effective and Fast Image Editing by Cycle Consistency Models  [[PDF](https://arxiv.org/abs/2506.19103),[Page](https://github.com/ControlGenAI/Inverse-and-Edit/)] ![Code](https://img.shields.io/github/stars/ControlGenAI/Inverse-and-Edit/?style=social&label=Star)
+
 
 [arxiv 2025.06]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
