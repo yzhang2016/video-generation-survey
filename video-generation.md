@@ -730,6 +730,7 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2025.06] Self Forcing: Bridging the Train-Test Gap in Autoregressive Video Diffusion  [[PDF](https://arxiv.org/pdf/2506.08009),[Page](https://self-forcing.github.io/)] ![Code](https://img.shields.io/github/stars/guandeh17/Self-Forcing?style=social&label=Star)
 
+[arxiv 2025.06] Radial Attention: O(nlogn) Sparse Attention with Energy Decay for Long Video Generation  [[PDF](https://arxiv.org/abs/2506.19852),[Page](https://hanlab.mit.edu/projects/radial-attention)] ![Code](https://img.shields.io/github/stars/mit-han-lab/radial-attention?style=social&label=Star)
 
 [arxiv 2025.06]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -1300,6 +1301,7 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2025.06] FastInit: Fast Noise Initialization for Temporally Consistent Video Generation  [[PDF](https://arxiv.org/pdf/2506.16119)]
 
+[arxiv 2025.06]  SimpleGVR: A Simple Baseline for Latent-Cascaded Video Super-Resolution [[PDF](https://arxiv.org/pdf/2506.19838),[Page](https://simplegvr.github.io/)] 
 
 [arxiv 2025.06]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -1950,6 +1952,7 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2025.06] UniRelight: Learning Joint Decomposition and Synthesis for Video Relighting  [[PDF](https://arxiv.org/abs/2506.15673),[Page](https://research.nvidia.com/labs/toronto-ai/UniRelight/)] 
 
+[arxiv 2025.06] DFVEdit: Conditional Delta Flow Vector for Zero-shot Video Editing  [[PDF](https://arxiv.org/pdf/2506.20967),[Page](https://dfvedit.github.io/)] ![Code](https://img.shields.io/github/stars/LinglingCai0314/DFVEdit?style=social&label=Star)
 
 [arxiv 2025.06]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -2262,6 +2265,7 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2025.05]  Direct Motion Models for Assessing Generated Videos [[PDF](https://arxiv.org/abs/2505.00209),[Page](https://trajan-paper.github.io/)] 
 
+[arxiv 2025.06]  ShotBench: Expert-Level Cinematic Understanding in Vision-Language Models [[PDF](https://arxiv.org/abs/2506.21356),[Page](https://vchitect.github.io/ShotBench-project/)] ![Code](https://img.shields.io/github/stars/Vchitect/ShotBench?style=social&label=Star)
 
 [arxiv 2025.06]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -2456,6 +2460,7 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2025.06]   Matrix-Game: Interactive World Foundation Model[[PDF](https://arxiv.org/pdf/2506.18701),[Page](https://matrix-game-homepage.github.io/)] ![Code](https://img.shields.io/github/stars/SkyworkAI/Matrix-Game?style=social&label=Star)
 
+[arxiv 2025.06] Whole-Body Conditioned Egocentric Video Prediction [[PDF](http://arxiv.org/abs/2506.21552),[Page](https://dannytran123.github.io/PEVA/)] 
 
 [arxiv 2025.06]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
