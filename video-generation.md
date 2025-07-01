@@ -1232,6 +1232,9 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2025.06]  Follow-Your-Creation: Empowering 4D Creation through Video Inpainting [[PDF](https://arxiv.org/abs/2506.04590),[Page](https://follow-your-creation.github.io/)] ![Code](https://img.shields.io/github/stars/mayuelala/FollowYourCreation?style=social&label=Star)
 
+[arxiv 2025.06] OutDreamer: Video Outpainting with a Diffusion Transformer  [[PDF](https://arxiv.org/abs/2506.22298)]
+
+
 [arxiv 2025.06]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 
