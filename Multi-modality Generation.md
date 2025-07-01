@@ -367,6 +367,7 @@
 
 [arxiv 2025.06] MMSearch-R1: Incentivizing LMMs to Search  [[PDF](https://arxiv.org/abs/2506.20670),[Page](https://github.com/EvolvingLMMs-Lab/multimodal-search-r1)] ![Code](https://img.shields.io/github/stars/EvolvingLMMs-Lab/multimodal-search-r1?style=social&label=Star) 
 
+[arxiv 2025.06]  MiCo: Multi-image Contrast for Reinforcement Visual Reasoning [[PDF](https://arxiv.org/pdf/2506.22434)]
 
 [arxiv 2025.06]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
 
