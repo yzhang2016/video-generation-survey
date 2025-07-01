@@ -1818,6 +1818,9 @@
 
 [arxiv 2025.06]  Audit & Repair: An Agentic Framework for Consistent Story Visualization in Text-to-Image Diffusion Models [[PDF](https://arxiv.org/abs/2506.18900),[Page](https://auditandrepair.github.io/)] 
 
+[arxiv 2025.06] TaleForge: Interactive Multimodal System for Personalized Story Creation  [[PDF](https://arxiv.org/abs/2506.21832)]
+
+
 [arxiv 2025.06]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 
@@ -3248,6 +3251,8 @@ Creative Layout-to-Image Generation [[PDF](https://arxiv.org/pdf/2412.03859),[Pa
 
 [arxiv 2025.06] Evolutionary Caching to Accelerate Your Off-the-Shelf Diffusion Model  [[PDF](https://arxiv.org/abs/2506.15682),[Page](https://github.com/aniaggarwal/ecad)] ![Code](https://img.shields.io/github/stars/aniaggarwal/ecad?style=social&label=Star)
 
+
+[arxiv 2025.06] PrefPaint: Enhancing Image Inpainting through Expert Human Feedback  [[PDF](https://arxiv.org/abs/2506.21834)]
 
 [arxiv 2025.06]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
