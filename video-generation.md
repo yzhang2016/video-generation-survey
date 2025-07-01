@@ -1957,6 +1957,9 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2025.06] DFVEdit: Conditional Delta Flow Vector for Zero-shot Video Editing  [[PDF](https://arxiv.org/pdf/2506.20967),[Page](https://dfvedit.github.io/)] ![Code](https://img.shields.io/github/stars/LinglingCai0314/DFVEdit?style=social&label=Star)
 
+[arxiv 2025.06] Shape-for-Motion: Precise and Consistent Video Editing with 3D Proxy  [[PDF](https://arxiv.org/pdf/2506.22432),[Page](https://shapeformotion.github.io/)] ![Code](https://img.shields.io/github/stars/yuhaoliu7456/Shape-for-Motion?style=social&label=Star)
+
+
 [arxiv 2025.06]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 
