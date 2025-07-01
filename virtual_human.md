@@ -2,7 +2,7 @@
 ## Gaussian Face 
 [arxiv 2025.01] PERSE: Personalized 3D Generative Avatars from A Single Portrait  [[PDF](https://arxiv.org/abs/2412.21206),[Page](https://hyunsoocha.github.io/perse/)] ![Code](https://img.shields.io/github/stars/snuvclab/perse?style=social&label=Star)
 
-[arxiv 2025.06]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
+[arxiv 2025.07]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 
 
@@ -98,7 +98,10 @@
 
 [arxiv 2025.06]  PlanMoGPT: Flow-Enhanced Progressive Planning for Text to Motion Synthesis [[PDF](http://arxiv.org/abs/2506.17912),[Page](https://planmogpt.github.io/)] ![Code](https://img.shields.io/github/stars/PlanMoGPT/PlanMoGPT.github.io?style=social&label=Star)
 
-[arxiv 2025.06]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
+[arxiv 2025.07]  MotionGPT3: Human Motion as a Second Modality [[PDF](https://arxiv.org/abs/2506.24086),[Page](https://motiongpt3.github.io/)] ![Code](https://img.shields.io/github/stars/OpenMotionLab/MotionGPT3?style=social&label=Star)
+
+
+[arxiv 2025.07]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 
 
@@ -108,7 +111,7 @@
 [arxiv 2025.03]  ExGes: Expressive Human Motion Retrieval and Modulation for Audio-Driven Gesture Synthesis [[PDF](https://arxiv.org/pdf/2503.06499)]
 
 
-[arxiv 2025.06]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
+[arxiv 2025.07]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 
 
@@ -131,13 +134,13 @@
 [arxiv 2025.04]  Direction-Aware Hybrid Representation Learning for 3D Hand Pose and Shape Estimation [[PDF](https://arxiv.org/abs/2504.01298)]
 
 
-[arxiv 2025.06]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
+[arxiv 2025.07]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 
 # ego
 [arxiv 2025.04]  The Invisible EgoHand: 3D Hand Forecasting through EgoBody Pose Estimation [[PDF](https://arxiv.org/abs/2504.08654),[Page](https://masashi-hatano.github.io/EgoH4/)] ![Code](https://img.shields.io/github/stars/masashi-hatano/EgoH4?style=social&label=Star)
 
-[arxiv 2025.06]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
+[arxiv 2025.07]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 
 
@@ -211,7 +214,7 @@
 
 
 
-[arxiv 2025.06]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
+[arxiv 2025.07]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 
 ## Interaction Detection 
@@ -227,7 +230,7 @@
 [arxiv 2025.03] Reconstructing In-the-Wild Open-Vocabulary Human-Object Interactions [[PDF](https://arxiv.org/abs/2503.15898),[Page](https://wenboran2002.github.io/3dhoi/)] ![Code](https://img.shields.io/github/stars/wenboran2002/open-3dhoi?style=social&label=Star)
 
 
-[arxiv 2025.06]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
+[arxiv 2025.07]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 
 ## environment 
@@ -243,7 +246,7 @@
 
 [arxiv 2025.06]  GenHSI: Controllable Generation of Human-Scene Interaction Videos [[PDF](https://arxiv.org/pdf/2506.19840),[Page](https://kunkun0w0.github.io/project/GenHSI/)] ![Code](https://img.shields.io/github/stars/kunkun0w0/GenHSI?style=social&label=Star)
 
-[arxiv 2025.06]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
+[arxiv 2025.07]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 
 
@@ -256,4 +259,4 @@
 [arxiv 2025.04] CoMotion: Concurrent Multi-person 3D Motion  [[PDF](https://arxiv.org/abs/2504.12186),[Page](https://github.com/apple/ml-comotion)] ![Code](https://img.shields.io/github/stars/apple/ml-comotion?style=social&label=Star)
 
 
-[arxiv 2025.06]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
+[arxiv 2025.07]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
