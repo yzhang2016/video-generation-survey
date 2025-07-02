@@ -1851,9 +1851,9 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2025.07]  JAM-Flow: Joint Audio-Motion Synthesis with Flow Matching [[PDF](https://arxiv.org/abs/2506.23552),[Page](https://joonghyuk.com/jamflow-web/)] 
 
+[arxiv 2025.07]  ThinkSound: Chain-of-Thought Reasoning in Multimodal Large Language Models for Audio Generation and Editing [[PDF](https://arxiv.org/html/2506.21448v1),[Page](https://thinksound-demo.github.io/)] 
 
 [arxiv 2025.07]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
-
 
 
 ## audio generation 
@@ -1863,6 +1863,9 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 [arxiv 2025.03]  DeepAudio-V1:Towards Multi-Modal Multi-Stage End-to-End Video to Speech and Audio Generation [[PDF](https://arxiv.org/abs/2503.22265)]
 
 [arxiv 2025.04] Extending Visual Dynamics for Video-to-Music Generation  [[PDF](https://arxiv.org/abs/2504.07594)】
+
+[arxiv 2025.07]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
+
 
 
 [arxiv 2025.07]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
