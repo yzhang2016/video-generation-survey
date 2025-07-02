@@ -732,6 +732,9 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2025.06] Radial Attention: O(nlogn) Sparse Attention with Energy Decay for Long Video Generation  [[PDF](https://arxiv.org/abs/2506.19852),[Page](https://hanlab.mit.edu/projects/radial-attention)] ![Code](https://img.shields.io/github/stars/mit-han-lab/radial-attention?style=social&label=Star)
 
+[arxiv 2025.07]  FreeLong++: Training-Free Long Video Generation via Multi-band SpectralFusion [[PDF](https://arxiv.org/abs/2507.00162),[Page](https://freelongvideo.github.io/)] 
+
+
 [arxiv 2025.07]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 
@@ -1316,6 +1319,9 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2025.07]  VSRM: A Robust Mamba-Based Framework for Video Super-Resolution [[PDF](https://arxiv.org/abs/2506.22762)]
 
+[arxiv 2025.07] DAM-VSR: Disentanglement of Appearance and Motion for Video Super-Resolution  [[PDF](https://arxiv.org/abs/2507.01012),[Page](https://kongzhecn.github.io/projects/dam-vsr/)] ![Code](https://img.shields.io/github/stars/kongzhecn/DAM-VSR?style=social&label=Star)
+
+
 [arxiv 2025.07]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 
@@ -1604,6 +1610,8 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2025.05] IM-Portrait: Learning 3D-aware Video Diffusion for Photorealistic Talking Heads from Monocular Videos  [[PDF](https://arxiv.org/abs/2504.19165),[Page](https://y-u-a-n-l-i.github.io/projects/IM-Portrait/)] 
 
+
+
 [arxiv 2025.07]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 
@@ -1677,7 +1685,17 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 # duplex 
 [arxiv 2025.05]  DualTalk: Dual-Speaker Interaction for 3D Talking Head Conversations [[PDF](https://arxiv.org/pdf/2505.18096),[Page](https://ziqiaopeng.github.io/dualtalk/)] 
 
+[arxiv 2025.07]  ARIG: Autoregressive Interactive Head Generation for Real-time Conversations [[PDF](https://arxiv.org/abs/2507.00472),[Page](https://jinyugy21.github.io/ARIG/)] 
+
+
 [arxiv 2025.07]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
+
+# Interaction
+[arxiv 2025.07]  Populate-A-Scene: Affordance-Aware Human Video Generation [[PDF](https://arxiv.org/pdf/2507.00334)]
+
+[arxiv 2025.07]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
+
+
 
 # Ego
 [arxiv 2025.06]  PlayerOne: Egocentric World Simulator [[PDF](https://arxiv.org/pdf/2506.09995),[Page](https://playerone-hku.github.io/)] ![Code](https://img.shields.io/github/stars/yuanpengtu/PlayerOne?style=social&label=Star)
