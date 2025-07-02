@@ -1538,15 +1538,11 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2024.09] Portrait Video Editing Empowered by Multimodal Generative Priors [[PDF](https://arxiv.org/abs/2409.13591),[Page](https://ustc3dv.github.io/PortraitGen/)]
 
-
 [arxiv 2024.10] Hallo2: Long-Duration and High-Resolution Audio-Driven Portrait Image Animation [[PDF](https://arxiv.org/abs/2410.07718),[Page]()]
-
-[arxiv 2024.10] MuseTalk: Real-Time High Quality Lip Synchronization with Latent Space Inpainting [[PDF](https://arxiv.org/abs/2410.10122),[Page](https://github.com/TMElyralab/MuseTalk)]
 
 [arxiv 2024.10] DAWN: Dynamic Frame Avatar with Non-autoregressive Diffusion Framework for Talking Head Video Generation [[PDF](https://hanbo-cheng.github.io/DAWN/),[Page](https://hanbo-cheng.github.io/DAWN/)]
 
 [arxiv 2024.12] HelloMeme: Integrating Spatial Knitting Attentions to Embed High-Level andFidelity-Rich Conditions in Diffusion Models  [[PDF](),[Page](https://songkey.github.io/hellomeme/)] ![Code](https://img.shields.io/github/stars/HelloVision/HelloMeme?style=social&label=Star)
-
 
 [arxiv 2024.10] Takin-ADA: Emotion Controllable Audio-Driven Animation with Canonical and Landmark Loss Optimization [[PDF](https://arxiv.org/pdf/2410.14283)]
 
@@ -1571,8 +1567,6 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 [arxiv 2024.12] MEMO: Memory-Guided Diffusion for Expressive Talking Video Generation  [[PDF](https://arxiv.org/abs/2412.04448),[Page](https://memoavatar.github.io/)] ![Code](https://img.shields.io/github/stars/memoavatar/memo?style=social&label=Star)
 
 [arxiv 2024.12] PortraitTalk: Towards Customizable One-Shot Audio-to-Talking Face Generation  [[PDF](https://arxiv.org/abs/2412.07754)]
-
-[arxiv 2024.12]  LatentSync: Audio Conditioned Latent Diffusion Models for Lip Sync [[PDF](https://arxiv.org/abs/2412.09262),[Page](https://github.com/bytedance/LatentSync)] ![Code](https://img.shields.io/github/stars/bytedance/LatentSync?style=social&label=Star)
 
 [arxiv 2024.12] CAP4D: Creating Animatable 4D Portrait Avatars with Morphable Multi-View Diffusion Models  [[PDF](https://arxiv.org/abs/2412.12093),[Page](https://felixtaubner.github.io/cap4d/)] ![Code](https://img.shields.io/github/stars/felixtaubner/cap4d/?style=social&label=Star)
 
@@ -1600,8 +1594,6 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2025.03] KeyFace: Expressive Audio-Driven Facial Animation for Long Sequences via KeyFrame Interpolation  [[PDF](https://arxiv.org/abs/2503.01715)]
 
-[arxiv 2025.03]  RASA: Replace Anyone, Say Anything – A Training-Free Framework for Audio-Driven and Universal Portrait Video Editing [[PDF](https://arxiv.org/abs/2503.11571),[Page](https://alice01010101.github.io/RASA/)]
-
 [arxiv 2025.03]  PC-Talk: Precise Facial Animation Control for Audio-Driven Talking Face Generation [[PDF](https://arxiv.org/abs/2503.14295),[Page](https://bq-wang0511.github.io/PC-Talk/)] 
 
 [arxiv 2025.03] Cafe-Talk: Generating 3D Talking Face Animation with Multimodal Coarse- and Fine-grained Control  [[PDF](https://arxiv.org/abs/2503.14517),[Page](https://harryxd2018.github.io/cafe-talk/)] 
@@ -1609,8 +1601,6 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 [arxiv 2025.04] Audio-visual Controlled Video Diffusion with Masked Selective State Spaces Modeling for Natural Talking Head Generation  [[PDF](https://arxiv.org/abs/2504.02542),[Page](https://harlanhong.github.io/publications/actalker/index.html)] ![Code](https://img.shields.io/github/stars/harlanhong/ACTalker?style=social&label=Star)
 
 [arxiv 2025.04] OmniTalker: Real-Time Text-Driven Talking Head Generation with In-Context Audio-Visual Style Replication  [[PDF](https://arxiv.org/abs/2504.02433),[Page](https://humanaigc.github.io/omnitalker)] 
-
-[arxiv 2025.05]  KeySync: A Robust Approach for Leakage-free Lip Synchronization in High Resolution [[PDF](https://arxiv.org/abs/2505.00497),[Page](https://antonibigata.github.io/KeySync/)] ![Code](https://img.shields.io/github/stars/antonibigata/keysync?style=social&label=Star)
 
 [arxiv 2025.05] IM-Portrait: Learning 3D-aware Video Diffusion for Photorealistic Talking Heads from Monocular Videos  [[PDF](https://arxiv.org/abs/2504.19165),[Page](https://y-u-a-n-l-i.github.io/projects/IM-Portrait/)] 
 
@@ -1664,11 +1654,22 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 
 # video dubbing
+[arxiv 2024.10] MuseTalk: Real-Time High Quality Lip Synchronization with Latent Space Inpainting [[PDF](https://arxiv.org/abs/2410.10122),[Page](https://github.com/TMElyralab/MuseTalk)]
+
+[arxiv 2024.12]  LatentSync: Audio Conditioned Latent Diffusion Models for Lip Sync [[PDF](https://arxiv.org/abs/2412.09262),[Page](https://github.com/bytedance/LatentSync)] ![Code](https://img.shields.io/github/stars/bytedance/LatentSync?style=social&label=Star)
+
+[arxiv 2025.03]  RASA: Replace Anyone, Say Anything – A Training-Free Framework for Audio-Driven and Universal Portrait Video Editing [[PDF](https://arxiv.org/abs/2503.11571),[Page](https://alice01010101.github.io/RASA/)]
+
 [arxiv 2025.04]  DeepDubber-V1: Towards High Quality and Dialogue, Narration, Monologue Adaptive Movie Dubbing Via Multi-Modal Chain-of-Thoughts Reasoning Guidance. [[PDF](https://arxiv.org/abs/2503.23660)]
 
 [arxiv 2025.04]  VoiceCraft-Dub: Automated Video Dubbing with Neural Codec Language Models [[PDF](https://arxiv.org/abs/2504.02386),[Page](https://voicecraft-dub.github.io/)] 
 
 [arxiv 2025.05]  FlowDubber: Movie Dubbing with LLM-based Semantic-aware Learning and Flow Matching based Voice Enhancing [[PDF](https://arxiv.org/abs/2505.01263),[Page](https://galaxycong.github.io/LLM-Flow-Dubber/)] 
+
+[arxiv 2025.05]  KeySync: A Robust Approach for Leakage-free Lip Synchronization in High Resolution [[PDF](https://arxiv.org/abs/2505.00497),[Page](https://antonibigata.github.io/KeySync/)] ![Code](https://img.shields.io/github/stars/antonibigata/keysync?style=social&label=Star)
+
+[arxiv 2025.06] SkyReels-Audio: Omni Audio-Conditioned Talking Portraits in Video Diffusion Transformers  [[PDF](https://arxiv.org/pdf/2506.00830),[Page](https://skyworkai.github.io/skyreels-audio.github.io/)] 
+
 
 [arxiv 2025.07]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
