@@ -2275,6 +2275,9 @@ Creative Layout-to-Image Generation [[PDF](https://arxiv.org/pdf/2412.03859),[Pa
 [arxiv 2025.06] Rethink Sparse Signals for Pose-guided Text-to-image Generation  [[PDF](https://arxiv.org/abs/2506.20983),[Page](https://github.com/DREAMXFAR/SP-Ctrl)] ![Code](https://img.shields.io/github/stars/DREAMXFAR/SP-Ctrl?style=social&label=Star)
 
 [arxiv 2025.07] MTADiffusion: Mask Text Alignment Diffusion Model for Object Inpainting  [[PDF](https://arxiv.org/abs/2506.23482)]
+
+[arxiv 2025.07] Preserve Anything: Controllable Image Synthesis with Object Preservation  [[PDF](https://arxiv.org/abs/2506.22531)]
+
 [arxiv 2025.07]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 
