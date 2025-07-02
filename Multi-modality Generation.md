@@ -372,6 +372,8 @@
 
 [arxiv 2025.06]  MiCo: Multi-image Contrast for Reinforcement Visual Reasoning [[PDF](https://arxiv.org/pdf/2506.22434)]
 
+[arxiv 2025.07]  GLM-4.1V-Thinking: Towards Versatile Multimodal Reasoning with Scalable Reinforcement Learning [[PDF](https://arxiv.org/abs/2507.01006),[Page](https://github.com/THUDM/GLM-4.1V-Thinking)] ![Code](https://img.shields.io/github/stars/THUDM/GLM-4.1V-Thinking?style=social&label=Star) 
+
 [arxiv 2025.07]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
 
 
