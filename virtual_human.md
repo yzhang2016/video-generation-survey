@@ -1,3 +1,9 @@
+## Dataset
+[arxiv 2025.07]  Seamless Interaction: Dyadic Audiovisual Motion Modeling and Large-Scale Dataset [[PDF](https://arxiv.org/abs/2506.22554),[Page](https://github.com/facebookresearch/seamless_interaction)] ![Code](https://img.shields.io/github/stars/facebookresearch/seamless_interaction?style=social&label=Star)
+
+[arxiv 2025.07]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
+
+
 
 ## Gaussian Face 
 [arxiv 2025.01] PERSE: Personalized 3D Generative Avatars from A Single Portrait  [[PDF](https://arxiv.org/abs/2412.21206),[Page](https://hyunsoocha.github.io/perse/)] ![Code](https://img.shields.io/github/stars/snuvclab/perse?style=social&label=Star)
