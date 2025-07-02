@@ -1290,6 +1290,8 @@
 
 [arxiv 2025.06]  Calligrapher: Freestyle Text Image Customization [[PDF](https://arxiv.org/abs/2506.24123),[Page](https://calligrapher2025.github.io/Calligrapher)] ![Code](https://img.shields.io/github/stars/Calligrapher2025/Calligrapher?style=social&label=Star)
 
+[arxiv 2025.07] UniGlyph: Unified Segmentation-Conditioned Diffusion for Precise Visual Text Synthesis  [[PDF](https://arxiv.org/pdf/2507.00992)]
+
 [arxiv 2025.07]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 
