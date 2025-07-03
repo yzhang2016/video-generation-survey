@@ -988,6 +988,9 @@
 
 [arxiv 2025.06] Highly Compressed Tokenizer Can Generate Without Training  [[PDF](https://arxiv.org/html/2506.08257v1),[Page](https://github.com/lukaslaobeyer/token-opt)] ![Code](https://img.shields.io/github/stars/lukaslaobeyer/token-opt?style=social&label=Star)
 
+[arxiv 2025.06]  FlexTok: Resampling Images into 1D Token Sequences of Flexible Length [[PDF](https://arxiv.org/abs/2502.13967),[Page](https://github.com/apple/ml-flextok)] ![Code](https://img.shields.io/github/stars/apple/ml-flextok?style=social&label=Star)
+
+
 [arxiv 2025.07]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 
