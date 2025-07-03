@@ -179,6 +179,7 @@
 
 [arxiv 2025.06] HaploVL - A Single-Transformer Baseline for Multi-Modal Understanding  [[PDF](http://arxiv.org/abs/2503.14694),[Page](https://github.com/Tencent/HaploVLM)] ![Code](https://img.shields.io/github/stars/Tencent/HaploVLM?style=social&label=Star) 
 
+[arxiv 2025.07] Kwai Keye-VL Technical Report  [[PDF](https://arxiv.org/abs/2507.01949),[Page](https://github.com/Kwai-Keye/Keye)] ![Code](https://img.shields.io/github/stars/Kwai-Keye/Keye?style=social&label=Star) 
 
 [arxiv 2025.07]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
 
