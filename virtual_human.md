@@ -218,7 +218,7 @@
 
 [arxiv 2025.06] DuetGen: Music Driven Two-Person Dance Generation via Hierarchical Masked Modeling  [[PDF](https://arxiv.org/abs/2506.18680),[Page](https://github.com/anindita127/DuetGen)] ![Code](https://img.shields.io/github/stars/anindita127/DuetGen?style=social&label=Star)
 
-
+[arxiv 2025.07]  HOI-Dyn: Learning Interaction Dynamics for Human-Object Motion Diffusion [[PDF](https://arxiv.org/pdf/2507.01737)]
 
 [arxiv 2025.07]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -234,6 +234,8 @@
 [arxiv 2025.03]  UniHOPE: A Unified Approach for Hand-Only and Hand-Object Pose Estimation [[PDF](https://arxiv.org/pdf/2503.13303),[Page](https://github.com/JoyboyWang/UniHOPE_Pytorch)] ![Code](https://img.shields.io/github/stars/JoyboyWang/UniHOPE_Pytorch?style=social&label=Star)
 
 [arxiv 2025.03] Reconstructing In-the-Wild Open-Vocabulary Human-Object Interactions [[PDF](https://arxiv.org/abs/2503.15898),[Page](https://wenboran2002.github.io/3dhoi/)] ![Code](https://img.shields.io/github/stars/wenboran2002/open-3dhoi?style=social&label=Star)
+
+[arxiv 2025.07]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 
 [arxiv 2025.07]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
