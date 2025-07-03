@@ -184,7 +184,10 @@ A reading list of video generation
 
 * **Phantom-Data**
   [arxiv 2025.06]  Phantom-Data: Towards a General Subject-Consistent Video Generation Dataset[[PDF](https://arxiv.org/pdf/2506.18851),[Page]([https://lixsp11.github.io/sekai-project/](https://phantom-video.github.io/Phantom-Data/))]  ![Code](https://img.shields.io/github/stars/Phantom-video/Phantom-Data?style=social&label=Star)
- 
+
+* **CI-VID interleaved Text-Video Dataset**
+ [arxiv 2025.07] CI-VID: A Coherent Interleaved Text-Video Dataset  [[PDF](https://arxiv.org/abs/2507.01938),[Page](https://github.com/ymju-BAAI/CI-VID)] ![Code](https://img.shields.io/github/stars/ymju-BAAI/CI-VID?style=social&label=Star)
+
 
 [arxiv 2025.07]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -941,8 +944,9 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2025.06] Follow-Your-Motion: Video Motion Transfer via Efficient Spatial-Temporal Decoupled Finetuning  [[PDF](https://arxiv.org/abs/2506.05207),[Page](https://follow-your-motion.github.io/)] 
 
-
 [arxiv 2025.07]  SynMotion: Semantic-Visual Adaptation for Motion Customized Video Generation [[PDF](http://arxiv.org/abs/2506.23690),[Page](https://lucaria-academy.github.io/SynMotion/)] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
+
+[arxiv 2025.07] LongAnimation: Long Animation Generation with Dynamic Global-Local Memory  [[PDF](https://arxiv.org/abs/2507.01945),[Page](https://cn-makers.github.io/long_animation_web/)] ![Code](https://img.shields.io/github/stars/CN-makers/LongAnimation?style=social&label=Star)
 
 
 [arxiv 2025.07]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
@@ -1867,9 +1871,13 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 ## Audio and video Generation
 [arxiv 2025.04]  JavisDiT: Joint Audio-Video Diffusion Transformer with Hierarchical Spatio-Temporal Prior Synchronization [[PDF](https://arxiv.org/pdf/2503.23377.pdf),[Page](https://javisdit.github.io/)] ![Code](https://img.shields.io/github/stars/JavisDiT/JavisDiT?style=social&label=Star)
 
+[arxiv 2025.06]  Audio-Sync Video Generation with Multi-Stream Temporal Control [[PDF](https://arxiv.org/pdf/2506.08003),[Page](https://hjzheng.net/projects/MTV/)] ![Code](https://img.shields.io/github/stars/suimuc/MTV_Framework?style=social&label=Star)
+
 [arxiv 2025.07]  JAM-Flow: Joint Audio-Motion Synthesis with Flow Matching [[PDF](https://arxiv.org/abs/2506.23552),[Page](https://joonghyuk.com/jamflow-web/)] 
 
 [arxiv 2025.07]  ThinkSound: Chain-of-Thought Reasoning in Multimodal Large Language Models for Audio Generation and Editing [[PDF](https://arxiv.org/html/2506.21448v1),[Page](https://thinksound-demo.github.io/)] 
+
+
 
 [arxiv 2025.07]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -1899,6 +1907,8 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 [arxiv 2025.06]  UNIC: Unified In-Context Video Editing [[PDF](https://zixuan-ye.github.io/UNIC/YOUR_PAPER_LINK_HERE),[Page](https://zixuan-ye.github.io/UNIC/)] 
 
 [arxiv 2025.07] OmniVCus: Feedforward Subject-driven Video Customization with Multimodal Control Conditions  [[PDF](http://arxiv.org/abs/2506.23361),[Page](https://caiyuanhao1998.github.io/project/OmniVCus/)] ![Code](https://img.shields.io/github/stars/caiyuanhao1998/Open-OmniVCus?style=social&label=Star)
+
+[arxiv 2025.07]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 
 [arxiv 2025.07]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
