@@ -521,6 +521,9 @@
 ## reason
 [arxiv 2025.06]  MMMG: A Massive, Multidisciplinary, Multi-Tier Generation Benchmark for Text-to-Image Reasoning [[PDF](https://arxiv.org/abs/2506.10963),[Page](https://mmmgbench.github.io/)] ![Code](https://img.shields.io/github/stars/MMMGBench/MMMG/?style=social&label=Star)
 
+[arxiv 2025.07]  Reasoning to Edit: Hypothetical Instruction-Based Image Editing with Visual Reasoning [[PDF](https://arxiv.org/abs/2507.01908),[Page](https://github.com/hithqd/ReasonBrain)] ![Code](https://img.shields.io/github/stars/hithqd/ReasonBrain?style=social&label=Star)
+
+
 [arxiv 2025.07]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 
@@ -568,6 +571,7 @@
 
 [arxiv 2025.06]  VINCIE: Unlocking In-context Image Editing from Video [[PDF](https://arxiv.org/pdf/2506.10941),[Page](https://vincie2025.github.io/)] 
 
+[arxiv 2025.06] FLUX.1 Kontext: Flow Matching for In-Context Image Generation and Editing in Latent Space  [[PDF](https://arxiv.org/abs/2506.15742),[Page](https://huggingface.co/black-forest-labs/FLUX.1-Kontext-dev)] ![Code](https://img.shields.io/github/stars/black-forest-labs/flux?style=social&label=Star)
 
 [arxiv 2025.07]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -1104,6 +1108,7 @@
 
 [arxiv 2025.06] SkipVAR: Accelerating Visual Autoregressive Modeling via Adaptive Frequency-Aware Skipping  [[PDF](https://arxiv.org/abs/2506.08908),[Page](https://github.com/fakerone-li/SkipVAR)] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
+[arxiv 2025.07] Locality-aware Parallel Decoding for Efficient Autoregressive Image Generation  [[PDF](https://arxiv.org/abs/2507.01957),[Page](https://github.com/mit-han-lab/lpd)] ![Code](https://img.shields.io/github/stars/mit-han-lab/lpd?style=social&label=Star)
 
 [arxiv 2025.07]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -1714,6 +1719,10 @@
 [arxiv 2025.06] ShowFlow: From Robust Single Concept to Condition-Free Multi-Concept Generation  [[PDF](https://arxiv.org/pdf/2506.18493)]
 
 [arxiv 2025.06] XVerse: Consistent Multi-Subject Control of Identity and Semantic Attributes via DiT Modulation  [[PDF](https://arxiv.org/abs/2506.21416),[Page](https://bytedance.github.io/XVerse/)] ![Code](https://img.shields.io/github/stars/bytedance/XVerse?style=social&label=Star)
+
+[arxiv 2025.07] IC-Custom: Diverse Image Customization via In-Context Learning  [[PDF](https://arxiv.org/abs/2507.01926),[Page](https://liyaowei-stu.github.io/project/IC_Custom)] ![Code](https://img.shields.io/github/stars/TencentARC/IC-Custom?style=social&label=Star)
+
+[arxiv 2025.07]  FreeLoRA: Enabling Training-Free LoRA Fusion for Autoregressive Multi-Subject Personalization [[PDF](https://arxiv.org/pdf/2507.01792),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 
 [arxiv 2025.07]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
@@ -2775,6 +2784,9 @@ Creative Layout-to-Image Generation [[PDF](https://arxiv.org/pdf/2412.03859),[Pa
 [arxiv 2025.04] MirrorVerse: Pushing Diffusion Models to Realistically Reflect the World  [[PDF](https://arxiv.org/abs/2504.15397),[Page](https://mirror-verse.github.io/)] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 [arxiv 2025.06] PosterCraft: Rethinking High-Quality Aesthetic Poster Generation in a Unified Framework  [[PDF](https://arxiv.org/abs/2506.10741),[Page](https://ephemeral182.github.io/PosterCraft/)] ![Code](https://img.shields.io/github/stars/Ephemeral182/PosterCraft?style=social&label=Star)
+
+[arxiv 2025.07]  FreeMorph: Tuning-Free Generalized Image Morphing with Diffusion Model [[PDF](https://arxiv.org/abs/2507.01953),[Page](https://yukangcao.github.io/FreeMorph/)] ![Code](https://img.shields.io/github/stars/yukangcao/FreeMorph?style=social&label=Star)
+
 
 [arxiv 2025.07]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
