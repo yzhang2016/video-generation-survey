@@ -261,6 +261,9 @@ A reading list of video generation
 
 [arxiv 2025.05] VFRTok: Variable Frame Rates Video Tokenizer with Duration-Proportional Information Assumption  [[PDF](https://arxiv.org/abs/2505.12053)]
 
+[arxiv 2025.07] REFTOK: Reference-Based Tokenization for Video Generation  [[PDF](https://arxiv.org/pdf/2507.02862)]
+
+
 [arxiv 2025.07]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 
@@ -947,6 +950,8 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 [arxiv 2025.07]  SynMotion: Semantic-Visual Adaptation for Motion Customized Video Generation [[PDF](http://arxiv.org/abs/2506.23690),[Page](https://lucaria-academy.github.io/SynMotion/)] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 [arxiv 2025.07] LongAnimation: Long Animation Generation with Dynamic Global-Local Memory  [[PDF](https://arxiv.org/abs/2507.01945),[Page](https://cn-makers.github.io/long_animation_web/)] ![Code](https://img.shields.io/github/stars/CN-makers/LongAnimation?style=social&label=Star)
+
+[arxiv 2025.07]  AnyI2V: Animating Any Conditional Image with Motion Control [[PDF](https://arxiv.org/abs/2507.02857),[Page](https://henghuiding.com/AnyI2V/)] ![Code](https://img.shields.io/github/stars/FudanCVL/AnyI2V?style=social&label=Star)
 
 
 [arxiv 2025.07]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
@@ -2416,6 +2421,9 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 [arxiv 2025.06]  Autoregressive Adversarial Post-Training for Real-Time Interactive Video Generation [[PDF](https://arxiv.org/abs/2506.09350),[Page](https://seaweed-apt.com/2)] 
 
 [arxiv 2025.07]  VMoBA: Mixture-of-Block Attention for Video Diffusion Models [[PDF](https://arxiv.org/pdf/2506.23858),[Page](https://github.com/KwaiVGI/VMoBA)] ![Code](https://img.shields.io/github/stars/KwaiVGI/VMoBA?style=social&label=Star)
+
+[arxiv 2025.07]  Less is Enough: Training-Free Video Diffusion Acceleration via Runtime-Adaptive Caching [[PDF](https://arxiv.org/abs/2507.02860),[Page](https://github.com/H-EmbodVis/EasyCache)] ![Code](https://img.shields.io/github/stars/H-EmbodVis/EasyCache?style=social&label=Star)
+
 
 [arxiv 2025.07]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
