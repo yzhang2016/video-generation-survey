@@ -994,6 +994,7 @@
 
 [arxiv 2025.06]  FlexTok: Resampling Images into 1D Token Sequences of Flexible Length [[PDF](https://arxiv.org/abs/2502.13967),[Page](https://github.com/apple/ml-flextok)] ![Code](https://img.shields.io/github/stars/apple/ml-flextok?style=social&label=Star)
 
+[arxiv 2025.07]  Holistic Tokenizer for Autoregressive Image Generation [[PDF](https://arxiv.org/pdf/2507.02358),[Page](https://github.com/CVMI-Lab/Hita)] ![Code](https://img.shields.io/github/stars/CVMI-Lab/Hita?style=social&label=Star)
 
 [arxiv 2025.07]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -1727,9 +1728,10 @@
 
 [arxiv 2025.07]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
-## multi-human
+## multi-object
 [arxiv 2025.06]  MultiHuman-Testbench: Benchmarking Image Generation for Multiple Humans [[PDF](https://arxiv.org/abs/2506.20879)]
 
+[arxiv 2025.07]  UNIMC: Taming Diffusion Transformer for Unified Keypoint-Guided Multi-Class Image Generation [[PDF](https://arxiv.org/pdf/2507.02713),[Page](https://unimc-dit.github.io/)] 
 
 
 
@@ -2291,6 +2293,9 @@ Creative Layout-to-Image Generation [[PDF](https://arxiv.org/pdf/2412.03859),[Pa
 [arxiv 2025.07] MTADiffusion: Mask Text Alignment Diffusion Model for Object Inpainting  [[PDF](https://arxiv.org/abs/2506.23482)]
 
 [arxiv 2025.07] Preserve Anything: Controllable Image Synthesis with Object Preservation  [[PDF](https://arxiv.org/abs/2506.22531)]
+
+[arxiv 2025.07] RichControl: Structure- and Appearance-Rich Training-Free Spatial Control for Text-to-Image Generation  [[PDF](https://arxiv.org/pdf/2507.02792),[Page](https://zhang-liheng.github.io/rich-control/)] ![Code](https://img.shields.io/github/stars/zhang-liheng/RichControl?style=social&label=Star)
+
 
 [arxiv 2025.07]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
