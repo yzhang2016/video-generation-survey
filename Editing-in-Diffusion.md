@@ -508,6 +508,9 @@
 
 [arxiv 2025.06] CPAM: Context-Preserving Adaptive Manipulation for Zero-Shot Real Image Editing  [[PDF](https://arxiv.org/pdf/2506.18438)]
 
+[arxiv 2025.07] Beyond Simple Edits: X-Planner for Complex Instruction-Based Image Editing  [[PDF](http://arxiv.org/abs/2507.05259),[Page](https://danielchyeh.github.io/x-planner/)] 
+
+
 [arxiv 2025.07]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 
@@ -1114,8 +1117,14 @@
 [arxiv 2025.07]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 ## autoregressive continuous
-[arxiv 2025.05]  Continuous Visual Autoregressive Generation via Score Maximization [[PDF](https://arxiv.org/pdf/2505.07812),[Page](https://github.com/shaochenze/EAR)] ![Code](https://img.shields.io/github/stars/shaochenze/EAR?style=social&label=Star)
+[arxiv 2025.05]  Continuous Visual Autoregressive Generation via Score Maximization [[PDF](https://arxiv.org/pdf/2505.07812)]
 
+
+[arxiv 2025.07]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
+
+
+## autoregressive apps
+[arxiv 2025.07]  A Training-Free Style-Personalization via Scale-wise Autoregressive Model [[PDF](https://arxiv.org/pdf/2507.04482),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 [arxiv 2025.07]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -2721,6 +2730,9 @@ Creative Layout-to-Image Generation [[PDF](https://arxiv.org/pdf/2412.03859),[Pa
 
 [arxiv 2025.07]  Imagine for Me: Creative Conceptual Blending of Real Images and Text via Blended Attention [[PDF](https://arxiv.org/pdf/2506.24085),[Page](https://imagineforme.github.io/)] ![Code](https://img.shields.io/github/stars/WonwoongCho/IT-Blender?style=social&label=Star)
 
+[arxiv 2025.07] Domain Generalizable Portrait Style Transfer  [[PDF](https://arxiv.org/abs/2507.04243),[Page](https://github.com/wangxb29/DGPST)] ![Code](https://img.shields.io/github/stars/wangxb29/DGPST?style=social&label=Star)
+
+
 [arxiv 2025.07]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 
@@ -2738,6 +2750,7 @@ Creative Layout-to-Image Generation [[PDF](https://arxiv.org/pdf/2412.03859),[Pa
 
 [arxiv 2025.05]  T2I-R1: Reinforcing Image Generation with Collaborative Semantic-level and Token-level CoT [[PDF](https://arxiv.org/abs/2505.00703),[Page](https://github.com/CaraJ7/T2I-R1)] ![Code](https://img.shields.io/github/stars/CaraJ7/T2I-R1?style=social&label=Star)
 
+[arxiv 2025.07] CoT-lized Diffusion: Let's Reinforce T2I Generation Step-by-step  [[PDF](https://arxiv.org/abs/2507.04451)]
 
 [arxiv 2025.07]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -2791,6 +2804,8 @@ Creative Layout-to-Image Generation [[PDF](https://arxiv.org/pdf/2412.03859),[Pa
 [arxiv 2025.06] PosterCraft: Rethinking High-Quality Aesthetic Poster Generation in a Unified Framework  [[PDF](https://arxiv.org/abs/2506.10741),[Page](https://ephemeral182.github.io/PosterCraft/)] ![Code](https://img.shields.io/github/stars/Ephemeral182/PosterCraft?style=social&label=Star)
 
 [arxiv 2025.07]  FreeMorph: Tuning-Free Generalized Image Morphing with Diffusion Model [[PDF](https://arxiv.org/abs/2507.01953),[Page](https://yukangcao.github.io/FreeMorph/)] ![Code](https://img.shields.io/github/stars/yukangcao/FreeMorph?style=social&label=Star)
+
+[arxiv 2025.07]  DreamPoster: A Unified Framework for Image-Conditioned Generative Poster Design [[PDF](https://arxiv.org/abs/2507.04218),[Page](https://dreamposter.github.io/)] 
 
 
 [arxiv 2025.07]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
