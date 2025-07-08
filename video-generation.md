@@ -263,6 +263,7 @@ A reading list of video generation
 
 [arxiv 2025.07] REFTOK: Reference-Based Tokenization for Video Generation  [[PDF](https://arxiv.org/pdf/2507.02862)]
 
+[arxiv 2025.07] MambaVideo for Discrete Video Tokenization with Channel-Split Quantization  [[PDF](https://arxiv.org/abs/2507.04559),[Page](https://research.nvidia.com/labs/dir/mamba-tokenizer/)] 
 
 [arxiv 2025.07]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -1512,6 +1513,9 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2025.07] Proteus-ID: ID-Consistent and Motion-Coherent Video Customization  [[PDF](https://arxiv.org/pdf/2506.23729),[Page](https://grenoble-zhang.github.io/Proteus-ID/)] ![Code](https://img.shields.io/github/stars/grenoble-zhang/Proteus-ID?style=social&label=Star)
 
+[arxiv 2025.07] Identity-Preserving Text-to-Video Generation Guided by Simple yet Effective Spatial-Temporal Decoupled Representations  [[PDF](https://arxiv.org/pdf/2507.04705)]
+
+
 [arxiv 2025.07]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 
@@ -1887,13 +1891,16 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 [arxiv 2025.07]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 
-## audio generation 
+## video-to-audio generation 
 
 [arxiv 2025.03] AudioX: Diffusion Transformer for Anything-to-Audio Generation  [[PDF](https://arxiv.org/abs/2503.10522/),[Page](https://zeyuet.github.io/AudioX/)] ![Code](https://img.shields.io/github/stars/ZeyueT/AudioX?style=social&label=Star)
 
 [arxiv 2025.03]  DeepAudio-V1:Towards Multi-Modal Multi-Stage End-to-End Video to Speech and Audio Generation [[PDF](https://arxiv.org/abs/2503.22265)]
 
 [arxiv 2025.04] Extending Visual Dynamics for Video-to-Music Generation  [[PDF](https://arxiv.org/abs/2504.07594)】
+
+[arxiv 2025.07] Hear-Your-Click: Interactive Video-to-Audio Generation via Object-aware Contrastive Audio-Visual Fine-tuning  [[PDF](http://arxiv.org/abs/2507.04959),[Page](https://github.com/SynapGrid/Hear-Your-Click)] ![Code](https://img.shields.io/github/stars/SynapGrid/Hear-Your-Click?style=social&label=Star)
+
 
 [arxiv 2025.07]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -2151,10 +2158,7 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 [arxiv 2024.12]  Extracting Motion and Appearance via Inter-Frame Attention for Efficient Video Frame Interpolation
  [[PDF](https://arxiv.org/abs/2303.00440),[Page](https://github.com/MCG-NJU/EMA-VFI?tab=readme-ov-file)] ![Code](https://img.shields.io/github/stars/MCG-NJU/EMA-VFI?style=social&label=Star)
 
-
-
 [arxiv 2023.10]DynamiCrafter: Animating Open-domain Images with Video Diffusion Priors [[PDF](https://arxiv.org/abs/2310.12190), [Page](https://github.com/AILab-CVC/VideoCrafter)]
-
 
 [arxiv 2024.03]Explorative Inbetweening of Time and Space [[PDF](https://time-reversal.github.io/),[Page](https://time-reversal.github.io/)]
 
@@ -2214,6 +2218,9 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2025.06]  Controllable Human-centric Keyframe Interpolation with Generative Prior [[PDF](https://arxiv.org/abs/2506.03119),[Page](https://gseancdat.github.io/projects/PoseFuse3D_KI)] ![Code](https://img.shields.io/github/stars/GSeanCDAT/PoseFuse3D-KI?style=social&label=Star)
 
+[arxiv 2025.07] Semantic Frame Interpolation  [[PDF](https://arxiv.org/pdf/2507.05173),[Page](https://hyj542682306.github.io/sfi/)] ![Code](https://img.shields.io/github/stars/hyj542682306/Semantic-Frame-Interpolation?style=social&label=Star)
+
+[arxiv 2025.07]TLB-VFI: Temporal-Aware Latent Brownian Bridge Diffusion for Video Frame Interpolation   [[PDF](https://arxiv.org/abs/2507.04984)]
 
 [arxiv 2025.07]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
