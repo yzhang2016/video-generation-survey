@@ -674,6 +674,7 @@
 
 [arxiv 2025.07] Pyramidal Patchification Flow for Visual Generation  [[PDF](https://arxiv.org/pdf/2506.23543),[Page](https://github.com/fudan-generative-vision/PPFlow)] ![Code](https://img.shields.io/github/stars/fudan-generative-vision/PPFlow?style=social&label=Star)
 
+[arxiv 2025.07]  FACM: Flow-Anchored Consistency Models [[PDF](https://arxiv.org/abs/2507.03738),[Page](https://github.com/ali-vilab/FACM)] ![Code](https://img.shields.io/github/stars/ali-vilab/FACM?style=social&label=Star)
 
 [arxiv 2025.07]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
