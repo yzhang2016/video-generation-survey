@@ -1933,6 +1933,10 @@ Cross-Attention Control [[PDF](https://arxiv.org/abs/2402.13404)]
 
 [arxiv 2025.05] Lay-Your-Scene: Natural Scene Layout Generation with Diffusion Transformers  [[PDF](https://arxiv.org/pdf/2505.04718)]
 
+[arxiv 2025.07] ReLayout: Integrating Relation Reasoning for Content-aware Layout Generation with Multi-modal Large Language Models  [[PDF](https://arxiv.org/pdf/2507.05568),[Page](https://huggingface.co/datasets/jiaxutian/ReLayout)] 
+
+
+
 [arxiv 2025.07]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
 
 
