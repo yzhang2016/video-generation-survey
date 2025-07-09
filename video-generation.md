@@ -1623,7 +1623,7 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2025.05] IM-Portrait: Learning 3D-aware Video Diffusion for Photorealistic Talking Heads from Monocular Videos  [[PDF](https://arxiv.org/abs/2504.19165),[Page](https://y-u-a-n-l-i.github.io/projects/IM-Portrait/)] 
 
-
+[arxiv 2025.07] MoDA: Multi-modal Diffusion Architecture for Talking Head Generation  [[PDF](https://arxiv.org/pdf/2507.03256)]
 
 [arxiv 2025.07]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -1660,6 +1660,7 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2025.06]  OmniAvatar: Efficient Audio-Driven Avatar Video Generation with Adaptive Body Animation [[PDF](https://arxiv.org/abs/2506.18866),[Page](https://omni-avatar.github.io/)] ![Code](https://img.shields.io/github/stars/Omni-Avatar/OmniAvatar?style=social&label=Star)
 
+[arxiv 2025.07] EchoMimicV3: 1.3B Parameters are All You Need for Unified Multi-Modal and Multi-Task Human Animation  [[PDF](https://arxiv.org/pdf/2507.03905)]
 
 
 [arxiv 2025.07]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
@@ -2431,6 +2432,8 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2025.07]  Less is Enough: Training-Free Video Diffusion Acceleration via Runtime-Adaptive Caching [[PDF](https://arxiv.org/abs/2507.02860),[Page](https://github.com/H-EmbodVis/EasyCache)] ![Code](https://img.shields.io/github/stars/H-EmbodVis/EasyCache?style=social&label=Star)
 
+[arxiv 2025.07] StreamDiT: Real-Time Streaming Text-to-Video Generation  [[PDF](https://arxiv.org/abs/2507.03745),[Page](https://cumulo-autumn.github.io/StreamDiT/)] 
+
 
 [arxiv 2025.07]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -2531,6 +2534,9 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 [arxiv 2025.06]   Matrix-Game: Interactive World Foundation Model[[PDF](https://arxiv.org/pdf/2506.18701),[Page](https://matrix-game-homepage.github.io/)] ![Code](https://img.shields.io/github/stars/SkyworkAI/Matrix-Game?style=social&label=Star)
 
 [arxiv 2025.06] Whole-Body Conditioned Egocentric Video Prediction [[PDF](http://arxiv.org/abs/2506.21552),[Page](https://dannytran123.github.io/PEVA/)] 
+
+[arxiv 2025.07] Critiques of World Models  [[PDF](https://arxiv.org/pdf/2507.05169)]
+
 
 [arxiv 2025.07]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
