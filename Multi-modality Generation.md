@@ -375,6 +375,10 @@
 
 [arxiv 2025.07]  GLM-4.1V-Thinking: Towards Versatile Multimodal Reasoning with Scalable Reinforcement Learning [[PDF](https://arxiv.org/abs/2507.01006),[Page](https://github.com/THUDM/GLM-4.1V-Thinking)] ![Code](https://img.shields.io/github/stars/THUDM/GLM-4.1V-Thinking?style=social&label=Star) 
 
+[arxiv 2025.07] Skywork-R1V3 Technical Report  [[PDF](https://arxiv.org/abs/2507.06167),[Page](https://github.com/SkyworkAI/Skywork-R1V)] ![Code](https://img.shields.io/github/stars/SkyworkAI/Skywork-R1V?style=social&label=Star) 
+
+
+
 [arxiv 2025.07]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
 
 
