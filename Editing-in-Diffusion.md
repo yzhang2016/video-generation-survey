@@ -2558,6 +2558,9 @@ Creative Layout-to-Image Generation [[PDF](https://arxiv.org/pdf/2412.03859),[Pa
 
 [arxiv 2025.06] Diffusion Transformer-to-Mamba Distillation for High-Resolution Image Generation  [[PDF](https://arxiv.org/abs/2506.18999)]
 
+[arxiv 2025.07]  4KAgent: Agentic Any Image to 4K Super-Resolution [[PDF](https://arxiv.org/abs/2507.07105),[Page](https://4kagent.github.io/)] 
+
+
 [arxiv 2025.07]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 
