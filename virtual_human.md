@@ -1,6 +1,9 @@
 ## Dataset
 [arxiv 2025.07]  Seamless Interaction: Dyadic Audiovisual Motion Modeling and Large-Scale Dataset [[PDF](https://arxiv.org/abs/2506.22554),[Page](https://github.com/facebookresearch/seamless_interaction)] ![Code](https://img.shields.io/github/stars/facebookresearch/seamless_interaction?style=social&label=Star)
 
+[arxiv 2025.07] Go to Zero: Towards Zero-shot Motion Generation with Million-scale Data  [[PDF](https://arxiv.org/abs/2507.07095),[Page](https://github.com/VankouF/MotionMillion-Codes)] ![Code](https://img.shields.io/github/stars/VankouF/MotionMillion-Codes?style=social&label=Star)
+
+
 [arxiv 2025.07]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 
@@ -105,6 +108,8 @@
 [arxiv 2025.06]  PlanMoGPT: Flow-Enhanced Progressive Planning for Text to Motion Synthesis [[PDF](http://arxiv.org/abs/2506.17912),[Page](https://planmogpt.github.io/)] ![Code](https://img.shields.io/github/stars/PlanMoGPT/PlanMoGPT.github.io?style=social&label=Star)
 
 [arxiv 2025.07]  MotionGPT3: Human Motion as a Second Modality [[PDF](https://arxiv.org/abs/2506.24086),[Page](https://motiongpt3.github.io/)] ![Code](https://img.shields.io/github/stars/OpenMotionLab/MotionGPT3?style=social&label=Star)
+
+[arxiv 2025.07] Go to Zero: Towards Zero-shot Motion Generation with Million-scale Data  [[PDF](https://arxiv.org/abs/2507.07095),[Page](https://github.com/VankouF/MotionMillion-Codes)] ![Code](https://img.shields.io/github/stars/VankouF/MotionMillion-Codes?style=social&label=Star)
 
 
 [arxiv 2025.07]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
