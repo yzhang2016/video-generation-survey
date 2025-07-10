@@ -1207,8 +1207,7 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2025.06] Vid-CamEdit: Video Camera Trajectory Editing with Generative Rendering from Estimated Geometry  [[PDF](https://arxiv.org/abs/xxx),[Page](https://cvlab-kaist.github.io/Vid-CamEdit/)] ![Code](https://img.shields.io/github/stars/cvlab-kaist/Vid-CamEdit?style=social&label=Star)
 
-[arxiv 2025.07]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
-
+[arxiv 2025.07] Physics-Grounded Motion Forecasting via Equation Discovery for Trajectory-Guided Image-to-Video Generation  [[PDF](https://arxiv.org/abs/2507.06830)】
 
 [arxiv 2025.07]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -1665,6 +1664,7 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2025.07] EchoMimicV3: 1.3B Parameters are All You Need for Unified Multi-Modal and Multi-Task Human Animation  [[PDF](https://arxiv.org/pdf/2507.03905)]
 
+[arxiv 2025.07] Democratizing High-Fidelity Co-Speech Gesture Video Generation  [[PDF](https://arxiv.org/abs/2507.06812),[Page](https://mpi-lab.github.io/Democratizing-CSG/)] ![Code](https://img.shields.io/github/stars/MPI-Lab/Democratizing-CSG?style=social&label=Star)
 
 [arxiv 2025.07]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
