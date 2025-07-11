@@ -1000,6 +1000,9 @@
 
 [arxiv 2025.07]  Holistic Tokenizer for Autoregressive Image Generation [[PDF](https://arxiv.org/pdf/2507.02358),[Page](https://github.com/CVMI-Lab/Hita)] ![Code](https://img.shields.io/github/stars/CVMI-Lab/Hita?style=social&label=Star)
 
+[arxiv 2025.07]  MGVQ: Could VQ-VAE Beat VAE? A Generalizable Tokenizer with Multi-group Quantization [[PDF](https://arxiv.org/abs/2507.07997),[Page](https://github.com/MKJia/MGVQ)] ![Code](https://img.shields.io/github/stars/MKJia/MGVQ?style=social&label=Star)
+
+
 [arxiv 2025.07]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 
