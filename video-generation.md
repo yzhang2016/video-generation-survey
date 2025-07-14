@@ -1087,6 +1087,8 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2025.03]  Fast Autoregressive Video Generation with Diagonal Decoding[[PDF](https://arxiv.org/abs/2503.14070),[Page](https://www.microsoft.com/en-us/research/project/ar-videos/diagonal-decoding/)] 
 
+[arxiv 2025.07] Lumos-1: On Autoregressive Video Generation from a Unified Model Perspective  [[PDF](https://arxiv.org/abs/2507.08801),[Page](https://github.com/alibaba-damo-academy/Lumos)] ![Code](https://img.shields.io/github/stars/alibaba-damo-academy/Lumos?style=social&label=Star)
+
 
 [arxiv 2025.07]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
