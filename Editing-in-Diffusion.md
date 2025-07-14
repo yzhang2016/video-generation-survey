@@ -3101,6 +3101,8 @@ Creative Layout-to-Image Generation [[PDF](https://arxiv.org/pdf/2412.03859),[Pa
 
 [arxiv 2025.06] Inverse-and-Edit: Effective and Fast Image Editing by Cycle Consistency Models  [[PDF](https://arxiv.org/abs/2506.19103),[Page](https://github.com/ControlGenAI/Inverse-and-Edit/)] ![Code](https://img.shields.io/github/stars/ControlGenAI/Inverse-and-Edit/?style=social&label=Star)
 
+[arxiv 2025.07]  Upsample What Matters: Region-Adaptive Latent  Sampling for Accelerated Diffusion Transformers [[PDF](https://arxiv.org/pdf/2507.08422)]
+
 
 [arxiv 2025.07]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
