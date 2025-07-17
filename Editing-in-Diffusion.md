@@ -510,6 +510,7 @@
 
 [arxiv 2025.07] Beyond Simple Edits: X-Planner for Complex Instruction-Based Image Editing  [[PDF](http://arxiv.org/abs/2507.05259),[Page](https://danielchyeh.github.io/x-planner/)] 
 
+[arxiv 2025.07] Stable Score Distillation  [[PDF](http://arxiv.org/abs/2507.09168),[Page](https://github.com/Alex-Zhu1/SSD)] ![Code](https://img.shields.io/github/stars/Alex-Zhu1/SSD?style=social&label=Star)
 
 [arxiv 2025.07]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -1002,6 +1003,7 @@
 
 [arxiv 2025.07]  MGVQ: Could VQ-VAE Beat VAE? A Generalizable Tokenizer with Multi-group Quantization [[PDF](https://arxiv.org/abs/2507.07997),[Page](https://github.com/MKJia/MGVQ)] ![Code](https://img.shields.io/github/stars/MKJia/MGVQ?style=social&label=Star)
 
+[arxiv 2025.07] Quantize-then-Rectify: Efficient VQ-VAE Training  [[PDF](https://arxiv.org/abs/2507.10547)】
 
 [arxiv 2025.07]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -1313,6 +1315,9 @@
 [arxiv 2025.06]  Calligrapher: Freestyle Text Image Customization [[PDF](https://arxiv.org/abs/2506.24123),[Page](https://calligrapher2025.github.io/Calligrapher)] ![Code](https://img.shields.io/github/stars/Calligrapher2025/Calligrapher?style=social&label=Star)
 
 [arxiv 2025.07] UniGlyph: Unified Segmentation-Conditioned Diffusion for Precise Visual Text Synthesis  [[PDF](https://arxiv.org/pdf/2507.00992)]
+
+[arxiv 2025.07] WordCraft: Interactive Artistic Typography with Attention Awareness and Noise Blending  [[PDF](https://arxiv.org/pdf/2507.09573)]
+
 
 [arxiv 2025.07]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -1737,6 +1742,10 @@
 [arxiv 2025.07] IC-Custom: Diverse Image Customization via In-Context Learning  [[PDF](https://arxiv.org/abs/2507.01926),[Page](https://liyaowei-stu.github.io/project/IC_Custom)] ![Code](https://img.shields.io/github/stars/TencentARC/IC-Custom?style=social&label=Star)
 
 [arxiv 2025.07]  FreeLoRA: Enabling Training-Free LoRA Fusion for Autoregressive Multi-Subject Personalization [[PDF](https://arxiv.org/pdf/2507.01792),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
+
+[arxiv 2025.07]  Memory-Efficient Personalization of Text-to-Image Diffusion Models via Selective Optimization Strategies [[PDF](https://arxiv.org/pdf/2507.10029)]
+
+[arxiv 2025.07] CharaConsist: Fine-Grained Consistent Character Generation  [[PDF](https://arxiv.org/abs/2507.11533),[Page](https://murray-wang.github.io/CharaConsist/)] ![Code](https://img.shields.io/github/stars/Murray-Wang/CharaConsist?style=social&label=Star)
 
 
 [arxiv 2025.07]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
@@ -3312,6 +3321,9 @@ Creative Layout-to-Image Generation [[PDF](https://arxiv.org/pdf/2412.03859),[Pa
 
 
 [arxiv 2025.06] PrefPaint: Enhancing Image Inpainting through Expert Human Feedback  [[PDF](https://arxiv.org/abs/2506.21834)]
+
+[arxiv 2025.07] Inversion-DPO: Precise and Efficient Post-Training for Diffusion Models  [[PDF](https://arxiv.org/abs/2507.11554),[Page](https://github.com/MIGHTYEZ/Inversion-DPO)] ![Code](https://img.shields.io/github/stars/MIGHTYEZ/Inversion-DPO?style=social&label=Star)
+
 
 [arxiv 2025.07]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
