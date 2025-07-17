@@ -189,6 +189,10 @@ A reading list of video generation
  [arxiv 2025.07] CI-VID: A Coherent Interleaved Text-Video Dataset  [[PDF](https://arxiv.org/abs/2507.01938),[Page](https://github.com/ymju-BAAI/CI-VID)] ![Code](https://img.shields.io/github/stars/ymju-BAAI/CI-VID?style=social&label=Star)
 
 
+* **SpeakerVid-5M**
+[arxiv 2025.07] SpeakerVid-5M: A Large-Scale High-Quality Dataset for audio-visual Dyadic Interactive Human Generation [[PDF](https://arxiv.org/pdf/2507.09862),[Page](https://dorniwang.github.io/SpeakerVid-5M/)]
+
+
 [arxiv 2025.07]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 
