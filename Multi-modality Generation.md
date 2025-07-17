@@ -307,6 +307,9 @@
 
 [arxiv 2025.06] OmniGen2: Exploration to Advanced Multimodal Generation  [[PDF](https://arxiv.org/abs/2506.18871),[Page](https://github.com/VectorSpaceLab/OmniGen2)] ![Code](https://img.shields.io/github/stars/VectorSpaceLab/OmniGen2?style=social&label=Star) 
 
+[arxiv 2025.07]  MENTOR: Efficient Multimodal-Conditioned Tuning for Autoregressive Vision Generation [[PDF](https://arxiv.org/abs/2507.09574),[Page](https://haozhezhao.github.io/MENTOR.page)] ![Code](https://img.shields.io/github/stars/HaozheZhao/MENTOR?style=social&label=Star) 
+
+
 
 [arxiv 2025.07]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
 
@@ -319,6 +322,15 @@
 
 ## evaluation 
 [arxiv 2024.10] The Curse of Multi-Modalities: Evaluating Hallucinations of Large Multimodal Models across Language, Visual, and Audio[[PDF](https://arxiv.org/abs/2410.12787)]
+
+
+## VLA 
+[arxiv 2025.07] EmbRACE-3K: Embodied Reasoning and Action in Complex Environments  [[PDF](https://arxiv.org/pdf/2507.10548),[Page](https://mxllc.github.io/EmbRACE-3K/)] ![Code](https://img.shields.io/github/stars/mxllc/EmbRACE-3K?style=social&label=Star) 
+
+[arxiv 2025.07] EgoVLA: Learning Vision-Language-Action Models from Egocentric Human Videos  [[PDF](https://arxiv.org/pdf/2507.12440),[Page](https://rchalyang.github.io/EgoVLA/)] 
+
+
+[arxiv 2025.07]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
 
 
 ## reasoning
