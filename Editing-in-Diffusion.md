@@ -677,6 +677,9 @@
 
 [arxiv 2025.07]  FACM: Flow-Anchored Consistency Models [[PDF](https://arxiv.org/abs/2507.03738),[Page](https://github.com/ali-vilab/FACM)] ![Code](https://img.shields.io/github/stars/ali-vilab/FACM?style=social&label=Star)
 
+[arxiv 2025.07] FashionPose: Text to Pose to Relight Image Generation for Personalized Fashion Visualization  [[PDF](https://arxiv.org/pdf/2507.13311)]
+
+
 [arxiv 2025.07]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 
@@ -1131,6 +1134,9 @@
 
 ## autoregressive apps
 [arxiv 2025.07]  A Training-Free Style-Personalization via Scale-wise Autoregressive Model [[PDF](https://arxiv.org/pdf/2507.04482),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
+
+[arxiv 2025.07]  CSD-VAR: Content-Style Decomposition in Visual Autoregressive Models [[PDF](https://arxiv.org/pdf/2507.13984)]
+
 
 [arxiv 2025.07]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -1747,8 +1753,12 @@
 
 [arxiv 2025.07] CharaConsist: Fine-Grained Consistent Character Generation  [[PDF](https://arxiv.org/abs/2507.11533),[Page](https://murray-wang.github.io/CharaConsist/)] ![Code](https://img.shields.io/github/stars/Murray-Wang/CharaConsist?style=social&label=Star)
 
+[arxiv 2025.07] Imbalance in Balance: Online Concept Balancing in Generation Models  [[PDF](https://arxiv.org/abs/2507.13345)]
+
+[arxiv 2025.07] PositionIC: Unified Position and Identity Consistency for Image Customization  [[PDF](https://arxiv.org/pdf/2507.13861)]
 
 [arxiv 2025.07]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
+
 
 ## multi-object
 [arxiv 2025.06]  MultiHuman-Testbench: Benchmarking Image Generation for Multiple Humans [[PDF](https://arxiv.org/abs/2506.20879)]
