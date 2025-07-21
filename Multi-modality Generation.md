@@ -181,6 +181,9 @@
 
 [arxiv 2025.07] Kwai Keye-VL Technical Report  [[PDF](https://arxiv.org/abs/2507.01949),[Page](https://github.com/Kwai-Keye/Keye)] ![Code](https://img.shields.io/github/stars/Kwai-Keye/Keye?style=social&label=Star) 
 
+[arxiv 2025.07]  Mono-InternVL-1.5: Towards Cheaper and Faster Monolithic Multimodal Large Language Models [[PDF](https://arxiv.org/abs/2507.12566),[Page](https://github.com/OpenGVLab/Mono-InternVL)] ![Code](https://img.shields.io/github/stars/OpenGVLab/Mono-InternVL?style=social&label=Star) 
+
+
 [arxiv 2025.07]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
 
 
