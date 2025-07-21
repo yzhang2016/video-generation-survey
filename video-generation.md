@@ -584,7 +584,10 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2025.06]  Emergent Temporal Correspondences from Video Diffusion Transformers [[PDF](https://arxiv.org/abs/2506.17220),[Page](https://arxiv.org/cvlab-kaist.github.io/DiffTrack)] ![Code](https://img.shields.io/github/stars/cvlab-kaist/DiffTrack?style=social&label=Star)
 
+[arxiv 2025.07]  Encapsulated Composition of Text-to-Image and Text-to-Video Models for High-Quality Video Synthesis [[PDF](https://arxiv.org/pdf/2507.13753),[Page](https://github.com/Tonniia/EVS)] ![Code](https://img.shields.io/github/stars/Tonniia/EVS?style=social&label=Star)
+
 [arxiv 2025.07]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
+
 
 ## loss 
 [arxiv 2025.04]  REPA-E: Unlocking VAE for End-to-End Tuning with Latent Diffusion Transformers [[PDF](https://arxiv.org/abs/2504.10483),[Page](https://end2end-diffusion.github.io/)] ![Code](https://img.shields.io/github/stars/End2End-Diffusion/REPA-E?style=social&label=Star)
@@ -748,6 +751,7 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2025.07]  FreeLong++: Training-Free Long Video Generation via Multi-band SpectralFusion [[PDF](https://arxiv.org/abs/2507.00162),[Page](https://freelongvideo.github.io/)] 
 
+[arxiv 2025.07]  LoViC: Efficient Long Video Generation with Context Compression [[PDF](https://arxiv.org/abs/),[Page](https://jiangjiaxiu.github.io/lovic/)] 
 
 [arxiv 2025.07]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -1633,6 +1637,8 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2025.07] MoDA: Multi-modal Diffusion Architecture for Talking Head Generation  [[PDF](https://arxiv.org/pdf/2507.03256)]
 
+[arxiv 2025.07]  ATL-Diff: Audio-Driven Talking Head Generation with Early Landmarks-Guide Noise Diffusion [[PDF](https://arxiv.org/abs/2507.12804),[Page](https://github.com/sonvth/ATL-Diff)] ![Code](https://img.shields.io/github/stars/sonvth/ATL-Diff?style=social&label=Star)
+
 [arxiv 2025.07]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 
@@ -1679,6 +1685,13 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 [arxiv 2025.06]  Let Them Talk: Audio-Driven Multi-Person Conversational Video Generation [[PDF](https://arxiv.org/abs/2505.22647),[Page](https://meigen-ai.github.io/multi-talk/)] ![Code](https://img.shields.io/github/stars/MeiGen-AI/MultiTalk?style=social&label=Star)
 
 [arxiv 2025.06] InterActHuman: Multi-Concept Human Animation with Layout-Aligned Audio Conditions  [[PDF](https://arxiv.org/abs/2506.09984)]
+
+[arxiv 2025.07]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
+
+
+
+## video-driven talking 
+[arxiv 2025.07]  FantasyPortrait: Enhancing Multi-Character Portrait Animation with Expression-Augmented Diffusion Transformers [[PDF](https://arxiv.org/abs/2507.12956),[Page](https://fantasy-amap.github.io/fantasy-portrait/)] ![Code](https://img.shields.io/github/stars/Fantasy-AMAP/fantasy-portrait?style=social&label=Star)
 
 [arxiv 2025.07]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -1846,6 +1859,7 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2025.06] ORV: 4D Occupancy-centric Robot Video Generation  [[PDF](https://arxiv.org/abs/2506.03079),[Page](https://orangesodahub.github.io/ORV/)] ![Code](https://img.shields.io/github/stars/OrangeSodahub/ORV?style=social&label=Star)
 
+[arxiv 2025.07]  Diffuman4D: 4D Consistent Human View Synthesis from Sparse-View Videos with Spatio-Temporal Diffusion Models [[PDF](https://arxiv.org/abs/2507.13344),[Page](https://diffuman4d.github.io/)] ![Code](https://img.shields.io/github/stars/zju3dv/Diffuman4D?style=social&label=Star)
 
 [arxiv 2025.07]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -2443,6 +2457,7 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2025.07] StreamDiT: Real-Time Streaming Text-to-Video Generation  [[PDF](https://arxiv.org/abs/2507.03745),[Page](https://cumulo-autumn.github.io/StreamDiT/)] 
 
+[arxiv 2025.07] Taming Diffusion Transformer for Real-Time Mobile Video Generation  [[PDF](https://arxiv.org/abs/2507.13343),[Page](https://snap-research.github.io/mobile_video_dit/)] 
 
 [arxiv 2025.07]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -2546,6 +2561,7 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2025.07] Critiques of World Models  [[PDF](https://arxiv.org/pdf/2507.05169)]
 
+[arxiv 2025.07]  MindJourney: Test-Time Scaling with World Models for Spatial Reasoning [[PDF](https://arxiv.org/abs/2507.12508),[Page](https://umass-embodied-agi.github.io/MindJourney/)] ![Code](https://img.shields.io/github/stars/UMass-Embodied-AGI/MindJourney?style=social&label=Star)
 
 [arxiv 2025.07]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
