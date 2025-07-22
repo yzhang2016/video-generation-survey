@@ -1008,6 +1008,9 @@
 
 [arxiv 2025.07] Quantize-then-Rectify: Efficient VQ-VAE Training  [[PDF](https://arxiv.org/abs/2507.10547)】
 
+[arxiv 2025.07] Latent Denoising Makes Good Visual Tokenizers  [[PDF](https://arxiv.org/abs/2507.15856),[Page](https://github.com/Jiawei-Yang/DeTok)] ![Code](https://img.shields.io/github/stars/Jiawei-Yang/DeTok?style=social&label=Star)
+
+
 [arxiv 2025.07]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 
@@ -1255,6 +1258,10 @@
 [arxiv 2025.05]  Pursuing Temporal-Consistent Video Virtual Try-On via Dynamic Pose Interaction [[PDF](https://arxiv.org/abs/2505.16980)]
 
 [arxiv 2025.06] ChronoTailor: Harnessing Attention Guidance for Fine-Grained Video Virtual Try-On  [[PDF](https://arxiv.org/abs/2506.05858)]
+
+[arxiv 2025.07] OmniVTON: Training-Free Universal Virtual Try-On  [[PDF](https://arxiv.org/abs/2507.15037),[Page](https://github.com/Jerome-Young/OmniVTON)] ![Code](https://img.shields.io/github/stars/Jerome-Young/OmniVTON?style=social&label=Star)
+
+
 
 [arxiv 2025.07]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -1757,7 +1764,10 @@
 
 [arxiv 2025.07] PositionIC: Unified Position and Identity Consistency for Image Customization  [[PDF](https://arxiv.org/pdf/2507.13861)]
 
+[arxiv 2025.07] FreeCus: Free Lunch Subject-driven Customization in Diffusion Transformers  [[PDF](https://arxiv.org/abs/2507.15249),[Page](https://github.com/Monalissaa/FreeCus)] ![Code](https://img.shields.io/github/stars/Monalissaa/FreeCus?style=social&label=Star)
+
 [arxiv 2025.07]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
+
 
 
 ## multi-object
@@ -2582,6 +2592,7 @@ Creative Layout-to-Image Generation [[PDF](https://arxiv.org/pdf/2412.03859),[Pa
 
 [arxiv 2025.07]  4KAgent: Agentic Any Image to 4K Super-Resolution [[PDF](https://arxiv.org/abs/2507.07105),[Page](https://4kagent.github.io/)] 
 
+[arxiv 2025.07] Hallucination Score: Towards Mitigating Hallucinations in Generative Image Super-Resolution  [[PDF](https://arxiv.org/pdf/2507.14367)]
 
 [arxiv 2025.07]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
