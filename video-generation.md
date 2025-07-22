@@ -753,6 +753,9 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2025.07]  LoViC: Efficient Long Video Generation with Context Compression [[PDF](https://arxiv.org/abs/),[Page](https://jiangjiaxiu.github.io/lovic/)] 
 
+[arxiv 2025.07] TokensGen: Harnessing Condensed Tokens for Long Video Generation  [[PDF](https://arxiv.org/abs/2507.15728),[Page](https://vicky0522.github.io/tokensgen-webpage/)] ![Code](https://img.shields.io/github/stars/Vicky0522/TokensGen?style=social&label=Star)
+
+
 [arxiv 2025.07]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 
@@ -1527,6 +1530,7 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2025.07] Identity-Preserving Text-to-Video Generation Guided by Simple yet Effective Spatial-Temporal Decoupled Representations  [[PDF](https://arxiv.org/pdf/2507.04705)]
 
+[arxiv 2025.07]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 [arxiv 2025.07]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
