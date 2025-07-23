@@ -1261,6 +1261,7 @@
 
 [arxiv 2025.07] OmniVTON: Training-Free Universal Virtual Try-On  [[PDF](https://arxiv.org/abs/2507.15037),[Page](https://github.com/Jerome-Young/OmniVTON)] ![Code](https://img.shields.io/github/stars/Jerome-Young/OmniVTON?style=social&label=Star)
 
+[arxiv 2025.07]  FW-VTON: Flattening-and-Warping for Person-to-Person Virtual Try-on [[PDF](https://arxiv.org/pdf/2507.16010)]
 
 
 [arxiv 2025.07]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
@@ -2342,6 +2343,7 @@ Creative Layout-to-Image Generation [[PDF](https://arxiv.org/pdf/2412.03859),[Pa
 
 [arxiv 2025.07] RichControl: Structure- and Appearance-Rich Training-Free Spatial Control for Text-to-Image Generation  [[PDF](https://arxiv.org/pdf/2507.02792),[Page](https://zhang-liheng.github.io/rich-control/)] ![Code](https://img.shields.io/github/stars/zhang-liheng/RichControl?style=social&label=Star)
 
+[arxiv 2025.07] HOComp: Interaction-Aware Human-Object Composition  [[PDF](https://arxiv.org/abs/2507.16813),[Page](https://dliang293.github.io/HOComp-project/)] ![Code](https://img.shields.io/github/stars/dliang293/HOComp?style=social&label=Star)
 
 [arxiv 2025.07]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
