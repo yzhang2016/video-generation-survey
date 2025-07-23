@@ -332,6 +332,8 @@
 
 [arxiv 2025.07] EgoVLA: Learning Vision-Language-Action Models from Egocentric Human Videos  [[PDF](https://arxiv.org/pdf/2507.12440),[Page](https://rchalyang.github.io/EgoVLA/)] 
 
+[arxiv 2025.07] ThinkAct: Vision-Language-Action Reasoning via Reinforced Visual Latent Planning  [[PDF](https://arxiv.org/abs/2507.16815),[Page](https://jasper0314-huang.github.io/thinkact-vla/)] 
+
 
 [arxiv 2025.07]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
 
