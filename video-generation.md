@@ -968,6 +968,8 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2025.07]  AnyI2V: Animating Any Conditional Image with Motion Control [[PDF](https://arxiv.org/abs/2507.02857),[Page](https://henghuiding.com/AnyI2V/)] ![Code](https://img.shields.io/github/stars/FudanCVL/AnyI2V?style=social&label=Star)
 
+[arxiv 2025.07] MotionShot: Adaptive Motion Transfer across Arbitrary Objects for Text-to-Video Generation  [[PDF](https://arxiv.org/abs/2507.16310)]
+
 
 [arxiv 2025.07]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
