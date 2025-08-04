@@ -1645,6 +1645,10 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2025.07]  ATL-Diff: Audio-Driven Talking Head Generation with Early Landmarks-Guide Noise Diffusion [[PDF](https://arxiv.org/abs/2507.12804),[Page](https://github.com/sonvth/ATL-Diff)] ![Code](https://img.shields.io/github/stars/sonvth/ATL-Diff?style=social&label=Star)
 
+[arxiv 2025.07]  Livatar-1: Real-Time Talking Heads Generation with Tailored Flow Matching [[PDF](https://arxiv.org/abs/2507.18649),[Page](https://h-liu1997.github.io/Livatar-1/)] 
+
+[arxiv 2025.07]  Mask-Free Audio-driven Talking Face Generation for Enhanced Visual Quality and Identity Preservation [[PDF](https://arxiv.org/abs/2507.20953)]
+
 [arxiv 2025.07]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 
