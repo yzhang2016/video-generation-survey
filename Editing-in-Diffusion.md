@@ -2596,6 +2596,9 @@ Creative Layout-to-Image Generation [[PDF](https://arxiv.org/pdf/2412.03859),[Pa
 
 [arxiv 2025.07] Hallucination Score: Towards Mitigating Hallucinations in Generative Image Super-Resolution  [[PDF](https://arxiv.org/pdf/2507.14367)]
 
+[arxiv 2025.07]  Fine-structure Preserved Real-world Image Super-resolution via Transfer VAE Training [[PDF](https://arxiv.org/abs/2507.20291),[Page](https://github.com/Joyies/TVT)] ![Code](https://img.shields.io/github/stars/Joyies/TVT?style=social&label=Star)
+
+
 [arxiv 2025.07]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 
@@ -3342,11 +3345,11 @@ Creative Layout-to-Image Generation [[PDF](https://arxiv.org/pdf/2412.03859),[Pa
 
 [arxiv 2025.06] Evolutionary Caching to Accelerate Your Off-the-Shelf Diffusion Model  [[PDF](https://arxiv.org/abs/2506.15682),[Page](https://github.com/aniaggarwal/ecad)] ![Code](https://img.shields.io/github/stars/aniaggarwal/ecad?style=social&label=Star)
 
-
 [arxiv 2025.06] PrefPaint: Enhancing Image Inpainting through Expert Human Feedback  [[PDF](https://arxiv.org/abs/2506.21834)]
 
 [arxiv 2025.07] Inversion-DPO: Precise and Efficient Post-Training for Diffusion Models  [[PDF](https://arxiv.org/abs/2507.11554),[Page](https://github.com/MIGHTYEZ/Inversion-DPO)] ![Code](https://img.shields.io/github/stars/MIGHTYEZ/Inversion-DPO?style=social&label=Star)
 
+[arxiv 2025.07] Enhancing Reward Models for High-quality Image Generation: Beyond Text-Image Alignment [[PDF](https://arxiv.org/abs/2507.19002),[Page](https://github.com/BarretBa/ICTHP)] ![Code](https://img.shields.io/github/stars/BarretBa/ICTHP?style=social&label=Star)
 
 [arxiv 2025.07]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -3478,6 +3481,10 @@ Creative Layout-to-Image Generation [[PDF](https://arxiv.org/pdf/2412.03859),[Pa
 
 ## Data 
 [arxiv 2024.06]What If We Recaption Billions of Web Images with LLaMA-3? [[PDF](https://arxiv.org/abs/2406.08478), [Page](https://www.haqtu.me/Recap-Datacomp-1B/)]
+
+[arxiv 2025.07] GPT-IMAGE-EDIT-1.5M: A Million-Scale, GPT-Generated Image Dataset [[PDF](https://arxiv.org/abs/2507.21033),[Page](https://ucsc-vlaa.github.io/GPT-Image-Edit/)] ![Code](https://img.shields.io/github/stars/wyhlovecpp/GPT-Image-Edit?style=social&label=Star)
+
+
 
 
 ## Repository
