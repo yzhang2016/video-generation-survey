@@ -183,6 +183,8 @@
 
 [arxiv 2025.07]  Mono-InternVL-1.5: Towards Cheaper and Faster Monolithic Multimodal Large Language Models [[PDF](https://arxiv.org/abs/2507.12566),[Page](https://github.com/OpenGVLab/Mono-InternVL)] ![Code](https://img.shields.io/github/stars/OpenGVLab/Mono-InternVL?style=social&label=Star) 
 
+[arxiv 2025.07] Meta CLIP 2: A Worldwide Scaling Recipe  [[PDF](https://arxiv.org/abs/2507.22062),[Page](https://github.com/facebookresearch/MetaCLIP)] ![Code](https://img.shields.io/github/stars/facebookresearch/MetaCLIP?style=social&label=Star) 
+
 
 [arxiv 2025.07]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
 
@@ -228,6 +230,7 @@
 
 [arxiv 2025.07] Flash-VStream: Efficient Real-Time Understanding for Long Video Streams  [[PDF](https://arxiv.org/abs/2506.23825),[Page](https://github.com/IVGSZ/Flash-VStream)] ![Code](https://img.shields.io/github/stars/IVGSZ/Flash-VStream?style=social&label=Star) 
 
+[arxiv 2025.07] ARC-Hunyuan-Video-7B: Structured Video Comprehension of Real-World Shorts  [[PDF](https://arxiv.org/abs/2507.20939),[Page](https://github.com/TencentARC/ARC-Hunyuan-Video-7B)] ![Code](https://img.shields.io/github/stars/TencentARC/ARC-Hunyuan-Video-7B?style=social&label=Star) 
 
 [arxiv 2025.07]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
 
@@ -312,6 +315,7 @@
 
 [arxiv 2025.07]  MENTOR: Efficient Multimodal-Conditioned Tuning for Autoregressive Vision Generation [[PDF](https://arxiv.org/abs/2507.09574),[Page](https://haozhezhao.github.io/MENTOR.page)] ![Code](https://img.shields.io/github/stars/HaozheZhao/MENTOR?style=social&label=Star) 
 
+[arxiv 2025.07]  X-Omni: Reinforcement Learning Makes Discrete Autoregressive Image Generative Models Great Again [[PDF](https://arxiv.org/abs/2507.22058),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
 
 
 [arxiv 2025.07]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
@@ -430,6 +434,7 @@
 
 [arxiv 2025.06] UniWorld-V1: High-Resolution Semantic Encoders for Unified Visual Understanding and Generation  [[PDF](https://arxiv.org/abs/2506.03147),[Page](https://github.com/PKU-YuanGroup/UniWorld-V1)] ![Code](https://img.shields.io/github/stars/PKU-YuanGroup/UniWorld-V1?style=social&label=Star) 
 
+[arxiv 2025.07]  When Tokens Talk Too Much: A Survey of Multimodal Long-Context Token Compression across Images, Videos, and Audios [[PDF](https://arxiv.org/abs/2507.20198),[Page](https://github.com/cokeshao/Awesome-Multimodal-Token-Compression)] ![Code](https://img.shields.io/github/stars/cokeshao/Awesome-Multimodal-Token-Compression?style=social&label=Star) 
 
 [arxiv 2025.07]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
 
