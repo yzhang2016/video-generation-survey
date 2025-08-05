@@ -780,6 +780,9 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2025.06] Hearing Hands: Generating Sounds from Physical Interactions in 3D Scenes  [[PDF](https://openaccess.thecvf.com/content/CVPR2025/papers/Dou_Hearing_Hands_Generating_Sounds_from_Physical_Interactions_in_3D_Scenes_CVPR_2025_paper.pdf),[Page](https://www.yimingdou.com/hearing_hands/)] 
 
+[arxiv 2025.07]  AudioGen-Omni: A Unified Multimodal Diffusion Transformer for Video-Synchronized Audio, Speech, and Song Generation [[PDF](https://arxiv.org/abs/2508.00733),[Page](https://ciyou2.github.io/AudioGen-Omni/)] 
+
+
 [arxiv 2025.07]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 
@@ -1648,6 +1651,9 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 [arxiv 2025.07]  Livatar-1: Real-Time Talking Heads Generation with Tailored Flow Matching [[PDF](https://arxiv.org/abs/2507.18649),[Page](https://h-liu1997.github.io/Livatar-1/)] 
 
 [arxiv 2025.07]  Mask-Free Audio-driven Talking Face Generation for Enhanced Visual Quality and Identity Preservation [[PDF](https://arxiv.org/abs/2507.20953)]
+
+[arxiv 2025.07]  Who is a Better Talker: Subjective and Objective Quality Assessment for AI-Generated Talking Heads [[PDF](https://arxiv.org/pdf/2507.23343),[Page](https://github.com/zyj-2000/Talker)] ![Code](https://img.shields.io/github/stars/zyj-2000/Talker?style=social&label=Star)
+
 
 [arxiv 2025.07]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
