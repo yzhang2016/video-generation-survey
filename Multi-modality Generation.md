@@ -317,6 +317,8 @@
 
 [arxiv 2025.07]  X-Omni: Reinforcement Learning Makes Discrete Autoregressive Image Generative Models Great Again [[PDF](https://arxiv.org/abs/2507.22058),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
 
+[arxiv 2025.07]  UniLiP: Adapting CLIP for Unified Multimodal Understanding, Generation and Editing [[PDF](https://arxiv.org/abs/2507.23278)]
+
 
 [arxiv 2025.07]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
 
