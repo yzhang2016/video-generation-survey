@@ -577,6 +577,9 @@
 
 [arxiv 2025.06] FLUX.1 Kontext: Flow Matching for In-Context Image Generation and Editing in Latent Space  [[PDF](https://arxiv.org/abs/2506.15742),[Page](https://huggingface.co/black-forest-labs/FLUX.1-Kontext-dev)] ![Code](https://img.shields.io/github/stars/black-forest-labs/flux?style=social&label=Star)
 
+[arxiv 2025.07]  UniLDiff: Unlocking the Power of Diffusion Priors for All-in-One Image Restoration [[PDF](https://arxiv.org/abs/2507.23685)]
+
+
 [arxiv 2025.07]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 
@@ -1010,6 +1013,7 @@
 
 [arxiv 2025.07] Latent Denoising Makes Good Visual Tokenizers  [[PDF](https://arxiv.org/abs/2507.15856),[Page](https://github.com/Jiawei-Yang/DeTok)] ![Code](https://img.shields.io/github/stars/Jiawei-Yang/DeTok?style=social&label=Star)
 
+[arxiv 2025.07]  DC-Gen: Accelerating Diffusion Models with Compressed Latent Space [[PDF](https://arxiv.org/abs/2508.00413),[Page](https://github.com/dc-ai-projects/DC-Gen)] ![Code](https://img.shields.io/github/stars/dc-ai-projects/DC-Gen?style=social&label=Star)
 
 [arxiv 2025.07]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -2345,6 +2349,9 @@ Creative Layout-to-Image Generation [[PDF](https://arxiv.org/pdf/2412.03859),[Pa
 
 [arxiv 2025.07] HOComp: Interaction-Aware Human-Object Composition  [[PDF](https://arxiv.org/abs/2507.16813),[Page](https://dliang293.github.io/HOComp-project/)] ![Code](https://img.shields.io/github/stars/dliang293/HOComp?style=social&label=Star)
 
+[arxiv 2025.07] LAMIC: Layout-Aware Multi-Image Composition via Scalability of Multimodal Diffusion Transformer  [[PDF](https://arxiv.org/abs/2508.00477),[Page](https://github.com/Suchenl/LAMIC)] ![Code](https://img.shields.io/github/stars/Suchenl/LAMIC?style=social&label=Star)
+
+
 [arxiv 2025.07]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 
@@ -2598,6 +2605,7 @@ Creative Layout-to-Image Generation [[PDF](https://arxiv.org/pdf/2412.03859),[Pa
 
 [arxiv 2025.07]  Fine-structure Preserved Real-world Image Super-resolution via Transfer VAE Training [[PDF](https://arxiv.org/abs/2507.20291),[Page](https://github.com/Joyies/TVT)] ![Code](https://img.shields.io/github/stars/Joyies/TVT?style=social&label=Star)
 
+[arxiv 2025.07] APT: Improving Diffusion Models for High Resolution Image Generation with Adaptive Path Tracing  [[PDF](https://arxiv.org/abs/2507.21690)]
 
 [arxiv 2025.07]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -3351,8 +3359,12 @@ Creative Layout-to-Image Generation [[PDF](https://arxiv.org/pdf/2412.03859),[Pa
 
 [arxiv 2025.07] Enhancing Reward Models for High-quality Image Generation: Beyond Text-Image Alignment [[PDF](https://arxiv.org/abs/2507.19002),[Page](https://github.com/BarretBa/ICTHP)] ![Code](https://img.shields.io/github/stars/BarretBa/ICTHP?style=social&label=Star)
 
-[arxiv 2025.07]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
+[arxiv 2025.07]  Multimodal LLMs as Customized Reward Models for Text-to-Image Generation [[PDF](https://arxiv.org/abs/2507.21391),[Page](https://github.com/sjz5202/LLaVA-Reward)] ![Code](https://img.shields.io/github/stars/sjz5202/LLaVA-Reward?style=social&label=Star)
 
+[arxiv 2025.07]  MixGRPO: Unlocking Flow-based GRPO Efficiency with Mixed ODE-SDE [[PDF](https://arxiv.org/abs/2507.21802)]
+
+
+[arxiv 2025.07]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 
 ## GPT4o evaluation 
