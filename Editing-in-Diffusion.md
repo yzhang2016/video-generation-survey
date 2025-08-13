@@ -1264,10 +1264,11 @@
 
 [arxiv 2025.06] ChronoTailor: Harnessing Attention Guidance for Fine-Grained Video Virtual Try-On  [[PDF](https://arxiv.org/abs/2506.05858)]
 
-[arxiv 2025.07] OmniVTON: Training-Free Universal Virtual Try-On  [[PDF](https://arxiv.org/abs/2507.15037),[Page](https://github.com/Jerome-Young/OmniVTON)] ![Code](https://img.shields.io/github/stars/Jerome-Young/OmniVTON?style=social&label=Star)
+[arxiv 2025.07] OmniVTON: Training-Free Universal Virtual Try-On  [[PDF](https://arxiv.org/abs/2507.15037),[Page](https://github.com/Jerome-Young/OmniVTON)] 
 
 [arxiv 2025.07]  FW-VTON: Flattening-and-Warping for Person-to-Person Virtual Try-on [[PDF](https://arxiv.org/pdf/2507.16010)]
 
+[arxiv 2025.08] One Model For All: Partial Diffusion for Unified Try-On and Try-Off in Any Pose  [[PDF](https://arxiv.org/abs/2508.04559),[Page](https://onemodelforall.github.io/)] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 [arxiv 2025.08]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
