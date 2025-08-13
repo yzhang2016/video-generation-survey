@@ -50,6 +50,7 @@
 
 [arxiv 2025.03]  STEVE: AStep Verification Pipeline for Computer-use Agent Training [[PDF](https://arxiv.org/abs/2503.12532),[Page](https://github.com/FanbinLu/STEVE-R1)] ![Code](https://img.shields.io/github/stars/FanbinLu/STEVE-R1?style=social&label=Star) 
 
+[arxiv 2025.08]  TurboTrain: Towards Efficient and Balanced Multi-Task Learning for Multi-Agent Perception and Prediction [[PDF](https://arxiv.org/abs/2508.04682),[Page](https://github.com/ucla-mobility/TurboTrain)] ![Code](https://img.shields.io/github/stars/ucla-mobility/TurboTrain?style=social&label=Star) 
 
 [arxiv 2025.08]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
 
@@ -231,6 +232,9 @@
 [arxiv 2025.07] Flash-VStream: Efficient Real-Time Understanding for Long Video Streams  [[PDF](https://arxiv.org/abs/2506.23825),[Page](https://github.com/IVGSZ/Flash-VStream)] ![Code](https://img.shields.io/github/stars/IVGSZ/Flash-VStream?style=social&label=Star) 
 
 [arxiv 2025.07] ARC-Hunyuan-Video-7B: Structured Video Comprehension of Real-World Shorts  [[PDF](https://arxiv.org/abs/2507.20939),[Page](https://github.com/TencentARC/ARC-Hunyuan-Video-7B)] ![Code](https://img.shields.io/github/stars/TencentARC/ARC-Hunyuan-Video-7B?style=social&label=Star) 
+
+[arxiv 2025.08] AVATAR: Reinforcement Learning to See, Hear, and Reason Over Video  [[PDF](https://arxiv.org/abs/2508.03100),[Page](https://github.com/yogkul2000/AVATAR)] ![Code](https://img.shields.io/github/stars/yogkul2000/AVATAR?style=social&label=Star) 
+
 
 [arxiv 2025.08]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
 
