@@ -2489,6 +2489,8 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2025.07] Taming Diffusion Transformer for Real-Time Mobile Video Generation  [[PDF](https://arxiv.org/abs/2507.13343),[Page](https://snap-research.github.io/mobile_video_dit/)] 
 
+[arxiv 2025.08]  HierarchicalPrune: Position-Aware Compression for Large-Scale Diffusion Models [[PDF](https://arxiv.org/abs/2508.04663),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
+
 [arxiv 2025.08]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 
