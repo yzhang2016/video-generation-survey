@@ -229,6 +229,9 @@
 
 [arxiv 2025.07]  HOI-Dyn: Learning Interaction Dynamics for Human-Object Motion Diffusion [[PDF](https://arxiv.org/pdf/2507.01737)]
 
+[arxiv 2025.08]  Perceiving and Acting in First-Person: A Dataset and Benchmark for Egocentric Human-Object-Human Interactions [[PDF](https://arxiv.org/pdf/2508.04681),[Page](https://liangxuy.github.io/InterVLA/)] ![Code](https://img.shields.io/github/stars/liangxuy/InterVLA?style=social&label=Star)
+
+
 [arxiv 2025.08]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 
