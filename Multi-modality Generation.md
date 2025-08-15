@@ -235,6 +235,7 @@
 
 [arxiv 2025.08] AVATAR: Reinforcement Learning to See, Hear, and Reason Over Video  [[PDF](https://arxiv.org/abs/2508.03100),[Page](https://github.com/yogkul2000/AVATAR)] ![Code](https://img.shields.io/github/stars/yogkul2000/AVATAR?style=social&label=Star) 
 
+[arxiv 2025.08] Thinking With Videos: Multimodal Tool-Augmented Reinforcement Learning for Long Video Reasoning  [[PDF](https://arxiv.org/abs/2508.04416)]
 
 [arxiv 2025.08]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
 
@@ -462,6 +463,17 @@
 
 ## Study 
 [arxiv 2025.03] Should VLMs be Pre-trained with Image Data?  [[PDF](https://arxiv.org/abs/2503.07603)]
+
+[arxiv 2025.08]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
+
+
+## agent
+[arxiv 2025.08]  OPENCUA: Open Foundations for Computer-Use Agents [[PDF](https://arxiv.org/abs/2508.09123),[Page](https://opencua.xlang.ai/)] ![Code](https://img.shields.io/github/stars/xlang-ai/OpenCUA?style=social&label=Star) 
+
+[arxiv 2025.08]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
+
+## memory
+[arxiv 2025.08]  Seeing, Listening, Remembering, and Reasoning: A Multimodal Agent with Long-Term Memory [[PDF](https://arxiv.org/abs/2508.09736),[Page](https://github.com/bytedance-seed/m3-agent)] ![Code](https://img.shields.io/github/stars/bytedance-seed/m3-agent?style=social&label=Star) 
 
 [arxiv 2025.08]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
 
