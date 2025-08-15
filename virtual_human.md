@@ -117,6 +117,10 @@
 
 [arxiv 2025.07]  ReMoMask: Retrieval-Augmented Masked Motion Generation [[PDF](https://arxiv.org/abs/2508.02605),[Page](https://aigeeksgroup.github.io/ReMoMask)] ![Code](https://img.shields.io/github/stars/AIGeeksGroup/ReMoMask?style=social&label=Star)
 
+[arxiv 2025.08]  Being-M0.5: A Real-Time Controllable Vision-Language-Motion Model [[PDF](https://arxiv.org/abs/2508.07863),[Page](https://beingbeyond.github.io/Being-M0.5/)] ![Code](https://img.shields.io/github/stars/BeingBeyond/Being-M0.5?style=social&label=Star)
+
+[arxiv 2025.08] InterSyn: Interleaved Learning for Dynamic Motion Synthesis in the Wild  [[PDF](https://arxiv.org/abs/2508.10297),[Page](https://myy888.github.io/InterSyn/)] 
+
 [arxiv 2025.08]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 
@@ -231,6 +235,7 @@
 
 [arxiv 2025.08]  Perceiving and Acting in First-Person: A Dataset and Benchmark for Egocentric Human-Object-Human Interactions [[PDF](https://arxiv.org/pdf/2508.04681),[Page](https://liangxuy.github.io/InterVLA/)] ![Code](https://img.shields.io/github/stars/liangxuy/InterVLA?style=social&label=Star)
 
+[arxiv 2025.08]  CoopDiff: Anticipating 3D Human-object Interactions via Contact-consistent Decoupled Diffusion [[PDF](https://arxiv.org/abs/2508.07162)]
 
 [arxiv 2025.08]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
