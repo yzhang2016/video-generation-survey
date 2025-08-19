@@ -697,6 +697,7 @@
 
 [arxiv 2025.07] FashionPose: Text to Pose to Relight Image Generation for Personalized Fashion Visualization  [[PDF](https://arxiv.org/pdf/2507.13311)]
 
+[arxiv 2025.08]  Next Visual Granularity Generation [[PDF](https://arxiv.org/abs/2508.12811),[Page](https://yikai-wang.github.io/nvg/)] ![Code](https://img.shields.io/github/stars/Yikai-Wang/nvg?style=social&label=Star)
 
 [arxiv 2025.08]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -1296,6 +1297,7 @@
 
 [arxiv 2025.08] MuGa-VTON: Multi-Garment Virtual Try-On via Diffusion Transformers with Prompt Customization  [[PDF](https://arxiv.org/pdf/2508.08488)]
 
+[arxiv 2025.08] DualFit: A Two-Stage Virtual Try-On via Warping and Synthesis  [[PDF](https://arxiv.org/abs/2508.12131)]
 
 [arxiv 2025.08]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -1802,7 +1804,13 @@
 
 [arxiv 2025.08] TARA: Token-Aware LoRA for Composable Personalization in Diffusion Models  [[PDF](https://arxiv.org/pdf/2508.08812),[Page](https://github.com/YuqiPeng77/TARA)] ![Code](https://img.shields.io/github/stars/YuqiPeng77/TARA?style=social&label=Star)
 
+[arxiv 2025.08]  MM-R1: Unleashing the Power of Unified Multimodal Large Language Models for Personalized Image Generation [[PDF](https://arxiv.org/abs/2508.11433)]
+
 [arxiv 2025.08]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
+
+
+## end of concept
+
 
 
 ## multi-object
@@ -2828,6 +2836,9 @@ Creative Layout-to-Image Generation [[PDF](https://arxiv.org/pdf/2412.03859),[Pa
 [arxiv 2025.07] Domain Generalizable Portrait Style Transfer  [[PDF](https://arxiv.org/abs/2507.04243),[Page](https://github.com/wangxb29/DGPST)] ![Code](https://img.shields.io/github/stars/wangxb29/DGPST?style=social&label=Star)
 
 [arxiv 2025.08]  SCFlow: Implicitly Learning Style and Content Disentanglement with Flow Models [[PDF](https://arxiv.org/abs/2508.03402),[Page](https://compvis.github.io/SCFlow/)] ![Code](https://img.shields.io/github/stars/CompVis/SCFlow?style=social&label=Star)
+
+[arxiv 2025.08]  Leveraging Diffusion Models for Stylization using Multiple Style Images [[PDF](https://arxiv.org/pdf/2508.12784)]
+
 
 [arxiv 2025.08]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
