@@ -186,6 +186,7 @@
 
 [arxiv 2025.07] Meta CLIP 2: A Worldwide Scaling Recipe  [[PDF](https://arxiv.org/abs/2507.22062),[Page](https://github.com/facebookresearch/MetaCLIP)] ![Code](https://img.shields.io/github/stars/facebookresearch/MetaCLIP?style=social&label=Star) 
 
+[arxiv 2025.08]  Ovis2.5 Technical Report [[PDF](https://arxiv.org/pdf/2508.11737),[Page](https://github.com/AIDC-AI/Ovis)] ![Code](https://img.shields.io/github/stars/AIDC-AI/Ovis?style=social&label=Star) 
 
 [arxiv 2025.08]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
 
@@ -406,7 +407,7 @@
 
 [arxiv 2025.07] Skywork-R1V3 Technical Report  [[PDF](https://arxiv.org/abs/2507.06167),[Page](https://github.com/SkyworkAI/Skywork-R1V)] ![Code](https://img.shields.io/github/stars/SkyworkAI/Skywork-R1V?style=social&label=Star) 
 
-
+[arxiv 2025.08]  Thyme: Think Beyond Images [[PDF](https://arxiv.org/abs/2508.11630),[Page](https://thyme-vl.github.io/)] ![Code](https://img.shields.io/github/stars/yfzhang114/Thyme?style=social&label=Star) 
 
 [arxiv 2025.08]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
 
