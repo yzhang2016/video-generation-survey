@@ -1468,6 +1468,9 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2025.08]  ToonComposer: Streamlining Cartoon Production with Generative Post-Keyframing [[PDF](https://arxiv.org/abs/),[Page](https://lg-li.github.io/project/tooncomposer)] ![Code](https://img.shields.io/github/stars/TencentARC/ToonComposer?style=social&label=Star)
 
+[arxiv 2025.08] CineTrans: Learning to Generate Videos with Cinematic Transitions via Masked Diffusion Models [[PDF](https://arxiv.org/abs/2508.11484),[Page](https://uknowsth.github.io/CineTrans/)] ![Code](https://img.shields.io/github/stars/UknowSth/CineTrans?style=social&label=Star)
+
+
 [arxiv 2025.08]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 
@@ -1552,6 +1555,9 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 [arxiv 2025.07] Identity-Preserving Text-to-Video Generation Guided by Simple yet Effective Spatial-Temporal Decoupled Representations  [[PDF](https://arxiv.org/pdf/2507.04705)]
 
 [arxiv 2025.08] LaVieID: Local Autoregressive Diffusion Transformers for Identity-Preserving Video Creation  [[PDF](https://arxiv.org/abs/2508.07603),[Page](https://github.com/ssugarwh/LaVieID)] ![Code](https://img.shields.io/github/stars/ssugarwh/LaVieID?style=social&label=Star)
+
+[arxiv 2025.08] Stand-In: A Lightweight and Plug-and-Play Identity Control for Video Generation  [[PDF](https://arxiv.org/abs/2508.07901),[Page](https://arxiv.org/abs/2508.07901)] ![Code](https://img.shields.io/github/stars/WeChatCV/Stand-In?style=social&label=Star)
+
 
 [arxiv 2025.08]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -1670,6 +1676,7 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2025.07]  Who is a Better Talker: Subjective and Objective Quality Assessment for AI-Generated Talking Heads [[PDF](https://arxiv.org/pdf/2507.23343),[Page](https://github.com/zyj-2000/Talker)] ![Code](https://img.shields.io/github/stars/zyj-2000/Talker?style=social&label=Star)
 
+[arxiv 2025.08]  RealTalk: Realistic Emotion-Aware Lifelike Talking-Head Synthesis [[PDF](https://arxiv.org/pdf/2508.12163)]
 
 [arxiv 2025.08]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -1713,6 +1720,9 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 [arxiv 2025.07] Democratizing High-Fidelity Co-Speech Gesture Video Generation  [[PDF](https://arxiv.org/abs/2507.06812),[Page](https://mpi-lab.github.io/Democratizing-CSG/)] ![Code](https://img.shields.io/github/stars/MPI-Lab/Democratizing-CSG?style=social&label=Star)
 
 [arxiv 2025.08] StableAvatar: Infinite-Length Audio-Driven Avatar Video Generation  [[PDF](https://arxiv.org/abs/2508.08248),[Page](https://francis-rings.github.io/StableAvatar/)] ![Code](https://img.shields.io/github/stars/Francis-Rings/StableAvatar?style=social&label=Star)
+
+[arxiv 2025.08]  FantasyTalking2: Timestep-Layer Adaptive Preference Optimization for Audio-Driven Portrait Animation [[PDF](https://arxiv.org/abs/2508.11255),[Page](https://fantasy-amap.github.io/fantasy-talking2/)] ![Code](https://img.shields.io/github/stars/Fantasy-AMAP/fantasy-talking2?style=social&label=Star)
+
 
 [arxiv 2025.08]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -1914,6 +1924,7 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2025.08] Dream4D: Lifting Camera-Controlled I2V towards Spatiotemporally Consistent 4D Generation  [[PDF](https://arxiv.org/abs/2410.15957),[Page](https://wanderer7-sk.github.io/Dream4D.github.io/)]
 
+[arxiv 2025.08] 4DNeX: Feed-Forward 4D Generative Modeling Made Easy  [[PDF](https://arxiv.org/abs/2508.13154),[Page](https://4dnex.github.io/)] ![Code](https://img.shields.io/github/stars/3DTopia/4DNeX?style=social&label=Star)
 
 [arxiv 2025.08]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -2518,8 +2529,12 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2025.08] SwiftVideo: A Unified Framework for Few-Step Video Generation through Trajectory-Distribution Alignment  [[PDF](https://arxiv.org/abs/2508.06082)]
 
-
 [arxiv 2025.08] TaoCache: Structure-Maintained Video Generation Acceleration  [[PDF](https://arxiv.org/pdf/2508.08978)]
+
+[arxiv 2025.08]  Compact Attention: Exploiting Structured Spatio-Temporal Sparsity for Fast Video Generation [[PDF](https://arxiv.org/abs/2508.12969),[Page](https://yo-ava.github.io/Compact-Attention.github.io/)]
+
+[arxiv 2025.08] MixCache: Mixture-of-Cache for Video Diffusion Transformer Acceleration  [[PDF](https://arxiv.org/pdf/2508.12691)]
+
 
 [arxiv 2025.08]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -2629,6 +2644,8 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2025.08]  Yan: Foundational Interactive Video Generation [[PDF](https://arxiv.org/pdf/2508.08601),[Page](https://greatx3.github.io/Yan/)] 
 
+[arxiv 2025.08] Matrix-Game 2.0: An Open-Source, Real-Time, and Streaming Interactive World Model  [[PDF](https://arxiv.org/abs/2508.13009),[Page](https://matrix-game-v2.github.io/)] ![Code](https://img.shields.io/github/stars/SkyworkAI/Matrix-Game?style=social&label=Star)
+
 [arxiv 2025.08]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 
@@ -2681,6 +2698,7 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2025.07] A Survey on Vision-Language-Action Models for Autonomous Drivin  [[PDF](https://arxiv.org/abs/2506.24044),[Page](https://github.com/JohnsonJiang1996/Awesome-VLA4AD)] ![Code](https://img.shields.io/github/stars/JohnsonJiang1996/Awesome-VLA4AD?style=social&label=Star)
 
+[arxiv 2025.08]  ImagiDrive: A Unified Imagination-and-Planning Framework for Autonomous [[PDF](https://arxiv.org/pdf/2508.11428),[Page](https://github.com/fudan-zvg/ImagiDrive)] ![Code](https://img.shields.io/github/stars/fudan-zvg/ImagiDrive?style=social&label=Star)
 
 [arxiv 2025.08]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
