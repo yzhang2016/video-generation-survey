@@ -238,6 +238,9 @@
 
 [arxiv 2025.08]  CoopDiff: Anticipating 3D Human-object Interactions via Contact-consistent Decoupled Diffusion [[PDF](https://arxiv.org/abs/2508.07162)]
 
+
+[arxiv 2025.08]  GaussianArt: Unified Modeling of Geometry and Motion for Articulated Objects [[PDF](https://arxiv.org/abs/2508.14891),[Page](https://sainingzhang.github.io/project/gaussianart/)] 
+
 [arxiv 2025.08]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 
