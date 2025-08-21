@@ -1299,8 +1299,9 @@
 
 [arxiv 2025.08] DualFit: A Two-Stage Virtual Try-On via Warping and Synthesis  [[PDF](https://arxiv.org/abs/2508.12131)]
 
-[arxiv 2025.08]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
+[arxiv 2025.08]  OmniTry: Virtual Try-On Anything without Masks [[PDF](https://arxiv.org/abs/2508.13632),[Page](https://omnitry.github.io/)] ![Code](https://img.shields.io/github/stars/Kunbyte-AI/OmniTry?style=social&label=Star)
 
+[arxiv 2025.08]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 
 ## Model adapatation/Merge 
@@ -1927,6 +1928,9 @@
 
 [arxiv 2025.08] Story2Board: A Training‑Free Approach for Expressive Storyboard Generation  [[PDF](https://arxiv.org/abs/2508.09983),[Page](https://daviddinkevich.github.io/Story2Board/)] ![Code](https://img.shields.io/github/stars/daviddinkevich/Story2Board?style=social&label=Star)
 
+[arxiv 2025.08] From Image Captioning to Visual Storytelling  [[PDF](https://arxiv.org/abs/2508.14045)]
+
+
 [arxiv 2025.08]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 
@@ -2397,8 +2401,9 @@ Creative Layout-to-Image Generation [[PDF](https://arxiv.org/pdf/2412.03859),[Pa
 
 [arxiv 2025.08] Lay2Story: Extending Diffusion Transformers for Layout-Togglable Story Generation  [[PDF](https://arxiv.org/pdf/2508.08949)]
 
-[arxiv 2025.08]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
+[arxiv 2025.08] MUSE: Multi-Subject Unified Synthesis via Explicit Layout Semantic Expansion  [[PDF](https://arxiv.org/pdf/2508.14440),[Page](https://github.com/pf0607/MUSE)] ![Code](https://img.shields.io/github/stars/pf0607/MUSE?style=social&label=Star)
 
+[arxiv 2025.08]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 ## Image Variation 
 [arxiv 2023.08]IP-Adapter: Text Compatible Image Prompt Adapter for Text-to-Image Diffusion Models [[PDF](https://arxiv.org/pdf/2308.06721.pdf), [Page](https://ip-adapter.github.io/)]
@@ -2921,6 +2926,8 @@ Creative Layout-to-Image Generation [[PDF](https://arxiv.org/pdf/2412.03859),[Pa
 [arxiv 2025.07]  DreamPoster: A Unified Framework for Image-Conditioned Generative Poster Design [[PDF](https://arxiv.org/abs/2507.04218),[Page](https://dreamposter.github.io/)] 
 
 [arxiv 2025.08]  Draw Your Mind: Personalized Generation via Condition-Level Modeling in Text-to-Image Diffusion Models [[PDF](https://arxiv.org/pdf/2508.03481),[Page](https://github.com/Burf/DrUM)] ![Code](https://img.shields.io/github/stars/Burf/DrUM?style=social&label=Star)
+
+[arxiv 2025.08]  TransLight: Image-Guided Customized Lighting Control with Generative Decoupling [[PDF](https://arxiv.org/abs/2508.14814)]
 
 [arxiv 2025.08]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
