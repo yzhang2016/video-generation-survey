@@ -762,6 +762,7 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2025.08]  Macro-from-Micro Planning for High-Quality and Parallelized Autoregressive Long Video Generation [[PDF](https://arxiv.org/abs/2508.03334),[Page](https://nju-xunzhixiang.github.io/Anchor-Forcing-Page/)] ![Code](https://img.shields.io/github/stars/xbxsxp9/MMPL?style=social&label=Star)
 
+[arxiv 2025.08] AnchorSync: Global Consistency Optimization for Long Video Editing  [[PDF](https://arxiv.org/abs/2508.14609),[Page](https://github.com/VISION-SJTU/AnchorSync)] ![Code](https://img.shields.io/github/stars/VISION-SJTU/AnchorSync?style=social&label=Star)
 
 [arxiv 2025.08]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -1366,6 +1367,7 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2025.07] DAM-VSR: Disentanglement of Appearance and Motion for Video Super-Resolution  [[PDF](https://arxiv.org/abs/2507.01012),[Page](https://kongzhecn.github.io/projects/dam-vsr/)] ![Code](https://img.shields.io/github/stars/kongzhecn/DAM-VSR?style=social&label=Star)
 
+[arxiv 2025.08] Vivid-VR: Distilling Concepts from Text-to-Video Diffusion Transformer for Photorealistic Video Restoration  [[PDF](https://arxiv.org/abs/2508.14483),[Page](https://csbhr.github.io/projects/vivid-vr/)] ![Code](https://img.shields.io/github/stars/csbhr/Vivid-VR?style=social&label=Star)
 
 [arxiv 2025.08]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -1678,6 +1680,9 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2025.08]  RealTalk: Realistic Emotion-Aware Lifelike Talking-Head Synthesis [[PDF](https://arxiv.org/pdf/2508.12163)]
 
+[arxiv 2025.08]  TalkVid: A Large-Scale Diversified Dataset for Audio-Driven Talking Head Synthesis [[PDF](https://arxiv.org/abs/2508.13618),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
+
+
 [arxiv 2025.08]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 
@@ -1723,6 +1728,7 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2025.08]  FantasyTalking2: Timestep-Layer Adaptive Preference Optimization for Audio-Driven Portrait Animation [[PDF](https://arxiv.org/abs/2508.11255),[Page](https://fantasy-amap.github.io/fantasy-talking2/)] ![Code](https://img.shields.io/github/stars/Fantasy-AMAP/fantasy-talking2?style=social&label=Star)
 
+[arxiv 2025.08] InfiniteTalk: Audio-driven Video Generation for Sparse-Frame Video Dubbing [[PDF](https://arxiv.org/abs/2508.14033),[Page](https://meigen-ai.github.io/InfiniteTalk/)] ![Code](https://img.shields.io/github/stars/MeiGen-AI/InfiniteTalk?style=social&label=Star)
 
 [arxiv 2025.08]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -2108,6 +2114,10 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 [arxiv 2025.06] DFVEdit: Conditional Delta Flow Vector for Zero-shot Video Editing  [[PDF](https://arxiv.org/pdf/2506.20967),[Page](https://dfvedit.github.io/)] ![Code](https://img.shields.io/github/stars/LinglingCai0314/DFVEdit?style=social&label=Star)
 
 [arxiv 2025.06] Shape-for-Motion: Precise and Consistent Video Editing with 3D Proxy  [[PDF](https://arxiv.org/pdf/2506.22432),[Page](https://shapeformotion.github.io/)] ![Code](https://img.shields.io/github/stars/yuhaoliu7456/Shape-for-Motion?style=social&label=Star)
+
+[arxiv 2025.08] DreamSwapV: Mask-guided Subject Swapping for Any Customized Video Editing  [[PDF](https://arxiv.org/pdf/2508.14465)]
+
+[arxiv 2025.08]  Lumen: Consistent Video Relighting and Harmonious Background Replacement with Video Generative Models [[PDF](https://arxiv.org/abs/2508.12945),[Page](https://lumen-relight.github.io/)] ![Code](https://img.shields.io/github/stars/Kunbyte-AI/Lumen?style=social&label=Star)
 
 
 [arxiv 2025.08]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
