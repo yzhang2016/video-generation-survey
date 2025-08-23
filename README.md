@@ -3,7 +3,7 @@
 
 
 
-A reading list of video generation
+A reading list of Image/Video Generation, Multi-Modality Understanding and Generation, and Virtual Human. 
 
 * [Video Generation](https://github.com/yzhang2016/video-generation-survey/blob/main/video-generation.md)
 
