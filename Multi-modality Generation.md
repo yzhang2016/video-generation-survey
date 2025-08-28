@@ -238,6 +238,9 @@
 
 [arxiv 2025.08] Thinking With Videos: Multimodal Tool-Augmented Reinforcement Learning for Long Video Reasoning  [[PDF](https://arxiv.org/abs/2508.04416)]
 
+[arxiv 2025.08]  StreamMem: Query-Agnostic KV Cache Memory for Streaming Video Understanding [[PDF](https://arxiv.org/pdf/2508.15717),[Page](https://yangyanl.ai/streammem/)] 
+
+
 [arxiv 2025.08]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
 
 
