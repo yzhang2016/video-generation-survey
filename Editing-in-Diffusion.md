@@ -976,7 +976,8 @@
 
 [arxiv 2025.06]  TACA: Rethinking Cross-Modal Interaction in Multimodal Diffusion Transformers [[PDF](https://arxiv.org/pdf/2506.07986),[Page](https://github.com/Vchitect/TACA)] ![Code](https://img.shields.io/github/stars/Vchitect/TACA?style=social&label=Star)
 
- 
+
+
 [arxiv 2025.08]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 
@@ -1129,6 +1130,10 @@
 [arxiv 2025.04] Anchor Token Matching: Implicit Structure Locking for Training-free AR Image Editing  [[PDF](https://arxiv.org/abs/2504.10434),[Page](https://github.com/hutaiHang/ATM)] ![Code](https://img.shields.io/github/stars/hutaiHang/ATM?style=social&label=Star)
 
 [arxiv 2025.05] Context-Aware Autoregressive Models for Multi-Conditional Image Generation  [[PDF](https://arxiv.org/abs/2505.12274)]
+
+[arxiv 2025.08]  Visual Autoregressive Modeling for Instruction-Guided Image Editing [[PDF](https://arxiv.org/abs/2508.15772),[Page](https://github.com/HiDream-ai/VAREdit)] ![Code](https://img.shields.io/github/stars/HiDream-ai/VAREdit?style=social&label=Star)
+
+
 [arxiv 2025.08]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 
@@ -1841,8 +1846,9 @@
 
 [arxiv 2025.04] Less-to-More Generalization: Unlocking More Controllability by In-Context Generation  [[PDF](https://arxiv.org/abs/2504.02160),[Page](https://bytedance.github.io/UNO)] ![Code](https://img.shields.io/github/stars/bytedance/UNO?style=social&label=Star)
 
-
 [arxiv 2025.04] FlexIP: Dynamic Control of Preservation and Personality for Customized Image Generation  [[PDF](https://arxiv.org/abs/2504.07405),[Page](https://flexip-tech.github.io/flexip/#/)]
+
+[arxiv 2025.08] Scaling Group Inference for Diverse and High-Quality Generation  [[PDF](https://arxiv.org/abs/2508.15773),[Page](https://www.cs.cmu.edu/~group-inference/)] ![Code](https://img.shields.io/github/stars/GaParmar/group-inference?style=social&label=Star)
 
 [arxiv 2025.08]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
