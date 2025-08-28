@@ -477,6 +477,9 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2025.06] Seedance 1.0: Exploring the Boundaries of Video Generation Models  [[PDF](https://arxiv.org/abs/2506.09113),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
+[arxiv 2025.08] Waver: Wave Your Way to Lifelike Video Generation  [[PDF](https://arxiv.org/abs/2508.15761),[Page](https://github.com/FoundationVision/Waver)] 
+
+
 [arxiv 2025.08]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 
@@ -765,6 +768,8 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 [arxiv 2025.08]  Macro-from-Micro Planning for High-Quality and Parallelized Autoregressive Long Video Generation [[PDF](https://arxiv.org/abs/2508.03334),[Page](https://nju-xunzhixiang.github.io/Anchor-Forcing-Page/)] ![Code](https://img.shields.io/github/stars/xbxsxp9/MMPL?style=social&label=Star)
 
 [arxiv 2025.08] AnchorSync: Global Consistency Optimization for Long Video Editing  [[PDF](https://arxiv.org/abs/2508.14609),[Page](https://github.com/VISION-SJTU/AnchorSync)] ![Code](https://img.shields.io/github/stars/VISION-SJTU/AnchorSync?style=social&label=Star)
+
+[arxiv 2025.08] WorldWeaver: Generating Long-Horizon Video Worlds via Rich Perception  [[PDF](https://arxiv.org/abs/2508.15720),[Page](https://johanan528.github.io/worldweaver_web/)]
 
 [arxiv 2025.08]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -1370,6 +1375,9 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 [arxiv 2025.07] DAM-VSR: Disentanglement of Appearance and Motion for Video Super-Resolution  [[PDF](https://arxiv.org/abs/2507.01012),[Page](https://kongzhecn.github.io/projects/dam-vsr/)] ![Code](https://img.shields.io/github/stars/kongzhecn/DAM-VSR?style=social&label=Star)
 
 [arxiv 2025.08] Vivid-VR: Distilling Concepts from Text-to-Video Diffusion Transformer for Photorealistic Video Restoration  [[PDF](https://arxiv.org/abs/2508.14483),[Page](https://csbhr.github.io/projects/vivid-vr/)] ![Code](https://img.shields.io/github/stars/csbhr/Vivid-VR?style=social&label=Star)
+
+[arxiv 2025.08]  CineScale: Free Lunch in High-Resolution Cinematic Visual Generation [[PDF](https://arxiv.org/abs/2508.15774),[Page](https://eyeline-labs.github.io/CineScale/)] ![Code](https://img.shields.io/github/stars/Eyeline-Labs/CineScale?style=social&label=Star)
+
 
 [arxiv 2025.08]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
