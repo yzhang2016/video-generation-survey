@@ -188,6 +188,9 @@
 
 [arxiv 2025.08]  Ovis2.5 Technical Report [[PDF](https://arxiv.org/pdf/2508.11737),[Page](https://github.com/AIDC-AI/Ovis)] ![Code](https://img.shields.io/github/stars/AIDC-AI/Ovis?style=social&label=Star) 
 
+[arxiv 2025.08] InternVL3.5: Advancing Open-Source Multimodal Models in Versatility, Reasoning, and Efficiency  [[PDF](https://arxiv.org/abs/2508.18265),[Page](https://github.com/OpenGVLab/InternVL)] ![Code](https://img.shields.io/github/stars/OpenGVLab/InternVL?style=social&label=Star) 
+
+
 [arxiv 2025.08]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
 
 
@@ -497,6 +500,7 @@
 
 [arxiv 2025.04]  Memory-efficient Streaming VideoLLMs for Real-time Procedural Video Understanding [[PDF](https://arxiv.org/abs/2504.13915),[Page](https://dibschat.github.io/ProVideLLM/)] 
 
+[arxiv 2025.08] MMTok: Multimodal Coverage Maximization for Efficient Inference of VLMs  [[PDF](https://arxiv.org/abs/2508.18264),[Page](https://cv.ironieser.cc/projects/mmtok.html)] ![Code](https://img.shields.io/github/stars/Ironieser/MMTok/?style=social&label=Star) 
 
 [arxiv 2025.08]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
 
