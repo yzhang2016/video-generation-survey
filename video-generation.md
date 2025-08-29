@@ -771,6 +771,8 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2025.08] WorldWeaver: Generating Long-Horizon Video Worlds via Rich Perception  [[PDF](https://arxiv.org/abs/2508.15720),[Page](https://johanan528.github.io/worldweaver_web/)]
 
+[arxiv 2025.08]  Mixture of Contexts for Long Video Generation [[PDF](http://arxiv.org/abs/2508.21058),[Page](https://primecai.github.io/moc/)] 
+
 [arxiv 2025.08]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 
@@ -798,6 +800,8 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 [arxiv 2025.07]  AudioGen-Omni: A Unified Multimodal Diffusion Transformer for Video-Synchronized Audio, Speech, and Song Generation [[PDF](https://arxiv.org/abs/2508.00733),[Page](https://ciyou2.github.io/AudioGen-Omni/)] 
 
 [arxiv 2025.08] HunyuanVideo-Foley: Multimodal Diffusion with Representation Alignment for High-Fidelity Foley Audio Generation  [[PDF](https://arxiv.org/abs/2508.16930),[Page](https://szczesnys.github.io/hunyuanvideo-foley/)] ![Code](https://img.shields.io/github/stars/Tencent-Hunyuan/HunyuanVideo-Foley?style=social&label=Star)
+
+[arxiv 2025.08] AudioStory: Generating Long-Form Narrative Audio with Large Language Models  [[PDF](https://arxiv.org/abs/2508.20088),[Page](https://github.com/TencentARC/AudioStory)] ![Code](https://img.shields.io/github/stars/TencentARC/AudioStory?style=social&label=Star)
 
 [arxiv 2025.08]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -993,6 +997,7 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2025.07] MotionShot: Adaptive Motion Transfer across Arbitrary Objects for Text-to-Video Generation  [[PDF](https://arxiv.org/abs/2507.16310)]
 
+[arxiv 2025.08] PersonaAnimator: Personalized Motion Transfer from Unconstrained Videos  [[PDF](https://arxiv.org/abs/2508.19895)]
 
 [arxiv 2025.08]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -1745,6 +1750,9 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2025.08]  Wan-S2V: Audio-Driven Cinematic Video Generation [[PDF](https://arxiv.org/abs/2508.18621)]
 
+[arxiv 2025.08]  MIDAS: Multimodal Interactive Digital-humAn Synthesis via Real-time Autoregressive Video Generation [[PDF](https://arxiv.org/pdf/2508.19320),[Page](https://chenmingthu.github.io/milm/)] 
+
+[arxiv 2025.08] InfinityHuman: Towards Long-Term Audio-Driven Human  [[PDF](https://arxiv.org/abs/2508.20210),[Page](https://infinityhuman.github.io/)] 
 
 [arxiv 2025.08]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
