@@ -1311,6 +1311,7 @@
 
 [arxiv 2025.08] JCo-MVTON: Jointly Controllable Multi-Modal Diffusion Transformer for Mask-Free Virtual Try-on  [[PDF](https://arxiv.org/abs/2508.17614),[Page](https://github.com/damo-cv/JCo-MVTON)] ![Code](https://img.shields.io/github/stars/damo-cv/JCo-MVTON?style=social&label=Star)
 
+[arxiv 2025.08] FastFit: Accelerating Multi-Reference Virtual Try-On via Cacheable Diffusion Models  [[PDF](https://arxiv.org/abs/2508.20586),[Page](https://github.com/Zheng-Chong/FastFit)] ![Code](https://img.shields.io/github/stars/Zheng-Chong/FastFit?style=social&label=Star)
 
 [arxiv 2025.08]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -1942,6 +1943,7 @@
 [arxiv 2025.08] Story2Board: A Training‑Free Approach for Expressive Storyboard Generation  [[PDF](https://arxiv.org/abs/2508.09983),[Page](https://daviddinkevich.github.io/Story2Board/)] ![Code](https://img.shields.io/github/stars/daviddinkevich/Story2Board?style=social&label=Star)
 
 [arxiv 2025.08] From Image Captioning to Visual Storytelling  [[PDF](https://arxiv.org/abs/2508.14045)]
+
 
 
 [arxiv 2025.08]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
@@ -2943,6 +2945,9 @@ Creative Layout-to-Image Generation [[PDF](https://arxiv.org/pdf/2412.03859),[Pa
 
 [arxiv 2025.08]  TransLight: Image-Guided Customized Lighting Control with Generative Decoupling [[PDF](https://arxiv.org/abs/2508.14814)]
 
+[arxiv 2025.08]  Interact-Custom: Customized Human Object Interaction Image Generation [[PDF](https://arxiv.org/pdf/2508.19575),[Page](https://github.com/XZPKU/Inter-custom)] ![Code](https://img.shields.io/github/stars/XZPKU/Inter-custom?style=social&label=Star)
+
+
 [arxiv 2025.08]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 
@@ -3459,6 +3464,10 @@ Creative Layout-to-Image Generation [[PDF](https://arxiv.org/pdf/2412.03859),[Pa
 [arxiv 2025.08] Learning User Preferences for Image Generation Models  [[PDF](https://arxiv.org/abs/2508.08220),[Page](https://github.com/Mowenyii/learn-user-pref)] ![Code](https://img.shields.io/github/stars/Mowenyii/learn-user-pref?style=social&label=Star)
 
 [arxiv 2025.08] Instant Preference Alignment for Text-to-Image Diffusion Models  [[PDF](https://arxiv.org/pdf/2508.17718)]
+
+[arxiv 2025.08]  OneReward: Unified Mask-Guided Image Generation via Multi-Task Human Preference Learning [[PDF](https://arxiv.org/abs/2508.21066),[Page](https://one-reward.github.io/)] 
+
+[arxiv 2025.08] Pref-GRPO: Pairwise Preference Reward-based GRPO for Stable Text-to-Image Reinforcement Learning  [[PDF](https://arxiv.org/pdf/2508.20751),[Page](https://codegoat24.github.io/UnifiedReward/Pref-GRPO)] ![Code](https://img.shields.io/github/stars/CodeGoat24/Pref-GRPO?style=social&label=Star)
 
 
 [arxiv 2025.08]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
