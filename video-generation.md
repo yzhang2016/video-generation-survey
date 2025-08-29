@@ -797,6 +797,7 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2025.07]  AudioGen-Omni: A Unified Multimodal Diffusion Transformer for Video-Synchronized Audio, Speech, and Song Generation [[PDF](https://arxiv.org/abs/2508.00733),[Page](https://ciyou2.github.io/AudioGen-Omni/)] 
 
+[arxiv 2025.08] HunyuanVideo-Foley: Multimodal Diffusion with Representation Alignment for High-Fidelity Foley Audio Generation  [[PDF](https://arxiv.org/abs/2508.16930),[Page](https://szczesnys.github.io/hunyuanvideo-foley/)] ![Code](https://img.shields.io/github/stars/Tencent-Hunyuan/HunyuanVideo-Foley?style=social&label=Star)
 
 [arxiv 2025.08]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -1739,6 +1740,11 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 [arxiv 2025.08]  FantasyTalking2: Timestep-Layer Adaptive Preference Optimization for Audio-Driven Portrait Animation [[PDF](https://arxiv.org/abs/2508.11255),[Page](https://fantasy-amap.github.io/fantasy-talking2/)] ![Code](https://img.shields.io/github/stars/Fantasy-AMAP/fantasy-talking2?style=social&label=Star)
 
 [arxiv 2025.08] InfiniteTalk: Audio-driven Video Generation for Sparse-Frame Video Dubbing [[PDF](https://arxiv.org/abs/2508.14033),[Page](https://meigen-ai.github.io/InfiniteTalk/)] ![Code](https://img.shields.io/github/stars/MeiGen-AI/InfiniteTalk?style=social&label=Star)
+
+[arxiv 2025.08] OmniHuman-1.5: Instilling an Active Mind in Avatars via Cognitive Simulation  [[PDF](https://arxiv.org/abs/2508.19209),[Page](https://omnihuman-lab.github.io/v1_5/)] 
+
+[arxiv 2025.08]  Wan-S2V: Audio-Driven Cinematic Video Generation [[PDF](https://arxiv.org/abs/2508.18621)]
+
 
 [arxiv 2025.08]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
