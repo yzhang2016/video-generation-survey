@@ -524,6 +524,9 @@
 
 [arxiv 2025.08]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
+
+[arxiv 2025.08]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
+
 ## end of editing 
 
 
@@ -976,7 +979,7 @@
 
 [arxiv 2025.06]  TACA: Rethinking Cross-Modal Interaction in Multimodal Diffusion Transformers [[PDF](https://arxiv.org/pdf/2506.07986),[Page](https://github.com/Vchitect/TACA)] ![Code](https://img.shields.io/github/stars/Vchitect/TACA?style=social&label=Star)
 
-
+[arxiv 2025.08] CountLoop:Iterative Agent Guided High Instance Image Generation  [[PDF](https://openreview.net/pdf?id=NZ0H1XtcZG),[Page](https://mondalanindya.github.io/CountLoop/)] ![Code](https://img.shields.io/github/stars/mondalanindya/CountLoop/?style=social&label=Star)
 
 [arxiv 2025.08]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -1305,6 +1308,9 @@
 [arxiv 2025.08] DualFit: A Two-Stage Virtual Try-On via Warping and Synthesis  [[PDF](https://arxiv.org/abs/2508.12131)]
 
 [arxiv 2025.08]  OmniTry: Virtual Try-On Anything without Masks [[PDF](https://arxiv.org/abs/2508.13632),[Page](https://omnitry.github.io/)] ![Code](https://img.shields.io/github/stars/Kunbyte-AI/OmniTry?style=social&label=Star)
+
+[arxiv 2025.08] JCo-MVTON: Jointly Controllable Multi-Modal Diffusion Transformer for Mask-Free Virtual Try-on  [[PDF](https://arxiv.org/abs/2508.17614),[Page](https://github.com/damo-cv/JCo-MVTON)] ![Code](https://img.shields.io/github/stars/damo-cv/JCo-MVTON?style=social&label=Star)
+
 
 [arxiv 2025.08]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -1812,8 +1818,9 @@
 
 [arxiv 2025.08]  MM-R1: Unleashing the Power of Unified Multimodal Large Language Models for Personalized Image Generation [[PDF](https://arxiv.org/abs/2508.11433)]
 
-[arxiv 2025.08]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
+[arxiv 2025.08] USO: Unified Style and Subject-Driven Generation via Disentangled and Reward Learning  [[PDF](https://arxiv.org/abs/2508.18966),[Page](https://bytedance.github.io/USO/)] ![Code](https://img.shields.io/github/stars/bytedance/USO?style=social&label=Star)
 
+[arxiv 2025.08]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 ## end of concept
 
@@ -2850,6 +2857,7 @@ Creative Layout-to-Image Generation [[PDF](https://arxiv.org/pdf/2412.03859),[Pa
 
 [arxiv 2025.08]  Leveraging Diffusion Models for Stylization using Multiple Style Images [[PDF](https://arxiv.org/pdf/2508.12784)]
 
+[arxiv 2025.08] USO: Unified Style and Subject-Driven Generation via Disentangled and Reward Learning  [[PDF](https://arxiv.org/abs/2508.18966),[Page](https://bytedance.github.io/USO/)] ![Code](https://img.shields.io/github/stars/bytedance/USO?style=social&label=Star)
 
 [arxiv 2025.08]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -3220,6 +3228,13 @@ Creative Layout-to-Image Generation [[PDF](https://arxiv.org/pdf/2412.03859),[Pa
 
 [arxiv 2025.08] InstantEdit: Text-Guided Few-Step Image Editing with Piecewise Rectified Flow  [[PDF](https://arxiv.org/pdf/2508.06033),[Page](https://github.com/Supercomputing-System-AI-Lab/InstantEdit)] ![Code](https://img.shields.io/github/stars/Supercomputing-System-AI-Lab/InstantEdit?style=social&label=Star)
 
+[arxiv 2025.08] OmniCache: A Trajectory-Oriented Global Perspective on Training-Free Cache Reuse for Diffusion Transformer Models  [[PDF](https://arxiv.org/pdf/2508.16212)]
+
+[arxiv 2025.08]  Forecast then Calibrate: Feature Caching as ODE for Efficient Diffusion Transformers [[PDF](https://arxiv.org/pdf/2508.16211)]
+
+[arxiv 2025.08] DiCache: Let Diffusion Model Determine Its Own Cache  [[PDF](https://arxiv.org/abs/2508.17356),[Page](https://github.com/Bujiazi/DiCache)] ![Code](https://img.shields.io/github/stars/Bujiazi/DiCache?style=social&label=Star)
+
+
 [arxiv 2025.08]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 
@@ -3364,6 +3379,9 @@ Creative Layout-to-Image Generation [[PDF](https://arxiv.org/pdf/2412.03859),[Pa
 
 [arxiv 2025.05] VTBench: Evaluating Visual Tokenizers for Autoregressive Image Generation  [[PDF](https://arxiv.org/pdf/2505.13439),[Page](https://github.com/huawei-lin/VTBench)] ![Code](https://img.shields.io/github/stars/huawei-lin/VTBench?style=social&label=Star)
 
+[arxiv 2025.08] T2I-ReasonBench: Benchmarking Reasoning-Informed Text-to-Image Generation  [[PDF](https://arxiv.org/abs/2508.17472),[Page](https://github.com/KaiyueSun98/T2I-ReasonBench)] ![Code](https://img.shields.io/github/stars/KaiyueSun98/T2I-ReasonBench?style=social&label=Star)
+
+
 [arxiv 2025.08]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 
@@ -3439,6 +3457,9 @@ Creative Layout-to-Image Generation [[PDF](https://arxiv.org/pdf/2412.03859),[Pa
 [arxiv 2025.08] TempFlow-GRPO: When Timing Matters for GRPO in Flow Models  [[PDF](https://arxiv.org/abs/2508.04324)]
 
 [arxiv 2025.08] Learning User Preferences for Image Generation Models  [[PDF](https://arxiv.org/abs/2508.08220),[Page](https://github.com/Mowenyii/learn-user-pref)] ![Code](https://img.shields.io/github/stars/Mowenyii/learn-user-pref?style=social&label=Star)
+
+[arxiv 2025.08] Instant Preference Alignment for Text-to-Image Diffusion Models  [[PDF](https://arxiv.org/pdf/2508.17718)]
+
 
 [arxiv 2025.08]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
