@@ -353,6 +353,7 @@
 
 [arxiv 2025.07] ThinkAct: Vision-Language-Action Reasoning via Reinforced Visual Latent Planning  [[PDF](https://arxiv.org/abs/2507.16815),[Page](https://jasper0314-huang.github.io/thinkact-vla/)] 
 
+[arxiv 2025.08]  Discrete Diffusion VLA: Bringing Discrete Diffusion to Action Decoding in Vision-Language-Action Policies [[PDF](https://arxiv.org/abs/2508.20072)】
 
 [arxiv 2025.08]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
 
