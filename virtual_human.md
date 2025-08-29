@@ -123,7 +123,11 @@
 
 [arxiv 2025.08]  Motion2Motion: Cross-topology Motion Transfer with Sparse Correspondence [[PDF](https://arxiv.org/abs/2508.13139)]
 
+[arxiv 2025.08]  DanceEditor: Towards Iterative Editable Music-driven Dance Generation with Open-Vocabulary Descriptions [[PDF](),[Page](https://lzvsdy.github.io/DanceEditor/)] ![Code](https://img.shields.io/github/stars/LZVSDY/DanceEditor?style=social&label=Star)
+
 [arxiv 2025.08]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
+
+
 
 ## audio-to-gesture 
 [arxiv 2024.10] Emphasizing Semantic Consistency of Salient Posture for Speech-Driven Gesture Generation  [[PDF](https://arxiv.org/abs/2410.13786)]
