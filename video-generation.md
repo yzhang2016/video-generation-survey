@@ -2569,6 +2569,7 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2025.08] MixCache: Mixture-of-Cache for Video Diffusion Transformer Acceleration  [[PDF](https://arxiv.org/pdf/2508.12691)]
 
+[arxiv 2025.08] POSE: Phased One-Step Adversarial Equilibrium for Video Diffusion Models  [[PDF](https://arxiv.org/abs/2508.21019),[Page](https://pose-paper.github.io/)]
 
 [arxiv 2025.08]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
