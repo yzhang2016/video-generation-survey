@@ -1313,6 +1313,8 @@
 
 [arxiv 2025.08] FastFit: Accelerating Multi-Reference Virtual Try-On via Cacheable Diffusion Models  [[PDF](https://arxiv.org/abs/2508.20586),[Page](https://github.com/Zheng-Chong/FastFit)] ![Code](https://img.shields.io/github/stars/Zheng-Chong/FastFit?style=social&label=Star)
 
+[arxiv 2025.08]  Dress&Dance: Dress up and Dance as You Like It [[PDF](https://arxiv.org/abs/2508.21070),[Page](https://immortalco.github.io/DressAndDance/)] 
+
 [arxiv 2025.08]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 
