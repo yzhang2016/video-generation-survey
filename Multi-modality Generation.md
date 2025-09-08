@@ -5,7 +5,7 @@
 [arxiv 2024.12] Training Large Language Models to Reason in a Continuous Latent Space  [[PDF](https://arxiv.org/pdf/2412.06769)]
 
 
-[arxiv 2025.08]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
+[arxiv 2025.09]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
 
 
 
@@ -30,7 +30,7 @@
 
 [arxiv 2025.06]  Omni-DPO: A Dual-Perspective Paradigm for Dynamic Preference Learning of LLMs [[PDF](https://arxiv.org/abs/2506.10054)] ![Code](https://img.shields.io/github/stars/pspdada/Omni-DPO?style=social&label=Star) 
 
-[arxiv 2025.08]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
+[arxiv 2025.09]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
 
 
 
@@ -52,7 +52,7 @@
 
 [arxiv 2025.08]  TurboTrain: Towards Efficient and Balanced Multi-Task Learning for Multi-Agent Perception and Prediction [[PDF](https://arxiv.org/abs/2508.04682),[Page](https://github.com/ucla-mobility/TurboTrain)] ![Code](https://img.shields.io/github/stars/ucla-mobility/TurboTrain?style=social&label=Star) 
 
-[arxiv 2025.08]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
+[arxiv 2025.09]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
 
 
 ## Understanding 
@@ -190,8 +190,9 @@
 
 [arxiv 2025.08] InternVL3.5: Advancing Open-Source Multimodal Models in Versatility, Reasoning, and Efficiency  [[PDF](https://arxiv.org/abs/2508.18265),[Page](https://github.com/OpenGVLab/InternVL)] ![Code](https://img.shields.io/github/stars/OpenGVLab/InternVL?style=social&label=Star) 
 
+[arxiv 2025.09]  Kwai Keye-VL 1.5 Technical Report [[PDF](https://arxiv.org/abs/2509.01563),[Page](https://kwai-keye.github.io/)] 
 
-[arxiv 2025.08]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
+[arxiv 2025.09]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
 
 
 ## downstream
@@ -244,7 +245,7 @@
 [arxiv 2025.08]  StreamMem: Query-Agnostic KV Cache Memory for Streaming Video Understanding [[PDF](https://arxiv.org/pdf/2508.15717),[Page](https://yangyanl.ai/streammem/)] 
 
 
-[arxiv 2025.08]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
+[arxiv 2025.09]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
 
 
 ## Generation 
@@ -333,13 +334,17 @@
 
 [arxiv 2025.08] Skywork UniPic: Unified Autoregressive Modeling for Visual Understanding and Generation  [[PDF](https://arxiv.org/abs/2508.03320),[Page](https://github.com/SkyworkAI/UniPic)] ![Code](https://img.shields.io/github/stars/SkyworkAI/UniPic?style=social&label=Star) 
 
-[arxiv 2025.08]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
+[arxiv 2025.09] OneCAT: Decoder-Only Auto-Regressive Model for Unified Understanding and Generation  [[PDF](https://arxiv.org/pdf/2509.03498),[Page](https://onecat-ai.github.io/)] ![Code](https://img.shields.io/github/stars/onecat-ai/onecat?style=social&label=Star) 
+
+[arxiv 2025.09] Skywork UniPic 2.0: Building Kontext Model with Online RL for Unified Multimodal Model  [[PDF](https://arxiv.org/abs/2509.04548),[Page](https://unipic-v2.github.io/)] ![Code](https://img.shields.io/github/stars/SkyworkAI/UniPic/?style=social&label=Star) 
+
+[arxiv 2025.09]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
 
 
 ## diffusion LLM
 [arxiv 2025.05]  MMaDA: Multimodal Large Diffusion Language Models [[PDF](https://arxiv.org/abs/2505.15809),[Page](https://github.com/Gen-Verse/MMaDA)] ![Code](https://img.shields.io/github/stars/Gen-Verse/MMaDA?style=social&label=Star) 
 
-[arxiv 2025.08]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
+[arxiv 2025.09]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
 
 
 ## evaluation 
@@ -355,7 +360,7 @@
 
 [arxiv 2025.08]  Discrete Diffusion VLA: Bringing Discrete Diffusion to Action Decoding in Vision-Language-Action Policies [[PDF](https://arxiv.org/abs/2508.20072)】
 
-[arxiv 2025.08]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
+[arxiv 2025.09]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
 
 
 ## reasoning
@@ -416,7 +421,7 @@
 
 [arxiv 2025.08]  Thyme: Think Beyond Images [[PDF](https://arxiv.org/abs/2508.11630),[Page](https://thyme-vl.github.io/)] ![Code](https://img.shields.io/github/stars/yfzhang114/Thyme?style=social&label=Star) 
 
-[arxiv 2025.08]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
+[arxiv 2025.09]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
 
 
 
@@ -429,7 +434,7 @@
 
 [arxiv 2025.03]  Token-Efficient Long Video Understanding for Multimodal LLMs [[PDF](https://arxiv.org/pdf/2503.04130)]
 
-[arxiv 2025.08]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
+[arxiv 2025.09]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
 
 ## few-shot
 [arxiv 2025.02]  Efficient Few-Shot Continual Learning in Vision-Language Models [[PDF](https://arxiv.org/pdf/2502.04098)]
@@ -452,12 +457,12 @@
 
 [arxiv 2025.07]  When Tokens Talk Too Much: A Survey of Multimodal Long-Context Token Compression across Images, Videos, and Audios [[PDF](https://arxiv.org/abs/2507.20198),[Page](https://github.com/cokeshao/Awesome-Multimodal-Token-Compression)] ![Code](https://img.shields.io/github/stars/cokeshao/Awesome-Multimodal-Token-Compression?style=social&label=Star) 
 
-[arxiv 2025.08]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
+[arxiv 2025.09]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
 
 ## RoPE
 [arxiv 2025.05] Circle-RoPE: Cone-like Decoupled Rotary Positional Embedding for Large Vision-Language Models  [[PDF](https://arxiv.org/abs/2505.16416),[Page](https://github.com/lose4578/CircleRoPE)] ![Code](https://img.shields.io/github/stars/lose4578/CircleRoPE?style=social&label=Star) 
 
-[arxiv 2025.08]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
+[arxiv 2025.09]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
 
 
 ## audio 
@@ -466,24 +471,24 @@
 [arxiv 2024.11]Video-Guided Foley Sound Generation with Multimodal Controls [[PDF](https://arxiv.org/abs/2411.17698), [Page](https://ificl.github.io/MultiFoley/)]
 
 
-[arxiv 2025.08]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
+[arxiv 2025.09]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
 
 
 ## Study 
 [arxiv 2025.03] Should VLMs be Pre-trained with Image Data?  [[PDF](https://arxiv.org/abs/2503.07603)]
 
-[arxiv 2025.08]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
+[arxiv 2025.09]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
 
 
 ## agent
 [arxiv 2025.08]  OPENCUA: Open Foundations for Computer-Use Agents [[PDF](https://arxiv.org/abs/2508.09123),[Page](https://opencua.xlang.ai/)] ![Code](https://img.shields.io/github/stars/xlang-ai/OpenCUA?style=social&label=Star) 
 
-[arxiv 2025.08]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
+[arxiv 2025.09]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
 
 ## memory
 [arxiv 2025.08]  Seeing, Listening, Remembering, and Reasoning: A Multimodal Agent with Long-Term Memory [[PDF](https://arxiv.org/abs/2508.09736),[Page](https://github.com/bytedance-seed/m3-agent)] ![Code](https://img.shields.io/github/stars/bytedance-seed/m3-agent?style=social&label=Star) 
 
-[arxiv 2025.08]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
+[arxiv 2025.09]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
 
 
 ## speed 
@@ -503,7 +508,7 @@
 
 [arxiv 2025.08] MMTok: Multimodal Coverage Maximization for Efficient Inference of VLMs  [[PDF](https://arxiv.org/abs/2508.18264),[Page](https://cv.ironieser.cc/projects/mmtok.html)] ![Code](https://img.shields.io/github/stars/Ironieser/MMTok/?style=social&label=Star) 
 
-[arxiv 2025.08]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
+[arxiv 2025.09]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
 
 ## Evaluation
 
@@ -520,6 +525,6 @@
 [arxiv 2025.05] Human-Aligned Bench: Fine-Grained Assessment of Reasoning Ability in MLLMs vs. Humans  [[PDF](https://arxiv.org/abs/2505.11141),[Page](https://yansheng-qiu.github.io/human-aligned-bench.github.io/)] ![Code](https://img.shields.io/github/stars/yansheng-qiu/Human_Aligned_Bench?style=social&label=Star) 
 
 
-[arxiv 2025.08]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
+[arxiv 2025.09]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
 
 
