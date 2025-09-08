@@ -4,14 +4,14 @@
 [arxiv 2025.07] Go to Zero: Towards Zero-shot Motion Generation with Million-scale Data  [[PDF](https://arxiv.org/abs/2507.07095),[Page](https://github.com/VankouF/MotionMillion-Codes)] ![Code](https://img.shields.io/github/stars/VankouF/MotionMillion-Codes?style=social&label=Star)
 
 
-[arxiv 2025.08]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
+[arxiv 2025.09]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 
 
 ## Gaussian Face 
 [arxiv 2025.01] PERSE: Personalized 3D Generative Avatars from A Single Portrait  [[PDF](https://arxiv.org/abs/2412.21206),[Page](https://hyunsoocha.github.io/perse/)] ![Code](https://img.shields.io/github/stars/snuvclab/perse?style=social&label=Star)
 
-[arxiv 2025.08]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
+[arxiv 2025.09]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 
 
@@ -125,7 +125,7 @@
 
 [arxiv 2025.08]  DanceEditor: Towards Iterative Editable Music-driven Dance Generation with Open-Vocabulary Descriptions [[PDF](),[Page](https://lzvsdy.github.io/DanceEditor/)] ![Code](https://img.shields.io/github/stars/LZVSDY/DanceEditor?style=social&label=Star)
 
-[arxiv 2025.08]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
+[arxiv 2025.09]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 
 
@@ -135,7 +135,7 @@
 [arxiv 2025.03]  ExGes: Expressive Human Motion Retrieval and Modulation for Audio-Driven Gesture Synthesis [[PDF](https://arxiv.org/pdf/2503.06499)]
 
 
-[arxiv 2025.08]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
+[arxiv 2025.09]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 
 
@@ -158,13 +158,13 @@
 [arxiv 2025.04]  Direction-Aware Hybrid Representation Learning for 3D Hand Pose and Shape Estimation [[PDF](https://arxiv.org/abs/2504.01298)]
 
 
-[arxiv 2025.08]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
+[arxiv 2025.09]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 
 # ego
 [arxiv 2025.04]  The Invisible EgoHand: 3D Hand Forecasting through EgoBody Pose Estimation [[PDF](https://arxiv.org/abs/2504.08654),[Page](https://masashi-hatano.github.io/EgoH4/)] ![Code](https://img.shields.io/github/stars/masashi-hatano/EgoH4?style=social&label=Star)
 
-[arxiv 2025.08]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
+[arxiv 2025.09]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 
 
@@ -247,7 +247,7 @@
 
 [arxiv 2025.08]  ECHO: Ego-Centric modeling of Human-Object interactions [[PDF](https://arxiv.org/pdf/2508.21556)]
 
-[arxiv 2025.08]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
+[arxiv 2025.09]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 
 ## Interaction Detection 
@@ -264,7 +264,7 @@
 
 [arxiv 2025.08] HOID-R1: Reinforcement Learning for Open-World Human-Object Interaction Detection Reasoning with Multimodal Large Language Model  [[PDF](https://arxiv.org/abs/2508.11350)]
 
-[arxiv 2025.08]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
+[arxiv 2025.09]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 
 ## environment 
@@ -280,7 +280,10 @@
 
 [arxiv 2025.06]  GenHSI: Controllable Generation of Human-Scene Interaction Videos [[PDF](https://arxiv.org/pdf/2506.19840),[Page](https://kunkun0w0.github.io/project/GenHSI/)] ![Code](https://img.shields.io/github/stars/kunkun0w0/GenHSI?style=social&label=Star)
 
-[arxiv 2025.08]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
+[arxiv 2025.09]  FantasyHSI: Video-Generation-Centric 4D Human Synthesis In Any Scene through A Graph-based Multi-Agent Framework [[PDF](https://arxiv.org/abs/2509.01232),[Page](https://fantasy-amap.github.io/fantasy-hsi/)] ![Code](https://img.shields.io/github/stars/Fantasy-AMAP/fantasy-hsi?style=social&label=Star)
+
+
+[arxiv 2025.09]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 
 
@@ -293,4 +296,4 @@
 [arxiv 2025.04] CoMotion: Concurrent Multi-person 3D Motion  [[PDF](https://arxiv.org/abs/2504.12186),[Page](https://github.com/apple/ml-comotion)] ![Code](https://img.shields.io/github/stars/apple/ml-comotion?style=social&label=Star)
 
 
-[arxiv 2025.08]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
+[arxiv 2025.09]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
