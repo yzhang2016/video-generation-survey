@@ -242,10 +242,12 @@
 
 [arxiv 2025.08]  CoopDiff: Anticipating 3D Human-object Interactions via Contact-consistent Decoupled Diffusion [[PDF](https://arxiv.org/abs/2508.07162)]
 
-
 [arxiv 2025.08]  GaussianArt: Unified Modeling of Geometry and Motion for Articulated Objects [[PDF](https://arxiv.org/abs/2508.14891),[Page](https://sainingzhang.github.io/project/gaussianart/)] 
 
 [arxiv 2025.08]  ECHO: Ego-Centric modeling of Human-Object interactions [[PDF](https://arxiv.org/pdf/2508.21556)]
+
+[arxiv 2025.09] InterAct: A Large-Scale Dataset of Dynamic, Expressive and Interactive Activities between Two People in Daily Scenarios  [[PDF](https://arxiv.org/abs/2509.05747),[Page](https://hku-cg.github.io/interact/)] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
+
 
 [arxiv 2025.09]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
