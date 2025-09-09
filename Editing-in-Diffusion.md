@@ -702,6 +702,9 @@
 
 [arxiv 2025.08]  Next Visual Granularity Generation [[PDF](https://arxiv.org/abs/2508.12811),[Page](https://yikai-wang.github.io/nvg/)] ![Code](https://img.shields.io/github/stars/Yikai-Wang/nvg?style=social&label=Star)
 
+[arxiv 2025.09]  Delta Velocity Rectified Flow for Text-to-Image Editing [[PDF](https://arxiv.org/pdf/2509.05342),[Page](https://github.com/gaspardbd/DeltaVelocityRectifiedFlow)] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
+
+
 [arxiv 2025.09]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 
@@ -1831,7 +1834,13 @@
 
 [arxiv 2025.09] FocusDPO: Dynamic Preference Optimization for Multi-Subject Personalized Image Generation via Adaptive Focus  [[PDF](https://arxiv.org/abs/2509.01181),[Page](https://bytedance-fanqie-ai.github.io/FocusDPO/)] ![Code](https://img.shields.io/github/stars/bytedance-fanqie-ai/FocusDPO?style=social&label=Star)
 
+[arxiv 2025.09]  UMO: Scaling Multi-Identity Consistency for Image Customization via Matching Reward [[PDF](https://arxiv.org/abs/2509.06818),[Page](https://bytedance.github.io/UMO/)] ![Code](https://img.shields.io/github/stars/bytedance/UMO?style=social&label=Star)
+
+[arxiv 2025.09] EditIDv2: Editable ID Customization with Data-Lubricated ID Feature Integration for Text-to-Image Generation  [[PDF](https://arxiv.org/pdf/2509.05659)]
+
+
 [arxiv 2025.09]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
+
 
 ## end of concept
 
@@ -2879,7 +2888,7 @@ Creative Layout-to-Image Generation [[PDF](https://arxiv.org/pdf/2412.03859),[Pa
 
 [arxiv 2025.09]  Towards High-Fidelity, Identity-Preserving Real-Time Makeup Transfer: Decoupling Style Generation [[PDF](https://arxiv.org/abs/2509.02445),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
-
+[arxiv 2025.09]  OmniStyle2: Scalable and High Quality Artistic Style Transfer Data Generation via Destylization [[PDF](https://arxiv.org/abs/2509.05970),[Page](https://wangyephd.github.io/projects/omnistyle2.html)] 
 [arxiv 2025.09]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 
@@ -2906,6 +2915,9 @@ Creative Layout-to-Image Generation [[PDF](https://arxiv.org/pdf/2412.03859),[Pa
 [arxiv 2025.09] Draw-In-Mind: Learning Precise Image Editing via Chain-of-Thought Imagination  [[PDF](https://arxiv.org/abs/2509.01986),[Page](https://github.com/showlab/DIM)] ![Code](https://img.shields.io/github/stars/showlab/DIM?style=social&label=Star)
 
 [arxiv 2025.09]  PromptEnhancer: A Simple Approach to Enhance Text-to-Image Models via Chain-of-Thought Prompt Rewriting [[PDF](https://arxiv.org/abs/2509.04545),[Page](https://hunyuan-promptenhancer.github.io/)] 
+
+[arxiv 2025.09] INTERLEAVING REASONING FOR BETTER TEXT-TO-IMAGE GENERATION  [[PDF](https://arxiv.org/pdf/2509.06945),[Page](https://github.com/Osilly/Interleaving-Reasoning-Generation)] ![Code](https://img.shields.io/github/stars/Osilly/Interleaving-Reasoning-Generation?style=social&label=Star)
+
 
 [arxiv 2025.09]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -3493,6 +3505,7 @@ Creative Layout-to-Image Generation [[PDF](https://arxiv.org/pdf/2412.03859),[Pa
 
 [arxiv 2025.08] Pref-GRPO: Pairwise Preference Reward-based GRPO for Stable Text-to-Image Reinforcement Learning  [[PDF](https://arxiv.org/pdf/2508.20751),[Page](https://codegoat24.github.io/UnifiedReward/Pref-GRPO)] ![Code](https://img.shields.io/github/stars/CodeGoat24/Pref-GRPO?style=social&label=Star)
 
+[arxiv 2025.09] BranchGRPO: Stable and Efficient GRPO with Structured Branching in Diffusion Models  [[PDF](https://arxiv.org/abs/2509.06040)]
 
 [arxiv 2025.09]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
