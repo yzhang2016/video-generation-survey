@@ -248,6 +248,7 @@
 
 [arxiv 2025.09] InterAct: A Large-Scale Dataset of Dynamic, Expressive and Interactive Activities between Two People in Daily Scenarios  [[PDF](https://arxiv.org/abs/2509.05747),[Page](https://hku-cg.github.io/interact/)] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
+[arxiv 2025.09] ScoreHOI: Physically Plausible Reconstruction of Human-Object Interaction via Score-Guided Diffusion  [[PDF](https://arxiv.org/abs/2509.07920),[Page](https://github.com/RammusLeo/ScoreHOI)] ![Code](https://img.shields.io/github/stars/RammusLeo/ScoreHOI?style=social&label=Star)
 
 [arxiv 2025.09]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
