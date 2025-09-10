@@ -421,6 +421,9 @@
 
 [arxiv 2025.08]  Thyme: Think Beyond Images [[PDF](https://arxiv.org/abs/2508.11630),[Page](https://thyme-vl.github.io/)] ![Code](https://img.shields.io/github/stars/yfzhang114/Thyme?style=social&label=Star) 
 
+[arxiv 2025.09] Mini-o3: Scaling Up Reasoning Patterns and Interaction Turns for Visual Search  [[PDF](https://arxiv.org/pdf/2509.07969),[Page](https://mini-o3.github.io/)] ![Code](https://img.shields.io/github/stars/Mini-o3/Mini-o3?style=social&label=Star) 
+
+
 [arxiv 2025.09]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
 
 
@@ -456,6 +459,9 @@
 [arxiv 2025.06] UniWorld-V1: High-Resolution Semantic Encoders for Unified Visual Understanding and Generation  [[PDF](https://arxiv.org/abs/2506.03147),[Page](https://github.com/PKU-YuanGroup/UniWorld-V1)] ![Code](https://img.shields.io/github/stars/PKU-YuanGroup/UniWorld-V1?style=social&label=Star) 
 
 [arxiv 2025.07]  When Tokens Talk Too Much: A Survey of Multimodal Long-Context Token Compression across Images, Videos, and Audios [[PDF](https://arxiv.org/abs/2507.20198),[Page](https://github.com/cokeshao/Awesome-Multimodal-Token-Compression)] ![Code](https://img.shields.io/github/stars/cokeshao/Awesome-Multimodal-Token-Compression?style=social&label=Star) 
+
+[arxiv 2025.09]  Visual Representation Alignment for Multimodal Large Language Models [[PDF](https://arxiv.org/abs/2509.07979),[Page](https://cvlab-kaist.github.io/VIRAL/)] ![Code](https://img.shields.io/github/stars/cvlab-kaist/VIRAL?style=social&label=Star) 
+
 
 [arxiv 2025.09]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
 
