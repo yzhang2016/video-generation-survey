@@ -2152,6 +2152,7 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2025.08]  Lumen: Consistent Video Relighting and Harmonious Background Replacement with Video Generative Models [[PDF](https://arxiv.org/abs/2508.12945),[Page](https://lumen-relight.github.io/)] ![Code](https://img.shields.io/github/stars/Kunbyte-AI/Lumen?style=social&label=Star)
 
+[arxiv 2025.09] ANYPORTAL: Zero-Shot Consistent Video Background Replacement  [[PDF](https://arxiv.org/abs/2509.07472),[Page](https://gaowenshuo.github.io/AnyPortal/)] ![Code](https://img.shields.io/github/stars/gaowenshuo/AnyPortalCode?style=social&label=Star)
 
 [arxiv 2025.09]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
