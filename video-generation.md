@@ -193,6 +193,9 @@ A reading list of video generation
 [arxiv 2025.07] SpeakerVid-5M: A Large-Scale High-Quality Dataset for audio-visual Dyadic Interactive Human Generation [[PDF](https://arxiv.org/pdf/2507.09862),[Page](https://dorniwang.github.io/SpeakerVid-5M/)]
 
 
+* **SpatialVID**
+[arxiv 2025.07] SpatialVID: A Large-Scale Video Dataset with Spatial Annotations [[PDF](https://arxiv.org/abs/2509.09676),[Page](https://nju-3dv.github.io/projects/SpatialVID/)]  ![Code](https://img.shields.io/github/stars/NJU-3DV/spatialVID?style=social&label=Star)
+
 [arxiv 2025.09]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 
@@ -1747,6 +1750,8 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 [arxiv 2025.08] InfinityHuman: Towards Long-Term Audio-Driven Human  [[PDF](https://arxiv.org/abs/2508.20210),[Page](https://infinityhuman.github.io/)] 
 
 [arxiv 2025.09]  HuMo: Human-Centric Video Generation via Collaborative Multi-Modal Conditioning [[PDF](https://arxiv.org/abs/2509.08519),[Page](https://phantom-video.github.io/HuMo/)] ![Code](https://img.shields.io/github/stars/Phantom-video/HuMo?style=social&label=Star)
+
+[arxiv 2025.09] Kling-Avatar: Grounding Multimodal Instructions for Cascaded Long-Duration Avatar Animation Synthesis  [[PDF](https://arxiv.org/abs/2509.09595),[Page](https://klingavatar.github.io/)] 
 
 [arxiv 2025.09]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
