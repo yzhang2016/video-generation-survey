@@ -198,6 +198,12 @@
 ## downstream
 [arxiv 2025.05]  Multi-SpatialMLLM: Multi-Frame Spatial Understanding with Multi-Modal Large Language Models [[PDF](https://arxiv.org/abs/2505.17015),[Page](https://runsenxu.com/projects/Multi-SpatialMLLM)] ![Code](https://img.shields.io/github/stars/facebookresearch/Multi-SpatialMLLM?style=social&label=Star) 
 
+[arxiv 2025.09] AdsQA: Towards Advertisement Video Understanding  [[PDF](https://arxiv.org/pdf/2509.08621),[Page](https://github.com/TsinghuaC3I/AdsQA)] ![Code](https://img.shields.io/github/stars/TsinghuaC3I/AdsQA?style=social&label=Star) 
+
+
+[arxiv 2025.09]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
+
+
 
 ## Long Video Understanding
 [arxiv 2025.02] CoS: Chain-of-Shot Prompting for Long Video Understanding  [[PDF](https://arxiv.org/abs/2502.06428),[Page](https://lwpyh.github.io/CoS/)] ![Code](https://img.shields.io/github/stars/lwpyh/CoS_codes?style=social&label=Star) 
