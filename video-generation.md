@@ -1566,6 +1566,9 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2025.09]  Identity-Preserving Text-to-Video Generation via Training-Free Prompt, Image, and Guidance Enhancement [[PDF](https://arxiv.org/abs/2509.01362),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
+[arxiv 2025.09]  HuMo: Human-Centric Video Generation via Collaborative Multi-Modal Conditioning [[PDF](https://arxiv.org/abs/2509.08519),[Page](https://phantom-video.github.io/HuMo/)] ![Code](https://img.shields.io/github/stars/Phantom-video/HuMo?style=social&label=Star)
+
+
 [arxiv 2025.09]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 
@@ -1743,7 +1746,11 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2025.08] InfinityHuman: Towards Long-Term Audio-Driven Human  [[PDF](https://arxiv.org/abs/2508.20210),[Page](https://infinityhuman.github.io/)] 
 
+[arxiv 2025.09]  HuMo: Human-Centric Video Generation via Collaborative Multi-Modal Conditioning [[PDF](https://arxiv.org/abs/2509.08519),[Page](https://phantom-video.github.io/HuMo/)] ![Code](https://img.shields.io/github/stars/Phantom-video/HuMo?style=social&label=Star)
+
 [arxiv 2025.09]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
+
+
 
 
 ## Multi-person talking Video Generation 
@@ -2780,6 +2787,9 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 [arxiv 2025.06] DenseDPO: Fine-Grained Temporal Preference Optimization for Video Diffusion Models  [[PDF](https://arxiv.org/abs/2506.03517),[Page](https://snap-research.github.io/DenseDPO/)] 
 
 [arxiv 2025.06]  RDPO: Real Data Preference Optimization for Physics Consistency Video Generation [[PDF](https://arxiv.org/abs/%3CARXIV%20PAPER%20ID%3E),[Page](https://wwenxu.github.io/RDPO/)] 
+
+[arxiv 2025.09] RewardDance: Reward Scaling in Visual Generation  [[PDF](https://arxiv.org/pdf/2509.08826)]
+
 
 [arxiv 2025.09]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
