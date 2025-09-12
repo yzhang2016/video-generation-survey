@@ -250,6 +250,9 @@
 
 [arxiv 2025.09] ScoreHOI: Physically Plausible Reconstruction of Human-Object Interaction via Score-Guided Diffusion  [[PDF](https://arxiv.org/abs/2509.07920),[Page](https://github.com/RammusLeo/ScoreHOI)] ![Code](https://img.shields.io/github/stars/RammusLeo/ScoreHOI?style=social&label=Star)
 
+[arxiv 2025.09]  InterAct: Advancing Large-Scale Versatile 3D Human-Object Interaction Generation [[PDF](https://arxiv.org/pdf/2509.09555),[Page](https://sirui-xu.github.io/InterAct/)] ![Code](https://img.shields.io/github/stars/wzyabcas/InterAct?style=social&label=Star)
+
+
 [arxiv 2025.09]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 
