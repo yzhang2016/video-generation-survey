@@ -541,6 +541,8 @@
 
 [arxiv 2025.07]  Reasoning to Edit: Hypothetical Instruction-Based Image Editing with Visual Reasoning [[PDF](https://arxiv.org/abs/2507.01908),[Page](https://github.com/hithqd/ReasonBrain)] ![Code](https://img.shields.io/github/stars/hithqd/ReasonBrain?style=social&label=Star)
 
+[arxiv 2025.09] FLUX-Reason-6M & PRISM-Bench: A Million-Scale Text-to-Image Reasoning Dataset and Comprehensive Benchmark  [[PDF](https://arxiv.org/abs/2509.09680),[Page](https://flux-reason-6m.github.io/)] ![Code](https://img.shields.io/github/stars/rongyaofang/prism-bench?style=social&label=Star)
+
 
 [arxiv 2025.09]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
