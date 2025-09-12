@@ -250,6 +250,7 @@
 
 [arxiv 2025.08]  StreamMem: Query-Agnostic KV Cache Memory for Streaming Video Understanding [[PDF](https://arxiv.org/pdf/2508.15717),[Page](https://yangyanl.ai/streammem/)] 
 
+[arxiv 2025.09] DATE: Dynamic Absolute Time Enhancement for Long Video Understanding  [[PDF](http://arxiv.org/abs/2509.09263),[Page](https://github.com/yuanc3/DATE)] ![Code](https://img.shields.io/github/stars/yuanc3/DATE?style=social&label=Star) 
 
 [arxiv 2025.09]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
 
@@ -343,6 +344,9 @@
 [arxiv 2025.09] OneCAT: Decoder-Only Auto-Regressive Model for Unified Understanding and Generation  [[PDF](https://arxiv.org/pdf/2509.03498),[Page](https://onecat-ai.github.io/)] ![Code](https://img.shields.io/github/stars/onecat-ai/onecat?style=social&label=Star) 
 
 [arxiv 2025.09] Skywork UniPic 2.0: Building Kontext Model with Online RL for Unified Multimodal Model  [[PDF](https://arxiv.org/abs/2509.04548),[Page](https://unipic-v2.github.io/)] ![Code](https://img.shields.io/github/stars/SkyworkAI/UniPic/?style=social&label=Star) 
+
+[arxiv 2025.09]  Can Understanding and Generation Truly Benefit Together — or Just Coexist? [[PDF](https://arxiv.org/pdf/2509.09666),[Page](https://github.com/PKU-YuanGroup/UAE)] ![Code](https://img.shields.io/github/stars/PKU-YuanGroup/UAE?style=social&label=Star) 
+
 
 [arxiv 2025.09]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
 
