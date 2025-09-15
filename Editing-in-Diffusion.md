@@ -2701,7 +2701,10 @@ Creative Layout-to-Image Generation [[PDF](https://arxiv.org/pdf/2412.03859),[Pa
 
 [arxiv 2025.08]  OMGSR: You Only Need One Mid-timestep Guidance for Real-World Image Super-Resolution [[PDF](https://arxiv.org/pdf/2508.08227),[Page](https://github.com/wuer5/OMGSR)] ![Code](https://img.shields.io/github/stars/wuer5/OMGSR?style=social&label=Star)
 
-[arxiv 2025.09]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
+[arxiv 2025.09] InfGen: A Resolution-Agnostic Paradigm for Scalable Image Synthesis  [[PDF](https://arxiv.org/abs/2509.10441)]
+
+[arxiv 2025.09]  Realism Control One-step Diffusion for Real-World Image Super-Resolution [[PDF](https://arxiv.org/abs/2509.10122)]
+
 
 [arxiv 2025.09]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -3424,6 +3427,7 @@ Creative Layout-to-Image Generation [[PDF](https://arxiv.org/pdf/2412.03859),[Pa
 
 [arxiv 2025.08] T2I-ReasonBench: Benchmarking Reasoning-Informed Text-to-Image Generation  [[PDF](https://arxiv.org/abs/2508.17472),[Page](https://github.com/KaiyueSun98/T2I-ReasonBench)] ![Code](https://img.shields.io/github/stars/KaiyueSun98/T2I-ReasonBench?style=social&label=Star)
 
+[arxiv 2025.09] MagicMirror: A Large-Scale Dataset and Benchmark for Fine-Grained Artifacts Assessment in Text-to-Image Generation  [[PDF](https://arxiv.org/abs/2509.10260),[Page](https://wj-inf.github.io/MagicMirror-page/)] ![Code](https://img.shields.io/github/stars/wj-inf/MagicMirror?style=social&label=Star)
 
 [arxiv 2025.09]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
