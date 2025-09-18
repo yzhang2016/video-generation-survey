@@ -524,6 +524,7 @@
 
 [arxiv 2025.09]  Inpaint4Drag: Repurposing Inpainting Models for Drag-Based Image Editing via Bidirectional Warping [[PDF](https://arxiv.org/abs/2509.04582),[Page](https://visual-ai.github.io/inpaint4drag/)] ![Code](https://img.shields.io/github/stars/Visual-AI/Inpaint4Drag?style=social&label=Star)
 
+[arxiv 2025.09] LazyDrag: Enabling Stable Drag-Based Editing on Multi-Modal Diffusion Transformers via Explicit Correspondence  [[PDF](https://arxiv.org/abs/2509.12203),[Page](https://zxyin.github.io/LazyDrag)] 
 
 [arxiv 2025.09]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -599,6 +600,7 @@
 
 [arxiv 2025.08]  EvoMakeup: High-Fidelity and Controllable Makeup Editing with MakeupQuad [[PDF](https://arxiv.org/pdf/2508.05994)]
 
+[arxiv 2025.09]  Lego-Edit: A General Image Editing Framework with Model-Level Bricks and MLLM Builder [[PDF](https://arxiv.org/abs/2509.12883),[Page](https://xiaomi-research.github.io/lego-edit/)] ![Code](https://img.shields.io/github/stars/xiaomi-research/lego-edit?style=social&label=Star)
 
 [arxiv 2025.09]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -986,8 +988,9 @@
 
 [arxiv 2025.08] CountLoop:Iterative Agent Guided High Instance Image Generation  [[PDF](https://openreview.net/pdf?id=NZ0H1XtcZG),[Page](https://mondalanindya.github.io/CountLoop/)] ![Code](https://img.shields.io/github/stars/mondalanindya/CountLoop/?style=social&label=Star)
 
-[arxiv 2025.09]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
+[arxiv 2025.09]  Maestro: Self-Improving Text-to-Image Generation via Agent Orchestration [[PDF](https://arxiv.org/abs/2509.10704)]
 
+[arxiv 2025.09]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 
 
@@ -1039,6 +1042,9 @@
 [arxiv 2025.07] Latent Denoising Makes Good Visual Tokenizers  [[PDF](https://arxiv.org/abs/2507.15856),[Page](https://github.com/Jiawei-Yang/DeTok)] ![Code](https://img.shields.io/github/stars/Jiawei-Yang/DeTok?style=social&label=Star)
 
 [arxiv 2025.07]  DC-Gen: Accelerating Diffusion Models with Compressed Latent Space [[PDF](https://arxiv.org/abs/2508.00413),[Page](https://github.com/dc-ai-projects/DC-Gen)] ![Code](https://img.shields.io/github/stars/dc-ai-projects/DC-Gen?style=social&label=Star)
+
+[arxiv 2025.09]  Image Tokenizer Needs Post-Training [[PDF](https://arxiv.org/abs/2509.12474),[Page](https://qiuk2.github.io/works/RobusTok/index.html)] ![Code](https://img.shields.io/github/stars/qiuk2/RobusTok?style=social&label=Star)
+
 
 [arxiv 2025.09]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -1323,6 +1329,7 @@
 
 [arxiv 2025.09] Virtual Fitting Room: Generating Arbitrarily Long Videos of Virtual Try-On from a Single Image -- Technical Preview  [[PDF](https://arxiv.org/abs/2509.04450),[Page](https://immortalco.github.io/VirtualFittingRoom/)] 
 
+[arxiv 2025.09]  HoloGarment: 360° Novel View Synthesis of In-the-Wild Garments [[PDF](https://arxiv.org/abs/2509.12187),[Page](https://johannakarras.github.io/HoloGarment/)] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 [arxiv 2025.09]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -2445,7 +2452,10 @@ Creative Layout-to-Image Generation [[PDF](https://arxiv.org/pdf/2412.03859),[Pa
 
 [arxiv 2025.08] MUSE: Multi-Subject Unified Synthesis via Explicit Layout Semantic Expansion  [[PDF](https://arxiv.org/pdf/2508.14440),[Page](https://github.com/pf0607/MUSE)] ![Code](https://img.shields.io/github/stars/pf0607/MUSE?style=social&label=Star)
 
+[arxiv 2025.09] Layout-Conditioned Autoregressive Text-to-Image Generation via Structured Masking  [[PDF](https://arxiv.org/abs/2509.12046)]
+
 [arxiv 2025.09]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
+
 
 ## Image Variation 
 [arxiv 2023.08]IP-Adapter: Text Compatible Image Prompt Adapter for Text-to-Image Diffusion Models [[PDF](https://arxiv.org/pdf/2308.06721.pdf), [Page](https://ip-adapter.github.io/)]
@@ -2704,6 +2714,7 @@ Creative Layout-to-Image Generation [[PDF](https://arxiv.org/pdf/2412.03859),[Pa
 [arxiv 2025.09] InfGen: A Resolution-Agnostic Paradigm for Scalable Image Synthesis  [[PDF](https://arxiv.org/abs/2509.10441)]
 
 [arxiv 2025.09]  Realism Control One-step Diffusion for Real-World Image Super-Resolution [[PDF](https://arxiv.org/abs/2509.10122)]
+
 
 
 [arxiv 2025.09]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
@@ -3428,6 +3439,8 @@ Creative Layout-to-Image Generation [[PDF](https://arxiv.org/pdf/2412.03859),[Pa
 [arxiv 2025.08] T2I-ReasonBench: Benchmarking Reasoning-Informed Text-to-Image Generation  [[PDF](https://arxiv.org/abs/2508.17472),[Page](https://github.com/KaiyueSun98/T2I-ReasonBench)] ![Code](https://img.shields.io/github/stars/KaiyueSun98/T2I-ReasonBench?style=social&label=Star)
 
 [arxiv 2025.09] MagicMirror: A Large-Scale Dataset and Benchmark for Fine-Grained Artifacts Assessment in Text-to-Image Generation  [[PDF](https://arxiv.org/abs/2509.10260),[Page](https://wj-inf.github.io/MagicMirror-page/)] ![Code](https://img.shields.io/github/stars/wj-inf/MagicMirror?style=social&label=Star)
+
+[arxiv 2025.09] GenExam: A Multidisciplinary Text-to-Image Exam  [[PDF](https://arxiv.org/abs/2509.14232),[Page](https://github.com/OpenGVLab/GenExam)] ![Code](https://img.shields.io/github/stars/OpenGVLab/GenExam?style=social&label=Star)
 
 [arxiv 2025.09]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
