@@ -252,6 +252,7 @@
 
 [arxiv 2025.09]  InterAct: Advancing Large-Scale Versatile 3D Human-Object Interaction Generation [[PDF](https://arxiv.org/pdf/2509.09555),[Page](https://sirui-xu.github.io/InterAct/)] ![Code](https://img.shields.io/github/stars/wzyabcas/InterAct?style=social&label=Star)
 
+[arxiv 2025.09]  OnlineHOI: Towards Online Human-Object Interaction Generation and Perception [[PDF](https://arxiv.org/abs/2509.12250)]
 
 [arxiv 2025.09]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -269,6 +270,9 @@
 [arxiv 2025.03] Reconstructing In-the-Wild Open-Vocabulary Human-Object Interactions [[PDF](https://arxiv.org/abs/2503.15898),[Page](https://wenboran2002.github.io/3dhoi/)] ![Code](https://img.shields.io/github/stars/wenboran2002/open-3dhoi?style=social&label=Star)
 
 [arxiv 2025.08] HOID-R1: Reinforcement Learning for Open-World Human-Object Interaction Detection Reasoning with Multimodal Large Language Model  [[PDF](https://arxiv.org/abs/2508.11350)]
+
+[arxiv 2025.09]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
+
 
 [arxiv 2025.09]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
