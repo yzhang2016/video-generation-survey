@@ -1085,7 +1085,7 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2025.04] HumanDreamer: Generating Controllable Human-Motion Videos via Decoupled Generation  [[PDF](https://arxiv.org/abs/2503.24026),[Page](https://humandreamer.github.io/)] ![Code](https://img.shields.io/github/stars/GigaAI-research/HumanDreamer?style=social&label=Star)
 
-[arxiv 2025.04] DreamActor-M1: Holistic, Expressive and Robust Human Image Animation with Hybrid Guidance  [[PDF](https://arxiv.org/abs/2504.01724),[Page](https://grisoon.github.io/DreamActor-M1/)] 
+
 
 [arxiv 2025.04] Multi-identity Human Image Animation with Structural Video Diffusion  [[PDF](https://arxiv.org/abs/2504.04126)]
 
@@ -1777,7 +1777,11 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 
 ## video-driven talking 
+[arxiv 2025.04] DreamActor-M1: Holistic, Expressive and Robust Human Image Animation with Hybrid Guidance  [[PDF](https://arxiv.org/abs/2504.01724),[Page](https://grisoon.github.io/DreamActor-M1/)] 
+
 [arxiv 2025.07]  FantasyPortrait: Enhancing Multi-Character Portrait Animation with Expression-Augmented Diffusion Transformers [[PDF](https://arxiv.org/abs/2507.12956),[Page](https://fantasy-amap.github.io/fantasy-portrait/)] ![Code](https://img.shields.io/github/stars/Fantasy-AMAP/fantasy-portrait?style=social&label=Star)
+
+[arxiv 2025.09] Wan-Animate: Unified Character Animation and Replacement with Holistic Replication  [[PDF](https://arxiv.org/abs/2509.14055),[Page](https://humanaigc.github.io/wan-animate/)] 
 
 [arxiv 2025.09]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
