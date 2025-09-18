@@ -192,6 +192,9 @@
 
 [arxiv 2025.09]  Kwai Keye-VL 1.5 Technical Report [[PDF](https://arxiv.org/abs/2509.01563),[Page](https://kwai-keye.github.io/)] 
 
+[arxiv 2025.09] SAIL-VL2 Technical Report  [[PDF](https://arxiv.org/abs/2509.14033),[Page](https://github.com/BytedanceDouyinContent/SAIL-VL2)] ![Code](https://img.shields.io/github/stars/BytedanceDouyinContent/SAIL-VL2?style=social&label=Star) 
+
+
 [arxiv 2025.09]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
 
 
@@ -498,6 +501,9 @@
 
 ## agent
 [arxiv 2025.08]  OPENCUA: Open Foundations for Computer-Use Agents [[PDF](https://arxiv.org/abs/2508.09123),[Page](https://opencua.xlang.ai/)] ![Code](https://img.shields.io/github/stars/xlang-ai/OpenCUA?style=social&label=Star) 
+
+[arxiv 2025.09]  Tool-R1: Sample-Efficient Reinforcement Learning for Agentic Tool Use [[PDF](https://arxiv.org/pdf/2509.12867),[Page](https://github.com/YBYBZhang/Tool-R1)] 
+
 
 [arxiv 2025.09]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
 
