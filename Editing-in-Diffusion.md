@@ -526,6 +526,9 @@
 
 [arxiv 2025.09] LazyDrag: Enabling Stable Drag-Based Editing on Multi-Modal Diffusion Transformers via Explicit Correspondence  [[PDF](https://arxiv.org/abs/2509.12203),[Page](https://zxyin.github.io/LazyDrag)] 
 
+[arxiv 2025.09]  AutoEdit: Automatic Hyperparameter Tuning for Image Editing [[PDF](https://arxiv.org/abs/2509.15031)]
+
+
 [arxiv 2025.09]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 ## end of editing 
@@ -601,6 +604,9 @@
 [arxiv 2025.08]  EvoMakeup: High-Fidelity and Controllable Makeup Editing with MakeupQuad [[PDF](https://arxiv.org/pdf/2508.05994)]
 
 [arxiv 2025.09]  Lego-Edit: A General Image Editing Framework with Model-Level Bricks and MLLM Builder [[PDF](https://arxiv.org/abs/2509.12883),[Page](https://xiaomi-research.github.io/lego-edit/)] ![Code](https://img.shields.io/github/stars/xiaomi-research/lego-edit?style=social&label=Star)
+
+[arxiv 2025.09] MultiEdit: Advancing Instruction-based Image Editing on Diverse and Challenging Tasks  [[PDF](https://arxiv.org/abs/2509.14638),[Page](https://huggingface.co/datasets/inclusionAI/MultiEdit)] 
+
 
 [arxiv 2025.09]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -989,6 +995,9 @@
 [arxiv 2025.08] CountLoop:Iterative Agent Guided High Instance Image Generation  [[PDF](https://openreview.net/pdf?id=NZ0H1XtcZG),[Page](https://mondalanindya.github.io/CountLoop/)] ![Code](https://img.shields.io/github/stars/mondalanindya/CountLoop/?style=social&label=Star)
 
 [arxiv 2025.09]  Maestro: Self-Improving Text-to-Image Generation via Agent Orchestration [[PDF](https://arxiv.org/abs/2509.10704)]
+
+[arxiv 2025.09]  Understand Before You Generate: Self-Guided Training for Autoregressive Image Generation [[PDF](https://arxiv.org/abs/2509.15185)]
+
 
 [arxiv 2025.09]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
