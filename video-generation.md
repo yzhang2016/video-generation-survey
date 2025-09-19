@@ -246,6 +246,9 @@ A reading list of video generation
 
 [arxiv 2025.08]  OneVAE: Joint Discrete and Continuous Optimization Helps Discrete Video VAE Train Better [[PDF](https://arxiv.org/abs/2508.09857),[Page](https://github.com/HVision-NKU/OneVAE)] ![Code](https://img.shields.io/github/stars/HVision-NKU/OneVAE?style=social&label=Star)
 
+[arxiv 2025.09]  AToken: A Unified Tokenizer for Vision [[PDF](https://arxiv.org/abs/2509.14476),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
+
+
 [arxiv 2025.09]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 
