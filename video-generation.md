@@ -2022,26 +2022,9 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 [arxiv 2025.09]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 
-## sound generation 
+## video-to-audio generation 
 [arxiv 2024.07] Read, Watch and Scream! Sound Generation from Text and Video
 [[PDF](https://arxiv.org/abs/2407.05551), [Page](https://naver-ai.github.io/rewas)]
-
-[arxiv 2025.06] Hearing Hands: Generating Sounds from Physical Interactions in 3D Scenes  [[PDF](https://openaccess.thecvf.com/content/CVPR2025/papers/Dou_Hearing_Hands_Generating_Sounds_from_Physical_Interactions_in_3D_Scenes_CVPR_2025_paper.pdf),[Page](https://www.yimingdou.com/hearing_hands/)] 
-
-[arxiv 2025.07]  AudioGen-Omni: A Unified Multimodal Diffusion Transformer for Video-Synchronized Audio, Speech, and Song Generation [[PDF](https://arxiv.org/abs/2508.00733),[Page](https://ciyou2.github.io/AudioGen-Omni/)] 
-
-[arxiv 2025.07]  ThinkSound: Chain-of-Thought Reasoning in Multimodal Large Language Models for Audio Generation and Editing [[PDF](https://arxiv.org/html/2506.21448v1),[Page](https://thinksound-demo.github.io/)] 
-
-[arxiv 2025.08] HunyuanVideo-Foley: Multimodal Diffusion with Representation Alignment for High-Fidelity Foley Audio Generation  [[PDF](https://arxiv.org/abs/2508.16930),[Page](https://szczesnys.github.io/hunyuanvideo-foley/)] ![Code](https://img.shields.io/github/stars/Tencent-Hunyuan/HunyuanVideo-Foley?style=social&label=Star)
-
-[arxiv 2025.08] AudioStory: Generating Long-Form Narrative Audio with Large Language Models  [[PDF](https://arxiv.org/abs/2508.20088),[Page](https://github.com/TencentARC/AudioStory)] ![Code](https://img.shields.io/github/stars/TencentARC/AudioStory?style=social&label=Star)
-
-[arxiv 2025.08] AudioGen-Omni: A Unified Multimodal Diffusion Transformer for Video-Synchronized Audio, Speech, and Song Generation  [[PDF](https://arxiv.org/abs/2508.00733),[Page](https://ciyou2.github.io/AudioGen-Omni/)] 
-
-[arxiv 2025.09]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
-
-
-## video-to-audio generation 
 
 [arxiv 2025.03] AudioX: Diffusion Transformer for Anything-to-Audio Generation  [[PDF](https://arxiv.org/abs/2503.10522/),[Page](https://zeyuet.github.io/AudioX/)] ![Code](https://img.shields.io/github/stars/ZeyueT/AudioX?style=social&label=Star)
 
@@ -2049,13 +2032,23 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2025.04] Extending Visual Dynamics for Video-to-Music Generation  [[PDF](https://arxiv.org/abs/2504.07594)】
 
+[arxiv 2025.06] Hearing Hands: Generating Sounds from Physical Interactions in 3D Scenes  [[PDF](https://openaccess.thecvf.com/content/CVPR2025/papers/Dou_Hearing_Hands_Generating_Sounds_from_Physical_Interactions_in_3D_Scenes_CVPR_2025_paper.pdf),[Page](https://www.yimingdou.com/hearing_hands/)] 
+
 [arxiv 2025.07] Hear-Your-Click: Interactive Video-to-Audio Generation via Object-aware Contrastive Audio-Visual Fine-tuning  [[PDF](http://arxiv.org/abs/2507.04959),[Page](https://github.com/SynapGrid/Hear-Your-Click)] ![Code](https://img.shields.io/github/stars/SynapGrid/Hear-Your-Click?style=social&label=Star)
 
+[arxiv 2025.07]  ThinkSound: Chain-of-Thought Reasoning in Multimodal Large Language Models for Audio Generation and Editing [[PDF](https://arxiv.org/html/2506.21448v1),[Page](https://thinksound-demo.github.io/)] ![Code](https://img.shields.io/github/stars/FunAudioLLM/ThinkSound?style=social&label=Star)
 
+[arxiv 2025.07]  AudioGen-Omni: A Unified Multimodal Diffusion Transformer for Video-Synchronized Audio, Speech, and Song Generation [[PDF](https://arxiv.org/abs/2508.00733),[Page](https://ciyou2.github.io/AudioGen-Omni/)] 
+
+[arxiv 2025.08] HunyuanVideo-Foley: Multimodal Diffusion with Representation Alignment for High-Fidelity Foley Audio Generation  [[PDF](https://arxiv.org/abs/2508.16930),[Page](https://szczesnys.github.io/hunyuanvideo-foley/)] ![Code](https://img.shields.io/github/stars/Tencent-Hunyuan/HunyuanVideo-Foley?style=social&label=Star)
+
+[arxiv 2025.08] AudioStory: Generating Long-Form Narrative Audio with Large Language Models  [[PDF](https://arxiv.org/abs/2508.20088),[Page](https://github.com/TencentARC/AudioStory)] ![Code](https://img.shields.io/github/stars/TencentARC/AudioStory?style=social&label=Star)
+
+[arxiv 2025.08] AudioGen-Omni: A Unified Multimodal Diffusion Transformer for Video-Synchronized Audio, Speech, and Song Generation  [[PDF](https://arxiv.org/abs/2508.00733),[Page](https://ciyou2.github.io/AudioGen-Omni/)] 
+
+[arxiv 2025.09] Kling-Foley: Multimodal Diffusion Transformer for High-Quality Video-to-Audio Generation  [[PDF](https://arxiv.org/abs/2506.19774),[Page](https://klingfoley.github.io/Kling-Foley/)] ![Code](https://img.shields.io/github/stars/klingfoley/Kling-Foley?style=social&label=Star)
 
 [arxiv 2025.09]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
-
-
 
 [arxiv 2025.09]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
