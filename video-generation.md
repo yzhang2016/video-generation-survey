@@ -598,6 +598,8 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2025.07]  Encapsulated Composition of Text-to-Image and Text-to-Video Models for High-Quality Video Synthesis [[PDF](https://arxiv.org/pdf/2507.13753),[Page](https://github.com/Tonniia/EVS)] ![Code](https://img.shields.io/github/stars/Tonniia/EVS?style=social&label=Star)
 
+[arxiv 2025.09]  PhysCtrl: Generative Physics for Controllable and Physics-Grounded Video Generation [[PDF](https://arxiv.org/abs/2509.20358),[Page](https://cwchenwang.github.io/physctrl/)] 
+
 [arxiv 2025.09]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 
@@ -681,6 +683,7 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2025.03]  Tuning-Free Multi-Event Long Video Generation via Synchronized Coupled Sampling [[PDF](https://arxiv.org/abs/2503.08605),[Page](https://syncos2025.github.io/)] 
 
+[arxiv 2025.09] From Prompt to Progression: Taming Video Diffusion Models for Seamless Attribute Transition  [[PDF](https://arxiv.org/pdf/2509.19690),[Page](https://github.com/lynn-ling-lo/Prompt2Progression)] ![Code](https://img.shields.io/github/stars/lynn-ling-lo/Prompt2Progression?style=social&label=Star)
 
 [arxiv 2025.09]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -1482,6 +1485,7 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2025.08] CineTrans: Learning to Generate Videos with Cinematic Transitions via Masked Diffusion Models [[PDF](https://arxiv.org/abs/2508.11484),[Page](https://uknowsth.github.io/CineTrans/)] ![Code](https://img.shields.io/github/stars/UknowSth/CineTrans?style=social&label=Star)
 
+[arxiv 2025.09] CamPVG: Camera-Controlled Panoramic Video Generation with Epipolar-Aware Diffusion  [[PDF](https://arxiv.org/abs/2509.19979)]
 
 [arxiv 2025.09]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -1696,6 +1700,7 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2025.08]  TalkVid: A Large-Scale Diversified Dataset for Audio-Driven Talking Head Synthesis [[PDF](https://arxiv.org/abs/2508.13618),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
+[arxiv 2025.09]  Lip-Synchronized and Emotion-Aware Talking Face Generation via Multi-Modal Emotion Embedding [[PDF](https://arxiv.org/abs/2509.19965),[Page](https://novicemm.github.io/synchrorama/)] ![Code](https://img.shields.io/github/stars/novicemm/synchrorama_?style=social&label=Star)
 
 [arxiv 2025.09]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -2171,6 +2176,9 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 [arxiv 2025.08]  Lumen: Consistent Video Relighting and Harmonious Background Replacement with Video Generative Models [[PDF](https://arxiv.org/abs/2508.12945),[Page](https://lumen-relight.github.io/)] ![Code](https://img.shields.io/github/stars/Kunbyte-AI/Lumen?style=social&label=Star)
 
 [arxiv 2025.09] ANYPORTAL: Zero-Shot Consistent Video Background Replacement  [[PDF](https://arxiv.org/abs/2509.07472),[Page](https://gaowenshuo.github.io/AnyPortal/)] ![Code](https://img.shields.io/github/stars/gaowenshuo/AnyPortalCode?style=social&label=Star)
+
+[arxiv 2025.09] EditVerse: Unifying Image and Video Editing and Generation with In-Context Learning  [[PDF](https://arxiv.org/abs/2509.20360),[Page](http://editverse.s3-website-us-east-1.amazonaws.com/)] 
+
 
 [arxiv 2025.09]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
