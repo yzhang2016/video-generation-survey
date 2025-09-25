@@ -1340,6 +1340,8 @@
 
 [arxiv 2025.09]  HoloGarment: 360° Novel View Synthesis of In-the-Wild Garments [[PDF](https://arxiv.org/abs/2509.12187),[Page](https://johannakarras.github.io/HoloGarment/)] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
+[arxiv 2025.09] Efficient Encoder-Free Pose Conditioning and Pose Control for Virtual Try-On  [[PDF](https://arxiv.org/abs/2509.20343),[Page](https://pose-vton.github.io/vto-pose-conditioning/)] 
+
 [arxiv 2025.09]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 
