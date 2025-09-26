@@ -600,6 +600,9 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2025.09]  PhysCtrl: Generative Physics for Controllable and Physics-Grounded Video Generation [[PDF](https://arxiv.org/abs/2509.20358),[Page](https://cwchenwang.github.io/physctrl/)] 
 
+[arxiv 2025.09]  NewtonGen: Physics-Consistent and Controllable Text-to-Video Generation via Neural Newtonian Dynamics [[PDF](https://arxiv.org/abs/2509.21309),[Page](https://github.com/pandayuanyu/NewtonGen)] ![Code](https://img.shields.io/github/stars/pandayuanyu/NewtonGen?style=social&label=Star)
+
+
 [arxiv 2025.09]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 
@@ -1091,8 +1094,6 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2025.04] HumanDreamer: Generating Controllable Human-Motion Videos via Decoupled Generation  [[PDF](https://arxiv.org/abs/2503.24026),[Page](https://humandreamer.github.io/)] ![Code](https://img.shields.io/github/stars/GigaAI-research/HumanDreamer?style=social&label=Star)
 
-
-
 [arxiv 2025.04] Multi-identity Human Image Animation with Structural Video Diffusion  [[PDF](https://arxiv.org/abs/2504.04126)]
 
 [arxiv 2025.04]  TokenMotion: Decoupled Motion Control via Token Disentanglement for Human-centric Video Generation [[PDF](https://arxiv.org/pdf/2504.08181)]
@@ -1115,6 +1116,7 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2025.08] Animate-X++: Universal Character Image Animation with Dynamic Backgrounds  [[PDF](https://arxiv.org/abs/2508.09454),[Page](https://lucaria-academy.github.io/Animate-X++/)] ![Code](https://img.shields.io/github/stars/Lucaria-Academy/Animate-X++?style=social&label=Star)
 
+[arxiv 2025.09] UniTransfer: Video Concept Transfer via Progressive Spatial and Timestep Decomposition  [[PDF](https://yu-shaonian.github.io/UniTransfer-Web/),[Page](https://yu-shaonian.github.io/UniTransfer-Web/)] 
 
 [arxiv 2025.09]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -1701,6 +1703,10 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 [arxiv 2025.08]  TalkVid: A Large-Scale Diversified Dataset for Audio-Driven Talking Head Synthesis [[PDF](https://arxiv.org/abs/2508.13618),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 [arxiv 2025.09]  Lip-Synchronized and Emotion-Aware Talking Face Generation via Multi-Modal Emotion Embedding [[PDF](https://arxiv.org/abs/2509.19965),[Page](https://novicemm.github.io/synchrorama/)] ![Code](https://img.shields.io/github/stars/novicemm/synchrorama_?style=social&label=Star)
+
+[arxiv 2025.09] Stable Video-Driven Portraits  [[PDF](https://arxiv.org/pdf/2509.17476)]
+
+[arxiv 2025.09]  Follow-Your-Emoji-Faster: Towards Efficient, Fine-Controllable, and Expressive Freestyle Portrait Animation [[PDF](https://arxiv.org/abs/2509.16630),[Page](https://follow-your-emoji.github.io/)] ![Code](https://img.shields.io/github/stars/mayuelala/FollowYourEmoji?style=social&label=Star)
 
 [arxiv 2025.09]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -2731,6 +2737,9 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 ## 3D generation
 [arxiv 2025.09]  LatticeWorld: A Multimodal Large Language Model-Empowered Framework for Interactive Complex World Generation [[PDF](https://arxiv.org/pdf/2509.05263)]
 
+[arxiv 2025.09] Hunyuan3D-Omni: A Unified Framework for Controllable Generation of 3D Assets  [[PDF](https://arxiv.org/abs/2509.21245),[Page](https://github.com/Tencent-Hunyuan/Hunyuan3D-Omni)] ![Code](https://img.shields.io/github/stars/Tencent-Hunyuan/Hunyuan3D-Omni?style=social&label=Star)
+
+[arxiv 2025.09]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 
 ## driving
