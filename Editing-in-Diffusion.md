@@ -5,6 +5,9 @@
 
 [arxiv 2025.04] Seedream 3.0 Technical Report  [[PDF](https://arxiv.org/abs/2504.11346),[Page](https://team.doubao.com/zh/tech/seedream3_0)] 
 
+[arxiv 2025.09] SD3.5-Flash: Distribution-Guided Distillation of Generative Flows [[PDF](https://arxiv.org/pdf/2509.21318)]
+
+[arxiv 2025.09]  Seedream 4.0: Toward Next-generation Multimodal Image Generation [[PDF](https://arxiv.org/abs/2509.20427), [Page](https://seed.bytedance.com/zh/seedream4_0)]
 
 [arxiv 2025.09]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -714,6 +717,7 @@
 
 [arxiv 2025.09]  Delta Velocity Rectified Flow for Text-to-Image Editing [[PDF](https://arxiv.org/pdf/2509.05342),[Page](https://github.com/gaspardbd/DeltaVelocityRectifiedFlow)] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
+[arxiv 2025.09] CAR-Flow: Condition-Aware Reparameterization Aligns Source and Target for Better Flow Matching  [[PDF](https://arxiv.org/abs/2509.19300)]
 
 [arxiv 2025.09]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -1858,6 +1862,9 @@
 
 [arxiv 2025.09] EditIDv2: Editable ID Customization with Data-Lubricated ID Feature Integration for Text-to-Image Generation  [[PDF](https://arxiv.org/pdf/2509.05659)]
 
+[arxiv 2025.09] ComposeMe: Attribute-Specific Image Prompts for Controllable Human Image Generation [[PDF](https://arxiv.org/abs/2509.18092),[Page](https://fictionarry.github.io/GeoSVR-project/)] 
+
+[arxiv 2025.09]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 [arxiv 2025.09]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -2465,8 +2472,12 @@ Creative Layout-to-Image Generation [[PDF](https://arxiv.org/pdf/2412.03859),[Pa
 
 [arxiv 2025.09] Layout-Conditioned Autoregressive Text-to-Image Generation via Structured Masking  [[PDF](https://arxiv.org/abs/2509.12046)]
 
+[arxiv 2025.09] ComposeMe: Attribute-Specific Image Prompts for Controllable Human Image Generation [[PDF](https://arxiv.org/abs/2509.18092),[Page](https://fictionarry.github.io/GeoSVR-project/)] 
+
 [arxiv 2025.09]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
+
+# end of composition
 
 ## Image Variation 
 [arxiv 2023.08]IP-Adapter: Text Compatible Image Prompt Adapter for Text-to-Image Diffusion Models [[PDF](https://arxiv.org/pdf/2308.06721.pdf), [Page](https://ip-adapter.github.io/)]
@@ -2726,6 +2737,7 @@ Creative Layout-to-Image Generation [[PDF](https://arxiv.org/pdf/2412.03859),[Pa
 
 [arxiv 2025.09]  Realism Control One-step Diffusion for Real-World Image Super-Resolution [[PDF](https://arxiv.org/abs/2509.10122)]
 
+[arxiv 2025.09] Degradation-Aware All-in-One Image Restoration via Latent Prior Encoding  [[PDF](https://arxiv.org/abs/2509.17792),[Page](https://github.com/sharif-apu/DAIR)] ![Code](https://img.shields.io/github/stars/sharif-apu/DAIR?style=social&label=Star)
 
 
 [arxiv 2025.09]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
@@ -2916,6 +2928,10 @@ Creative Layout-to-Image Generation [[PDF](https://arxiv.org/pdf/2412.03859),[Pa
 [arxiv 2025.09]  Towards High-Fidelity, Identity-Preserving Real-Time Makeup Transfer: Decoupling Style Generation [[PDF](https://arxiv.org/abs/2509.02445),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 [arxiv 2025.09]  OmniStyle2: Scalable and High Quality Artistic Style Transfer Data Generation via Destylization [[PDF](https://arxiv.org/abs/2509.05970),[Page](https://wangyephd.github.io/projects/omnistyle2.html)] 
+
+[arxiv 2025.09] One-shot Embroidery Customization via Contrastive LoRA Modulation  [[PDF](https://arxiv.org/pdf/2509.18948),[Page](https://style3d.github.io/embroidery_customization/)] ![Code](https://img.shields.io/github/stars/Style3D/embroidery_customization-impl?style=social&label=Star)
+
+
 [arxiv 2025.09]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 
@@ -3382,6 +3398,9 @@ Creative Layout-to-Image Generation [[PDF](https://arxiv.org/pdf/2412.03859),[Pa
 [arxiv 2025.02]  ConceptAttention: Diffusion Transformers Learn Highly Interpretable Features [[PDF](https://arxiv.org/pdf/2502.04320)]
 
 [arxiv 2025.04] Analysis of Attention in Video Diffusion Transformers  [[PDF](https://arxiv.org/abs/2504.10317),[Page](https://seasoned-draw-b97.notion.site/Analysis-of-Attention-in-Video-Diffusion-Transformers-1aea04ac6ca780c2b6b2cf6ed87e311f)] 
+
+[arxiv 2025.09] Does FLUX Already Know How to Perform Physically Plausible Image Composition?  [[PDF](https://arxiv.org/abs/2509.21278)]
+
 
 [arxiv 2025.09]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
