@@ -194,6 +194,10 @@
 
 [arxiv 2025.09] SAIL-VL2 Technical Report  [[PDF](https://arxiv.org/abs/2509.14033),[Page](https://github.com/BytedanceDouyinContent/SAIL-VL2)] ![Code](https://img.shields.io/github/stars/BytedanceDouyinContent/SAIL-VL2?style=social&label=Star) 
 
+[arxiv 2025.09] MiniCPM-V 4.5: Cooking Efficient MLLMs via Architecture, Data, and Training Recipe  [[PDF](https://arxiv.org/abs/2509.18154),[Page](https://github.com/OpenBMB/MiniCPM-V)] ![Code](https://img.shields.io/github/stars/OpenBMB/MiniCPM-V?style=social&label=Star) 
+
+[arxiv 2025.09] Qwen3-Omni Technical Report  [[PDF](https://arxiv.org/abs/2509.17765),[Page](https://github.com/QwenLM/Qwen3-Omni)] ![Code](https://img.shields.io/github/stars/QwenLM/Qwen3-Omni?style=social&label=Star) 
+
 
 [arxiv 2025.09]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
 
@@ -349,6 +353,14 @@
 [arxiv 2025.09] Skywork UniPic 2.0: Building Kontext Model with Online RL for Unified Multimodal Model  [[PDF](https://arxiv.org/abs/2509.04548),[Page](https://unipic-v2.github.io/)] ![Code](https://img.shields.io/github/stars/SkyworkAI/UniPic/?style=social&label=Star) 
 
 [arxiv 2025.09]  Can Understanding and Generation Truly Benefit Together — or Just Coexist? [[PDF](https://arxiv.org/pdf/2509.09666),[Page](https://github.com/PKU-YuanGroup/UAE)] ![Code](https://img.shields.io/github/stars/PKU-YuanGroup/UAE?style=social&label=Star) 
+
+[arxiv 2025.09] Lavida-O: Elastic Large Masked Diffusion Models for Unified Multimodal Understanding and Generation  [[PDF](https://arxiv.org/pdf/2509.19244)]
+
+[arxiv 2025.09] Hyper-Bagel: A Unified Acceleration Framework for Multimodal Understanding and Generation  [[PDF](https://arxiv.org/abs/2509.18824),[Page](https://hyper-bagel.github.io/)] 
+
+[arxiv 2025.09] Understanding-in-Generation: Reinforcing Generative Capability of Unified Model via Infusing Understanding into Generation  [[PDF](https://arxiv.org/abs/2509.18639),[Page](https://github.com/QC-LY/UiG)] ![Code](https://img.shields.io/github/stars/QC-LY/UiG?style=social&label=Star) 
+
+[arxiv 2025.09] MANZANO: A Simple and Scalable Unified Multimodal Model with a Hybrid Vision Tokenizer  [[PDF](https://arxiv.org/abs/2509.16197)]
 
 
 [arxiv 2025.09]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
