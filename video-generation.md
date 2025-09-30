@@ -787,6 +787,9 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2025.08]  Mixture of Contexts for Long Video Generation [[PDF](http://arxiv.org/abs/2508.21058),[Page](https://primecai.github.io/moc/)] 
 
+[arxiv 2025.09]  LongLive: Real-time Interactive Long Video Generation [[PDF](https://arxiv.org/abs/2509.22622),[Page](https://github.com/NVlabs/LongLive)] ![Code](https://img.shields.io/github/stars/NVlabs/LongLive?style=social&label=Star)
+
+
 [arxiv 2025.09]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 
@@ -999,8 +1002,9 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2025.08] PersonaAnimator: Personalized Motion Transfer from Unconstrained Videos  [[PDF](https://arxiv.org/abs/2508.19895)]
 
-[arxiv 2025.09]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
+[arxiv 2025.09] DiTraj: training-free trajectory control for video diffusion transformer  [[PDF](https://arxiv.org/pdf/2509.21839)]
 
+[arxiv 2025.09]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 
 
@@ -1818,8 +1822,16 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2025.06] SkyReels-Audio: Omni Audio-Conditioned Talking Portraits in Video Diffusion Transformers  [[PDF](https://arxiv.org/pdf/2506.00830),[Page](https://skyworkai.github.io/skyreels-audio.github.io/)] 
 
+[arxiv 2025.09] StableDub: Taming Diffusion Prior for Generalized and Efficient Visual Dubbing  [[PDF](https://arxiv.org/abs/2509.21887),[Page](https://stabledub.github.io/)] 
 
 [arxiv 2025.09]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
+
+
+# chatting
+[arxiv 2025.09]  X-Streamer: Unified Human World Modeling with Audiovisual Interaction [[PDF](https://arxiv.org/abs/2509.21574),[Page](https://byteaigc.github.io/X-Streamer/)] 
+
+[arxiv 2025.09]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
+
 
 
 # TTS 
@@ -2018,6 +2030,7 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2025.06]  Audio-Sync Video Generation with Multi-Stream Temporal Control [[PDF](https://arxiv.org/pdf/2506.08003),[Page](https://hjzheng.net/projects/MTV/)] ![Code](https://img.shields.io/github/stars/suimuc/MTV_Framework?style=social&label=Star)
 
+[arxiv 2025.09] Syncphony: Synchronized Audio-to-Video Generation with Diffusion Transformers  [[PDF](https://arxiv.org/abs/2509.21893),[Page](https://jibin86.github.io/syncphony_project_page/)] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 [arxiv 2025.09]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -2185,6 +2198,7 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2025.09] EditVerse: Unifying Image and Video Editing and Generation with In-Context Learning  [[PDF](https://arxiv.org/abs/2509.20360),[Page](http://editverse.s3-website-us-east-1.amazonaws.com/)] 
 
+[arxiv 2025.09] Taming Flow-based I2V Models for Creative Video Editing  [[PDF](https://arxiv.org/abs/2509.21917)]
 
 [arxiv 2025.09]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
