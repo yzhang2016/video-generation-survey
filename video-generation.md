@@ -1493,6 +1493,9 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2025.09] CamPVG: Camera-Controlled Panoramic Video Generation with Epipolar-Aware Diffusion  [[PDF](https://arxiv.org/abs/2509.19979)]
 
+[arxiv 2025.09] ControlHair: Physically-based Video Diffusion for Controllable Dynamic Hair Rendering  [[PDF](https://arxiv.org/abs/2509.21541),[Page](https://ctrlhair-arxiv.netlify.app/)] 
+
+
 [arxiv 2025.09]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 
