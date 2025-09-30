@@ -385,6 +385,9 @@
 
 [arxiv 2025.08]  Discrete Diffusion VLA: Bringing Discrete Diffusion to Action Decoding in Vision-Language-Action Policies [[PDF](https://arxiv.org/abs/2508.20072)】
 
+[arxiv 2025.09]  WoW: Towards a World omniscient World model Through Embodied Interaction [[PDF](https://arxiv.org/abs/2509.22642),[Page](https://wow-world-model.github.io/)] ![Code](https://img.shields.io/github/stars/wow-world-model/wow-world-model?style=social&label=Star) 
+
+
 [arxiv 2025.09]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
 
 
