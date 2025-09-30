@@ -531,6 +531,9 @@
 
 [arxiv 2025.09]  AutoEdit: Automatic Hyperparameter Tuning for Image Editing [[PDF](https://arxiv.org/abs/2509.15031)]
 
+[arxiv 2025.09] FlashEdit: Decoupling Speed, Structure, and Semantics for Precise Image Editing  [[PDF](https://arxiv.org/abs/2509.22244),[Page](https://github.com/JunyiWuCode/FlashEdit)] ![Code](https://img.shields.io/github/stars/JunyiWuCode/FlashEdit?style=social&label=Star)
+
+[arxiv 2025.09]  TDEdit: A Unified Diffusion Framework for Text-Drag Guided Image Manipulation [[PDF](https://arxiv.org/abs/2509.21905)]
 
 [arxiv 2025.09]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -609,6 +612,8 @@
 [arxiv 2025.09]  Lego-Edit: A General Image Editing Framework with Model-Level Bricks and MLLM Builder [[PDF](https://arxiv.org/abs/2509.12883),[Page](https://xiaomi-research.github.io/lego-edit/)] ![Code](https://img.shields.io/github/stars/xiaomi-research/lego-edit?style=social&label=Star)
 
 [arxiv 2025.09] MultiEdit: Advancing Instruction-based Image Editing on Diverse and Challenging Tasks  [[PDF](https://arxiv.org/abs/2509.14638),[Page](https://huggingface.co/datasets/inclusionAI/MultiEdit)] 
+
+[arxiv 2025.09] UniVid: Unifying Vision Tasks with Pre-trained Video Generation Models  [[PDF](https://arxiv.org/abs/2509.21760),[Page](https://github.com/CUC-MIPG/UniVid)] ![Code](https://img.shields.io/github/stars/CUC-MIPG/UniVid?style=social&label=Star)
 
 
 [arxiv 2025.09]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
@@ -1864,7 +1869,10 @@
 
 [arxiv 2025.09] ComposeMe: Attribute-Specific Image Prompts for Controllable Human Image Generation [[PDF](https://arxiv.org/abs/2509.18092),[Page](https://fictionarry.github.io/GeoSVR-project/)] 
 
-[arxiv 2025.09]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
+[arxiv 2025.09] Mind-the-Glitch: Visual Correspondence for Detecting Inconsistencies in Subject-Driven Generation  [[PDF](https://arxiv.org/abs/2509.21989),[Page](https://abdo-eldesokey.github.io/mind-the-glitch/)] ![Code](https://img.shields.io/github/stars/abdo-eldesokey/mind-the-glitch?style=social&label=Star)
+
+[arxiv 2025.09] MultiCrafter: High-Fidelity Multi-Subject Generation via Spatially Disentangled Attention and Identity-Aware Reinforcement Learning  [[PDF](https://arxiv.org/abs/2509.21953),[Page](https://wutao-cs.github.io/MultiCrafter/)] ![Code](https://img.shields.io/github/stars/WuTao-CS/MultiCrafter?style=social&label=Star)
+
 
 [arxiv 2025.09]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -3317,6 +3325,10 @@ Creative Layout-to-Image Generation [[PDF](https://arxiv.org/pdf/2412.03859),[Pa
 [arxiv 2025.08]  Forecast then Calibrate: Feature Caching as ODE for Efficient Diffusion Transformers [[PDF](https://arxiv.org/pdf/2508.16211)]
 
 [arxiv 2025.08] DiCache: Let Diffusion Model Determine Its Own Cache  [[PDF](https://arxiv.org/abs/2508.17356),[Page](https://github.com/Bujiazi/DiCache)] ![Code](https://img.shields.io/github/stars/Bujiazi/DiCache?style=social&label=Star)
+
+[arxiv 2025.09] RAPID^3: Tri-Level Reinforced Acceleration Policies for Diffusion Transformer  [[PDF](https://arxiv.org/abs/2509.22323)]
+
+[arxiv 2025.09] DistillKac: Few-Step Image Generation via Damped Wave Equations  [[PDF](https://arxiv.org/abs/2509.21513)]
 
 
 [arxiv 2025.09]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
