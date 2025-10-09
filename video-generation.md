@@ -196,6 +196,10 @@ A reading list of video generation
 * **SpatialVID**
 [arxiv 2025.07] SpatialVID: A Large-Scale Video Dataset with Spatial Annotations [[PDF](https://arxiv.org/abs/2509.09676),[Page](https://nju-3dv.github.io/projects/SpatialVID/)]  ![Code](https://img.shields.io/github/stars/NJU-3DV/spatialVID?style=social&label=Star)
 
+* **TalkCuts**
+[arxiv 2025.10] TalkCuts: A Large-Scale Dataset for Multi-Shot Human Speech Video Generation  [[PDF](https://arxiv.org/abs/2510.07249),[Page](https://talkcuts.github.io/)] 
+
+
 [arxiv 2025.10]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 
@@ -812,6 +816,12 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2025.07] Ella: Embodied Social Agents with Lifelong Memory  [[PDF](https://arxiv.org/pdf/2506.24019),[Page](https://umass-embodied-agi.github.io/Ella/)] ![Code](https://img.shields.io/github/stars/UMass-Embodied-AGI/Ella?style=social&label=Star)
 
+
+[arxiv 2025.10]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
+
+
+## cot
+[arxiv 2025.10] VChain: Chain-of-Visual-Thought for Reasoning in Video Generation  [[PDF](https://arxiv.org/abs/2510.05094),[Page](https://eyeline-labs.github.io/VChain)] ![Code](https://img.shields.io/github/stars/Eyeline-Labs/VChain?style=social&label=Star)
 
 [arxiv 2025.10]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -1525,6 +1535,8 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2025.10] Paper2Video: Automatic Video Generation from Scientific Papers [[PDF](https://arxiv.org/abs/2510.05096),[Page](https://github.com/showlab/Paper2Video)] ![Code](https://img.shields.io/github/stars/showlab/Paper2Video?style=social&label=Star)
 
+[arxiv 2025.10] Generating Human Motion Videos using a Cascaded Text-to-Video Framework  [[PDF](https://arxiv.org/abs/2510.03909),[Page](https://hyelinnam.github.io/Cameo/)] ![Code](https://img.shields.io/github/stars/HyelinNAM/Cameo?style=social&label=Star)
+
 
 [arxiv 2025.10]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -1594,7 +1606,6 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2025.03] FullDiT: Multi-Task Video Generative Foundation Model with Full Attention  [[PDF](https://arxiv.org/pdf/2503.19907v1),[Page](https://fulldit.github.io/)] ![Code]
 
-
 [arxiv 2025.04] JointTuner: Appearance-Motion Adaptive Joint Training for Customized Video Generation [[PDF](https://arxiv.org/abs/2503.23951),[Page](https://fdchen24.github.io/JointTuner-Website/)]
 
 [arxiv 2025.04] SkyReels-A2: Compose Anything in Video Diffusion Transformers  [[PDF](https://arxiv.org/abs/2504.02436),[Page](https://github.com/SkyworkAI/SkyReels-A2)] ![Code](https://img.shields.io/github/stars/SkyworkAI/SkyReels-A2?style=social&label=Star)
@@ -1620,6 +1631,8 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 [arxiv 2025.10] BindWeave: Subject-Consistent Video Generation via Cross-Modal Integration [[PDF](https://arxiv.org/abs/2510.00438)]
 
 [arxiv 2025.10]  Continual Personalization for Diffusion Models [[PDF](https://arxiv.org/abs/2510.02296)]
+
+[arxiv 2025.10] Character Mixing for Video Generation  [[PDF](https://arxiv.org/pdf/2510.05093),[Page](https://tingtingliao.github.io/mimix/)] ![Code](https://img.shields.io/github/stars/TingtingLiao/mimix?style=social&label=Star)
 
 
 [arxiv 2025.10]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
@@ -1893,6 +1906,9 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 # Interaction
 [arxiv 2025.07]  Populate-A-Scene: Affordance-Aware Human Video Generation [[PDF](https://arxiv.org/pdf/2507.00334)]
+
+[arxiv 2025.10] MATRIX: Mask Track Alignment for Interaction-aware Video Generation  [[PDF](https://arxiv.org/abs/2510.07310),[Page](https://cvlab-kaist.github.io/MATRIX/)] ![Code](https://img.shields.io/github/stars/cvlab-kaist/MATRIX?style=social&label=Star)
+
 
 [arxiv 2025.10]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -2242,6 +2258,9 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 [arxiv 2025.09] EditVerse: Unifying Image and Video Editing and Generation with In-Context Learning  [[PDF](https://arxiv.org/abs/2509.20360),[Page](http://editverse.s3-website-us-east-1.amazonaws.com/)] 
 
 [arxiv 2025.09] Taming Flow-based I2V Models for Creative Video Editing  [[PDF](https://arxiv.org/abs/2509.21917)]
+
+[arxiv 2025.10] Streaming Drag-Oriented Interactive Video Manipulation: Drag Anything, Anytime!  [[PDF](https://arxiv.org/pdf/2510.03550)]
+
 
 [arxiv 2025.10]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -2679,6 +2698,9 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2025.08] POSE: Phased One-Step Adversarial Equilibrium for Video Diffusion Models  [[PDF](https://arxiv.org/abs/2508.21019),[Page](https://pose-paper.github.io/)]
 
+[arxiv 2025.10] LightCache: Memory-Efficient, Training-Free Acceleration for Video Generation  [[PDF](https://arxiv.org/abs/2510.05367),[Page](https://github.com/NKUShaw/LightCache)] ![Code](https://img.shields.io/github/stars/NKUShaw/LightCache?style=social&label=Star)
+
+
 [arxiv 2025.10]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 
@@ -2850,6 +2872,9 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 [arxiv 2025.07] A Survey on Vision-Language-Action Models for Autonomous Drivin  [[PDF](https://arxiv.org/abs/2506.24044),[Page](https://github.com/JohnsonJiang1996/Awesome-VLA4AD)] ![Code](https://img.shields.io/github/stars/JohnsonJiang1996/Awesome-VLA4AD?style=social&label=Star)
 
 [arxiv 2025.08]  ImagiDrive: A Unified Imagination-and-Planning Framework for Autonomous [[PDF](https://arxiv.org/pdf/2508.11428),[Page](https://github.com/fudan-zvg/ImagiDrive)] ![Code](https://img.shields.io/github/stars/fudan-zvg/ImagiDrive?style=social&label=Star)
+
+[arxiv 2025.10] Drive&Gen: Co-Evaluating End-to-End Driving and Video Generation Models  [[PDF](https://arxiv.org/abs/2510.06209)]
+
 
 [arxiv 2025.10]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
