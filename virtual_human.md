@@ -254,6 +254,9 @@
 
 [arxiv 2025.09]  OnlineHOI: Towards Online Human-Object Interaction Generation and Perception [[PDF](https://arxiv.org/abs/2509.12250)]
 
+[arxiv 2025.10] Text2Interact: High-Fidelity and Diverse Text-to-Two-Person Interaction Generation  [[PDF](https://arxiv.org/abs/2510.06504)]
+
+
 [arxiv 2025.10]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 
@@ -292,6 +295,7 @@
 
 [arxiv 2025.09]  FantasyHSI: Video-Generation-Centric 4D Human Synthesis In Any Scene through A Graph-based Multi-Agent Framework [[PDF](https://arxiv.org/abs/2509.01232),[Page](https://fantasy-amap.github.io/fantasy-hsi/)] ![Code](https://img.shields.io/github/stars/Fantasy-AMAP/fantasy-hsi?style=social&label=Star)
 
+[arxiv 2025.10]  Human3R: Everyone Everywhere All at Once [[PDF](https://arxiv.org/abs/2510.06219),[Page](https://fanegg.github.io/Human3R)] ![Code](https://img.shields.io/github/stars/fanegg/Human3R?style=social&label=Star)
 
 [arxiv 2025.10]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
