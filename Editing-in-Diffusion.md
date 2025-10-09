@@ -537,7 +537,7 @@
 
 [arxiv 2025.10]  IMAGEdit: Let Any Subject Transform [[PDF](https://arxiv.org/abs/2510.01186),[Page](https://muzishen.github.io/IMAGEdit/)] ![Code](https://img.shields.io/github/stars/XWH-A/IMAGEdit?style=social&label=Star)
 
-[arxiv 2025.10] EditTrack: Detecting and Attributing AI-assisted Image Editing  [[PDF](https://arxiv.org/abs/2510.01173),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
+[arxiv 2025.10] EditTrack: Detecting and Attributing AI-assisted Image Editing  [[PDF](https://arxiv.org/abs/2510.01173)]
 
 [arxiv 2025.10]  Object-AVEdit: An Object-level Audio-Visual Editing Model [[PDF](https://arxiv.org/abs/2510.00050)]
 
@@ -545,7 +545,15 @@
 
 [arxiv 2025.10]  DragFlow: Unleashing DiT Priors with Region Based Supervision for Drag Editing [[PDF](https://arxiv.org/abs/2510.02253)]
 
+[arxiv 2025.10]  TBStar-Edit: From Image Editing Pattern Shifting to Consistency Enhancement [[PDF](https://arxiv.org/abs/2510.04483)]
+
+[arxiv 2025.10] SAEdit: Token-level control for continuous image editing via Sparse AutoEncoder  [[PDF](https://arxiv.org/abs/2510.05081),[Page](https://ronen94.github.io/SAEdit/)] 
+
+[arxiv 2025.10]  Fine-grained Defocus Blur Control for Generative Image Models [[PDF](https://arxiv.org/abs/2510.06215),[Page](https://www.ayshrv.com/defocus-blur-gen)] 
+
+
 [arxiv 2025.10]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
+
 
 ## end of editing 
 
@@ -626,6 +634,12 @@
 [arxiv 2025.09] UniVid: Unifying Vision Tasks with Pre-trained Video Generation Models  [[PDF](https://arxiv.org/abs/2509.21760),[Page](https://github.com/CUC-MIPG/UniVid)] ![Code](https://img.shields.io/github/stars/CUC-MIPG/UniVid?style=social&label=Star)
 
 [arxiv 2025.10] Query-Kontext: An Unified Multimodal Model for Image Generation and Editing  [[PDF](https://arxiv.org/abs/2509.26641)]
+
+[arxiv 2025.10]  ChronoEdit: Towards Temporal Reasoning for Image Editing and World Simulation [[PDF](https://arxiv.org/abs/2510.04290),[Page](https://research.nvidia.com/labs/toronto-ai/chronoedit)] ![Code](https://img.shields.io/github/stars/nv-tlabs/ChronoEdit?style=social&label=Star)
+
+[arxiv 2025.10] DreamOmni2: Multimodal Instruction-based Editing and Generation  [[PDF](https://arxiv.org/abs/2510.06679),[Page](https://github.com/dvlab-research/DreamOmni2)] ![Code](https://img.shields.io/github/stars/dvlab-research/DreamOmni2?style=social&label=Star)
+
+[arxiv 2025.10]  Ming-UniVision: Joint Image Understanding and Generation with a Unified Continuous Tokenizer [[PDF](https://arxiv.org/abs/2510.06590),[Page](https://github.com/inclusionAI/Ming-UniVision)] ![Code](https://img.shields.io/github/stars/inclusionAI/Ming-UniVision?style=social&label=Star) 
 
 [arxiv 2025.10]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -1020,6 +1034,7 @@
 
 [arxiv 2025.09]  Understand Before You Generate: Self-Guided Training for Autoregressive Image Generation [[PDF](https://arxiv.org/abs/2509.15185)]
 
+[arxiv 2025.10]  Asynchronous Denoising Diffusion Models for Aligning Text-to-Image Generation [[PDF](https://arxiv.org/abs/2510.04504),[Page](https://github.com/hu-zijing/AsynDM)] ![Code](https://img.shields.io/github/stars/hu-zijing/AsynDM?style=social&label=Star)
 
 [arxiv 2025.10]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -1076,6 +1091,7 @@
 
 [arxiv 2025.09]  Image Tokenizer Needs Post-Training [[PDF](https://arxiv.org/abs/2509.12474),[Page](https://qiuk2.github.io/works/RobusTok/index.html)] ![Code](https://img.shields.io/github/stars/qiuk2/RobusTok?style=social&label=Star)
 
+[arxiv 2025.10] SSDD: Single-Step Diffusion Decoder for Efficient Image Tokenization  [[PDF](https://arxiv.org/abs/2510.04961),[Page](https://github.com/facebookresearch/SSDD)] ![Code](https://img.shields.io/github/stars/facebookresearch/SSDD?style=social&label=Star)
 
 [arxiv 2025.10]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -1083,7 +1099,6 @@
 ## autoregressive
 
 [arxiv 2024.11] Autoregressive Models in Vision: A Survey  [[PDF](https://arxiv.org/abs/2411.05902),[Page](https://github.com/ChaofanTao/Autoregressive-Models-in-Vision-Survey)]
-
 
 [arxiv 2024.10] ControlAR: Controllable Image Generation with Autoregressive Models  [[PDF](https://arxiv.org/abs/2410.02705),[Page](https://github.com/hustvl/ControlAR)]
 
@@ -1127,7 +1142,6 @@
 
 [arxiv 2024.12] ZipAR: Accelerating Autoregressive Image Generation through Spatial Locality  [[PDF](https://arxiv.org/abs/2412.04062)]
 
-
 [arxiv 2024.12] ACDiT: Interpolating Autoregressive Conditional Modeling and Diffusion Transformer  [[PDF](https://arxiv.org/abs/2412.07720)]
 
 [arxiv 2024.12]  FlowAR: Scale-wise Autoregressive Image Generation Meets Flow Matching [[PDF](https://arxiv.org/abs/2412.15205),[Page](https://github.com/OliverRensu/FlowAR)] ![Code](https://img.shields.io/github/stars/OliverRensu/FlowAR?style=social&label=Star)
@@ -1168,6 +1182,11 @@
 
 [arxiv 2025.10] Go with Your Gut: Scaling Confidence for Autoregressive Image Generation  [[PDF](https://arxiv.org/abs/2509.26376),[Page](https://github.com/EnVision-Research/ScalingAR)] ![Code](https://img.shields.io/github/stars/EnVision-Research/ScalingAR?style=social&label=Star)
 
+
+[arxiv 2025.10]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
+
+## autoregressive improvement
+[arxiv 2025.10] REAR: Rethinking Visual Autoregressive Models via Generator-Tokenizer Consistency Regularization  [[PDF](https://arxiv.org/abs/2510.04450)]
 
 [arxiv 2025.10]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -1221,6 +1240,12 @@
 
 
 [arxiv 2025.10]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
+
+## autoregressive cot
+[arxiv 2025.10] Improving Chain-of-Thought Efficiency for Autoregressive Image Generation  [[PDF](https://arxiv.org/abs/2510.05593)]
+
+[arxiv 2025.10]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
+
 
 
 ## autoregressive feedback
@@ -1370,6 +1395,10 @@
 
 [arxiv 2025.09] Efficient Encoder-Free Pose Conditioning and Pose Control for Virtual Try-On  [[PDF](https://arxiv.org/abs/2509.20343),[Page](https://pose-vton.github.io/vto-pose-conditioning/)] 
 
+[arxiv 2025.10]  AvatarVTON: 4D Virtual Try-On for Animatable Avatars [[PDF](https://arxiv.org/abs/2510.04822)]
+
+[arxiv 2025.10]  DiT-VTON: Diffusion Transformer Framework for Unified Multi-Category Virtual Try-On and Virtual Try-All with Integrated Image Editing [[PDF](https://arxiv.org/abs/2510.04797)]
+
 [arxiv 2025.10]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 
@@ -1459,6 +1488,7 @@
 
 [arxiv 2025.04] Describe Anything: Detailed Localized Image and Video Captioning  [[PDF](https://arxiv.org/abs/2504.16072),[Page](https://describe-anything.github.io/)] ![Code](https://img.shields.io/github/stars/NVlabs/describe-anything?style=social&label=Star)
 
+[arxiv 2025.10] GenPilot: A Multi-Agent System for Test-Time Prompt Optimization in Image Generation  [[PDF](https://arxiv.org/abs/2510.07217),[Page](https://github.com/27yw/GenPilot)] ![Code](https://img.shields.io/github/stars/27yw/GenPilot?style=social&label=Star)
 
 [arxiv 2025.10]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -1909,7 +1939,7 @@
 
 [arxiv 2025.07]  UNIMC: Taming Diffusion Transformer for Unified Keypoint-Guided Multi-Class Image Generation [[PDF](https://arxiv.org/pdf/2507.02713),[Page](https://unimc-dit.github.io/)] 
 
-[arxiv 2025.10]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
+[arxiv 2025.10] SIGMA-GEN: Structure and Identity Guided Multi-subject Assembly for Image Generation  [[PDF](https://arxiv.org/pdf/%3CARXIV%20PAPER%20ID%3E.pdf),[Page](https://oindrilasaha.github.io/SIGMA-Gen/)] ![Code](https://img.shields.io/github/stars/oindrilasaha/SIGMA-Gen-Code?style=social&label=Star)
 
 [arxiv 2025.10]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -3359,6 +3389,7 @@ Creative Layout-to-Image Generation [[PDF](https://arxiv.org/pdf/2412.03859),[Pa
 
 [arxiv 2025.09] DistillKac: Few-Step Image Generation via Damped Wave Equations  [[PDF](https://arxiv.org/abs/2509.21513)]
 
+[arxiv 2025.10] OBS-Diff: Accurate Pruning For Diffusion Models in One-Shot  [[PDF](https://arxiv.org/abs/2510.06751),[Page](https://github.com/Alrightlone/OBS-Diff)] ![Code](https://img.shields.io/github/stars/Alrightlone/OBS-Diff?style=social&label=Star)
 
 [arxiv 2025.10]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -3513,6 +3544,9 @@ Creative Layout-to-Image Generation [[PDF](https://arxiv.org/pdf/2412.03859),[Pa
 [arxiv 2025.09] MagicMirror: A Large-Scale Dataset and Benchmark for Fine-Grained Artifacts Assessment in Text-to-Image Generation  [[PDF](https://arxiv.org/abs/2509.10260),[Page](https://wj-inf.github.io/MagicMirror-page/)] ![Code](https://img.shields.io/github/stars/wj-inf/MagicMirror?style=social&label=Star)
 
 [arxiv 2025.09] GenExam: A Multidisciplinary Text-to-Image Exam  [[PDF](https://arxiv.org/abs/2509.14232),[Page](https://github.com/OpenGVLab/GenExam)] ![Code](https://img.shields.io/github/stars/OpenGVLab/GenExam?style=social&label=Star)
+
+[arxiv 2025.10] Factuality Matters: When Image Generation and Editing Meet Structured Visuals  [[PDF](https://arxiv.org/abs/2510.05091),[Page](https://structvisuals.github.io/)] ![Code](https://img.shields.io/github/stars/zhuole1025/Structured-Visuals?style=social&label=Star)
+
 
 [arxiv 2025.10]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
