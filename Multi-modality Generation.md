@@ -259,6 +259,9 @@
 
 [arxiv 2025.09] DATE: Dynamic Absolute Time Enhancement for Long Video Understanding  [[PDF](http://arxiv.org/abs/2509.09263),[Page](https://github.com/yuanc3/DATE)] ![Code](https://img.shields.io/github/stars/yuanc3/DATE?style=social&label=Star) 
 
+[arxiv 2025.10]  Video-in-the-Loop: Span-Grounded Long Video QA with Interleaved Reasoning [[PDF](https://arxiv.org/abs/2510.04022)]
+
+
 [arxiv 2025.10]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
 
 
@@ -361,6 +364,8 @@
 [arxiv 2025.09] Understanding-in-Generation: Reinforcing Generative Capability of Unified Model via Infusing Understanding into Generation  [[PDF](https://arxiv.org/abs/2509.18639),[Page](https://github.com/QC-LY/UiG)] ![Code](https://img.shields.io/github/stars/QC-LY/UiG?style=social&label=Star) 
 
 [arxiv 2025.09] MANZANO: A Simple and Scalable Unified Multimodal Model with a Hybrid Vision Tokenizer  [[PDF](https://arxiv.org/abs/2509.16197)]
+
+[arxiv 2025.10]  Lumina-DiMOO: An Omni Diffusion Large Language Model for Multi-Modal Generation and Understanding [[PDF](https://arxiv.org/abs/2510.06308),[Page](https://github.com/Alpha-VLLM/Lumina-DiMOO)] ![Code](https://img.shields.io/github/stars/Alpha-VLLM/Lumina-DiMOO?style=social&label=Star) 
 
 
 [arxiv 2025.10]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
