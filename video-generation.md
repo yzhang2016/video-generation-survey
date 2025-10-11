@@ -2721,6 +2721,9 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2025.10]  LinVideo: A Post-Training Framework towards O(n) Attention in Efficient Video Generation [[PDF](https://arxiv.org/abs/2510.08318)]
 
+[arxiv 2025.10] rCM: Score-Regularized Continuous-Time Consistency Model  [[PDF](https://arxiv.org/abs/2510.08431),[Page](https://research.nvidia.com/labs/dir/rcm/)] ![Code](https://img.shields.io/github/stars/NVlabs/rcm?style=social&label=Star)
+
+
 [arxiv 2025.10]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 
