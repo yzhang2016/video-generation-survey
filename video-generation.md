@@ -1,6 +1,15 @@
 # Video Generation Survey
 A reading list of video generation
 
+## Joint audio-video generation product
+*  **Veo3** [[Page](https://aistudio.google.com/models/veo-3)]
+*  **Sora2** [[Page](https://openai.com/index/sora-2/)]
+*  **Wan2.5 Preview** [[Page](https://wan.video/)]
+*  **Gaga** [[Page](https://gaga.art/app)]
+*  **Grok Imagine** [[Page](https://grok.com/imagine)]
+  
+
+
 ## Repo for open-sora
 
 [2024.03] [HPC-AI Open-Sora](https://github.com/hpcaitech/Open-Sora) 
@@ -1032,6 +1041,11 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2025.10]  Mask2IV: Interaction-Centric Video Generation via Mask Trajectories [[PDF](https://arxiv.org/abs/2510.03135),[Page](https://reagan1311.github.io/mask2iv/)] 
 
+[arxiv 2025.10]  FlexTraj: Image-to-Video Generation with Flexible Point Trajectory Control [[PDF](https://arxiv.org/abs/2510.08527),[Page](https://bestzzhang.github.io/FlexTraj/)] !
+
+[arxiv 2025.10]  MultiCOIN: Multi-Modal COntrollable Video INbetweening [[PDF](https://arxiv.org/abs/2510.08561),[Page](https://multicoinx.github.io/multicoin/)] 
+
+[arxiv 2025.10] Controllable Video Synthesis via Variational Inference  [[PDF](https://arxiv.org/abs/2510.07670),[Page](https://video-synthesis-variational.github.io/)] 
 
 [arxiv 2025.10]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -1166,6 +1180,7 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2025.07] Lumos-1: On Autoregressive Video Generation from a Unified Model Perspective  [[PDF](https://arxiv.org/abs/2507.08801),[Page](https://github.com/alibaba-damo-academy/Lumos)] ![Code](https://img.shields.io/github/stars/alibaba-damo-academy/Lumos?style=social&label=Star)
 
+[arxiv 2025.10] Real-Time Motion-Controllable Autoregressive Video Diffusion  [[PDF](https://arxiv.org/abs/2510.08131),[Page](https://kesenzhao.github.io/AR-Drag.github.io/)] 
 
 [arxiv 2025.10]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -1337,6 +1352,7 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2025.06] OutDreamer: Video Outpainting with a Diffusion Transformer  [[PDF](https://arxiv.org/abs/2506.22298)]
 
+[arxiv 2025.10] VideoCanvas: Unified Video Completion from Arbitrary Spatiotemporal Patches via In-Context Conditioning  [[PDF](https://arxiv.org/abs/2510.08555),[Page](https://onevfall.github.io/project_page/videocanvas/#teaser)]
 
 [arxiv 2025.10]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -1423,6 +1439,7 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2025.10] PatchVSR: Breaking Video Diffusion Resolution Limits with Patch-wise Video Super-Resolution  [[PDF](https://arxiv.org/abs/2509.26025)]
 
+[arxiv 2025.10]  UniMMVSR: A Unified Multi-Modal Framework for Cascaded Video Super-Resolution [[PDF](https://arxiv.org/abs/2510.08143),[Page](https://shiandu.github.io/UniMMVSR-website/)] 
 
 [arxiv 2025.10]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -1436,7 +1453,7 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2025.02] Human Body Restoration with One-Step Diffusion Model and A New Benchmark  [[PDF](https://arxiv.org/abs/2502.01411),[Page](https://github.com/gobunu/OSDHuman)] ![Code](https://img.shields.io/github/stars/gobunu/OSDHuman?style=social&label=Star)
 
-
+[arxiv 2025.10]  MoA-VR: A Mixture-of-Agents System Towards All-in-One Video Restoration [[PDF](https://arxiv.org/abs/2510.08508),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 [arxiv 2025.10]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -2152,6 +2169,7 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2025.08]  DreamVE: Unified Instruction-based Image and Video Editing [[PDF](https://arxiv.org/abs/2508.06080),[Page](https://zj-binxia.github.io/DreamVE-ProjectPage/)] 
 
+[arxiv 2025.10] UniVideo: Unified Understanding, Generation, and Editing for Videos  [[PDF](https://arxiv.org/abs/2510.08377),[Page](https://congwei1230.github.io/UniVideo/)] ![Code](https://img.shields.io/github/stars/KwaiVGI/UniVideo?style=social&label=Star)
 
 [arxiv 2025.10]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -2261,6 +2279,7 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2025.10] Streaming Drag-Oriented Interactive Video Manipulation: Drag Anything, Anytime!  [[PDF](https://arxiv.org/pdf/2510.03550)]
 
+[arxiv 2025.10] InstructX: Towards Unified Visual Editing with MLLM Guidance  [[PDF](https://arxiv.org/abs/2510.08485),[Page](https://mc-e.github.io/project/InstructX/)] ![Code](https://img.shields.io/github/stars/MC-E/InstructX?style=social&label=Star)
 
 [arxiv 2025.10]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -2466,10 +2485,9 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2025.10]  Arbitrary Generative Video Interpolation [[PDF](https://arxiv.org/abs/2510.00578),[Page](https://mcg-nju.github.io/ArbInterp-Web/)] 
 
+[arxiv 2025.10]  MultiCOIN: Multi-Modal COntrollable Video INbetweening [[PDF](https://arxiv.org/abs/2510.08561),[Page](https://multicoinx.github.io/multicoin/)] 
 
 [arxiv 2025.10]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
-
-
 
 
 
@@ -2496,6 +2514,7 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2025.10] FreeViS: Training-free Video Stylization with Inconsistent References  [[PDF](https://arxiv.org/abs/2510.01686),[Page](https://xujiacong.github.io/FreeViS/)] ![Code](https://img.shields.io/github/stars/XuJiacong/FreeViS/?style=social&label=Star)
 
+[arxiv 2025.10] PickStyle: Video-to-Video Style Transfer with Context-Style Adapters  [[PDF](https://arxiv.org/abs/2510.07546),[Page](https://pickstyle.pickford.ai/)] ![Code](https://img.shields.io/github/stars/PickfordAI/pickstyle?style=social&label=Star)
 
 [arxiv 2025.10]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -2700,6 +2719,7 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2025.10] LightCache: Memory-Efficient, Training-Free Acceleration for Video Generation  [[PDF](https://arxiv.org/abs/2510.05367),[Page](https://github.com/NKUShaw/LightCache)] ![Code](https://img.shields.io/github/stars/NKUShaw/LightCache?style=social&label=Star)
 
+[arxiv 2025.10]  LinVideo: A Post-Training Framework towards O(n) Attention in Efficient Video Generation [[PDF](https://arxiv.org/abs/2510.08318)]
 
 [arxiv 2025.10]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -2810,6 +2830,9 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 [arxiv 2025.08]  Yan: Foundational Interactive Video Generation [[PDF](https://arxiv.org/pdf/2508.08601),[Page](https://greatx3.github.io/Yan/)] 
 
 [arxiv 2025.08] Matrix-Game 2.0: An Open-Source, Real-Time, and Streaming Interactive World Model  [[PDF](https://arxiv.org/abs/2508.13009),[Page](https://matrix-game-v2.github.io/)] ![Code](https://img.shields.io/github/stars/SkyworkAI/Matrix-Game?style=social&label=Star)
+
+[arxiv 2025.10]  VideoVerse: How Far is Your T2V Generator from a World Model? [[PDF](https://arxiv.org/abs/2510.08398)]
+
 
 [arxiv 2025.10]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
