@@ -551,6 +551,10 @@
 
 [arxiv 2025.10]  Fine-grained Defocus Blur Control for Generative Image Models [[PDF](https://arxiv.org/abs/2510.06215),[Page](https://www.ayshrv.com/defocus-blur-gen)] 
 
+[arxiv 2025.10]  Kontinuous Kontext: Continuous Strength Control for Instruction-based Image Editing [[PDF](https://arxiv.org/abs/2510.08532),[Page](https://snap-research.github.io/kontinuouskontext/#)] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
+
+[arxiv 2025.10] One Stone with Two Birds: A Null-Text-Null Frequency-Aware Diffusion Models for Text-Guided Image Inpainting [[PDF](https://arxiv.org/abs/2510.08273),[Page](https://github.com/htyjers/NTN-Diff)] ![Code](https://img.shields.io/github/stars/htyjers/NTN-Diff?style=social&label=Star)
+
 
 [arxiv 2025.10]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -640,6 +644,9 @@
 [arxiv 2025.10] DreamOmni2: Multimodal Instruction-based Editing and Generation  [[PDF](https://arxiv.org/abs/2510.06679),[Page](https://github.com/dvlab-research/DreamOmni2)] ![Code](https://img.shields.io/github/stars/dvlab-research/DreamOmni2?style=social&label=Star)
 
 [arxiv 2025.10]  Ming-UniVision: Joint Image Understanding and Generation with a Unified Continuous Tokenizer [[PDF](https://arxiv.org/abs/2510.06590),[Page](https://github.com/inclusionAI/Ming-UniVision)] ![Code](https://img.shields.io/github/stars/inclusionAI/Ming-UniVision?style=social&label=Star) 
+
+
+
 
 [arxiv 2025.10]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -766,6 +773,9 @@
 [arxiv 2025.02] Diffusion Models without Classifier-free Guidance  [[PDF](https://arxiv.org/pdf/2502.12154),[Page](https://github.com/tzco/Diffusion-wo-CFG)] ![Code](https://img.shields.io/github/stars/tzco/Diffusion-wo-CFG?style=social&label=Star)
 
 [arxiv 2025.02] Classifier-free Guidance with Adaptive Scaling  [[PDF](https://arxiv.org/pdf/2502.10574)]
+
+[arxiv 2025.10]  Rectified-CFG++ for Flow Based Models [[PDF](https://arxiv.org/abs/2510.07631),[Page](https://rectified-cfgpp.github.io/)] ![Code](https://img.shields.io/github/stars/shreshthsaini/Rectified-CFGpp?style=social&label=Star)
+
 
 [arxiv 2025.10]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
