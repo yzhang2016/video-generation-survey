@@ -1839,6 +1839,9 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2025.09] Kling-Avatar: Grounding Multimodal Instructions for Cascaded Long-Duration Avatar Animation Synthesis  [[PDF](https://arxiv.org/abs/2509.09595),[Page](https://klingavatar.github.io/)] 
 
+[arxiv 2025.10]  VividAnimator: An End-to-End Audio and Pose-driven Half-Body Human Animation Framework [[PDF](https://arxiv.org/pdf/2510.10269)]
+
+
 [arxiv 2025.10]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 
@@ -2602,6 +2605,7 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2025.10]  Stable Cinemetrics : Structured Taxonomy and Evaluation for Professional Video Generation [[PDF](https://arxiv.org/abs/2509.26555),[Page](https://stable-cinemetrics.github.io/)] 
 
+[arxiv 2025.10]  IVEBench: Modern Benchmark Suite for Instruction-Guided Video Editing Assessment [[PDF](https://arxiv.org/abs/2510.11647),[Page](https://ryanchenyn.github.io/projects/IVEBench/)] ![Code](https://img.shields.io/github/stars/RyanChenYN/IVEBench?style=social&label=Star)
 
 [arxiv 2025.10]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -2939,6 +2943,7 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2025.09] RewardDance: Reward Scaling in Visual Generation  [[PDF](https://arxiv.org/pdf/2509.08826)]
 
+[arxiv 2025.10]  VideoReward Thinker: Boosting Video Reward Models through Thinking-with-Image Reasoning [[PDF](https://arxiv.org/abs/2510.10518),[Page](https://github.com/qunzhongwang/vr-thinker)] ![Code](https://img.shields.io/github/stars/qunzhongwang/vr-thinker?style=social&label=Star)
 
 [arxiv 2025.10]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
