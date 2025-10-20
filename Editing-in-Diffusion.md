@@ -1046,6 +1046,9 @@
 
 [arxiv 2025.10]  Asynchronous Denoising Diffusion Models for Aligning Text-to-Image Generation [[PDF](https://arxiv.org/abs/2510.04504),[Page](https://github.com/hu-zijing/AsynDM)] ![Code](https://img.shields.io/github/stars/hu-zijing/AsynDM?style=social&label=Star)
 
+[arxiv 2025.10]  Head-wise Adaptive Rotary Positional Encoding for Fine-Grained Image Generation [[PDF](https://arxiv.org/abs/2510.10489)]
+
+
 [arxiv 2025.10]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 
@@ -1476,6 +1479,7 @@
 
 [arxiv 2025.07] WordCraft: Interactive Artistic Typography with Attention Awareness and Noise Blending  [[PDF](https://arxiv.org/pdf/2507.09573)]
 
+[arxiv 2025.10]  SceneTextStylizer: A Training-Free Scene Text Style Transfer Framework with Diffusion Model [[PDF](https://arxiv.org/abs/2510.10910)]
 
 [arxiv 2025.10]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -1934,8 +1938,9 @@
 
 [arxiv 2025.10] MOLM: Mixture of LoRA Markers  [[PDF](https://arxiv.org/abs/2510.00293)]
 
+[arxiv 2025.10]  ContextGen: Contextual Layout Anchoring for Identity-Consistent Multi-Instance Generation [[PDF](https://arxiv.org/abs/2510.11000),[Page](https://nenhang.github.io/ContextGen/)] ![Code](https://img.shields.io/github/stars/nenhang/ContextGen?style=social&label=Star)
 
-
+[arxiv 2025.10] ReMix: Towards a Unified View of Consistent Character Generation and Editing  [[PDF](https://arxiv.org/abs/2510.10156)]
 
 [arxiv 2025.10]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -1979,6 +1984,12 @@
 [arxiv 2025.08] Scaling Group Inference for Diverse and High-Quality Generation  [[PDF](https://arxiv.org/abs/2508.15773),[Page](https://www.cs.cmu.edu/~group-inference/)] ![Code](https://img.shields.io/github/stars/GaParmar/group-inference?style=social&label=Star)
 
 [arxiv 2025.10]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
+
+## interleave generation 
+[arxiv 2025.10] IUT-Plug: A Plug-in tool for Interleaved Image-Text Generation  [[PDF](https://arxiv.org/abs/2510.10969)]
+
+[arxiv 2025.10]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
+
 
 
 ## multi-view consistency
@@ -2198,6 +2209,9 @@ Cross-Attention Control [[PDF](https://arxiv.org/abs/2402.13404)]
 [arxiv 2025.06]  SVGenius: Benchmarking LLMs in SVG Understanding, Editing and Generation [[PDF](https://arxiv.org/abs/2506.03139),[Page](https://zju-real.github.io/SVGenius)] ![Code](https://img.shields.io/github/stars/ZJU-REAL/SVGenius-Bench?style=social&label=Star)
 
 [arxiv 2025.08]  SVGen: Interpretable Vector Graphics Generation with Large Language Models [[PDF](https://arxiv.org/pdf/2508.09168),[Page](https://github.com/gitcat-404/SVGen)] ![Code](https://img.shields.io/github/stars/gitcat-404/SVGen?style=social&label=Star)
+
+[arxiv 2025.10] InternSVG: Towards Unified SVG Tasks with Multimodal Large Language Models  [[PDF](https://arxiv.org/abs/2510.11341),[Page](https://hmwang2002.github.io/release/internsvg/)] ![Code](https://img.shields.io/github/stars/hmwang2002/InternSVG?style=social&label=Star)
+
 
 [arxiv 2025.10]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -2546,6 +2560,8 @@ Creative Layout-to-Image Generation [[PDF](https://arxiv.org/pdf/2412.03859),[Pa
 [arxiv 2025.09] ComposeMe: Attribute-Specific Image Prompts for Controllable Human Image Generation [[PDF](https://arxiv.org/abs/2509.18092),[Page](https://fictionarry.github.io/GeoSVR-project/)] 
 
 [arxiv 2025.10] Stitch: Training-Free Position Control in Multimodal Diffusion Transformers  [[PDF](https://arxiv.org/abs/2509.26644),[Page](https://github.com/ExplainableML/Stitch)] ![Code](https://img.shields.io/github/stars/ExplainableML/Stitch?style=social&label=Star)
+
+
 
 [arxiv 2025.10]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -3648,6 +3664,7 @@ Creative Layout-to-Image Generation [[PDF](https://arxiv.org/pdf/2412.03859),[Pa
 
 [arxiv 2025.10] G2RPO: Granular GRPO for Precise Reward in Flow Models  [[PDF](https://arxiv.org/abs/2510.01982),[Page](https://github.com/bcmi/Granular-GRPO)] ![Code](https://img.shields.io/github/stars/bcmi/Granular-GRPO?style=social&label=Star)
 
+[arxiv 2025.10]  OmniQuality-R: Advancing Reward Models through All-Encompassing Quality Assessment [[PDF](https://arxiv.org/abs/2510.10609),[Page](https://github.com/yeppp27/OmniQuality-R)] ![Code](https://img.shields.io/github/stars/yeppp27/OmniQuality-R?style=social&label=Star)
 
 [arxiv 2025.10]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
