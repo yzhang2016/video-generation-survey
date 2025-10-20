@@ -261,6 +261,7 @@
 
 [arxiv 2025.10]  Video-in-the-Loop: Span-Grounded Long Video QA with Interleaved Reasoning [[PDF](https://arxiv.org/abs/2510.04022)]
 
+[arxiv 2025.10] video-SALMONN S: Streaming Audio-Visual LLMs Beyond Length Limits via Memory  [[PDF](https://arxiv.org/pdf/2510.11129)]
 
 [arxiv 2025.10]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
 
@@ -495,6 +496,7 @@
 
 [arxiv 2025.09]  Visual Representation Alignment for Multimodal Large Language Models [[PDF](https://arxiv.org/abs/2509.07979),[Page](https://cvlab-kaist.github.io/VIRAL/)] ![Code](https://img.shields.io/github/stars/cvlab-kaist/VIRAL?style=social&label=Star) 
 
+[arxiv 2025.10] UniFlow: A Unified Pixel Flow Tokenizer for Visual Understanding and Generation  [[PDF](https://arxiv.org/abs/2510.10575),[Page](https://github.com/ZhengrongYue/UniFlow)] ![Code](https://img.shields.io/github/stars/ZhengrongYue/UniFlow?style=social&label=Star) 
 
 [arxiv 2025.10]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
 
@@ -549,6 +551,9 @@
 [arxiv 2025.04]  Memory-efficient Streaming VideoLLMs for Real-time Procedural Video Understanding [[PDF](https://arxiv.org/abs/2504.13915),[Page](https://dibschat.github.io/ProVideLLM/)] 
 
 [arxiv 2025.08] MMTok: Multimodal Coverage Maximization for Efficient Inference of VLMs  [[PDF](https://arxiv.org/abs/2508.18264),[Page](https://cv.ironieser.cc/projects/mmtok.html)] ![Code](https://img.shields.io/github/stars/Ironieser/MMTok/?style=social&label=Star) 
+
+[arxiv 2025.10] AndesVL Technical Report: An Efficient Mobile-side Multimodal Large Language Model  [[PDF](https://arxiv.org/abs/2510.11496),[Page](https://github.com/OPPO-Mente-Lab/AndesVL_Evaluation)] ![Code](https://img.shields.io/github/stars/OPPO-Mente-Lab/AndesVL_Evaluation?style=social&label=Star) 
+
 
 [arxiv 2025.10]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
 
