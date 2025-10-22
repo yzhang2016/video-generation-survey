@@ -1,5 +1,12 @@
 ### [Awesome-Multimodal-Large-Language-Models](https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models)
 
+
+## Dataset 
+
+**MultiVerse**
+[arxiv 2025.10]  MultiVerse: A Multi-Turn Conversation Benchmark for Evaluating Large Vision and Language Models [[PDF](https://arxiv.org/abs/2510.16641),[Page](https://passing2961.github.io/multiverse-project-page/)] 
+
+
 ###  LLM 
 
 [arxiv 2024.12] Training Large Language Models to Reason in a Continuous Latent Space  [[PDF](https://arxiv.org/pdf/2412.06769)]
@@ -51,6 +58,9 @@
 [arxiv 2025.03]  STEVE: AStep Verification Pipeline for Computer-use Agent Training [[PDF](https://arxiv.org/abs/2503.12532),[Page](https://github.com/FanbinLu/STEVE-R1)] ![Code](https://img.shields.io/github/stars/FanbinLu/STEVE-R1?style=social&label=Star) 
 
 [arxiv 2025.08]  TurboTrain: Towards Efficient and Balanced Multi-Task Learning for Multi-Agent Perception and Prediction [[PDF](https://arxiv.org/abs/2508.04682),[Page](https://github.com/ucla-mobility/TurboTrain)] ![Code](https://img.shields.io/github/stars/ucla-mobility/TurboTrain?style=social&label=Star) 
+
+[arxiv 2025.10]  MAT-Agent: Adaptive Multi-Agent Training Optimization [[PDF](https://arxiv.org/abs/2510.17845)]
+
 
 [arxiv 2025.10]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
 
@@ -198,6 +208,7 @@
 
 [arxiv 2025.09] Qwen3-Omni Technical Report  [[PDF](https://arxiv.org/abs/2509.17765),[Page](https://github.com/QwenLM/Qwen3-Omni)] ![Code](https://img.shields.io/github/stars/QwenLM/Qwen3-Omni?style=social&label=Star) 
 
+[arxiv 2025.10]  OmniVinci: Enhancing Architecture and Data for Omni-Modal Understanding LLM [[PDF](https://arxiv.org/abs/2510.15870),[Page](https://nvlabs.github.io/OmniVinci/)] ![Code](https://img.shields.io/github/stars/NVlabs/OmniVinci?style=social&label=Star) 
 
 [arxiv 2025.10]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
 
@@ -262,6 +273,9 @@
 [arxiv 2025.10]  Video-in-the-Loop: Span-Grounded Long Video QA with Interleaved Reasoning [[PDF](https://arxiv.org/abs/2510.04022)]
 
 [arxiv 2025.10] video-SALMONN S: Streaming Audio-Visual LLMs Beyond Length Limits via Memory  [[PDF](https://arxiv.org/pdf/2510.11129)]
+
+[arxiv 2025.10] Vgent: Graph-based Retrieval-Reasoning-Augmented Generation For Long Video Understanding  [[PDF](https://arxiv.org/abs/2510.14032),[Page](https://xiaoqian-shen.github.io/Vgent/)] ![Code](https://img.shields.io/github/stars/xiaoqian-shen/Vgent?style=social&label=Star) 
+
 
 [arxiv 2025.10]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
 
@@ -372,6 +386,15 @@
 [arxiv 2025.10]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
 
 
+## Omni
+[arxiv 2025.09] Qwen3-Omni Technical Report  [[PDF](https://arxiv.org/abs/2509.17765),[Page](https://github.com/QwenLM/Qwen3-Omni)] ![Code](https://img.shields.io/github/stars/QwenLM/Qwen3-Omni?style=social&label=Star) 
+
+[arxiv 2025.10] InteractiveOmni: A Unified Omni-modal Model for Audio-Visual Multi-turn Dialogue  [[PDF](https://arxiv.org/abs/2510.13747),[Page](https://github.com/SenseTime-FVG/InteractiveOmni)] ![Code](https://img.shields.io/github/stars/SenseTime-FVG/InteractiveOmni?style=social&label=Star) 
+
+[arxiv 2025.10]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
+
+
+
 ## diffusion LLM
 [arxiv 2025.05]  MMaDA: Multimodal Large Diffusion Language Models [[PDF](https://arxiv.org/abs/2505.15809),[Page](https://github.com/Gen-Verse/MMaDA)] ![Code](https://img.shields.io/github/stars/Gen-Verse/MMaDA?style=social&label=Star) 
 
@@ -457,6 +480,10 @@
 
 [arxiv 2025.09] Mini-o3: Scaling Up Reasoning Patterns and Interaction Turns for Visual Search  [[PDF](https://arxiv.org/pdf/2509.07969),[Page](https://mini-o3.github.io/)] ![Code](https://img.shields.io/github/stars/Mini-o3/Mini-o3?style=social&label=Star) 
 
+[arxiv 2025.10] DeepMMSearch-R1: Empowering Multimodal LLMs in Multimodal Web Search  [[PDF](https://arxiv.org/abs/2510.12801)]
+
+[arxiv 2025.10] MathCanvas: Intrinsic Visual Chain-of-Thought for Multimodal Mathematical Reasoning  [[PDF](https://arxiv.org/abs/2510.14958),[Page](https://mathcanvas.github.io/)] ![Code](https://img.shields.io/github/stars/shiwk24/MathCanvas?style=social&label=Star) 
+
 
 [arxiv 2025.10]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
 
@@ -498,6 +525,9 @@
 
 [arxiv 2025.10] UniFlow: A Unified Pixel Flow Tokenizer for Visual Understanding and Generation  [[PDF](https://arxiv.org/abs/2510.10575),[Page](https://github.com/ZhengrongYue/UniFlow)] ![Code](https://img.shields.io/github/stars/ZhengrongYue/UniFlow?style=social&label=Star) 
 
+[arxiv 2025.10]  ViCO: A Training Strategy towards Semantic Aware Dynamic High-Resolution [[PDF](https://arxiv.org/abs/2510.12793),[Page](https://huggingface.co/collections/OpenGVLab/internvl35-flash-68d7bea4d20fb9f70f145ff8)] 
+
+
 [arxiv 2025.10]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
 
 ## RoPE
@@ -531,6 +561,14 @@
 
 ## memory
 [arxiv 2025.08]  Seeing, Listening, Remembering, and Reasoning: A Multimodal Agent with Long-Term Memory [[PDF](https://arxiv.org/abs/2508.09736),[Page](https://github.com/bytedance-seed/m3-agent)] ![Code](https://img.shields.io/github/stars/bytedance-seed/m3-agent?style=social&label=Star) 
+
+[arxiv 2025.10]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
+
+## context
+[arxiv 2025.10] Glyph: Scaling Context Windows via Visual-Text Compression  [[PDF](https://arxiv.org/pdf/2510.17800),[Page](https://github.com/thu-coai/Glyph)] ![Code](https://img.shields.io/github/stars/thu-coai/Glyph?style=social&label=Star) 
+
+[arxiv 2025.10]  DeepSeek-OCR: Contexts Optical Compression [[PDF](https://arxiv.org/abs/2510.18234),[Page](https://github.com/deepseek-ai/DeepSeek-OCR)] ![Code](https://img.shields.io/github/stars/deepseek-ai/DeepSeek-OCR?style=social&label=Star) 
+
 
 [arxiv 2025.10]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
 
@@ -571,6 +609,7 @@
 
 [arxiv 2025.05] Human-Aligned Bench: Fine-Grained Assessment of Reasoning Ability in MLLMs vs. Humans  [[PDF](https://arxiv.org/abs/2505.11141),[Page](https://yansheng-qiu.github.io/human-aligned-bench.github.io/)] ![Code](https://img.shields.io/github/stars/yansheng-qiu/Human_Aligned_Bench?style=social&label=Star) 
 
+[arxiv 2025.10] Generative Universal Verifier as Multimodal Meta-Reasoner  [[PDF](https://arxiv.org/abs/2510.13804),[Page](https://omniverifier.github.io/)] ![Code](https://img.shields.io/github/stars/Cominclip/OmniVerifier?style=social&label=Star) 
 
 [arxiv 2025.10]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
 
