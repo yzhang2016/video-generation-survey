@@ -208,6 +208,9 @@ A reading list of video generation
 * **TalkCuts**
 [arxiv 2025.10] TalkCuts: A Large-Scale Dataset for Multi-Shot Human Speech Video Generation  [[PDF](https://arxiv.org/abs/2510.07249),[Page](https://talkcuts.github.io/)] 
 
+* **Ditto-1M for Editing**
+[arxiv 2025.10] Scaling Instruction-Based Video Editing with a High-Quality Synthetic Dataset  [[PDF](https://arxiv.org/abs/2510.15742),[Page](https://editto.net/)] ![Code](https://img.shields.io/github/stars/EzioBy/Ditto?style=social&label=Star)
+
 
 [arxiv 2025.10]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -526,6 +529,14 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2025.10]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
+
+## agent
+[arxiv 2025.10] VISTA: A Test-Time Self-Improving Video Generation Agent  [[PDF](https://arxiv.org/abs/2510.15831),[Page](https://g-vista.github.io/)] 
+
+[arxiv 2025.10]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
+
+
+
 ## scaling law 
 [arxiv 2024.11] Towards Precise Scaling Laws for Video Diffusion Transformers [[PDF](https://arxiv.org/abs/2411.17470)] 
 
@@ -681,11 +692,18 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2025.06] Evaluating Multimodal Large Language Models on Video Captioning via Monte Carlo Tree Search  [[PDF](https://arxiv.org/abs/2506.11155),[Page](https://github.com/tjunlp-lab/MCTS-VCB)] ![Code](https://img.shields.io/github/stars/tjunlp-lab/MCTS-VCB?style=social&label=Star)
 
+[arxiv 2025.10]  Omni-Captioner: Data Pipeline, Models, and Benchmark for Omni Detailed Perception [[PDF](https://arxiv.org/abs/2510.12720),[Page](https://github.com/ddlBoJack/Omni-Captioner)] ![Code](https://img.shields.io/github/stars/ddlBoJack/Omni-Captioner?style=social&label=Star)
+
+[arxiv 2025.10] IF-VidCap: Can Video Caption Models Follow Instructions?  [[PDF](https://arxiv.org/abs/2510.18726),[Page](https://github.com/NJU-LINK/IF-VidCap)] ![Code](https://img.shields.io/github/stars/NJU-LINK/IF-VidCap?style=social&label=Star)
+
 
 [arxiv 2025.10]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 
+## multi-shot
+[arxiv 2025.10]  MoGA: Mixture-of-Groups Attention for End-to-End Long Video Generation [[PDF](https://arxiv.org/abs/2510.18692),[Page](https://jiawn-creator.github.io/mixture-of-groups-attention/)] ![Code](https://img.shields.io/github/stars/bytedance-fanqie-ai/MoGA?style=social&label=Star)
 
+[arxiv 2025.10]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 
 ## multi-prompt 
@@ -1047,6 +1065,9 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2025.10] Controllable Video Synthesis via Variational Inference  [[PDF](https://arxiv.org/abs/2510.07670),[Page](https://video-synthesis-variational.github.io/)] 
 
+[arxiv 2025.10] TGT: Text-Grounded Trajectories for Locally Controlled Video Generation  [[PDF](https://arxiv.org/abs/2510.15104),[Page](https://textgroundedtraj.github.io/)] 
+
+
 [arxiv 2025.10]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 
@@ -1305,6 +1326,7 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2025.10]  From Seeing to Predicting: A Vision-Language Framework for Trajectory Forecasting and Controlled Video Generation [[PDF](https://arxiv.org/abs/2510.00806)]
 
+[arxiv 2025.10]  3D Scene Prompting for Scene-Consistent Camera-Controllable Video Generation [[PDF](https://arxiv.org/abs/2510.14945),[Page](https://cvlab-kaist.github.io/3DScenePrompt/)] ![Code](https://img.shields.io/github/stars/cvlab-kaist/3DScenePrompt?style=social&label=Star)
 
 [arxiv 2025.10]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -1440,6 +1462,10 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 [arxiv 2025.10] PatchVSR: Breaking Video Diffusion Resolution Limits with Patch-wise Video Super-Resolution  [[PDF](https://arxiv.org/abs/2509.26025)]
 
 [arxiv 2025.10]  UniMMVSR: A Unified Multi-Modal Framework for Cascaded Video Super-Resolution [[PDF](https://arxiv.org/abs/2510.08143),[Page](https://shiandu.github.io/UniMMVSR-website/)] 
+
+[arxiv 2025.10] FlashVSR: Towards Real-Time Diffusion-Based Streaming Video Super-Resolution  [[PDF](https://arxiv.org/abs/2510.12747),[Page](https://zhuang2002.github.io/FlashVSR/)] ![Code](https://img.shields.io/github/stars/OpenImagingLab/FlashVSR?style=social&label=Star)
+
+[arxiv 2025.10]  UltraGen: High-Resolution Video Generation with Hierarchical Attention [[PDF](https://arxiv.org/pdf/2510.18775),[Page](https://sjtuplayer.github.io/projects/UltraGen/)] ![Code](https://img.shields.io/github/stars/sjtuplayer/UltraGen?style=social&label=Star)
 
 [arxiv 2025.10]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -1651,6 +1677,7 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2025.10] Character Mixing for Video Generation  [[PDF](https://arxiv.org/pdf/2510.05093),[Page](https://tingtingliao.github.io/mimix/)] ![Code](https://img.shields.io/github/stars/TingtingLiao/mimix?style=social&label=Star)
 
+[arxiv 2025.10]  Kaleido: Open-Sourced Multi-Subject Reference Video Generation Model [[PDF](https://arxiv.org/abs/2510.18573),[Page](https://github.com/CriliasMiller/Kaleido-OpenSourced)] ![Code](https://img.shields.io/github/stars/CriliasMiller/Kaleido-OpenSourced?style=social&label=Star)
 
 [arxiv 2025.10]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -2174,6 +2201,9 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2025.10] UniVideo: Unified Understanding, Generation, and Editing for Videos  [[PDF](https://arxiv.org/abs/2510.08377),[Page](https://congwei1230.github.io/UniVideo/)] ![Code](https://img.shields.io/github/stars/KwaiVGI/UniVideo?style=social&label=Star)
 
+[arxiv 2025.10] Scaling Instruction-Based Video Editing with a High-Quality Synthetic Dataset  [[PDF](https://arxiv.org/abs/2510.15742),[Page](https://editto.net/)] ![Code](https://img.shields.io/github/stars/EzioBy/Ditto?style=social&label=Star)
+
+
 [arxiv 2025.10]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 
@@ -2607,6 +2637,8 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2025.10]  IVEBench: Modern Benchmark Suite for Instruction-Guided Video Editing Assessment [[PDF](https://arxiv.org/abs/2510.11647),[Page](https://ryanchenyn.github.io/projects/IVEBench/)] ![Code](https://img.shields.io/github/stars/RyanChenYN/IVEBench?style=social&label=Star)
 
+
+
 [arxiv 2025.10]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 
@@ -2840,6 +2872,7 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2025.10]  VideoVerse: How Far is Your T2V Generator from a World Model? [[PDF](https://arxiv.org/abs/2510.08398)]
 
+[arxiv 2025.10] World-in-World: World Models in a Closed-Loop World  [[PDF](https://arxiv.org/pdf/2510.18135),[Page](https://world-in-world.github.io/)] ![Code](https://img.shields.io/github/stars/World-In-World/world-in-world?style=social&label=Star)
 
 [arxiv 2025.10]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -2905,6 +2938,7 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2025.10] Drive&Gen: Co-Evaluating End-to-End Driving and Video Generation Models  [[PDF](https://arxiv.org/abs/2510.06209)]
 
+[arxiv 2025.10]  DriveVLA-W0: World Models Amplify Data Scaling Law in Autonomous Driving [[PDF](https://arxiv.org/abs/2510.12796),[Page](https://github.com/BraveGroup/DriveVLA-W0)] ![Code](https://img.shields.io/github/stars/BraveGroup/DriveVLA-W0?style=social&label=Star)
 
 [arxiv 2025.10]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -2944,6 +2978,14 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 [arxiv 2025.09] RewardDance: Reward Scaling in Visual Generation  [[PDF](https://arxiv.org/pdf/2509.08826)]
 
 [arxiv 2025.10]  VideoReward Thinker: Boosting Video Reward Models through Thinking-with-Image Reasoning [[PDF](https://arxiv.org/abs/2510.10518),[Page](https://github.com/qunzhongwang/vr-thinker)] ![Code](https://img.shields.io/github/stars/qunzhongwang/vr-thinker?style=social&label=Star)
+
+[arxiv 2025.10] PhysMaster: Mastering Physical Representation for Video Generation via Reinforcement Learning  [[PDF](https://arxiv.org/pdf/2510.13809),[Page](https://sihuiji.github.io/PhysMaster-Page/)] ![Code](https://img.shields.io/github/stars/KwaiVGI/PhysMaster?style=social&label=Star)
+
+[arxiv 2025.10] RealDPO: Real or Not Real, that is the Preference  [[PDF](https://arxiv.org/abs/2510.14955),[Page](https://vchitect.github.io/RealDPO-Project/)] ![Code](https://img.shields.io/github/stars/Vchitect/RealDPO?style=social&label=Star)
+
+[arxiv 2025.10] Identity-GRPO: Optimizing Multi-Human Identity-preserving Video Generation via Reinforcement Learning  [[PDF](https://arxiv.org/pdf/2510.14256),[Page](https://ali-videoai.github.io/identity_page/)] ![Code](https://img.shields.io/github/stars/alibaba/identity-grpo?style=social&label=Star)
+
+[arxiv 2025.10]  Identity-Preserving Image-to-Video Generation via Reward-Guided Optimization [[PDF](https://arxiv.org/abs/2510.14255),[Page](https://ipro-alimama.github.io/)] 
 
 [arxiv 2025.10]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
