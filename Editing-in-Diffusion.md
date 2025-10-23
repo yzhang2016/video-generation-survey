@@ -1111,6 +1111,9 @@
 
 [arxiv 2025.10] SSDD: Single-Step Diffusion Decoder for Efficient Image Tokenization  [[PDF](https://arxiv.org/abs/2510.04961),[Page](https://github.com/facebookresearch/SSDD)] ![Code](https://img.shields.io/github/stars/facebookresearch/SSDD?style=social&label=Star)
 
+[arxiv 2025.10] RAE: Diffusion Transformers with Representation Autoencoders [[PDF](https://arxiv.org/abs/2510.11690),[Page](https://rae-dit.github.io/)] ![Code](https://img.shields.io/github/stars/bytetriper/RAE?style=social&label=Star)
+
+
 [arxiv 2025.10]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 
