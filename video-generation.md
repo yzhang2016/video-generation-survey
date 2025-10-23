@@ -7,8 +7,7 @@ A reading list of video generation
 *  **Wan2.5 Preview** [[Page](https://wan.video/)]
 *  **Gaga** [[Page](https://gaga.art/app)]
 *  **Grok Imagine** [[Page](https://grok.com/imagine)]
-  
-
+*  **Ovi** [[Page](https://github.com/character-ai/Ovi)] (opensource)
 
 ## Repo for open-sora
 
