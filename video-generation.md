@@ -1860,11 +1860,15 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2025.08]  MIDAS: Multimodal Interactive Digital-humAn Synthesis via Real-time Autoregressive Video Generation [[PDF](https://arxiv.org/pdf/2508.19320),[Page](https://chenmingthu.github.io/milm/)] 
 
+
 [arxiv 2025.08] InfinityHuman: Towards Long-Term Audio-Driven Human  [[PDF](https://arxiv.org/abs/2508.20210),[Page](https://infinityhuman.github.io/)] 
 
 [arxiv 2025.09]  HuMo: Human-Centric Video Generation via Collaborative Multi-Modal Conditioning [[PDF](https://arxiv.org/abs/2509.08519),[Page](https://phantom-video.github.io/HuMo/)] ![Code](https://img.shields.io/github/stars/Phantom-video/HuMo?style=social&label=Star)
 
 [arxiv 2025.09] Kling-Avatar: Grounding Multimodal Instructions for Cascaded Long-Duration Avatar Animation Synthesis  [[PDF](https://arxiv.org/abs/2509.09595),[Page](https://klingavatar.github.io/)] 
+
+[arxiv 2025.10] X-Streamer: Unified Human World Modeling with Audiovisual Interaction  [[PDF](https://arxiv.org/abs/2509.21574),[Page](https://byteaigc.github.io/X-Streamer/)] 
+
 
 [arxiv 2025.10]  VividAnimator: An End-to-End Audio and Pose-driven Half-Body Human Animation Framework [[PDF](https://arxiv.org/pdf/2510.10269)]
 
