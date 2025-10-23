@@ -127,6 +127,9 @@
 
 [arxiv 2025.10] OmniMotion: Multimodal Motion Generation with Continuous Masked Autoregression  [[PDF](https://arxiv.org/abs/2510.14954)]
 
+[arxiv 2025.10] OmniMotion-X: Versatile Multimodal Whole-Body Motion Generation  [[PDF](https://arxiv.org/abs/2510.19789),[Page](https://github.com/GuoweiXu368/OmniMotion-X)] ![Code](https://img.shields.io/github/stars/GuoweiXu368/OmniMotion-X?style=social&label=Star)
+
+
 [arxiv 2025.10]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 
