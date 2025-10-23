@@ -834,6 +834,7 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2025.10]  Pack and Force Your Memory: Long-form and Consistent Video Generation [[PDF](https://arxiv.org/abs/2510.01784)]
 
+[arxiv 2025.10]  Stable Video Infinity: Infinite-Length Video Generation with Error Recycling [[PDF](https://arxiv.org/abs/2510.09212),[Page](https://stable-video-infinity.github.io/homepage/)] ![Code](https://img.shields.io/github/stars/vita-epfl/Stable-Video-Infinity?style=social&label=Star)
 
 [arxiv 2025.10]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
