@@ -125,8 +125,9 @@
 
 [arxiv 2025.08]  DanceEditor: Towards Iterative Editable Music-driven Dance Generation with Open-Vocabulary Descriptions [[PDF](),[Page](https://lzvsdy.github.io/DanceEditor/)] ![Code](https://img.shields.io/github/stars/LZVSDY/DanceEditor?style=social&label=Star)
 
-[arxiv 2025.10]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
+[arxiv 2025.10] OmniMotion: Multimodal Motion Generation with Continuous Masked Autoregression  [[PDF](https://arxiv.org/abs/2510.14954)]
 
+[arxiv 2025.10]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 
 ## audio-to-gesture 
@@ -157,6 +158,8 @@
 
 [arxiv 2025.04]  Direction-Aware Hybrid Representation Learning for 3D Hand Pose and Shape Estimation [[PDF](https://arxiv.org/abs/2504.01298)]
 
+[arxiv 2025.10] TOUCH: Text-gUided Controllable Generation of Free-Form Hand-Object Interactions  [[PDF](https://arxiv.org/abs/2510.14874),[Page](https://guangyid.github.io/hoi123touch/)] 
+
 
 [arxiv 2025.10]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -169,7 +172,7 @@
 
 
 
-## Human Interaction 
+## Interaction 
 [arxiv 2024.05]  Scaling Up Dynamic Human-Scene Interaction Modeling [[PDF](https://arxiv.org/abs/2403.08629),[Page](https://jnnan.github.io/trumans/)] ![Code](https://img.shields.io/github/stars/jnnan/trumans_utils?style=social&label=Star)
 
 [arxiv 2024.06]  Introducing HOT3D: An Egocentric Dataset for 3D Hand and Object Tracking [[PDF](https://arxiv.org/pdf/2406.09598),[Page](https://facebookresearch.github.io/hot3d/)] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
@@ -256,6 +259,7 @@
 
 [arxiv 2025.10] Text2Interact: High-Fidelity and Diverse Text-to-Two-Person Interaction Generation  [[PDF](https://arxiv.org/abs/2510.06504)]
 
+[arxiv 2025.10]  Ponimator: Unfolding Interactive Pose for Versatile Human-human Interaction Animation [[PDF](https://arxiv.org/abs/2510.14976),[Page](https://stevenlsw.github.io/ponimator/)] ![Code](https://img.shields.io/github/stars/stevenlsw/ponimator?style=social&label=Star)
 
 [arxiv 2025.10]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
