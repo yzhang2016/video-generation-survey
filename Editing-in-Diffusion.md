@@ -559,6 +559,9 @@
 
 [arxiv 2025.10] ConsistEdit: Highly Consistent and Precise Training-free Visual Editing  [[PDF](https://arxiv.org/abs/2510.17803),[Page](https://zxyin.github.io/ConsistEdit/)] ![Code](https://img.shields.io/github/stars/zxYin/ConsistEdit_Code?style=social&label=Star)
 
+[arxiv 2025.10] FlowCycle: Pursuing Cycle-Consistent Flows for Text-based Editing  [[PDF](https://arxiv.org/abs/2510.20212),[Page](https://github.com/HKUST-LongGroup/FlowCycle)] ![Code](https://img.shields.io/github/stars/HKUST-LongGroup/FlowCycle?style=social&label=Star)
+
+
 [arxiv 2025.10]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 
@@ -762,6 +765,8 @@
 [arxiv 2025.09] CAR-Flow: Condition-Aware Reparameterization Aligns Source and Target for Better Flow Matching  [[PDF](https://arxiv.org/abs/2509.19300)]
 
 [arxiv 2025.10]  Authentic Discrete Diffusion Model [[PDF](https://arxiv.org/abs/2510.01047)]
+
+
 
 [arxiv 2025.10]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -1110,9 +1115,6 @@
 [arxiv 2025.09]  Image Tokenizer Needs Post-Training [[PDF](https://arxiv.org/abs/2509.12474),[Page](https://qiuk2.github.io/works/RobusTok/index.html)] ![Code](https://img.shields.io/github/stars/qiuk2/RobusTok?style=social&label=Star)
 
 [arxiv 2025.10] SSDD: Single-Step Diffusion Decoder for Efficient Image Tokenization  [[PDF](https://arxiv.org/abs/2510.04961),[Page](https://github.com/facebookresearch/SSDD)] ![Code](https://img.shields.io/github/stars/facebookresearch/SSDD?style=social&label=Star)
-
-[arxiv 2025.10] RAE: Diffusion Transformers with Representation Autoencoders [[PDF](https://arxiv.org/abs/2510.11690),[Page](https://rae-dit.github.io/)] ![Code](https://img.shields.io/github/stars/bytetriper/RAE?style=social&label=Star)
-
 
 [arxiv 2025.10]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -1956,6 +1958,7 @@
 
 [arxiv 2025.10] WithAnyone: Towards Controllable and ID-Consistent Image Generation  [[PDF](https://arxiv.org/abs/2510.14975),[Page](https://doby-xu.github.io/WithAnyone/)] ![Code](https://img.shields.io/github/stars/doby-xu/WithAnyone?style=social&label=Star)
 
+[arxiv 2025.10]  EchoDistill: Bidirectional Concept Distillation for One-Step Diffusion Personalization [[PDF](https://arxiv.org/abs/2510.20512),[Page](https://liulisixin.github.io/EchoDistill-page/)] 
 
 
 [arxiv 2025.10]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
@@ -2589,6 +2592,9 @@ Creative Layout-to-Image Generation [[PDF](https://arxiv.org/pdf/2412.03859),[Pa
 
 [arxiv 2025.10] Chimera: Compositional Image Generation using Part-based Concepting  [[PDF](https://arxiv.org/abs/2510.18083),[Page](https://chimera-compositional-image-generation.vercel.app/)] ![Code](https://img.shields.io/github/stars/shivamsingh-gpu/Chimera?style=social&label=Star)
 
+[arxiv 2025.10] LayerComposer: Interactive Personalized T2I via Spatially-Aware Layered Canvas  [[PDF](https://arxiv.org/abs/2510.20820),[Page](https://snap-research.github.io/layercomposer/)] 
+
+
 [arxiv 2025.10]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 
@@ -2862,6 +2868,7 @@ Creative Layout-to-Image Generation [[PDF](https://arxiv.org/pdf/2412.03859),[Pa
 
 [arxiv 2025.10] DP2O-SR: Direct Perceptual Preference Optimization for Real-World Image Super-Resolution  [[PDF](https://arxiv.org/abs/2510.18851),[Page](https://github.com/cswry/DP2O-SR)] ![Code](https://img.shields.io/github/stars/cswry/DP2O-SR?style=social&label=Star)
 
+[arxiv 2025.10] DyPE: Dynamic Position Extrapolation for Ultra High Resolution Diffusion  [[PDF](https://arxiv.org/abs/2510.20766),[Page](https://noamissachar.github.io/DyPE/)] ![Code](https://img.shields.io/github/stars/guyyariv/DyPE?style=social&label=Star)
 
 [arxiv 2025.10]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -3455,6 +3462,9 @@ Creative Layout-to-Image Generation [[PDF](https://arxiv.org/pdf/2412.03859),[Pa
 [arxiv 2025.10] OBS-Diff: Accurate Pruning For Diffusion Models in One-Shot  [[PDF](https://arxiv.org/abs/2510.06751),[Page](https://github.com/Alrightlone/OBS-Diff)] ![Code](https://img.shields.io/github/stars/Alrightlone/OBS-Diff?style=social&label=Star)
 
 [arxiv 2025.10]  One-step Diffusion Models with Bregman Density Ratio Matching [[PDF](https://arxiv.org/pdf/2510.16983)]
+
+[arxiv 2025.10] AlphaFlow: Understanding and Improving MeanFlow Models  [[PDF](https://arxiv.org/abs/2510.20771),[Page](https://github.com/snap-research/alphaflow)] ![Code](https://img.shields.io/github/stars/snap-research/alphaflow?style=social&label=Star)
+
 [arxiv 2025.10]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 
@@ -3613,6 +3623,8 @@ Creative Layout-to-Image Generation [[PDF](https://arxiv.org/pdf/2412.03859),[Pa
 
 [arxiv 2025.10] Factuality Matters: When Image Generation and Editing Meet Structured Visuals  [[PDF](https://arxiv.org/abs/2510.05091),[Page](https://structvisuals.github.io/)] ![Code](https://img.shields.io/github/stars/zhuole1025/Structured-Visuals?style=social&label=Star)
 
+[arxiv 2025.10] Pico-Banana-400K: A Large-Scale Dataset for Text-Guided Image Editing
+  [[PDF](https://arxiv.org/abs/2510.19808),[Page](https://github.com/apple/pico-banana-400k)] ![Code](https://img.shields.io/github/stars/apple/pico-banana-400k?style=social&label=Star)
 
 [arxiv 2025.10]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
