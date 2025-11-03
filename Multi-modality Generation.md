@@ -37,6 +37,9 @@
 
 [arxiv 2025.06]  Omni-DPO: A Dual-Perspective Paradigm for Dynamic Preference Learning of LLMs [[PDF](https://arxiv.org/abs/2506.10054)] ![Code](https://img.shields.io/github/stars/pspdada/Omni-DPO?style=social&label=Star) 
 
+[arxiv 2025.10]  NoisyGRPO: Incentivizing Multimodal CoT Reasoning via Noise Injection and Bayesian Estimation [[PDF](https://arxiv.org/abs/2510.21122),[Page](https://artanic30.github.io/project_pages/NoisyGRPO/)] ![Code](https://img.shields.io/github/stars/Artanic30/NoisyGRPO?style=social&label=Star) 
+
+
 [arxiv 2025.10]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
 
 
