@@ -500,6 +500,7 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2025.08] Waver: Wave Your Way to Lifelike Video Generation  [[PDF](https://arxiv.org/abs/2508.15761),[Page](https://github.com/FoundationVision/Waver)] 
 
+[arxiv 2025.10] LongCat-Video Technical Report  [[PDF](https://arxiv.org/abs/2510.22200),[Page](https://github.com/meituan-longcat/LongCat-Video)] ![Code](https://img.shields.io/github/stars/meituan-longcat/LongCat-Video?style=social&label=Star)
 
 [arxiv 2025.10]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -672,6 +673,7 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2025.09] GenCompositor: Generative Video Compositing with Diffusion Transformer  [[PDF](https://arxiv.org/abs/2509.02460),[Page](https://gencompositor.github.io/)] ![Code](https://img.shields.io/github/stars/TencentARC/GenCompositor?style=social&label=Star)
 
+[arxiv 2025.10]  CoMo: Compositional Motion Customization for Text-to-Video Generation [[PDF](https://arxiv.org/abs/2510.23007),[Page](https://como6.github.io/)] 
 
 [arxiv 2025.10]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -696,6 +698,11 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2025.10] IF-VidCap: Can Video Caption Models Follow Instructions?  [[PDF](https://arxiv.org/abs/2510.18726),[Page](https://github.com/NJU-LINK/IF-VidCap)] ![Code](https://img.shields.io/github/stars/NJU-LINK/IF-VidCap?style=social&label=Star)
 
+[arxiv 2025.10] VC4VG: Optimizing Video Captions for Text-to-Video Generation  [[PDF](https://arxiv.org/abs/2510.24134),[Page](https://github.com/alimama-creative/VC4VG)] ![Code](https://img.shields.io/github/stars/qyr0403/VC4VG?style=social&label=Star)
+
+[arxiv 2025.10] More than a Moment: Towards Coherent Sequences of Audio Descriptions  [[PDF](https://arxiv.org/abs/2510.25440)]
+
+[arxiv 2025.10]  Towards Fine-Grained Human Motion Video Captioning [[PDF](https://arxiv.org/abs/2510.24767)]
 
 [arxiv 2025.10]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -1070,6 +1077,10 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2025.10] Video-As-Prompt: Unified Semantic Control for Video Generation  [[PDF](https://arxiv.org/pdf/2510.20888),[Page](https://github.com/bytedance/Video-As-Prompt)] ![Code](https://img.shields.io/github/stars/bytedance/Video-As-Prompt?style=social&label=Star)
 
+[arxiv 2025.10] SAGE: Structure-Aware Generative Video Transitions between Diverse Clips  [[PDF](https://arxiv.org/abs/2510.24667),[Page](https://kan32501.github.io/sage.github.io/)]
+
+[arxiv 2025.10]  VFXMaster: Unlocking Dynamic Visual Effect Generation via In-Context Learning [[PDF](https://arxiv.org/abs/2510.25772),[Page](https://libaolu312.github.io/VFXMaster/)] ![Code](https://img.shields.io/github/stars/libaolu312/VFXMaster?style=social&label=Star)
+
 [arxiv 2025.10]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 
@@ -1329,6 +1340,11 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 [arxiv 2025.10]  From Seeing to Predicting: A Vision-Language Framework for Trajectory Forecasting and Controlled Video Generation [[PDF](https://arxiv.org/abs/2510.00806)]
 
 [arxiv 2025.10]  3D Scene Prompting for Scene-Consistent Camera-Controllable Video Generation [[PDF](https://arxiv.org/abs/2510.14945),[Page](https://cvlab-kaist.github.io/3DScenePrompt/)] ![Code](https://img.shields.io/github/stars/cvlab-kaist/3DScenePrompt?style=social&label=Star)
+
+[arxiv 2025.10] VividCam: Learning Unconventional Camera Motions from Virtual Synthetic Videos  [[PDF](https://arxiv.org/abs/2510.24904),[Page](https://wuqiuche.github.io/VividCamDemoPage/)] 
+
+[arxiv 2025.10]  See4D: Pose-Free 4D Generation via Auto-Regressive Video Inpainting [[PDF](https://arxiv.org/abs/2510.26796),[Page](https://see-4d.github.io/)] 
+
 
 [arxiv 2025.10]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -1815,6 +1831,10 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 [arxiv 2025.09]  Follow-Your-Emoji-Faster: Towards Efficient, Fine-Controllable, and Expressive Freestyle Portrait Animation [[PDF](https://arxiv.org/abs/2509.16630),[Page](https://follow-your-emoji.github.io/)] ![Code](https://img.shields.io/github/stars/mayuelala/FollowYourEmoji?style=social&label=Star)
 
 [arxiv 2025.10]  Audio Driven Real-Time Facial Animation for Social Telepresence [[PDF](https://arxiv.org/abs/2510.01176),[Page](https://jiyewise.github.io/projects/AudioRTA/)] 
+
+[arxiv 2025.10] Lookahead Anchoring: Preserving Character Identity in Audio-Driven Human Animation  [[PDF](https://arxiv.org/abs/2510.23581),[Page](https://lookahead-anchoring.github.io/)] ![Code](https://img.shields.io/github/stars/j0seo/lookahead-anchoring?style=social&label=Star)
+
+[arxiv 2025.10] MAGIC-Talk: Motion-aware Audio-Driven Talking Face Generation with Customizable Identity Control  [[PDF](https://arxiv.org/abs/2510.22810)]
 
 [arxiv 2025.10]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -2328,6 +2348,9 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2025.10] InstructX: Towards Unified Visual Editing with MLLM Guidance  [[PDF](https://arxiv.org/abs/2510.08485),[Page](https://mc-e.github.io/project/InstructX/)] ![Code](https://img.shields.io/github/stars/MC-E/InstructX?style=social&label=Star)
 
+[arxiv 2025.10] VALA: Learning Latent Anchors for Training-Free and Temporally Consistent  [[PDF](https://arxiv.org/abs/2510.22970)]
+
+
 [arxiv 2025.10]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 
@@ -2573,6 +2596,7 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2025.02] Next Block Prediction: Video Generation via Semi-Autoregressive Modeling  [[PDF](https://arxiv.org/abs/2502.07737),[Page](https://renshuhuai-andy.github.io/NBP-project/)] ![Code](https://img.shields.io/github/stars/RenShuhuai-Andy/NBP?style=social&label=Star)
 
+[arxiv 2025.10]  Uniform Discrete Diffusion with Metric Path for Video Generation [[PDF](https://arxiv.org/abs/2510.24717),[Page](https://bitterdhg.github.io/URSA_page/)] ![Code](https://img.shields.io/github/stars/baaivision/URSA?style=social&label=Star)
 
 
 [arxiv 2025.10]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
@@ -2651,7 +2675,11 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2025.10]  IVEBench: Modern Benchmark Suite for Instruction-Guided Video Editing Assessment [[PDF](https://arxiv.org/abs/2510.11647),[Page](https://ryanchenyn.github.io/projects/IVEBench/)] ![Code](https://img.shields.io/github/stars/RyanChenYN/IVEBench?style=social&label=Star)
 
+[arxiv 2025.10] Rethinking Visual Intelligence: Insights from Video Pretraining  [[PDF](https://arxiv.org/abs/2510.24448)]
 
+[arxiv 2025.10] Are Video Models Ready as Zero-Shot Reasoners? An Empirical Study with the MME-CoF Benchmark  [[PDF](https://arxiv.org/pdf/2510.26802),[Page](https://video-cof.github.io/)] ![Code](https://img.shields.io/github/stars/ZiyuGuo99/MME-CoF?style=social&label=Star)
+
+[arxiv 2025.10] LoCoT2V-Bench: A Benchmark for Long-Form and Complex Text-to-Video Generation  [[PDF](https://arxiv.org/pdf/2510.26412)]
 
 [arxiv 2025.10]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -3003,6 +3031,9 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 [arxiv 2025.10] Identity-GRPO: Optimizing Multi-Human Identity-preserving Video Generation via Reinforcement Learning  [[PDF](https://arxiv.org/pdf/2510.14256),[Page](https://ali-videoai.github.io/identity_page/)] ![Code](https://img.shields.io/github/stars/alibaba/identity-grpo?style=social&label=Star)
 
 [arxiv 2025.10]  Identity-Preserving Image-to-Video Generation via Reward-Guided Optimization [[PDF](https://arxiv.org/abs/2510.14255),[Page](https://ipro-alimama.github.io/)] 
+
+[arxiv 2025.10]  Omni-Reward: Towards Generalist Omni-Modal Reward Modeling with Free-Form Preferences [[PDF](https://arxiv.org/abs/2510.23451),[Page](https://omnireward.github.io/)] ![Code](https://img.shields.io/github/stars/HongbangYuan/OmniReward?style=social&label=Star)
+
 
 [arxiv 2025.10]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
