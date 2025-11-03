@@ -385,6 +385,12 @@
 
 [arxiv 2025.10]  Lumina-DiMOO: An Omni Diffusion Large Language Model for Multi-Modal Generation and Understanding [[PDF](https://arxiv.org/abs/2510.06308),[Page](https://github.com/Alpha-VLLM/Lumina-DiMOO)] ![Code](https://img.shields.io/github/stars/Alpha-VLLM/Lumina-DiMOO?style=social&label=Star) 
 
+[arxiv 2025.10] LightBagel: A Light-weighted, Double Fusion Framework for Unified Multimodal Understanding and Generation  [[PDF](https://arxiv.org/abs/2510.22946),[Page](https://ucsc-vlaa.github.io/LightBagel/)] 
+
+[arxiv 2025.10]  Ming-Flash-Omni: A Sparse, Unified Architecture for Multimodal Perception and Generation [[PDF](https://arxiv.org/abs/2510.24821),[Page](https://github.com/inclusionAI/Ming)] ![Code](https://img.shields.io/github/stars/inclusionAI/Ming?style=social&label=Star) 
+
+[arxiv 2025.10] Emu3.5: Native Multimodal Models are World Learners  [[PDF](https://arxiv.org/abs/2510.26583),[Page](https://emu.world/)] 
+
 
 [arxiv 2025.10]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
 
@@ -487,6 +493,7 @@
 
 [arxiv 2025.10] MathCanvas: Intrinsic Visual Chain-of-Thought for Multimodal Mathematical Reasoning  [[PDF](https://arxiv.org/abs/2510.14958),[Page](https://mathcanvas.github.io/)] ![Code](https://img.shields.io/github/stars/shiwk24/MathCanvas?style=social&label=Star) 
 
+[arxiv 2025.10]  ThinkMorph: Emergent Properties in Multimodal Interleaved Chain-of-Thought Reasoning [[PDF](https://arxiv.org/abs/2510.27492),[Page](https://thinkmorph.github.io/)] ![Code](https://img.shields.io/github/stars/ThinkMorph/ThinkMorph?style=social&label=Star) 
 
 [arxiv 2025.10]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
 
