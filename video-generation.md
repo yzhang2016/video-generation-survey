@@ -629,6 +629,7 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2025.10] Learning to Generate Object Interactions with Physics-Guided Video Diffusion  [[PDF](https://arxiv.org/abs/2510.02284)]
 
+[arxiv 2025.10] Epipolar Geometry Improves Video Generation Models  [[PDF](https://arxiv.org/abs/2510.21615),[Page](https://epipolar-dpo.github.io/)] ![Code](https://img.shields.io/github/stars/KupynOrest/epipolar-dpo?style=social&label=Star)
 
 [arxiv 2025.10]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -1067,6 +1068,7 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2025.10] TGT: Text-Grounded Trajectories for Locally Controlled Video Generation  [[PDF](https://arxiv.org/abs/2510.15104),[Page](https://textgroundedtraj.github.io/)] 
 
+[arxiv 2025.10] Video-As-Prompt: Unified Semantic Control for Video Generation  [[PDF](https://arxiv.org/pdf/2510.20888),[Page](https://github.com/bytedance/Video-As-Prompt)] ![Code](https://img.shields.io/github/stars/bytedance/Video-As-Prompt?style=social&label=Star)
 
 [arxiv 2025.10]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -1467,6 +1469,9 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2025.10]  UltraGen: High-Resolution Video Generation with Hierarchical Attention [[PDF](https://arxiv.org/pdf/2510.18775),[Page](https://sjtuplayer.github.io/projects/UltraGen/)] ![Code](https://img.shields.io/github/stars/sjtuplayer/UltraGen?style=social&label=Star)
 
+[arxiv 2025.10]  Restore Text First, Enhance Image Later: Two-Stage Scene Text Image Super-Resolution with Glyph Structure Guidance [[PDF](http://arxiv.org/abs/2510.21590),[Page](https://tony-lowe.github.io/TIGER_project_page/)] ![Code](https://img.shields.io/github/stars/Tony-Lowe/TIGER_project_page?style=social&label=Star)
+
+
 [arxiv 2025.10]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 
@@ -1678,6 +1683,9 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 [arxiv 2025.10] Character Mixing for Video Generation  [[PDF](https://arxiv.org/pdf/2510.05093),[Page](https://tingtingliao.github.io/mimix/)] ![Code](https://img.shields.io/github/stars/TingtingLiao/mimix?style=social&label=Star)
 
 [arxiv 2025.10]  Kaleido: Open-Sourced Multi-Subject Reference Video Generation Model [[PDF](https://arxiv.org/abs/2510.18573),[Page](https://github.com/CriliasMiller/Kaleido-OpenSourced)] ![Code](https://img.shields.io/github/stars/CriliasMiller/Kaleido-OpenSourced?style=social&label=Star)
+
+[arxiv 2025.10]  BachVid: Training-Free Video Generation with Consistent Background and Character [[PDF](https://arxiv.org/abs/2510.21696),[Page](https://wolfball.github.io/bachvid)] ![Code](https://img.shields.io/github/stars/wolfball/BachVid?style=social&label=Star)
+
 
 [arxiv 2025.10]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -2186,6 +2194,8 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 [arxiv 2025.09] Kling-Foley: Multimodal Diffusion Transformer for High-Quality Video-to-Audio Generation  [[PDF](https://arxiv.org/abs/2506.19774),[Page](https://klingfoley.github.io/Kling-Foley/)] ![Code](https://img.shields.io/github/stars/klingfoley/Kling-Foley?style=social&label=Star)
 
 [arxiv 2025.10] Clink! Chop! Thud! — Learning Object Sounds from Real-World Interactions  [[PDF](https://arxiv.org/abs/2510.02313),[Page](https://clink-chop-thud.github.io/)]
+
+[arxiv 2025.10]  Foley Control: Aligning a Frozen Latent Text-to-Audio Model to Video [[PDF](https://stability-ai.github.io/foleycontrol.github.io/FoleyControl/Foley_Control_Final.pdf),[Page](https://stability-ai.github.io/foleycontrol.github.io/)] 
 
 [arxiv 2025.10]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -2897,6 +2907,9 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 [arxiv 2025.09]  LatticeWorld: A Multimodal Large Language Model-Empowered Framework for Interactive Complex World Generation [[PDF](https://arxiv.org/pdf/2509.05263)]
 
 [arxiv 2025.09] Hunyuan3D-Omni: A Unified Framework for Controllable Generation of 3D Assets  [[PDF](https://arxiv.org/abs/2509.21245),[Page](https://github.com/Tencent-Hunyuan/Hunyuan3D-Omni)] ![Code](https://img.shields.io/github/stars/Tencent-Hunyuan/Hunyuan3D-Omni?style=social&label=Star)
+
+[arxiv 2025.10] Seed3D 1.0: From Images to High-Fidelity Simulation-Ready 3D Assets  [[PDF](https://arxiv.org/abs/2510.19944),[Page](https://seed.bytedance.com/seed3d)] 
+
 
 [arxiv 2025.10]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
