@@ -561,9 +561,13 @@
 
 [arxiv 2025.10] FlowCycle: Pursuing Cycle-Consistent Flows for Text-based Editing  [[PDF](https://arxiv.org/abs/2510.20212),[Page](https://github.com/HKUST-LongGroup/FlowCycle)] ![Code](https://img.shields.io/github/stars/HKUST-LongGroup/FlowCycle?style=social&label=Star)
 
+[arxiv 2025.10]  Group-Relative Attention Guidance for Image Editing [[PDF](https://arxiv.org/abs/2510.24657),[Page](https://github.com/little-misfit/GRAG-Image-Editing)] ![Code](https://img.shields.io/github/stars/little-misfit/GRAG-Image-Editing?style=social&label=Star)
+
+[arxiv 2025.10]  RegionE: Adaptive Region-Aware Generation for Efficient Image Editing [[PDF](https://arxiv.org/abs/2510.25590),[Page](https://github.com/Peyton-Chen/RegionE)] ![Code](https://img.shields.io/github/stars/Peyton-Chen/RegionE?style=social&label=Star)
+
+[arxiv 2025.10]  SplitFlow: Flow Decomposition for Inversion-Free Text-to-Image Editing [[PDF](https://arxiv.org/abs/2510.25970)]
 
 [arxiv 2025.10]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
-
 
 ## end of editing 
 
@@ -1206,6 +1210,8 @@
 
 [arxiv 2025.10] Go with Your Gut: Scaling Confidence for Autoregressive Image Generation  [[PDF](https://arxiv.org/abs/2509.26376),[Page](https://github.com/EnVision-Research/ScalingAR)] ![Code](https://img.shields.io/github/stars/EnVision-Research/ScalingAR?style=social&label=Star)
 
+[arxiv 2025.10] FARMER: Flow AutoRegressive Transformer over Pixels  [[PDF](https://arxiv.org/abs/2510.23588)]
+
 
 [arxiv 2025.10]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -1492,6 +1498,9 @@
 [arxiv 2025.07] WordCraft: Interactive Artistic Typography with Attention Awareness and Noise Blending  [[PDF](https://arxiv.org/pdf/2507.09573)]
 
 [arxiv 2025.10]  SceneTextStylizer: A Training-Free Scene Text Style Transfer Framework with Diffusion Model [[PDF](https://arxiv.org/abs/2510.10910)]
+
+[arxiv 2025.10] OmniText: A Training-Free Generalist for Controllable Text-Image Manipulation  [[PDF](https://arxiv.org/abs/2510.24093)]
+
 
 [arxiv 2025.10]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -1982,6 +1991,7 @@
 
 [arxiv 2025.10] SIGMA-GEN: Structure and Identity Guided Multi-subject Assembly for Image Generation  [[PDF](https://arxiv.org/pdf/%3CARXIV%20PAPER%20ID%3E.pdf),[Page](https://oindrilasaha.github.io/SIGMA-Gen/)] ![Code](https://img.shields.io/github/stars/oindrilasaha/SIGMA-Gen-Code?style=social&label=Star)
 
+[arxiv 2025.10] FreeFuse: Multi-Subject LoRA Fusion via Auto Masking at Test Time  [[PDF](https://arxiv.org/pdf/2510.23515),[Page](https://future-item.github.io/FreeFuse/)] 
 
 [arxiv 2025.10]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -2106,6 +2116,7 @@
 
 [arxiv 2025.09] TaleDiffusion: Multi-Character Story Generation with Dialogue Rendering  [[PDF](),[Page](https://github.com/ayanban011/TaleDiffusion)] ![Code](https://img.shields.io/github/stars/ayanban011/TaleDiffusion?style=social&label=Star)
 
+[arxiv 2025.10]  SceneDecorator: Towards Scene-Oriented Story Generation with Scene Planning and Scene Consistency [[PDF](https://arxiv.org/pdf/2510.22994),[Page](https://lulupig12138.github.io/SceneDecorator/)] ![Code](https://img.shields.io/github/stars/lulupig12138/SceneDecorator?style=social&label=Star)
 
 [arxiv 2025.10]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -2240,6 +2251,7 @@ Cross-Attention Control [[PDF](https://arxiv.org/abs/2402.13404)]
 
 [arxiv 2025.10] InternSVG: Towards Unified SVG Tasks with Multimodal Large Language Models  [[PDF](https://arxiv.org/abs/2510.11341),[Page](https://hmwang2002.github.io/release/internsvg/)] ![Code](https://img.shields.io/github/stars/hmwang2002/InternSVG?style=social&label=Star)
 
+[arxiv 2025.10] RoboSVG: A Unified Framework for Interactive SVG Generation with Multi-modal Guidance  [[PDF](https://arxiv.org/abs/2510.22684)]
 
 [arxiv 2025.10]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -2595,6 +2607,7 @@ Creative Layout-to-Image Generation [[PDF](https://arxiv.org/pdf/2412.03859),[Pa
 
 [arxiv 2025.10] LayerComposer: Interactive Personalized T2I via Spatially-Aware Layered Canvas  [[PDF](https://arxiv.org/abs/2510.20820),[Page](https://snap-research.github.io/layercomposer/)] 
 
+[arxiv 2025.10] Sketch-to-Layout: Sketch-Guided Multimodal Layout Generation  [[PDF](https://arxiv.org/abs/2510.27632),[Page](https://github.com/google-deepmind/sketch_to_layout)] ![Code](https://img.shields.io/github/stars/google-deepmind/sketch_to_layout?style=social&label=Star)
 
 [arxiv 2025.10]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -3471,6 +3484,7 @@ Creative Layout-to-Image Generation [[PDF](https://arxiv.org/pdf/2412.03859),[Pa
 
 [arxiv 2025.10] Sparser Block-Sparse Attention via Token Permutation  [[PDF](https://arxiv.org/abs/2510.21270),[Page](https://github.com/xinghaow99/pbs-attn)] ![Code](https://img.shields.io/github/stars/xinghaow99/pbs-attn?style=social&label=Star)
 
+[arxiv 2025.10] ETC: training-free diffusion models acceleration with Error-aware Trend Consistency  [[PDF](https://arxiv.org/abs/2510.24129)]
 
 [arxiv 2025.10]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -3727,6 +3741,7 @@ Creative Layout-to-Image Generation [[PDF](https://arxiv.org/pdf/2412.03859),[Pa
 
 [arxiv 2025.10] Sample By Step, Optimize By Chunk: Chunk-Level GRPO For Text-to-Image Generation  [[PDF](https://arxiv.org/abs/2510.21583)]
 
+[arxiv 2025.10] GRPO-Guard: Mitigating Implicit Over-Optimization in Flow Matching via Regulated Clipping  [[PDF](https://arxiv.org/abs/2510.22319),[Page](https://jingw193.github.io/GRPO-Guard/#)] 
 
 [arxiv 2025.10]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -3856,7 +3871,7 @@ Creative Layout-to-Image Generation [[PDF](https://arxiv.org/pdf/2412.03859),[Pa
 
 [arxiv 2025.10]  Latent Diffusion Model without Variational Autoencoder [[PDF](https://arxiv.org/abs/2510.15301),[Page](https://github.com/shiml20/SVG)] ![Code](https://img.shields.io/github/stars/shiml20/SVG?style=social&label=Star)
 
-
+[arxiv 2025.10] Routing Matters in MoE: Scaling Diffusion Transformers with Explicit Routing Guidance  [[PDF](https://arxiv.org/abs/2510.24711)]
 [arxiv 2025.10]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 
