@@ -766,6 +766,7 @@
 
 [arxiv 2025.10]  Authentic Discrete Diffusion Model [[PDF](https://arxiv.org/abs/2510.01047)]
 
+[arxiv 2025.10]  Blockwise Flow Matching: Improving Flow Matching Models For Efficient High-Quality Generation [[PDF](https://arxiv.org/abs/2510.21167)]
 
 
 [arxiv 2025.10]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
@@ -3161,6 +3162,9 @@ Creative Layout-to-Image Generation [[PDF](https://arxiv.org/pdf/2412.03859),[Pa
 [arxiv 2025.10] Stroke2Sketch: Harnessing Stroke Attributes for Training-Free Sketch Generation  [[PDF](https://arxiv.org/abs/2510.16319),[Page](https://github.com/rane7/Stroke2Sketch)] ![Code](https://img.shields.io/github/stars/rane7/Stroke2Sketch?style=social&label=Star)
 
 
+[arxiv 2025.10] Visual Diffusion Models are Geometric Solvers  [[PDF](https://arxiv.org/abs/2510.21697),[Page](https://kariander1.github.io/visual-geo-solver/)] ![Code](https://img.shields.io/github/stars/kariander1/visual-geo-solver?style=social&label=Star)
+
+
 [arxiv 2025.10]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 
@@ -3465,6 +3469,9 @@ Creative Layout-to-Image Generation [[PDF](https://arxiv.org/pdf/2412.03859),[Pa
 
 [arxiv 2025.10] AlphaFlow: Understanding and Improving MeanFlow Models  [[PDF](https://arxiv.org/abs/2510.20771),[Page](https://github.com/snap-research/alphaflow)] ![Code](https://img.shields.io/github/stars/snap-research/alphaflow?style=social&label=Star)
 
+[arxiv 2025.10] Sparser Block-Sparse Attention via Token Permutation  [[PDF](https://arxiv.org/abs/2510.21270),[Page](https://github.com/xinghaow99/pbs-attn)] ![Code](https://img.shields.io/github/stars/xinghaow99/pbs-attn?style=social&label=Star)
+
+
 [arxiv 2025.10]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 
@@ -3717,6 +3724,9 @@ Creative Layout-to-Image Generation [[PDF](https://arxiv.org/pdf/2412.03859),[Pa
 [arxiv 2025.10] G2RPO: Granular GRPO for Precise Reward in Flow Models  [[PDF](https://arxiv.org/abs/2510.01982),[Page](https://github.com/bcmi/Granular-GRPO)] ![Code](https://img.shields.io/github/stars/bcmi/Granular-GRPO?style=social&label=Star)
 
 [arxiv 2025.10]  OmniQuality-R: Advancing Reward Models through All-Encompassing Quality Assessment [[PDF](https://arxiv.org/abs/2510.10609),[Page](https://github.com/yeppp27/OmniQuality-R)] ![Code](https://img.shields.io/github/stars/yeppp27/OmniQuality-R?style=social&label=Star)
+
+[arxiv 2025.10] Sample By Step, Optimize By Chunk: Chunk-Level GRPO For Text-to-Image Generation  [[PDF](https://arxiv.org/abs/2510.21583)]
+
 
 [arxiv 2025.10]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
