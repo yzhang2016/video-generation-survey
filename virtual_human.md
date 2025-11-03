@@ -129,6 +129,7 @@
 
 [arxiv 2025.10] OmniMotion-X: Versatile Multimodal Whole-Body Motion Generation  [[PDF](https://arxiv.org/abs/2510.19789),[Page](https://github.com/GuoweiXu368/OmniMotion-X)] ![Code](https://img.shields.io/github/stars/GuoweiXu368/OmniMotion-X?style=social&label=Star)
 
+[arxiv 2025.10] Group Inertial Poser: Multi-Person Pose and Global Translation from Sparse Inertial Sensors and Ultra-Wideband Ranging  [[PDF](https://arxiv.org/abs/2510.21654),[Page](https://github.com/eth-siplab/GroupInertialPoser)] 
 
 [arxiv 2025.10]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
