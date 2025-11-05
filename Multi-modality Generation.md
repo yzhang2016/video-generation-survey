@@ -221,6 +221,7 @@
 
 [arxiv 2025.09] AdsQA: Towards Advertisement Video Understanding  [[PDF](https://arxiv.org/pdf/2509.08621),[Page](https://github.com/TsinghuaC3I/AdsQA)] ![Code](https://img.shields.io/github/stars/TsinghuaC3I/AdsQA?style=social&label=Star) 
 
+[arxiv 2025.11]  VidEmo: Affective-Tree Reasoning for Emotion-Centric Video Foundation Models [[PDF](https://arxiv.org/abs/2511.02712)]
 
 [arxiv 2025.11]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
 
