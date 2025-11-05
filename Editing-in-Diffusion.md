@@ -2254,6 +2254,9 @@ Cross-Attention Control [[PDF](https://arxiv.org/abs/2402.13404)]
 
 [arxiv 2025.10] RoboSVG: A Unified Framework for Interactive SVG Generation with Multi-modal Guidance  [[PDF](https://arxiv.org/abs/2510.22684)]
 
+[arxiv 2025.11]  VCode: a Multimodal Coding Benchmark with SVG as Symbolic Visual Representation [[PDF](https://arxiv.org/abs/2511.02778),[Page](https://csu-jpg.github.io/VCode)] ![Code](https://img.shields.io/github/stars/CSU-JPG/VCode?style=social&label=Star)
+
+
 [arxiv 2025.11]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 
@@ -3649,6 +3652,8 @@ Creative Layout-to-Image Generation [[PDF](https://arxiv.org/pdf/2412.03859),[Pa
   [[PDF](https://arxiv.org/abs/2510.19808),[Page](https://github.com/apple/pico-banana-400k)] ![Code](https://img.shields.io/github/stars/apple/pico-banana-400k?style=social&label=Star)
 
 [arxiv 2025.11]  UniREditBench: A Unified Reasoning-based Image Editing Benchmark [[PDF](https://arxiv.org/abs/2511.01295),[Page](https://maplebb.github.io/UniREditBench/)] ![Code](https://img.shields.io/github/stars/Maplebb/UniREditBench?style=social&label=Star)
+
+[arxiv 2025.11]  When Visualizing is the First Step to Reasoning: MIRA, a Benchmark for Visual Chain-of-Thought [[PDF](https://arxiv.org/abs/2511.02779),[Page](https://mira-benchmark.github.io/)] 
 
 
 [arxiv 2025.11]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
