@@ -1701,6 +1701,7 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2025.10]  BachVid: Training-Free Video Generation with Consistent Background and Character [[PDF](https://arxiv.org/abs/2510.21696),[Page](https://wolfball.github.io/bachvid)] ![Code](https://img.shields.io/github/stars/wolfball/BachVid?style=social&label=Star)
 
+[arxiv 2025.11] BindWeave: Subject-Consistent Video Generation via Cross-Modal Integration  [[PDF](https://arxiv.org/pdf/2510.00438),[Page](https://lzy-dot.github.io/BindWeave/)] ![Code](https://img.shields.io/github/stars/bytedance/BindWeave?style=social&label=Star)
 
 [arxiv 2025.11]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
