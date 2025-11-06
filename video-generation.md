@@ -1393,6 +1393,9 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2025.10] VideoCanvas: Unified Video Completion from Arbitrary Spatiotemporal Patches via In-Context Conditioning  [[PDF](https://arxiv.org/abs/2510.08555),[Page](https://onevfall.github.io/project_page/videocanvas/#teaser)]
 
+[arxiv 2025.11] Unified Long Video Inpainting and Outpainting via Overlapping High-Order Co-Denoising  [[PDF](https://arxiv.org/pdf/2511.03272)]
+
+
 [arxiv 2025.11]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 
@@ -2171,7 +2174,7 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 [arxiv 2025.11]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 
-## Audio and video Generation
+## Joint Generation
 [arxiv 2025.04]  JavisDiT: Joint Audio-Video Diffusion Transformer with Hierarchical Spatio-Temporal Prior Synchronization [[PDF](https://arxiv.org/pdf/2503.23377.pdf),[Page](https://javisdit.github.io/)] ![Code](https://img.shields.io/github/stars/JavisDiT/JavisDiT?style=social&label=Star)
 
 [arxiv 2025.06]  Audio-Sync Video Generation with Multi-Stream Temporal Control [[PDF](https://arxiv.org/pdf/2506.08003),[Page](https://hjzheng.net/projects/MTV/)] ![Code](https://img.shields.io/github/stars/suimuc/MTV_Framework?style=social&label=Star)
@@ -2185,6 +2188,9 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 [arxiv 2025.10]  Ovi: Twin Backbone Cross-Modal Fusion for Audio-Video Generation [[PDF](https://arxiv.org/abs/2510.01284),[Page](https://aaxwaz.github.io/Ovi/)] ![Code](https://img.shields.io/github/stars/character-ai/Ovi?style=social&label=Star)
 
 [arxiv 2025.10] Taming Text-to-Sounding Video Generation via Advanced Modality Condition and Interaction  [[PDF](https://arxiv.org/abs/2510.03117),[Page](https://bridgedit-t2sv.github.io/)] 
+
+[arxiv 2025.11]  UniAVGen: Unified Audio and Video Generation with Asymmetric Cross-Modal Interactions [[PDF](https://arxiv.org/pdf/2511.03334),[Page](https://mcg-nju.github.io/UniAVGen/)] 
+
 
 [arxiv 2025.11]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
