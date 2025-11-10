@@ -213,6 +213,9 @@
 
 [arxiv 2025.10]  OmniVinci: Enhancing Architecture and Data for Omni-Modal Understanding LLM [[PDF](https://arxiv.org/abs/2510.15870),[Page](https://nvlabs.github.io/OmniVinci/)] ![Code](https://img.shields.io/github/stars/NVlabs/OmniVinci?style=social&label=Star) 
 
+[arxiv 2025.11] NVIDIA Nemotron Nano V2 VL  [[PDF](https://arxiv.org/pdf/2511.03929)]
+
+
 [arxiv 2025.11]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
 
 
