@@ -3490,6 +3490,9 @@ Creative Layout-to-Image Generation [[PDF](https://arxiv.org/pdf/2412.03859),[Pa
 
 [arxiv 2025.10] ETC: training-free diffusion models acceleration with Error-aware Trend Consistency  [[PDF](https://arxiv.org/abs/2510.24129)]
 
+[arxiv 2025.11] FreeControl: Efficient, Training-Free Structural Control via One-Step Attention Extraction  [[PDF](https://arxiv.org/abs/2511.05219)]
+
+
 [arxiv 2025.11]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 
