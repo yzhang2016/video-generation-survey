@@ -283,6 +283,7 @@
 
 [arxiv 2025.10] Vgent: Graph-based Retrieval-Reasoning-Augmented Generation For Long Video Understanding  [[PDF](https://arxiv.org/abs/2510.14032),[Page](https://xiaoqian-shen.github.io/Vgent/)] ![Code](https://img.shields.io/github/stars/xiaoqian-shen/Vgent?style=social&label=Star) 
 
+[arxiv 2025.11]  TimeSearch-R: Adaptive Temporal Search for Long-Form Video Understanding via Self-Verification Reinforcement Learning [[PDF](https://arxiv.org/abs/2511.05489),[Page](https://github.com/Time-Search/TimeSearch-R)] ![Code](https://img.shields.io/github/stars/Time-Search/TimeSearch-R?style=social&label=Star) 
 
 [arxiv 2025.11]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
 
