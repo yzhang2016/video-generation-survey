@@ -504,6 +504,13 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 [arxiv 2025.11]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 
+## autoregressive
+[arxiv 2025.11] InfinityStar: Unified Spacetime AutoRegressive Modeling for Visual Generation  [[PDF](https://arxiv.org/abs/2511.04675),[Page](https://github.com/FoundationVision/InfinityStar)] ![Code](https://img.shields.io/github/stars/FoundationVision/InfinityStar?style=social&label=Star)
+
+[arxiv 2025.11]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
+
+
+
 ## LLMs-based 
 [arxiv 2023.12]VideoPoet: A Large Language Model for Zero-Shot Video Generation [[PDF](https://arxiv.org/abs/2312.14125),[Page](http://sites.research.google/videopoet/)]
 
@@ -673,6 +680,9 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 [arxiv 2025.09] GenCompositor: Generative Video Compositing with Diffusion Transformer  [[PDF](https://arxiv.org/abs/2509.02460),[Page](https://gencompositor.github.io/)] ![Code](https://img.shields.io/github/stars/TencentARC/GenCompositor?style=social&label=Star)
 
 [arxiv 2025.10]  CoMo: Compositional Motion Customization for Text-to-Video Generation [[PDF](https://arxiv.org/abs/2510.23007),[Page](https://como6.github.io/)] 
+
+[arxiv 2025.11] RISE-T2V: Rephrasing and Injecting Semantics with LLM for Expansive Text-to-Video Generation  [[PDF](https://arxiv.org/pdf/2511.04317),[Page](https://rise-t2v.github.io/)]
+
 
 [arxiv 2025.11]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -922,6 +932,10 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 
 
+## reasoning 
+
+
+[arxiv 2025.11]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 
 ## Stereo Video Generation 
@@ -2689,6 +2703,8 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 [arxiv 2025.10] Are Video Models Ready as Zero-Shot Reasoners? An Empirical Study with the MME-CoF Benchmark  [[PDF](https://arxiv.org/pdf/2510.26802),[Page](https://video-cof.github.io/)] ![Code](https://img.shields.io/github/stars/ZiyuGuo99/MME-CoF?style=social&label=Star)
 
 [arxiv 2025.10] LoCoT2V-Bench: A Benchmark for Long-Form and Complex Text-to-Video Generation  [[PDF](https://arxiv.org/pdf/2510.26412)]
+
+[arxiv 2025.11] Thinking with Video: Video Generation as a Promising Multimodal Reasoning Paradigm  [[PDF](https://arxiv.org/abs/2511.04570),[Page](https://thinking-with-video.github.io/)] ![Code](https://img.shields.io/github/stars/tongjingqi/Thinking-with-Video?style=social&label=Star)
 
 [arxiv 2025.11]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
