@@ -2007,6 +2007,8 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2025.10] MATRIX: Mask Track Alignment for Interaction-aware Video Generation  [[PDF](https://arxiv.org/abs/2510.07310),[Page](https://cvlab-kaist.github.io/MATRIX/)] ![Code](https://img.shields.io/github/stars/cvlab-kaist/MATRIX?style=social&label=Star)
 
+[arxiv 2025.11] StreamDiffusionV2: A Streaming System for Dynamic and Interactive Video Generation  [[PDF](https://arxiv.org/abs/2511.07399),[Page](http://streamdiffusionv2.github.io/)] ![Code](https://img.shields.io/github/stars/chenfengxu714/StreamDiffusionV2?style=social&label=Star)
+
 
 [arxiv 2025.11]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -2829,6 +2831,8 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 [arxiv 2025.11]  Towards One-Step Causal Video Generation via Adversarial Self-Distillation [[PDF](https://arxiv.org/abs/2511.01419),[Page](https://github.com/BigAandSmallq/SAD)] ![Code](https://img.shields.io/github/stars/BigAandSmallq/SAD?style=social&label=Star)
 
 [arxiv 2025.11] MotionStream: Real-Time Video Generation with Interactive Motion Controls  [[PDF](https://arxiv.org/abs/2511.01266),[Page](https://joonghyuk.com/motionstream-web/)] ![Code](https://img.shields.io/github/stars/alex4727/motionstream?style=social&label=Star)
+
+[arxiv 2025.11] StreamDiffusionV2: A Streaming System for Dynamic and Interactive Video Generation  [[PDF](https://arxiv.org/abs/2511.07399),[Page](http://streamdiffusionv2.github.io/)] ![Code](https://img.shields.io/github/stars/chenfengxu714/StreamDiffusionV2?style=social&label=Star)
 
 
 [arxiv 2025.11]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
