@@ -567,6 +567,9 @@
 
 [arxiv 2025.10]  SplitFlow: Flow Decomposition for Inversion-Free Text-to-Image Editing [[PDF](https://arxiv.org/abs/2510.25970)]
 
+[arxiv 2025.11]  Personalized Image Editing in Text-to-Image Diffusion Models via Collaborative Direct Preference Optimization [[PDF](https://personalized-editing.github.io/),[Page](https://personalized-editing.github.io/)] 
+
+
 [arxiv 2025.11]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 ## end of editing 
@@ -3079,6 +3082,7 @@ Creative Layout-to-Image Generation [[PDF](https://arxiv.org/pdf/2412.03859),[Pa
 
 [arxiv 2025.09] One-shot Embroidery Customization via Contrastive LoRA Modulation  [[PDF](https://arxiv.org/pdf/2509.18948),[Page](https://style3d.github.io/embroidery_customization/)] ![Code](https://img.shields.io/github/stars/Style3D/embroidery_customization-impl?style=social&label=Star)
 
+[arxiv 2025.11] V-Shuffle: Zero-Shot Style Transfer via Value Shuffle  [[PDF](https://arxiv.org/abs/2511.06365),[Page](https://github.com/XinR-Tang/V-Shuffle)] ![Code](https://img.shields.io/github/stars/XinR-Tang/V-Shuffle?style=social&label=Star)
 
 [arxiv 2025.11]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
