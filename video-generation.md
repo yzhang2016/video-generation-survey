@@ -1617,6 +1617,7 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2025.10] Generating Human Motion Videos using a Cascaded Text-to-Video Framework  [[PDF](https://arxiv.org/abs/2510.03909),[Page](https://hyelinnam.github.io/Cameo/)] ![Code](https://img.shields.io/github/stars/HyelinNAM/Cameo?style=social&label=Star)
 
+[arxiv 2025.11] RelightMaster: Precise Video Relighting with Multi-plane Light Images  [[PDF](https://arxiv.org/abs/2511.06271),[Page](https://wkbian.github.io/Projects/RelightMaster/)] 
 
 [arxiv 2025.11]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -1907,7 +1908,6 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2025.08]  MIDAS: Multimodal Interactive Digital-humAn Synthesis via Real-time Autoregressive Video Generation [[PDF](https://arxiv.org/pdf/2508.19320),[Page](https://chenmingthu.github.io/milm/)] 
 
-
 [arxiv 2025.08] InfinityHuman: Towards Long-Term Audio-Driven Human  [[PDF](https://arxiv.org/abs/2508.20210),[Page](https://infinityhuman.github.io/)] 
 
 [arxiv 2025.09]  HuMo: Human-Centric Video Generation via Collaborative Multi-Modal Conditioning [[PDF](https://arxiv.org/abs/2509.08519),[Page](https://phantom-video.github.io/HuMo/)] ![Code](https://img.shields.io/github/stars/Phantom-video/HuMo?style=social&label=Star)
@@ -1916,9 +1916,9 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2025.10] X-Streamer: Unified Human World Modeling with Audiovisual Interaction  [[PDF](https://arxiv.org/abs/2509.21574),[Page](https://byteaigc.github.io/X-Streamer/)] 
 
-
 [arxiv 2025.10]  VividAnimator: An End-to-End Audio and Pose-driven Half-Body Human Animation Framework [[PDF](https://arxiv.org/pdf/2510.10269)]
 
+[arxiv 2025.11] ConsistTalk: Intensity Controllable Temporally Consistent Talking Head Generation with Diffusion Noise Search  [[PDF](https://arxiv.org/pdf/2511.06833)]
 
 [arxiv 2025.11]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
