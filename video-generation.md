@@ -539,6 +539,9 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 ## agent
 [arxiv 2025.10] VISTA: A Test-Time Self-Improving Video Generation Agent  [[PDF](https://arxiv.org/abs/2510.15831),[Page](https://g-vista.github.io/)] 
 
+[arxiv 2025.11]  UniVA: Universal Video Agent towards Open-Source Next-Generation Video Generalist [[PDF](https://arxiv.org/pdf/2511.08521),[Page](https://univa.online/)] ![Code](https://img.shields.io/github/stars/univa-agent/univa?style=social&label=Star)
+
+
 [arxiv 2025.11]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 
@@ -1093,6 +1096,9 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 [arxiv 2025.10] SAGE: Structure-Aware Generative Video Transitions between Diverse Clips  [[PDF](https://arxiv.org/abs/2510.24667),[Page](https://kan32501.github.io/sage.github.io/)]
 
 [arxiv 2025.10]  VFXMaster: Unlocking Dynamic Visual Effect Generation via In-Context Learning [[PDF](https://arxiv.org/abs/2510.25772),[Page](https://libaolu312.github.io/VFXMaster/)] ![Code](https://img.shields.io/github/stars/libaolu312/VFXMaster?style=social&label=Star)
+
+[arxiv 2025.11]  Time-to-Move: Training-Free Motion Controlled Video Generation via Dual-Clock Denoising [[PDF](https://arxiv.org/abs/2511.08633),[Page](https://time-to-move.github.io/)] ![Code](https://img.shields.io/github/stars/time-to-move/TTM?style=social&label=Star)
+
 
 [arxiv 2025.11]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -2951,6 +2957,7 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2025.11]  World Simulation with Video Foundation Models for Physical AI [[PDF](https://arxiv.org/abs/2511.00062),[Page](https://github.com/nvidia-cosmos/cosmos-predict2.5)] ![Code](https://img.shields.io/github/stars/nvidia-cosmos/cosmos-predict2.5?style=social&label=Star)
 
+[arxiv 2025.11] PAN: A World Model for General, Interactable, and Long-Horizon World Simulation  [[PDF](https://arxiv.org/abs/2511.09057)]
 
 [arxiv 2025.11]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -3111,9 +3118,6 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 [arxiv 2022.10]DIFFUSEQ: SEQUENCE TO SEQUENCE TEXT GENERATION WITH DIFFUSION MODELS [[PDF](https://arxiv.org/pdf/2210.08933.pdf)]
 
 [arxiv 2023.02]The Flan Collection: Designing Data and Methods for Effective Instruction Tuning [[PDF](https://arxiv.org/pdf/2301.13688.pdf)]
-
-
-
 
 
 ## Speech 
