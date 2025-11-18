@@ -2891,6 +2891,9 @@ Creative Layout-to-Image Generation [[PDF](https://arxiv.org/pdf/2412.03859),[Pa
 
 [arxiv 2025.10] DyPE: Dynamic Position Extrapolation for Ultra High Resolution Diffusion  [[PDF](https://arxiv.org/abs/2510.20766),[Page](https://noamissachar.github.io/DyPE/)] ![Code](https://img.shields.io/github/stars/guyyariv/DyPE?style=social&label=Star)
 
+[arxiv 2025.11]  One Small Step in Latent, One Giant Leap for Pixels: Fast Latent Upscale Adapter for Your Diffusion Models [[PDF](https://arxiv.org/abs/2511.10629)]
+
+
 [arxiv 2025.11]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 
@@ -3083,6 +3086,8 @@ Creative Layout-to-Image Generation [[PDF](https://arxiv.org/pdf/2412.03859),[Pa
 [arxiv 2025.09] One-shot Embroidery Customization via Contrastive LoRA Modulation  [[PDF](https://arxiv.org/pdf/2509.18948),[Page](https://style3d.github.io/embroidery_customization/)] ![Code](https://img.shields.io/github/stars/Style3D/embroidery_customization-impl?style=social&label=Star)
 
 [arxiv 2025.11] V-Shuffle: Zero-Shot Style Transfer via Value Shuffle  [[PDF](https://arxiv.org/abs/2511.06365),[Page](https://github.com/XinR-Tang/V-Shuffle)] ![Code](https://img.shields.io/github/stars/XinR-Tang/V-Shuffle?style=social&label=Star)
+
+[arxiv 2025.11]  A Style is Worth One Code: Unlocking Code-to-Style Image Generation with Discrete Style Space [[PDF](https://arxiv.org/pdf/2511.10555),[Page](https://github.com/Kwai-Kolors.github.io/CoTyle)]
 
 [arxiv 2025.11]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -3662,6 +3667,7 @@ Creative Layout-to-Image Generation [[PDF](https://arxiv.org/pdf/2412.03859),[Pa
 
 [arxiv 2025.11]  When Visualizing is the First Step to Reasoning: MIRA, a Benchmark for Visual Chain-of-Thought [[PDF](https://arxiv.org/abs/2511.02779),[Page](https://mira-benchmark.github.io/)] 
 
+[arxiv 2025.11] Benchmarking Diversity in Image Generation via Attribute-Conditional Human Evaluation  [[PDF](https://arxiv.org/pdf/2511.10547)]
 
 [arxiv 2025.11]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
