@@ -3089,6 +3089,11 @@ Creative Layout-to-Image Generation [[PDF](https://arxiv.org/pdf/2412.03859),[Pa
 
 [arxiv 2025.11]  A Style is Worth One Code: Unlocking Code-to-Style Image Generation with Discrete Style Space [[PDF](https://arxiv.org/pdf/2511.10555),[Page](https://github.com/Kwai-Kolors.github.io/CoTyle)]
 
+[arxiv 2025.11] Parameter-Efficient MoE LoRA for Few-Shot Multi-Style Editing  [[PDF](https://arxiv.org/abs/2511.11236)]
+
+[arxiv 2025.11] NP-LoRA: Null Space Projection Unifies Subject and Style in LoRA Fusion  [[PDF](https://arxiv.org/pdf/2511.11051)]
+
+
 [arxiv 2025.11]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 
@@ -3131,6 +3136,7 @@ Creative Layout-to-Image Generation [[PDF](https://arxiv.org/pdf/2412.03859),[Pa
 
 [arxiv 2025.08]  Follow-Your-Instruction: A Comprehensive MLLM Agent for World Data Synthesis [[PDF](https://arxiv.org/abs/2508.05580)]
 
+[arxiv 2025.11]  ImAgent: A Unified Multimodal Agent Framework for Test-Time Scalable Image Generation [[PDF](https://arxiv.org/pdf/2511.11483)]
 
 [arxiv 2025.11]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
