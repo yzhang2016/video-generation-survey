@@ -285,6 +285,9 @@
 
 [arxiv 2025.11]  TimeSearch-R: Adaptive Temporal Search for Long-Form Video Understanding via Self-Verification Reinforcement Learning [[PDF](https://arxiv.org/abs/2511.05489),[Page](https://github.com/Time-Search/TimeSearch-R)] ![Code](https://img.shields.io/github/stars/Time-Search/TimeSearch-R?style=social&label=Star) 
 
+[arxiv 2025.11]  Seeing the Forest and the Trees: Query-Aware Tokenizer for Long-Video Multimodal Language Models [[PDF](https://arxiv.org/abs/2511.11910),[Page](https://github.com/Siyou-Li/QTSplus)] ![Code](https://img.shields.io/github/stars/Siyou-Li/QTSplus?style=social&label=Star) 
+
+
 [arxiv 2025.11]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
 
 
