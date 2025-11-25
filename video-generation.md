@@ -507,6 +507,8 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 ## autoregressive
 [arxiv 2025.11] InfinityStar: Unified Spacetime AutoRegressive Modeling for Visual Generation  [[PDF](https://arxiv.org/abs/2511.04675),[Page](https://github.com/FoundationVision/InfinityStar)] ![Code](https://img.shields.io/github/stars/FoundationVision/InfinityStar?style=social&label=Star)
 
+[arxiv 2025.11] Adaptive Begin-of-Video Tokens for Autoregressive Video Diffusion Models  [[PDF](https://arxiv.org/abs/2511.12099)]
+
 [arxiv 2025.11]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 
@@ -2840,6 +2842,7 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2025.11] StreamDiffusionV2: A Streaming System for Dynamic and Interactive Video Generation  [[PDF](https://arxiv.org/abs/2511.07399),[Page](http://streamdiffusionv2.github.io/)] ![Code](https://img.shields.io/github/stars/chenfengxu714/StreamDiffusionV2?style=social&label=Star)
 
+[arxiv 2025.11]  PipeDiT: Accelerating Diffusion Transformers in Video Generation with Task Pipelining and Model Decoupling [[PDF](https://arxiv.org/abs/2511.12056)]
 
 [arxiv 2025.11]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
