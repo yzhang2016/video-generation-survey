@@ -501,6 +501,9 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2025.10] LongCat-Video Technical Report  [[PDF](https://arxiv.org/abs/2510.22200),[Page](https://github.com/meituan-longcat/LongCat-Video)] ![Code](https://img.shields.io/github/stars/meituan-longcat/LongCat-Video?style=social&label=Star)
 
+[arxiv 2025.11]  Kandinsky 5.0: A Family of Foundation Models for Image and Video Generation [[PDF](https://arxiv.org/abs/2511.14993),[Page](https://kandinskylab.ai/)] ![Code](https://img.shields.io/github/stars/kandinskylab/kandinsky-5?style=social&label=Star)
+
+
 [arxiv 2025.11]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 
@@ -723,6 +726,9 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 ## multi-shot
 [arxiv 2025.10]  MoGA: Mixture-of-Groups Attention for End-to-End Long Video Generation [[PDF](https://arxiv.org/abs/2510.18692),[Page](https://jiawn-creator.github.io/mixture-of-groups-attention/)] ![Code](https://img.shields.io/github/stars/bytedance-fanqie-ai/MoGA?style=social&label=Star)
+
+[arxiv 2025.11] Video-as-Answer: Predict and Generate Next Video Event with Joint-GRPO  [[PDF](https://arxiv.org/abs/2511.16669),[Page](https://video-as-answer.github.io/)] ![Code](https://img.shields.io/github/stars/KlingTeam/VANS?style=social&label=Star)
+
 
 [arxiv 2025.11]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -1366,6 +1372,7 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2025.10]  See4D: Pose-Free 4D Generation via Auto-Regressive Video Inpainting [[PDF](https://arxiv.org/abs/2510.26796),[Page](https://see-4d.github.io/)] 
 
+[arxiv 2025.11] PostCam: Camera-Controllable Novel-View Video Generation with Query-Shared Cross-Attention  [[PDF](https://arxiv.org/abs/2511.17185),[Page](https://cccqaq.github.io/PostCam.github.io/)] ![Code](https://img.shields.io/github/stars/zju3dv/PostCam?style=social&label=Star)
 
 [arxiv 2025.11]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -1730,6 +1737,9 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 [arxiv 2025.11]  ID-Composer: Multi-Subject Video Synthesis with Hierarchical Identity Preservation [[PDF](https://arxiv.org/abs/2511.00511)]
 
 [arxiv 2025.11] BindWeave: Subject-Consistent Video Generation via Cross-Modal Integration  [[PDF](https://arxiv.org/pdf/2510.00438),[Page](https://lzy-dot.github.io/BindWeave/)] ![Code](https://img.shields.io/github/stars/bytedance/BindWeave?style=social&label=Star)
+
+[arxiv 2025.11]  First Frame Is the Place to Go for Video Content Customization [[PDF](https://arxiv.org/abs/2511.15700),[Page](https://firstframego.github.io/)] ![Code](https://img.shields.io/github/stars/zli12321/FFGO-Video-Customization?style=social&label=Star)
+
 
 [arxiv 2025.11]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -2716,6 +2726,10 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2025.11] Thinking with Video: Video Generation as a Promising Multimodal Reasoning Paradigm  [[PDF](https://arxiv.org/abs/2511.04570),[Page](https://thinking-with-video.github.io/)] ![Code](https://img.shields.io/github/stars/tongjingqi/Thinking-with-Video?style=social&label=Star)
 
+[arxiv 2025.11]  VR-Bench: The First Evaluation of Video Models' Reasoning Abilities through Maze-Solving Tasks [[PDF](https://arxiv.org/abs/2511.15065),[Page](https://imyangc7.github.io/VRBench_Web/)] ![Code](https://img.shields.io/github/stars/ImYangC7/VR-Bench?style=social&label=Star)
+
+[arxiv 2025.11]  V-ReasonBench: Toward Unified Reasoning Benchmark Suite for Video Generation Models [[PDF](https://arxiv.org/abs/2511.16668),[Page](https://oahzxl.github.io/VReasonBench/)] ![Code](https://img.shields.io/github/stars/yangluo7/V-ReasonBench?style=social&label=Star)
+
 [arxiv 2025.11]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 
@@ -3127,3 +3141,7 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 [arxiv 2023.01]Neural Codec Language Models are Zero-Shot Text to Speech Synthesizers[[PDF](https://arxiv.org/abs/2301.02111), [Page](https://valle-demo.github.io/)]
 
 [arxiv 2024.09]EMOVA: Empowering Language Models to See, Hear and Speak with Vivid Emotions[[PDF](https://arxiv.org/abs/2409.18042), [Page](https://emova-ollm.github.io/)]
+
+## embodied AI related 
+[arxiv 2025.11]  MiMo-Embodied: X-Embodied Foundation Model Technical Report [[PDF](https://arxiv.org/abs/2511.16518),[Page](https://github.com/XiaomiMiMo/MiMo-Embodied)] ![Code](https://img.shields.io/github/stars/XiaomiMiMo/MiMo-Embodied?style=social&label=Star)
+
