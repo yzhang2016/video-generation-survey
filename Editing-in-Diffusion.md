@@ -1215,6 +1215,8 @@
 
 [arxiv 2025.10] FARMER: Flow AutoRegressive Transformer over Pixels  [[PDF](https://arxiv.org/abs/2510.23588)]
 
+[arxiv 2025.11] Diversity Has Always Been There in Your Visual Autoregressive Models  [[PDF](https://arxiv.org/abs/2511.17074),[Page](https://github.com/wangtong627/DiverseVAR)] ![Code](https://img.shields.io/github/stars/wangtong627/DiverseVAR?style=social&label=Star)
+
 
 [arxiv 2025.11]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -2893,6 +2895,7 @@ Creative Layout-to-Image Generation [[PDF](https://arxiv.org/pdf/2412.03859),[Pa
 
 [arxiv 2025.11]  One Small Step in Latent, One Giant Leap for Pixels: Fast Latent Upscale Adapter for Your Diffusion Models [[PDF](https://arxiv.org/abs/2511.10629)]
 
+[arxiv 2025.11] One-Step Diffusion Transformer for Controllable Real-World Image Super-Resolution  [[PDF](https://arxiv.org/abs/2511.17138)]
 
 [arxiv 2025.11]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -3123,6 +3126,7 @@ Creative Layout-to-Image Generation [[PDF](https://arxiv.org/pdf/2412.03859),[Pa
 
 [arxiv 2025.09] INTERLEAVING REASONING FOR BETTER TEXT-TO-IMAGE GENERATION  [[PDF](https://arxiv.org/pdf/2509.06945),[Page](https://github.com/Osilly/Interleaving-Reasoning-Generation)] ![Code](https://img.shields.io/github/stars/Osilly/Interleaving-Reasoning-Generation?style=social&label=Star)
 
+[arxiv 2025.11]  Thinking-while-Generating: Interleaving Textual Reasoning throughout Visual Generation [[PDF](https://arxiv.org/abs/2511.16671),[Page](https://think-while-gen.github.io/)] ![Code](https://img.shields.io/github/stars/ZiyuGuo99/Thinking-while-Generating?style=social&label=Star)
 
 [arxiv 2025.11]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -3775,6 +3779,9 @@ Creative Layout-to-Image Generation [[PDF](https://arxiv.org/pdf/2412.03859),[Pa
 
 [arxiv 2025.11] Reg-DPO: SFT-Regularized Direct Preference Optimization with GT-Pair for Improving Video Generation  [[PDF](https://arxiv.org/pdf/2511.01450)]
 
+[arxiv 2025.11]  Neighbor GRPO: Contrastive ODE Policy Optimization Aligns Flow Models [[PDF](https://arxiv.org/pdf/2511.16955)]
+
+
 [arxiv 2025.11]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 
@@ -3859,6 +3866,8 @@ Creative Layout-to-Image Generation [[PDF](https://arxiv.org/pdf/2412.03859),[Pa
 [arxiv 2024.09]Taming Diffusion Models for Image Restoration: A Review [[PDF](https://arxiv.org/abs/2409.10353)]
 
 [arxiv 2025.01] An Empirical Study of Autoregressive Pre-training from Videos  [[PDF](https://arxiv.org/pdf/2501.05453),[Page](https://brjathu.github.io/toto/)] 
+
+[arxiv 2025.11]  SAM 3: Segment Anything with Concepts [[PDF](https://arxiv.org/pdf/2511.16719),[Page](https://github.com/facebookresearch/sam3)] ![Code](https://img.shields.io/github/stars/facebookresearch/sam3?style=social&label=Star)
 
 
 [arxiv 2025.11]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
