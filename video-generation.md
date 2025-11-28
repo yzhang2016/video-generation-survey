@@ -503,6 +503,7 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2025.11]  Kandinsky 5.0: A Family of Foundation Models for Image and Video Generation [[PDF](https://arxiv.org/abs/2511.14993),[Page](https://kandinskylab.ai/)] ![Code](https://img.shields.io/github/stars/kandinskylab/kandinsky-5?style=social&label=Star)
 
+[arxiv 2025.11]  HunyuanVideo 1.5 Technical Report [[PDF](https://arxiv.org/abs/2511.18870),[Page](https://github.com/Tencent-Hunyuan/HunyuanVideo-1.5)] ![Code](https://img.shields.io/github/stars/Tencent-Hunyuan/HunyuanVideo-1.5?style=social&label=Star)
 
 [arxiv 2025.11]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -646,6 +647,8 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2025.10] Epipolar Geometry Improves Video Generation Models  [[PDF](https://arxiv.org/abs/2510.21615),[Page](https://epipolar-dpo.github.io/)] ![Code](https://img.shields.io/github/stars/KupynOrest/epipolar-dpo?style=social&label=Star)
 
+[arxiv 2025.11] Plan-X: Instruct Video Generation via Semantic Planning  [[PDF](https://arxiv.org/abs/2511.17986),[Page](https://byteaigc.github.io/Plan-X/)] 
+
 [arxiv 2025.11]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 
@@ -720,6 +723,9 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 [arxiv 2025.10] More than a Moment: Towards Coherent Sequences of Audio Descriptions  [[PDF](https://arxiv.org/abs/2510.25440)]
 
 [arxiv 2025.10]  Towards Fine-Grained Human Motion Video Captioning [[PDF](https://arxiv.org/abs/2510.24767)]
+
+[arxiv 2025.11]  VDC-Agent: When Video Detailed Captioners Evolve Themselves via Agentic Self-Reflection [[PDF](https://arxiv.org/abs/2511.19436)]
+
 
 [arxiv 2025.11]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -862,6 +868,8 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 [arxiv 2025.10]  Pack and Force Your Memory: Long-form and Consistent Video Generation [[PDF](https://arxiv.org/abs/2510.01784)]
 
 [arxiv 2025.10]  Stable Video Infinity: Infinite-Length Video Generation with Error Recycling [[PDF](https://arxiv.org/abs/2510.09212),[Page](https://stable-video-infinity.github.io/homepage/)] ![Code](https://img.shields.io/github/stars/vita-epfl/Stable-Video-Infinity?style=social&label=Star)
+
+[arxiv 2025.11] Infinity-RoPE: Action-Controllable Infinite Video Generation Emerges From Autoregressive Self-Rollout  [[PDF](https://arxiv.org/pdf/2511.20649),[Page](https://infinity-rope.github.io/)] 
 
 [arxiv 2025.11]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -1107,6 +1115,8 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2025.11]  Time-to-Move: Training-Free Motion Controlled Video Generation via Dual-Clock Denoising [[PDF](https://arxiv.org/abs/2511.08633),[Page](https://time-to-move.github.io/)] ![Code](https://img.shields.io/github/stars/time-to-move/TTM?style=social&label=Star)
 
+[arxiv 2025.11]  In-Video Instructions: Visual Signals as Generative Control [[PDF](https://arxiv.org/abs/2511.19401),[Page](https://fangggf.github.io/In-Video/)] ![Code](https://img.shields.io/github/stars/VainF/In-Video-Instructions?style=social&label=Star)
+
 
 [arxiv 2025.11]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -1225,6 +1235,9 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 [arxiv 2025.08] Animate-X++: Universal Character Image Animation with Dynamic Backgrounds  [[PDF](https://arxiv.org/abs/2508.09454),[Page](https://lucaria-academy.github.io/Animate-X++/)] ![Code](https://img.shields.io/github/stars/Lucaria-Academy/Animate-X++?style=social&label=Star)
 
 [arxiv 2025.09] UniTransfer: Video Concept Transfer via Progressive Spatial and Timestep Decomposition  [[PDF](https://yu-shaonian.github.io/UniTransfer-Web/),[Page](https://yu-shaonian.github.io/UniTransfer-Web/)] 
+
+[arxiv 2025.11] SteadyDancer: Harmonized and Coherent Human Image Animation with First-Frame Preservation  [[PDF](https://arxiv.org/abs/2511.19320),[Page](https://mcg-nju.github.io/steadydancer-web)] ![Code](https://img.shields.io/github/stars/MCG-NJU/SteadyDancer?style=social&label=Star)
+
 
 [arxiv 2025.11]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -1633,6 +1646,8 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 [arxiv 2025.10] Generating Human Motion Videos using a Cascaded Text-to-Video Framework  [[PDF](https://arxiv.org/abs/2510.03909),[Page](https://hyelinnam.github.io/Cameo/)] ![Code](https://img.shields.io/github/stars/HyelinNAM/Cameo?style=social&label=Star)
 
 [arxiv 2025.11] RelightMaster: Precise Video Relighting with Multi-plane Light Images  [[PDF](https://arxiv.org/abs/2511.06271),[Page](https://wkbian.github.io/Projects/RelightMaster/)] 
+
+[arxiv 2025.11] EgoControl: Controllable Egocentric Video Generation via 3D Full-Body Poses  [[PDF](https://arxiv.org/abs/2511.18173),[Page](https://cvg-bonn.github.io/EgoControl/)]
 
 [arxiv 2025.11]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -2392,6 +2407,7 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2025.10] VALA: Learning Latent Anchors for Training-Free and Temporally Consistent  [[PDF](https://arxiv.org/abs/2510.22970)]
 
+[arxiv 2025.11] MotionV2V: Editing Motion in a Video  [[PDF](https://arxiv.org/abs/2511.20640),[Page](https://ryanndagreat.github.io/MotionV2V/)] ![Code](https://img.shields.io/github/stars/RyannDaGreat/MotionV2V?style=social&label=Star)
 
 [arxiv 2025.11]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -2976,6 +2992,9 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2025.11] PAN: A World Model for General, Interactable, and Long-Horizon World Simulation  [[PDF](https://arxiv.org/abs/2511.09057)]
 
+[arxiv 2025.11] MagicWorld: Interactive Geometry-driven Video World Exploration  [[PDF](https://arxiv.org/abs/2511.18886),[Page](https://vivocameraresearch.github.io/magicworld/)] 
+
+
 [arxiv 2025.11]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 
@@ -2987,6 +3006,9 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 [arxiv 2025.10]  EvoWorld: Evolving Panoramic World Generation with Explicit 3D Memory [[PDF](https://arxiv.org/abs/2510.01183),[Page](https://github.com/JiahaoPlus/EvoWorld)] ![Code](https://img.shields.io/github/stars/JiahaoPlus/EvoWorld?style=social&label=Star)
 
 [arxiv 2025.10]  Memory Forcing: Spatio-Temporal Memory for Consistent Scene Generation on Minecraft [[PDF](https://arxiv.org/abs/2510.03198),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
+
+[arxiv 2025.11]  Learning Plug-and-play Memory for Guiding Video Diffusion Models [[PDF](https://arxiv.org/pdf/2511.19229),[Page](https://thrcle421.github.io/DiT-Mem-Web/)] ![Code](https://img.shields.io/github/stars/Thrcle421/DiT-Mem?style=social&label=Star)
+
 
 [arxiv 2025.11]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -3094,6 +3116,7 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2025.10]  Omni-Reward: Towards Generalist Omni-Modal Reward Modeling with Free-Form Preferences [[PDF](https://arxiv.org/abs/2510.23451),[Page](https://omnireward.github.io/)] ![Code](https://img.shields.io/github/stars/HongbangYuan/OmniReward?style=social&label=Star)
 
+[arxiv 2025.11]  Growing with the Generator: Self-paced GRPO for Video Generation [[PDF](https://arxiv.org/pdf/2511.19356)]
 
 [arxiv 2025.11]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
