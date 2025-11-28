@@ -399,6 +399,7 @@
 
 [arxiv 2025.10] Emu3.5: Native Multimodal Models are World Learners  [[PDF](https://arxiv.org/abs/2510.26583),[Page](https://emu.world/)] 
 
+[arxiv 2025.11]  MammothModa2: Jointly Optimized Autoregressive-Diffusion Models for Unified Multimodal Understanding and Generation [[PDF](https://arxiv.org/abs/2511.18262),[Page](https://ali-vilab.github.io/MammothModa-Page/)] ![Code](https://img.shields.io/github/stars/bytedance/mammothmoda?style=social&label=Star) 
 
 [arxiv 2025.11]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
 
@@ -549,6 +550,7 @@
 
 [arxiv 2025.10]  ViCO: A Training Strategy towards Semantic Aware Dynamic High-Resolution [[PDF](https://arxiv.org/abs/2510.12793),[Page](https://huggingface.co/collections/OpenGVLab/internvl35-flash-68d7bea4d20fb9f70f145ff8)] 
 
+[arxiv 2025.11]  Chain-of-Visual-Thought: Teaching VLMs to See and Think Better with Continuous Visual Tokens [[PDF](https://arxiv.org/abs/2511.19418),[Page](https://wakalsprojectpage.github.io/comt-website/)] ![Code](https://img.shields.io/github/stars/Wakals/CoVT?style=social&label=Star) 
 
 [arxiv 2025.11]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
 
