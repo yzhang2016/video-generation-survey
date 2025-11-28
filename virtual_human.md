@@ -131,6 +131,9 @@
 
 [arxiv 2025.10] Group Inertial Poser: Multi-Person Pose and Global Translation from Sparse Inertial Sensors and Ultra-Wideband Ranging  [[PDF](https://arxiv.org/abs/2510.21654),[Page](https://github.com/eth-siplab/GroupInertialPoser)] 
 
+[arxiv 2025.11]  ReAlign: Text-to-Motion Generation via Step-Aware Reward-Guided Alignment [[PDF](https://arxiv.org/abs/2511.19217),[Page](https://github.com/wengwanjiang/ReAlign)] ![Code](https://img.shields.io/github/stars/wengwanjiang/ReAlign?style=social&label=Star)
+
+
 [arxiv 2025.11]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 
@@ -264,6 +267,9 @@
 [arxiv 2025.10] Text2Interact: High-Fidelity and Diverse Text-to-Two-Person Interaction Generation  [[PDF](https://arxiv.org/abs/2510.06504)]
 
 [arxiv 2025.10]  Ponimator: Unfolding Interactive Pose for Versatile Human-human Interaction Animation [[PDF](https://arxiv.org/abs/2510.14976),[Page](https://stevenlsw.github.io/ponimator/)] ![Code](https://img.shields.io/github/stars/stevenlsw/ponimator?style=social&label=Star)
+
+[arxiv 2025.11]  SyncMV4D: Synchronized Multi-view Joint Diffusion of Appearance and Motion for Hand-Object Interaction Synthesis [[PDF](https://arxiv.org/abs/2511.19319),[Page](https://droliven.github.io/SyncMV4D)] ![Code](https://img.shields.io/github/stars/Droliven/syncmv4d_code?style=social&label=Star)
+
 
 [arxiv 2025.11]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
