@@ -11,6 +11,17 @@
 
 [arxiv 2025.11]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
+## pixel 
+[arxiv 2025.11]  DeCo: Frequency-Decoupled Pixel Diffusion for End-to-End Image Generation [[PDF](https://arxiv.org/pdf/2511.19365),[Page](https://zehong-ma.github.io/DeCo/)] ![Code](https://img.shields.io/github/stars/Zehong-Ma/DeCo?style=social&label=Star)
+
+[arxiv 2025.11] Back to Basics: Let Denoising Generative Models Denoise  [[PDF](https://arxiv.org/abs/2511.13720),[Page](https://github.com/LTH14/JiT)] ![Code](https://img.shields.io/github/stars/LTH14/JiT?style=social&label=Star)
+
+[arxiv 2025.11]  DiP: Taming Diffusion Models in Pixel Space [[PDF](https://arxiv.org/pdf/2511.18822)]
+
+[arxiv 2025.11] PixelDiT: Pixel Diffusion Transformers for Image Generation  [[PDF](https://arxiv.org/pdf/2511.20645)]
+
+[arxiv 2025.11]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
+
 
 ## Editing 
 
@@ -569,6 +580,10 @@
 
 [arxiv 2025.11]  Personalized Image Editing in Text-to-Image Diffusion Models via Collaborative Direct Preference Optimization [[PDF](https://personalized-editing.github.io/),[Page](https://personalized-editing.github.io/)] 
 
+[arxiv 2025.11] Are Image-to-Video Models Good Zero-Shot Image Editors?  [[PDF](https://arxiv.org/pdf/2511.19435)]
+
+[arxiv 2025.11]  Video4Edit: Viewing Image Editing as a Degenerate Temporal Process [[PDF](https://arxiv.org/pdf/2511.18131)]
+
 
 [arxiv 2025.11]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -662,6 +677,7 @@
 
 [arxiv 2025.10]  Uniworld-V2: Reinforce Image Editing with Diffusion Negative-Aware Finetuning and MLLM Implicit Feedback [[PDF](https://arxiv.org/abs/2510.16888),[Page](https://github.com/PKU-YuanGroup/UniWorld-V2)] ![Code](https://img.shields.io/github/stars/PKU-YuanGroup/UniWorld-V2?style=social&label=Star)
 
+[arxiv 2025.11] iMontage: Unified, Versatile, Highly Dynamic Many-to-many Image Generation  [[PDF](https://arxiv.org/abs/2511.20635),[Page](https://github.com/Kr1sJFU/iMontage)] ![Code](https://img.shields.io/github/stars/Kr1sJFU/iMontage?style=social&label=Star)
 
 [arxiv 2025.11]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -2618,6 +2634,13 @@ Creative Layout-to-Image Generation [[PDF](https://arxiv.org/pdf/2412.03859),[Pa
 
 [arxiv 2025.10] Sketch-to-Layout: Sketch-Guided Multimodal Layout Generation  [[PDF](https://arxiv.org/abs/2510.27632),[Page](https://github.com/google-deepmind/sketch_to_layout)] ![Code](https://img.shields.io/github/stars/google-deepmind/sketch_to_layout?style=social&label=Star)
 
+[arxiv 2025.11]  BideDPO: Conditional Image Generation with Simultaneous Text and Condition Alignment [[PDF](https://arxiv.org/abs/2511.19268),[Page](https://limuloo.github.io/BideDPO/)] ![Code](https://img.shields.io/github/stars/limuloo/BideDPO?style=social&label=Star)
+
+[arxiv 2025.11] Synthetic Curriculum Reinforces Compositional Text-to-Image Generation  [[PDF](https://arxiv.org/abs/2511.18378)]
+
+[arxiv 2025.11] ConsistCompose: Unified Multimodal Layout Control for Image Composition  [[PDF](https://arxiv.org/pdf/2511.18333)]
+
+
 [arxiv 2025.11]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 
@@ -3511,6 +3534,7 @@ Creative Layout-to-Image Generation [[PDF](https://arxiv.org/pdf/2412.03859),[Pa
 
 [arxiv 2025.11] FreeControl: Efficient, Training-Free Structural Control via One-Step Attention Extraction  [[PDF](https://arxiv.org/abs/2511.05219)]
 
+[arxiv 2025.11]  FlowSteer: Guiding Few-Step Image Synthesis with Authentic Trajectories [[PDF](https://arxiv.org/abs/2511.18834)]
 
 [arxiv 2025.11]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -3780,6 +3804,10 @@ Creative Layout-to-Image Generation [[PDF](https://arxiv.org/pdf/2412.03859),[Pa
 [arxiv 2025.11] Reg-DPO: SFT-Regularized Direct Preference Optimization with GT-Pair for Improving Video Generation  [[PDF](https://arxiv.org/pdf/2511.01450)]
 
 [arxiv 2025.11]  Neighbor GRPO: Contrastive ODE Policy Optimization Aligns Flow Models [[PDF](https://arxiv.org/pdf/2511.16955)]
+
+[arxiv 2025.11] Seeing What Matters: Visual Preference Policy Optimization for Visual Generation  [[PDF](https://arxiv.org/pdf/2511.18719)]
+
+[arxiv 2025.11] RubricRL: Simple Generalizable Rewards for Text-to-Image Generation  [[PDF](https://arxiv.org/pdf/2511.20651)]
 
 
 [arxiv 2025.11]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
