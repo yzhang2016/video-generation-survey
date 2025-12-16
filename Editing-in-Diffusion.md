@@ -9,6 +9,10 @@
 
 [arxiv 2025.09]  Seedream 4.0: Toward Next-generation Multimodal Image Generation [[PDF](https://arxiv.org/abs/2509.20427), [Page](https://seed.bytedance.com/zh/seedream4_0)]
 
+[arxiv 2025.12] Ovis-Image Technical Report  [[PDF](https://arxiv.org/abs/2511.22982),[Page](https://github.com/AIDC-AI/Ovis-Image)] ![Code](https://img.shields.io/github/stars/AIDC-AI/Ovis-Image?style=social&label=Star)
+
+[arxiv 2025.12] Z-Image: An Efficient Image Generation Foundation Model with Single-Stream Diffusion Transformer  [[PDF](https://arxiv.org/abs/2511.22699),[Page](https://tongyi-mai.github.io/Z-Image-blog/)] ![Code](https://img.shields.io/github/stars/Tongyi-MAI/Z-Image?style=social&label=Star)
+
 [arxiv 2025.12]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 ## pixel 
@@ -584,6 +588,7 @@
 
 [arxiv 2025.11]  Video4Edit: Viewing Image Editing as a Degenerate Temporal Process [[PDF](https://arxiv.org/pdf/2511.18131)]
 
+[arxiv 2025.12] FreqEdit: Preserving High-Frequency Features for Robust Multi-Turn Image Editing  [[PDF](https://arxiv.org/abs/2512.01755),[Page](https://freqedit.github.io/)] ![Code](https://img.shields.io/github/stars/FreqEdit/FreqEdit?style=social&label=Star)
 
 [arxiv 2025.12]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -680,6 +685,9 @@
 
 [arxiv 2025.11] iMontage: Unified, Versatile, Highly Dynamic Many-to-many Image Generation  [[PDF](https://arxiv.org/abs/2511.20635),[Page](https://github.com/Kr1sJFU/iMontage)] ![Code](https://img.shields.io/github/stars/Kr1sJFU/iMontage?style=social&label=Star)
 
+[arxiv 2025.12] ReasonEdit: Towards Reasoning-Enhanced Image Editing Models  [[PDF](https://arxiv.org/abs/2511.22625),[Page](https://github.com/stepfun-ai/Step1X-Edit)] ![Code](https://img.shields.io/github/stars/stepfun-ai/Step1X-Edit?style=social&label=Star)
+
+
 [arxiv 2025.12]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 
@@ -731,6 +739,9 @@
 [arxiv 2025.03] DiT-Air: Revisiting the Efficiency of Diffusion Model Architecture Design in Text to Image Generation  [[PDF](https://arxiv.org/abs/2503.10618)]
 
 [arxiv 2025.06] M4V: Multi-Modal Mamba for Text-to-Video Generation  [[PDF](https://arxiv.org/abs/xxx),[Page](https://huangjch526.github.io/M4V_project/)] 
+
+[arxiv 2025.12] Visual Generation Tuning  [[PDF](https://arxiv.org/pdf/2511.23469),[Page](https://github.com/hustvl/VGT)] ![Code](https://img.shields.io/github/stars/hustvl/VGT?style=social&label=Star)
+
 
 [arxiv 2025.12]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -792,6 +803,9 @@
 
 [arxiv 2025.10]  Blockwise Flow Matching: Improving Flow Matching Models For Efficient High-Quality Generation [[PDF](https://arxiv.org/abs/2510.21167)]
 
+[arxiv 2025.12] StreamFlow: Theory, Algorithm, and Implementation for High-Efficiency Rectified Flow Generation  [[PDF](https://arxiv.org/abs/2511.22009),[Page](https://github.com/World-Snapshot/StreamFlow)] ![Code](https://img.shields.io/github/stars/World-Snapshot/StreamFlow?style=social&label=Star)
+
+[arxiv 2025.12] SimFlow: Simplified and End-to-End Training of Latent Normalizing Flows  [[PDF](https://arxiv.org/abs/2512.04084),[Page](https://qinyu-allen-zhao.github.io/SimFlow/)] 
 
 [arxiv 2025.12]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -2020,6 +2034,9 @@
 
 [arxiv 2025.10] FreeFuse: Multi-Subject LoRA Fusion via Auto Masking at Test Time  [[PDF](https://arxiv.org/pdf/2510.23515),[Page](https://future-item.github.io/FreeFuse/)] 
 
+[arxiv 2025.12]  Ar2Can: An Architect and an Artist Leveraging a Canvas for Multi-Human Generation [[PDF](https://arxiv.org/pdf/2511.22690)]
+
+
 [arxiv 2025.12]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 
@@ -3227,9 +3244,9 @@ Creative Layout-to-Image Generation [[PDF](https://arxiv.org/pdf/2412.03859),[Pa
 
 [arxiv 2025.10] Stroke2Sketch: Harnessing Stroke Attributes for Training-Free Sketch Generation  [[PDF](https://arxiv.org/abs/2510.16319),[Page](https://github.com/rane7/Stroke2Sketch)] ![Code](https://img.shields.io/github/stars/rane7/Stroke2Sketch?style=social&label=Star)
 
-
 [arxiv 2025.10] Visual Diffusion Models are Geometric Solvers  [[PDF](https://arxiv.org/abs/2510.21697),[Page](https://kariander1.github.io/visual-geo-solver/)] ![Code](https://img.shields.io/github/stars/kariander1/visual-geo-solver?style=social&label=Star)
 
+[arxiv 2025.12]  PosterCopilot: Toward Layout Reasoning and Controllable Editing for Professional Graphic Design [[PDF](https://arxiv.org/abs/2512.04082),[Page](https://postercopilot.github.io/)] ![Code](https://img.shields.io/github/stars/JiazheWei/PosterCopilot?style=social&label=Star)
 
 [arxiv 2025.12]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -3542,6 +3559,10 @@ Creative Layout-to-Image Generation [[PDF](https://arxiv.org/pdf/2412.03859),[Pa
 [arxiv 2025.11] FreeControl: Efficient, Training-Free Structural Control via One-Step Attention Extraction  [[PDF](https://arxiv.org/abs/2511.05219)]
 
 [arxiv 2025.11]  FlowSteer: Guiding Few-Step Image Synthesis with Authentic Trajectories [[PDF](https://arxiv.org/abs/2511.18834)]
+
+[arxiv 2025.12]  Straighter and Faster: Efficient One-Step Generative Modeling via Meanflow on Rectified Trajectories [[PDF](https://arxiv.org/abs/2511.23342),[Page](https://github.com/Xinxi-Zhang/Re-MeanFlow)] ![Code](https://img.shields.io/github/stars/Xinxi-Zhang/Re-MeanFlow?style=social&label=Star)
+
+[arxiv 2025.12] ConvRot: Rotation-Based Plug-and-Play 4-bit Quantization for Diffusion Transformers  [[PDF](https://arxiv.org/abs/2512.03673)]
 
 [arxiv 2025.12]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -3948,6 +3969,11 @@ Creative Layout-to-Image Generation [[PDF](https://arxiv.org/pdf/2412.03859),[Pa
 [arxiv 2025.10]  Latent Diffusion Model without Variational Autoencoder [[PDF](https://arxiv.org/abs/2510.15301),[Page](https://github.com/shiml20/SVG)] ![Code](https://img.shields.io/github/stars/shiml20/SVG?style=social&label=Star)
 
 [arxiv 2025.10] Routing Matters in MoE: Scaling Diffusion Transformers with Explicit Routing Guidance  [[PDF](https://arxiv.org/abs/2510.24711)]
+
+[arxiv 2025.12] Markovian Scale Prediction: A New Era of Visual Autoregressive Generation  [[PDF](https://arxiv.org/abs/2511.23334),[Page](https://luokairo.github.io/markov-var-page/)] ![Code](https://img.shields.io/github/stars/luokairo/Markov-VAR?style=social&label=Star)
+
+[arxiv 2025.12] Improved Mean Flows: On the Challenges of Fastforward Generative Models  [[PDF](https://arxiv.org/abs/2512.02012)]
+
 [arxiv 2025.12]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 
