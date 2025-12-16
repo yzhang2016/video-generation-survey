@@ -649,6 +649,8 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2025.11] Plan-X: Instruct Video Generation via Semantic Planning  [[PDF](https://arxiv.org/abs/2511.17986),[Page](https://byteaigc.github.io/Plan-X/)] 
 
+[arxiv 2025.12]  GeoVideo: Introducing Geometric Regularization into Video Generation Model [[PDF](https://arxiv.org/pdf/2512.03453),[Page](https://geovideo.github.io/GeoVideo/)]
+
 [arxiv 2025.12]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 
@@ -693,6 +695,8 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 [arxiv 2025.10]  CoMo: Compositional Motion Customization for Text-to-Video Generation [[PDF](https://arxiv.org/abs/2510.23007),[Page](https://como6.github.io/)] 
 
 [arxiv 2025.11] RISE-T2V: Rephrasing and Injecting Semantics with LLM for Expansive Text-to-Video Generation  [[PDF](https://arxiv.org/pdf/2511.04317),[Page](https://rise-t2v.github.io/)]
+
+[arxiv 2025.12]  InstanceV: Instance-Level Video Generation [[PDF](https://aliothchen.github.io/projects/InstanceV/),[Page](https://aliothchen.github.io/projects/InstanceV/)] 
 
 
 [arxiv 2025.12]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
@@ -1117,6 +1121,7 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2025.11]  In-Video Instructions: Visual Signals as Generative Control [[PDF](https://arxiv.org/abs/2511.19401),[Page](https://fangggf.github.io/In-Video/)] ![Code](https://img.shields.io/github/stars/VainF/In-Video-Instructions?style=social&label=Star)
 
+[arxiv 2025.12] DisMo: Disentangled Motion Representations for Open-World Motion Transfer  [[PDF](https://arxiv.org/abs/2511.23428),[Page](https://compvis.github.io/DisMo/)] ![Code](https://img.shields.io/github/stars/CompVis/DisMo?style=social&label=Star)
 
 [arxiv 2025.12]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -1238,6 +1243,7 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2025.11] SteadyDancer: Harmonized and Coherent Human Image Animation with First-Frame Preservation  [[PDF](https://arxiv.org/abs/2511.19320),[Page](https://mcg-nju.github.io/steadydancer-web)] ![Code](https://img.shields.io/github/stars/MCG-NJU/SteadyDancer?style=social&label=Star)
 
+[arxiv 2025.12]  One-to-All Animation: Alignment-Free Character Animation and Image Pose Transfer [[PDF](https://arxiv.org/pdf/2511.22940),[Page](https://ssj9596.github.io/one-to-all-animation-project/)] ![Code](https://img.shields.io/github/stars/ssj9596/One-to-All-Animation?style=social&label=Star)
 
 [arxiv 2025.12]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -1386,6 +1392,9 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 [arxiv 2025.10]  See4D: Pose-Free 4D Generation via Auto-Regressive Video Inpainting [[PDF](https://arxiv.org/abs/2510.26796),[Page](https://see-4d.github.io/)] 
 
 [arxiv 2025.11] PostCam: Camera-Controllable Novel-View Video Generation with Query-Shared Cross-Attention  [[PDF](https://arxiv.org/abs/2511.17185),[Page](https://cccqaq.github.io/PostCam.github.io/)] ![Code](https://img.shields.io/github/stars/zju3dv/PostCam?style=social&label=Star)
+
+[arxiv 2025.12] DualCamCtrl: Dual-Branch Diffusion Model for Geometry-Aware Camera-Controlled Video Generation  [[PDF](https://arxiv.org/abs/2511.23127),[Page](https://soyouthinkyoucantell.github.io/dualcamctrl-page/)] ![Code](https://img.shields.io/github/stars/EnVision-Research/DualCamCtrl?style=social&label=Star)
+
 
 [arxiv 2025.12]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -1649,6 +1658,13 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2025.11] EgoControl: Controllable Egocentric Video Generation via 3D Full-Body Poses  [[PDF](https://arxiv.org/abs/2511.18173),[Page](https://cvg-bonn.github.io/EgoControl/)]
 
+[arxiv 2025.12]  WorldWander: Bridging Egocentric and Exocentric Worlds in Video Generation [[PDF](https://arxiv.org/pdf/2511.22098),[Page](https://github.com/showlab/WorldWander)] ![Code](https://img.shields.io/github/stars/showlab/WorldWander?style=social&label=Star)
+
+[arxiv 2025.12] SpriteHand: Real-Time Versatile Hand-Object Interaction with Autoregressive Video Generation  [[PDF](https://arxiv.org/pdf/2512.01960)]
+
+[arxiv 2025.12] UniMo: Unifying 2D Video and 3D Human Motion with an Autoregressive Framework  [[PDF](https://arxiv.org/abs/2512.03918),[Page](https://carlyx.github.io/UniMo/)] 
+
+
 [arxiv 2025.12]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 
@@ -1889,6 +1905,9 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2025.10] MAGIC-Talk: Motion-aware Audio-Driven Talking Face Generation with Customizable Identity Control  [[PDF](https://arxiv.org/abs/2510.22810)]
 
+[arxiv 2025.12] IMTalker: Efficient Audio-driven Talking Face Generation with Implicit Motion Transfer  [[PDF](https://arxiv.org/abs/XXXX.XXXXX),[Page](https://cbsjtu01.github.io/IMTalker/)] ![Code](https://img.shields.io/github/stars/cbsjtu01/IMTalker?style=social&label=Star)
+
+
 [arxiv 2025.12]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 
@@ -1952,6 +1971,9 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 [arxiv 2025.10]  VividAnimator: An End-to-End Audio and Pose-driven Half-Body Human Animation Framework [[PDF](https://arxiv.org/pdf/2510.10269)]
 
 [arxiv 2025.11] ConsistTalk: Intensity Controllable Temporally Consistent Talking Head Generation with Diffusion Noise Search  [[PDF](https://arxiv.org/pdf/2511.06833)]
+
+[arxiv 2025.12] AnyTalker: Scaling Multi-Person Talking Video Generation with Interactivity Refinement  [[PDF](https://arxiv.org/abs/2511.23475),[Page](https://hkust-c4g.github.io/AnyTalker-homepage/)] ![Code](https://img.shields.io/github/stars/HKUST-C4G/AnyTalker?style=social&label=Star)
+
 
 [arxiv 2025.12]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -2660,6 +2682,7 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2025.12]  Inferix: A Block-Diffusion based Next-Generation Inference Engine for World Simulation [[PDF](https://arxiv.org/abs/2511.20714),[Page](https://github.com/alibaba-damo-academy/Inferix)] ![Code](https://img.shields.io/github/stars/alibaba-damo-academy/Inferix?style=social&label=Star)
 
+[arxiv 2025.12] BlockVid: Block Diffusion for High-Quality and Consistent Minute-Long Video Generation  [[PDF](https://arxiv.org/abs/2511.22973),[Page](https://ziplab.co/BlockVid/)] 
 
 [arxiv 2025.12]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -2879,6 +2902,7 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2025.12]  MobileI2V: Fast and High-Resolution Image-to-Video on Mobile Devices [[PDF](https://arxiv.org/abs/2511.21475),[Page](https://github.com/hustvl/MobileI2V)] ![Code](https://img.shields.io/github/stars/hustvl/MobileI2V?style=social&label=Star)
 
+[arxiv 2025.12] PSA: Pyramid Sparse Attention for Efficient Video Understanding andGeneration  [[PDF](https://arxiv.org/pdf/2512.04025),[Page](https://ziplab.co/PSA/)] ![Code](https://img.shields.io/github/stars/ziplab/Pyramid-Sparse-Attention?style=social&label=Star)
 
 [arxiv 2025.12]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -3003,6 +3027,10 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 [arxiv 2025.11] PAN: A World Model for General, Interactable, and Long-Horizon World Simulation  [[PDF](https://arxiv.org/abs/2511.09057)]
 
 [arxiv 2025.11] MagicWorld: Interactive Geometry-driven Video World Exploration  [[PDF](https://arxiv.org/abs/2511.18886),[Page](https://vivocameraresearch.github.io/magicworld/)] 
+
+[arxiv 2025.12]  Hunyuan-GameCraft-2: Instruction-following Interactive Game World Model [[PDF](https://arxiv.org/abs/2511.23429),[Page](https://hunyuan-gamecraft-2.github.io/)] 
+
+[arxiv 2025.12] RELIC: Interactive Video World Model with Long-Horizon Memory  [[PDF](https://arxiv.org/abs/2512.04040),[Page](https://relic-worldmodel.github.io/)] 
 
 
 [arxiv 2025.12]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
