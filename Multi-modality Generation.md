@@ -402,6 +402,9 @@
 
 [arxiv 2025.11]  MammothModa2: Jointly Optimized Autoregressive-Diffusion Models for Unified Multimodal Understanding and Generation [[PDF](https://arxiv.org/abs/2511.18262),[Page](https://ali-vilab.github.io/MammothModa-Page/)] ![Code](https://img.shields.io/github/stars/bytedance/mammothmoda?style=social&label=Star) 
 
+[arxiv 2025.12]  Tuna: Taming Unified Visual Representations for Native Unified Multimodal Models [[PDF](https://arxiv.org/pdf/2512.02014),[Page](https://tuna-ai.org/)] ![Code](https://img.shields.io/github/stars/wren93/tuna?style=social&label=Star) 
+
+
 [arxiv 2025.12]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
 
 
@@ -439,6 +442,7 @@
 
 [arxiv 2025.11]  Unified Diffusion VLA: Vision-Language-Action Model via Joint Discrete Denoising Diffusion Process [[PDF](https://arxiv.org/abs/2511.01718),[Page](https://irpn-eai.github.io/UD-VLA.github.io/)] ![Code](https://img.shields.io/github/stars/OpenHelix-Team/UD-VLA?style=social&label=Star) 
 
+[arxiv 2025.12] ENACT: Evaluating Embodied Cognition withWorld Modeling of Egocentric Interaction  [[PDF](https://arxiv.org/abs/2511.20937),[Page](https://enact-embodied-cognition.github.io/)] ![Code](https://img.shields.io/github/stars/mll-lab-nu/ENACT?style=social&label=Star) 
 
 [arxiv 2025.12]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
 
@@ -508,6 +512,10 @@
 [arxiv 2025.10] MathCanvas: Intrinsic Visual Chain-of-Thought for Multimodal Mathematical Reasoning  [[PDF](https://arxiv.org/abs/2510.14958),[Page](https://mathcanvas.github.io/)] ![Code](https://img.shields.io/github/stars/shiwk24/MathCanvas?style=social&label=Star) 
 
 [arxiv 2025.10]  ThinkMorph: Emergent Properties in Multimodal Interleaved Chain-of-Thought Reasoning [[PDF](https://arxiv.org/abs/2510.27492),[Page](https://thinkmorph.github.io/)] ![Code](https://img.shields.io/github/stars/ThinkMorph/ThinkMorph?style=social&label=Star) 
+
+[arxiv 2025.12] Video-R2: Reinforcing Consistent and Grounded Reasoning in Multimodal Language Models  [[PDF](https://arxiv.org/abs/2511.23478),[Page](https://github.com/mbzuai-oryx/Video-R2)] ![Code](https://img.shields.io/github/stars/mbzuai-oryx/Video-R2?style=social&label=Star) 
+
+[arxiv 2025.12] Video-CoM: Interactive Video Reasoning via Chain of Manipulations  [[PDF](https://arxiv.org/pdf/2511.23477),[Page](https://github.com/mbzuai-oryx/Video-CoM)] ![Code](https://img.shields.io/github/stars/mbzuai-oryx/Video-CoM?style=social&label=Star) 
 
 [arxiv 2025.12]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
 
