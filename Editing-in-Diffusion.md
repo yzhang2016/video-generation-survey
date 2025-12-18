@@ -687,6 +687,8 @@
 
 [arxiv 2025.12] ReasonEdit: Towards Reasoning-Enhanced Image Editing Models  [[PDF](https://arxiv.org/abs/2511.22625),[Page](https://github.com/stepfun-ai/Step1X-Edit)] ![Code](https://img.shields.io/github/stars/stepfun-ai/Step1X-Edit?style=social&label=Star)
 
+[arxiv 2025.12] ClusIR: Towards Cluster-Guided All-in-One Image Restoration  [[PDF](https://arxiv.org/abs/2512.10948)]
+
 
 [arxiv 2025.12]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -2012,6 +2014,11 @@
 
 [arxiv 2025.11] Multi-View Consistent Human Image Customization via In-Context Learning  [[PDF](https://arxiv.org/abs/2511.00293)]
 
+[arxiv 2025.12]  DynaIP: Dynamic Image Prompt Adapter for Scalable Zero-shot Personalized Text-to-Image Generation [[PDF](https://arxiv.org/abs/2512.09814)]
+
+[arxiv 2025.12]  Omni-Attribute: Open-vocabulary Attribute Encoder for Visual Concept Personalization
+ [[PDF](https://arxiv.org/abs/2512.10955),[Page](https://snap-research.github.io/omni-attribute/)]
+ 
 [arxiv 2025.12]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 
@@ -2299,6 +2306,7 @@ Cross-Attention Control [[PDF](https://arxiv.org/abs/2402.13404)]
 
 [arxiv 2025.11]  VCode: a Multimodal Coding Benchmark with SVG as Symbolic Visual Representation [[PDF](https://arxiv.org/abs/2511.02778),[Page](https://csu-jpg.github.io/VCode)] ![Code](https://img.shields.io/github/stars/CSU-JPG/VCode?style=social&label=Star)
 
+[arxiv 2025.12] DuetSVG: Unified Multimodal SVG Generation with Internal Visual Guidance  [[PDF](https://arxiv.org/abs/2512.10894),[Page](https://intchous.github.io/DuetSVG-site)] 
 
 [arxiv 2025.12]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -3247,6 +3255,8 @@ Creative Layout-to-Image Generation [[PDF](https://arxiv.org/pdf/2412.03859),[Pa
 [arxiv 2025.10] Visual Diffusion Models are Geometric Solvers  [[PDF](https://arxiv.org/abs/2510.21697),[Page](https://kariander1.github.io/visual-geo-solver/)] ![Code](https://img.shields.io/github/stars/kariander1/visual-geo-solver?style=social&label=Star)
 
 [arxiv 2025.12]  PosterCopilot: Toward Layout Reasoning and Controllable Editing for Professional Graphic Design [[PDF](https://arxiv.org/abs/2512.04082),[Page](https://postercopilot.github.io/)] ![Code](https://img.shields.io/github/stars/JiazheWei/PosterCopilot?style=social&label=Star)
+
+[arxiv 2025.12] StereoSpace: Depth-Free Synthesis of Stereo Geometry via End-to-End Diffusion in a Canonical Space  [[PDF](https://arxiv.org/abs/2512.10959),[Page](https://huggingface.co/spaces/prs-eth/stereospace_web)] 
 
 [arxiv 2025.12]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
