@@ -734,11 +734,18 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 [arxiv 2025.12]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 
+## multi-concept
+[arxiv 2025.12]  Composing Concepts from Images and Videos via Concept-prompt Binding [[PDF](https://arxiv.org/abs/2512.09824),[Page](https://refkxh.github.io/BiCo_Webpage/)] ![Code](https://img.shields.io/github/stars/refkxh/bico?style=social&label=Star)
+
+
+[arxiv 2025.12]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
+
 ## multi-shot
 [arxiv 2025.10]  MoGA: Mixture-of-Groups Attention for End-to-End Long Video Generation [[PDF](https://arxiv.org/abs/2510.18692),[Page](https://jiawn-creator.github.io/mixture-of-groups-attention/)] ![Code](https://img.shields.io/github/stars/bytedance-fanqie-ai/MoGA?style=social&label=Star)
 
 [arxiv 2025.11] Video-as-Answer: Predict and Generate Next Video Event with Joint-GRPO  [[PDF](https://arxiv.org/abs/2511.16669),[Page](https://video-as-answer.github.io/)] ![Code](https://img.shields.io/github/stars/KlingTeam/VANS?style=social&label=Star)
 
+[arxiv 2025.12] FilmWeaver: Weaving Consistent Multi-Shot Videos with Cache-Guided Autoregressive Diffusion  [[PDF](https://arxiv.org/abs/2512.11274),[Page](https://filmweaver.github.io/)] 
 
 [arxiv 2025.12]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -968,6 +975,12 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 [arxiv 2025.12]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 
+## Controllable Video Generation: time and event 
+[arxiv 2025.12]  AlcheMinT: Fine-grained Temporal Control for Multi-Reference Consistent Video Generation [[PDF](https://arxiv.org/abs/2512.10943),[Page](https://snap-research.github.io/Video-AlcheMinT/)] 
+
+[arxiv 2025.12]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
+
+
 ## Controllable Video Generation 
 
 *[arxiv 2023.04]Motion-Conditioned Diffusion Model for Controllable Video Synthesis [[PDF](https://arxiv.org/abs/2304.14404), [Page](https://tsaishien-chen.github.io/MCDiff/)]
@@ -1122,6 +1135,8 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 [arxiv 2025.11]  In-Video Instructions: Visual Signals as Generative Control [[PDF](https://arxiv.org/abs/2511.19401),[Page](https://fangggf.github.io/In-Video/)] ![Code](https://img.shields.io/github/stars/VainF/In-Video-Instructions?style=social&label=Star)
 
 [arxiv 2025.12] DisMo: Disentangled Motion Representations for Open-World Motion Transfer  [[PDF](https://arxiv.org/abs/2511.23428),[Page](https://compvis.github.io/DisMo/)] ![Code](https://img.shields.io/github/stars/CompVis/DisMo?style=social&label=Star)
+
+[arxiv 2025.12]  VHOI: Controllable Video Generation of Human–Object Interactions from Sparse Trajectories via Motion Densification [[PDF](https://arxiv.org/abs/2512.09646),[Page](https://vcai.mpi-inf.mpg.de/projects/vhoi/)] 
 
 [arxiv 2025.12]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -1664,6 +1679,7 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2025.12] UniMo: Unifying 2D Video and 3D Human Motion with an Autoregressive Framework  [[PDF](https://arxiv.org/abs/2512.03918),[Page](https://carlyx.github.io/UniMo/)] 
 
+[arxiv 2025.12] StereoWorld: Geometry-Aware Monocular-to-Stereo Video Generation  [[PDF](https://arxiv.org/abs/2512.09363),[Page](https://ke-xing.github.io/StereoWorld/)] 
 
 [arxiv 2025.12]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -1983,6 +1999,16 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2025.06] Diffusion-based Realistic Listening Head Generation via Hybrid Motion Modeling  [[PDF](https://openaccess.thecvf.com/content/CVPR2025/papers/Wang_Diffusion-based_Realistic_Listening_Head_Generation_via_Hybrid_Motion_Modeling_CVPR_2025_paper.pdf),[Page](https://nuo1wang.github.io/DiffListener/)] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
+
+[arxiv 2025.12]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
+
+
+## Realtime Avatar 
+[arxiv 2025.12] JoyAvatar: Real-time and Infinite Audio-Driven Avatar Generation with Autoregressive Diffusion  [[PDF](https://arxiv.org/abs/2512.11423)] 
+
+[arxiv 2025.12]  PersonaLive! Expressive Portrait Image Animation for Live Streaming [[PDF](https://arxiv.org/abs/2512.11253),[Page](https://github.com/GVCLab/PersonaLive)] ![Code](https://img.shields.io/github/stars/GVCLab/PersonaLive?style=social&label=Star)
+
+[arxiv 2025.12]  Live Avatar: Streaming Real-time Audio-Driven Avatar Generation with Infinite Length [[PDF](https://arxiv.org/abs/2512.04677),[Page](https://liveavatar.github.io/)] ![Code](https://img.shields.io/github/stars/Alibaba-Quark/LiveAvatar?style=social&label=Star)
 
 [arxiv 2025.12]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -2316,6 +2342,7 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2025.10] Scaling Instruction-Based Video Editing with a High-Quality Synthetic Dataset  [[PDF](https://arxiv.org/abs/2510.15742),[Page](https://editto.net/)] ![Code](https://img.shields.io/github/stars/EzioBy/Ditto?style=social&label=Star)
 
+[arxiv 2025.12] ReViSE: Towards Reason-Informed Video Editing in Unified Models with Self-Reflective Learning  [[PDF](https://arxiv.org/abs/2512.09924),[Page](https://github.com/Liuxinyv/ReViSE)] ![Code](https://img.shields.io/github/stars/Liuxinyv/ReViSE?style=social&label=Star)
 
 [arxiv 2025.12]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -3047,6 +3074,7 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2025.11]  Learning Plug-and-play Memory for Guiding Video Diffusion Models [[PDF](https://arxiv.org/pdf/2511.19229),[Page](https://thrcle421.github.io/DiT-Mem-Web/)] ![Code](https://img.shields.io/github/stars/Thrcle421/DiT-Mem?style=social&label=Star)
 
+[arxiv 2025.12]  VL-JEPA: Joint Embedding Predictive Architecture for Vision-language [[PDF](https://arxiv.org/abs/2512.10942)]
 
 [arxiv 2025.12]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
