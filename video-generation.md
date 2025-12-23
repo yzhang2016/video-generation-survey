@@ -291,6 +291,9 @@ A reading list of video generation
 
 [arxiv 2025.07] MambaVideo for Discrete Video Tokenization with Channel-Split Quantization  [[PDF](https://arxiv.org/abs/2507.04559),[Page](https://research.nvidia.com/labs/dir/mamba-tokenizer/)] 
 
+[arxiv 2025.12] Towards Scalable Pre-training of Visual Tokenizers for Generation  [[PDF](https://arxiv.org/abs/2512.13687),[Page](https://github.com/MiniMax-AI/VTP)] ![Code](https://img.shields.io/github/stars/MiniMax-AI/VTP?style=social&label=Star)
+
+
 [arxiv 2025.12]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 
@@ -505,6 +508,9 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2025.11]  HunyuanVideo 1.5 Technical Report [[PDF](https://arxiv.org/abs/2511.18870),[Page](https://github.com/Tencent-Hunyuan/HunyuanVideo-1.5)] ![Code](https://img.shields.io/github/stars/Tencent-Hunyuan/HunyuanVideo-1.5?style=social&label=Star)
 
+[arxiv 2025.12] Seedance 1.5 pro: A Native Audio-Visual Joint Generation Foundation Model  [[PDF](https://arxiv.org/abs/2512.13507),[Page](https://seed.bytedance.com/zh/seedance1_5_pro)] 
+
+
 [arxiv 2025.12]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 
@@ -650,6 +656,9 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 [arxiv 2025.11] Plan-X: Instruct Video Generation via Semantic Planning  [[PDF](https://arxiv.org/abs/2511.17986),[Page](https://byteaigc.github.io/Plan-X/)] 
 
 [arxiv 2025.12]  GeoVideo: Introducing Geometric Regularization into Video Generation Model [[PDF](https://arxiv.org/pdf/2512.03453),[Page](https://geovideo.github.io/GeoVideo/)]
+
+[arxiv 2025.12]  DiffusionBrowser: Interactive Diffusion Previews via Multi-Branch Decoders [[PDF](https://arxiv.org/abs/2512.13690)]
+
 
 [arxiv 2025.12]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -1260,6 +1269,9 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2025.12]  One-to-All Animation: Alignment-Free Character Animation and Image Pose Transfer [[PDF](https://arxiv.org/pdf/2511.22940),[Page](https://ssj9596.github.io/one-to-all-animation-project/)] ![Code](https://img.shields.io/github/stars/ssj9596/One-to-All-Animation?style=social&label=Star)
 
+[arxiv 2025.12] PoseAnything: Universal Pose-guided Video Generation with Part-aware Temporal Coherence  [[PDF](http://arxiv.org/abs/2512.13465),[Page](https://ryan-w2024.github.io/project/PoseAnything/)] ![Code](https://img.shields.io/github/stars/Ryan-w2024/PoseAnything?style=social&label=Star)
+
+
 [arxiv 2025.12]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 
@@ -1554,6 +1566,9 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 [arxiv 2025.10]  UltraGen: High-Resolution Video Generation with Hierarchical Attention [[PDF](https://arxiv.org/pdf/2510.18775),[Page](https://sjtuplayer.github.io/projects/UltraGen/)] ![Code](https://img.shields.io/github/stars/sjtuplayer/UltraGen?style=social&label=Star)
 
 [arxiv 2025.10]  Restore Text First, Enhance Image Later: Two-Stage Scene Text Image Super-Resolution with Glyph Structure Guidance [[PDF](http://arxiv.org/abs/2510.21590),[Page](https://tony-lowe.github.io/TIGER_project_page/)] ![Code](https://img.shields.io/github/stars/Tony-Lowe/TIGER_project_page?style=social&label=Star)
+
+[arxiv 2025.12]  Transform Trained Transformer: Accelerating Naive 4K Video Generation Over 10 [[PDF](https://arxiv.org/abs/2512.13492),[Page](https://zhangzjn.github.io/projects/T3-Video/)] ![Code](https://img.shields.io/github/stars/zhangzjn/T3-Video?style=social&label=Star)
+
 
 
 [arxiv 2025.12]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
@@ -1990,6 +2005,7 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2025.12] AnyTalker: Scaling Multi-Person Talking Video Generation with Interactivity Refinement  [[PDF](https://arxiv.org/abs/2511.23475),[Page](https://hkust-c4g.github.io/AnyTalker-homepage/)] ![Code](https://img.shields.io/github/stars/HKUST-C4G/AnyTalker?style=social&label=Star)
 
+[arxiv 2025.12] Soul: Breathe Life into Digital Human for High-fidelity Long-term Multimodal Animation  [[PDF](https://arxiv.org/abs/2512.13495),[Page](https://zhangzjn.github.io/projects/Soul/)] ![Code](https://img.shields.io/github/stars/zhangzjn/Soul?style=social&label=Star)
 
 [arxiv 2025.12]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -2288,6 +2304,7 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2025.11]  UniAVGen: Unified Audio and Video Generation with Asymmetric Cross-Modal Interactions [[PDF](https://arxiv.org/pdf/2511.03334),[Page](https://mcg-nju.github.io/UniAVGen/)] 
 
+[arxiv 2025.12]  JoVA: Unified Multimodal Learning for Joint Video-Audio Generation [[PDF](https://arxiv.org/abs/2512.13677),[Page](https://visual-ai.github.io/jova/)] ![Code](https://img.shields.io/github/stars/Visual-AI/JoVA?style=social&label=Star)
 
 [arxiv 2025.12]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -2931,6 +2948,8 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2025.12] PSA: Pyramid Sparse Attention for Efficient Video Understanding andGeneration  [[PDF](https://arxiv.org/pdf/2512.04025),[Page](https://ziplab.co/PSA/)] ![Code](https://img.shields.io/github/stars/ziplab/Pyramid-Sparse-Attention?style=social&label=Star)
 
+
+
 [arxiv 2025.12]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 
@@ -3058,6 +3077,8 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 [arxiv 2025.12]  Hunyuan-GameCraft-2: Instruction-following Interactive Game World Model [[PDF](https://arxiv.org/abs/2511.23429),[Page](https://hunyuan-gamecraft-2.github.io/)] 
 
 [arxiv 2025.12] RELIC: Interactive Video World Model with Long-Horizon Memory  [[PDF](https://arxiv.org/abs/2512.04040),[Page](https://relic-worldmodel.github.io/)] 
+
+[arxiv 2025.12] LongVie 2: Multimodal Controllable Ultra-Long Video World Model  [[PDF](https://arxiv.org/abs/2512.13604),[Page](https://vchitect.github.io/LongVie2-project/)] ![Code](https://img.shields.io/github/stars/Vchitect/LongVie?style=social&label=Star)
 
 
 [arxiv 2025.12]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
