@@ -133,8 +133,11 @@
 
 [arxiv 2025.11]  ReAlign: Text-to-Motion Generation via Step-Aware Reward-Guided Alignment [[PDF](https://arxiv.org/abs/2511.19217),[Page](https://github.com/wengwanjiang/ReAlign)] ![Code](https://img.shields.io/github/stars/wengwanjiang/ReAlign?style=social&label=Star)
 
-[arxiv 2025.12]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
+[arxiv 2025.12]  Interact2Ar: Full-Body Human-Human Interaction Generation via Autoregressive Diffusion Models [[PDF](https://arxiv.org/pdf/2512.19692),[Page](https://pabloruizponce.com/papers/Interact2Ar)] ![Code](https://img.shields.io/github/stars/pabloruizponce/Interact2Ar?style=social&label=Star)
 
+[arxiv 2025.12] OmniMoGen: Unifying Human Motion Generation via Learning from Interleaved Text-Motion Instructions  [[PDF](https://arxiv.org/pdf/2512.19159)]
+
+[arxiv 2025.12] EchoMotion: Unified Human Video and Motion Generation via Dual-Modality Diffusion Transformer  [[PDF](https://arxiv.org/abs/2512.18814),[Page](https://yuxiaoyang23.github.io/EchoMotion-webpage/)]
 
 [arxiv 2025.12]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
