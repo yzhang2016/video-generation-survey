@@ -1157,6 +1157,8 @@
 
 [arxiv 2025.10] SSDD: Single-Step Diffusion Decoder for Efficient Image Tokenization  [[PDF](https://arxiv.org/abs/2510.04961),[Page](https://github.com/facebookresearch/SSDD)] ![Code](https://img.shields.io/github/stars/facebookresearch/SSDD?style=social&label=Star)
 
+[arxiv 2025.12] Both Semantics and Reconstruction Matter: Making Representation Encoders Ready for Text-to-Image Generation and Editing  [[PDF](https://jshilong.github.io/PS-VAE-PAGE/),[Page](https://jshilong.github.io/PS-VAE-PAGE/)] 
+
 [arxiv 2025.12]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 
@@ -2018,6 +2020,9 @@
 
 [arxiv 2025.12]  Omni-Attribute: Open-vocabulary Attribute Encoder for Visual Concept Personalization
  [[PDF](https://arxiv.org/abs/2512.10955),[Page](https://snap-research.github.io/omni-attribute/)]
+
+[arxiv 2025.12]  3SGen: Unified Subject, Style, and Structure-Driven Image Generation with Adaptive Task-specific Memory [[PDF](https://arxiv.org/pdf/2512.19271)]
+
  
 [arxiv 2025.12]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -3197,6 +3202,9 @@ Creative Layout-to-Image Generation [[PDF](https://arxiv.org/pdf/2412.03859),[Pa
 
 [arxiv 2025.11]  ImAgent: A Unified Multimodal Agent Framework for Test-Time Scalable Image Generation [[PDF](https://arxiv.org/pdf/2511.11483)]
 
+[arxiv 2025.12]  VisionDirector: Vision-Language Guided Closed-Loop Refinement for Generative Image Synthesis [[PDF](https://arxiv.org/abs/2512.19243)]
+
+
 [arxiv 2025.12]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 
@@ -3258,6 +3266,9 @@ Creative Layout-to-Image Generation [[PDF](https://arxiv.org/pdf/2412.03859),[Pa
 
 [arxiv 2025.12] StereoSpace: Depth-Free Synthesis of Stereo Geometry via End-to-End Diffusion in a Canonical Space  [[PDF](https://arxiv.org/abs/2512.10959),[Page](https://huggingface.co/spaces/prs-eth/stereospace_web)] 
 
+[arxiv 2025.12]  Generative Refocusing: Flexible Defocus Control from a Single Image [[PDF](https://arxiv.org/abs/2512.16923),[Page](https://generative-refocusing.github.io/)] ![Code](https://img.shields.io/github/stars/rayray9999/Genfocus?style=social&label=Star)
+
+
 [arxiv 2025.12]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 
@@ -3301,6 +3312,12 @@ Creative Layout-to-Image Generation [[PDF](https://arxiv.org/pdf/2412.03859),[Pa
 [arxiv 2024.09]Self-Distilled Depth Refinement with Noisy Poisson Fusion [[PDF](https://arxiv.org/abs/2409.17880),[Page](https://github.com/lijia7/SDDR)]
 
 [arxiv 2025.12]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
+
+## layer 
+[arxiv 2025.12] Qwen-Image-Layered: Towards Inherent Editability via Layer Decomposition  [[PDF](https://arxiv.org/abs/2512.15603),[Page](https://github.com/QwenLM/Qwen-Image-Layered)] ![Code](https://img.shields.io/github/stars/QwenLM/Qwen-Image-Layered?style=social&label=Star)
+
+[arxiv 2025.12]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
+
 
 
 ## scaling
@@ -3574,6 +3591,9 @@ Creative Layout-to-Image Generation [[PDF](https://arxiv.org/pdf/2412.03859),[Pa
 
 [arxiv 2025.12] ConvRot: Rotation-Based Plug-and-Play 4-bit Quantization for Diffusion Transformers  [[PDF](https://arxiv.org/abs/2512.03673)]
 
+[arxiv 2025.12] Bridging Fidelity-Reality with Controllable One-Step Diffusion for Image Super-Resolution  [[PDF](https://arxiv.org/abs/2512.14061),[Page](https://github.com/Chanson94/CODSR)] 
+
+
 [arxiv 2025.12]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 
@@ -3659,6 +3679,7 @@ Creative Layout-to-Image Generation [[PDF](https://arxiv.org/pdf/2412.03859),[Pa
 
 [arxiv 2025.10] LayerSync: Self-aligning Intermediate Layers  [[PDF](https://arxiv.org/abs/2510.12581),[Page](https://github.com/vita-epfl/LayerSync)] ![Code](https://img.shields.io/github/stars/vita-epfl/LayerSync?style=social&label=Star)
 
+[arxiv 2025.12] Is Nano Banana Pro a Low-Level Vision All-Rounder? A Comprehensive Evaluation on 14 Tasks and 40 Datasets  [[PDF](https://arxiv.org/abs/2512.15110),[Page](https://lowlevelbanana.github.io/)] ![Code](https://img.shields.io/github/stars/zplusdragon/LowLevelBanana?style=social&label=Star)
 
 [arxiv 2025.12]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -3847,6 +3868,7 @@ Creative Layout-to-Image Generation [[PDF](https://arxiv.org/pdf/2412.03859),[Pa
 
 [arxiv 2025.11] RubricRL: Simple Generalizable Rewards for Text-to-Image Generation  [[PDF](https://arxiv.org/pdf/2511.20651)]
 
+[arxiv 2025.12] PC-GRPO: Puzzle Curriculum GRPO for Vision-Centric Reasoning  [[PDF](https://arxiv.org/abs/2512.14944),[Page](https://pcgrpo.github.io/)] 
 
 [arxiv 2025.12]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -3983,6 +4005,11 @@ Creative Layout-to-Image Generation [[PDF](https://arxiv.org/pdf/2412.03859),[Pa
 [arxiv 2025.12] Markovian Scale Prediction: A New Era of Visual Autoregressive Generation  [[PDF](https://arxiv.org/abs/2511.23334),[Page](https://luokairo.github.io/markov-var-page/)] ![Code](https://img.shields.io/github/stars/luokairo/Markov-VAR?style=social&label=Star)
 
 [arxiv 2025.12] Improved Mean Flows: On the Challenges of Fastforward Generative Models  [[PDF](https://arxiv.org/abs/2512.02012)]
+
+[arxiv 2025.12]  Loom: Diffusion-Transformer for Interleaved Generation [[PDF](https://arxiv.org/pdf/2512.18254),[Page](https://github.com/Plantian/Loom)] ![Code](https://img.shields.io/github/stars/Plantian/Loom?style=social&label=Star)
+
+[arxiv 2025.12]  SemanticGen: Video Generation in Semantic Space [[PDF](https://arxiv.org/abs/2512.20619),[Page](https://jianhongbai.github.io/SemanticGen/)] 
+
 
 [arxiv 2025.12]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
