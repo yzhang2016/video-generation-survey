@@ -217,6 +217,9 @@
 
 [arxiv 2025.11]  Qwen3-VL Technical Report [[PDF](https://arxiv.org/pdf/2511.21631),[Page](https://github.com/QwenLM/Qwen3-VL)] ![Code](https://img.shields.io/github/stars/QwenLM/Qwen3-VL?style=social&label=Star) 
 
+[arxiv 2025.12]  Xiaomi MiMo-VL-Miloco Technical Report [[PDF](https://arxiv.org/abs/2512.17436),[Page](https://github.com/XiaoMi/xiaomi-mimo-vl-miloco)] ![Code](https://img.shields.io/github/stars/XiaoMi/xiaomi-mimo-vl-miloco?style=social&label=Star) 
+
+
 [arxiv 2025.12]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
 
 
@@ -404,6 +407,7 @@
 
 [arxiv 2025.12]  Tuna: Taming Unified Visual Representations for Native Unified Multimodal Models [[PDF](https://arxiv.org/pdf/2512.02014),[Page](https://tuna-ai.org/)] ![Code](https://img.shields.io/github/stars/wren93/tuna?style=social&label=Star) 
 
+[arxiv 2025.12]  Visual-Aware CoT: Achieving High-Fidelity Visual Consistency in Unified Models [[PDF](https://arxiv.org/pdf/2512.19686),[Page](https://zixuan-ye.github.io/VACoT/)] 
 
 [arxiv 2025.12]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
 
@@ -443,6 +447,9 @@
 [arxiv 2025.11]  Unified Diffusion VLA: Vision-Language-Action Model via Joint Discrete Denoising Diffusion Process [[PDF](https://arxiv.org/abs/2511.01718),[Page](https://irpn-eai.github.io/UD-VLA.github.io/)] ![Code](https://img.shields.io/github/stars/OpenHelix-Team/UD-VLA?style=social&label=Star) 
 
 [arxiv 2025.12] ENACT: Evaluating Embodied Cognition withWorld Modeling of Egocentric Interaction  [[PDF](https://arxiv.org/abs/2511.20937),[Page](https://enact-embodied-cognition.github.io/)] ![Code](https://img.shields.io/github/stars/mll-lab-nu/ENACT?style=social&label=Star) 
+
+[arxiv 2025.12]  Motus: A Unified Latent Action World Model [[PDF](https://arxiv.org/abs/2512.13030),[Page](https://motus-robotics.github.io/motus)] ![Code](https://img.shields.io/github/stars/thu-ml/Motus?style=social&label=Star) 
+
 
 [arxiv 2025.12]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
 
@@ -589,6 +596,7 @@
 
 [arxiv 2025.09]  Tool-R1: Sample-Efficient Reinforcement Learning for Agentic Tool Use [[PDF](https://arxiv.org/pdf/2509.12867),[Page](https://github.com/YBYBZhang/Tool-R1)] 
 
+[arxiv 2025.12] Step-GUI Technical Report  [[PDF](https://arxiv.org/abs/2512.15431),[Page](https://github.com/stepfun-ai/gelab-zero)] ![Code](https://img.shields.io/github/stars/stepfun-ai/gelab-zero?style=social&label=Star) 
 
 [arxiv 2025.12]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
 
