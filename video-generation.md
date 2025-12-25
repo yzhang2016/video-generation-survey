@@ -758,6 +758,7 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2025.12] StoryMem: Multi-shot Long Video Storytelling with Memory  [[PDF](https://arxiv.org/abs/2512.19539),[Page](https://kevin-thu.github.io/StoryMem/)] ![Code](https://img.shields.io/github/stars/Kevin-thu/StoryMem?style=social&label=Star)
 
+[arxiv 2025.12] DreaMontage: Arbitrary Frame-Guided One-Shot Video Generation  [[PDF](https://arxiv.org/pdf/2512.21252),[Page](https://dreamontage.github.io/DreaMontage/)] 
 
 [arxiv 2025.12]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -1586,7 +1587,7 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2025.12]  Transform Trained Transformer: Accelerating Naive 4K Video Generation Over 10 [[PDF](https://arxiv.org/abs/2512.13492),[Page](https://zhangzjn.github.io/projects/T3-Video/)] ![Code](https://img.shields.io/github/stars/zhangzjn/T3-Video?style=social&label=Star)
 
-
+[arxiv 2025.12]  HiStream: Efficient High-Resolution Video Generation via Redundancy Eliminated Streaming [[PDF](https://arxiv.org/abs/2512.21338),[Page](http://haonanqiu.com/projects/HiStream.html)] ![Code](https://img.shields.io/github/stars/arthur-qiu/HiStream?style=social&label=Star)
 
 [arxiv 2025.12]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
