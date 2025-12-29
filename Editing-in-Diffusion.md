@@ -590,6 +590,9 @@
 
 [arxiv 2025.12] FreqEdit: Preserving High-Frequency Features for Robust Multi-Turn Image Editing  [[PDF](https://arxiv.org/abs/2512.01755),[Page](https://freqedit.github.io/)] ![Code](https://img.shields.io/github/stars/FreqEdit/FreqEdit?style=social&label=Star)
 
+[arxiv 2025.12]  ProEdit: Inversion-based Editing From Prompts Done Right [[PDF](https://arxiv.org/abs/2512.22118),[Page](https://isee-laboratory.github.io/ProEdit/)] ![Code](https://img.shields.io/github/stars/iSEE-Laboratory/ProEdit?style=social&label=Star)
+
+
 [arxiv 2025.12]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 ## end of editing 
@@ -3869,6 +3872,8 @@ Creative Layout-to-Image Generation [[PDF](https://arxiv.org/pdf/2412.03859),[Pa
 [arxiv 2025.11] RubricRL: Simple Generalizable Rewards for Text-to-Image Generation  [[PDF](https://arxiv.org/pdf/2511.20651)]
 
 [arxiv 2025.12] PC-GRPO: Puzzle Curriculum GRPO for Vision-Centric Reasoning  [[PDF](https://arxiv.org/abs/2512.14944),[Page](https://pcgrpo.github.io/)] 
+
+[arxiv 2025.12] DiverseGRPO: Mitigating Mode Collapse in Image Generation via Diversity-Aware GRPO  [[PDF](https://arxiv.org/abs/2512.21514),[Page](https://henglin-liu.github.io/DiverseGRPO/)] 
 
 [arxiv 2025.12]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
