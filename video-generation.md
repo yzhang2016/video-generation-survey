@@ -1290,6 +1290,9 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2025.12]  EverybodyDance: Bipartite Graph–Based Identity Correspondence for Multi-Character Animation [[PDF](https://arxiv.org/pdf/2512.16360)]
 
+[arxiv 2025.12] High-Fidelity and Long-Duration Human Image Animation with Diffusion Transformer  [[PDF](https://arxiv.org/abs/2512.21905)]
+
+
 [arxiv 2025.12]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 
@@ -1716,6 +1719,7 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2025.12] What Happens Next? Next Scene Prediction with a Unified Video Model  [[PDF](https://arxiv.org/abs/2512.13015),[Page](https://nextsceneprediction.github.io/)] 
 
+[arxiv 2025.12] EasyOmnimatte: Taming Pretrained Inpainting Diffusion Models for End-to-End Video Layered Decomposition  [[PDF](https://arxiv.org/abs/2512.21865),[Page](https://yihanhu-2022.github.io/easyomnimatte-project/)] ![Code](https://img.shields.io/github/stars/GVCLab/EasyOmnimatte?style=social&label=Star)
 
 [arxiv 2025.12]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -2038,6 +2042,7 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2025.12] ActAvatar: Temporally-Aware Precise Action Control for Talking Avatars  [[PDF](https://arxiv.org/abs/2512.19546),[Page](https://ziqiaopeng.github.io/ActAvatar/)] 
 
+[arxiv 2025.12]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 [arxiv 2025.12]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -2057,6 +2062,10 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 [arxiv 2025.12]  PersonaLive! Expressive Portrait Image Animation for Live Streaming [[PDF](https://arxiv.org/abs/2512.11253),[Page](https://github.com/GVCLab/PersonaLive)] ![Code](https://img.shields.io/github/stars/GVCLab/PersonaLive?style=social&label=Star)
 
 [arxiv 2025.12]  Live Avatar: Streaming Real-time Audio-Driven Avatar Generation with Infinite Length [[PDF](https://arxiv.org/abs/2512.04677),[Page](https://liveavatar.github.io/)] ![Code](https://img.shields.io/github/stars/Alibaba-Quark/LiveAvatar?style=social&label=Star)
+
+[arxiv 2025.12] StreamAvatar: Streaming Diffusion Models for Real-Time Interactive Human Avatars  [[PDF](https://arxiv.org/abs/2512.22065),[Page](https://streamavatar.github.io/)] 
+
+[arxiv 2025.12]  Knot Forcing: Taming Autoregressive Video Diffusion Models for Real-time Infinite Interactive Portrait Animation [[PDF](https://arxiv.org/abs/2512.21734),[Page](https://humanaigc.github.io/knot_forcing_demo_page/)] 
 
 [arxiv 2025.12]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -2102,6 +2111,9 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 [arxiv 2025.06] SkyReels-Audio: Omni Audio-Conditioned Talking Portraits in Video Diffusion Transformers  [[PDF](https://arxiv.org/pdf/2506.00830),[Page](https://skyworkai.github.io/skyreels-audio.github.io/)] 
 
 [arxiv 2025.09] StableDub: Taming Diffusion Prior for Generalized and Efficient Visual Dubbing  [[PDF](https://arxiv.org/abs/2509.21887),[Page](https://stabledub.github.io/)] 
+
+[arxiv 2025.12]  SyncAnyone: Implicit Disentanglement via Progressive Self-Correction for Lip-Syncing in the wild [[PDF](https://arxiv.org/abs/2512.21736),[Page](https://humanaigc.github.io/sync_anyone_demo_page/)] 
+
 
 [arxiv 2025.12]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -2860,6 +2872,9 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2025.11]  V-ReasonBench: Toward Unified Reasoning Benchmark Suite for Video Generation Models [[PDF](https://arxiv.org/abs/2511.16668),[Page](https://oahzxl.github.io/VReasonBench/)] ![Code](https://img.shields.io/github/stars/yangluo7/V-ReasonBench?style=social&label=Star)
 
+[arxiv 2025.12] SVBench: Evaluation of Video Generation Models on Social Reasoning [[PDF](https://arxiv.org/abs/2512.21507),[Page](https://github.com/Gloria2tt/SVBench-Evaluation)] ![Code](https://img.shields.io/github/stars/Gloria2tt/SVBench-Evaluation?style=social&label=Star)
+
+
 [arxiv 2025.12]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 
@@ -3130,6 +3145,7 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2025.12]  Spatia: Video Generation with Updatable Spatial Memory [[PDF](https://arxiv.org/abs/2512.15716),[Page](https://zhaojingjing713.github.io/Spatia/)] ![Code](https://img.shields.io/github/stars/ZhaoJingjing713/Spatia?style=social&label=Star)
 
+[arxiv 2025.12] Yume-1.5: A Text-Controlled Interactive World Generation Model  [[PDF](https://arxiv.org/abs/2512.22096),[Page](https://stdstu12.github.io/YUME-Project/)] ![Code](https://img.shields.io/github/stars/stdstu12/YUME?style=social&label=Star)
 
 [arxiv 2025.12]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
