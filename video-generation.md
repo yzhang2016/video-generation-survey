@@ -987,6 +987,7 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 ## reasoning 
 
+[arxiv 2025.12]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 [arxiv 2025.12]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -1582,6 +1583,9 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2025.10]  UniMMVSR: A Unified Multi-Modal Framework for Cascaded Video Super-Resolution [[PDF](https://arxiv.org/abs/2510.08143),[Page](https://shiandu.github.io/UniMMVSR-website/)] 
 
+[arxiv 2025.10] InfVSR: Breaking Length Limits of Generic Video Super-Resolution  [[PDF](https://arxiv.org/abs/2510.00948),[Page](https://github.com/Kai-Liu001/InfVSR)] ![Code](https://img.shields.io/github/stars/Kai-Liu001/InfVSR?style=social&label=Star)
+
+
 [arxiv 2025.10] FlashVSR: Towards Real-Time Diffusion-Based Streaming Video Super-Resolution  [[PDF](https://arxiv.org/abs/2510.12747),[Page](https://zhuang2002.github.io/FlashVSR/)] ![Code](https://img.shields.io/github/stars/OpenImagingLab/FlashVSR?style=social&label=Star)
 
 [arxiv 2025.10]  UltraGen: High-Resolution Video Generation with Hierarchical Attention [[PDF](https://arxiv.org/pdf/2510.18775),[Page](https://sjtuplayer.github.io/projects/UltraGen/)] ![Code](https://img.shields.io/github/stars/sjtuplayer/UltraGen?style=social&label=Star)
@@ -1591,6 +1595,9 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 [arxiv 2025.12]  Transform Trained Transformer: Accelerating Naive 4K Video Generation Over 10 [[PDF](https://arxiv.org/abs/2512.13492),[Page](https://zhangzjn.github.io/projects/T3-Video/)] ![Code](https://img.shields.io/github/stars/zhangzjn/T3-Video?style=social&label=Star)
 
 [arxiv 2025.12]  HiStream: Efficient High-Resolution Video Generation via Redundancy Eliminated Streaming [[PDF](https://arxiv.org/abs/2512.21338),[Page](http://haonanqiu.com/projects/HiStream.html)] ![Code](https://img.shields.io/github/stars/arthur-qiu/HiStream?style=social&label=Star)
+
+[arxiv 2025.12] Stream-DiffVSR: Low-Latency Streamable Video Super-Resolution via Auto-Regressive Diffusion  [[PDF](https://arxiv.org/abs/2512.23709),[Page](https://jamichss.github.io/stream-diffvsr-project-page/)] 
+
 
 [arxiv 2025.12]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -1827,6 +1834,7 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2025.11]  First Frame Is the Place to Go for Video Content Customization [[PDF](https://arxiv.org/abs/2511.15700),[Page](https://firstframego.github.io/)] ![Code](https://img.shields.io/github/stars/zli12321/FFGO-Video-Customization?style=social&label=Star)
 
+[arxiv 2025.12]  MoFu: Scale-Aware Modulation and Fourier Fusion for Multi-Subject Video Generation [[PDF](https://arxiv.org/abs/2512.22310)]
 
 [arxiv 2025.12]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -2066,6 +2074,9 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 [arxiv 2025.12] StreamAvatar: Streaming Diffusion Models for Real-Time Interactive Human Avatars  [[PDF](https://arxiv.org/abs/2512.22065),[Page](https://streamavatar.github.io/)] 
 
 [arxiv 2025.12]  Knot Forcing: Taming Autoregressive Video Diffusion Models for Real-time Infinite Interactive Portrait Animation [[PDF](https://arxiv.org/abs/2512.21734),[Page](https://humanaigc.github.io/knot_forcing_demo_page/)] 
+
+[arxiv 2025.12]  SoulX-LiveTalk Technical Report [[PDF](https://arxiv.org/pdf/2512.23379),[Page](https://soul-ailab.github.io/soulx-livetalk/)] ![Code](https://img.shields.io/github/stars/Soul-AILab/SoulX-LiveTalk?style=social&label=Star)
+
 
 [arxiv 2025.12]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
