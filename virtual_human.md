@@ -139,6 +139,9 @@
 
 [arxiv 2025.12] EchoMotion: Unified Human Video and Motion Generation via Dual-Modality Diffusion Transformer  [[PDF](https://arxiv.org/abs/2512.18814),[Page](https://yuxiaoyang23.github.io/EchoMotion-webpage/)]
 
+[arxiv 2025.12]  HY-Motion 1.0: Scaling Flow Matching Models for Text-To-Motion Generation [[PDF](https://arxiv.org/pdf/2512.23464),[Page](https://github.com/Tencent-Hunyuan/HY-Motion-1.0)] ![Code](https://img.shields.io/github/stars/Tencent-Hunyuan/HY-Motion-1.0?style=social&label=Star)
+
+
 [arxiv 2025.12]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 
