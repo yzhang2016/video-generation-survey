@@ -223,6 +223,12 @@
 [arxiv 2025.12]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
 
 
+## sound-video understanding 
+[arxiv 2025.12] JavisGPT: A Unified Multi-modal LLM for Sounding-Video Comprehension and Generation  [[PDF](https://arxiv.org/abs/2512.22905),[Page](https://github.com/JavisVerse/JavisGPT)] ![Code](https://img.shields.io/github/stars/JavisVerse/JavisGPT?style=social&label=Star) 
+
+[arxiv 2025.12]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
+
+
 ## downstream
 [arxiv 2025.05]  Multi-SpatialMLLM: Multi-Frame Spatial Understanding with Multi-Modal Large Language Models [[PDF](https://arxiv.org/abs/2505.17015),[Page](https://runsenxu.com/projects/Multi-SpatialMLLM)] ![Code](https://img.shields.io/github/stars/facebookresearch/Multi-SpatialMLLM?style=social&label=Star) 
 
@@ -291,6 +297,7 @@
 
 [arxiv 2025.11]  Seeing the Forest and the Trees: Query-Aware Tokenizer for Long-Video Multimodal Language Models [[PDF](https://arxiv.org/abs/2511.11910),[Page](https://github.com/Siyou-Li/QTSplus)] ![Code](https://img.shields.io/github/stars/Siyou-Li/QTSplus?style=social&label=Star) 
 
+[arxiv 2025.12] VideoZoomer: Reinforcement-Learned Temporal Focusing for Long Video Reasoning  [[PDF](https://arxiv.org/abs/2512.22315)]
 
 [arxiv 2025.12]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
 
