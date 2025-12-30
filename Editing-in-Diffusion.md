@@ -613,6 +613,9 @@
 
 [arxiv 2025.12] MIRA: Multimodal Iterative Reasoning Agent for Image Editing  [[PDF](https://arxiv.org/abs/2511.21087),[Page](https://zzzmyyzeng.github.io/MIRA/)] 
 
+[arxiv 2025.12]  ThinkGen: Generalized Thinking for Visual Generation [[PDF](https://arxiv.org/pdf/2512.23568),[Page](https://github.com/jiaosiyuu/ThinkGen)] ![Code](https://img.shields.io/github/stars/jiaosiyuu/ThinkGen?style=social&label=Star)
+
+
 [arxiv 2025.12]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 
@@ -692,6 +695,7 @@
 
 [arxiv 2025.12] ClusIR: Towards Cluster-Guided All-in-One Image Restoration  [[PDF](https://arxiv.org/abs/2512.10948)]
 
+[arxiv 2025.12]  DreamOmni3: Scribble-based Editing and Generation [[PDF](https://arxiv.org/abs/2512.22525),[Page](https://github.com/dvlab-research/DreamOmni3)] ![Code](https://img.shields.io/github/stars/dvlab-research/DreamOmni3?style=social&label=Star)
 
 [arxiv 2025.12]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -2176,6 +2180,8 @@
 [arxiv 2025.09] TaleDiffusion: Multi-Character Story Generation with Dialogue Rendering  [[PDF](),[Page](https://github.com/ayanban011/TaleDiffusion)] ![Code](https://img.shields.io/github/stars/ayanban011/TaleDiffusion?style=social&label=Star)
 
 [arxiv 2025.10]  SceneDecorator: Towards Scene-Oriented Story Generation with Scene Planning and Scene Consistency [[PDF](https://arxiv.org/pdf/2510.22994),[Page](https://lulupig12138.github.io/SceneDecorator/)] ![Code](https://img.shields.io/github/stars/lulupig12138/SceneDecorator?style=social&label=Star)
+
+[arxiv 2025.12] IdentityStory: Taming Your Identity-Preserving Generator for Human-Centric Story Generation  [[PDF](https://arxiv.org/abs/2512.23519)]
 
 [arxiv 2025.12]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
