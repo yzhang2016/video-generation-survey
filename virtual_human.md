@@ -4,14 +4,14 @@
 [arxiv 2025.07] Go to Zero: Towards Zero-shot Motion Generation with Million-scale Data  [[PDF](https://arxiv.org/abs/2507.07095),[Page](https://github.com/VankouF/MotionMillion-Codes)] ![Code](https://img.shields.io/github/stars/VankouF/MotionMillion-Codes?style=social&label=Star)
 
 
-[arxiv 2025.12]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
+[arxiv 2026.01]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 
 
 ## Gaussian Face 
 [arxiv 2025.01] PERSE: Personalized 3D Generative Avatars from A Single Portrait  [[PDF](https://arxiv.org/abs/2412.21206),[Page](https://hyunsoocha.github.io/perse/)] ![Code](https://img.shields.io/github/stars/snuvclab/perse?style=social&label=Star)
 
-[arxiv 2025.12]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
+[arxiv 2026.01]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 
 
@@ -141,8 +141,9 @@
 
 [arxiv 2025.12]  HY-Motion 1.0: Scaling Flow Matching Models for Text-To-Motion Generation [[PDF](https://arxiv.org/pdf/2512.23464),[Page](https://github.com/Tencent-Hunyuan/HY-Motion-1.0)] ![Code](https://img.shields.io/github/stars/Tencent-Hunyuan/HY-Motion-1.0?style=social&label=Star)
 
+[arxiv 2025.12]  Think Before You Move: Latent Motion Reasoning for Text-to-Motion Generation [[PDF](https://chenhaoqcdyq.github.io/LMR/),[Page](https://chenhaoqcdyq.github.io/LMR/)] ![Code](https://img.shields.io/github/stars/chenhaoqcdyq/lmr-codes?style=social&label=Star)
 
-[arxiv 2025.12]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
+[arxiv 2026.01]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 
 ## audio-to-gesture 
@@ -151,7 +152,7 @@
 [arxiv 2025.03]  ExGes: Expressive Human Motion Retrieval and Modulation for Audio-Driven Gesture Synthesis [[PDF](https://arxiv.org/pdf/2503.06499)]
 
 
-[arxiv 2025.12]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
+[arxiv 2026.01]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 
 
@@ -176,19 +177,19 @@
 [arxiv 2025.10] TOUCH: Text-gUided Controllable Generation of Free-Form Hand-Object Interactions  [[PDF](https://arxiv.org/abs/2510.14874),[Page](https://guangyid.github.io/hoi123touch/)] 
 
 
-[arxiv 2025.12]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
+[arxiv 2026.01]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 
 # ego
 [arxiv 2025.04]  The Invisible EgoHand: 3D Hand Forecasting through EgoBody Pose Estimation [[PDF](https://arxiv.org/abs/2504.08654),[Page](https://masashi-hatano.github.io/EgoH4/)] ![Code](https://img.shields.io/github/stars/masashi-hatano/EgoH4?style=social&label=Star)
 
-[arxiv 2025.12]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
+[arxiv 2026.01]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 
 # LLM 
 [arxiv 2025.12] M.I.O: Towards Interactive Intelligence for Digital Humans  [[PDF](https://arxiv.org/abs/2512.13674),[Page](https://shandaai.github.io/project_mio_page/)] 
 
-[arxiv 2025.12]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
+[arxiv 2026.01]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 
 ## Interaction 
@@ -283,7 +284,7 @@
 [arxiv 2025.11]  SyncMV4D: Synchronized Multi-view Joint Diffusion of Appearance and Motion for Hand-Object Interaction Synthesis [[PDF](https://arxiv.org/abs/2511.19319),[Page](https://droliven.github.io/SyncMV4D)] ![Code](https://img.shields.io/github/stars/Droliven/syncmv4d_code?style=social&label=Star)
 
 
-[arxiv 2025.12]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
+[arxiv 2026.01]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 
 ## Interaction Detection 
@@ -300,10 +301,10 @@
 
 [arxiv 2025.08] HOID-R1: Reinforcement Learning for Open-World Human-Object Interaction Detection Reasoning with Multimodal Large Language Model  [[PDF](https://arxiv.org/abs/2508.11350)]
 
-[arxiv 2025.12]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
+[arxiv 2026.01]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 
-[arxiv 2025.12]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
+[arxiv 2026.01]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 
 ## environment 
@@ -323,12 +324,12 @@
 
 [arxiv 2025.10]  Human3R: Everyone Everywhere All at Once [[PDF](https://arxiv.org/abs/2510.06219),[Page](https://fanegg.github.io/Human3R)] ![Code](https://img.shields.io/github/stars/fanegg/Human3R?style=social&label=Star)
 
-[arxiv 2025.12]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
+[arxiv 2026.01]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 ## VLA
 [arxiv 2025.11]  HMVLM: Human Motion-Vision-Lanuage Model via MoE LoRA [[PDF](https://arxiv.org/abs/2511.01463)]
 
-[arxiv 2025.12]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
+[arxiv 2026.01]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 
 ## Capture 
@@ -340,4 +341,4 @@
 [arxiv 2025.04] CoMotion: Concurrent Multi-person 3D Motion  [[PDF](https://arxiv.org/abs/2504.12186),[Page](https://github.com/apple/ml-comotion)] ![Code](https://img.shields.io/github/stars/apple/ml-comotion?style=social&label=Star)
 
 
-[arxiv 2025.12]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
+[arxiv 2026.01]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
