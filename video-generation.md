@@ -914,7 +914,9 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2025.07] Ella: Embodied Social Agents with Lifelong Memory  [[PDF](https://arxiv.org/pdf/2506.24019),[Page](https://umass-embodied-agi.github.io/Ella/)] ![Code](https://img.shields.io/github/stars/UMass-Embodied-AGI/Ella?style=social&label=Star)
 
-[arxiv 2026.01]  Pretraining Frame Preservation in Autoregressive Video Memory Compression [[PDF](https://arxiv.org/pdf/2512.23851)]
+[arxiv 2025.12]  Memorize-and-Generate: Towards Long-Term Consistency in Real-Time Video Generation [[PDF](https://arxiv.org/pdf/2512.18741)]
+
+[arxiv 2025.12]  Pretraining Frame Preservation in Autoregressive Video Memory Compression [[PDF](https://arxiv.org/pdf/2512.23851)]
 
 [arxiv 2026.01]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
