@@ -416,6 +416,9 @@
 
 [arxiv 2025.12]  Visual-Aware CoT: Achieving High-Fidelity Visual Consistency in Unified Models [[PDF](https://arxiv.org/pdf/2512.19686),[Page](https://zixuan-ye.github.io/VACoT/)] 
 
+[arxiv 2026.01]  NextFlow: Unified Sequential Modeling Activates Multimodal Understanding and Generation [[PDF](https://arxiv.org/pdf/2601.02204),[Page](https://github.com/ByteVisionLab/NextFlow)] ![Code](https://img.shields.io/github/stars/ByteVisionLab/NextFlow?style=social&label=Star) 
+
+
 [arxiv 2026.01]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
 
 
