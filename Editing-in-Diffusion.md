@@ -594,6 +594,13 @@
 
 [arxiv 2025.12] On Exact Editing of Flow-Based Diffusion Models  [[PDF](https://arxiv.org/pdf/2512.24015)]
 
+[arxiv 2026.01] Talk2Move: Reinforcement Learning for Text-Instructed Object-Level Geometric Transformation in Scenes  [[PDF](https://arxiv.org/abs/2601.02356),[Page](https://sparkstj.github.io/talk2move/)] ![Code](https://img.shields.io/github/stars/sparkstj/Talk2Move?style=social&label=Star)
+
+[arxiv 2026.01]  Unraveling MMDiT Blocks: Training-free Analysis and Enhancement of Text-conditioned Diffusion [[PDF](https://arxiv.org/pdf/2601.02211)]
+
+[arxiv 2026.01]  TalkPhoto: A Versatile Training-Free Conversational Assistant for Intelligent Image Editing [[PDF](https://arxiv.org/abs/2601.01915)]
+
+
 [arxiv 2026.01]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 ## end of editing 
@@ -617,6 +624,9 @@
 [arxiv 2025.12]  ThinkGen: Generalized Thinking for Visual Generation [[PDF](https://arxiv.org/pdf/2512.23568),[Page](https://github.com/jiaosiyuu/ThinkGen)] ![Code](https://img.shields.io/github/stars/jiaosiyuu/ThinkGen?style=social&label=Star)
 
 [arxiv 2025.12] DiffThinker: Towards Generative Multimodal Reasoning with Diffusion Models  [[PDF](https://arxiv.org/abs/2512.24165),[Page](https://diffthinker-project.github.io/)] ![Code](https://img.shields.io/github/stars/lcqysl/DiffThinker?style=social&label=Star)
+
+[arxiv 2026.01] Unified Thinker: A General Reasoning Modular Core for Image Generation  [[PDF](https://arxiv.org/pdf/2601.03127),[Page](https://github.com/alibaba/UnifiedThinker)] ![Code](https://img.shields.io/github/stars/alibaba/UnifiedThinker?style=social&label=Star)
+
 
 [arxiv 2026.01]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -1108,6 +1118,7 @@
 
 [arxiv 2025.10]  Head-wise Adaptive Rotary Positional Encoding for Fine-Grained Image Generation [[PDF](https://arxiv.org/abs/2510.10489)]
 
+[arxiv 2026.01] Agentic Retoucher for Text-To-Image Generation  [[PDF](https://arxiv.org/pdf/2601.02046)]
 
 [arxiv 2026.01]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
