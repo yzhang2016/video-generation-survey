@@ -1168,6 +1168,7 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2025.12] The World is Your Canvas: Painting Promptable Events with Reference Images, Trajectories, and Text  [[PDF](https://arxiv.org/abs/2512.16924),[Page](https://worldcanvas.github.io/)] ![Code](https://img.shields.io/github/stars/pPetrichor/WorldCanvas?style=social&label=Star)
 
+[arxiv 2026.01]  MotionAdapter: Video Motion Transfer via Content-Aware Attention Customization [[PDF](https://arxiv.org/pdf/2601.01955),[Page](https://zhexin-zhang.github.io/MotionAdapter/)] ![Code](https://img.shields.io/github/stars/Zhexin-Zhang/MotionAdapter-Code?style=social&label=Star)
 
 [arxiv 2026.01]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -1732,6 +1733,9 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2025.12] EasyOmnimatte: Taming Pretrained Inpainting Diffusion Models for End-to-End Video Layered Decomposition  [[PDF](https://arxiv.org/abs/2512.21865),[Page](https://yihanhu-2022.github.io/easyomnimatte-project/)] ![Code](https://img.shields.io/github/stars/GVCLab/EasyOmnimatte?style=social&label=Star)
 
+[arxiv 2026.01]  DreamLoop: Controllable Cinemagraph Generation from a Single Photograph [[PDF](https://arxiv.org/abs/2601.02646),[Page](https://anime26398.github.io/dreamloop.github.io/)] 
+
+
 [arxiv 2026.01]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 
@@ -1839,6 +1843,8 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 [arxiv 2025.11]  First Frame Is the Place to Go for Video Content Customization [[PDF](https://arxiv.org/abs/2511.15700),[Page](https://firstframego.github.io/)] ![Code](https://img.shields.io/github/stars/zli12321/FFGO-Video-Customization?style=social&label=Star)
 
 [arxiv 2025.12]  MoFu: Scale-Aware Modulation and Fourier Fusion for Multi-Subject Video Generation [[PDF](https://arxiv.org/abs/2512.22310)]
+
+[arxiv 2026.01] Slot-ID: Identity-Preserving Video Generation from Reference Videos via Slot-Based Temporal Identity Encoding  [[PDF](https://arxiv.org/pdf/2601.01352)]
 
 [arxiv 2026.01]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -2181,8 +2187,9 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2025.03] High-Fidelity Diffusion Face Swapping with ID-Constrained Facial Conditioning  [[PDF](https://arxiv.org/abs/2503.22179)]
 
-[arxiv 2025.06]  Controllable and Expressive One-Shot Video Head Swapping [[PDF](https://humanaigc.github.io/SwapAnyHead/),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
+[arxiv 2025.06]  Controllable and Expressive One-Shot Video Head Swapping [[PDF](https://humanaigc.github.io/SwapAnyHead/),[Page](https://guoxu1233.github.io/DreamID-V/)] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
+[arxiv 2026.01] DreamID-V:Bridging the Image-to-Video Gap for High-Fidelity Face Swapping via Diffusion Transformer  [[PDF](https://arxiv.org/abs/2601.01425),[Page]()] ![Code](https://img.shields.io/github/stars/bytedance/DreamID-V?style=social&label=Star)
 
 [arxiv 2026.01]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -2367,6 +2374,10 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2025.12]  JoVA: Unified Multimodal Learning for Joint Video-Audio Generation [[PDF](https://arxiv.org/abs/2512.13677),[Page](https://visual-ai.github.io/jova/)] ![Code](https://img.shields.io/github/stars/Visual-AI/JoVA?style=social&label=Star)
 
+[arxiv 2026.01] LTX-2: Efficient Joint Audio-Visual Foundation Model  [[PDF](https://arxiv.org/abs/2601.03233),[Page](https://github.com/Lightricks/LTX-2)] ![Code](https://img.shields.io/github/stars/Lightricks/LTX-2?style=social&label=Star)
+
+[arxiv 2026.01] MM-Sonate: Multimodal Controllable Audio-Video Generation with Zero-Shot Voice Cloning  [[PDF](https://arxiv.org/pdf/2601.01568)]
+
 [arxiv 2026.01]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 
@@ -2401,6 +2412,8 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 [arxiv 2025.10]  Foley Control: Aligning a Frozen Latent Text-to-Audio Model to Video [[PDF](https://stability-ai.github.io/foleycontrol.github.io/FoleyControl/Foley_Control_Final.pdf),[Page](https://stability-ai.github.io/foleycontrol.github.io/)] 
 
 [arxiv 2025.12]  EchoFoley: Event-Centric Hierarchical Control for Video Grounded Creative Sound Generation [[PDF](https://arxiv.org/pdf/2512.24731),[Page](https://echofoley.github.io/)] 
+
+[arxiv 2026.01]  Omni2Sound: Towards Unified Video-Text-to-Audio Generation [[PDF](https://arxiv.org/pdf/2601.02731),[Page](https://swapforward.github.io/Omni2Sound/)] 
 
 [arxiv 2026.01]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -2784,6 +2797,9 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 [arxiv 2025.10] FreeViS: Training-free Video Stylization with Inconsistent References  [[PDF](https://arxiv.org/abs/2510.01686),[Page](https://xujiacong.github.io/FreeViS/)] ![Code](https://img.shields.io/github/stars/XuJiacong/FreeViS/?style=social&label=Star)
 
 [arxiv 2025.10] PickStyle: Video-to-Video Style Transfer with Context-Style Adapters  [[PDF](https://arxiv.org/abs/2510.07546),[Page](https://pickstyle.pickford.ai/)] ![Code](https://img.shields.io/github/stars/PickfordAI/pickstyle?style=social&label=Star)
+
+[arxiv 2026.01] DreamStyle: A Unified Framework for Video Stylization  [[PDF](https://arxiv.org/abs/2601.02785),[Page](https://lemonsky1995.github.io/dreamstyle/)] ![Code](https://img.shields.io/github/stars/LemonSky1995/DreamStyle?style=social&label=Star)
+
 
 [arxiv 2026.01]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
