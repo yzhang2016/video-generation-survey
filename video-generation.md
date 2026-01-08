@@ -2088,6 +2088,7 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2025.12]  SoulX-LiveTalk Technical Report [[PDF](https://arxiv.org/pdf/2512.23379),[Page](https://soul-ailab.github.io/soulx-livetalk/)] ![Code](https://img.shields.io/github/stars/Soul-AILab/SoulX-LiveTalk?style=social&label=Star)
 
+[arxiv 2026.01] Avatar Forcing: Real-Time Interactive Head Avatar Generation for Natural Conversation  [[PDF](https://arxiv.org/abs/2601.00664),[Page](https://taekyungki.github.io/AvatarForcing/)] ![Code](https://img.shields.io/github/stars/TaekyungKi/AvatarForcing?style=social&label=Star)
 
 [arxiv 2026.01]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
