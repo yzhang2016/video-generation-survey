@@ -2439,7 +2439,7 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2025.08]  DreamVE: Unified Instruction-based Image and Video Editing [[PDF](https://arxiv.org/abs/2508.06080),[Page](https://zj-binxia.github.io/DreamVE-ProjectPage/)] 
 
-[arxiv 2025.10] UniVideo: Unified Understanding, Generation, and Editing for Videos  [[PDF](https://arxiv.org/abs/2510.08377),[Page](https://congwei1230.github.io/UniVideo/)] ![Code](https://img.shields.io/github/stars/KwaiVGI/UniVideo?style=social&label=Star)
+[arxiv 2025.10] UniVideo: Unified Understanding, Generation, and Editing for Videos  [[PDF](https://arxiv.org/abs/2510.08377),[Page](https://congwei1230.github.io/UniVideo/)] ![Code](https://img.shields.io/github/stars/KlingTeam/UniVideo?style=social&label=Star)
 
 [arxiv 2025.10] Scaling Instruction-Based Video Editing with a High-Quality Synthetic Dataset  [[PDF](https://arxiv.org/abs/2510.15742),[Page](https://editto.net/)] ![Code](https://img.shields.io/github/stars/EzioBy/Ditto?style=social&label=Star)
 
