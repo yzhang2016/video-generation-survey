@@ -761,6 +761,8 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2025.12] DreaMontage: Arbitrary Frame-Guided One-Shot Video Generation  [[PDF](https://arxiv.org/pdf/2512.21252),[Page](https://dreamontage.github.io/DreaMontage/)] 
 
+[arxiv 2026.01]  VideoMemory: Toward Consistent Video Generation via Memory Integration [[PDF](https://arxiv.org/pdf/2601.03655),[Page](https://hit-perfect.github.io/VideoMemory/)] 
+
 [arxiv 2026.01]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 
@@ -1449,6 +1451,9 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2025.12] DualCamCtrl: Dual-Branch Diffusion Model for Geometry-Aware Camera-Controlled Video Generation  [[PDF](https://arxiv.org/abs/2511.23127),[Page](https://soyouthinkyoucantell.github.io/dualcamctrl-page/)] ![Code](https://img.shields.io/github/stars/EnVision-Research/DualCamCtrl?style=social&label=Star)
 
+[arxiv 2026.01] Plenoptic Video Generation  [[PDF](https://drive.google.com/file/d/19f27mjcPv3VOcKWLRvGJNt6fR2Rck5gT/view?usp=sharing),[Page](https://research.nvidia.com/labs/dir/plenopticdreamer/)] 
+
+[arxiv 2026.01] VerseCrafter: Dynamic Realistic Video World Model with 4D Geometric Control  [[PDF](https://arxiv.org/pdf/2601.05138),[Page](https://sixiaozheng.github.io/VerseCrafter_page/)] ![Code](https://img.shields.io/github/stars/TencentARC/VerseCrafter?style=social&label=Star)
 
 [arxiv 2026.01]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -2379,6 +2384,8 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2026.01] MM-Sonate: Multimodal Controllable Audio-Video Generation with Zero-Shot Voice Cloning  [[PDF](https://arxiv.org/pdf/2601.01568)]
 
+[arxiv 2026.01]  Klear: Unified Multi-Task Audio-Video Joint Generation [[PDF](https://arxiv.org/abs/2601.04151)]
+
 [arxiv 2026.01]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 
@@ -3048,6 +3055,9 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2025.12] TurboDiffusion: Accelerating Video Diffusion Models by 100–200 Times  [[PDF](https://arxiv.org/abs/2512.16093),[Page](https://github.com/thu-ml/TurboDiffusion)] ![Code](https://img.shields.io/github/stars/thu-ml/TurboDiffusion?style=social&label=Star)
 
+[arxiv 2026.01] PackCache: A Training-Free Acceleration Method for Unified Autoregressive Video Generation via Compact KV-Cache  [[PDF](https://arxiv.org/abs/2601.04359)]
+
+
 [arxiv 2026.01]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 
@@ -3183,6 +3193,9 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 [arxiv 2025.12]  Spatia: Video Generation with Updatable Spatial Memory [[PDF](https://arxiv.org/abs/2512.15716),[Page](https://zhaojingjing713.github.io/Spatia/)] ![Code](https://img.shields.io/github/stars/ZhaoJingjing713/Spatia?style=social&label=Star)
 
 [arxiv 2025.12] Yume-1.5: A Text-Controlled Interactive World Generation Model  [[PDF](https://arxiv.org/abs/2512.22096),[Page](https://stdstu12.github.io/YUME-Project/)] ![Code](https://img.shields.io/github/stars/stdstu12/YUME?style=social&label=Star)
+
+[arxiv 2026.01]  Learning Latent Action World Models In The Wild [[PDF](https://arxiv.org/abs/2601.05230)]
+
 
 [arxiv 2026.01]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
