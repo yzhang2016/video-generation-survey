@@ -627,6 +627,7 @@
 
 [arxiv 2026.01] Unified Thinker: A General Reasoning Modular Core for Image Generation  [[PDF](https://arxiv.org/pdf/2601.03127),[Page](https://github.com/alibaba/UnifiedThinker)] ![Code](https://img.shields.io/github/stars/alibaba/UnifiedThinker?style=social&label=Star)
 
+[arxiv 2026.01]  ThinkRL-Edit: Thinking in Reinforcement Learning for Reasoning-Centric Image Editing [[PDF](https://arxiv.org/abs/2601.03467)]
 
 [arxiv 2026.01]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -2046,7 +2047,8 @@
 
 [arxiv 2025.12]  3SGen: Unified Subject, Style, and Structure-Driven Image Generation with Adaptive Task-specific Memory [[PDF](https://arxiv.org/pdf/2512.19271)]
 
- 
+[arxiv 2026.01] Re-Align: Structured Reasoning-guided Alignment for In-Context Image Generation and Editing  [[PDF](https://arxiv.org/abs/2601.05124),[Page](https://hrz2000.github.io/realign/)] 
+
 [arxiv 2026.01]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 
