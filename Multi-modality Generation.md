@@ -219,6 +219,7 @@
 
 [arxiv 2025.12]  Xiaomi MiMo-VL-Miloco Technical Report [[PDF](https://arxiv.org/abs/2512.17436),[Page](https://github.com/XiaoMi/xiaomi-mimo-vl-miloco)] ![Code](https://img.shields.io/github/stars/XiaoMi/xiaomi-mimo-vl-miloco?style=social&label=Star) 
 
+[arxiv 2026.01]  VideoAuto-R1: Video Auto Reasoning via Thinking Once, Answering Twice [[PDF](https://arxiv.org/abs/2601.05175),[Page](https://ivul-kaust.github.io/projects/videoauto-r1/)] ![Code](https://img.shields.io/github/stars/IVUL-KAUST/VideoAuto-R1/?style=social&label=Star) 
 
 [arxiv 2026.01]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
 
