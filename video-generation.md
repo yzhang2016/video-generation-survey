@@ -2827,6 +2827,9 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2025.12] BlockVid: Block Diffusion for High-Quality and Consistent Minute-Long Video Generation  [[PDF](https://arxiv.org/abs/2511.22973),[Page](https://ziplab.co/BlockVid/)] 
 
+[arxiv 2026.01]  VideoAR: Autoregressive Video Generation via Next-Frame & Scale Prediction [[PDF](https://arxiv.org/abs/2601.05966),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
+
+
 [arxiv 2026.01]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 
@@ -3323,6 +3326,7 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2025.12]  PhyGDPO: Physics-Aware Groupwise Direct Preference Optimization for Physically Consistent Text-to-Video Generation [[PDF](https://arxiv.org/abs/2512.24551),[Page](https://caiyuanhao1998.github.io/project/PhyGDPO/)] ![Code](https://img.shields.io/github/stars/caiyuanhao1998/Open-PhyGDPO?style=social&label=Star)
 
+[arxiv 2026.01] TAGRPO: Boosting GRPO on Image-to-Video Generation with Direct Trajectory Alignment  [[PDF](https://arxiv.org/pdf/2601.05729)]
 
 [arxiv 2026.01]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
