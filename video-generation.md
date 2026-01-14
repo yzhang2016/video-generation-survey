@@ -8,6 +8,7 @@ A reading list of video generation
 *  **Gaga** [[Page](https://gaga.art/app)]
 *  **Grok Imagine** [[Page](https://grok.com/imagine)]
 *  **Ovi** [[Page](https://github.com/character-ai/Ovi)] (opensource)
+*  **LTX-2** [[Page](https://github.com/Lightricks/LTX-2)] (opensource)
 
 ## Repo for open-sora
 
@@ -659,6 +660,7 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2025.12]  DiffusionBrowser: Interactive Diffusion Previews via Multi-Branch Decoders [[PDF](https://arxiv.org/abs/2512.13690)]
 
+[arxiv 2026.01]  Motion Attribution for Video Generation [[PDF](https://arxiv.org/abs/2601.08828),[Page](https://research.nvidia.com/labs/sil/projects/MOTIVE/)] 
 
 [arxiv 2026.01]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -1300,6 +1302,7 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2025.12] High-Fidelity and Long-Duration Human Image Animation with Diffusion Transformer  [[PDF](https://arxiv.org/abs/2512.21905)]
 
+[arxiv 2026.01] MoCha: End-to-End Video Character Replacement without Structural Guidance  [[PDF](https://arxiv.org/pdf/2601.08587),[Page](https://github.com/Orange-3DV-Team/MoCha)] ![Code](https://img.shields.io/github/stars/Orange-3DV-Team/MoCha?style=social&label=Star)
 
 [arxiv 2026.01]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -2570,6 +2573,7 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2025.12]  InsertAnywhere: Bridging 4D Scene Geometry and Diffusion Models for Realistic Video Object Insertion [[PDF](https://arxiv.org/abs/2512.17504),[Page](https://myyzzzoooo.github.io/InsertAnywhere/)] ![Code](https://img.shields.io/github/stars/myyzzzoooo/InsertAnywhere?style=social&label=Star)
 
+[arxiv 2026.01]  Tuning-free Visual Effect Transfer across Videos [[PDF](https://arxiv.org/abs/2601.07833),[Page](https://tuningfreevisualeffects-maker.github.io/Tuning-free-Visual-Effect-Transfer-across-Videos-Project-Page/)] 
 
 [arxiv 2026.01]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -2808,6 +2812,7 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2026.01] DreamStyle: A Unified Framework for Video Stylization  [[PDF](https://arxiv.org/abs/2601.02785),[Page](https://lemonsky1995.github.io/dreamstyle/)] ![Code](https://img.shields.io/github/stars/LemonSky1995/DreamStyle?style=social&label=Star)
 
+[arxiv 2026.01] QwenStyle: Content-Preserving Style Transfer with Qwen-Image-Edit  [[PDF](https://arxiv.org/abs/2601.06202),[Page](https://github.com/witcherofresearch/Qwen-Image-Style-Transfer)] ![Code](https://img.shields.io/github/stars/witcherofresearch/Qwen-Image-Style-Transfer?style=social&label=Star)
 
 [arxiv 2026.01]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -2937,6 +2942,10 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2025.04]  Survey of Video Diffusion Models: Foundations, Implementations, and Applications [[PDF](https://arxiv.org/abs/2504.16081)]
 
+## Edge device
+[arxiv 2026.01] SnapGen++: Unleashing Diffusion Transformers for Efficient High-Fidelity Image Generation on Edge Devices  [[PDF](https://arxiv.org/pdf/2601.08303)]
+
+[arxiv 2026.01]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 
 ## Speed 
@@ -3060,6 +3069,7 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2026.01] PackCache: A Training-Free Acceleration Method for Unified Autoregressive Video Generation via Compact KV-Cache  [[PDF](https://arxiv.org/abs/2601.04359)]
 
+[arxiv 2026.01] MHLA: Restoring Expressivity of Linear Attention via Token-Level Multi-Head  [[PDF](https://arxiv.org/abs/2601.07832),[Page](https://github.com/DAGroup-PKU/MHLA)] ![Code](https://img.shields.io/github/stars/DAGroup-PKU/MHLA?style=social&label=Star)
 
 [arxiv 2026.01]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
