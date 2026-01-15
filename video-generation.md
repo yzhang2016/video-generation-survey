@@ -2504,6 +2504,8 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2024.11] VideoDirector: Precise Video Editing via Text-to-Video Models  [[PDF](https://arxiv.org/abs/2411.17592),[Page](https://anonymous.4open.science/w/c4KzqAbCaz89o0FeWkdya/)] 
 
+[arxiv 2024.11] AutoVFX: Physically Realistic Video Editing from Natural Language Instructions [[PDF](https://arxiv.org/abs/2411.02394),[Page](https://haoyuhsu.github.io/autovfx-website/)]
+
 [arxiv 2024.12] MoViE: Mobile Diffusion for Video Editing  [[PDF](https://arxiv.org/abs/2412.06578)]
 
 [arxiv 2024.12] Re-Attentional Controllable Video Diffusion Editing  [[PDF](https://arxiv.org/abs/2412.11710),[Page](https://github.com/mdswyz/ReAtCo)] ![Code](https://img.shields.io/github/stars/mdswyz/ReAtCo?style=social&label=Star)
@@ -3069,10 +3071,6 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 [arxiv 2026.01]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 
-## mobile 
-[arxiv 2026.01]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
-
-
 ## Dataset optimization 
 [arxiv 2025.01] A Large-Scale Study on Video Action Dataset Condensation  [[PDF](https://arxiv.org/abs/2412.21197),[Page](https://github.com/MCG-NJU/Video-DC)] ![Code](https://img.shields.io/github/stars/MCG-NJU/Video-DC?style=social&label=Star)
 
@@ -3087,12 +3085,6 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2023.08]DiffSynth: Latent In-Iteration Deflickering for Realistic Video Synthesis [[PDF](https://arxiv.org/abs/2308.03463)]
 
-
-## Visual effect
-
-[arxiv 2024.11] AutoVFX: Physically Realistic Video Editing from Natural Language Instructions [[PDF](https://arxiv.org/abs/2411.02394),[Page](https://haoyuhsu.github.io/autovfx-website/)]
-
-[arxiv 2026.01]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 ## CG2real
 [arxiv 2024.09] AMG: Avatar Motion Guided Video Generation [[PDF](https://arxiv.org/abs/2409.01502),[Page](https://github.com/zshyang/amg)]
