@@ -913,7 +913,11 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2025.12]  Memorize-and-Generate: Towards Long-Term Consistency in Real-Time Video Generation [[PDF](https://arxiv.org/pdf/2512.18741)]
 
+[arxiv 2025.12] BlockVid: Block Diffusion for High-Quality and Consistent Minute-Long Video Generation  [[PDF](https://arxiv.org/abs/2511.22973),[Page](https://ziplab.co/BlockVid/)] 
+
 [arxiv 2026.01]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
+
+
 
 ## memory 
 [arxiv 2025.06] VMem: Consistent Interactive Video Scene Generation with Surfel-Indexed View Memory  [[PDF](http://arxiv.org/abs/2506.18903),[Page](https://v-mem.github.io/)] ![Code](https://img.shields.io/github/stars/runjiali-rl/vmem?style=social&label=Star)
@@ -2822,8 +2826,6 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 [arxiv 2025.11] Fractional Diffusion Bridge Models  [[PDF](https://arxiv.org/pdf/2511.01795)]
 
 [arxiv 2025.12]  Inferix: A Block-Diffusion based Next-Generation Inference Engine for World Simulation [[PDF](https://arxiv.org/abs/2511.20714),[Page](https://github.com/alibaba-damo-academy/Inferix)] ![Code](https://img.shields.io/github/stars/alibaba-damo-academy/Inferix?style=social&label=Star)
-
-[arxiv 2025.12] BlockVid: Block Diffusion for High-Quality and Consistent Minute-Long Video Generation  [[PDF](https://arxiv.org/abs/2511.22973),[Page](https://ziplab.co/BlockVid/)] 
 
 [arxiv 2026.01]  VideoAR: Autoregressive Video Generation via Next-Frame & Scale Prediction [[PDF](https://arxiv.org/abs/2601.05966),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
