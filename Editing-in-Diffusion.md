@@ -13,6 +13,9 @@
 
 [arxiv 2025.12] Z-Image: An Efficient Image Generation Foundation Model with Single-Stream Diffusion Transformer  [[PDF](https://arxiv.org/abs/2511.22699),[Page](https://tongyi-mai.github.io/Z-Image-blog/)] ![Code](https://img.shields.io/github/stars/Tongyi-MAI/Z-Image?style=social&label=Star)
 
+[arxiv 2026.01] GLM-Image  [[PDF](https://z.ai/blog/glm-image),[Page](https://github.com/zai-org/GLM-Image)] ![Code](https://img.shields.io/github/stars/zai-org/GLM-Image?style=social&label=Star)
+
+
 [arxiv 2026.01]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 ## pixel 
