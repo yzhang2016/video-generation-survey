@@ -753,6 +753,8 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 [arxiv 2026.01]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 ## multi-shot
+[arxiv 2025.06] AnimeShooter: A Multi-Shot Animation Dataset for Reference-Guided Video Generation  [[PDF](https://arxiv.org/abs/2506.03126),[Page](https://qiulu66.github.io/animeshooter/)] ![Code](https://img.shields.io/github/stars/qiulu66/Anime-Shooter?style=social&label=Star)
+
 [arxiv 2025.10]  MoGA: Mixture-of-Groups Attention for End-to-End Long Video Generation [[PDF](https://arxiv.org/abs/2510.18692),[Page](https://jiawn-creator.github.io/mixture-of-groups-attention/)] ![Code](https://img.shields.io/github/stars/bytedance-fanqie-ai/MoGA?style=social&label=Star)
 
 [arxiv 2025.11] Video-as-Answer: Predict and Generate Next Video Event with Joint-GRPO  [[PDF](https://arxiv.org/abs/2511.16669),[Page](https://video-as-answer.github.io/)] ![Code](https://img.shields.io/github/stars/KlingTeam/VANS?style=social&label=Star)
@@ -1849,10 +1851,6 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 [arxiv 2026.01] Slot-ID: Identity-Preserving Video Generation from Reference Videos via Slot-Based Temporal Identity Encoding  [[PDF](https://arxiv.org/pdf/2601.01352)]
 
 [arxiv 2026.01]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
-
-
-## shot
-[arxiv 2025.06] AnimeShooter: A Multi-Shot Animation Dataset for Reference-Guided Video Generation  [[PDF](https://arxiv.org/abs/2506.03126),[Page](https://qiulu66.github.io/animeshooter/)] ![Code](https://img.shields.io/github/stars/qiulu66/Anime-Shooter?style=social&label=Star)
 
 
 ## relation 
