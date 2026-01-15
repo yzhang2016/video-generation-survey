@@ -937,12 +937,6 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 [arxiv 2026.01]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 
-
-## Higher Resolution 
-[arxiv 2023.10] ScaleCrafter: Tuning-free Higher-Resolution Visual Generation with Diffusion Models [[PDF](https://arxiv.org/abs/2310.07702), [Page](https://yingqinghe.github.io/scalecrafter/)]
-
-
-
 ## infinity scene /360
 [arxiv 2023.12]Going from Anywhere to Everywhere[[PDF](https://arxiv.org/abs/2312.03884),[Page](https://kovenyu.com/wonderjourney/)]
 
