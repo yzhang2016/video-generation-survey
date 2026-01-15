@@ -2017,6 +2017,8 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2025.06]  HunyuanVideo-Avatar: High-Fidelity Audio-Driven Human Animation for Multiple Characters [[PDF](https://arxiv.org/pdf/2505.20156),[Page](https://hunyuanvideo-avatar.github.io/)] ![Code](https://img.shields.io/github/stars/Tencent-Hunyuan/HunyuanVideo-Avatar?style=social&label=Star)
 
+[arxiv 2025.06]  Let Them Talk: Audio-Driven Multi-Person Conversational Video Generation [[PDF](https://arxiv.org/abs/2505.22647),[Page](https://meigen-ai.github.io/multi-talk/)] ![Code](https://img.shields.io/github/stars/MeiGen-AI/MultiTalk?style=social&label=Star)
+
 [arxiv 2025.06] TalkingMachines:Real-Time Audio-Driven FaceTime-Style Video via Autoregressive Diffusion Models [[PDF](https://arxiv.org/abs/2506.03099),[Page](https://aaxwaz.github.io/TalkingMachines/)] 
 
 [arxiv 2025.06] AlignHuman: Improving Motion and Fidelity via Timestep-Segment Preference Optimization for Audio-Driven Human Animation  [[PDF](https://arxiv.org/abs/2506.11144),[Page](https://alignhuman.github.io/)] 
