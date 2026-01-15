@@ -2059,7 +2059,7 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2025.12]  KlingAvatar 2.0 Technical Report [[PDF](https://arxiv.org/abs/2512.13313),[Page](https://app.klingai.com/global/ai-human/image/new/)] 
 
-[arxiv 2025.12]  TalkVerse: Democratizing Minute-Long Audio-Driven Video Generation [[PDF](https://arxiv.org/abs/2512.14938),[Page](https://zhenzhiwang.github.io/talkverse/)]
+[arxiv 2025.12]  TalkVerse: Democratizing Minute-Long Audio-Driven Video Generation [[PDF](https://arxiv.org/abs/2512.14938),[Page](https://zhenzhiwang.github.io/talkverse/)] ![Code](https://img.shields.io/github/stars/snap-research/TalkVerse?style=social&label=Star)
 
 [arxiv 2025.12] ActAvatar: Temporally-Aware Precise Action Control for Talking Avatars  [[PDF](https://arxiv.org/abs/2512.19546),[Page](https://ziqiaopeng.github.io/ActAvatar/)] 
 
