@@ -632,6 +632,9 @@
 
 [arxiv 2026.01]  ThinkRL-Edit: Thinking in Reinforcement Learning for Reasoning-Centric Image Editing [[PDF](https://arxiv.org/abs/2601.03467)]
 
+[arxiv 2026.01] Think-Then-Generate: Reasoning-Aware Text-to-Image Diffusion with LLM Encoders  [[PDF](https://arxiv.org/abs/2601.10332),[Page](https://github.com/SJTU-DENG-Lab/Think-Then-Generate)] ![Code](https://img.shields.io/github/stars/SJTU-DENG-Lab/Think-Then-Generate?style=social&label=Star)
+
+
 [arxiv 2026.01]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 
@@ -2985,6 +2988,9 @@ Creative Layout-to-Image Generation [[PDF](https://arxiv.org/pdf/2412.03859),[Pa
 [arxiv 2025.11]  One Small Step in Latent, One Giant Leap for Pixels: Fast Latent Upscale Adapter for Your Diffusion Models [[PDF](https://arxiv.org/abs/2511.10629)]
 
 [arxiv 2025.11] One-Step Diffusion Transformer for Controllable Real-World Image Super-Resolution  [[PDF](https://arxiv.org/abs/2511.17138)]
+
+[arxiv 2026.01]  From Physical Degradation Models to Task-Aware All-in-One Image Restoration [[PDF](https://arxiv.org/abs/2601.10192)]
+
 
 [arxiv 2026.01]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
