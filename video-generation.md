@@ -212,6 +212,9 @@ A reading list of video generation
 [arxiv 2025.10] Scaling Instruction-Based Video Editing with a High-Quality Synthetic Dataset  [[PDF](https://arxiv.org/abs/2510.15742),[Page](https://editto.net/)] ![Code](https://img.shields.io/github/stars/EzioBy/Ditto?style=social&label=Star)
 
 
+* **Action100M **
+[arxiv 2026.01] Action100M: A Large-scale Video Action Dataset  [[PDF](https://arxiv.org/pdf/2601.10592),[Page](https://github.com/facebookresearch/Action100M)] ![Code](https://img.shields.io/github/stars/facebookresearch/Action100M?style=social&label=Star)
+
 [arxiv 2026.01]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 
@@ -662,6 +665,9 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2026.01]  Motion Attribution for Video Generation [[PDF](https://arxiv.org/abs/2601.08828),[Page](https://research.nvidia.com/labs/sil/projects/MOTIVE/)] 
 
+[arxiv 2026.01] Inference-time Physics Alignment of Video Generative Models with Latent World Models  [[PDF](https://arxiv.org/pdf/2601.10553)]
+
+
 [arxiv 2026.01]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 
@@ -709,6 +715,7 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2025.12]  InstanceV: Instance-Level Video Generation [[PDF](https://aliothchen.github.io/projects/InstanceV/),[Page](https://aliothchen.github.io/projects/InstanceV/)] 
 
+[arxiv 2026.01]  PhyRPR: Training-Free Physics-Constrained Video Generation [[PDF](https://arxiv.org/abs/2601.09255)]
 
 [arxiv 2026.01]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -1458,6 +1465,11 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2026.01] VerseCrafter: Dynamic Realistic Video World Model with 4D Geometric Control  [[PDF](https://arxiv.org/pdf/2601.05138),[Page](https://sixiaozheng.github.io/VerseCrafter_page/)] ![Code](https://img.shields.io/github/stars/TencentARC/VerseCrafter?style=social&label=Star)
 
+[arxiv 2026.01] Efficient Camera-Controlled Video Generation of Static Scenes via Sparse Diffusion and 3D Rendering  [[PDF](https://arxiv.org/abs/2601.09697),[Page](https://ayushtewari.com/projects/srender/)] 
+
+[arxiv 2026.01]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
+
+
 [arxiv 2026.01]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 
@@ -1743,6 +1755,7 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2026.01]  DreamLoop: Controllable Cinemagraph Generation from a Single Photograph [[PDF](https://arxiv.org/abs/2601.02646),[Page](https://anime26398.github.io/dreamloop.github.io/)] 
 
+[arxiv 2026.01]  CoMoVi: Co-Generation of 3D Human Motions and Realistic Videos [[PDF](https://arxiv.org/abs/2601.10632),[Page](https://igl-hkust.github.io/CoMoVi/)] ![Code](https://img.shields.io/github/stars/IGL-HKUST/CoMoVi?style=social&label=Star)
 
 [arxiv 2026.01]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -1991,6 +2004,9 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2025.12]  DyStream: Streaming Dyadic Talking Heads Generation via Flow Matching-based Autoregressive Model [[PDF](https://pub-89a94288e5914c929c18a5b103c5cea0.r2.dev/DyStream.pdf),[Page](https://github.com/RobinWitch/DyStream)] ![Code](https://img.shields.io/github/stars/RobinWitch/DyStream?style=social&label=Star)
 
+[arxiv 2026.01] RSATalker: Realistic Socially-Aware Talking Head Generation for Multi-Turn Conversation  [[PDF](https://arxiv.org/pdf/2601.10606)]
+
+
 [arxiv 2026.01]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 
@@ -2095,6 +2111,9 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 [arxiv 2025.12]  SoulX-LiveTalk Technical Report [[PDF](https://arxiv.org/pdf/2512.23379),[Page](https://soul-ailab.github.io/soulx-livetalk/)] ![Code](https://img.shields.io/github/stars/Soul-AILab/SoulX-LiveTalk?style=social&label=Star)
 
 [arxiv 2026.01] Avatar Forcing: Real-Time Interactive Head Avatar Generation for Natural Conversation  [[PDF](https://arxiv.org/abs/2601.00664),[Page](https://taekyungki.github.io/AvatarForcing/)] ![Code](https://img.shields.io/github/stars/TaekyungKi/AvatarForcing?style=social&label=Star)
+
+[arxiv 2026.01] FlowAct-R1: Towards Interactive Humanoid Video Generation  [[PDF](https://arxiv.org/pdf/2601.10103),[Page](https://grisoon.github.io/FlowAct-R1/)] 
+
 
 [arxiv 2026.01]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -3068,6 +3087,9 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2026.01] MHLA: Restoring Expressivity of Linear Attention via Token-Level Multi-Head  [[PDF](https://arxiv.org/abs/2601.07832),[Page](https://github.com/DAGroup-PKU/MHLA)] ![Code](https://img.shields.io/github/stars/DAGroup-PKU/MHLA?style=social&label=Star)
 
+[arxiv 2026.01]  Transition Matching Distillation for Fast Video Generation [[PDF](https://arxiv.org/abs/2601.09881),[Page](https://research.nvidia.com/labs/genair/tmd/)] 
+
+
 [arxiv 2026.01]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 
@@ -3098,6 +3120,9 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 [arxiv 2024.10] Diffusion Curriculum: Synthetic-to-Real Generative Curriculum Learning via Image-Guided Diffusion [[PDF](https://arxiv.org/abs/2410.13674),[Page](https://github.com/tianyi-lab/DisCL)]
 
 [arxiv 2024.10] FashionR2R: Texture-preserving Rendered-to-Real Image Translation with Diffusion Models [[PDF](https://arxiv.org/pdf/2410.14429),[Page](https://rickhh.github.io/FashionR2R/)]
+
+[arxiv 2026.01]  Sim2real Image Translation Enables Viewpoint-Robust Policies from Fixed-Camera Datasets [[PDF](https://arxiv.org/abs/2601.09605)]
+
 
 [arxiv 2026.01]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -3269,6 +3294,9 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 [arxiv 2025.10] Drive&Gen: Co-Evaluating End-to-End Driving and Video Generation Models  [[PDF](https://arxiv.org/abs/2510.06209)]
 
 [arxiv 2025.10]  DriveVLA-W0: World Models Amplify Data Scaling Law in Autonomous Driving [[PDF](https://arxiv.org/abs/2510.12796),[Page](https://github.com/BraveGroup/DriveVLA-W0)] ![Code](https://img.shields.io/github/stars/BraveGroup/DriveVLA-W0?style=social&label=Star)
+
+[arxiv 2026.01] MAD: Motion Appearance Decoupling for efficient Driving World Models  [[PDF](https://arxiv.org/abs/2601.09452)]
+
 
 [arxiv 2026.01]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
