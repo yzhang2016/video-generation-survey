@@ -3352,6 +3352,8 @@ Creative Layout-to-Image Generation [[PDF](https://arxiv.org/pdf/2412.03859),[Pa
 ## layer 
 [arxiv 2025.12] Qwen-Image-Layered: Towards Inherent Editability via Layer Decomposition  [[PDF](https://arxiv.org/abs/2512.15603),[Page](https://github.com/QwenLM/Qwen-Image-Layered)] ![Code](https://img.shields.io/github/stars/QwenLM/Qwen-Image-Layered?style=social&label=Star)
 
+[arxiv 2026.01]  Controllable Layered Image Generation for Real-World Editing [[PDF](https://arxiv.org/pdf/2601.15507),[Page](https://rayjryang.github.io/LASAGNA-Page/)]
+
 [arxiv 2026.01]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 
