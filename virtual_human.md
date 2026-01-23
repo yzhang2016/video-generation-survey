@@ -143,6 +143,9 @@
 
 [arxiv 2025.12]  Think Before You Move: Latent Motion Reasoning for Text-to-Motion Generation [[PDF](https://chenhaoqcdyq.github.io/LMR/),[Page](https://chenhaoqcdyq.github.io/LMR/)] ![Code](https://img.shields.io/github/stars/chenhaoqcdyq/lmr-codes?style=social&label=Star)
 
+[arxiv 2026.01] FrankenMotion: Part-level Human Motion Generation and Composition  [[PDF](https://arxiv.org/pdf/2601.10909),[Page](https://coral79.github.io/frankenmotion/)] ![Code](https://img.shields.io/github/stars/Coral79/FrankenMotion-Code?style=social&label=Star)
+
+
 [arxiv 2026.01]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 
