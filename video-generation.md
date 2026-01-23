@@ -1181,6 +1181,9 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2026.01]  MotionAdapter: Video Motion Transfer via Content-Aware Attention Customization [[PDF](https://arxiv.org/pdf/2601.01955),[Page](https://zhexin-zhang.github.io/MotionAdapter/)] ![Code](https://img.shields.io/github/stars/Zhexin-Zhang/MotionAdapter-Code?style=social&label=Star)
 
+[arxiv 2026.01]  Moaw: Unleashing Motion Awareness for Video Diffusion Models [[PDF](https://arxiv.org/abs/2601.12761),[Page](https://github.com/tianqi-zh/Moaw)] ![Code](https://img.shields.io/github/stars/tianqi-zh/Moaw?style=social&label=Star)
+
+
 [arxiv 2026.01]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 
@@ -1310,6 +1313,9 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 [arxiv 2025.12] High-Fidelity and Long-Duration Human Image Animation with Diffusion Transformer  [[PDF](https://arxiv.org/abs/2512.21905)]
 
 [arxiv 2026.01] MoCha: End-to-End Video Character Replacement without Structural Guidance  [[PDF](https://arxiv.org/pdf/2601.08587),[Page](https://github.com/Orange-3DV-Team/MoCha)] ![Code](https://img.shields.io/github/stars/Orange-3DV-Team/MoCha?style=social&label=Star)
+
+[arxiv 2026.01] CoDance: An Unbind-Rebind Paradigm for Robust Multi-Subject Animation  [[PDF](https://arxiv.org/abs/2601.11096),[Page](https://lucaria-academy.github.io/CoDance/)] 
+
 
 [arxiv 2026.01]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -1467,7 +1473,7 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2026.01] Efficient Camera-Controlled Video Generation of Static Scenes via Sparse Diffusion and 3D Rendering  [[PDF](https://arxiv.org/abs/2601.09697),[Page](https://ayushtewari.com/projects/srender/)] 
 
-[arxiv 2026.01]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
+[arxiv 2026.01] CamPilot: Improving Camera Control in Video Diffusion Model with Efficient Camera Reward Feedback  [[PDF](https://arxiv.org/abs/2512.16915),[Page](https://a-bigbao.github.io/CamPilot/)]
 
 
 [arxiv 2026.01]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
@@ -2339,6 +2345,9 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2025.08] 4DNeX: Feed-Forward 4D Generative Modeling Made Easy  [[PDF](https://arxiv.org/abs/2508.13154),[Page](https://4dnex.github.io/)] ![Code](https://img.shields.io/github/stars/3DTopia/4DNeX?style=social&label=Star)
 
+[arxiv 2026.01]  Motion 3-to-4: 3D Motion Reconstruction for 4D Synthesis [[PDF](https://arxiv.org/abs/2601.14253),[Page](https://motion3-to-4.github.io/)] ![Code](https://img.shields.io/github/stars/Inception3D/Motion324?style=social&label=Star)
+
+
 [arxiv 2026.01]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 
@@ -2443,6 +2452,9 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2026.01]  Omni2Sound: Towards Unified Video-Text-to-Audio Generation [[PDF](https://arxiv.org/pdf/2601.02731),[Page](https://swapforward.github.io/Omni2Sound/)] 
 
+[arxiv 2026.01]  SpatialV2A: Visual-Guided High-fidelity Spatial Audio Generation [[PDF](https://arxiv.org/abs/2601.15017)]
+
+
 [arxiv 2026.01]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 
@@ -2471,6 +2483,7 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2025.12] Region-Constraint In-Context Generation for Instructional Video Editing  [[PDF](https://arxiv.org/abs/2512.17650),[Page](https://zhw-zhang.github.io/ReCo-page/)] ![Code](https://img.shields.io/github/stars/HiDream-ai/ReCo?style=social&label=Star)
 
+[arxiv 2026.01] OmniTransfer: All-in-one Framework for Spatio-temporal Video Transfer  [[PDF](https://arxiv.org/abs/2601.14250),[Page](https://pangzecheung.github.io/OmniTransfer/)] ![Code](https://img.shields.io/github/stars/PangzeCheung/OmniTransfer?style=social&label=Star)
 
 [arxiv 2026.01]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -2848,11 +2861,17 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2025.12]  Inferix: A Block-Diffusion based Next-Generation Inference Engine for World Simulation [[PDF](https://arxiv.org/abs/2511.20714),[Page](https://github.com/alibaba-damo-academy/Inferix)] ![Code](https://img.shields.io/github/stars/alibaba-damo-academy/Inferix?style=social&label=Star)
 
-[arxiv 2026.01]  VideoAR: Autoregressive Video Generation via Next-Frame & Scale Prediction [[PDF](https://arxiv.org/abs/2601.05966),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
+[arxiv 2026.01]  VideoAR: Autoregressive Video Generation via Next-Frame & Scale Prediction [[PDF](https://arxiv.org/abs/2601.05966),[Page]()] ![Code](https://img.shields.io/github/stars/DAGroup-PKU/ReVidgen/?style=social&label=Star)
 
 
 [arxiv 2026.01]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
+
+
+## embodied AI
+[arxiv 2026.01] Rethinking Video Generation Model for the Embodied World  [[PDF](https://arxiv.org/abs/2601.15282),[Page](https://dagroup-pku.github.io/ReVidgen.github.io/)] ![Code](https://img.shields.io/github/stars/DAGroup-PKU/ReVidgen/?style=social&label=Star)
+
+[arxiv 2026.01]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 
 
@@ -2960,6 +2979,9 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 ## Edge device
 [arxiv 2026.01] SnapGen++: Unleashing Diffusion Transformers for Efficient High-Fidelity Image Generation on Edge Devices  [[PDF](https://arxiv.org/pdf/2601.08303)]
+
+[arxiv 2026.01]  S2DiT: Sandwich Diffusion Transformer for Mobile Streaming Video Generation [[PDF](https://arxiv.org/pdf/2601.12719)]
+
 
 [arxiv 2026.01]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -3221,6 +3243,7 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2026.01]  Learning Latent Action World Models In The Wild [[PDF](https://arxiv.org/abs/2601.05230)]
 
+[arxiv 2026.01]  StableWorld: Towards Stable and Consistent Long Interactive Video Generation [[PDF](https://arxiv.org/pdf/2601.15281),[Page](https://sd-world.github.io/)] ![Code](https://img.shields.io/github/stars/xbyym/StableWorld?style=social&label=Star)
 
 [arxiv 2026.01]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -3345,6 +3368,10 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 [arxiv 2025.12]  PhyGDPO: Physics-Aware Groupwise Direct Preference Optimization for Physically Consistent Text-to-Video Generation [[PDF](https://arxiv.org/abs/2512.24551),[Page](https://caiyuanhao1998.github.io/project/PhyGDPO/)] ![Code](https://img.shields.io/github/stars/caiyuanhao1998/Open-PhyGDPO?style=social&label=Star)
 
 [arxiv 2026.01] TAGRPO: Boosting GRPO on Image-to-Video Generation with Direct Trajectory Alignment  [[PDF](https://arxiv.org/pdf/2601.05729)]
+
+[arxiv 2026.01]  PhysRVG: Physics-Aware Unified Reinforcement Learning for Video Generative Models [[PDF](https://arxiv.org/abs/2601.11087),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
+
+[arxiv 2026.01] Human detectors are surprisingly powerful reward models  [[PDF](https://arxiv.org/pdf/2601.14037),[Page](https://huda-reward-model.github.io/)] 
 
 [arxiv 2026.01]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
