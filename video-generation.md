@@ -922,6 +922,11 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2025.12] BlockVid: Block Diffusion for High-Quality and Consistent Minute-Long Video Generation  [[PDF](https://arxiv.org/abs/2511.22973),[Page](https://ziplab.co/BlockVid/)] 
 
+[arxiv 2026.01]  Reward-Forcing: Autoregressive Video Generation with Reward Feedback [[PDF](https://arxiv.org/abs/2601.16933)]
+
+[arxiv 2026.01]  LoL: Longer than Longer, Scaling Video Generation to Hour [[PDF](https://arxiv.org/abs/2601.16914)]
+
+
 [arxiv 2026.01]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 
@@ -2606,6 +2611,10 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2026.01]  Tuning-free Visual Effect Transfer across Videos [[PDF](https://arxiv.org/abs/2601.07833),[Page](https://tuningfreevisualeffects-maker.github.io/Tuning-free-Visual-Effect-Transfer-across-Videos-Project-Page/)] 
 
+
+[arxiv 2026.01]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
+
+
 [arxiv 2026.01]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 
@@ -2727,6 +2736,9 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 [arxiv 2024.10] HARIVO: Harnessing Text-to-Image Models for Video Generation [[PDF](https://kwonminki.github.io/HARIVO/),[Page](https://kwonminki.github.io/HARIVO/)] 
 
 [arxiv 2024.12] DIVE: Taming DINO for Subject-Driven Video Editing  [[PDF](https://arxiv.org/abs/2412.03347),[Page](https://dino-video-editing.github.io/)] 
+
+[arxiv 2026.01]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
+
 
 [arxiv 2026.01]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -3260,6 +3272,9 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 [arxiv 2025.11]  Learning Plug-and-play Memory for Guiding Video Diffusion Models [[PDF](https://arxiv.org/pdf/2511.19229),[Page](https://thrcle421.github.io/DiT-Mem-Web/)] ![Code](https://img.shields.io/github/stars/Thrcle421/DiT-Mem?style=social&label=Star)
 
 [arxiv 2025.12]  VL-JEPA: Joint Embedding Predictive Architecture for Vision-language [[PDF](https://arxiv.org/abs/2512.10942)]
+
+[arxiv 2026.01] Memory-V2V: Augmenting Video-to-Video Diffusion Models with Memory  [[PDF](https://arxiv.org/abs/2601.16296),[Page](https://dohunlee1.github.io/MemoryV2V/)] ![Code](https://img.shields.io/github/stars/DoHunLee1/Memory-V2V?style=social&label=Star)
+
 
 [arxiv 2026.01]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
