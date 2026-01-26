@@ -466,6 +466,9 @@
 
 [arxiv 2026.01]  Fast-ThinkAct: Efficient Vision-Language-Action Reasoning via Verbalizable Latent Planning [[PDF](https://arxiv.org/abs/2601.09708),[Page](https://jasper0314-huang.github.io/fast-thinkact/)]
 
+[arxiv 2026.01]  VisGym: Diverse, Customizable, Scalable Environments for Multimodal Agents [[PDF](https://arxiv.org/abs/2601.16973),[Page](https://visgym.github.io/)] ![Code](https://img.shields.io/github/stars/visgym/VIsGym?style=social&label=Star) 
+
+
 [arxiv 2026.01]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
 
 
