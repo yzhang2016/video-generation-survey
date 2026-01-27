@@ -1189,6 +1189,9 @@
 [arxiv 2026.01]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 
+[arxiv 2026.01]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
+
+
 ## autoregressive
 
 [arxiv 2024.11] Autoregressive Models in Vision: A Survey  [[PDF](https://arxiv.org/abs/2411.05902),[Page](https://github.com/ChaofanTao/Autoregressive-Models-in-Vision-Survey)]
