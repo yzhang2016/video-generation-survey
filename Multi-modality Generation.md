@@ -223,6 +223,7 @@
 
 [arxiv 2026.01] STEP3-VL-10B Technical Report  [[PDF](https://arxiv.org/abs/2601.09668),[Page](https://stepfun-ai.github.io/Step3-VL-10B/)] ![Code](https://img.shields.io/github/stars/stepfun-ai/Step3-VL-10B?style=social&label=Star) 
 
+[arxiv 2026.01]  SkyReels-V3 Technique Report [[PDF](https://arxiv.org/abs/2601.17323),[Page](https://github.com/SkyworkAI/SkyReels-V3)] ![Code](https://img.shields.io/github/stars/SkyworkAI/SkyReels-V3?style=social&label=Star) 
 
 [arxiv 2026.01]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
 
@@ -468,6 +469,7 @@
 
 [arxiv 2026.01]  VisGym: Diverse, Customizable, Scalable Environments for Multimodal Agents [[PDF](https://arxiv.org/abs/2601.16973),[Page](https://visgym.github.io/)] ![Code](https://img.shields.io/github/stars/visgym/VIsGym?style=social&label=Star) 
 
+[arxiv 2026.01]  A Pragmatic VLA Foundation Model [[PDF](https://arxiv.org/abs/2601.18692),[Page](https://technology.robbyant.com/lingbot-vla)] ![Code](https://img.shields.io/github/stars/Robbyant/lingbot-vla?style=social&label=Star) 
 
 [arxiv 2026.01]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
 
