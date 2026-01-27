@@ -999,6 +999,7 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2025.08] MAViS: A Multi-Agent Framework for Long-Sequence Video Storytelling  [[PDF](https://arxiv.org/abs/2508.08487)]
 
+[arxiv 2026.01]  The Script is All You Need: An Agentic Framework for Long-Horizon Dialogue-to-Cinematic Video Generation [[PDF](https://arxiv.org/abs/2601.17737),[Page](https://xd-mu.github.io/ScriptIsAllYouNeed/)] ![Code](https://img.shields.io/github/stars/Tencent/digitalhuman?style=social&label=Star)
 
 
 [arxiv 2026.01]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
@@ -1877,6 +1878,12 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 [arxiv 2025.12]  MoFu: Scale-Aware Modulation and Fourier Fusion for Multi-Subject Video Generation [[PDF](https://arxiv.org/abs/2512.22310)]
 
 [arxiv 2026.01] Slot-ID: Identity-Preserving Video Generation from Reference Videos via Slot-Based Temporal Identity Encoding  [[PDF](https://arxiv.org/pdf/2601.01352)]
+
+[arxiv 2026.01]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
+
+
+## multi-view 
+[arxiv 2026.01] MV-S2V: Multi-View Subject-Consistent Video Generation  [[PDF](https://arxiv.org/abs/2601.17756),[Page](https://szy-young.github.io/mv-s2v/)] 
 
 [arxiv 2026.01]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
