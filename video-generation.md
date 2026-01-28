@@ -2981,6 +2981,9 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2025.12] VIPER: Process-aware Evaluation for Generative Video Reasoning  [[PDF](https://arxiv.org/pdf/2512.24952)]
 
+[arxiv 2026.01] Are Video Generation Models Geographically Fair? An Attraction-Centric Evaluation of Global Visual Knowledge  [[PDF](https://arxiv.org/pdf/2601.18698)]
+
+
 [arxiv 2026.01]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 
