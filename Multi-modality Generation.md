@@ -225,6 +225,9 @@
 
 [arxiv 2026.01]  SkyReels-V3 Technique Report [[PDF](https://arxiv.org/abs/2601.17323),[Page](https://github.com/SkyworkAI/SkyReels-V3)] ![Code](https://img.shields.io/github/stars/SkyworkAI/SkyReels-V3?style=social&label=Star) 
 
+[arxiv 2026.01] Youtu-VL: Unleashing Visual Potential via Unified Vision-Language Supervision  [[PDF](https://arxiv.org/abs/2601.19798),[Page](https://github.com/TencentCloudADP/youtu-vl)] ![Code](https://img.shields.io/github/stars/TencentCloudADP/youtu-vl?style=social&label=Star) 
+
+
 [arxiv 2026.01]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
 
 
