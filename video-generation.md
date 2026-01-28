@@ -926,6 +926,7 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2026.01]  LoL: Longer than Longer, Scaling Video Generation to Hour [[PDF](https://arxiv.org/abs/2601.16914)]
 
+[arxiv 2026.01]  Entropy-Guided k-Guard Sampling for Long-Horizon Autoregressive Video Generation [[PDF](https://arxiv.org/abs/2601.19488),[Page](https://greanguy.github.io/ENkG/)] 
 
 [arxiv 2026.01]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
