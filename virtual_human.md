@@ -327,6 +327,9 @@
 
 [arxiv 2025.10]  Human3R: Everyone Everywhere All at Once [[PDF](https://arxiv.org/abs/2510.06219),[Page](https://fanegg.github.io/Human3R)] ![Code](https://img.shields.io/github/stars/fanegg/Human3R?style=social&label=Star)
 
+[arxiv 2026.01] Dynamic Worlds, Dynamic Humans: Generating Virtual Human-Scene Interaction Motion in Dynamic Scenes  [[PDF](https://arxiv.org/abs/2601.19484)]
+
+
 [arxiv 2026.01]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 ## VLA
