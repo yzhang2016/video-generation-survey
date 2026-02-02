@@ -717,6 +717,8 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2026.01]  PhyRPR: Training-Free Physics-Constrained Video Generation [[PDF](https://arxiv.org/abs/2601.09255)]
 
+[arxiv 2026.01]FAIRT2V: Training-Free Debiasing for Text-to-Video Diffusion Models   [[PDF](https://arxiv.org/abs/2601.20791)]
+
 [arxiv 2026.01]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 
@@ -1636,6 +1638,7 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2025.12] Stream-DiffVSR: Low-Latency Streamable Video Super-Resolution via Auto-Regressive Diffusion  [[PDF](https://arxiv.org/abs/2512.23709),[Page](https://jamichss.github.io/stream-diffvsr-project-page/)] 
 
+[arxiv 2026.01]  Zero-Shot Video Restoration and Enhancement with Assistance of Video Diffusion Models [[PDF](https://arxiv.org/abs/2601.21922)]
 
 [arxiv 2026.01]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -2619,8 +2622,7 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2026.01]  Tuning-free Visual Effect Transfer across Videos [[PDF](https://arxiv.org/abs/2601.07833),[Page](https://tuningfreevisualeffects-maker.github.io/Tuning-free-Visual-Effect-Transfer-across-Videos-Project-Page/)] 
 
-
-[arxiv 2026.01]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
+[arxiv 2026.01] EditYourself: Audio-Driven Generation and Manipulation of Talking Head Videos with Diffusion Transformers  [[PDF](https://arxiv.org/abs/2601.22127),[Page](https://edit-yourself.github.io/)] 
 
 
 [arxiv 2026.01]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
@@ -2864,6 +2866,9 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 [arxiv 2026.01] DreamStyle: A Unified Framework for Video Stylization  [[PDF](https://arxiv.org/abs/2601.02785),[Page](https://lemonsky1995.github.io/dreamstyle/)] ![Code](https://img.shields.io/github/stars/LemonSky1995/DreamStyle?style=social&label=Star)
 
 [arxiv 2026.01] QwenStyle: Content-Preserving Style Transfer with Qwen-Image-Edit  [[PDF](https://arxiv.org/abs/2601.06202),[Page](https://github.com/witcherofresearch/Qwen-Image-Style-Transfer)] ![Code](https://img.shields.io/github/stars/witcherofresearch/Qwen-Image-Style-Transfer?style=social&label=Star)
+
+[arxiv 2026.01]  TeleStyle: Content-Preserving Style Transfer in Images and Videos [[PDF](https://arxiv.org/abs/2601.20175),[Page](https://tele-ai.github.io/TeleStyle/)] ![Code](https://img.shields.io/github/stars/Tele-AI/TeleStyle?style=social&label=Star)
+
 
 [arxiv 2026.01]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -3134,6 +3139,7 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2026.01]  Transition Matching Distillation for Fast Video Generation [[PDF](https://arxiv.org/abs/2601.09881),[Page](https://research.nvidia.com/labs/genair/tmd/)] 
 
+[arxiv 2026.01]  Efficient Autoregressive Video Diffusion with Dummy Head [[PDF](https://arxiv.org/abs/2601.20499),[Page](https://csguoh.github.io/project/DummyForcing/)] ![Code](https://img.shields.io/github/stars/csguoh/DummyForcing?style=social&label=Star)
 
 [arxiv 2026.01]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -3268,6 +3274,9 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2026.01]  StableWorld: Towards Stable and Consistent Long Interactive Video Generation [[PDF](https://arxiv.org/pdf/2601.15281),[Page](https://sd-world.github.io/)] ![Code](https://img.shields.io/github/stars/xbyym/StableWorld?style=social&label=Star)
 
+[arxiv 2026.01]  Advancing Open-source World Models [[PDF](https://arxiv.org/abs/2601.20540),[Page](https://technology.robbyant.com/lingbot-world)] ![Code](https://img.shields.io/github/stars/robbyant/lingbot-world?style=social&label=Star)
+
+
 [arxiv 2026.01]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 
@@ -3346,6 +3355,7 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2026.01] MAD: Motion Appearance Decoupling for efficient Driving World Models  [[PDF](https://arxiv.org/abs/2601.09452)]
 
+[arxiv 2026.01]  Drive-JEPA: Video JEPA Meets Multimodal Trajectory Distillation for End-to-End Driving [[PDF](https://arxiv.org/abs/2601.22032),[Page](https://github.com/linhanwang/Drive-JEPA)] ![Code](https://img.shields.io/github/stars/linhanwang/Drive-JEPA?style=social&label=Star)
 
 [arxiv 2026.01]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -3448,4 +3458,12 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 ## embodied AI related 
 [arxiv 2025.11]  MiMo-Embodied: X-Embodied Foundation Model Technical Report [[PDF](https://arxiv.org/abs/2511.16518),[Page](https://github.com/XiaomiMiMo/MiMo-Embodied)] ![Code](https://img.shields.io/github/stars/XiaomiMiMo/MiMo-Embodied?style=social&label=Star)
+
+[arxiv 2026.01] Causal World Modeling for Robot Control  [[PDF](https://github.com/Robbyant/lingbot-va/blob/master/LingBot_VA_paper.pdf),[Page](https://technology.robbyant.com/lingbot-va)] ![Code](https://img.shields.io/github/stars/Robbyant/lingbot-va?style=social&label=Star)
+
+
+[arxiv 2026.01]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
+
+
+[arxiv 2026.01]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
