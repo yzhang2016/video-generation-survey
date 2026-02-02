@@ -2058,6 +2058,8 @@
 
 [arxiv 2026.01] Re-Align: Structured Reasoning-guided Alignment for In-Context Image Generation and Editing  [[PDF](https://arxiv.org/abs/2601.05124),[Page](https://hrz2000.github.io/realign/)] 
 
+[arxiv 2026.01]  Efficient Autoregressive Video Diffusion with Dummy Head [[PDF](https://arxiv.org/abs/2601.20499)]
+
 [arxiv 2026.01]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 
@@ -3307,6 +3309,10 @@ Creative Layout-to-Image Generation [[PDF](https://arxiv.org/pdf/2412.03859),[Pa
 
 [arxiv 2025.12]  Generative Refocusing: Flexible Defocus Control from a Single Image [[PDF](https://arxiv.org/abs/2512.16923),[Page](https://generative-refocusing.github.io/)] ![Code](https://img.shields.io/github/stars/rayray9999/Genfocus?style=social&label=Star)
 
+[arxiv 2026.01]  PI-Light: Physics-Inspired Diffusion for Full-Image Relighting [[PDF](https://arxiv.org/abs/2601.22135),[Page](https://github.com/ZhexinLiang/PI-Light)] ![Code](https://img.shields.io/github/stars/ZhexinLiang/PI-Light?style=social&label=Star)
+
+[arxiv 2026.01]  Creative Image Generation with Diffusion Model [[PDF](https://arxiv.org/abs/2601.22125),[Page](https://creative-t2i.github.io/)]
+
 
 [arxiv 2026.01]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -3634,6 +3640,9 @@ Creative Layout-to-Image Generation [[PDF](https://arxiv.org/pdf/2412.03859),[Pa
 
 [arxiv 2025.12] Bridging Fidelity-Reality with Controllable One-Step Diffusion for Image Super-Resolution  [[PDF](https://arxiv.org/abs/2512.14061),[Page](https://github.com/Chanson94/CODSR)] 
 
+[arxiv 2026.01] MEANCACHE: FROM INSTANTANEOUS TO AVERAGEVELOCITY FOR ACCELERATING FLOW MATCHING IN-FERENCE  [[PDF](https://arxiv.org/pdf/2601.19961)]
+
+[arxiv 2026.01] One-step Latent-free Image Generation with Pixel Mean Flows  [[PDF](https://arxiv.org/abs/2601.22158)]
 
 [arxiv 2026.01]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -3802,6 +3811,10 @@ Creative Layout-to-Image Generation [[PDF](https://arxiv.org/pdf/2412.03859),[Pa
 [arxiv 2025.11]  When Visualizing is the First Step to Reasoning: MIRA, a Benchmark for Visual Chain-of-Thought [[PDF](https://arxiv.org/abs/2511.02779),[Page](https://mira-benchmark.github.io/)] 
 
 [arxiv 2025.11] Benchmarking Diversity in Image Generation via Attribute-Conditional Human Evaluation  [[PDF](https://arxiv.org/pdf/2511.10547)]
+
+[arxiv 2026.01]  Everything in Its Place: Benchmarking Spatial Intelligence of Text-to-Image Models [[PDF](https://arxiv.org/abs/2601.20354),[Page](https://github.com/AMAP-ML/SpatialGenEval)] ![Code](https://img.shields.io/github/stars/AMAP-ML/SpatialGenEval?style=social&label=Star)
+
+[arxiv 2026.01] UEval: A Benchmark for Unified Multimodal Generation  [[PDF](https://arxiv.org/pdf/2601.22155),[Page](https://zlab-princeton.github.io/UEval/)] ![Code](https://img.shields.io/github/stars/zlab-princeton/UEval?style=social&label=Star)
 
 [arxiv 2026.01]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
