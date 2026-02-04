@@ -2105,7 +2105,7 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2025.12] ActAvatar: Temporally-Aware Precise Action Control for Talking Avatars  [[PDF](https://arxiv.org/abs/2512.19546),[Page](https://ziqiaopeng.github.io/ActAvatar/)] 
 
-[arxiv 2026.01]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
+[arxiv 2026.01]  Making Avatars Interact Towards Text-Driven Human-Object Interaction for Controllable Talking Avatars [[PDF](https://arxiv.org/abs/2602.01538),[Page](https://interactavatar.github.io/)] ![Code](https://img.shields.io/github/stars/angzong/InteractAvatar?style=social&label=Star)
 
 [arxiv 2026.01]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
