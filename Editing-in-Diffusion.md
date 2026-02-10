@@ -634,6 +634,7 @@
 
 [arxiv 2026.01] Think-Then-Generate: Reasoning-Aware Text-to-Image Diffusion with LLM Encoders  [[PDF](https://arxiv.org/abs/2601.10332),[Page](https://github.com/SJTU-DENG-Lab/Think-Then-Generate)] ![Code](https://img.shields.io/github/stars/SJTU-DENG-Lab/Think-Then-Generate?style=social&label=Star)
 
+[arxiv 2026.01] UniReason 1.0: A Unified Reasoning Framework for World Knowledge Aligned Image Generation and Editing  [[PDF](https://arxiv.org/abs/2602.02437),[Page](https://github.com/AlenjandroWang/UniReason)] ![Code](https://img.shields.io/github/stars/AlenjandroWang/UniReason?style=social&label=Star)
 
 [arxiv 2026.01]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -834,6 +835,9 @@
 [arxiv 2025.12] StreamFlow: Theory, Algorithm, and Implementation for High-Efficiency Rectified Flow Generation  [[PDF](https://arxiv.org/abs/2511.22009),[Page](https://github.com/World-Snapshot/StreamFlow)] ![Code](https://img.shields.io/github/stars/World-Snapshot/StreamFlow?style=social&label=Star)
 
 [arxiv 2025.12] SimFlow: Simplified and End-to-End Training of Latent Normalizing Flows  [[PDF](https://arxiv.org/abs/2512.04084),[Page](https://qinyu-allen-zhao.github.io/SimFlow/)] 
+
+[arxiv 2026.01]  FlowConsist: Make Your Flow Consistent with Real Trajectory [[PDF](https://arxiv.org/pdf/2602.06346)]
+
 
 [arxiv 2026.01]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -1186,7 +1190,7 @@
 
 [arxiv 2025.12] Both Semantics and Reconstruction Matter: Making Representation Encoders Ready for Text-to-Image Generation and Editing  [[PDF](https://jshilong.github.io/PS-VAE-PAGE/),[Page](https://jshilong.github.io/PS-VAE-PAGE/)] 
 
-[arxiv 2026.01]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
+[arxiv 2026.01] NativeTok: Native Visual Tokenization for Improved Image Generation  [[PDF](https://arxiv.org/abs/2601.22837),[Page](https://github.com/wangbei1/Nativetok)] ![Code](https://img.shields.io/github/stars/wangbei1/Nativetok?style=social&label=Star)
 
 
 [arxiv 2026.01]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
@@ -1317,6 +1321,9 @@
 [arxiv 2025.10]  EchoGen: Generating Visual Echoes in Any Scene via Feed-Forward Subject-Driven Auto-Regressive Model [[PDF](https://arxiv.org/abs/2509.26127)]
 
 [arxiv 2025.10] TokenAR: Multiple Subject Generation via Autoregressive Token-level enhancement  [[PDF](https://arxiv.org/abs/2510.16332),[Page](https://github.com/lyrig/TokenAR)] ![Code](https://img.shields.io/github/stars/lyrig/TokenAR?style=social&label=Star)
+
+[arxiv 2026.01]  DreamVAR: Taming Reinforced Visual Autoregressive Model for High-Fidelity Subject-Driven Image Generation [[PDF](https://arxiv.org/abs/2601.22507)]
+
 
 [arxiv 2026.01]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -2060,6 +2067,9 @@
 
 [arxiv 2026.01]  Efficient Autoregressive Video Diffusion with Dummy Head [[PDF](https://arxiv.org/abs/2601.20499)]
 
+[arxiv 2026.01] Hierarchical Concept-to-Appearance Guidance for Multi-Subject Image Generation  [[PDF](https://arxiv.org/abs/2602.03448)]
+
+
 [arxiv 2026.01]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 
@@ -2211,6 +2221,9 @@
 [arxiv 2025.10]  SceneDecorator: Towards Scene-Oriented Story Generation with Scene Planning and Scene Consistency [[PDF](https://arxiv.org/pdf/2510.22994),[Page](https://lulupig12138.github.io/SceneDecorator/)] ![Code](https://img.shields.io/github/stars/lulupig12138/SceneDecorator?style=social&label=Star)
 
 [arxiv 2025.12] IdentityStory: Taming Your Identity-Preserving Generator for Human-Centric Story Generation  [[PDF](https://arxiv.org/abs/2512.23519)]
+
+[arxiv 2026.01]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
+
 
 [arxiv 2026.01]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -3313,6 +3326,9 @@ Creative Layout-to-Image Generation [[PDF](https://arxiv.org/pdf/2412.03859),[Pa
 
 [arxiv 2026.01]  Creative Image Generation with Diffusion Model [[PDF](https://arxiv.org/abs/2601.22125),[Page](https://creative-t2i.github.io/)]
 
+[arxiv 2026.01]  PaperBanana: Automating Academic Illustration for AI Scientists [[PDF](https://arxiv.org/abs/2601.23265),[Page](https://dwzhu-pku.github.io/PaperBanana/)] ![Code](https://img.shields.io/github/stars/dwzhu-pku/PaperBanana?style=social&label=Star)
+
+[arxiv 2026.01] DuoGen: Towards General Purpose Interleaved Multimodal Generation  [[PDF](https://arxiv.org/abs/2602.00508),[Page](https://research.nvidia.com/labs/dir/duogen/)] 
 
 [arxiv 2026.01]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -3644,6 +3660,9 @@ Creative Layout-to-Image Generation [[PDF](https://arxiv.org/pdf/2412.03859),[Pa
 
 [arxiv 2026.01] One-step Latent-free Image Generation with Pixel Mean Flows  [[PDF](https://arxiv.org/abs/2601.22158)]
 
+[arxiv 2026.01] Token Pruning for In-Context Generation in Diffusion Transformers  [[PDF](https://arxiv.org/pdf/2602.01609)]
+
+
 [arxiv 2026.01]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 
@@ -3816,6 +3835,10 @@ Creative Layout-to-Image Generation [[PDF](https://arxiv.org/pdf/2412.03859),[Pa
 
 [arxiv 2026.01] UEval: A Benchmark for Unified Multimodal Generation  [[PDF](https://arxiv.org/pdf/2601.22155),[Page](https://zlab-princeton.github.io/UEval/)] ![Code](https://img.shields.io/github/stars/zlab-princeton/UEval?style=social&label=Star)
 
+[arxiv 2026.01]  GenArena: How Can We Achieve Human-Aligned Evaluation for Visual Generation Tasks? [[PDF](https://arxiv.org/abs/2602.06013),[Page](https://genarena.github.io/)] ![Code](https://img.shields.io/github/stars/ruihanglix/genarena?style=social&label=Star)
+
+[arxiv 2026.01] RISE-Video: Can Video Generators Decode Implicit World Rules?  [[PDF](https://arxiv.org/abs/2602.05986),[Page](https://github.com/VisionXLab/RISE-Video)] ![Code](https://img.shields.io/github/stars/VisionXLab/RISE-Video?style=social&label=Star)
+
 [arxiv 2026.01]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 
@@ -3925,6 +3948,10 @@ Creative Layout-to-Image Generation [[PDF](https://arxiv.org/pdf/2412.03859),[Pa
 [arxiv 2025.12] PC-GRPO: Puzzle Curriculum GRPO for Vision-Centric Reasoning  [[PDF](https://arxiv.org/abs/2512.14944),[Page](https://pcgrpo.github.io/)] 
 
 [arxiv 2025.12] DiverseGRPO: Mitigating Mode Collapse in Image Generation via Diversity-Aware GRPO  [[PDF](https://arxiv.org/abs/2512.21514),[Page](https://henglin-liu.github.io/DiverseGRPO/)] 
+
+[arxiv 2026.01] Unified Personalized Reward Model for Vision Generation  [[PDF](https://arxiv.org/abs/2602.02380),[Page](https://codegoat24.github.io/UnifiedReward/flex)] ![Code](https://img.shields.io/github/stars/CodeGoat24/Pref-GRPO?style=social&label=Star)
+
+[arxiv 2026.01]  PromptRL: Prompt Matters in RL for Flow-Based Image Generation [[PDF](https://arxiv.org/abs/2602.01382),[Page](https://github.com/G-U-N/UniRL)] ![Code](https://img.shields.io/github/stars/G-U-N/UniRL?style=social&label=Star)
 
 [arxiv 2026.01]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -4065,6 +4092,10 @@ Creative Layout-to-Image Generation [[PDF](https://arxiv.org/pdf/2412.03859),[Pa
 [arxiv 2025.12]  Loom: Diffusion-Transformer for Interleaved Generation [[PDF](https://arxiv.org/pdf/2512.18254),[Page](https://github.com/Plantian/Loom)] ![Code](https://img.shields.io/github/stars/Plantian/Loom?style=social&label=Star)
 
 [arxiv 2025.12]  SemanticGen: Video Generation in Semantic Space [[PDF](https://arxiv.org/abs/2512.20619),[Page](https://jianhongbai.github.io/SemanticGen/)] 
+
+[arxiv 2026.01] LINA: Linear Autoregressive Image Generative Models with Continuous Tokens  [[PDF](https://arxiv.org/abs/2601.22630),[Page](https://github.com/techmonsterwang/LINA)] ![Code](https://img.shields.io/github/stars/techmonsterwang/LINA?style=social&label=Star)
+
+[arxiv 2026.01]  PixelGen: Pixel Diffusion Beats Latent Diffusion with Perceptual Loss [[PDF](https://arxiv.org/abs/2602.02493),[Page](https://zehong-ma.github.io/PixelGen/)] ![Code](https://img.shields.io/github/stars/Zehong-Ma/PixelGen?style=social&label=Star)
 
 
 [arxiv 2026.01]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
