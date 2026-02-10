@@ -145,6 +145,9 @@
 
 [arxiv 2026.01] FrankenMotion: Part-level Human Motion Generation and Composition  [[PDF](https://arxiv.org/pdf/2601.10909),[Page](https://coral79.github.io/frankenmotion/)] ![Code](https://img.shields.io/github/stars/Coral79/FrankenMotion-Code?style=social&label=Star)
 
+[arxiv 2026.01]  Superman: Unifying Skeleton and Vision for Human Motion Perception and Generation [[PDF](https://arxiv.org/abs/2602.02401)]
+
+[arxiv 2026.01]  DiMo: Discrete Diffusion Modeling for Motion Generation and Understanding [[PDF](https://arxiv.org/abs/2602.04188)]
 
 [arxiv 2026.01]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -286,6 +289,7 @@
 
 [arxiv 2025.11]  SyncMV4D: Synchronized Multi-view Joint Diffusion of Appearance and Motion for Hand-Object Interaction Synthesis [[PDF](https://arxiv.org/abs/2511.19319),[Page](https://droliven.github.io/SyncMV4D)] ![Code](https://img.shields.io/github/stars/Droliven/syncmv4d_code?style=social&label=Star)
 
+[arxiv 2026.01]  InterPrior: Scaling Generative Control for Physics-Based Human-Object Interactions [[PDF](https://arxiv.org/abs/2602.06035),[Page](https://sirui-xu.github.io/InterPrior/)] 
 
 [arxiv 2026.01]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
