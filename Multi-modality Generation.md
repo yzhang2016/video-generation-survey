@@ -474,6 +474,8 @@
 
 [arxiv 2026.01]  A Pragmatic VLA Foundation Model [[PDF](https://arxiv.org/abs/2601.18692),[Page](https://technology.robbyant.com/lingbot-vla)] ![Code](https://img.shields.io/github/stars/Robbyant/lingbot-vla?style=social&label=Star) 
 
+[arxiv 2026.01]  MAIN-VLA: Modeling Abstraction of Intention and eNvironment for Vision-Language-Action Models [[PDF](https://arxiv.org/abs/2602.02212),[Page](https://main-vla.github.io/)] 
+
 [arxiv 2026.01]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
 
 
