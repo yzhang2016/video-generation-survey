@@ -12,7 +12,7 @@
 [arxiv 2024.12] Training Large Language Models to Reason in a Continuous Latent Space  [[PDF](https://arxiv.org/pdf/2412.06769)]
 
 
-[arxiv 2026.01]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
+[arxiv 2026.02]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
 
 
 
@@ -40,7 +40,7 @@
 [arxiv 2025.10]  NoisyGRPO: Incentivizing Multimodal CoT Reasoning via Noise Injection and Bayesian Estimation [[PDF](https://arxiv.org/abs/2510.21122),[Page](https://artanic30.github.io/project_pages/NoisyGRPO/)] ![Code](https://img.shields.io/github/stars/Artanic30/NoisyGRPO?style=social&label=Star) 
 
 
-[arxiv 2026.01]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
+[arxiv 2026.02]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
 
 
 
@@ -65,7 +65,7 @@
 [arxiv 2025.10]  MAT-Agent: Adaptive Multi-Agent Training Optimization [[PDF](https://arxiv.org/abs/2510.17845)]
 
 
-[arxiv 2026.01]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
+[arxiv 2026.02]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
 
 
 ## Understanding 
@@ -228,13 +228,13 @@
 [arxiv 2026.01] Youtu-VL: Unleashing Visual Potential via Unified Vision-Language Supervision  [[PDF](https://arxiv.org/abs/2601.19798),[Page](https://github.com/TencentCloudADP/youtu-vl)] ![Code](https://img.shields.io/github/stars/TencentCloudADP/youtu-vl?style=social&label=Star) 
 
 
-[arxiv 2026.01]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
+[arxiv 2026.02]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
 
 
 ## sound-video understanding 
 [arxiv 2025.12] JavisGPT: A Unified Multi-modal LLM for Sounding-Video Comprehension and Generation  [[PDF](https://arxiv.org/abs/2512.22905),[Page](https://github.com/JavisVerse/JavisGPT)] ![Code](https://img.shields.io/github/stars/JavisVerse/JavisGPT?style=social&label=Star) 
 
-[arxiv 2026.01]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
+[arxiv 2026.02]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
 
 
 ## downstream
@@ -244,7 +244,7 @@
 
 [arxiv 2025.11]  VidEmo: Affective-Tree Reasoning for Emotion-Centric Video Foundation Models [[PDF](https://arxiv.org/abs/2511.02712)]
 
-[arxiv 2026.01]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
+[arxiv 2026.02]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
 
 
 
@@ -307,7 +307,7 @@
 
 [arxiv 2025.12] VideoZoomer: Reinforcement-Learned Temporal Focusing for Long Video Reasoning  [[PDF](https://arxiv.org/abs/2512.22315)]
 
-[arxiv 2026.01]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
+[arxiv 2026.02]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
 
 
 ## Generation 
@@ -426,8 +426,8 @@
 
 [arxiv 2026.01]  NextFlow: Unified Sequential Modeling Activates Multimodal Understanding and Generation [[PDF](https://arxiv.org/pdf/2601.02204),[Page](https://github.com/ByteVisionLab/NextFlow)] ![Code](https://img.shields.io/github/stars/ByteVisionLab/NextFlow?style=social&label=Star) 
 
-
-[arxiv 2026.01]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
+[arxiv 2026.02] Kelix Technique Report: Closing the Understanding Gap of Discrete Tokens in Unified Multimodal Models  [[PDF](https://arxiv.org/pdf/2602.09843)]
+[arxiv 2026.02]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
 
 
 ## Omni
@@ -435,14 +435,14 @@
 
 [arxiv 2025.10] InteractiveOmni: A Unified Omni-modal Model for Audio-Visual Multi-turn Dialogue  [[PDF](https://arxiv.org/abs/2510.13747),[Page](https://github.com/SenseTime-FVG/InteractiveOmni)] ![Code](https://img.shields.io/github/stars/SenseTime-FVG/InteractiveOmni?style=social&label=Star) 
 
-[arxiv 2026.01]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
+[arxiv 2026.02]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
 
 
 
 ## diffusion LLM
 [arxiv 2025.05]  MMaDA: Multimodal Large Diffusion Language Models [[PDF](https://arxiv.org/abs/2505.15809),[Page](https://github.com/Gen-Verse/MMaDA)] ![Code](https://img.shields.io/github/stars/Gen-Verse/MMaDA?style=social&label=Star) 
 
-[arxiv 2026.01]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
+[arxiv 2026.02]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
 
 
 ## evaluation 
@@ -476,7 +476,7 @@
 
 [arxiv 2026.01]  MAIN-VLA: Modeling Abstraction of Intention and eNvironment for Vision-Language-Action Models [[PDF](https://arxiv.org/abs/2602.02212),[Page](https://main-vla.github.io/)] 
 
-[arxiv 2026.01]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
+[arxiv 2026.02]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
 
 
 ## reasoning
@@ -549,7 +549,7 @@
 
 [arxiv 2025.12] Video-CoM: Interactive Video Reasoning via Chain of Manipulations  [[PDF](https://arxiv.org/pdf/2511.23477),[Page](https://github.com/mbzuai-oryx/Video-CoM)] ![Code](https://img.shields.io/github/stars/mbzuai-oryx/Video-CoM?style=social&label=Star) 
 
-[arxiv 2026.01]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
+[arxiv 2026.02]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
 
 
 
@@ -562,7 +562,7 @@
 
 [arxiv 2025.03]  Token-Efficient Long Video Understanding for Multimodal LLMs [[PDF](https://arxiv.org/pdf/2503.04130)]
 
-[arxiv 2026.01]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
+[arxiv 2026.02]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
 
 ## few-shot
 [arxiv 2025.02]  Efficient Few-Shot Continual Learning in Vision-Language Models [[PDF](https://arxiv.org/pdf/2502.04098)]
@@ -593,12 +593,12 @@
 
 [arxiv 2025.11]  Chain-of-Visual-Thought: Teaching VLMs to See and Think Better with Continuous Visual Tokens [[PDF](https://arxiv.org/abs/2511.19418),[Page](https://wakalsprojectpage.github.io/comt-website/)] ![Code](https://img.shields.io/github/stars/Wakals/CoVT?style=social&label=Star) 
 
-[arxiv 2026.01]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
+[arxiv 2026.02]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
 
 ## RoPE
 [arxiv 2025.05] Circle-RoPE: Cone-like Decoupled Rotary Positional Embedding for Large Vision-Language Models  [[PDF](https://arxiv.org/abs/2505.16416),[Page](https://github.com/lose4578/CircleRoPE)] ![Code](https://img.shields.io/github/stars/lose4578/CircleRoPE?style=social&label=Star) 
 
-[arxiv 2026.01]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
+[arxiv 2026.02]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
 
 
 ## audio 
@@ -607,13 +607,13 @@
 [arxiv 2024.11]Video-Guided Foley Sound Generation with Multimodal Controls [[PDF](https://arxiv.org/abs/2411.17698), [Page](https://ificl.github.io/MultiFoley/)]
 
 
-[arxiv 2026.01]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
+[arxiv 2026.02]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
 
 
 ## Study 
 [arxiv 2025.03] Should VLMs be Pre-trained with Image Data?  [[PDF](https://arxiv.org/abs/2503.07603)]
 
-[arxiv 2026.01]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
+[arxiv 2026.02]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
 
 
 ## agent
@@ -623,12 +623,12 @@
 
 [arxiv 2025.12] Step-GUI Technical Report  [[PDF](https://arxiv.org/abs/2512.15431),[Page](https://github.com/stepfun-ai/gelab-zero)] ![Code](https://img.shields.io/github/stars/stepfun-ai/gelab-zero?style=social&label=Star) 
 
-[arxiv 2026.01]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
+[arxiv 2026.02]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
 
 ## memory
 [arxiv 2025.08]  Seeing, Listening, Remembering, and Reasoning: A Multimodal Agent with Long-Term Memory [[PDF](https://arxiv.org/abs/2508.09736),[Page](https://github.com/bytedance-seed/m3-agent)] ![Code](https://img.shields.io/github/stars/bytedance-seed/m3-agent?style=social&label=Star) 
 
-[arxiv 2026.01]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
+[arxiv 2026.02]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
 
 ## context
 [arxiv 2025.10] Glyph: Scaling Context Windows via Visual-Text Compression  [[PDF](https://arxiv.org/pdf/2510.17800),[Page](https://github.com/thu-coai/Glyph)] ![Code](https://img.shields.io/github/stars/thu-coai/Glyph?style=social&label=Star) 
@@ -636,7 +636,7 @@
 [arxiv 2025.10]  DeepSeek-OCR: Contexts Optical Compression [[PDF](https://arxiv.org/abs/2510.18234),[Page](https://github.com/deepseek-ai/DeepSeek-OCR)] ![Code](https://img.shields.io/github/stars/deepseek-ai/DeepSeek-OCR?style=social&label=Star) 
 
 
-[arxiv 2026.01]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
+[arxiv 2026.02]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
 
 
 ## speed 
@@ -659,7 +659,7 @@
 [arxiv 2025.10] AndesVL Technical Report: An Efficient Mobile-side Multimodal Large Language Model  [[PDF](https://arxiv.org/abs/2510.11496),[Page](https://github.com/OPPO-Mente-Lab/AndesVL_Evaluation)] ![Code](https://img.shields.io/github/stars/OPPO-Mente-Lab/AndesVL_Evaluation?style=social&label=Star) 
 
 
-[arxiv 2026.01]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
+[arxiv 2026.02]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
 
 ## Evaluation
 
@@ -677,6 +677,6 @@
 
 [arxiv 2025.10] Generative Universal Verifier as Multimodal Meta-Reasoner  [[PDF](https://arxiv.org/abs/2510.13804),[Page](https://omniverifier.github.io/)] ![Code](https://img.shields.io/github/stars/Cominclip/OmniVerifier?style=social&label=Star) 
 
-[arxiv 2026.01]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
+[arxiv 2026.02]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
 
 
