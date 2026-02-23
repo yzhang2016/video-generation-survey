@@ -593,6 +593,9 @@
 
 [arxiv 2025.11]  Chain-of-Visual-Thought: Teaching VLMs to See and Think Better with Continuous Visual Tokens [[PDF](https://arxiv.org/abs/2511.19418),[Page](https://wakalsprojectpage.github.io/comt-website/)] ![Code](https://img.shields.io/github/stars/Wakals/CoVT?style=social&label=Star) 
 
+[arxiv 2026.02]  UniWeTok: An Unified Binary Tokenizer with Codebook Size 2 up 128 for Unified Multimodal Large Language Model [[PDF](https://arxiv.org/abs/2602.14178)]
+
+
 [arxiv 2026.02]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
 
 ## RoPE
