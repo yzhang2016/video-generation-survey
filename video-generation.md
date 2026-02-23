@@ -947,6 +947,7 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2026.02] Rolling Sink: Bridging Limited-Horizon Training and Open-Ended Testing in Autoregressive Video Diffusion  [[PDF](https://arxiv.org/abs/2602.07775),[Page](https://rolling-sink.github.io/)] ![Code](https://img.shields.io/github/stars/haodong2000/Rolling-Sink?style=social&label=Star)
 
+[arxiv 2026.02] Train Short, Inference Long: Training-free Horizon Extension for Autoregressive Video Generation  [[PDF](https://arxiv.org/abs/2602.14027),[Page](https://ga-lee.github.io/FLEX_demo/)] ![Code](https://img.shields.io/github/stars/Ga-Lee/Frequency-aware-Length-EXtension?style=social&label=Star)
 
 [arxiv 2026.02]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -1216,6 +1217,9 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2026.01]  Olaf-World: Orienting Latent Actions for Video World Modeling [[PDF](https://arxiv.org/abs/2602.10104),[Page](https://showlab.github.io/Olaf-World/)] ![Code](https://img.shields.io/github/stars/showlab/Olaf-World?style=social&label=Star)
 
+[arxiv 2026.02] FlexAM: Flexible Appearance-Motion Decomposition for Versatile Video Generation Control  [[PDF](https://arxiv.org/abs/2602.13185),[Page](https://github.com/IGL-HKUST/FlexAM)] ![Code](https://img.shields.io/github/stars/IGL-HKUST/FlexAM?style=social&label=Star)
+
+
 [arxiv 2026.02]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 
@@ -1348,6 +1352,7 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2026.01] CoDance: An Unbind-Rebind Paradigm for Robust Multi-Subject Animation  [[PDF](https://arxiv.org/abs/2601.11096),[Page](https://lucaria-academy.github.io/CoDance/)] 
 
+[arxiv 2026.02]  MOTIONWEAVER: HOLISTIC 4D-ANCHORED FRAME-WORK FOR MULTI-HUMANOID IMAGE ANIMATION [[PDF](https://arxiv.org/pdf/2602.13326)]
 
 [arxiv 2026.02]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -2166,6 +2171,7 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2026.01] FlowAct-R1: Towards Interactive Humanoid Video Generation  [[PDF](https://arxiv.org/pdf/2601.10103),[Page](https://grisoon.github.io/FlowAct-R1/)] 
 
+[arxiv 2026.02] EchoTorrent: Towards Swift, Sustained, and Streaming Multi-Modal Video Generation  [[PDF](https://arxiv.org/abs/2602.13669)]
 
 [arxiv 2026.02]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -2664,6 +2670,9 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 [arxiv 2026.01] EditYourself: Audio-Driven Generation and Manipulation of Talking Head Videos with Diffusion Transformers  [[PDF](https://arxiv.org/abs/2601.22127),[Page](https://edit-yourself.github.io/)] 
 
 [arxiv 2026.01] CineScene: Implicit 3D as Effective Scene Representation for Cinematic Video Generation  [[PDF](https://arxiv.org/pdf/2602.06959),[Page](https://karine-huang.github.io/CineScene/)] 
+
+[arxiv 2026.02] EditCtrl: Disentangled Local and Global Control for Real-Time Generative Video Editing  [[PDF](http://arxiv.org/abs/2602.15031),[Page](https://yehonathanlitman.github.io/edit_ctrl/)] ![Code](https://img.shields.io/github/stars/yehonathanlitman/EditCtrl?style=social&label=Star)
+
 
 [arxiv 2026.02]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -3197,6 +3206,9 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 [arxiv 2026.02]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 
+[arxiv 2026.02]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
+
+
 ## Dataset optimization 
 [arxiv 2025.01] A Large-Scale Study on Video Action Dataset Condensation  [[PDF](https://arxiv.org/abs/2412.21197),[Page](https://github.com/MCG-NJU/Video-DC)] ![Code](https://img.shields.io/github/stars/MCG-NJU/Video-DC?style=social&label=Star)
 
@@ -3337,6 +3349,7 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2026.02] WorldCompass: Reinforcement Learning for Long-Horizon World Models  [[PDF](https://arxiv.org/abs/2602.09022),[Page](https://3d-models.hunyuan.tencent.com/world/)] ![Code](https://img.shields.io/github/stars/Tencent-Hunyuan/HY-WorldCompass?style=social&label=Star)
 
+[arxiv 2026.02] AnchorWeave: World-Consistent Video Generation with Retrieved Local Spatial Memories  [[PDF](https://arxiv.org/abs/2602.14941),[Page](https://zunwang1.github.io/AnchorWeave)] ![Code](https://img.shields.io/github/stars/wz0919/AnchorWeave?style=social&label=Star)
 
 [arxiv 2026.02]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
