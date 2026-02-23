@@ -15,6 +15,7 @@
 
 [arxiv 2026.01] GLM-Image  [[PDF](https://z.ai/blog/glm-image),[Page](https://github.com/zai-org/GLM-Image)] ![Code](https://img.shields.io/github/stars/zai-org/GLM-Image?style=social&label=Star)
 
+[arxiv 2026.02] FireRed-Image-Edit-1.0 Techinical Report  [[PDF](https://arxiv.org/abs/2602.13344),[Page](https://github.com/FireRedTeam/FireRed-Image-Edit)] ![Code](https://img.shields.io/github/stars/FireRedTeam/FireRed-Image-Edit?style=social&label=Star)
 
 [arxiv 2026.02]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -603,6 +604,7 @@
 
 [arxiv 2026.01]  TalkPhoto: A Versatile Training-Free Conversational Assistant for Intelligent Image Editing [[PDF](https://arxiv.org/abs/2601.01915)]
 
+[arxiv 2026.02]  Controlling Your Image via Simplified Vector Graphics [[PDF](https://arxiv.org/abs/2602.14443),[Page](https://guolanqing.github.io/Vec2Pix/)] 
 
 [arxiv 2026.02]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -1289,6 +1291,8 @@
 [arxiv 2025.12] Progress by Pieces: Test-Time Scaling for Autoregressive Image Generation  [[PDF](https://arxiv.org/abs/2511.21185),[Page](https://grid-ar.github.io/)] 
 
 [arxiv 2026.02] Autoregressive Image Generation with Masked Bit Modeling  [[PDF](https://bar-gen.github.io/),[Page](https://arxiv.org/abs/2602.09024)] ![Code](https://img.shields.io/github/stars/amazon-far/BAR?style=social&label=Star)
+
+[arxiv 2026.02]  BitDance: Scaling Autoregressive Generative Models with Binary Tokens [[PDF](https://arxiv.org/abs/2602.14041),[Page](https://bitdance.csuhan.com/)] ![Code](https://img.shields.io/github/stars/shallowdream204/BitDance?style=social&label=Star)
 
 
 [arxiv 2026.02]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
@@ -2097,6 +2101,7 @@
 
 [arxiv 2025.12]  Ar2Can: An Architect and an Artist Leveraging a Canvas for Multi-Human Generation [[PDF](https://arxiv.org/pdf/2511.22690)]
 
+[arxiv 2026.02]  UniRef-Image-Edit: Towards Scalable and Consistent Multi-Reference Image Editing [[PDF](https://arxiv.org/abs/2602.14186)]
 
 [arxiv 2026.02]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -2731,6 +2736,9 @@ Creative Layout-to-Image Generation [[PDF](https://arxiv.org/pdf/2412.03859),[Pa
 
 [arxiv 2025.11] Canvas-to-Image: Compositional Image Generation with Multimodal Controls  [[PDF](https://arxiv.org/abs/2511.21691),[Page](https://snap-research.github.io/canvas-to-image/)] 
 
+[arxiv 2026.02]  SketchingReality: From Freehand Scene Sketches To Photorealistic Images [[PDF](https://arxiv.org/abs/2602.14648),[Page](https://ahmedbourouis.github.io/SketchingReality_ICLR26/)] 
+
+
 [arxiv 2026.02]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 
@@ -3012,6 +3020,7 @@ Creative Layout-to-Image Generation [[PDF](https://arxiv.org/pdf/2412.03859),[Pa
 
 [arxiv 2026.01]  From Physical Degradation Models to Task-Aware All-in-One Image Restoration [[PDF](https://arxiv.org/abs/2601.10192)]
 
+[arxiv 2026.02] PixelRush: Ultra-Fast, Training-Free High-Resolution Image Generation via One-step Diffusion  [[PDF](https://arxiv.org/abs/2602.12769)]
 
 [arxiv 2026.02]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -3212,7 +3221,7 @@ Creative Layout-to-Image Generation [[PDF](https://arxiv.org/pdf/2412.03859),[Pa
 
 [arxiv 2025.11] NP-LoRA: Null Space Projection Unifies Subject and Style in LoRA Fusion  [[PDF](https://arxiv.org/pdf/2511.11051)]
 
-[arxiv 2026.02]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
+[arxiv 2026.02] CoCoDiff: Correspondence-Consistent Diffusion Model for Fine-grained Style Transfer  [[PDF](https://arxiv.org/abs/2602.14464),[Page](https://github.com/Wenbo-Nie/CoCoDiff)] ![Code](https://img.shields.io/github/stars/Wenbo-Nie/CoCoDiff?style=social&label=Star)
 
 [arxiv 2026.02]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
