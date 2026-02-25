@@ -3205,6 +3205,7 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2026.02] DDiT: Dynamic Patch Scheduling for Efficient Diffusion Transformers  [[PDF](https://arxiv.org/pdf/2602.16968)]
 
+[arxiv 2026.02]  Predict to Skip: Linear Multistep Feature Forecasting for Efficient Diffusion Transformers [[PDF](https://arxiv.org/abs/2602.18093)]
 
 [arxiv 2026.02]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
