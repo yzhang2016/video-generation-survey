@@ -149,6 +149,9 @@
 
 [arxiv 2026.01]  DiMo: Discrete Diffusion Modeling for Motion Generation and Understanding [[PDF](https://arxiv.org/abs/2602.04188)]
 
+[arxiv 2026.02]  SARAH: Spatially Aware Real-time Agentic Humans [[PDF](https://arxiv.org/abs/2602.18432),[Page](https://evonneng.github.io/sarah/)] 
+
+
 [arxiv 2026.02]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 
