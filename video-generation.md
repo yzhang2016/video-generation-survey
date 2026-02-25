@@ -3203,7 +3203,7 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2026.01] FlashBlock: Attention Caching for Efficient Long-Context Block Diffusion  [[PDF](),[Page](https://caesarhhh.github.io/FlashBlock/)]
 
-[arxiv 2026.02]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
+[arxiv 2026.02] DDiT: Dynamic Patch Scheduling for Efficient Diffusion Transformers  [[PDF](https://arxiv.org/pdf/2602.16968)]
 
 
 [arxiv 2026.02]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
