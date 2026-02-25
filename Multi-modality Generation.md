@@ -476,6 +476,9 @@
 
 [arxiv 2026.01]  MAIN-VLA: Modeling Abstraction of Intention and eNvironment for Vision-Language-Action Models [[PDF](https://arxiv.org/abs/2602.02212),[Page](https://main-vla.github.io/)] 
 
+[arxiv 2026.02] DreamZero: World Action Models are Zero-shot Policies  [[PDF](https://dreamzero0.github.io/DreamZero.pdf),[Page](https://dreamzero0.github.io/)] ![Code](https://img.shields.io/github/stars/dreamzero0/dreamzero?style=social&label=Star) 
+
+
 [arxiv 2026.02]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
 
 
