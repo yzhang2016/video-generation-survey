@@ -2153,6 +2153,11 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2026.02]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
+## av joint Talker 
+[arxiv 2026.02]  DreamID-Omni: Unified Framework for Controllable Human-Centric Audio-Video Generation [[PDF](https://arxiv.org/abs/2602.12160),[Page](https://guoxu1233.github.io/DreamID-Omni/)] ![Code](https://img.shields.io/github/stars/Guoxu1233/DreamID-Omni?style=social&label=Star)
+
+[arxiv 2026.02]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
+
 
 ## Realtime Avatar 
 [arxiv 2025.12] JoyAvatar: Real-time and Infinite Audio-Driven Avatar Generation with Autoregressive Diffusion  [[PDF](https://arxiv.org/abs/2512.11423)] 
