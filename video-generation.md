@@ -271,6 +271,7 @@ A reading list of video generation
 
 [arxiv 2026.01]  VTok: A Unified Video Tokenizer with Decoupled Spatial-Temporal Latents [[PDF](https://arxiv.org/abs/2602.04202),[Page](https://wangf3014.github.io/VTok_page/)] ![Code](https://img.shields.io/github/stars/wangf3014/VTok?style=social&label=Star)
 
+[arxiv 2026.02] Flash-VAED: Plug-and-Play VAE Decoders for Efficient Video Generation  [[PDF](https://arxiv.org/abs/2602.19161),[Page](https://github.com/Aoko955/Flash-VAED)] ![Code](https://img.shields.io/github/stars/Aoko955/Flash-VAED?style=social&label=Star)
 
 [arxiv 2026.02]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -1034,7 +1035,7 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 ## reasoning 
 
-[arxiv 2026.02]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
+[arxiv 2026.02] A Very Big Video Reasoning Suite  [[PDF](https://arxiv.org/abs/2602.20159),[Page](https://video-reason.com/)] 
 
 [arxiv 2026.02]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -2476,6 +2477,9 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2026.02] Alive: Animate Your World with Lifelike Audio-Video Generation  [[PDF](https://arxiv.org/pdf/2602.08682),[Page](https://foundationvision.github.io/Alive/)] ![Code](https://img.shields.io/github/stars/FoundationVision/Alive?style=social&label=Star)
 
+[arxiv 2026.02]  JavisDiT++: Unified Modeling and Optimization for Joint Audio-Video Generation [[PDF](https://arxiv.org/abs/2602.19163),[Page](https://javisverse.github.io/JavisDiT2-page)] ![Code](https://img.shields.io/github/stars/JavisVerse/JavisDiT?style=social&label=Star)
+
+
 [arxiv 2026.02]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 
@@ -2678,6 +2682,7 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2026.02] EditCtrl: Disentangled Local and Global Control for Real-Time Generative Video Editing  [[PDF](http://arxiv.org/abs/2602.15031),[Page](https://yehonathanlitman.github.io/edit_ctrl/)] ![Code](https://img.shields.io/github/stars/yehonathanlitman/EditCtrl?style=social&label=Star)
 
+[arxiv 2026.02] ChordEdit: One-Step Low-Energy Transport for Image Editing  [[PDF](https://arxiv.org/abs/2602.19083),[Page](https://chordedit.github.io/)] ![Code](https://img.shields.io/github/stars/ChordEdit/ChordEdit?style=social&label=Star)
 
 [arxiv 2026.02]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -3211,6 +3216,9 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 [arxiv 2026.02] DDiT: Dynamic Patch Scheduling for Efficient Diffusion Transformers  [[PDF](https://arxiv.org/pdf/2602.16968)]
 
 [arxiv 2026.02]  Predict to Skip: Linear Multistep Feature Forecasting for Efficient Diffusion Transformers [[PDF](https://arxiv.org/abs/2602.18093)]
+
+[arxiv 2026.02] SeaCache: Spectral-Evolution-Aware Cache for Accelerating Diffusion Models  [[PDF](https://arxiv.org/abs/2602.18993),[Page](https://jiwoogit.github.io/SeaCache/)] ![Code](https://img.shields.io/github/stars/jiwoogit/SeaCache?style=social&label=Star)
+
 
 [arxiv 2026.02]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
