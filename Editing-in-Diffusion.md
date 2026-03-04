@@ -3223,6 +3223,10 @@ Creative Layout-to-Image Generation [[PDF](https://arxiv.org/pdf/2412.03859),[Pa
 
 [arxiv 2026.02] CoCoDiff: Correspondence-Consistent Diffusion Model for Fine-grained Style Transfer  [[PDF](https://arxiv.org/abs/2602.14464),[Page](https://github.com/Wenbo-Nie/CoCoDiff)] ![Code](https://img.shields.io/github/stars/Wenbo-Nie/CoCoDiff?style=social&label=Star)
 
+[arxiv 2026.02] Cycle-Consistent Tuning for Layered Image Decomposition  [[PDF](https://arxiv.org/pdf/2602.20989)]
+
+[arxiv 2026.02]  CleanStyle: Plug-and-Play Style Conditioning Purification for Text-to-Image Stylization [[PDF](https://arxiv.org/pdf/2602.20721),[Page](https://github.com/Westlake-AGI-Lab/CleanStyle)] ![Code](https://img.shields.io/github/stars/Westlake-AGI-Lab/CleanStyle?style=social&label=Star)
+
 [arxiv 2026.02]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 
