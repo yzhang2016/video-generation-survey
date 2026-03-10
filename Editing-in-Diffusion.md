@@ -608,6 +608,7 @@
 
 [arxiv 2026.02] Instruction-based Image Editing with Planning, Reasoning, and Generation  [[PDF](https://arxiv.org/pdf/2602.22624)]
 
+[arxiv 2026.03] CARE-Edit: Condition-Aware Routing of Experts for Contextual Image Editing  [[PDF](https://arxiv.org/abs/2603.08589),[Page](https://care-edit.github.io/)] ![Code](https://img.shields.io/github/stars/CARE-Edit/Code?style=social&label=Star)
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -1206,6 +1207,7 @@
 
 [arxiv 2026.01] NativeTok: Native Visual Tokenization for Improved Image Generation  [[PDF](https://arxiv.org/abs/2601.22837),[Page](https://github.com/wangbei1/Nativetok)] ![Code](https://img.shields.io/github/stars/wangbei1/Nativetok?style=social&label=Star)
 
+[arxiv 2026.03] CaTok: Taming Mean Flows for One-Dimensional Causal Image Tokenization  [[PDF](https://arxiv.org/abs/2603.06449),[Page](https://sharelab-sii.github.io/catok-web/)] ![Code](https://img.shields.io/github/stars/ShareLab-SII/CaTok?style=social&label=Star)
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
