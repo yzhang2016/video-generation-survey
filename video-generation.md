@@ -687,6 +687,7 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2026.03]  Physical Simulator In-the-Loop Video Generation [[PDF](https://arxiv.org/pdf/2603.06408),[Page](https://vcai.mpi-inf.mpg.de/projects/PSIVG/)] 
 
+[arxiv 2026.03] Chain of Event-Centric Causal Thought for Physically Plausible Video Generation  [[PDF](https://arxiv.org/pdf/2603.09094)]
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -738,6 +739,8 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 [arxiv 2026.01]  PhyRPR: Training-Free Physics-Constrained Video Generation [[PDF](https://arxiv.org/abs/2601.09255)]
 
 [arxiv 2026.01]FAIRT2V: Training-Free Debiasing for Text-to-Video Diffusion Models   [[PDF](https://arxiv.org/abs/2601.20791)]
+
+[arxiv 2026.03] Training-free Motion Factorization for Compositional Video Generation  [[PDF](https://arxiv.org/pdf/2603.09104)】
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -1312,7 +1315,6 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2024.11] AnimateAnything: Consistent and Controllable Animation for Video Generation [[PDF](https://arxiv.org/abs/2411.10836),[Page](https://yu-shaonian.github.io/Animate_Anything/)]
 
-[arxiv 2024.11] AnchorCrafter: Animate CyberAnchors Saling Your Products via Human-Object Interacting Video Generation  [[PDF](https://arxiv.org/abs/2411.17383),[Page](https://cangcz.github.io/Anchor-Crafter/)] ![Code](https://img.shields.io/github/stars/cangcz/AnchorCrafter?style=social&label=Star)
 
 [arxiv 2024.12]  Fleximo: Towards Flexible Text-to-Human Motion Video Generation [[PDF](https://arxiv.org/abs/2411.19459)] 
 
@@ -1548,6 +1550,9 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 [arxiv 2026.03] CamDirector: Towards Long-Term Coherent Video Trajectory Editing  [[PDF](https://arxiv.org/abs/2603.02256),[Page](https://yinkejia.github.io/CamDirector-Project-Page/)] ![Code](https://img.shields.io/github/stars/yinkejia/CamDirector?style=social&label=Star)
 
 [arxiv 2026.03] FaceCam: Portrait Video Camera Control via Scale-Aware Conditioning  [[PDF](https://arxiv.org/abs/2603.05506),[Page](https://www.wlyu.me/FaceCam/)] ![Code](https://img.shields.io/github/stars/weijielyu/FaceCam?style=social&label=Star)
+
+[arxiv 2026.03] ConfCtrl: Enabling Precise Camera Control in Video Diffusion via Confidence-Aware Interpolation  [[PDF](https://arxiv.org/abs/2603.09819)]
+
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -2234,6 +2239,14 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
+## HOI 
+
+[arxiv 2024.11] AnchorCrafter: Animate CyberAnchors Saling Your Products via Human-Object Interacting Video Generation  [[PDF](https://arxiv.org/abs/2411.17383),[Page](https://cangcz.github.io/Anchor-Crafter/)] ![Code](https://img.shields.io/github/stars/cangcz/AnchorCrafter?style=social&label=Star)
+
+[arxiv 2026.03] DISPLAY: Directable Human-Object Interaction Video Generation via Sparse Motion Guidance and Multi-Task Auxiliary  [[PDF](https://arxiv.org/abs/2603.09883),[Page](https://mumuwei.github.io/DISPLAY/)]
+
+
+[arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 
 ## video-driven talking 
@@ -2269,6 +2282,9 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 [arxiv 2025.12]  SyncAnyone: Implicit Disentanglement via Progressive Self-Correction for Lip-Syncing in the wild [[PDF](https://arxiv.org/abs/2512.21736),[Page](https://humanaigc.github.io/sync_anyone_demo_page/)] 
 
 [arxiv 2025.12] From Inpainting to Editing: A Self-Bootstrapping Framework for Context-Rich Visual Dubbing  [[PDF](https://arxiv.org/abs/2512.25066),[Page](https://hjrphoebus.github.io/X-Dub/)] ![Code](https://img.shields.io/github/stars/hjrPhoebus/X-Dub?style=social&label=Star)
+
+[arxiv 2026.03] OmniEdit: A Training-free framework for Lip Synchronization and Audio-Visual Editing  [[PDF](https://arxiv.org/pdf/2603.09084),[Page](https://github.com/l1346792580123/OmniEdit)] ![Code](https://img.shields.io/github/stars/l1346792580123/OmniEdit?style=social&label=Star)
+
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -2730,6 +2746,8 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2026.02] ChordEdit: One-Step Low-Energy Transport for Image Editing  [[PDF](https://arxiv.org/abs/2602.19083),[Page](https://chordedit.github.io/)] ![Code](https://img.shields.io/github/stars/ChordEdit/ChordEdit?style=social&label=Star)
 
+[arxiv 2026.03] When to Lock Attention: Training-Free KV Control in Video Diffusion  [[PDF](https://arxiv.org/pdf/2603.09657)]
+
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 
@@ -2997,6 +3015,7 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2026.03]  Scale Space Diffusion [[PDF](https://arxiv.org/abs/2603.08709),[Page](https://prateksha.github.io/projects/scale-space-diffusion/)] ![Code](https://img.shields.io/github/stars/prateksha/ScaleSpaceDiffusion?style=social&label=Star)
 
+[arxiv 2026.03]  Reviving ConvNeXt for Efficient Convolutional Diffusion Models [[PDF](https://arxiv.org/abs/2603.09408),[Page](https://github.com/star-kwon/FCDM)] ![Code](https://img.shields.io/github/stars/star-kwon/FCDM?style=social&label=Star)
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -3278,6 +3297,10 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 [arxiv 2026.03] Accelerating Text-to-Video Generation with Calibrated Sparse Attention  [[PDF](https://arxiv.org/abs/2603.05503)]
 
 [arxiv 2026.03] FastSTAR: Spatiotemporal Token Pruning for Efficient Autoregressive Video Synthesis  [[PDF](https://arxiv.org/abs/2603.07192)]
+
+[arxiv 2026.03]  FrameDiT: Diffusion Transformer with Frame-Level Matrix Attention for Efficient Video Generation [[PDF](https://arxiv.org/pdf/2603.09721)]
+
+[arxiv 2026.03] SVG-EAR: Parameter-Free Linear Compensation for Sparse Video Generation via Error-aware Routing  [[PDF](https://arxiv.org/pdf/2603.08982)]
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
