@@ -3373,6 +3373,9 @@ Creative Layout-to-Image Generation [[PDF](https://arxiv.org/pdf/2412.03859),[Pa
 
 [arxiv 2026.01] DuoGen: Towards General Purpose Interleaved Multimodal Generation  [[PDF](https://arxiv.org/abs/2602.00508),[Page](https://research.nvidia.com/labs/dir/duogen/)] 
 
+[arxiv 2026.03] LogoDiffuser: Training-Free Multilingual Logo Generation and Stylization via Letter-Aware Attention Control  [[PDF](https://arxiv.org/pdf/2603.09759)]
+
+
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 
@@ -3706,6 +3709,9 @@ Creative Layout-to-Image Generation [[PDF](https://arxiv.org/pdf/2412.03859),[Pa
 [arxiv 2026.01] Token Pruning for In-Context Generation in Diffusion Transformers  [[PDF](https://arxiv.org/pdf/2602.01609)]
 
 [arxiv 2026.02] ArcFlow: Unleashing 2-Step Text-to-Image Generation via High-Precision Non-Linear Flow Distillation  [[PDF](https://arxiv.org/abs/2602.09014),[Page](https://github.com/pnotp/ArcFlow)] ![Code](https://img.shields.io/github/stars/pnotp/ArcFlow?style=social&label=Star)
+
+[arxiv 2026.03]  BinaryAttention: One-Bit QK-Attention for Vision and Diffusion Transformers [[PDF](https://arxiv.org/abs/2603.09582),[Page](https://github.com/EdwardChasel/BinaryAttention)] ![Code](https://img.shields.io/github/stars/EdwardChasel/BinaryAttention?style=social&label=Star)
+
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
