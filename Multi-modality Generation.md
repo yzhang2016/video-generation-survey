@@ -428,6 +428,10 @@
 [arxiv 2026.01]  NextFlow: Unified Sequential Modeling Activates Multimodal Understanding and Generation [[PDF](https://arxiv.org/pdf/2601.02204),[Page](https://github.com/ByteVisionLab/NextFlow)] ![Code](https://img.shields.io/github/stars/ByteVisionLab/NextFlow?style=social&label=Star) 
 
 [arxiv 2026.02] Kelix Technique Report: Closing the Understanding Gap of Discrete Tokens in Unified Multimodal Models  [[PDF](https://arxiv.org/pdf/2602.09843)]
+
+[arxiv 2026.03] InternVL-U: Democratizing Unified Multimodal Models for Understanding, Reasoning, Generation and Editing  [[PDF](https://arxiv.org/abs/2603.09877),[Page](https://github.com/OpenGVLab/InternVL-U)] ![Code](https://img.shields.io/github/stars/OpenGVLab/InternVL-U?style=social&label=Star) 
+
+
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
 
 
