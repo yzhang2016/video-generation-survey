@@ -742,6 +742,9 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2026.03] Training-free Motion Factorization for Compositional Video Generation  [[PDF](https://arxiv.org/pdf/2603.09104)】
 
+[arxiv 2026.03] Tri-Prompting: Video Diffusion with Unified Control over Scene, Subject, and Motion  [[PDF](https://arxiv.org/abs/2603.15614),[Page](https://zhouzhenghong-gt.github.io/Tri-Prompting-Page/)]
+
+
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 
@@ -1047,6 +1050,9 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 [arxiv 2026.01]  The Script is All You Need: An Agentic Framework for Long-Horizon Dialogue-to-Cinematic Video Generation [[PDF](https://arxiv.org/abs/2601.17737),[Page](https://xd-mu.github.io/ScriptIsAllYouNeed/)] ![Code](https://img.shields.io/github/stars/Tencent/digitalhuman?style=social&label=Star)
 
 [arxiv 2026.03]  InfinityStory: Unlimited Video Generation with World Consistency and Character-Aware Shot Transitions [[PDF](https://arxiv.org/pdf/2603.03646)]
+
+[arxiv 2026.03]  COMIC: Agentic Sketch Comedy Generation [[PDF](https://arxiv.org/abs/2603.11048),[Page](https://susunghong.github.io/COMIC/)] ![Code](https://img.shields.io/github/stars/SusungHong/COMIC?style=social&label=Star)
+
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -1384,6 +1390,7 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2026.03] Kling-MotionControl Technical Report  [[PDF](https://arxiv.org/pdf/2603.03160)]
 
+[arxiv 2026.03] AnyCrowd: Instance-Isolated Identity-Pose Binding for Arbitrary Multi-Character Animation  [[PDF](https://arxiv.org/abs/2603.15415),[Page](https://xiezhy6.github.io/anycrowd/)] 
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -2305,6 +2312,11 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 
+## HOI
+[arxiv 2026.03] MVHOI: Bridge Multi-view Condition to Complex Human-Object Interaction Video Reenactment via 3D Foundation Model  [[PDF](https://arxiv.org/abs/2603.14686)]
+
+[arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
+
 
 ## duplex 
 [arxiv 2025.05]  DualTalk: Dual-Speaker Interaction for 3D Talking Head Conversations [[PDF](https://arxiv.org/pdf/2505.18096),[Page](https://ziqiaopeng.github.io/dualtalk/)] 
@@ -2578,6 +2590,7 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2026.01]  SpatialV2A: Visual-Guided High-fidelity Spatial Audio Generation [[PDF](https://arxiv.org/abs/2601.15017)]
 
+[arxiv 2026.03]  V2M-Zero: Zero-Pair Time-Aligned Video-to-Music Generation [[PDF](https://arxiv.org/abs/2603.11042),[Page](https://genjib.github.io/project_page/v2m_zero/)] 
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -2747,6 +2760,9 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 [arxiv 2026.02] ChordEdit: One-Step Low-Energy Transport for Image Editing  [[PDF](https://arxiv.org/abs/2602.19083),[Page](https://chordedit.github.io/)] ![Code](https://img.shields.io/github/stars/ChordEdit/ChordEdit?style=social&label=Star)
 
 [arxiv 2026.03] When to Lock Attention: Training-Free KV Control in Video Diffusion  [[PDF](https://arxiv.org/pdf/2603.09657)]
+
+[arxiv 2026.03] ViFeEdit: A Video-Free Tuner of Your Video Diffusion Transformer  [[PDF](https://arxiv.org/abs/2603.15478)] ![Code](https://img.shields.io/github/stars/Lexie-YU/ViFeEdit?style=social&label=Star)
+
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -3023,6 +3039,9 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 ## embodied AI
 [arxiv 2026.01] Rethinking Video Generation Model for the Embodied World  [[PDF](https://arxiv.org/abs/2601.15282),[Page](https://dagroup-pku.github.io/ReVidgen.github.io/)] ![Code](https://img.shields.io/github/stars/DAGroup-PKU/ReVidgen/?style=social&label=Star)
+
+[arxiv 2026.03] Egocentric World Model for Photorealistic Hand-Object Interaction Synthesis  [[PDF](https://arxiv.org/abs/2603.13615)]
+
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -3301,6 +3320,9 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 [arxiv 2026.03]  FrameDiT: Diffusion Transformer with Frame-Level Matrix Attention for Efficient Video Generation [[PDF](https://arxiv.org/pdf/2603.09721)]
 
 [arxiv 2026.03] SVG-EAR: Parameter-Free Linear Compensation for Sparse Video Generation via Error-aware Routing  [[PDF](https://arxiv.org/pdf/2603.08982)]
+
+[arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
+
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -3650,7 +3672,7 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 [arxiv 2026.03]  RealWonder: Real-Time Physical Action-Conditioned Video Generation [[PDF](https://arxiv.org/abs/2603.05449),[Page](https://liuwei283.github.io/RealWonder/)] ![Code](https://img.shields.io/github/stars/liuwei283/RealWonder?style=social&label=Star)
 
 
-[arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
+[arxiv 2026.03] Motion Forcing: A Decoupled Framework for Robust Video Generation in Motion Dynamics  [[PDF](https://arxiv.org/abs/2603.10408),[Page](https://tianshuo-xu.github.io/Motion-Forcing/)] ![Code](https://img.shields.io/github/stars/Tianshuo-Xu/Motion-Forcing?style=social&label=Star)
 
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
