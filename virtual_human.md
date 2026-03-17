@@ -3,6 +3,7 @@
 
 [arxiv 2025.07] Go to Zero: Towards Zero-shot Motion Generation with Million-scale Data  [[PDF](https://arxiv.org/abs/2507.07095),[Page](https://github.com/VankouF/MotionMillion-Codes)] ![Code](https://img.shields.io/github/stars/VankouF/MotionMillion-Codes?style=social&label=Star)
 
+[arxiv 2026.03] Face-to-Face: A Video Dataset for Multi-Person Interaction Modeling  [[PDF](https://arxiv.org/abs/2603.14794)]
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -152,6 +153,15 @@
 [arxiv 2026.02]  SARAH: Spatially Aware Real-time Agentic Humans [[PDF](https://arxiv.org/abs/2602.18432),[Page](https://evonneng.github.io/sarah/)] 
 
 [arxiv 2026.03]  U-Mind: A Unified Framework for Real-Time Multimodal Interaction with Audiovisual Generation [[PDF](https://arxiv.org/abs/2602.23739)]
+
+[arxiv 2026.03] Kimodo: Scaling Controllable Human Motion Generation  [[PDF](https://research.nvidia.com/labs/sil/projects/kimodo/assets/kimodo_tech_report.pdf),[Page](https://research.nvidia.com/labs/sil/projects/kimodo/)] ![Code](https://img.shields.io/github/stars/nv-tlabs/kimodo?style=social&label=Star)
+
+[arxiv 2026.03] ReactMotion: Generating Reactive Listener Motions from Speaker Utterance  [[PDF](https://arxiv.org/abs/2603.15083),[Page](https://reactmotion.github.io/)] ![Code](https://img.shields.io/github/stars/awakening-ai/ReactMotion?style=social&label=Star)
+
+[arxiv 2026.03] Riemannian Motion Generation: A Unified Framework for Human Motion Representation and Generation via Riemannian Flow Matching  [[PDF](https://arxiv.org/abs/2603.15016),[Page](https://frank-miao.github.io/RMG-Project-Page/)] 
+
+[arxiv 2026.03] ActionPlan: Future-Aware Streaming Motion Synthesis via Frame-Level Action Planning  [[PDF](https://arxiv.org/abs/2603.13500),[Page](https://coral79.github.io/ActionPlan/)] ![Code](https://img.shields.io/github/stars/Coral79/ActionPlan-Code?style=social&label=Star)
+
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
