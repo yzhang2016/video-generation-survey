@@ -279,6 +279,7 @@ A reading list of video generation
 
 [arxiv 2026.03] RAC: Rectified Flow Auto Coder  [[PDF](https://arxiv.org/abs/2603.05925),[Page](https://world-snapshot.github.io/RAC/)] ![Code](https://img.shields.io/github/stars/World-Snapshot/RAC?style=social&label=Star)
 
+[arxiv 2026.03] EVATok: Adaptive Length Video Tokenization for Efficient Visual Autoregressive Generation  [[PDF](https://arxiv.org/abs/2603.12267),[Page](https://silentview.github.io/EVATok/)]
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -786,6 +787,9 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2026.02]  TimeChat-Captioner: Scripting Multi-Scene Videos with Time-Aware and Structural Audio-Visual Captions [[PDF](https://arxiv.org/pdf/2602.08711),[Page](https://github.com/yaolinli/TimeChat-Captioner)] ![Code](https://img.shields.io/github/stars/yaolinli/TimeChat-Captioner?style=social&label=Star)
 
+[arxiv 2026.03] VQQA: An Agentic Approach for Video Evaluation and Quality Improvement  [[PDF](https://arxiv.org/abs/2603.12310),[Page](https://yiwen-song.github.io/vqqa/)]
+
+[arxiv 2026.03] Stay in your Lane: Role Specific Queries with Overlap Suppression Loss for Dense Video Captioning  [[PDF](https://arxiv.org/abs/2603.11439)]
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -810,6 +814,9 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 [arxiv 2025.12] DreaMontage: Arbitrary Frame-Guided One-Shot Video Generation  [[PDF](https://arxiv.org/pdf/2512.21252),[Page](https://dreamontage.github.io/DreaMontage/)] 
 
 [arxiv 2026.01]  VideoMemory: Toward Consistent Video Generation via Memory Integration [[PDF](https://arxiv.org/pdf/2601.03655),[Page](https://hit-perfect.github.io/VideoMemory/)] 
+
+[arxiv 2026.03] ShotVerse: Advancing Cinematic Camera Control for Text-Driven Multi-Shot Video Creation  [[PDF](https://arxiv.org/abs/2603.11421),[Page](https://shotverse.github.io/)] ![Code](https://img.shields.io/github/stars/Songlin1998/ShotVerse?style=social&label=Star)
+
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -1000,6 +1007,9 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 
+[arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
+
+
 ## cot
 [arxiv 2025.10] VChain: Chain-of-Visual-Thought for Reasoning in Video Generation  [[PDF](https://arxiv.org/abs/2510.05094),[Page](https://eyeline-labs.github.io/VChain)] ![Code](https://img.shields.io/github/stars/Eyeline-Labs/VChain?style=social&label=Star)
 
@@ -1074,6 +1084,8 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 ## reasoning 
 
 [arxiv 2026.02] A Very Big Video Reasoning Suite  [[PDF](https://arxiv.org/abs/2602.20159),[Page](https://video-reason.com/)] 
+
+[arxiv 2026.03] EndoCoT: Scaling Endogenous Chain-of-Thought Reasoning in Diffusion Models  [[PDF](https://arxiv.org/abs/2603.12252),[Page](https://lennoxdai.github.io/EndoCoT-Webpage/)]
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -1865,6 +1877,9 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2026.03] CubeComposer: Spatio-Temporal Autoregressive 4K 360° Video Generation from Perspective Video  [[PDF](https://arxiv.org/abs/2603.04291),[Page](https://lg-li.github.io/project/cubecomposer/)] ![Code](https://img.shields.io/github/stars/TencentARC/CubeComposer?style=social&label=Star)
 
+[arxiv 2026.03] WildDepth: A Multimodal Dataset for 3D Wildlife Perception and Depth Estimation  [[[PDF](https://arxiv.org/abs/2603.16816),[Page](https://yunshin.github.io/WildDepth/)]]
+
+
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 
@@ -1977,7 +1992,10 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2026.03] WildActor Unconstrained Identity-Preserving Video Generation [[PDF](https://wildactor.github.io/#),[Page](https://wildactor.github.io/)] ![Code](https://img.shields.io/github/stars/MeiGen-AI/WildActor?style=social&label=Star)
 
-[arxiv 2026.03]  PureCC: Pure Learning for Text-to-Image Concept Customization [[PDF](https://arxiv.org/abs/2603.07561),[Page](https://github.com/lzc-sg/PureCC)] ![Code](https://img.shields.io/github/stars/lzc-sg/PureCC?style=social&label=Star)
+[arxiv 2026.03] DreamVideo-Omni: Omni-Motion Controlled Multi-Subject Video Customization with Latent Identity Reinforcement Learning  [[PDF](https://arxiv.org/abs/2603.12257),[Page](https://dreamvideo-omni.github.io)]
+
+
+[arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
@@ -2241,6 +2259,10 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 [arxiv 2026.01] FlowAct-R1: Towards Interactive Humanoid Video Generation  [[PDF](https://arxiv.org/pdf/2601.10103),[Page](https://grisoon.github.io/FlowAct-R1/)] 
 
 [arxiv 2026.02] EchoTorrent: Towards Swift, Sustained, and Streaming Multi-Modal Video Generation  [[PDF](https://arxiv.org/abs/2602.13669)]
+
+[arxiv 2026.03] AvatarForcing: One-Step Streaming Talking Avatars via Local-Future Sliding-Window Denoising  [[PDF](https://arxiv.org/abs/2603.14331),[Page](https://cuiliyuan121.github.io/AvatarForcing/)]
+
+[arxiv 2026.03] SoulX-LiveAct: Towards Hour-Scale Real-Time Human Animation with Neighbor Forcing and ConvKV Memory  [[PDF](https://arxiv.org/abs/2603.11746),[Page](https://demopagedemo.github.io/LiveAct/)] ![Code](https://img.shields.io/github/stars/Soul-AILab/SoulX-LiveAct?style=social&label=Star)
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -2559,6 +2581,8 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 [arxiv 2026.02]  JavisDiT++: Unified Modeling and Optimization for Joint Audio-Video Generation [[PDF](https://arxiv.org/abs/2602.19163),[Page](https://javisverse.github.io/JavisDiT2-page)] ![Code](https://img.shields.io/github/stars/JavisVerse/JavisDiT?style=social&label=Star)
 
 [arxiv 2026.02]  SkyReels-V4: Multi-modal Video-Audio Generation, Inpainting and Editing model [[PDF](https://arxiv.org/abs/2602.21818)]
+
+[arxiv 2026.03] OmniForcing: Unleashing Real-time Joint Audio-Visual Generation  [[PDF](https://arxiv.org/abs/2603.11647),[Page](https://omniforcing.com/)] ![Code](https://img.shields.io/github/stars/OmniForcing/OmniForcing?style=social&label=Star)
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -3482,6 +3506,10 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2026.03] WorldCache: Accelerating World Models for Free via Heterogeneous Token Caching  [[PDF](https://arxiv.org/abs/2603.06331),[Page](https://github.com/FofGofx/WorldCache)] ![Code](https://img.shields.io/github/stars/FofGofx/WorldCache?style=social&label=Star)
 
+[arxiv 2026.03] WorldCam: Interactive Autoregressive 3D Gaming Worlds with Camera Pose as a Unifying Geometric Representation  [[[PDF](https://arxiv.org/abs/2603.16871),[Page](https://cvlab-kaist.github.io/WorldCam/)]] ![Code](https://img.shields.io/github/stars/cvlab-kaist/WorldCam?style=social&label=Star)
+
+
+
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 
@@ -3499,6 +3527,10 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 [arxiv 2025.12]  VL-JEPA: Joint Embedding Predictive Architecture for Vision-language [[PDF](https://arxiv.org/abs/2512.10942)]
 
 [arxiv 2026.01] Memory-V2V: Augmenting Video-to-Video Diffusion Models with Memory  [[PDF](https://arxiv.org/abs/2601.16296),[Page](https://dohunlee1.github.io/MemoryV2V/)] ![Code](https://img.shields.io/github/stars/DoHunLee1/Memory-V2V?style=social&label=Star)
+
+[arxiv 2026.03] Grounding World Simulation Models in a Real-World Metropolis  [[PDF](https://arxiv.org/abs/2603.15583),[Page](https://seoul-world-model.github.io/)] ![Code](https://img.shields.io/github/stars/naver-ai/seoul-world-model?style=social&label=Star)
+
+[arxiv 2026.03] MemRoPE: Training-Free Infinite Video Generation via Evolving Memory Tokens  [[PDF](https://arxiv.org/abs/2603.12513),[Page](https://memrope.github.io)] ![Code](https://img.shields.io/github/stars/YoungRaeKimm/MemRoPE?style=social&label=Star)
 
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
@@ -3566,7 +3598,7 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2026.01]  InstaDrive: Instance-Aware Driving World Models for Realistic and Consistent Video Generation [[PDF](https://arxiv.org/abs/2602.03242),[Page](https://shanpoyang654.github.io/InstaDrive/page.html)] ![Code](https://img.shields.io/github/stars/shanpoyang654/InstaDrive?style=social&label=Star)
 
-[arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
+[arxiv 2026.03] AutoMoT: A Unified Vision-Language-Action Model with Asynchronous Mixture-of-Transformers for End-to-End Autonomous Driving  [[PDF](https://arxiv.org/abs/2603.14851),[Page](https://automot-website.github.io/)]
 
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
