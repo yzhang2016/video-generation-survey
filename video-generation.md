@@ -212,8 +212,12 @@ A reading list of video generation
 [arxiv 2025.10] Scaling Instruction-Based Video Editing with a High-Quality Synthetic Dataset  [[PDF](https://arxiv.org/abs/2510.15742),[Page](https://editto.net/)] ![Code](https://img.shields.io/github/stars/EzioBy/Ditto?style=social&label=Star)
 
 
-* **Action100M **
+* **Action100M**
 [arxiv 2026.01] Action100M: A Large-scale Video Action Dataset  [[PDF](https://arxiv.org/pdf/2601.10592),[Page](https://github.com/facebookresearch/Action100M)] ![Code](https://img.shields.io/github/stars/facebookresearch/Action100M?style=social&label=Star)
+
+
+* **Ego-1K**
+[arxiv 2026.03] Ego-1K -- A Large-Scale Multiview Video Dataset for Egocentric Vision  [[PDF](https://arxiv.org/abs/2603.13741),[Page](https://huggingface.co/datasets/facebook/ego-1k)]
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -689,6 +693,8 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2026.03] Chain of Event-Centric Causal Thought for Physically Plausible Video Generation  [[PDF](https://arxiv.org/pdf/2603.09094)]
 
+[arxiv 2026.03] PhysAlign: Physics-Coherent Image-to-Video Generation through Feature and 3D Representation Alignment  [[PDF](https://arxiv.org/abs/2603.13770),[Page](https://physalign.github.io/PhysAlign)]
+
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 
@@ -834,6 +840,9 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 [arxiv 2025.12] Active Intelligence in Video Avatars via Closed-loop World Modeling  [[PDF](https://arxiv.org/abs/2512.20615),[Page](https://xuanhuahe.github.io/ORCA/)] ![Code](https://img.shields.io/github/stars/xuanhuahe/ORCA?style=social&label=Star)
 
 [arxiv 2026.03] SwitchCraft: Training-Free Multi-Event Video Generation with Attention Controls  [[PDF](https://arxiv.org/abs/2602.23956),[Page](https://switchcraft-project.github.io/)] ![Code](https://img.shields.io/github/stars/Westlake-AGI-Lab/SwitchCraft?style=social&label=Star)
+
+[arxiv 2026.03] Event-Driven Video Generation  [[PDF](https://arxiv.org/abs/2603.13402)]
+
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -3321,7 +3330,7 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2026.03] SVG-EAR: Parameter-Free Linear Compensation for Sparse Video Generation via Error-aware Routing  [[PDF](https://arxiv.org/pdf/2603.08982)]
 
-[arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
+[arxiv 2026.03] LatSearch: Latent Reward-Guided Search for Faster Inference-Time Scaling in Video Diffusion  [[PDF](https://arxiv.org/abs/2603.14526),[Page](https://zengqunzhao.github.io/LatSearch)] ![Code](https://img.shields.io/github/stars/zengqunzhao/LatSearch?style=social&label=Star)
 
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
