@@ -308,6 +308,10 @@
 
 [arxiv 2025.12] VideoZoomer: Reinforcement-Learned Temporal Focusing for Long Video Reasoning  [[PDF](https://arxiv.org/abs/2512.22315)]
 
+[arxiv 2026.03] Question-guided Visual Compression with Memory Feedback for Long-Term Video Understanding  [[PDF](https://arxiv.org/abs/2603.15167)]
+
+[arxiv 2026.03] A Multi-Agent Perception-Action Alliance for Efficient Long Video Reasoning  [[PDF](https://arxiv.org/abs/2603.14052),[Page](https://github.com/git-disl/A4VL)] ![Code](https://img.shields.io/github/stars/git-disl/A4VL?style=social&label=Star)
+
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
 
 
@@ -483,6 +487,11 @@
 
 [arxiv 2026.02] DreamZero: World Action Models are Zero-shot Policies  [[PDF](https://dreamzero0.github.io/DreamZero.pdf),[Page](https://dreamzero0.github.io/)] ![Code](https://img.shields.io/github/stars/dreamzero0/dreamzero?style=social&label=Star) 
 
+[arxiv 2026.03] Look Before Acting: Enhancing Vision Foundation Representations for Vision-Language-Action Models  [[PDF](https://arxiv.org/abs/2603.15618),[Page](https://deepvision-vla.github.io/)]
+
+[arxiv 2026.03] RealVLG-R1: A Large-Scale Real-World Visual-Language Grounding Benchmark for Robotic Perception and Manipulation  [[PDF](https://arxiv.org/abs/2603.14880),[Page](https://github.com/lif314/RealVLG-R1)] ![Code](https://img.shields.io/github/stars/lif314/RealVLG-R1?style=social&label=Star)
+
+[arxiv 2026.03] VLA-Thinker: Boosting Vision-Language-Action Models through Thinking-with-Image Reasoning  [[PDF](https://arxiv.org/abs/2603.14523),[Page](https://cywang735.github.io/VLA-Thinker/)] ![Code](https://img.shields.io/github/stars/CYWang735/VLAThinker?style=social&label=Star)
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
 
