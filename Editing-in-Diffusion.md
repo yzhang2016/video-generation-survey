@@ -610,6 +610,9 @@
 
 [arxiv 2026.03] CARE-Edit: Condition-Aware Routing of Experts for Contextual Image Editing  [[PDF](https://arxiv.org/abs/2603.08589),[Page](https://care-edit.github.io/)] ![Code](https://img.shields.io/github/stars/CARE-Edit/Code?style=social&label=Star)
 
+[arxiv 2026.03] VeloEdit: Training-Free Consistent and Continuous Instruction-Based Image Editing via Velocity Field Decomposition  [[PDF](https://arxiv.org/abs/2603.13388),[Page](https://github.com/xmulzq/VeloEdit)] ![Code](https://img.shields.io/github/stars/xmulzq/VeloEdit?style=social&label=Star)
+
+
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 ## end of editing 
@@ -1536,6 +1539,9 @@
 
 [arxiv 2026.03] MOBILE-VTON: High-Fidelity On-Device Virtual Try-On  [[PDF](https://arxiv.org/pdf/2603.00947)]
 
+[arxiv 2026.03] Garments2Look: A Multi-Reference Dataset for High-Fidelity Outfit-Level Virtual Try-On with Clothing and Accessories  [[PDF](https://arxiv.org/abs/2603.14153),[Page](https://artmesciencelab.github.io/Garments2Look)]
+
+
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 
@@ -1607,6 +1613,7 @@
 
 [arxiv 2025.10] OmniText: A Training-Free Generalist for Controllable Text-Image Manipulation  [[PDF](https://arxiv.org/abs/2510.24093)]
 
+[arxiv 2026.03] GlyphPrinter: Region-Grouped Direct Preference Optimization for Glyph-Accurate Visual Text Rendering  [[PDF](https://arxiv.org/abs/2603.15616),[Page](https://henghuiding.com/GlyphPrinter/)] ![Code](https://img.shields.io/github/stars/FudanCVL/GlyphPrinter?style=social&label=Star)
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -2094,6 +2101,8 @@
 [arxiv 2026.02]  FlowFixer: Towards Detail-Preserving Subject-Driven Generation [[PDF](https://arxiv.org/pdf/2602.21402)]
 
 [arxiv 2026.03] IdGlow: Dynamic Identity Modulation for Multi-Subject Generation  [[PDF](https://arxiv.org/pdf/2603.00607),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
+
+[arxiv 2026.03] AnyPhoto: Multi-Person Identity Preserving Image Generation with ID Adaptive Modulation on Location Canvas  [[PDF](https://arxiv.org/abs/2603.14770)]
 
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
@@ -2759,6 +2768,10 @@ Creative Layout-to-Image Generation [[PDF](https://arxiv.org/pdf/2412.03859),[Pa
 
 [arxiv 2026.03] HiFi-Inpaint: Towards High-Fidelity Reference-Based Inpainting for Generating Detail-Preserving Human-Product Images  [[PDF](https://arxiv.org/pdf/2603.02210),[Page](https://correr-zhou.github.io/HiFi-Inpaint/)] ![Code](https://img.shields.io/github/stars/Correr-Zhou/HiFi-Inpaint?style=social&label=Star)
 
+[arxiv 2026.03] CyCLeGen: Cycle-Consistent Layout Prediction and Image Generation in Vision Foundation Models  [[PDF](https://arxiv.org/abs/2603.14957)]
+
+[arxiv 2026.03] NumColor: Precise Numeric Color Control in Text-to-Image Generation  [[PDF](https://arxiv.org/abs/2603.13547)]
+
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 
@@ -3047,6 +3060,10 @@ Creative Layout-to-Image Generation [[PDF](https://arxiv.org/pdf/2412.03859),[Pa
 [arxiv 2026.03]  AlignVAR: Towards Globally Consistent Visual Autoregression for Image Super-Resolution [[PDF](https://arxiv.org/pdf/2603.00589)]
 
 [arxiv 2026.03]  FiDeSR: High-Fidelity and Detail-Preserving One-Step Diffusion Super-Resolution [[PDF](https://arxiv.org/abs/2603.02692),[Page](https://github.com/Ar0Kim/FiDeSR)] ![Code](https://img.shields.io/github/stars/Ar0Kim/FiDeSR?style=social&label=Star)
+
+[arxiv 2026.03] M2IR: Proactive All-in-One Image Restoration via Mamba-style Modulation and Mixture-of-Experts  [[PDF](https://arxiv.org/abs/2603.14816),[Page](https://github.com/Im34v/M2IR)] ![Code](https://img.shields.io/github/stars/Im34v/M2IR?style=social&label=Star)
+
+[arxiv 2026.03] Revisiting the Perception-Distortion Trade-off with Spatial-Semantic Guided Super-Resolution  [[PDF](https://arxiv.org/abs/2603.14112),[Page](https://hssmac.github.io/SpaSemSR_web/)]
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -4003,6 +4020,9 @@ Creative Layout-to-Image Generation [[PDF](https://arxiv.org/pdf/2412.03859),[Pa
 
 [arxiv 2026.01]  PromptRL: Prompt Matters in RL for Flow-Based Image Generation [[PDF](https://arxiv.org/abs/2602.01382),[Page](https://github.com/G-U-N/UniRL)] ![Code](https://img.shields.io/github/stars/G-U-N/UniRL?style=social&label=Star)
 
+[arxiv 2026.03] Diffusion Reinforcement Learning via Centered Reward Distillation  [[PDF](https://arxiv.org/abs/2603.14128)]
+
+
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 
@@ -4158,6 +4178,7 @@ Creative Layout-to-Image Generation [[PDF](https://arxiv.org/pdf/2412.03859),[Pa
 
 [arxiv 2025.07] GPT-IMAGE-EDIT-1.5M: A Million-Scale, GPT-Generated Image Dataset [[PDF](https://arxiv.org/abs/2507.21033),[Page](https://ucsc-vlaa.github.io/GPT-Image-Edit/)] ![Code](https://img.shields.io/github/stars/wyhlovecpp/GPT-Image-Edit?style=social&label=Star)
 
+[arxiv 2026.03] EditHF-1M: A Million-Scale Rich Human Preference Feedback for Image Editing  [[PDF](https://arxiv.org/abs/2603.14916),[Page](https://github.com/IntMeGroup/EditHF)] ![Code](https://img.shields.io/github/stars/IntMeGroup/EditHF?style=social&label=Star)
 
 
 
