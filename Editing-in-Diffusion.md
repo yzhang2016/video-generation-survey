@@ -1150,6 +1150,9 @@
 
 [arxiv 2026.01] Agentic Retoucher for Text-To-Image Generation  [[PDF](https://arxiv.org/pdf/2601.02046)]
 
+[arxiv 2026.03] Early Failure Detection and Intervention in Video Diffusion Models  [[[PDF](https://arxiv.org/abs/2603.14320)]]
+
+
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 
