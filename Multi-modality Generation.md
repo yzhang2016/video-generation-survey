@@ -493,6 +493,9 @@
 
 [arxiv 2026.03] VLA-Thinker: Boosting Vision-Language-Action Models through Thinking-with-Image Reasoning  [[PDF](https://arxiv.org/abs/2603.14523),[Page](https://cywang735.github.io/VLA-Thinker/)] ![Code](https://img.shields.io/github/stars/CYWang735/VLAThinker?style=social&label=Star)
 
+[arxiv 2026.03] Beyond Dense Futures: World Models as Structured Planners for Robotic Manipulation  [[PDF](https://arxiv.org/abs/2603.12553),[Page](https://wm-planner.github.io/structvla/)] ![Code](https://img.shields.io/github/stars/wm-planner/structvla?style=social&label=Star) 
+
+
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
 
 
@@ -612,6 +615,7 @@
 
 [arxiv 2026.02]  UniWeTok: An Unified Binary Tokenizer with Codebook Size 2 up 128 for Unified Multimodal Large Language Model [[PDF](https://arxiv.org/abs/2602.14178)]
 
+[arxiv 2026.03] EvoTok: A Unified Image Tokenizer via Residual Latent Evolution for Visual Understanding and Generation  [[PDF](https://arxiv.org/abs/2603.12108)]
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
 
