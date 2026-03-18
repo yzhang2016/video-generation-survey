@@ -162,6 +162,11 @@
 
 [arxiv 2026.03] ActionPlan: Future-Aware Streaming Motion Synthesis via Frame-Level Action Planning  [[PDF](https://arxiv.org/abs/2603.13500),[Page](https://coral79.github.io/ActionPlan/)] ![Code](https://img.shields.io/github/stars/Coral79/ActionPlan-Code?style=social&label=Star)
 
+[arxiv 2026.03] UMO: Unified In-Context Learning Unlocks Motion Foundation Model Priors  [[[PDF](https://arxiv.org/abs/2603.15975),[Page](https://oliver-cong02.github.io/UMO.github.io/)]]
+
+[arxiv 2026.03] LaMoGen: Language to Motion Generation Through LLM-Guided Symbolic Inference  [[PDF](https://arxiv.org/abs/2603.11605),[Page](https://jjkislele.github.io/LaMoGen/)] ![Code](https://img.shields.io/github/stars/jjkislele/LaMoGen?style=social&label=Star)
+
+
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
