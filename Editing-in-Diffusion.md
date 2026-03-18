@@ -649,6 +649,7 @@
 
 [arxiv 2026.03]  Generative Visual Chain-of-Thought for Image Editing [[PDF](https://arxiv.org/abs/2603.01893),[Page](https://pris-cv.github.io/GVCoT/)] ![Code](https://img.shields.io/github/stars/PRIS-CV/GVCoT?style=social&label=Star)
 
+[arxiv 2026.03] GRADE: Benchmarking Discipline-Informed Reasoning in Image Editing  [[PDF](https://arxiv.org/abs/2603.12264),[Page](https://grade-bench.github.io/)] ![Code](https://img.shields.io/github/stars/VisionXLab/GRADE?style=social&label=Star)
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -1541,6 +1542,10 @@
 
 [arxiv 2026.03] Garments2Look: A Multi-Reference Dataset for High-Fidelity Outfit-Level Virtual Try-On with Clothing and Accessories  [[PDF](https://arxiv.org/abs/2603.14153),[Page](https://artmesciencelab.github.io/Garments2Look)]
 
+[arxiv 2026.03] PROMO: Promptable Outfitting for Efficient High-Fidelity Virtual Try-On  [[PDF](https://arxiv.org/abs/2603.11675)]
+
+[arxiv 2026.03] VTEdit-Bench: A Comprehensive Benchmark for Multi-Reference Image Editing Models in Virtual Try-On  [[PDF](https://arxiv.org/abs/2603.11734)]
+
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -1614,6 +1619,9 @@
 [arxiv 2025.10] OmniText: A Training-Free Generalist for Controllable Text-Image Manipulation  [[PDF](https://arxiv.org/abs/2510.24093)]
 
 [arxiv 2026.03] GlyphPrinter: Region-Grouped Direct Preference Optimization for Glyph-Accurate Visual Text Rendering  [[PDF](https://arxiv.org/abs/2603.15616),[Page](https://henghuiding.com/GlyphPrinter/)] ![Code](https://img.shields.io/github/stars/FudanCVL/GlyphPrinter?style=social&label=Star)
+
+[arxiv 2026.03] WeEdit: A Dataset, Benchmark and Glyph-Guided Framework for Text-centric Image Editing  [[PDF](https://arxiv.org/abs/2603.11593)]
+
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -2104,6 +2112,7 @@
 
 [arxiv 2026.03] AnyPhoto: Multi-Person Identity Preserving Image Generation with ID Adaptive Modulation on Location Canvas  [[PDF](https://arxiv.org/abs/2603.14770)]
 
+[arxiv 2026.03]  PureCC: Pure Learning for Text-to-Image Concept Customization [[PDF](https://arxiv.org/abs/2603.07561),[Page](https://github.com/lzc-sg/PureCC)] ![Code](https://img.shields.io/github/stars/lzc-sg/PureCC?style=social&label=Star)
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -2257,6 +2266,9 @@
 [arxiv 2025.10]  SceneDecorator: Towards Scene-Oriented Story Generation with Scene Planning and Scene Consistency [[PDF](https://arxiv.org/pdf/2510.22994),[Page](https://lulupig12138.github.io/SceneDecorator/)] ![Code](https://img.shields.io/github/stars/lulupig12138/SceneDecorator?style=social&label=Star)
 
 [arxiv 2025.12] IdentityStory: Taming Your Identity-Preserving Generator for Human-Centric Story Generation  [[PDF](https://arxiv.org/abs/2512.23519)]
+
+[arxiv 2026.03] Persistent Story World Simulation with Continuous Character Customization  [[[PDF](https://arxiv.org/abs/2603.16285)]]
+
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -3065,6 +3077,10 @@ Creative Layout-to-Image Generation [[PDF](https://arxiv.org/pdf/2412.03859),[Pa
 
 [arxiv 2026.03] Revisiting the Perception-Distortion Trade-off with Spatial-Semantic Guided Super-Resolution  [[PDF](https://arxiv.org/abs/2603.14112),[Page](https://hssmac.github.io/SpaSemSR_web/)]
 
+[arxiv 2026.03] GDPO-SR: Group Direct Preference Optimization for One-Step Generative Image Super-Resolution  [[[PDF](https://arxiv.org/abs/2603.16769)]]
+
+[arxiv 2026.03] UCAN: Unified Convolutional Attention Network for Expansive Receptive Fields in Lightweight Super-Resolution  [[PDF](https://arxiv.org/abs/2603.11680)]
+
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 
@@ -3729,6 +3745,7 @@ Creative Layout-to-Image Generation [[PDF](https://arxiv.org/pdf/2412.03859),[Pa
 
 [arxiv 2026.03]  BinaryAttention: One-Bit QK-Attention for Vision and Diffusion Transformers [[PDF](https://arxiv.org/abs/2603.09582),[Page](https://github.com/EdwardChasel/BinaryAttention)] ![Code](https://img.shields.io/github/stars/EdwardChasel/BinaryAttention?style=social&label=Star)
 
+[arxiv 2026.03] Unlearning for One-Step Generative Models via Unbalanced Optimal Transport  [[[PDF](https://arxiv.org/abs/2603.16489)]]
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
