@@ -1581,6 +1581,7 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2026.03] ConfCtrl: Enabling Precise Camera Control in Video Diffusion via Confidence-Aware Interpolation  [[PDF](https://arxiv.org/abs/2603.09819)]
 
+[arxiv 2026.03] CamLit: Unified Video Diffusion with Explicit Camera and Lighting Control  [[[PDF](https://arxiv.org/abs/2603.14241)]]
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
