@@ -1740,6 +1740,7 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2026.03] Improved Adversarial Diffusion Compression for Real-World Video Super-Resolution  [[PDF](https://arxiv.org/abs/2603.00458)]
 
+[arxiv 2026.03] FrescoDiffusion: 4K Image-to-Video with Prior-Regularized Tiled Diffusion  [[PDF](https://arxiv.org/abs/2603.17555),[Page](https://f2v.pages.dev/)]
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -2144,6 +2145,7 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2026.01] RSATalker: Realistic Socially-Aware Talking Head Generation for Multi-Turn Conversation  [[PDF](https://arxiv.org/pdf/2601.10606)]
 
+[arxiv 2026.03] ECHO: Towards Emotionally Appropriate and Contextually Aware Interactive Head Generation  [[PDF](https://arxiv.org/abs/2603.17427)]
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -2513,6 +2515,9 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 ## stereo video generation
 [arxiv 2025.05] HoloTime: Taming Video Diffusion Models for Panoramic 4D Scene Generation  [[PDF](https://arxiv.org/abs/2504.21650),[Page](https://zhouhyocean.github.io/holotime/)] ![Code](https://img.shields.io/github/stars/PKU-YuanGroup/HoloTime?style=social&label=Star)
+
+[arxiv 2026.03] Stereo World Model: Camera-Guided Stereo Video Generation  [[PDF](https://arxiv.org/abs/2603.17375),[Page](https://sunyangtian.github.io/StereoWorld-web/)] ![Code](https://img.shields.io/github/stars/SunYangtian/StereoWorld?style=social&label=Star)
+
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -3509,6 +3514,8 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2026.03] WorldCam: Interactive Autoregressive 3D Gaming Worlds with Camera Pose as a Unifying Geometric Representation  [[[PDF](https://arxiv.org/abs/2603.16871),[Page](https://cvlab-kaist.github.io/WorldCam/)]] ![Code](https://img.shields.io/github/stars/cvlab-kaist/WorldCam?style=social&label=Star)
 
+[arxiv 2026.03] VectorWorld: Efficient Streaming World Model via Diffusion Flow on Vector Graphs  [[PDF](https://arxiv.org/abs/2603.17652),[Page](https://jiangchaokang.github.io/VectorWorld/)] ![Code](https://img.shields.io/github/stars/jiangchaokang/VectorWorld?style=social&label=Star)
+
 
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
@@ -3532,6 +3539,8 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 [arxiv 2026.03] Grounding World Simulation Models in a Real-World Metropolis  [[PDF](https://arxiv.org/abs/2603.15583),[Page](https://seoul-world-model.github.io/)] ![Code](https://img.shields.io/github/stars/naver-ai/seoul-world-model?style=social&label=Star)
 
 [arxiv 2026.03] MemRoPE: Training-Free Infinite Video Generation via Evolving Memory Tokens  [[PDF](https://arxiv.org/abs/2603.12513),[Page](https://memrope.github.io)] ![Code](https://img.shields.io/github/stars/YoungRaeKimm/MemRoPE?style=social&label=Star)
+
+[arxiv 2026.03] MosaicMem: Hybrid Spatial Memory for Controllable Video World Models  [[PDF](https://arxiv.org/abs/2603.17117),[Page](https://mosaicmem.github.io)]
 
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
@@ -3656,8 +3665,18 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2026.03]  FlowPortrait: Reinforcement Learning for Audio-Driven Portrait Video Generation [[PDF](https://arxiv.org/abs/2603.00159)]
 
+[arxiv 2026.03] SHIFT: Motion Alignment in Video Diffusion Models with Adversarial Hybrid Fine-Tuning  [[PDF](https://arxiv.org/abs/2603.17426)]
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
+
+
+# improving AR 
+[arxiv 2026.03] AR-CoPO: Align Autoregressive Video Generation with Contrastive Policy Optimization  [[PDF](https://arxiv.org/abs/2603.17461)]
+
+[arxiv 2026.03] Astrolabe: Steering Forward-Process RL for Distilled Autoregressive Video Models  [[PDF](https://arxiv.org/abs/2603.17051),[Page](https://franklinz233.github.io/projects/astrolabe/)] ![Code](https://img.shields.io/github/stars/franklinz233/Astrolabe?style=social&label=Star)
+
+[arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
+
 
 
 ## CV Related 
