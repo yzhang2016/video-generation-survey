@@ -312,6 +312,9 @@
 
 [arxiv 2026.03] A Multi-Agent Perception-Action Alliance for Efficient Long Video Reasoning  [[PDF](https://arxiv.org/abs/2603.14052),[Page](https://github.com/git-disl/A4VL)] ![Code](https://img.shields.io/github/stars/git-disl/A4VL?style=social&label=Star)
 
+[arxiv 2026.03] Symphony: A Cognitively-Inspired Multi-Agent System for Long-Video Understanding  [[PDF](https://arxiv.org/abs/2603.17304)]
+
+
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
 
 
@@ -495,6 +498,7 @@
 
 [arxiv 2026.03] Beyond Dense Futures: World Models as Structured Planners for Robotic Manipulation  [[PDF](https://arxiv.org/abs/2603.12553),[Page](https://wm-planner.github.io/structvla/)] ![Code](https://img.shields.io/github/stars/wm-planner/structvla?style=social&label=Star) 
 
+[arxiv 2026.03] GigaWorld-Policy: An Efficient Action-Centered World-Action Model  [[PDF](https://arxiv.org/abs/2603.17240)]
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
 
