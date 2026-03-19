@@ -612,6 +612,7 @@
 
 [arxiv 2026.03] VeloEdit: Training-Free Consistent and Continuous Instruction-Based Image Editing via Velocity Field Decomposition  [[PDF](https://arxiv.org/abs/2603.13388),[Page](https://github.com/xmulzq/VeloEdit)] ![Code](https://img.shields.io/github/stars/xmulzq/VeloEdit?style=social&label=Star)
 
+[arxiv 2026.03] MSRAMIE: Multimodal Structured Reasoning Agent for Multi-instruction Image Editing  [[PDF](https://arxiv.org/abs/2603.16967)]
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -1650,6 +1651,8 @@
 [arxiv 2025.10] GenPilot: A Multi-Agent System for Test-Time Prompt Optimization in Image Generation  [[PDF](https://arxiv.org/abs/2510.07217),[Page](https://github.com/27yw/GenPilot)] ![Code](https://img.shields.io/github/stars/27yw/GenPilot?style=social&label=Star)
 
 [arxiv 2025.10] Grasp Any Region: Towards Precise, Contextual Pixel Understanding for Multimodal LLMs  [[PDF](https://arxiv.org/abs/2510.18876),[Page](https://github.com/Haochen-Wang409/Grasp-Any-Region)] ![Code](https://img.shields.io/github/stars/Haochen-Wang409/Grasp-Any-Region?style=social&label=Star)
+
+[arxiv 2026.03] FineViT: Progressively Unlocking Fine-Grained Perception with Dense Recaptions  [[PDF](https://arxiv.org/abs/2603.17326)]
 
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
@@ -3411,6 +3414,7 @@ Creative Layout-to-Image Generation [[PDF](https://arxiv.org/pdf/2412.03859),[Pa
 
 [arxiv 2026.03] LogoDiffuser: Training-Free Multilingual Logo Generation and Stylization via Letter-Aware Attention Control  [[PDF](https://arxiv.org/pdf/2603.09759)]
 
+[arxiv 2026.03] Omni-I2C: A Holistic Benchmark for High-Fidelity Image-to-Code Generation  [[PDF](https://arxiv.org/abs/2603.17508),[Page](https://github.com/MiliLab/Omni-I2C)] ![Code](https://img.shields.io/github/stars/MiliLab/Omni-I2C?style=social&label=Star)
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -3925,6 +3929,9 @@ Creative Layout-to-Image Generation [[PDF](https://arxiv.org/pdf/2412.03859),[Pa
 [arxiv 2026.01]  GenArena: How Can We Achieve Human-Aligned Evaluation for Visual Generation Tasks? [[PDF](https://arxiv.org/abs/2602.06013),[Page](https://genarena.github.io/)] ![Code](https://img.shields.io/github/stars/ruihanglix/genarena?style=social&label=Star)
 
 [arxiv 2026.01] RISE-Video: Can Video Generators Decode Implicit World Rules?  [[PDF](https://arxiv.org/abs/2602.05986),[Page](https://github.com/VisionXLab/RISE-Video)] ![Code](https://img.shields.io/github/stars/VisionXLab/RISE-Video?style=social&label=Star)
+
+[arxiv 2026.03] Omni IIE Bench: Benchmarking the Practical Capabilities of Image Editing Models  [[PDF](https://arxiv.org/abs/2603.16944)]
+
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
