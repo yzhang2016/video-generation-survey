@@ -2599,7 +2599,7 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 [arxiv 2026.02] OmniCustom: Sync Audio-Video Customization Via Joint Audio-Video Generation Model  [[PDF](https://arxiv.org/abs/2602.12304),[Page](https://omnicustom-project.github.io/page/)] ![Code](https://img.shields.io/github/stars/OmniCustom-project/OmniCustom?style=social&label=Star)
 
 
-[arxiv 2026.03]  Identity as Presence: Towards Appearance and Voice Personalized Joint Audio-Video Generation [[PDF](https://arxiv.org/pdf/2603.17889),[Page](https://github.com/WeChatCV/Identity-as-Presence)] ![Code](https://img.shields.io/github/stars/WeChatCV/Identity-as-Presence?style=social&label=Star)
+[arxiv 2026.03]  Identity as Presence: Towards Appearance and Voice Personalized Joint Audio-Video Generation [[PDF](https://arxiv.org/pdf/2603.17889),[Page](https://chen-yingjie.github.io/projects/Identity-as-Presence/index.html)] ![Code](https://img.shields.io/github/stars/WeChatCV/Identity-as-Presence?style=social&label=Star)
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
