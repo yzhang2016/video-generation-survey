@@ -1217,6 +1217,9 @@
 
 [arxiv 2026.03] CaTok: Taming Mean Flows for One-Dimensional Causal Image Tokenization  [[PDF](https://arxiv.org/abs/2603.06449),[Page](https://sharelab-sii.github.io/catok-web/)] ![Code](https://img.shields.io/github/stars/ShareLab-SII/CaTok?style=social&label=Star)
 
+[arxiv 2026.03] RPiAE: A Representation-Pivoted Autoencoder Enhancing Both Image Generation and Editing  [[PDF](https://arxiv.org/abs/2603.19206),[Page](https://arthuring.github.io/RPiAE-page/)]
+
+
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 
@@ -3841,6 +3844,9 @@ Creative Layout-to-Image Generation [[PDF](https://arxiv.org/pdf/2412.03859),[Pa
 
 [arxiv 2025.12] Is Nano Banana Pro a Low-Level Vision All-Rounder? A Comprehensive Evaluation on 14 Tasks and 40 Datasets  [[PDF](https://arxiv.org/abs/2512.15110),[Page](https://lowlevelbanana.github.io/)] ![Code](https://img.shields.io/github/stars/zplusdragon/LowLevelBanana?style=social&label=Star)
 
+[arxiv 2026.03] CRAFT: Aligning Diffusion Models with Fine-Tuning Is Easier Than You Think  [[PDF](https://arxiv.org/abs/2603.18991)]
+
+
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 ## Evaluation 
@@ -4193,6 +4199,8 @@ Creative Layout-to-Image Generation [[PDF](https://arxiv.org/pdf/2412.03859),[Pa
 [arxiv 2026.01] LINA: Linear Autoregressive Image Generative Models with Continuous Tokens  [[PDF](https://arxiv.org/abs/2601.22630),[Page](https://github.com/techmonsterwang/LINA)] ![Code](https://img.shields.io/github/stars/techmonsterwang/LINA?style=social&label=Star)
 
 [arxiv 2026.01]  PixelGen: Pixel Diffusion Beats Latent Diffusion with Perceptual Loss [[PDF](https://arxiv.org/abs/2602.02493),[Page](https://zehong-ma.github.io/PixelGen/)] ![Code](https://img.shields.io/github/stars/Zehong-Ma/PixelGen?style=social&label=Star)
+
+[arxiv 2026.03] Cubic Discrete Diffusion: Discrete Visual Generation on High-Dimensional Representation Tokens  [[PDF](https://arxiv.org/abs/2603.19232)] ![Code](https://img.shields.io/github/stars/YuqingWang1029/CubiD?style=social&label=Star)
 
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
