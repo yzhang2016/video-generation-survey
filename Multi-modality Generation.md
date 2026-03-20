@@ -438,6 +438,10 @@
 
 [arxiv 2026.03] InternVL-U: Democratizing Unified Multimodal Models for Understanding, Reasoning, Generation and Editing  [[PDF](https://arxiv.org/abs/2603.09877),[Page](https://github.com/OpenGVLab/InternVL-U)] ![Code](https://img.shields.io/github/stars/OpenGVLab/InternVL-U?style=social&label=Star) 
 
+[arxiv 2026.03] HiMu: Hierarchical Multimodal Frame Selection for Long Video Question Answering  [[PDF](https://arxiv.org/abs/2603.18558)]
+
+[arxiv 2026.03] LVOmniBench: Pioneering Long Audio-Video Understanding Evaluation for Omnimodal LLMs  [[PDF](https://arxiv.org/abs/2603.19217),[Page](https://kd-tao.github.io/LVOmniBench/)]
+
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
 
