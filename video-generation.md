@@ -696,6 +696,9 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2026.03] PhysAlign: Physics-Coherent Image-to-Video Generation through Feature and 3D Representation Alignment  [[PDF](https://arxiv.org/abs/2603.13770),[Page](https://physalign.github.io/PhysAlign)]
 
+[arxiv 2026.03] PhysVideo: Physically Plausible Video Generation with Cross-View Geometry Guidance  [[PDF](https://arxiv.org/abs/2603.18639),[Page](https://anonymous.4open.science/w/Phys4D/)]
+
+
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 
@@ -1996,6 +1999,7 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2026.03] DreamVideo-Omni: Omni-Motion Controlled Multi-Subject Video Customization with Latent Identity Reinforcement Learning  [[PDF](https://arxiv.org/abs/2603.12257),[Page](https://dreamvideo-omni.github.io)]
 
+[arxiv 2026.03] 3DreamBooth: High-Fidelity 3D Subject-Driven Video Generation Model  [[PDF](https://arxiv.org/abs/2603.18524),[Page](https://ko-lani.github.io/3DreamBooth)] ![Code](https://img.shields.io/github/stars/Ko-Lani/3DreamBooth?style=social&label=Star)
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -2590,6 +2594,9 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2026.03] OmniForcing: Unleashing Real-time Joint Audio-Visual Generation  [[PDF](https://arxiv.org/abs/2603.11647),[Page](https://omniforcing.com/)] ![Code](https://img.shields.io/github/stars/OmniForcing/OmniForcing?style=social&label=Star)
 
+[arxiv 2026.03] Improving Joint Audio-Video Generation with Cross-Modal Context Learning  [[PDF](https://arxiv.org/abs/2603.18600)]
+
+
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 
@@ -2802,6 +2809,7 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2026.03] ViFeEdit: A Video-Free Tuner of Your Video Diffusion Transformer  [[PDF](https://arxiv.org/abs/2603.15478)] ![Code](https://img.shields.io/github/stars/Lexie-YU/ViFeEdit?style=social&label=Star)
 
+[arxiv 2026.03] SAMA: Factorized Semantic Anchoring and Motion Alignment for Instruction-Guided Video Editing  [[PDF](https://arxiv.org/abs/2603.19228),[Page](https://cynthiazxy123.github.io/SAMA/)] ![Code](https://img.shields.io/github/stars/Cynthiazxy123/SAMA?style=social&label=Star)
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -3362,6 +3370,9 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2026.03] LatSearch: Latent Reward-Guided Search for Faster Inference-Time Scaling in Video Diffusion  [[PDF](https://arxiv.org/abs/2603.14526),[Page](https://zengqunzhao.github.io/LatSearch)] ![Code](https://img.shields.io/github/stars/zengqunzhao/LatSearch?style=social&label=Star)
 
+[arxiv 2026.03] 6Bit-Diffusion: Inference-Time Mixed-Precision Quantization for Video Diffusion Models  [[PDF](https://arxiv.org/abs/2603.18742)]
+
+[arxiv 2026.03] Training-Free Sparse Attention for Fast Video Generation via Offline Layer-Wise Sparsity Profiling and Online Bidirectional Co-Clustering  [[PDF](https://arxiv.org/abs/2603.18636)]
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
