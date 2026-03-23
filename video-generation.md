@@ -2001,8 +2001,7 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2026.03] 3DreamBooth: High-Fidelity 3D Subject-Driven Video Generation Model  [[PDF](https://arxiv.org/abs/2603.18524),[Page](https://ko-lani.github.io/3DreamBooth)] ![Code](https://img.shields.io/github/stars/Ko-Lani/3DreamBooth?style=social&label=Star)
 
-[arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
-
+[arxiv 2026.03] LumosX: Relate Any Identities with Their Attributes for Personalized Video Generation [[[PDF](https://arxiv.org/abs/2603.20192), [Page](https://jiazheng-xing.github.io/lumosx-home/)]] ![Code](https://img.shields.io/github/stars/alibaba-damo-academy/Lumos-Custom?style=social&label=Star)
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -3191,6 +3190,8 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 [arxiv 2026.01]  Omni-Judge: Can Omni-LLMs Serve as Human-Aligned Judges for Text-Conditioned Audio-Video Generation? [[PDF](https://arxiv.org/pdf/2602.01623),[Page](https://liangsusan-git.github.io/project/omni_judge/)] 
 
 [arxiv 2026.03] MSVBench: Towards Human-Level Evaluation of Multi-Shot Video Generation  [[PDF](https://arxiv.org/pdf/2602.23969)】
+
+[arxiv 2026.03] Physion-Eval: Evaluating Physical Realism in Generated Video via Human Reasoning [[[PDF](https://arxiv.org/abs/2603.19607)]]
 
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
