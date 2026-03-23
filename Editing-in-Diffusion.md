@@ -614,6 +614,8 @@
 
 [arxiv 2026.03] MSRAMIE: Multimodal Structured Reasoning Agent for Multi-instruction Image Editing  [[PDF](https://arxiv.org/abs/2603.16967)]
 
+[arxiv 2026.03] Diffusion-Based Makeup Transfer with Facial Region-Aware Makeup Features [[[PDF](https://arxiv.org/abs/2603.20012)]]
+
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 ## end of editing 
@@ -1552,6 +1554,8 @@
 [arxiv 2026.03] PROMO: Promptable Outfitting for Efficient High-Fidelity Virtual Try-On  [[PDF](https://arxiv.org/abs/2603.11675)]
 
 [arxiv 2026.03] VTEdit-Bench: A Comprehensive Benchmark for Multi-Reference Image Editing Models in Virtual Try-On  [[PDF](https://arxiv.org/abs/2603.11734)]
+
+[arxiv 2026.03] OmniDiT: Extending Diffusion Transformer to Omni-VTON Framework [[[PDF](https://arxiv.org/abs/2603.19643)]]
 
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
