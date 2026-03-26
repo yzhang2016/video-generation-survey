@@ -616,6 +616,12 @@
 
 [arxiv 2026.03] Diffusion-Based Makeup Transfer with Facial Region-Aware Makeup Features [[[PDF](https://arxiv.org/abs/2603.20012)]]
 
+[arxiv 2026.03] Group Editing : Edit Multiple Images in One Go  [[PDF](https://arxiv.org/abs/2603.22883)]
+
+[arxiv 2026.03] AdaEdit: Adaptive Temporal and Channel Modulation for Flow-Based Image Editing  [[PDF](https://arxiv.org/abs/2603.21615)] ![Code](https://img.shields.io/github/stars/leeguandong/AdaEdit?style=social&label=Star)
+
+
+
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 ## end of editing 
@@ -1220,6 +1226,10 @@
 [arxiv 2026.03] CaTok: Taming Mean Flows for One-Dimensional Causal Image Tokenization  [[PDF](https://arxiv.org/abs/2603.06449),[Page](https://sharelab-sii.github.io/catok-web/)] ![Code](https://img.shields.io/github/stars/ShareLab-SII/CaTok?style=social&label=Star)
 
 [arxiv 2026.03] RPiAE: A Representation-Pivoted Autoencoder Enhancing Both Image Generation and Editing  [[PDF](https://arxiv.org/abs/2603.19206),[Page](https://arthuring.github.io/RPiAE-page/)]
+
+[arxiv 2026.03] End-to-End Training for Unified Tokenization and Latent Denoising  [[PDF](https://arxiv.org/abs/2603.22283)]
+
+[arxiv 2026.03] DA-VAE: Plug-in Latent Compression for Diffusion via Detail Alignment  [[PDF](https://arxiv.org/abs/2603.22125),[Page](https://caixin98.github.io/davae/#)]
 
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
@@ -3094,6 +3104,9 @@ Creative Layout-to-Image Generation [[PDF](https://arxiv.org/pdf/2412.03859),[Pa
 
 [arxiv 2026.03] UCAN: Unified Convolutional Attention Network for Expansive Receptive Fields in Lightweight Super-Resolution  [[PDF](https://arxiv.org/abs/2603.11680)]
 
+[arxiv 2026.03] MeInTime: Bridging Age Gap in Identity-Preserving Face Restoration  [[PDF](https://arxiv.org/abs/2603.18645)] ![Code](https://img.shields.io/github/stars/teer4/MeInTime?style=social&label=Star)
+
+
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 
@@ -3348,6 +3361,8 @@ Creative Layout-to-Image Generation [[PDF](https://arxiv.org/pdf/2412.03859),[Pa
 
 [arxiv 2026.02]  PhotoAgent:Where Aesthetic Intent Becomes Visual Reality [[PDF](https://arxiv.org/abs/2602.22809),[Page](https://mdyao.github.io/PhotoAgent/)] ![Code](https://img.shields.io/github/stars/mdyao/PhotoAgent?style=social&label=Star)
 
+[arxiv 2026.03] ScaleEdit-12M: Scaling Open-Source Image Editing Data Generation via Multi-Agent Framework  [[PDF](https://arxiv.org/abs/2603.20644)]
+
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 
@@ -3422,6 +3437,9 @@ Creative Layout-to-Image Generation [[PDF](https://arxiv.org/pdf/2412.03859),[Pa
 [arxiv 2026.03] LogoDiffuser: Training-Free Multilingual Logo Generation and Stylization via Letter-Aware Attention Control  [[PDF](https://arxiv.org/pdf/2603.09759)]
 
 [arxiv 2026.03] Omni-I2C: A Holistic Benchmark for High-Fidelity Image-to-Code Generation  [[PDF](https://arxiv.org/abs/2603.17508),[Page](https://github.com/MiliLab/Omni-I2C)] ![Code](https://img.shields.io/github/stars/MiliLab/Omni-I2C?style=social&label=Star)
+
+[arxiv 2026.03] FontCrafter: High-Fidelity Element-Driven Artistic Font Creation with Visual In-Context Generation  [[PDF](https://arxiv.org/abs/2603.22054)]
+
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -4059,6 +4077,7 @@ Creative Layout-to-Image Generation [[PDF](https://arxiv.org/pdf/2412.03859),[Pa
 
 [arxiv 2026.03] Diffusion Reinforcement Learning via Centered Reward Distillation  [[PDF](https://arxiv.org/abs/2603.14128)]
 
+[arxiv 2026.03] UniGRPO: Unified Policy Optimization for Reasoning-Driven Visual Generation  [[PDF](https://arxiv.org/pdf/2603.23500)]
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
