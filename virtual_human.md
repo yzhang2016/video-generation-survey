@@ -166,7 +166,7 @@
 
 [arxiv 2026.03] LaMoGen: Language to Motion Generation Through LLM-Guided Symbolic Inference  [[PDF](https://arxiv.org/abs/2603.11605),[Page](https://jjkislele.github.io/LaMoGen/)] ![Code](https://img.shields.io/github/stars/jjkislele/LaMoGen?style=social&label=Star)
 
-
+[arxiv 2026.03] UniMotion: A Unified Framework for Motion-Text-Vision Understanding and Generation  [[PDF](https://arxiv.org/abs/2603.22282),[Page](https://wangzy01.github.io/UniMotion/)]
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -309,6 +309,9 @@
 [arxiv 2025.11]  SyncMV4D: Synchronized Multi-view Joint Diffusion of Appearance and Motion for Hand-Object Interaction Synthesis [[PDF](https://arxiv.org/abs/2511.19319),[Page](https://droliven.github.io/SyncMV4D)] ![Code](https://img.shields.io/github/stars/Droliven/syncmv4d_code?style=social&label=Star)
 
 [arxiv 2026.01]  InterPrior: Scaling Generative Control for Physics-Based Human-Object Interactions [[PDF](https://arxiv.org/abs/2602.06035),[Page](https://sirui-xu.github.io/InterPrior/)] 
+
+[arxiv 2026.03] PAM: A Pose-Appearance-Motion Engine for Sim-to-Real HOI Video Generation  [[PDF](https://arxiv.org/abs/2603.22193)] ![Code](https://img.shields.io/github/stars/GasaiYU/PAM?style=social&label=Star)
+
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
