@@ -616,10 +616,9 @@
 
 [arxiv 2026.03] Diffusion-Based Makeup Transfer with Facial Region-Aware Makeup Features [[[PDF](https://arxiv.org/abs/2603.20012)]]
 
-[arxiv 2026.03] Group Editing : Edit Multiple Images in One Go  [[PDF](https://arxiv.org/abs/2603.22883)]
-
 [arxiv 2026.03] AdaEdit: Adaptive Temporal and Channel Modulation for Flow-Based Image Editing  [[PDF](https://arxiv.org/abs/2603.21615)] ![Code](https://img.shields.io/github/stars/leeguandong/AdaEdit?style=social&label=Star)
 
+[arxiv 2026.03] Group Editing: Edit Multiple Images in One Go  [[PDF](https://arxiv.org/abs/2603.22883),[Page](https://group-editing.github.io/)] ![Code](https://img.shields.io/github/stars/mayuelala/GroupEditing?style=social&label=Star)
 
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
@@ -1161,6 +1160,7 @@
 
 [arxiv 2026.03] Early Failure Detection and Intervention in Video Diffusion Models  [[[PDF](https://arxiv.org/abs/2603.14320)]]
 
+[arxiv 2026.03] Semantic-Aware Prefix Learning for Token-Efficient Image Generation  [[PDF](https://arxiv.org/abs/2603.25249)]
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -1567,6 +1567,7 @@
 
 [arxiv 2026.03] OmniDiT: Extending Diffusion Transformer to Omni-VTON Framework [[[PDF](https://arxiv.org/abs/2603.19643)]]
 
+[arxiv 2026.03] Dress-ED: Instruction-Guided Editing for Virtual Try-On and Try-Off  [[PDF](https://arxiv.org/abs/2603.22607)]
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -3106,6 +3107,7 @@ Creative Layout-to-Image Generation [[PDF](https://arxiv.org/pdf/2412.03859),[Pa
 
 [arxiv 2026.03] MeInTime: Bridging Age Gap in Identity-Preserving Face Restoration  [[PDF](https://arxiv.org/abs/2603.18645)] ![Code](https://img.shields.io/github/stars/teer4/MeInTime?style=social&label=Star)
 
+[arxiv 2026.03] RealRestorer: Towards Generalizable Real-World Image Restoration with Large-Scale Image Editing Models  [[PDF](https://arxiv.org/abs/2603.25502),[Page](https://yfyang007.github.io/RealRestorer/)]
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -3440,6 +3442,8 @@ Creative Layout-to-Image Generation [[PDF](https://arxiv.org/pdf/2412.03859),[Pa
 
 [arxiv 2026.03] FontCrafter: High-Fidelity Element-Driven Artistic Font Creation with Visual In-Context Generation  [[PDF](https://arxiv.org/abs/2603.22054)]
 
+
+[arxiv 2026.03] PSDesigner: Automated Graphic Design with a Human-Like Creative Workflow  [[PDF](https://arxiv.org/abs/2603.25738),[Page](https://henghuiding.com/PSDesigner/)]
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -3779,9 +3783,13 @@ Creative Layout-to-Image Generation [[PDF](https://arxiv.org/pdf/2412.03859),[Pa
 
 [arxiv 2026.03] Unlearning for One-Step Generative Models via Unbalanced Optimal Transport  [[[PDF](https://arxiv.org/abs/2603.16489)]]
 
+[arxiv 2026.03] CIAR: Interval-based Collaborative Decoding for Image Generation Acceleration  [[PDF](https://arxiv.org/abs/2603.25463)]
+
+[arxiv 2026.03] BiFM: Bidirectional Flow Matching for Few-Step Image Editing and Generation  [[PDF](https://arxiv.org/abs/2603.24942)]
+
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
-
+# end of speed
 
 
 
@@ -4078,6 +4086,9 @@ Creative Layout-to-Image Generation [[PDF](https://arxiv.org/pdf/2412.03859),[Pa
 [arxiv 2026.03] Diffusion Reinforcement Learning via Centered Reward Distillation  [[PDF](https://arxiv.org/abs/2603.14128)]
 
 [arxiv 2026.03] UniGRPO: Unified Policy Optimization for Reasoning-Driven Visual Generation  [[PDF](https://arxiv.org/pdf/2603.23500)]
+
+[arxiv 2026.03] Self-Corrected Image Generation with Explainable Latent Rewards  [[PDF](https://arxiv.org/abs/2603.24965),[Page](https://yinyiluo.github.io/xLARD/)]
+
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
