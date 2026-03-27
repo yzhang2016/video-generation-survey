@@ -823,6 +823,8 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2026.03] ShotVerse: Advancing Cinematic Camera Control for Text-Driven Multi-Shot Video Creation  [[PDF](https://arxiv.org/abs/2603.11421),[Page](https://shotverse.github.io/)] ![Code](https://img.shields.io/github/stars/Songlin1998/ShotVerse?style=social&label=Star)
 
+[arxiv 2026.03] ShotStream: Streaming Multi-Shot Video Generation for Interactive Storytelling  [[PDF](https://arxiv.org/abs/2603.25746),[Page](https://luo0207.github.io/ShotStream/)] ![Code](https://img.shields.io/github/stars/KlingAIResearch/ShotStream?style=social&label=Star)
+
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -998,6 +1000,11 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2026.03] Relax Forcing: Relaxed KV-Memory for Consistent Long Video Generation  [[PDF](https://arxiv.org/abs/2603.21366),[Page](https://zengqunzhao.github.io/Relax-Forcing)] ![Code](https://img.shields.io/github/stars/zengqunzhao/Relax-Forcing?style=social&label=Star)
 
+[arxiv 2026.03] PackForcing: Short Video Training Suffices for Long Video Sampling and Long Context Inference  [[PDF](https://arxiv.org/abs/2603.25730)] ![Code](https://img.shields.io/github/stars/ShandaAI/PackForcing?style=social&label=Star)
+
+[arxiv 2026.03] Free-Lunch Long Video Generation via Layer-Adaptive O.O.D Correction  [[PDF](https://arxiv.org/abs/2603.25209)] ![Code](https://img.shields.io/github/stars/Westlake-AGI-Lab/FreeLOC?style=social&label=Star)
+
+[arxiv 2026.03] DCARL: A Divide-and-Conquer Framework for Autoregressive Long-Trajectory Video Generation  [[PDF](https://arxiv.org/abs/2603.24835),[Page](https://junyiouy.github.io/projects/dcarl)]
 
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
@@ -1013,7 +1020,7 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2025.12]  Pretraining Frame Preservation in Autoregressive Video Memory Compression [[PDF](https://arxiv.org/pdf/2512.23851)]
 
-[arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
+[arxiv 2026.03] Out of Sight but Not Out of Mind: Hybrid Memory for Dynamic Video World Models  [[PDF](https://arxiv.org/abs/2603.25716)]
 
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
@@ -2016,6 +2023,9 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2026.03] Identity-Consistent Video Generation under Large Facial-Angle Variations  [[PDF](https://arxiv.org/abs/2603.21299)]
 
+[arxiv 2026.03] RefAlign: Representation Alignment for Reference-to-Video Generation  [[PDF](https://arxiv.org/abs/2603.25743),[Page](https://github.com/gudaochangsheng/RefAlign)] ![Code](https://img.shields.io/github/stars/gudaochangsheng/RefAlign?style=social&label=Star)
+
+[arxiv 2026.03] AnyID: Ultra-Fidelity Universal Identity-Preserving Video Generation from Any Visual References  [[PDF](https://arxiv.org/abs/2603.25188),[Page](https://johnneywang.github.io/AnyID-webpage/)] 
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -2832,6 +2842,10 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2026.03] SAMA: Factorized Semantic Anchoring and Motion Alignment for Instruction-Guided Video Editing  [[PDF](https://arxiv.org/abs/2603.19228),[Page](https://cynthiazxy123.github.io/SAMA/)] ![Code](https://img.shields.io/github/stars/Cynthiazxy123/SAMA?style=social&label=Star)
 
+[arxiv 2026.03] TRACE: Object Motion Editing in Videos with First-Frame Trajectory Guidance  [[PDF](https://arxiv.org/abs/2603.25707),[Page](https://trace-motion.github.io/)]
+
+[arxiv 2026.03] AVControl: Efficient Framework for Training Audio-Visual Controls  [[PDF](https://arxiv.org/abs/2603.24793),[Page](https://matanby.github.io/AVControl/)] 
+
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 
@@ -3109,6 +3123,10 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 [arxiv 2026.01] Rethinking Video Generation Model for the Embodied World  [[PDF](https://arxiv.org/abs/2601.15282),[Page](https://dagroup-pku.github.io/ReVidgen.github.io/)] ![Code](https://img.shields.io/github/stars/DAGroup-PKU/ReVidgen/?style=social&label=Star)
 
 [arxiv 2026.03] Egocentric World Model for Photorealistic Hand-Object Interaction Synthesis  [[PDF](https://arxiv.org/abs/2603.13615)]
+
+[arxiv 2026.03] Persistent Robot World Models: Stabilizing Multi-Step Rollouts via Reinforcement Learning  [[PDF](https://arxiv.org/abs/2603.25685),[Page](https://jaibardhan.com/persistworld/)] ![Code](https://img.shields.io/github/stars/Jai2500/PersistWorld?style=social&label=Star)
+
+[arxiv 2026.03] ABot-PhysWorld: Interactive World Foundation Model for Robotic Manipulation with Physics Alignment  [[PDF](https://arxiv.org/abs/2603.23376)]
 
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
@@ -3557,6 +3575,8 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2026.03] VectorWorld: Efficient Streaming World Model via Diffusion Flow on Vector Graphs  [[PDF](https://arxiv.org/abs/2603.17652),[Page](https://jiangchaokang.github.io/VectorWorld/)] ![Code](https://img.shields.io/github/stars/jiangchaokang/VectorWorld?style=social&label=Star)
 
+[arxiv 2026.03] Out of Sight but Not Out of Mind: Hybrid Memory for Dynamic Video World Models  [[PDF](https://arxiv.org/abs/2603.25716),[Page](https://kj-chen666.github.io/Hybrid-Memory-in-Video-World-Models/)] ![Code](https://img.shields.io/github/stars/H-EmbodVis/HyDRA?style=social&label=Star)
+
 
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
@@ -3652,6 +3672,9 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 [arxiv 2026.03] AutoMoT: A Unified Vision-Language-Action Model with Asynchronous Mixture-of-Transformers for End-to-End Autonomous Driving  [[PDF](https://arxiv.org/abs/2603.14851),[Page](https://automot-website.github.io/)]
 
 [arxiv 2026.03] WorldCache: Content-Aware Caching for Accelerated Video World Models  [[PDF](https://arxiv.org/abs/2603.22286),[Page](https://umair1221.github.io/World-Cache/)]
+
+[arxiv 2026.03] Drive My Way: Preference Alignment of Vision-Language-Action Model for Personalized Driving  [[PDF](https://arxiv.org/abs/2603.25740),[Page](https://dmw-cvpr.github.io/)]
+
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
