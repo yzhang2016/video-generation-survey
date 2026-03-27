@@ -504,6 +504,13 @@
 
 [arxiv 2026.03] GigaWorld-Policy: An Efficient Action-Centered World-Action Model  [[PDF](https://arxiv.org/abs/2603.17240)]
 
+[arxiv 2026.03] Fast-dVLA: Accelerating Discrete Diffusion VLA to Real-Time Performance  [[PDF](https://arxiv.org/abs/2603.25661),[Page](https://chris1220313648.github.io/Fast-dVLA/)]
+
+[arxiv 2026.03] LaMP: Learning Vision-Language-Action Policies with 3D Scene Flow as Latent Motion Prior  [[PDF](https://arxiv.org/abs/2603.25399),[Page](https://summerwxk.github.io/lamp-project-page/)]
+
+[arxiv 2026.03] Beyond Attention Magnitude: Leveraging Inter-layer Rank Consistency for Efficient Vision-Language-Action Models  [[PDF](https://arxiv.org/abs/2603.24941)]
+
+
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
 
 
