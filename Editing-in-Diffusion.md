@@ -864,6 +864,7 @@
 
 [arxiv 2026.01]  FlowConsist: Make Your Flow Consistent with Real Trajectory [[PDF](https://arxiv.org/pdf/2602.06346)]
 
+[arxiv 2026.03] MPDiT: Multi-Patch Global-to-Local Transformer Architecture For Efficient Flow Matching and Diffusion Model  [[PDF](https://arxiv.org/abs/2603.26357)]
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -2138,6 +2139,9 @@
 
 [arxiv 2026.03]  PureCC: Pure Learning for Text-to-Image Concept Customization [[PDF](https://arxiv.org/abs/2603.07561),[Page](https://github.com/lzc-sg/PureCC)] ![Code](https://img.shields.io/github/stars/lzc-sg/PureCC?style=social&label=Star)
 
+[arxiv 2026.03] When Identities Collapse: A Stress-Test Benchmark for Multi-Subject Personalization  [[PDF](https://arxiv.org/abs/2603.26078)]
+
+
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 
@@ -3108,6 +3112,9 @@ Creative Layout-to-Image Generation [[PDF](https://arxiv.org/pdf/2412.03859),[Pa
 [arxiv 2026.03] MeInTime: Bridging Age Gap in Identity-Preserving Face Restoration  [[PDF](https://arxiv.org/abs/2603.18645)] ![Code](https://img.shields.io/github/stars/teer4/MeInTime?style=social&label=Star)
 
 [arxiv 2026.03] RealRestorer: Towards Generalizable Real-World Image Restoration with Large-Scale Image Editing Models  [[PDF](https://arxiv.org/abs/2603.25502),[Page](https://yfyang007.github.io/RealRestorer/)]
+
+[arxiv 2026.03] Restore, Assess, Repeat: A Unified Framework for Iterative Image Restoration  [[PDF](https://arxiv.org/abs/2603.26385),[Page](https://restore-assess-repeat.github.io)]
+
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
