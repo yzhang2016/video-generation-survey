@@ -3115,6 +3115,7 @@ Creative Layout-to-Image Generation [[PDF](https://arxiv.org/pdf/2412.03859),[Pa
 
 [arxiv 2026.03] Restore, Assess, Repeat: A Unified Framework for Iterative Image Restoration  [[PDF](https://arxiv.org/abs/2603.26385),[Page](https://restore-assess-repeat.github.io)]
 
+[arxiv 2026.03] Beyond Ground-Truth: Leveraging Image Quality Priors for Real-World Image Restoration  [[PDF](https://arxiv.org/abs/2603.29773)]
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -3372,6 +3373,9 @@ Creative Layout-to-Image Generation [[PDF](https://arxiv.org/pdf/2412.03859),[Pa
 
 [arxiv 2026.03] ScaleEdit-12M: Scaling Open-Source Image Editing Data Generation via Multi-Agent Framework  [[PDF](https://arxiv.org/abs/2603.20644)]
 
+[arxiv 2026.03] IMAGAgent: Orchestrating Multi-Turn Image Editing via Constraint-Aware Planning and Reflection  [[PDF](https://arxiv.org/abs/2603.29602)]
+
+
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 
@@ -3451,6 +3455,9 @@ Creative Layout-to-Image Generation [[PDF](https://arxiv.org/pdf/2412.03859),[Pa
 
 
 [arxiv 2026.03] PSDesigner: Automated Graphic Design with a Human-Like Creative Workflow  [[PDF](https://arxiv.org/abs/2603.25738),[Page](https://henghuiding.com/PSDesigner/)]
+
+[arxiv 2026.03] Unify-Agent: A Unified Multimodal Agent for World-Grounded Image Synthesis  [[PDF](https://arxiv.org/abs/2603.29620),[Page](https://github.com/shawn0728/Unify-Agent)] ![Code](https://img.shields.io/github/stars/shawn0728/Unify-Agent?style=social&label=Star)
+
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
