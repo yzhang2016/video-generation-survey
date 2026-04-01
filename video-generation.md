@@ -573,6 +573,9 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2026.03]  VisionCreator: A Native Visual-Generation Agentic Model with Understanding, Thinking, Planning and Creation [[PDF](https://arxiv.org/pdf/2603.02681)]
 
+[arxiv 2026.03] CutClaw: Agentic Hours-Long Video Editing via Music Synchronization  [[PDF](https://arxiv.org/abs/2603.29664),[Page](https://github.com/GVCLab/CutClaw)] ![Code](https://img.shields.io/github/stars/GVCLab/CutClaw?style=social&label=Star)
+
+
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 
@@ -1906,6 +1909,10 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2026.03] Foveated Diffusion: Efficient Spatially Adaptive Image and Video Generation  [[PDF](https://arxiv.org/abs/2603.23491),[Page](https://bchao1.github.io/foveated-diffusion/)] 
 
+[arxiv 2026.03] FlashSign: Pose-Free Guidance for Efficient Sign Language Video Generation  [[PDF](https://arxiv.org/abs/2603.27915)]
+
+[arxiv 2026.03] OmniRoam: World Wandering via Long-Horizon Panoramic Video Generation  [[PDF](https://arxiv.org/abs/2603.30045),[Page](https://github.com/yuhengliu02/OmniRoam)] ![Code](https://img.shields.io/github/stars/yuhengliu02/OmniRoam?style=social&label=Star)
+
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 
@@ -2259,6 +2266,9 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 [arxiv 2026.01]  Making Avatars Interact Towards Text-Driven Human-Object Interaction for Controllable Talking Avatars [[PDF](https://arxiv.org/abs/2602.01538),[Page](https://interactavatar.github.io/)] ![Code](https://img.shields.io/github/stars/angzong/InteractAvatar?style=social&label=Star)
 
 [arxiv 2026.01]  JoyAvatar: Unlocking Highly Expressive Avatars via Harmonized Text-Audio Conditioning [[PDF](https://arxiv.org/abs/2602.00702),[Page](https://joyavatar.github.io/)] 
+
+[arxiv 2026.03] Gloria: Consistent Character Video Generation via Content Anchors  [[PDF](https://arxiv.org/abs/2603.29931),[Page](https://yyvhang.github.io/Gloria_Page/)]
+
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -2711,6 +2721,9 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 [arxiv 2026.03] Kiwi-Edit: Versatile Video Editing via Instruction and Reference Guidance  [[PDF](https://arxiv.org/abs/2603.02175),[Page](https://showlab.github.io/Kiwi-Edit/)] ![Code](https://img.shields.io/github/stars/showlab/Kiwi-Edit?style=social&label=Star)
 
 [arxiv 2026.03] NOVA: Sparse Control, Dense Synthesis for Pair-Free Video Editing  [[PDF](https://arxiv.org/abs/2603.02802),[Page](https://github.com/WeChatCV/NovaEdit)] ![Code](https://img.shields.io/github/stars/WeChatCV/NovaEdit?style=social&label=Star)
+
+[arxiv 2026.03] OmniWeaving: Towards Unified Video Generation with Free-form Composition and Reasoning  [[PDF](https://arxiv.org/abs/2603.24458),[Page](https://omniweaving.github.io.)]
+
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -3235,6 +3248,10 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2026.03] Omni-WorldBench: Towards a Comprehensive Interaction-Centric Evaluation for World Models  [[PDF](https://arxiv.org/abs/2603.22212)]
 
+[arxiv 2026.03] EC-Bench: Enumeration and Counting Benchmark for Ultra-Long Videos  [[PDF](https://arxiv.org/abs/2603.29943),[Page](https://github.com/matsuolab/EC-Bench)] ![Code](https://img.shields.io/github/stars/matsuolab/EC-Bench?style=social&label=Star)
+
+[arxiv 2026.03] SLVMEval: Synthetic Meta Evaluation Benchmark for Text-to-Long Video Generation  [[PDF](https://arxiv.org/abs/2603.29186)]
+
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 
@@ -3461,6 +3478,8 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2026.03] RealMaster: Lifting Rendered Scenes into Photorealistic Video  [[PDF](https://arxiv.org/abs/2603.23462),[Page](https://danacohen95.github.io/RealMaster/)] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
+
+
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 
@@ -3680,6 +3699,7 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2026.03] Drive My Way: Preference Alignment of Vision-Language-Action Model for Personalized Driving  [[PDF](https://arxiv.org/abs/2603.25740),[Page](https://dmw-cvpr.github.io/)]
 
+[arxiv 2026.03] Latent-WAM: Latent World Action Modeling for End-to-End Autonomous Driving  [[PDF](https://arxiv.org/abs/2603.24581)]
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
