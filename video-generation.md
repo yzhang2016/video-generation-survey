@@ -703,6 +703,9 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2026.03] DiReCT: Disentangled Regularization of Contrastive Trajectories for Physics-Refined Video Generation  [[PDF](https://arxiv.org/abs/2603.25931)]
 
+[arxiv 2026.04] MMPhysVideo: Scaling Physical Plausibility in Video Generation via Joint Multimodal Modeling  [[PDF](https://arxiv.org/abs/2604.02817v1),[Page](https://shubolin028.github.io/MMPhysVideo-Page)]
+
+
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 
@@ -758,6 +761,7 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2026.03] Tri-Prompting: Video Diffusion with Unified Control over Scene, Subject, and Motion  [[PDF](https://arxiv.org/abs/2603.15614),[Page](https://zhouzhenghong-gt.github.io/Tri-Prompting-Page/)]
 
+[arxiv 2026.04] ONE-SHOT: Compositional Human-Environment Video Synthesis via Spatial-Decoupled Motion Injection and Hybrid Context Integration  [[PDF](https://arxiv.org/abs/2604.01043v1),[Page](https://martayang.github.io/ONE-SHOT/)]
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -1098,6 +1102,8 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 ## study
 [arxiv 2026.02]   Causality in Video Diffusers is Separable from Denoising[[PDF](https://arxiv.org/pdf/2602.10095)]
 
+[arxiv 2026.04] Can Video Diffusion Models Predict Past Frames? Bidirectional Cycle Consistency for Reversible Interpolation  [[PDF](https://arxiv.org/abs/2604.01700)]
+
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 
@@ -1295,6 +1301,10 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 [arxiv 2026.03] FlowMotion: Training-Free Flow Guidance for Video Motion Transfer  [[PDF](https://arxiv.org/pdf/2603.06289)]
 
 [arxiv 2026.03]  Video2LoRA: Unified Semantic-Controlled Video Generation via Per-Reference-Video LoRA [[PDF](https://arxiv.org/pdf/2603.08210),[Page](https://github.com/BerserkerVV/Video2LoRA/)] ![Code](https://img.shields.io/github/stars/BerserkerVV/Video2LoRA/?style=social&label=Star)
+
+[arxiv 2026.04] MotionGrounder: Grounded Multi-Object Motion Transfer via Diffusion Transformer  [[PDF](https://arxiv.org/abs/2604.00853v1),[Page](https://kaist-viclab.github.io/motiongrounder-site/)]
+
+[arxiv 2026.04] Control-DINO: Feature Space Conditioning for Controllable Image-to-Video Diffusion  [[PDF](https://arxiv.org/abs/2604.01761),[Page](https://dedoardo.github.io/projects/control-dino/)]
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -1603,7 +1613,9 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2026.03] CamLit: Unified Video Diffusion with Explicit Camera and Lighting Control  [[[PDF](https://arxiv.org/abs/2603.14241)]]
 
+[arxiv 2026.04] VERTIGO: Visual Preference Optimization for Cinematic Camera Trajectory Generation  [[PDF](https://arxiv.org/abs/2604.02467v1)]
 
+[arxiv 2026.04] SymphoMotion: Joint Control of Camera Motion and Object Dynamics for Coherent Video Generation  [[PDF](https://arxiv.org/abs/2604.03723v1),[Page](https://grenoble-zhang.github.io/SymphoMotion/)] ![Code](https://img.shields.io/github/stars/grenoble-zhang/SymphoMotion?style=social&label=Star)
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -3445,6 +3457,10 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2026.03] Adaptive Video Distillation: Mitigating Oversaturation and Temporal Collapse in Few-Step Generation  [[PDF](https://arxiv.org/abs/2603.21864),[Page](https://adaptive-video-distillation.github.io/)] ![Code](https://img.shields.io/github/stars/yuyangyou/Adaptive-Video-Distillation?style=social&label=Star)
 
+[arxiv 2026.04] Salt: Self-Consistent Distribution Matching with Cache-Aware Training for Fast Video Generation  [[PDF](https://arxiv.org/abs/2604.03118v1)] ![Code](https://img.shields.io/github/stars/XingtongGe/Salt?style=social&label=Star)
+
+[arxiv 2026.04] Not All Frames Deserve Full Computation: Accelerating Autoregressive Video Generation via Selective Computation and Predictive Extrapolation  [[PDF](https://arxiv.org/abs/2604.02979v1)]
+
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -3463,6 +3479,7 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2023.08]DiffSynth: Latent In-Iteration Deflickering for Realistic Video Synthesis [[PDF](https://arxiv.org/abs/2308.03463)]
 
+[arxiv 2026.04] Moiré Video Authentication: A Physical Signature Against AI Video Generation  [[PDF](https://arxiv.org/abs/2604.01654)]
 
 ## CG2real
 [arxiv 2024.09] AMG: Avatar Motion Guided Video Generation [[PDF](https://arxiv.org/abs/2409.01502),[Page](https://github.com/zshyang/amg)]
@@ -3604,6 +3621,9 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2026.03] Out of Sight but Not Out of Mind: Hybrid Memory for Dynamic Video World Models  [[PDF](https://arxiv.org/abs/2603.25716),[Page](https://kj-chen666.github.io/Hybrid-Memory-in-Video-World-Models/)] ![Code](https://img.shields.io/github/stars/H-EmbodVis/HyDRA?style=social&label=Star)
 
+[arxiv 2026.04] ActionParty: Multi-Subject Action Binding in Generative Video Games  [[PDF](https://arxiv.org/abs/2604.02330),[Page](https://action-party.github.io/)]
+
+[arxiv 2026.04] A Frame is Worth One Token: Efficient Generative World Modeling with Delta Tokens  [[PDF](https://arxiv.org/abs/2604.04913v1),[Page](https://deltatok.github.io)]
 
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
@@ -3703,6 +3723,8 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 [arxiv 2026.03] Drive My Way: Preference Alignment of Vision-Language-Action Model for Personalized Driving  [[PDF](https://arxiv.org/abs/2603.25740),[Page](https://dmw-cvpr.github.io/)]
 
 [arxiv 2026.03] Latent-WAM: Latent World Action Modeling for End-to-End Autonomous Driving  [[PDF](https://arxiv.org/abs/2603.24581)]
+
+[arxiv 2026.04] ExploreVLA: Dense World Modeling and Exploration for End-to-End Autonomous Driving  [[PDF](https://arxiv.org/abs/2604.02714v1),[Page](https://zihaosheng.github.io/ExploreVLA/)]
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -3827,6 +3849,8 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 
 [arxiv 2026.03] Motion Forcing: A Decoupled Framework for Robust Video Generation in Motion Dynamics  [[PDF](https://arxiv.org/abs/2603.10408),[Page](https://tianshuo-xu.github.io/Motion-Forcing/)] ![Code](https://img.shields.io/github/stars/Tianshuo-Xu/Motion-Forcing?style=social&label=Star)
+
+[arxiv 2026.04] CRAFT: Video Diffusion for Bimanual Robot Data Generation  [[PDF](https://arxiv.org/abs/2604.03552v1),[Page](https://craftaug.github.io/)]
 
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
