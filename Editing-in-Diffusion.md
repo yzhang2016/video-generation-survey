@@ -620,6 +620,8 @@
 
 [arxiv 2026.03] Group Editing: Edit Multiple Images in One Go  [[PDF](https://arxiv.org/abs/2603.22883),[Page](https://group-editing.github.io/)] ![Code](https://img.shields.io/github/stars/mayuelala/GroupEditing?style=social&label=Star)
 
+[arxiv 2026.04] PhyEdit: Towards Real-World Object Manipulation via Physically-Grounded Image Editing  [[PDF](https://arxiv.org/abs/2604.07230)]
+
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -742,6 +744,7 @@
 
 [arxiv 2026.02]  CoLoGen: Progressive Learning of Concept–Localization Duality for Unified Image Generation [[PDF](https://arxiv.org/abs/2602.22150)]
 
+[arxiv 2026.04] FlowInOne:Unifying Multimodal Generation as Image-in, Image-out Flow Matching  [[PDF](https://arxiv.org/abs/2604.06757),[Page](https://csu-jpg.github.io/FlowInOne.github.io/)] ![Code](https://img.shields.io/github/stars/CSU-JPG/FlowInOne?style=social&label=Star)
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -1574,6 +1577,10 @@
 
 [arxiv 2026.03] Dress-ED: Instruction-Guided Editing for Virtual Try-On and Try-Off  [[PDF](https://arxiv.org/abs/2603.22607)]
 
+[arxiv 2026.04] Vanast: Virtual Try-On with Human Image Animation via Synthetic Triplet Supervision  [[PDF](https://arxiv.org/abs/2604.04934v1),[Page](https://hyunsoocha.github.io/vanast/)]
+
+[arxiv 2026.04] VersaVogue: Visual Expert Orchestration and Preference Alignment for Unified Fashion Synthesis  [[PDF](https://arxiv.org/abs/2604.07210)]
+
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 
@@ -1676,6 +1683,8 @@
 [arxiv 2025.10] Grasp Any Region: Towards Precise, Contextual Pixel Understanding for Multimodal LLMs  [[PDF](https://arxiv.org/abs/2510.18876),[Page](https://github.com/Haochen-Wang409/Grasp-Any-Region)] ![Code](https://img.shields.io/github/stars/Haochen-Wang409/Grasp-Any-Region?style=social&label=Star)
 
 [arxiv 2026.03] FineViT: Progressively Unlocking Fine-Grained Perception with Dense Recaptions  [[PDF](https://arxiv.org/abs/2603.17326)]
+
+[arxiv 2026.04] DetailVerifyBench: A Benchmark for Dense Hallucination Localization in Long Image Captions  [[PDF](https://arxiv.org/abs/2604.05623),[Page](https://zyx-hhnkh.github.io/DetailVerifyBench/)]
 
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
@@ -3123,6 +3132,7 @@ Creative Layout-to-Image Generation [[PDF](https://arxiv.org/pdf/2412.03859),[Pa
 
 [arxiv 2026.04] VOSR: A Vision-Only Generative Model for Image Super-Resolution  [[PDF](https://arxiv.org/abs/2604.03225v1)] ![Code](https://img.shields.io/github/stars/cswry/VOSR?style=social&label=Star)
 
+[arxiv 2026.04] SAT: Selective Aggregation Transformer for Image Super-Resolution  [[PDF](https://arxiv.org/abs/2604.07994)]
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -3329,6 +3339,9 @@ Creative Layout-to-Image Generation [[PDF](https://arxiv.org/pdf/2412.03859),[Pa
 
 [arxiv 2026.02]  CleanStyle: Plug-and-Play Style Conditioning Purification for Text-to-Image Stylization [[PDF](https://arxiv.org/pdf/2602.20721),[Page](https://github.com/Westlake-AGI-Lab/CleanStyle)] ![Code](https://img.shields.io/github/stars/Westlake-AGI-Lab/CleanStyle?style=social&label=Star)
 
+[arxiv 2026.04] MegaStyle: Constructing Diverse and Scalable Style Dataset via Consistent Text-to-Image Style Mapping  [[PDF](https://arxiv.org/abs/2604.08364),[Page](https://jeoyal.github.io/MegaStyle/)]
+
+
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 
@@ -3470,6 +3483,10 @@ Creative Layout-to-Image Generation [[PDF](https://arxiv.org/pdf/2412.03859),[Pa
 [arxiv 2026.03] Unify-Agent: A Unified Multimodal Agent for World-Grounded Image Synthesis  [[PDF](https://arxiv.org/abs/2603.29620),[Page](https://github.com/shawn0728/Unify-Agent)] ![Code](https://img.shields.io/github/stars/shawn0728/Unify-Agent?style=social&label=Star)
 
 [arxiv 2026.04] EmoScene: A Dual-space Dataset for Controllable Affective Image Generation  [[PDF](https://arxiv.org/abs/2604.00933v1)]
+
+[arxiv 2026.04] PortraitCraft: A Benchmark for Portrait Composition Understanding and Generation  [[PDF](https://arxiv.org/abs/2604.03611v1)]
+
+[arxiv 2026.04] HumANDiff: Articulated Noise Diffusion for Motion-Consistent Human Video Generation  [[PDF](https://arxiv.org/abs/2604.05961),[Page](https://taohuumd.github.io/projects/HumANDiff/)]
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -3816,7 +3833,7 @@ Creative Layout-to-Image Generation [[PDF](https://arxiv.org/pdf/2412.03859),[Pa
 
 [arxiv 2026.04] 1.x-Distill: Breaking the Diversity, Quality, and Efficiency Barrier in Distribution Matching Distillation  [[PDF](https://arxiv.org/abs/2604.04018v1),[Page](https://thu-accdiff.github.io/1.x-distill-page/)] ![Code](https://img.shields.io/github/stars/THU-AccDiff/1.x_distill?style=social&label=Star)
 
-
+[arxiv 2026.04] Improving Controllable Generation: Faster Training and Better Performance via $x_0$-Supervision  [[PDF](https://arxiv.org/abs/2604.05761)] ![Star](https://img.shields.io/github/stars/CEA-LIST/x0-supervision?style=social&label=Star)
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -4000,6 +4017,7 @@ Creative Layout-to-Image Generation [[PDF](https://arxiv.org/pdf/2412.03859),[Pa
 
 [arxiv 2026.03] Omni IIE Bench: Benchmarking the Practical Capabilities of Image Editing Models  [[PDF](https://arxiv.org/abs/2603.16944)]
 
+[arxiv 2026.04] MIRAGE: Benchmarking and Aligning Multi-Instance Image Editing  [[PDF](https://arxiv.org/abs/2604.05180)] ![Star](https://img.shields.io/github/stars/ZiqianLiu666/MIRAGE?style=social&label=Star)
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -4120,6 +4138,10 @@ Creative Layout-to-Image Generation [[PDF](https://arxiv.org/pdf/2412.03859),[Pa
 [arxiv 2026.03] UniGRPO: Unified Policy Optimization for Reasoning-Driven Visual Generation  [[PDF](https://arxiv.org/pdf/2603.23500)]
 
 [arxiv 2026.03] Self-Corrected Image Generation with Explainable Latent Rewards  [[PDF](https://arxiv.org/abs/2603.24965),[Page](https://yinyiluo.github.io/xLARD/)]
+
+[arxiv 2026.04] MAR-GRPO: Stabilized GRPO for AR-diffusion Hybrid Image Generation  [[PDF](https://arxiv.org/abs/2604.06966)]
+
+[arxiv 2026.04] RewardFlow: Generate Images by Optimizing What You Reward  [[PDF](https://arxiv.org/abs/2604.08536),[Page](https://plan-lab.github.io/rewardflow)]
 
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
