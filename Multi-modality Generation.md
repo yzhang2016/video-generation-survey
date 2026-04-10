@@ -64,6 +64,7 @@
 
 [arxiv 2025.10]  MAT-Agent: Adaptive Multi-Agent Training Optimization [[PDF](https://arxiv.org/abs/2510.17845)]
 
+[arxiv 2026.04] HY-Embodied-0.5: Embodied Foundation Models for Real-World Agents  [[PDF](https://arxiv.org/abs/2604.07430)]
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
 
@@ -318,6 +319,11 @@
 
 [arxiv 2026.04] Progressive Video Condensation with MLLM Agent for Long-form Video Understanding  [[PDF](https://arxiv.org/abs/2604.02891v1)]
 
+[arxiv 2026.04] SVAgent: Storyline-Guided Long Video Understanding via Cross-Modal Multi-Agent Collaboration  [[PDF](https://arxiv.org/abs/2604.05079)]
+
+[arxiv 2026.04] Small Vision-Language Models are Smart Compressors for Long Video Understanding  [[PDF](https://arxiv.org/abs/2604.08120),[Page](https://FeiElysia.github.io/tempo-page/)]
+
+[arxiv 2026.04] AdaSpark: Adaptive Sparsity for Efficient Long-Video Understanding  [[PDF](https://arxiv.org/abs/2604.08077)]
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
 
