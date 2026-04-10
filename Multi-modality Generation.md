@@ -314,6 +314,10 @@
 
 [arxiv 2026.03] Symphony: A Cognitively-Inspired Multi-Agent System for Long-Video Understanding  [[PDF](https://arxiv.org/abs/2603.17304)]
 
+[arxiv 2026.04] Query-Conditioned Evidential Keyframe Sampling for MLLM-Based Long-Form Video Understanding  [[PDF](https://arxiv.org/abs/2604.01002v1)]
+
+[arxiv 2026.04] Progressive Video Condensation with MLLM Agent for Long-form Video Understanding  [[PDF](https://arxiv.org/abs/2604.02891v1)]
+
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
 
@@ -444,6 +448,11 @@
 
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
+
+
+## streaming
+[arxiv 2026.04] A Simple Baseline for Streaming Video Understanding  [[PDF](https://arxiv.org/abs/2604.02317),[Page](https://simple-stream.github.io/)]
+
 
 
 ## Omni
