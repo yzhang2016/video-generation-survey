@@ -1163,6 +1163,9 @@
 
 [arxiv 2026.03] Semantic-Aware Prefix Learning for Token-Efficient Image Generation  [[PDF](https://arxiv.org/abs/2603.25249)]
 
+[arxiv 2026.04] LumaFlux: Lifting 8-Bit Worlds to HDR Reality with Physically-Guided Diffusion Transformers  [[PDF](https://arxiv.org/abs/2604.02787v1)]
+
+
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 
@@ -1332,6 +1335,7 @@
 
 [arxiv 2026.02]  BitDance: Scaling Autoregressive Generative Models with Binary Tokens [[PDF](https://arxiv.org/abs/2602.14041),[Page](https://bitdance.csuhan.com/)] ![Code](https://img.shields.io/github/stars/shallowdream204/BitDance?style=social&label=Star)
 
+[arxiv 2026.04] From Broad Exploration to Stable Synthesis: Entropy-Guided Optimization for Autoregressive Image Generation  [[PDF](https://arxiv.org/abs/2604.02355v1)]
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -3117,6 +3121,9 @@ Creative Layout-to-Image Generation [[PDF](https://arxiv.org/pdf/2412.03859),[Pa
 
 [arxiv 2026.03] Beyond Ground-Truth: Leveraging Image Quality Priors for Real-World Image Restoration  [[PDF](https://arxiv.org/abs/2603.29773)]
 
+[arxiv 2026.04] VOSR: A Vision-Only Generative Model for Image Super-Resolution  [[PDF](https://arxiv.org/abs/2604.03225v1)] ![Code](https://img.shields.io/github/stars/cswry/VOSR?style=social&label=Star)
+
+
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 
@@ -3375,6 +3382,10 @@ Creative Layout-to-Image Generation [[PDF](https://arxiv.org/pdf/2412.03859),[Pa
 
 [arxiv 2026.03] IMAGAgent: Orchestrating Multi-Turn Image Editing via Constraint-Aware Planning and Reflection  [[PDF](https://arxiv.org/abs/2603.29602)]
 
+[arxiv 2026.04] CAMEO: A Conditional and Quality-Aware Multi-Agent Image Editing Orchestrator  [[PDF](https://arxiv.org/abs/2604.03156v1)]
+
+[arxiv 2026.04] SentiAvatar: Towards Expressive and Interactive Digital Humans  [[PDF](https://arxiv.org/abs/2604.02908v1),[Page](https://sentiavatar.github.io)]
+
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -3458,6 +3469,7 @@ Creative Layout-to-Image Generation [[PDF](https://arxiv.org/pdf/2412.03859),[Pa
 
 [arxiv 2026.03] Unify-Agent: A Unified Multimodal Agent for World-Grounded Image Synthesis  [[PDF](https://arxiv.org/abs/2603.29620),[Page](https://github.com/shawn0728/Unify-Agent)] ![Code](https://img.shields.io/github/stars/shawn0728/Unify-Agent?style=social&label=Star)
 
+[arxiv 2026.04] EmoScene: A Dual-space Dataset for Controllable Affective Image Generation  [[PDF](https://arxiv.org/abs/2604.00933v1)]
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -3487,6 +3499,7 @@ Creative Layout-to-Image Generation [[PDF](https://arxiv.org/pdf/2412.03859),[Pa
 
 [arxiv 2025.10]  DiffCamera: Arbitrary Refocusing on Images [[PDF](https://arxiv.org/abs/2509.26599)]
 
+[arxiv 2026.04] RawGen: Learning Camera Raw Image Generation  [[PDF](https://arxiv.org/abs/2604.00093v1)]
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -3801,6 +3814,10 @@ Creative Layout-to-Image Generation [[PDF](https://arxiv.org/pdf/2412.03859),[Pa
 
 [arxiv 2026.03] BiFM: Bidirectional Flow Matching for Few-Step Image Editing and Generation  [[PDF](https://arxiv.org/abs/2603.24942)]
 
+[arxiv 2026.04] 1.x-Distill: Breaking the Diversity, Quality, and Efficiency Barrier in Distribution Matching Distillation  [[PDF](https://arxiv.org/abs/2604.04018v1),[Page](https://thu-accdiff.github.io/1.x-distill-page/)] ![Code](https://img.shields.io/github/stars/THU-AccDiff/1.x_distill?style=social&label=Star)
+
+
+
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 # end of speed
@@ -3890,6 +3907,7 @@ Creative Layout-to-Image Generation [[PDF](https://arxiv.org/pdf/2412.03859),[Pa
 
 [arxiv 2026.03] CRAFT: Aligning Diffusion Models with Fine-Tuning Is Easier Than You Think  [[PDF](https://arxiv.org/abs/2603.18991)]
 
+[arxiv 2026.04] Can Nano Banana 2 Replace Traditional Image Restoration Models? An Evaluation of Its Performance on Image Restoration Tasks  [[PDF](https://arxiv.org/abs/2604.03061v1)] ![Code](https://img.shields.io/github/stars/yxyuanxiao/NanoBanana2TestOnIR?style=social&label=Star)
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
