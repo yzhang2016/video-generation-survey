@@ -168,6 +168,9 @@
 
 [arxiv 2026.03] UniMotion: A Unified Framework for Motion-Text-Vision Understanding and Generation  [[PDF](https://arxiv.org/abs/2603.22282),[Page](https://wangzy01.github.io/UniMotion/)]
 
+[arxiv 2026.04] DynaVid: Learning to Generate Highly Dynamic Videos using Synthetic Motion Data  [[PDF](https://arxiv.org/abs/2604.01666),[Page](https://jinwonjoon.github.io/DynaVid/)]
+
+
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 
@@ -329,6 +332,9 @@
 [arxiv 2025.03] Reconstructing In-the-Wild Open-Vocabulary Human-Object Interactions [[PDF](https://arxiv.org/abs/2503.15898),[Page](https://wenboran2002.github.io/3dhoi/)] ![Code](https://img.shields.io/github/stars/wenboran2002/open-3dhoi?style=social&label=Star)
 
 [arxiv 2025.08] HOID-R1: Reinforcement Learning for Open-World Human-Object Interaction Detection Reasoning with Multimodal Large Language Model  [[PDF](https://arxiv.org/abs/2508.11350)]
+
+[arxiv 2026.04] Mining Instance-Centric Vision-Language Contexts for Human-Object Interaction Detection  [[PDF](https://arxiv.org/abs/2604.02071),[Page](https://github.com/nowuss/InCoM-Net)]
+
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
