@@ -705,6 +705,9 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2026.04] MMPhysVideo: Scaling Physical Plausibility in Video Generation via Joint Multimodal Modeling  [[PDF](https://arxiv.org/abs/2604.02817v1),[Page](https://shubolin028.github.io/MMPhysVideo-Page)]
 
+[arxiv 2026.04] When Numbers Speak: Aligning Textual Numerals and Visual Instances in Text-to-Video Diffusion Models  [[PDF](https://arxiv.org/abs/2604.08546),[Page](https://h-embodvis.github.io/NUMINA)] ![Code](https://img.shields.io/github/stars/H-EmbodVis/NUMINA?style=social&label=Star)
+
+[arxiv 2026.04] Phantom: Physics-Infused Video Generation via Joint Modeling of Visual and Latent Physical Dynamics  [[PDF](https://arxiv.org/abs/2604.08503)]
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -804,6 +807,9 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2026.03] HumanOmni-Speaker: Identifying Who said What and When  [[PDF](https://arxiv.org/abs/2603.21664)]
 
+[arxiv 2026.04] DiffVC: A Non-autoregressive Framework Based on Diffusion Model for Video Captioning  [[PDF](https://arxiv.org/abs/2604.08084)]
+
+[arxiv 2026.04] ABMAMBA: Multimodal Large Language Model with Aligned Hierarchical Bidirectional Scan for Efficient Video Captioning  [[PDF](https://arxiv.org/abs/2604.08050)]
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -1013,6 +1019,8 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 [arxiv 2026.03] Free-Lunch Long Video Generation via Layer-Adaptive O.O.D Correction  [[PDF](https://arxiv.org/abs/2603.25209)] ![Code](https://img.shields.io/github/stars/Westlake-AGI-Lab/FreeLOC?style=social&label=Star)
 
 [arxiv 2026.03] DCARL: A Divide-and-Conquer Framework for Autoregressive Long-Trajectory Video Generation  [[PDF](https://arxiv.org/abs/2603.24835),[Page](https://junyiouy.github.io/projects/dcarl)]
+
+[arxiv 2026.04] Grounded Forcing: Bridging Time-Independent Semantics and Proximal Dynamics in Autoregressive Video Synthesis  [[PDF](https://arxiv.org/abs/2604.06939)]
 
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
@@ -1617,6 +1625,9 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2026.04] SymphoMotion: Joint Control of Camera Motion and Object Dynamics for Coherent Video Generation  [[PDF](https://arxiv.org/abs/2604.03723v1),[Page](https://grenoble-zhang.github.io/SymphoMotion/)] ![Code](https://img.shields.io/github/stars/grenoble-zhang/SymphoMotion?style=social&label=Star)
 
+[arxiv 2026.04] OmniCamera: A Unified Framework for Multi-task Video Generation with Arbitrary Camera Control  [[PDF](https://arxiv.org/abs/2604.06010)]
+
+
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 
@@ -1924,6 +1935,9 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 [arxiv 2026.03] FlashSign: Pose-Free Guidance for Efficient Sign Language Video Generation  [[PDF](https://arxiv.org/abs/2603.27915)]
 
 [arxiv 2026.03] OmniRoam: World Wandering via Long-Horizon Panoramic Video Generation  [[PDF](https://arxiv.org/abs/2603.30045),[Page](https://github.com/yuhengliu02/OmniRoam)] ![Code](https://img.shields.io/github/stars/yuhengliu02/OmniRoam?style=social&label=Star)
+
+[arxiv 2026.04] Lighting-grounded Video Generation with Renderer-based Agent Reasoning  [[PDF](https://arxiv.org/abs/2604.07966)]
+
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -2318,6 +2332,9 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 [arxiv 2026.03] AvatarForcing: One-Step Streaming Talking Avatars via Local-Future Sliding-Window Denoising  [[PDF](https://arxiv.org/abs/2603.14331),[Page](https://cuiliyuan121.github.io/AvatarForcing/)]
 
 [arxiv 2026.03] SoulX-LiveAct: Towards Hour-Scale Real-Time Human Animation with Neighbor Forcing and ConvKV Memory  [[PDF](https://arxiv.org/abs/2603.11746),[Page](https://demopagedemo.github.io/LiveAct/)] ![Code](https://img.shields.io/github/stars/Soul-AILab/SoulX-LiveAct?style=social&label=Star)
+
+[arxiv 2026.04] LPM 1.0: Video-based Character Performance Model  [[PDF](https://arxiv.org/abs/2604.07823),[Page](https://large-performance-model.github.io)]
+
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -2879,6 +2896,9 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2026.03] AVControl: Efficient Framework for Training Audio-Visual Controls  [[PDF](https://arxiv.org/abs/2603.24793),[Page](https://matanby.github.io/AVControl/)] 
 
+[arxiv 2026.04] ImVideoEdit: Image-learning Video Editing via 2D Spatial Difference Attention Blocks  [[PDF](https://arxiv.org/abs/2604.07958)]
+
+
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 
@@ -3266,6 +3286,9 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 [arxiv 2026.03] EC-Bench: Enumeration and Counting Benchmark for Ultra-Long Videos  [[PDF](https://arxiv.org/abs/2603.29943),[Page](https://github.com/matsuolab/EC-Bench)] ![Code](https://img.shields.io/github/stars/matsuolab/EC-Bench?style=social&label=Star)
 
 [arxiv 2026.03] SLVMEval: Synthetic Meta Evaluation Benchmark for Text-to-Long Video Generation  [[PDF](https://arxiv.org/abs/2603.29186)]
+
+[arxiv 2026.04] AVGen-Bench: A Task-Driven Benchmark for Multi-Granular Evaluation of Text-to-Audio-Video Generation  [[PDF](https://arxiv.org/abs/2604.08540)]
+
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
