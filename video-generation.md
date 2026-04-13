@@ -1314,6 +1314,9 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2026.04] Control-DINO: Feature Space Conditioning for Controllable Image-to-Video Diffusion  [[PDF](https://arxiv.org/abs/2604.01761),[Page](https://dedoardo.github.io/projects/control-dino/)]
 
+[arxiv 2026.04] Tora3: Trajectory-Guided Audio-Video Generation with Physical Coherence  [[PDF](https://arxiv.org/abs/2604.09057)]
+
+
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 
@@ -1626,6 +1629,8 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 [arxiv 2026.04] SymphoMotion: Joint Control of Camera Motion and Object Dynamics for Coherent Video Generation  [[PDF](https://arxiv.org/abs/2604.03723v1),[Page](https://grenoble-zhang.github.io/SymphoMotion/)] ![Code](https://img.shields.io/github/stars/grenoble-zhang/SymphoMotion?style=social&label=Star)
 
 [arxiv 2026.04] OmniCamera: A Unified Framework for Multi-task Video Generation with Arbitrary Camera Control  [[PDF](https://arxiv.org/abs/2604.06010)]
+
+[arxiv 2026.04] CT-1: Vision-Language-Camera Models Transfer Spatial Reasoning Knowledge to Camera-Controllable Video Generation  [[PDF](https://arxiv.org/abs/2604.09201)]
 
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
@@ -2898,6 +2903,7 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2026.04] ImVideoEdit: Image-learning Video Editing via 2D Spatial Difference Attention Blocks  [[PDF](https://arxiv.org/abs/2604.07958)]
 
+[arxiv 2026.04] InsEdit: Towards Instruction-based Visual Editing via Data-Efficient Video Diffusion Models Adaptation  [[PDF](https://arxiv.org/abs/2604.08646)]
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
