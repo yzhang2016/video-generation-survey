@@ -459,6 +459,7 @@
 ## streaming
 [arxiv 2026.04] A Simple Baseline for Streaming Video Understanding  [[PDF](https://arxiv.org/abs/2604.02317),[Page](https://simple-stream.github.io/)]
 
+[arxiv 2026.04] StreamMeCo: Long-Term Agent Memory Compression for Efficient Streaming Video Understanding  [[PDF](https://arxiv.org/abs/2604.09000)]
 
 
 ## Omni
