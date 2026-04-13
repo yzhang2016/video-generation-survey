@@ -622,6 +622,7 @@
 
 [arxiv 2026.04] PhyEdit: Towards Real-World Object Manipulation via Physically-Grounded Image Editing  [[PDF](https://arxiv.org/abs/2604.07230)]
 
+[arxiv 2026.04] Region-Constrained Group Relative Policy Optimization for Flow-Based Image Editing  [[PDF](https://arxiv.org/abs/2604.09386)]
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
