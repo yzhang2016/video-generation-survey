@@ -624,6 +624,9 @@
 
 [arxiv 2026.04] Region-Constrained Group Relative Policy Optimization for Flow-Based Image Editing  [[PDF](https://arxiv.org/abs/2604.09386)]
 
+[arxiv 2026.04] LMMs Meet Object-Centric Vision: Understanding, Segmentation, Editing and Generation  [[PDF](https://arxiv.org/abs/2604.11789)]
+
+
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 ## end of editing 
@@ -2454,6 +2457,9 @@ Cross-Attention Control [[PDF](https://arxiv.org/abs/2402.13404)]
 
 [arxiv 2025.12] DuetSVG: Unified Multimodal SVG Generation with Internal Visual Guidance  [[PDF](https://arxiv.org/abs/2512.10894),[Page](https://intchous.github.io/DuetSVG-site)] 
 
+[arxiv 2026.04] LottieGPT: Tokenizing Vector Animation for Autoregressive Generation  [[PDF](https://arxiv.org/abs/2604.11792),[Page](https://lottiegpt.github.io/)]
+
+
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 
@@ -3135,6 +3141,15 @@ Creative Layout-to-Image Generation [[PDF](https://arxiv.org/pdf/2412.03859),[Pa
 
 [arxiv 2026.04] SAT: Selective Aggregation Transformer for Image Super-Resolution  [[PDF](https://arxiv.org/abs/2604.07994)]
 
+[arxiv 2026.04] Training-Free Model Ensemble for Single-Image Super-Resolution via Strong-Branch Compensation  [[PDF](https://arxiv.org/abs/2604.11564)]
+
+[arxiv 2026.04] Degradation-Aware and Structure-Preserving Diffusion for Real-World Image Super-Resolution  [[PDF](https://arxiv.org/abs/2604.11470)]
+
+[arxiv 2026.04] EditCrafter: Tuning-free High-Resolution Image Editing via Pretrained Diffusion Model  [[PDF](https://arxiv.org/abs/2604.10268),[Page](https://editcrafter.github.io/)]
+
+[arxiv 2026.04] MatRes: Zero-Shot Test-Time Model Adaptation for Simultaneous Matching and Restoration  [[PDF](https://arxiv.org/abs/2604.10081)]
+
+
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 
@@ -3144,6 +3159,7 @@ Creative Layout-to-Image Generation [[PDF](https://arxiv.org/pdf/2412.03859),[Pa
 [arxiv 2024.11] Large-Scale Text-to-Image Model with Inpainting is a Zero-Shot Subject-Driven Image Generator  [[PDF](https://arxiv.org/abs/2411.15466),[Page](https://diptychprompting.github.io/)] 
 
 [arxiv 2025.02] RelaCtrl: Relevance-Guided Efficient Control for Diffusion Transformers  [[PDF](https://arxiv.org/abs/2502.14377),[Page](https://relactrl.github.io/RelaCtrl/)] 
+
 
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
@@ -3342,6 +3358,7 @@ Creative Layout-to-Image Generation [[PDF](https://arxiv.org/pdf/2412.03859),[Pa
 
 [arxiv 2026.04] MegaStyle: Constructing Diverse and Scalable Style Dataset via Consistent Text-to-Image Style Mapping  [[PDF](https://arxiv.org/abs/2604.08364),[Page](https://jeoyal.github.io/MegaStyle/)]
 
+[arxiv 2026.04] FREE-Switch: Frequency-based Dynamic LoRA Switch for Style Transfer  [[PDF](https://arxiv.org/abs/2604.10023)]
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
