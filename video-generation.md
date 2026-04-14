@@ -575,6 +575,8 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2026.03] CutClaw: Agentic Hours-Long Video Editing via Music Synchronization  [[PDF](https://arxiv.org/abs/2603.29664),[Page](https://github.com/GVCLab/CutClaw)] ![Code](https://img.shields.io/github/stars/GVCLab/CutClaw?style=social&label=Star)
 
+[arxiv 2026.04] Agentic Video Generation: From Text to Executable Event Graphs via Tool-Constrained LLM Planning  [[PDF](https://arxiv.org/abs/2604.10383)]
+
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -811,6 +813,11 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2026.04] ABMAMBA: Multimodal Large Language Model with Aligned Hierarchical Bidirectional Scan for Efficient Video Captioning  [[PDF](https://arxiv.org/abs/2604.08050)]
 
+[arxiv 2026.04] Script-a-Video: Deep Structured Audio-visual Captions via Factorized Streams and Relational Grounding  [[PDF](https://arxiv.org/abs/2604.11244)]
+
+[arxiv 2026.04] OmniScript: Towards Audio-Visual Script Generation for Long-Form Cinematic Video  [[PDF](https://arxiv.org/abs/2604.11102),[Page](https://arcomniscript.github.io)]
+
+
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 
@@ -872,6 +879,7 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2026.03] Event-Driven Video Generation  [[PDF](https://arxiv.org/abs/2603.13402)]
 
+[arxiv 2026.04] Prompt Relay: Inference-Time Temporal Control for Multi-Event Video Generation  [[PDF](https://arxiv.org/abs/2604.10030),[Page](https://gordonchen19.github.io/Prompt-Relay/)] ![Code](https://img.shields.io/github/stars/GordonChen19/Prompt-Relay?style=social&label=Star)
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -1022,6 +1030,7 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2026.04] Grounded Forcing: Bridging Time-Independent Semantics and Proximal Dynamics in Autoregressive Video Synthesis  [[PDF](https://arxiv.org/abs/2604.06939)]
 
+[arxiv 2026.04] Long-Horizon Streaming Video Generation via Hybrid Attention with Decoupled Distillation  [[PDF](https://arxiv.org/abs/2604.10103)] ,[Page](https://leeruibin.github.io/HybridForcing.github.io/)] ![Code](https://img.shields.io/github/stars/leeruibin/hybrid-forcing?style=social&label=Star)
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -1943,6 +1952,7 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2026.04] Lighting-grounded Video Generation with Renderer-based Agent Reasoning  [[PDF](https://arxiv.org/abs/2604.07966)]
 
+[arxiv 2026.04] HDR Video Generation via Latent Alignment with Logarithmic Encoding  [[PDF](https://arxiv.org/abs/2604.11788),[Page](https://HDR-LumiVid.github.io)]
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -2359,6 +2369,9 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 [arxiv 2024.11] AnchorCrafter: Animate CyberAnchors Saling Your Products via Human-Object Interacting Video Generation  [[PDF](https://arxiv.org/abs/2411.17383),[Page](https://cangcz.github.io/Anchor-Crafter/)] ![Code](https://img.shields.io/github/stars/cangcz/AnchorCrafter?style=social&label=Star)
 
 [arxiv 2026.03] DISPLAY: Directable Human-Object Interaction Video Generation via Sparse Motion Guidance and Multi-Task Auxiliary  [[PDF](https://arxiv.org/abs/2603.09883),[Page](https://mumuwei.github.io/DISPLAY/)]
+
+[arxiv 2026.04] OmniShow: Unifying Multimodal Conditions for Human-Object Interaction Video Generation  [[PDF](https://arxiv.org/abs/2604.11804),[Page](https://correr-zhou.github.io/OmniShow/)] ![Code](https://img.shields.io/github/stars/Correr-Zhou/OmniShow?style=social&label=Star)
+
 
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
@@ -3527,6 +3540,7 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2026.03] RealMaster: Lifting Rendered Scenes into Photorealistic Video  [[PDF](https://arxiv.org/abs/2603.23462),[Page](https://danacohen95.github.io/RealMaster/)] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
+[arxiv 2026.04] ViserDex: Visual Sim-to-Real for Robust Dexterous In-hand Reorientation  [[PDF](https://arxiv.org/abs/2604.11138)]
 
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
@@ -3689,6 +3703,8 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 [arxiv 2025.09] Hunyuan3D-Omni: A Unified Framework for Controllable Generation of 3D Assets  [[PDF](https://arxiv.org/abs/2509.21245),[Page](https://github.com/Tencent-Hunyuan/Hunyuan3D-Omni)] ![Code](https://img.shields.io/github/stars/Tencent-Hunyuan/Hunyuan3D-Omni?style=social&label=Star)
 
 [arxiv 2025.10] Seed3D 1.0: From Images to High-Fidelity Simulation-Ready 3D Assets  [[PDF](https://arxiv.org/abs/2510.19944),[Page](https://seed.bytedance.com/seed3d)] 
+
+[arxiv 2026.04] Rein3D: Reinforced 3D Indoor Scene Generation with Panoramic Video Diffusion Models  [[PDF](https://arxiv.org/abs/2604.10578)]
 
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
