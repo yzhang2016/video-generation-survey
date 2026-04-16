@@ -249,6 +249,9 @@
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
 
 
+# persona
+[arxiv 2026.04] PersonaVLM: Long-Term Personalized Multimodal LLMs  [[PDF](https://arxiv.org/abs/2604.13074),[Page](https://PersonaVLM.github.io)]
+
 
 ## Long Video Understanding
 [arxiv 2025.02] CoS: Chain-of-Shot Prompting for Long Video Understanding  [[PDF](https://arxiv.org/abs/2502.06428),[Page](https://lwpyh.github.io/CoS/)] ![Code](https://img.shields.io/github/stars/lwpyh/CoS_codes?style=social&label=Star) 
