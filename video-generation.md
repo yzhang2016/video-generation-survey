@@ -310,6 +310,7 @@ A reading list of video generation
 
 [arxiv 2025.12] Towards Scalable Pre-training of Visual Tokenizers for Generation  [[PDF](https://arxiv.org/abs/2512.13687),[Page](https://github.com/MiniMax-AI/VTP)] ![Code](https://img.shields.io/github/stars/MiniMax-AI/VTP?style=social&label=Star)
 
+[arxiv 2026.04] VideoFlexTok: Flexible-Length Coarse-to-Fine Video Tokenization  [[PDF](https://arxiv.org/abs/2604.12887),[Page](https://videoflextok.epfl.ch/)]
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -528,6 +529,8 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 [arxiv 2025.12] Seedance 1.5 pro: A Native Audio-Visual Joint Generation Foundation Model  [[PDF](https://arxiv.org/abs/2512.13507),[Page](https://seed.bytedance.com/zh/seedance1_5_pro)] 
 
 [arxiv 2026.02] TeleBoost: A Systematic Alignment Framework for High-Fidelity, Controllable, and Robust Video Generation  [[PDF](https://arxiv.org/abs/2602.07595)]
+
+[arxiv 2026.04] Seedance 2.0: Advancing Video Generation for World Complexity  [[PDF](https://arxiv.org/abs/2604.14148)]
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -2413,6 +2416,7 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2026.03] OmniEdit: A Training-free framework for Lip Synchronization and Audio-Visual Editing  [[PDF](https://arxiv.org/pdf/2603.09084),[Page](https://github.com/l1346792580123/OmniEdit)] ![Code](https://img.shields.io/github/stars/l1346792580123/OmniEdit?style=social&label=Star)
 
+[arxiv 2026.04] CoSyncDiT: Cognitive Synchronous Diffusion Transformer for Movie Dubbing  [[PDF](https://arxiv.org/abs/2604.12292)]
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -2471,6 +2475,9 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 [arxiv 2025.06]  Controllable and Expressive One-Shot Video Head Swapping [[PDF](https://humanaigc.github.io/SwapAnyHead/),[Page](https://guoxu1233.github.io/DreamID-V/)] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 [arxiv 2026.01] DreamID-V:Bridging the Image-to-Video Gap for High-Fidelity Face Swapping via Diffusion Transformer  [[PDF](https://arxiv.org/abs/2601.01425),[Page]()] ![Code](https://img.shields.io/github/stars/bytedance/DreamID-V?style=social&label=Star)
+
+[arxiv 2026.04] DiffMagicFace: Identity Consistent Facial Editing of Real Videos  [[PDF](https://arxiv.org/abs/2604.13841)]
+
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -3162,6 +3169,7 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2026.01]  TeleStyle: Content-Preserving Style Transfer in Images and Videos [[PDF](https://arxiv.org/abs/2601.20175),[Page](https://tele-ai.github.io/TeleStyle/)] ![Code](https://img.shields.io/github/stars/Tele-AI/TeleStyle?style=social&label=Star)
 
+[arxiv 2026.04] DiT as Real-Time Rerenderer: Streaming Video Stylization with Autoregressive Diffusion Transformer  [[PDF](https://arxiv.org/abs/2604.13509)]
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -3503,6 +3511,7 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2026.04] Not All Frames Deserve Full Computation: Accelerating Autoregressive Video Generation via Selective Computation and Predictive Extrapolation  [[PDF](https://arxiv.org/abs/2604.02979v1)]
 
+[arxiv 2026.04] Ride the Wave: Precision-Allocated Sparse Attention for Smooth Video Generation  [[PDF](https://arxiv.org/abs/2604.12219)]
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
