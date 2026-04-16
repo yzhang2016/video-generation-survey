@@ -2832,6 +2832,10 @@ Creative Layout-to-Image Generation [[PDF](https://arxiv.org/pdf/2412.03859),[Pa
 
 [arxiv 2026.03] NumColor: Precise Numeric Color Control in Text-to-Image Generation  [[PDF](https://arxiv.org/abs/2603.13547)]
 
+[arxiv 2026.04] Image-to-Image Translation Framework Embedded with Rotation Symmetry Priors  [[PDF](https://arxiv.org/abs/2604.12805)]
+
+[arxiv 2026.04] OneHOI: Unifying Human-Object Interaction Generation and Editing  [[PDF](https://arxiv.org/abs/2604.14062)]
+
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 
@@ -3360,7 +3364,11 @@ Creative Layout-to-Image Generation [[PDF](https://arxiv.org/pdf/2412.03859),[Pa
 
 [arxiv 2026.04] FREE-Switch: Frequency-based Dynamic LoRA Switch for Style Transfer  [[PDF](https://arxiv.org/abs/2604.10023)]
 
+[arxiv 2026.04] Generative Refinement Networks for Visual Synthesis  [[PDF](https://arxiv.org/abs/2604.13030),[Page](https://github.com/MGenAI/GRN)]
+
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
+
+# end of super
 
 
 ## RAG
@@ -3852,6 +3860,9 @@ Creative Layout-to-Image Generation [[PDF](https://arxiv.org/pdf/2412.03859),[Pa
 [arxiv 2026.04] 1.x-Distill: Breaking the Diversity, Quality, and Efficiency Barrier in Distribution Matching Distillation  [[PDF](https://arxiv.org/abs/2604.04018v1),[Page](https://thu-accdiff.github.io/1.x-distill-page/)] ![Code](https://img.shields.io/github/stars/THU-AccDiff/1.x_distill?style=social&label=Star)
 
 [arxiv 2026.04] Improving Controllable Generation: Faster Training and Better Performance via $x_0$-Supervision  [[PDF](https://arxiv.org/abs/2604.05761)] ![Star](https://img.shields.io/github/stars/CEA-LIST/x0-supervision?style=social&label=Star)
+
+[arxiv 2026.04] Self-Adversarial One Step Generation via Condition Shifting  [[PDF](https://arxiv.org/abs/2604.12322)]
+
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
