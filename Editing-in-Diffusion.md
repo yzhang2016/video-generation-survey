@@ -626,6 +626,7 @@
 
 [arxiv 2026.04] LMMs Meet Object-Centric Vision: Understanding, Segmentation, Editing and Generation  [[PDF](https://arxiv.org/abs/2604.11789)]
 
+[arxiv 2026.04] From Competition to Coopetition: Coopetitive Training-Free Image Editing Based on Text Guidance  [[PDF](https://arxiv.org/abs/2604.15948)]
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -872,6 +873,9 @@
 [arxiv 2026.01]  FlowConsist: Make Your Flow Consistent with Real Trajectory [[PDF](https://arxiv.org/pdf/2602.06346)]
 
 [arxiv 2026.03] MPDiT: Multi-Patch Global-to-Local Transformer Architecture For Efficient Flow Matching and Diffusion Model  [[PDF](https://arxiv.org/abs/2603.26357)]
+
+[arxiv 2026.04] Frequency-Aware Flow Matching for High-Quality Image Generation  [[PDF](https://arxiv.org/abs/2604.15521)] ![Code](https://img.shields.io/github/stars/OliverRensu/FreqFlow?style=social&label=Star)
+
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -2226,6 +2230,8 @@
 
 [arxiv 2024.12] MV-Adapter: Multi-view Consistent Image Generation Made Easy  [[PDF](https://arxiv.org/abs/2412.03632),[Page](https://huanngzh.github.io/MV-Adapter-Page/)] ![Code](https://img.shields.io/github/stars/huanngzh/MV-Adapter?style=social&label=Star)
 
+[arxiv 2026.04] Geometrically Consistent Multi-View Scene Generation from Freehand Sketches  [[PDF](https://arxiv.org/abs/2604.14302)]
+
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -3425,6 +3431,7 @@ Creative Layout-to-Image Generation [[PDF](https://arxiv.org/pdf/2412.03859),[Pa
 
 [arxiv 2026.04] SentiAvatar: Towards Expressive and Interactive Digital Humans  [[PDF](https://arxiv.org/abs/2604.02908v1),[Page](https://sentiavatar.github.io)]
 
+[arxiv 2026.04] Making Image Editing Easier via Adaptive Task Reformulation with Agentic Executions  [[PDF](https://arxiv.org/abs/2604.15917)]
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -3513,6 +3520,10 @@ Creative Layout-to-Image Generation [[PDF](https://arxiv.org/pdf/2412.03859),[Pa
 [arxiv 2026.04] PortraitCraft: A Benchmark for Portrait Composition Understanding and Generation  [[PDF](https://arxiv.org/abs/2604.03611v1)]
 
 [arxiv 2026.04] HumANDiff: Articulated Noise Diffusion for Motion-Consistent Human Video Generation  [[PDF](https://arxiv.org/abs/2604.05961),[Page](https://taohuumd.github.io/projects/HumANDiff/)]
+
+[arxiv 2026.04] TokenLight: Precise Lighting Control in Images using Attribute Tokens  [[PDF](https://arxiv.org/abs/2604.15310)]
+
+[arxiv 2026.04] OmniLight: One Model to Rule All Lighting Conditions  [[PDF](https://arxiv.org/abs/2604.15170)]
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
