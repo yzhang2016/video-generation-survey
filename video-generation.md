@@ -1124,6 +1124,9 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2026.04] Can Video Diffusion Models Predict Past Frames? Bidirectional Cycle Consistency for Reversible Interpolation  [[PDF](https://arxiv.org/abs/2604.01700)]
 
+[arxiv 2026.04] Why Do Vision Language Models Struggle To Recognize Human Emotions?  [[PDF](https://arxiv.org/abs/2604.15280)]
+
+
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 
@@ -2316,6 +2319,8 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2026.03] Gloria: Consistent Character Video Generation via Content Anchors  [[PDF](https://arxiv.org/abs/2603.29931),[Page](https://yyvhang.github.io/Gloria_Page/)]
 
+[arxiv 2026.04] TurboTalk: Progressive Distillation for One-Step Audio-Driven Talking Avatar Generation  [[PDF](https://arxiv.org/abs/2604.14580)]
+
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -2740,6 +2745,10 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 [arxiv 2026.01]  SpatialV2A: Visual-Guided High-fidelity Spatial Audio Generation [[PDF](https://arxiv.org/abs/2601.15017)]
 
 [arxiv 2026.03]  V2M-Zero: Zero-Pair Time-Aligned Video-to-Music Generation [[PDF](https://arxiv.org/abs/2603.11042),[Page](https://genjib.github.io/project_page/v2m_zero/)] 
+
+[arxiv 2026.04] ControlFoley: Unified and Controllable Video-to-Audio Generation with Cross-Modal Conflict Handling  [[PDF](https://arxiv.org/abs/2604.15086),[Page](https://yjx-research.github.io/ControlFoley/)] ![Code](https://img.shields.io/github/stars/xiaomi-research/controlfoley?style=social&label=Star)
+
+[arxiv 2026.04] Hierarchical Codec Diffusion for Video-to-Speech Generation  [[PDF](https://arxiv.org/abs/2604.15923)]
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -3677,6 +3686,7 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2026.04] A Frame is Worth One Token: Efficient Generative World Modeling with Delta Tokens  [[PDF](https://arxiv.org/abs/2604.04913v1),[Page](https://deltatok.github.io)]
 
+[arxiv 2026.04] HY-World 2.0: A Multi-Modal World Model for Reconstructing, Generating, and Simulating 3D Worlds  [[PDF](https://arxiv.org/abs/2604.14268),[Page](https://3d-models.hunyuan.tencent.com/world/)] ![Code](https://img.shields.io/github/stars/Tencent-Hunyuan/HY-World-2.0?style=social&label=Star)
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
