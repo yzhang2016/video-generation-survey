@@ -170,6 +170,7 @@
 
 [arxiv 2026.04] DynaVid: Learning to Generate Highly Dynamic Videos using Synthetic Motion Data  [[PDF](https://arxiv.org/abs/2604.01666),[Page](https://jinwonjoon.github.io/DynaVid/)]
 
+[arxiv 2026.04] Motion-Adapter: A Diffusion Model Adapter for Text-to-Motion Generation of Compound Actions  [[PDF](https://arxiv.org/abs/2604.16135)]
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
