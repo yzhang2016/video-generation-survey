@@ -455,6 +455,7 @@
 
 [arxiv 2026.03] LVOmniBench: Pioneering Long Audio-Video Understanding Evaluation for Omnimodal LLMs  [[PDF](https://arxiv.org/abs/2603.19217),[Page](https://kd-tao.github.io/LVOmniBench/)]
 
+[arxiv 2026.04] LLaDA2.0-Uni: Unifying Multimodal Understanding and Generation with Diffusion Large Language Model  [[PDF](https://arxiv.org/abs/2604.20796)]
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
 
