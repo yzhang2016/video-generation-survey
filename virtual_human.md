@@ -316,6 +316,8 @@
 
 [arxiv 2026.03] PAM: A Pose-Appearance-Motion Engine for Sim-to-Real HOI Video Generation  [[PDF](https://arxiv.org/abs/2603.22193)] ![Code](https://img.shields.io/github/stars/GasaiYU/PAM?style=social&label=Star)
 
+[arxiv 2026.04] DeVI: Physics-based Dexterous Human-Object Interaction via Synthetic Video Imitation  [[PDF](https://arxiv.org/abs/2604.20841),[Page](https://snuvclab.github.io/devi/)] ![Code](https://img.shields.io/github/stars/snuvclab/devi?style=social&label=Star)
+
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
