@@ -3991,6 +3991,9 @@ Creative Layout-to-Image Generation [[PDF](https://arxiv.org/pdf/2412.03859),[Pa
 
 [arxiv 2026.04] Can Nano Banana 2 Replace Traditional Image Restoration Models? An Evaluation of Its Performance on Image Restoration Tasks  [[PDF](https://arxiv.org/abs/2604.03061v1)] ![Code](https://img.shields.io/github/stars/yxyuanxiao/NanoBanana2TestOnIR?style=social&label=Star)
 
+[arxiv 2026.04] Vision Banana Image Generators are Generalist Vision Learners  [[PDF](https://arxiv.org/pdf/2604.20329),[Page](https://vision-banana.github.io/)] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
+
+
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 ## Evaluation 
