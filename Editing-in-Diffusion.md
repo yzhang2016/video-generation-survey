@@ -17,6 +17,9 @@
 
 [arxiv 2026.02] FireRed-Image-Edit-1.0 Techinical Report  [[PDF](https://arxiv.org/abs/2602.13344),[Page](https://github.com/FireRedTeam/FireRed-Image-Edit)] ![Code](https://img.shields.io/github/stars/FireRedTeam/FireRed-Image-Edit?style=social&label=Star)
 
+[arxiv 2026.04] Wan-Image: Pushing the Boundaries of Generative Visual Intelligence  [[PDF](https://arxiv.org/abs/2604.19858)]
+
+
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 ## pixel 
@@ -630,6 +633,9 @@
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
+[arxiv 2026.04] Rethinking Where to Edit: Task-Aware Localization for Instruction-Based Image Editing  [[PDF](https://arxiv.org/abs/2604.20258)]
+
+
 ## end of editing 
 
 
@@ -1176,6 +1182,7 @@
 
 [arxiv 2026.04] LumaFlux: Lifting 8-Bit Worlds to HDR Reality with Physically-Guided Diffusion Transformers  [[PDF](https://arxiv.org/abs/2604.02787v1)]
 
+[arxiv 2026.04] Image Generators are Generalist Vision Learners  [[PDF](https://arxiv.org/abs/2604.20329),[Page](http://vision-banana.github.io)]
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -2320,6 +2327,8 @@
 
 [arxiv 2026.03] Persistent Story World Simulation with Continuous Character Customization  [[[PDF](https://arxiv.org/abs/2603.16285)]]
 
+[arxiv 2026.04] DreamShot: Personalized Storyboard Synthesis with Video Diffusion Prior  [[PDF](https://arxiv.org/abs/2604.17195),[Page](https://ll3rd.github.io/DreamShot/)] ![Code](https://img.shields.io/github/stars/LL3RD/DreamShot-Code?style=social&label=Star)
+
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -2465,6 +2474,7 @@ Cross-Attention Control [[PDF](https://arxiv.org/abs/2402.13404)]
 
 [arxiv 2026.04] LottieGPT: Tokenizing Vector Animation for Autoregressive Generation  [[PDF](https://arxiv.org/abs/2604.11792),[Page](https://lottiegpt.github.io/)]
 
+[arxiv 2026.04] Render-in-the-Loop: Vector Graphics Generation via Visual Self-Feedback  [[PDF](https://arxiv.org/abs/2604.20730)]
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -3159,6 +3169,10 @@ Creative Layout-to-Image Generation [[PDF](https://arxiv.org/pdf/2412.03859),[Pa
 
 [arxiv 2026.04] MatRes: Zero-Shot Test-Time Model Adaptation for Simultaneous Matching and Restoration  [[PDF](https://arxiv.org/abs/2604.10081)]
 
+[arxiv 2026.04] Voronoi-guided Bilateral 2D Gaussian Splatting for Arbitrary-Scale Hyperspectral Image Super-Resolution  [[PDF](https://arxiv.org/abs/2604.17727)]
+
+[arxiv 2026.04] Efficient INT8 Single-Image Super-Resolution via Deployment-Aware Quantization and Teacher-Guided Training  [[PDF](https://arxiv.org/abs/2604.20291)]
+
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -3525,6 +3539,9 @@ Creative Layout-to-Image Generation [[PDF](https://arxiv.org/pdf/2412.03859),[Pa
 
 [arxiv 2026.04] OmniLight: One Model to Rule All Lighting Conditions  [[PDF](https://arxiv.org/abs/2604.15170)]
 
+[arxiv 2026.04] GeoRelight: Learning Joint Geometrical Relighting and Reconstruction with Flexible Multi-Modal Diffusion Transformers  [[PDF](https://arxiv.org/abs/2604.20715),[Page](https://yuxuan-xue.com)]
+
+
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 
@@ -3554,6 +3571,10 @@ Creative Layout-to-Image Generation [[PDF](https://arxiv.org/pdf/2412.03859),[Pa
 [arxiv 2025.10]  DiffCamera: Arbitrary Refocusing on Images [[PDF](https://arxiv.org/abs/2509.26599)]
 
 [arxiv 2026.04] RawGen: Learning Camera Raw Image Generation  [[PDF](https://arxiv.org/abs/2604.00093v1)]
+
+[arxiv 2026.04] UniGeo: Unifying Geometric Guidance for Camera-Controllable Image Editing via Video Models  [[PDF](https://arxiv.org/abs/2604.17565)]
+
+[arxiv 2026.04] Camera Control for Text-to-Image Generation via Learning Viewpoint Tokens  [[PDF](https://arxiv.org/abs/2604.19954)]
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -3874,6 +3895,10 @@ Creative Layout-to-Image Generation [[PDF](https://arxiv.org/pdf/2412.03859),[Pa
 
 [arxiv 2026.04] Self-Adversarial One Step Generation via Condition Shifting  [[PDF](https://arxiv.org/abs/2604.12322)]
 
+[arxiv 2026.04] Extending One-Step Image Generation from Class Labels to Text via Discriminative Text Representation  [[PDF](https://arxiv.org/abs/2604.18168)]
+
+[arxiv 2026.04] LayerCache: Exploiting Layer-wise Velocity Heterogeneity for Efficient Flow Matching Inference  [[PDF](https://arxiv.org/abs/2604.16492)]
+
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -4183,6 +4208,7 @@ Creative Layout-to-Image Generation [[PDF](https://arxiv.org/pdf/2412.03859),[Pa
 
 [arxiv 2026.04] RewardFlow: Generate Images by Optimizing What You Reward  [[PDF](https://arxiv.org/abs/2604.08536),[Page](https://plan-lab.github.io/rewardflow)]
 
+[arxiv 2026.04] ParetoSlider: Diffusion Models Post-Training for Continuous Reward Control  [[PDF](https://arxiv.org/abs/2604.20816),[Page](https://shelley-golan.github.io/ParetoSlider-webpage/)]
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
