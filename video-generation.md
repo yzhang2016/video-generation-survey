@@ -1970,6 +1970,9 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2026.04] HDR Video Generation via Latent Alignment with Logarithmic Encoding  [[PDF](https://arxiv.org/abs/2604.11788),[Page](https://HDR-LumiVid.github.io)]
 
+[arxiv 2026.04]  Seeing Fast and Slow: Learning the Flow of Time in Videos [[PDF](https://arxiv.org/abs/2604.21931),[Page](https://seeing-fast-and-slow.github.io/)] ![Code](https://img.shields.io/github/stars/Seeing-Fast-and-Slow/Seeing-Fast-and-Slow.github.io?style=social&label=Star)
+
+
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 
