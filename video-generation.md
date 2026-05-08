@@ -2334,6 +2334,8 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2026.04] TurboTalk: Progressive Distillation for One-Step Audio-Driven Talking Avatar Generation  [[PDF](https://arxiv.org/abs/2604.14580)]
 
+[arxiv 2026.04] LPM 1.0: Video-based Character Performance Model  [[PDF](https://arxiv.org/abs/2604.07823),[Page](https://large-performance-model.github.io)] ![Code](https://img.shields.io/github/stars/large-performance-model/large-performance-model.github.io?style=social&label=Star)
+
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
