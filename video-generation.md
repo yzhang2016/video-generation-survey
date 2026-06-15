@@ -2456,6 +2456,9 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2026.04] EmbodiedHead: Real-Time Listening and Speaking Avatar for Conversational Agents  [[PDF](https://arxiv.org/abs/2604.17211),[Page](https://03skyboy.github.io/EmbodiedHead/)]
 
+[arxiv 2026.05] DiscoForcing: A Unified Framework for Real-Time Audio-Driven Character Control with Diffusion Forcing  [[PDF](https://arxiv.org/abs/2605.28491)]
+
+[arxiv 2026.05] EchoAvatar: Real-time Generative Avatar Animation from Audio Streams  [[PDF](https://arxiv.org/abs/2605.28272),[Page](https://robinwitch.github.io/EchoAvatar-Page)]
 
 
 ## Multi-person talking Video Generation 
@@ -3349,6 +3352,7 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2026.06] Dream.exe: Can Video Generation Models Dream Executable Robot Manipulation?  [[PDF](https://arxiv.org/abs/2606.04811)]
 
+[arxiv 2026.06] Flash-WAM: Modality-Aware Distillation for World Action Models  [[PDF](https://arxiv.org/abs/2606.05254)]
 
 
 
