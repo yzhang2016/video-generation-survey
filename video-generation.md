@@ -834,6 +834,7 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2026.04] DenseStep2M: A Scalable, Training-Free Pipeline for Dense Instructional Video Annotation  [[PDF](https://arxiv.org/abs/2604.26565)]
 
+[arxiv 2026.05] CodecCap: High-Fidelity Codec-Inspired Residual Modeling for Dense Video Captioning  [[PDF](https://arxiv.org/abs/2605.26967)]
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -871,6 +872,9 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2026.05] EntityBench: Towards Entity-Consistent Long-Range Multi-Shot Video Generation  [[PDF](https://arxiv.org/abs/2605.15199),[Page](https://catherine-r-he.github.io/EntityBench/)]
 
+[arxiv 2026.05] SmartDirector: Keyframe-Conditioned Cinematic Video Generation with Narrative Pacing Control  [[PDF](https://arxiv.org/abs/2605.27891)]
+
+
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 
@@ -904,6 +908,10 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 [arxiv 2026.03] Event-Driven Video Generation  [[PDF](https://arxiv.org/abs/2603.13402)]
 
 [arxiv 2026.04] Prompt Relay: Inference-Time Temporal Control for Multi-Event Video Generation  [[PDF](https://arxiv.org/abs/2604.10030),[Page](https://gordonchen19.github.io/Prompt-Relay/)] ![Code](https://img.shields.io/github/stars/GordonChen19/Prompt-Relay?style=social&label=Star)
+
+[arxiv 2026.06] Making Time Editable in Video Diffusion Transformers  [[PDF](https://arxiv.org/abs/2606.10183)]
+
+[arxiv 2026.05] TunerDiT: Training-free Progressive Steering of Diffusion Transformer for Multi-Event Video Generation  [[PDF](https://arxiv.org/abs/2605.31590)]
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -1070,17 +1078,26 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2026.05] Delta Forcing: Trust Region Steering for Interactive Autoregressive Video Generation  [[PDF](https://arxiv.org/abs/2605.14382)]
 
-[arxiv 2026.05] Pyramid Forcing: Head-Aware Pyramid KV Cache Policy for High-Quality Long Video Generation  [[PDF](https://arxiv.org/abs/2605.13111)]
-
 [arxiv 2026.05] DySink: Dynamic Frame Sinks for Autoregressive Long Video Generation  [[PDF](https://arxiv.org/abs/2605.21028)]
 
 [arxiv 2026.05] FlowLong: Inference-time Long Video Generation via Manifold-constrained Tweedie Matching  [[PDF](https://arxiv.org/abs/2605.20910),[Page](https://flowlong-video.github.io/)]
 
 [arxiv 2026.05] Goodbye Drift: Anchored Tree Sampling for Long-Horizon Video-to-Video Generation  [[PDF](https://arxiv.org/abs/2605.20476)]
 
-[arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
+[arxiv 2026.06] Next Forcing: Causal World Modeling with Multi-Chunk Prediction  [[PDF](https://arxiv.org/abs/2606.11187),[Page](https://gangweix.github.io/next-forcing/)]
+
+[arxiv 2026.05] AdaState: Self-Evolving Anchors for Streaming Video Generation  [[PDF](https://arxiv.org/abs/2605.30349),[Page](https://adastate.github.io/)]
+
+[arxiv 2026.06] Streaming Video Generation with Streaming Force Control  [[PDF](https://arxiv.org/abs/2606.07508)]
+
+[arxiv 2026.06] TetherCache: Stabilizing Autoregressive Long-Form Video Generation with Gated Recall and Trusted Alignment  [[PDF](https://arxiv.org/abs/2606.13035)]
+
+[arxiv 2026.06] Video-Mirai: Autoregressive Video Diffusion Models Need Foresight  [[PDF](https://arxiv.org/abs/2606.03971)]
+
 
 ## end of long video
+
+
 
 ## memory 
 [arxiv 2025.06] VMem: Consistent Interactive Video Scene Generation with Surfel-Indexed View Memory  [[PDF](http://arxiv.org/abs/2506.18903),[Page](https://v-mem.github.io/)] ![Code](https://img.shields.io/github/stars/runjiali-rl/vmem?style=social&label=Star)
@@ -1093,8 +1110,7 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2026.03] Out of Sight but Not Out of Mind: Hybrid Memory for Dynamic Video World Models  [[PDF](https://arxiv.org/abs/2603.25716)]
 
-
-[arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
+[arxiv 2026.05] DecMem: Towards Minute-Long Consistent World Generation with Decoupled Memory  [[PDF](https://arxiv.org/abs/2605.31336),[Page](https://jeffreyyzh.github.io/DecMem-Page)]
 
 
 ## cot
@@ -1169,6 +1185,10 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 [arxiv 2026.04] Can Video Diffusion Models Predict Past Frames? Bidirectional Cycle Consistency for Reversible Interpolation  [[PDF](https://arxiv.org/abs/2604.01700)]
 
 [arxiv 2026.04] Why Do Vision Language Models Struggle To Recognize Human Emotions?  [[PDF](https://arxiv.org/abs/2604.15280)]
+
+[arxiv 2026.05] Which Pretraining Paradigm Better Serves Spatial Intelligence? An Empirical Comparison of Vision-Language and Video Generation Models  [[PDF](https://arxiv.org/abs/2605.28132),[Page](https://github.com/om-ai-lab/Probing-VLM-VGM)]
+
+[arxiv 2026.05] YoCausal: How Far is Video Generation from World Model? A Causality Perspective  [[PDF](https://arxiv.org/abs/2605.30346),[Page](https://www.youzhexie.me/papers/YoCausal/index.html)]
 
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
@@ -1516,8 +1536,7 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2026.03] AnyCrowd: Instance-Isolated Identity-Pose Binding for Arbitrary Multi-Character Animation  [[PDF](https://arxiv.org/abs/2603.15415),[Page](https://xiezhy6.github.io/anycrowd/)] 
 
-[arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
-
+[arxiv 2026.06] Heygen Avatar V: Scaling Video-Reference Avatar Video Generation  [[PDF](https://arxiv.org/abs/2606.13872)]
 
 
 
@@ -2154,9 +2173,11 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2026.05] FaithfulFaces: Pose-Faithful Facial Identity Preservation for Text-to-Video Generation  [[PDF](https://arxiv.org/abs/2605.04702)]
 
+[arxiv 2026.06] HarmoView: Harmonizing Multi-View Constraints for Identity-Consistent Video Generation  [[PDF](https://arxiv.org/abs/2606.10839),[Page](https://conallwang.github.io/HarmoView_Pages)]
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
+## End of concept
 
 ## multi-view 
 [arxiv 2026.01] MV-S2V: Multi-View Subject-Consistent Video Generation  [[PDF](https://arxiv.org/abs/2601.17756),[Page](https://szy-young.github.io/mv-s2v/)] 
@@ -2434,7 +2455,6 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2026.04] EmbodiedHead: Real-Time Listening and Speaking Avatar for Conversational Agents  [[PDF](https://arxiv.org/abs/2604.17211),[Page](https://03skyboy.github.io/EmbodiedHead/)]
 
-[arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 
 ## Multi-person talking Video Generation 
@@ -2768,6 +2788,7 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2026.03] Improving Joint Audio-Video Generation with Cross-Modal Context Learning  [[PDF](https://arxiv.org/abs/2603.18600)]
 
+[arxiv 2026.06] Inference-Time Scaling for Joint Audio-Video Generation  [[PDF](https://arxiv.org/abs/2606.03183),[Page](https://jung-jaemin.github.io/ITS-AVGen-Proj/)]
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -3024,8 +3045,12 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2026.05] Smart-Insertion-V: Photorealistic Video Insertion via a Closed-Loop Feedback Dual-Stream Framework  [[PDF](https://arxiv.org/abs/2605.23891)]
 
+[arxiv 2026.05] KGEdit: Ambiguity-Aware Knowledge Graphs for Training-Free Precise Video Generation and Editing  [[PDF](https://arxiv.org/abs/2605.29509)]
 
-[arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
+[arxiv 2026.06] LoomVideo: Unifying Multimodal Inputs into Video Generation and Editing  [[PDF](https://arxiv.org/abs/2606.06042)]
+
+[arxiv 2026.06] JAVEDIT: Joint Audio-Visual Instruction-Guided Video Editing with Agentic Data Curation  [[PDF](https://arxiv.org/abs/2606.03168),[Page](https://ryanchenyn.github.io/projects/JAVEdit)]
+
 
 # end of editing
 
@@ -3318,7 +3343,9 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2026.05] OmniHumanoid: Streaming Cross-Embodiment Video Generation with Paired-Free Adaptation  [[PDF](https://arxiv.org/abs/2605.12038)]
 
-[arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
+[arxiv 2026.05] Turning Video Models into Generalist Robot Policies  [[PDF](https://arxiv.org/abs/2605.27817),[Page](https://vera.csail.mit.edu)]
+
+[arxiv 2026.06] Dream.exe: Can Video Generation Models Dream Executable Robot Manipulation?  [[PDF](https://arxiv.org/abs/2606.04811)]
 
 
 
@@ -3439,8 +3466,9 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2026.05] MSAVBench: Towards Comprehensive and Reliable Evaluation of Multi-Shot Audio-Video Generation  [[PDF](https://arxiv.org/abs/2605.20183)]
 
+[arxiv 2026.05] DirectorBench: Diagnosing Long-Form Video Generation with Personalized Multi-Agent Evaluation  [[PDF](https://arxiv.org/abs/2605.30090)]
 
-[arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
+[arxiv 2026.06] V2V-Bench: A Comprehensive Benchmark for Video-to-Video Generation Evaluation  [[PDF](https://arxiv.org/abs/2606.05665)]
 
 ## end of evaluation
 
@@ -3470,6 +3498,19 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
+
+## KV cache
+[arxiv 2026.01] PackCache: A Training-Free Acceleration Method for Unified Autoregressive Video Generation via Compact KV-Cache  [[PDF](https://arxiv.org/abs/2601.04359)]
+
+[arxiv 2026.03] Relax Forcing: Relaxed KV-Memory for Consistent Long Video Generation  [[PDF](https://arxiv.org/abs/2603.21366),[Page](https://zengqunzhao.github.io/Relax-Forcing)] ![Code](https://img.shields.io/github/stars/zengqunzhao/Relax-Forcing?style=social&label=Star)
+
+[arxiv 2026.05] Pyramid Forcing: Head-Aware Pyramid KV Cache Policy for High-Quality Long Video Generation  [[PDF](https://arxiv.org/abs/2605.13111)]
+
+[arxiv 2026.05] Quantized Keys Steal Attention: Bias Correction for KV-Cache Compression in Video Diffusion  [[PDF](https://arxiv.org/abs/2605.26266)]
+
+[arxiv 2026.05] VideoMLA: Low-Rank Latent KV Cache for Minute-Scale Autoregressive Video Diffusion  [[PDF](https://arxiv.org/abs/2605.30351),[Page](https://videomla.github.io/)]
+
+[arxiv 2026.05] Future Forcing: Future-aware Training-free KV Cache Policy for Autoregressive Video Generation  [[PDF](https://arxiv.org/abs/2605.30083)]
 
 ## Speed 
 [arxiv 2023.12]F3-Pruning: A Training-Free and Generalized Pruning Strategy towards Faster and Finer Text-to-Video Synthesis [[PDF](https://arxiv.org/abs/2312.03459)]
@@ -3590,7 +3631,7 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2025.12] TurboDiffusion: Accelerating Video Diffusion Models by 100–200 Times  [[PDF](https://arxiv.org/abs/2512.16093),[Page](https://github.com/thu-ml/TurboDiffusion)] ![Code](https://img.shields.io/github/stars/thu-ml/TurboDiffusion?style=social&label=Star)
 
-[arxiv 2026.01] PackCache: A Training-Free Acceleration Method for Unified Autoregressive Video Generation via Compact KV-Cache  [[PDF](https://arxiv.org/abs/2601.04359)]
+
 
 [arxiv 2026.01] MHLA: Restoring Expressivity of Linear Attention via Token-Level Multi-Head  [[PDF](https://arxiv.org/abs/2601.07832),[Page](https://github.com/DAGroup-PKU/MHLA)] ![Code](https://img.shields.io/github/stars/DAGroup-PKU/MHLA?style=social&label=Star)
 
@@ -3660,8 +3701,24 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2026.05] Dynamic Video Generation: Shaping Video Generation Across Time and Space  [[PDF](https://arxiv.org/abs/2605.21042)]
 
+[arxiv 2026.05] PARE: Pruning and Adaptive Routing for Efficient Video Generation  [[PDF](https://arxiv.org/abs/2605.27336)]
 
-[arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
+[arxiv 2026.05] OSP-Next: Efficient High-Quality Video Generation with Sparse Sequence Parallelism, HiF8 Quantization, and Reinforcement Learning  [[PDF](https://arxiv.org/abs/2605.28691)]
+
+[arxiv 2026.05] Veda: Scalable Video Diffusion via Distilled Sparse Attention  [[PDF](https://arxiv.org/abs/2605.30325)]
+
+[arxiv 2026.05] SGMD: Score Gradient Matching Distillation for Few-Step Video Diffusion Distillation  [[PDF](https://arxiv.org/abs/2605.30116)]
+
+[arxiv 2026.05] Light Interaction: Training-Free Inference Acceleration for Interactive Video World Models  [[PDF](https://arxiv.org/abs/2605.31158),[Page](https://2843721358l-del.github.io/Light-Interaction-Project/)]
+
+[arxiv 2026.05] LVSA: Training-Free Sparse Attention for Long Video Diffusion  [[PDF](https://arxiv.org/abs/2605.31057),[Page](https://github.com/JiusiServe/LongVideoSparseAttention)]
+
+[arxiv 2026.06] DSA: Dynamic Step Allocation for Fast Autoregressive Video Generation  [[PDF](https://arxiv.org/abs/2606.04432)]
+
+[arxiv 2026.06] RhymeFlow: Training-Free Acceleration for Video Generation with Asynchronous Denoising Flow Scheduling  [[PDF](https://arxiv.org/abs/2606.06309),[Page](https://simon-dcs.github.io/Website-of-RhymeFlow/)]
+
+[arxiv 2026.06] AAD-1: Asymmetric Adversarial Distillation for One-Step Autoregressive Video Generation  [[PDF](https://arxiv.org/abs/2606.03972),[Page](https://aad-1.github.io/)]
+
 
 ## end of speed
 
@@ -3703,10 +3760,18 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
+
 ## realtime video
 [arxiv 2026.05] RAVEN: Real-time Autoregressive Video Extrapolation with Consistency-model GRPO  [[PDF](https://arxiv.org/abs/2605.15190),[Page](https://yanzuo.lu/raven)]
 
 [arxiv 2026.05] Causal Forcing++: Scalable Few-Step Autoregressive Diffusion Distillation for Real-Time Interactive Video Generation  [[PDF](https://arxiv.org/abs/2605.15141)]
+
+[arxiv 2026.05] minWM: A Full-Stack Open-Source Framework for Real-Time Interactive Video World Models  [[PDF](https://arxiv.org/abs/2605.30263)]
+
+[arxiv 2026.05] SANA-Streaming: Real-time Streaming Video Editing with Hybrid Diffusion Transformer  [[PDF](https://arxiv.org/abs/2605.30409)]
+
+[arxiv 2026.06] Echo-Infinity: Learning Evolving Memory for Real-Time Infinite Video Generation  [[PDF](https://arxiv.org/abs/2606.04527),[Page](https://echo-team-joy-future-academy-jd.github.io/Echo-Infinity/)]
+
 
 
 ## world model & interactive generation
@@ -3837,12 +3902,22 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2026.04] World-R1: Reinforcing 3D Constraints for Text-to-Video Generation  [[PDF](https://arxiv.org/abs/2604.24764),[Page](https://aka.ms/world-r1)] ![Code](https://img.shields.io/github/stars/microsoft/World-R1?style=social&label=Star)
 
-
 [arxiv 2026.03] Video Generation Models as World Models: Efficient Paradigms, Architectures and Algorithms  [[PDF](https://arxiv.org/abs/2603.28489)]
 
-[arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
+[arxiv 2026.06] WorldOlympiad: Can Your World Model Survive a Triathlon?  [[PDF](https://arxiv.org/abs/2606.11129),[Page](https://alibaba-damo-academy.github.io/WorldOlympiad/)]
+
+[arxiv 2026.05] minWM: A Full-Stack Open-Source Framework for Real-Time Interactive Video World Models  [[PDF](https://arxiv.org/abs/2605.30263)]
+
+[arxiv 2026.06] MetaWorld: Scaling Multi-Agent Video World Model from Single-view Video Data  [[PDF](https://arxiv.org/abs/2606.02753)]
 
 ## end of world model
+
+## world-3d
+[arxiv 2026.06] MoVerse: Real-Time Video World Modeling with Panoramic Gaussian Scaffold  [[PDF](https://arxiv.org/abs/2606.13376)]
+
+
+
+
 
 ## memory
 [arxiv 2025.06]  Context as Memory: Scene-Consistent Interactive Long Video Generation with Memory Retrieval [[PDF](https://arxiv.org/abs/2506.03141),[Page](https://context-as-memory.github.io/)]
@@ -3871,7 +3946,15 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2026.04] X-Cache: Cross-Chunk Block Caching for Few-Step Autoregressive World Models Inference  [[PDF](https://arxiv.org/abs/2604.20289)]
 
-[arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
+[arxiv 2026.06] FadeMem: Distance-Aware Memory Consolidation for Autoregressive Video Diffusion  [[PDF](https://arxiv.org/abs/2606.10671)]
+
+[arxiv 2026.05] SlotMemory: Object-Centric KV Memory for Streaming Long-Video Generation  [[PDF](https://arxiv.org/abs/2605.31033)]
+
+[arxiv 2026.05] Robust Dreamer: Deviation-Aware Latent Gaussian Memory for Action-Controlled AR Video Generation  [[PDF](https://arxiv.org/abs/2605.30855)]
+
+[arxiv 2026.05] OmniMem: Scalable and Adaptive Memory Retrieval for Long Video Generation  [[PDF](https://arxiv.org/abs/2605.30519),[Page](https://wuyushuwys.github.io/OmniMem/)]
+
+[arxiv 2026.06] Memento: Reconstruct to Remember for Consistent Long Video Generation  [[PDF](https://arxiv.org/abs/2606.14667),[Page](https://ernie-research.github.io/Memento/)]
 
 
 ## 3D generation
@@ -3947,6 +4030,9 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 [arxiv 2026.03] Latent-WAM: Latent World Action Modeling for End-to-End Autonomous Driving  [[PDF](https://arxiv.org/abs/2603.24581)]
 
 [arxiv 2026.04] ExploreVLA: Dense World Modeling and Exploration for End-to-End Autonomous Driving  [[PDF](https://arxiv.org/abs/2604.02714v1),[Page](https://zihaosheng.github.io/ExploreVLA/)]
+
+[arxiv 2026.05] DriveWAM: Video Generative Priors Enable Scalable World-Action Modeling for Autonomous Driving  [[PDF](https://arxiv.org/abs/2605.28544)]
+
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -4026,6 +4112,18 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 [arxiv 2026.05] Do Joint Audio-Video Generation Models Understand Physics?  [[PDF](https://arxiv.org/abs/2605.07061)]
 
 [arxiv 2026.05] PhyWorld: Physics-Faithful World Model for Video Generation  [[PDF](https://arxiv.org/abs/2605.19242)]
+
+[arxiv 2026.05] Proprio: Latent Self-Scoring and Inference-Time Refinement for Physically Plausible Video Generation  [[PDF](https://arxiv.org/abs/2605.28230)]
+
+[arxiv 2026.06] Physics-Informed Video Generation via Mixture-of-Experts Latent Alignment  [[PDF](https://arxiv.org/abs/2606.04737)]
+
+[arxiv 2026.06] The Invisible Hand of Physics: When Video Diffusion Models Know More Than They Show  [[PDF](https://arxiv.org/abs/2606.05328)]
+
+[arxiv 2026.06] SpecLoR: Spectral Lookahead Rectification for Motion-Coherent Text-to-Video Generation  [[PDF](https://arxiv.org/abs/2606.11969)]
+
+[arxiv 2026.06] CausalMotion: Structured Physical Reasoning as Keyframe and Trajectory Guidance for Training-Free Video Generation  [[PDF](https://arxiv.org/abs/2606.14317),[Page](https://zhuangsh0713.github.io/CausalMotion/)]
+
+[arxiv 2026.06] VideoWeave: Unlocking Geometric Consistency in Video Generation via Joint Geometry-Video Modeling  [[PDF](https://arxiv.org/abs/2606.14162)]
 
 
 ## improving AR 
