@@ -230,7 +230,13 @@
 
 [arxiv 2026.03] Phi-4-reasoning-vision-15B Technical Report  [[PDF](https://arxiv.org/pdf/2603.03975),[Page](https://huggingface.co/microsoft/Phi-4-reasoning-vision-15B)] ![Code](https://img.shields.io/github/stars/microsoft/phi-4-reasoning-vision-15B?style=social&label=Star) 
 
+[arxiv 2026.05] Mamoda2.5: Enhancing Unified Multimodal Model with DiT-MoE  [[PDF](https://arxiv.org/abs/2605.02641)]
+
+[arxiv 2026.04] Omni-o3: Deep Nested Omnimodal Deduction for Deliberative Audio-Visual Reasoning  [[PDF](https://arxiv.org/abs/2604.24191)]
+
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
+
+## end of understanding
 
 
 ## sound-video understanding 
@@ -604,6 +610,20 @@
 
 [arxiv 2025.12] Video-CoM: Interactive Video Reasoning via Chain of Manipulations  [[PDF](https://arxiv.org/pdf/2511.23477),[Page](https://github.com/mbzuai-oryx/Video-CoM)] ![Code](https://img.shields.io/github/stars/mbzuai-oryx/Video-CoM?style=social&label=Star) 
 
+[arxiv 2026.05] UnAC: Adaptive Visual Prompting with Abstraction and Stepwise Checking for Complex Multimodal Reasoning  [[PDF](https://arxiv.org/abs/2605.03950)]
+
+[arxiv 2026.05] StateVLM: A State-Aware Vision-Language Model for Robotic Affordance Reasoning  [[PDF](https://arxiv.org/abs/2605.03927)]
+
+[arxiv 2026.05] Draw2Think: Harnessing Geometry Reasoning through Constraint Engine Interaction  [[PDF](https://arxiv.org/abs/2605.20743)]
+
+[arxiv 2026.05] Faithful-MR1: Faithful Multimodal Reasoning via Anchoring and Reinforcing Visual Attention  [[PDF](https://arxiv.org/abs/2605.22072)]
+
+[arxiv 2026.05] LatentOmni: Rethinking Omni-Modal Understanding via Unified Audio-Visual Latent Reasoning  [[PDF](https://arxiv.org/abs/2605.22012)]
+
+[arxiv 2026.05] ETCHR: Editing To Clarify and Harness Reasoning  [[PDF](https://arxiv.org/abs/2605.23897),[Page](https://github.com/InternLM/ETCHR)]
+
+[arxiv 2026.05] UnAC: Adaptive Visual Prompting with Abstraction and Stepwise Checking for Complex Multimodal Reasoning  [[PDF](https://arxiv.org/abs/2605.03950)]
+
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
 
 
@@ -682,10 +702,18 @@
 
 [arxiv 2025.12] Step-GUI Technical Report  [[PDF](https://arxiv.org/abs/2512.15431),[Page](https://github.com/stepfun-ai/gelab-zero)] ![Code](https://img.shields.io/github/stars/stepfun-ai/gelab-zero?style=social&label=Star) 
 
+[arxiv 2026.05] OpenSearch-VL: An Open Recipe for Frontier Multimodal Search Agents  [[PDF](https://arxiv.org/abs/2605.05185),[Page](https://github.com/shawn0728/OpenSearch-VL)]
+
+[arxiv 2026.05] VTAgent: Agentic Keyframe Anchoring for Evidence-Aware Video TextVQA  [[PDF](https://arxiv.org/abs/2605.04870)]
+
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
 
 ## memory
 [arxiv 2025.08]  Seeing, Listening, Remembering, and Reasoning: A Multimodal Agent with Long-Term Memory [[PDF](https://arxiv.org/abs/2508.09736),[Page](https://github.com/bytedance-seed/m3-agent)] ![Code](https://img.shields.io/github/stars/bytedance-seed/m3-agent?style=social&label=Star) 
+
+[arxiv 2026.05] Before Forgetting, Learn to Remember: Revisiting Foundational Learning Failures in LVLM Unlearning Benchmarks  [[PDF](https://arxiv.org/abs/2605.03759)]
+
+[arxiv 2026.05] VL-SAM-v3: Memory-Guided Visual Priors for Open-World Object Detection  [[PDF](https://arxiv.org/abs/2605.03456)]
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
 
@@ -717,6 +745,7 @@
 
 [arxiv 2025.10] AndesVL Technical Report: An Efficient Mobile-side Multimodal Large Language Model  [[PDF](https://arxiv.org/abs/2510.11496),[Page](https://github.com/OPPO-Mente-Lab/AndesVL_Evaluation)] ![Code](https://img.shields.io/github/stars/OPPO-Mente-Lab/AndesVL_Evaluation?style=social&label=Star) 
 
+[arxiv 2026.05] Make Your LVLM KV Cache More Lightweight  [[PDF](https://arxiv.org/abs/2605.00789)]
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
 
