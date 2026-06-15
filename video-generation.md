@@ -219,7 +219,8 @@ A reading list of video generation
 * **Ego-1K**
 [arxiv 2026.03] Ego-1K -- A Large-Scale Multiview Video Dataset for Egocentric Vision  [[PDF](https://arxiv.org/abs/2603.13741),[Page](https://huggingface.co/datasets/facebook/ego-1k)]
 
-[arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
+* **HomeWorld: 3D**
+[arxiv 2026.06] HomeWorld: A Unified Floorplan-to-Furnished Framework for Generating Controllable, Densely Interactive Whole-Home Scenes  [[PDF](https://arxiv.org/abs/2606.06390)]
 
 
 ## VAE
@@ -874,8 +875,9 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2026.05] SmartDirector: Keyframe-Conditioned Cinematic Video Generation with Narrative Pacing Control  [[PDF](https://arxiv.org/abs/2605.27891)]
 
+[arxiv 2026.06] OmniDirector: General Multi-Shot Camera Cloning without Cross-Paired Data  [[PDF](https://arxiv.org/abs/2606.13432)]
 
-[arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
+## End of multi-shot
 
 
 ## multi-prompt 
@@ -1538,7 +1540,7 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2026.06] Heygen Avatar V: Scaling Video-Reference Avatar Video Generation  [[PDF](https://arxiv.org/abs/2606.13872)]
 
-
+[arxiv 2026.06] SCAIL-2: Unifying Controlled Character Animation with End-to-end In-Context Conditioning  [[PDF](https://arxiv.org/abs/2606.10804)]
 
 ## autoregressive for video 
 
@@ -1719,8 +1721,7 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2026.05] Warp-as-History: Generalizable Camera-Controlled Video Generation from One Training Video  [[PDF](https://arxiv.org/abs/2605.15182),[Page](https://yyfz.github.io/warp-as-history/)]
 
-
-[arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
+[arxiv 2026.05] RayDer: Scalable Self-Supervised Novel View Synthesis from Real-World Video  [[PDF](https://arxiv.org/abs/2605.31535),[Page](https://compvis.github.io/rayder)]
 
 ## end of camera 
 
@@ -2848,6 +2849,7 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2026.04] Video-Robin: Autoregressive Diffusion Planning for Intent-Grounded Video-to-Music Generation  [[PDF](https://arxiv.org/abs/2604.17656)]
 
+[arxiv 2026.06] AudioX-Turbo: A Unified Framework for Efficient Anything-to-Audio Generation  [[PDF](https://arxiv.org/abs/2606.12555)]
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
