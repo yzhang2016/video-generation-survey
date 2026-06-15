@@ -4296,6 +4296,8 @@ Creative Layout-to-Image Generation [[PDF](https://arxiv.org/pdf/2412.03859),[Pa
 
 [arxiv 2026.05] Linear-DPO: Linear Direct Preference Optimization for Diffusion and Flow-Matching Generative Models  [[PDF](https://arxiv.org/abs/2605.21123),[Page](https://github.com/Whynot0101/Linear-DPO)]
 
+[arxiv 2026.05] Edit-Compass &amp; EditReward-Compass: A Unified Benchmark for Image Editing and Reward Modeling  [[PDF](https://arxiv.org/abs/2605.13062)]
+
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 ## end of feedback
