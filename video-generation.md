@@ -537,8 +537,12 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2026.04] Seedance 2.0: Advancing Video Generation for World Complexity  [[PDF](https://arxiv.org/abs/2604.14148)]
 
+[arxiv 2026.05] SANA-WM: Efficient Minute-Scale World Modeling with Hybrid Linear Diffusion Transformer  [[PDF](https://arxiv.org/abs/2605.15178),[Page](https://nvlabs.github.io/Sana/WM/)]
+
+
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
+## end of diffusion
 
 ## autoregressive
 [arxiv 2025.11] InfinityStar: Unified Spacetime AutoRegressive Modeling for Visual Generation  [[PDF](https://arxiv.org/abs/2511.04675),[Page](https://github.com/FoundationVision/InfinityStar)] ![Code](https://img.shields.io/github/stars/FoundationVision/InfinityStar?style=social&label=Star)
@@ -3018,6 +3022,9 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2026.05] StreamGVE: Training-Free Video Editing via Few-Step Streaming Video Generation  [[PDF](https://arxiv.org/abs/2605.21466),[Page](https://dsl-lab.github.io/StreamGVE/)]
 
+[arxiv 2026.05] Smart-Insertion-V: Photorealistic Video Insertion via a Closed-Loop Feedback Dual-Stream Framework  [[PDF](https://arxiv.org/abs/2605.23891)]
+
+
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 # end of editing
@@ -4008,6 +4015,9 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2026.05] PhyMotion: Structured 3D Motion Reward for Physics-Grounded Human Video Generation  [[PDF](https://arxiv.org/abs/2605.14269),[Page](https://phy-motion.github.io/)]
 
+[arxiv 2026.05] Think, then Score: Decoupled Reasoning and Scoring for Video Reward Modeling  [[PDF](https://arxiv.org/abs/2605.05922)]
+
+[arxiv 2026.05] CaC: Advancing Video Reward Models via Hierarchical Spatiotemporal Concentrating  [[PDF](https://arxiv.org/abs/2605.11723)]
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
