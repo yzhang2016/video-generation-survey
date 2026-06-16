@@ -540,8 +540,7 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2026.05] SANA-WM: Efficient Minute-Scale World Modeling with Hybrid Linear Diffusion Transformer  [[PDF](https://arxiv.org/abs/2605.15178),[Page](https://nvlabs.github.io/Sana/WM/)]
 
-
-[arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
+[arxiv 2026.06] Cosmos 3: Omnimodal World Models for Physical AI  [[PDF](https://arxiv.org/abs/2606.02800)]
 
 ## end of diffusion
 
