@@ -3903,6 +3903,9 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2026.04] HY-World 2.0: A Multi-Modal World Model for Reconstructing, Generating, and Simulating 3D Worlds  [[PDF](https://arxiv.org/abs/2604.14268),[Page](https://3d-models.hunyuan.tencent.com/world/)] ![Code](https://img.shields.io/github/stars/Tencent-Hunyuan/HY-World-2.0?style=social&label=Star)
 
+[arxiv 2026.04] DreamX-World: A General-Purpose Interactive World Model  [[PDF](https://arxiv.org/abs/2606.16993),[Page](https://amap-ml.github.io/DreamX_World)] ![Code](https://img.shields.io/github/stars/AMAP-ML/DreamX-World?style=social&label=Star)
+
+
 [arxiv 2026.04] MultiWorld: Scalable Multi-Agent Multi-View Video World Models  [[PDF](https://arxiv.org/abs/2604.18564),[Page](https://multi-world.github.io/)] ![Code](https://img.shields.io/github/stars/CIntellifusion/MultiWorld?style=social&label=Star)
 
 [arxiv 2026.04] World-R1: Reinforcing 3D Constraints for Text-to-Video Generation  [[PDF](https://arxiv.org/abs/2604.24764),[Page](https://aka.ms/world-r1)] ![Code](https://img.shields.io/github/stars/microsoft/World-R1?style=social&label=Star)
