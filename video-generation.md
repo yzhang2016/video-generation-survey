@@ -589,6 +589,8 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2026.04] Agentic Video Generation: From Text to Executable Event Graphs via Tool-Constrained LLM Planning  [[PDF](https://arxiv.org/abs/2604.10383)]
 
+[arxiv 2026.05] A²RD: Agentic Autoregressive Diffusion for Long Video Consistency  [[PDF](https://arxiv.org/abs/2605.06924),[Page](https://dxlong2000.github.io/AARD/)]
+
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
