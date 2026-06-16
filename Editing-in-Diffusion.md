@@ -3517,6 +3517,7 @@ Creative Layout-to-Image Generation [[PDF](https://arxiv.org/pdf/2412.03859),[Pa
 
 [arxiv 2026.05] GenClaw: Code-Driven Agentic Image Generation  [[PDF](https://arxiv.org/abs/2605.30248)]
 
+[arxiv 2026.05] DiTTo: Scalable Order-aware All-in-One Image Restoration Agent  [[PDF](https://arxiv.org/abs/2605.30915),[Page](https://cmlab-korea.github.io/DiTTo/)]
 
 
 ## downstream apps
