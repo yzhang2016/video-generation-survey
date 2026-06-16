@@ -3877,7 +3877,7 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2026.01]  StableWorld: Towards Stable and Consistent Long Interactive Video Generation [[PDF](https://arxiv.org/pdf/2601.15281),[Page](https://sd-world.github.io/)] ![Code](https://img.shields.io/github/stars/xbyym/StableWorld?style=social&label=Star)
 
-[arxiv 2026.01]  Advancing Open-source World Models [[PDF](https://arxiv.org/abs/2601.20540),[Page](https://technology.robbyant.com/lingbot-world)] ![Code](https://img.shields.io/github/stars/robbyant/lingbot-world?style=social&label=Star)
+[arxiv 2026.01] LingBot-World: Advancing Open-source World Models [[PDF](https://arxiv.org/abs/2601.20540),[Page](https://technology.robbyant.com/lingbot-world)] ![Code](https://img.shields.io/github/stars/robbyant/lingbot-world?style=social&label=Star)
 
 [arxiv 2026.01] Infinite-World: Scaling Interactive World Models to 1000-Frame Horizons via Pose-Free Hierarchical Memory  [[PDF](https://arxiv.org/abs/2602.02393),[Page](https://rq-wu.github.io/projects/infinite-world/index.html)] ![Code](https://img.shields.io/github/stars/MeiGen-AI/Infinite-World?style=social&label=Star)
 
