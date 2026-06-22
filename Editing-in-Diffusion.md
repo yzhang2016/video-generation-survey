@@ -653,6 +653,11 @@
 
 [arxiv 2026.06] Bootstrap Your Generator: Unpaired Visual Editing with Flow Matching  [[PDF](https://arxiv.org/abs/2606.03911),[Page](https://research.nvidia.com/labs/par/byg/)]
 
+[arxiv 2026.06] Moebius: 0.2B Lightweight Image Inpainting Framework with 10B-Level Performance  [[PDF](https://arxiv.org/abs/2606.19195),[Page](https://hustvl.github.io/Moebius/)] ![Code](https://img.shields.io/github/stars/hustvl/Moebius?style=social&label=Star)
+
+[arxiv 2026.06] BindEdit: Taming Attention Leakage for Precise Multi-Object Image Editing  [[PDF](https://arxiv.org/abs/2606.18906)]
+
+
 
 ## end of editing 
 
@@ -906,6 +911,10 @@
 [arxiv 2026.05] Aligning Latent Geometry for Spherical Flow Matching in Image Generation  [[PDF](https://arxiv.org/abs/2605.15193)]
 
 [arxiv 2026.05] Asymmetric Flow Models  [[PDF](https://arxiv.org/abs/2605.12964),[Page](https://github.com/Lakonik/LakonLab)]
+
+[arxiv 2026.05] PiD: Fast and High-Resolution Latent Decoding with Pixel Diffusion  [[PDF](https://arxiv.org/abs/2605.23902),[Page](https://research.nvidia.com/labs/sil/projects/pid/)] ![Code](https://img.shields.io/github/stars/nv-tlabs/PiD?style=social&label=Star)
+
+
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -1212,6 +1221,8 @@
 [arxiv 2026.06] STEDiff: Strengthening Text Embedding for Text-to-Image Alignment in Diffusion Model  [[PDF](https://arxiv.org/abs/2606.10653)]
 
 [arxiv 2026.06] Breaking the Lock-in: Diversifying Text-to-Image Generation via Representation Modulation  [[PDF](https://arxiv.org/abs/2606.06813),[Page](https://github.com/daheekwon/DAVE)]
+
+[arxiv 2026.06] SpectralDiT: Timestep-Conditioned Spectral Residual Correction for Flow-Matching DiTs  [[PDF](https://arxiv.org/abs/2606.18765)]
 
 ## end of improve
 
@@ -3237,6 +3248,10 @@ Creative Layout-to-Image Generation [[PDF](https://arxiv.org/pdf/2412.03859),[Pa
 
 [arxiv 2026.06] Overlapped Wavelet Diffusion for Low-Light Image Enhancement  [[PDF](https://arxiv.org/abs/2606.10280),[Page](https://github.com/FinnPeg/Overlapped-Wavelet-Diffusion)]
 
+[arxiv 2026.06] Spiking Pyramid Wavelet Transformation for High-efficient and Low-energy Image Restoration  [[PDF](https://arxiv.org/abs/2606.18644)]
+
+[arxiv 2026.05] PixIE: Prompted Pixel-Space Low-Light Image Enhancement  [[PDF](https://arxiv.org/abs/2605.23531)]
+
 ## end of super
 
 
@@ -3991,6 +4006,11 @@ Creative Layout-to-Image Generation [[PDF](https://arxiv.org/pdf/2412.03859),[Pa
 
 [arxiv 2026.06] MariData: One-Step Unpaired Image Translation for Maritime Environments  [[PDF](https://arxiv.org/abs/2606.03246)]
 
+[arxiv 2026.06] SSD: Spatially Speculative Decoding Accelerates Autoregressive Image Generation  [[PDF](https://arxiv.org/abs/2606.20543),[Page](https://shilongxiang.github.io/SSD/)] 
+
+[arxiv 2026.06] Mean Flow Distillation: Robust and Stable Distillation for Flow Matching Models  [[PDF](https://arxiv.org/abs/2606.11155)]
+
+[arxiv 2026.05] Efficient One-Step Diffusion Restoration Model with Compact Token Compression and Linear Attention  [[PDF](https://arxiv.org/abs/2605.23451)]
 
 ## end of speed
 
@@ -4321,6 +4341,9 @@ Creative Layout-to-Image Generation [[PDF](https://arxiv.org/pdf/2412.03859),[Pa
 [arxiv 2026.06] HPSv3++: Scaling Reward Models Across the Full Spectrum of Diffusion Model Capabilities  [[PDF](https://arxiv.org/abs/2606.14657)]
 
 [arxiv 2026.03] Follow-Your-Preference: Towards Preference-Aligned Image Inpainting  [[PDF](https://arxiv.org/abs/2509.23082)]
+
+[arxiv 2026.06] FoA-SR: Faithful or Aesthetic? Profile-Aware Preference Optimization for Real-World Image Super-Resolution  [[PDF](https://arxiv.org/abs/2606.10275)]
+
 
 ## end of feedback
 
