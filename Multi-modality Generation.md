@@ -234,6 +234,9 @@
 
 [arxiv 2026.04] Omni-o3: Deep Nested Omnimodal Deduction for Deliberative Audio-Visual Reasoning  [[PDF](https://arxiv.org/abs/2604.24191)]
 
+[arxiv 2026.07] DeepGaze3.5-VL: Modeling Scanpaths via Autoregressive Token Prediction  [[PDF](https://arxiv.org/abs/2607.02083)]
+
+
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
 
 ## end of understanding
@@ -465,6 +468,8 @@
 [arxiv 2026.03] LVOmniBench: Pioneering Long Audio-Video Understanding Evaluation for Omnimodal LLMs  [[PDF](https://arxiv.org/abs/2603.19217),[Page](https://kd-tao.github.io/LVOmniBench/)]
 
 [arxiv 2026.04] LLaDA2.0-Uni: Unifying Multimodal Understanding and Generation with Diffusion Large Language Model  [[PDF](https://arxiv.org/abs/2604.20796)]
+
+[arxiv 2026.06] Ask, Solve, Generate: Self-Evolving Unified Multimodal Understanding and Generation via Self-Consistency Rewards  [[PDF](https://arxiv.org/abs/2606.27376)]
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
 
