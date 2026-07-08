@@ -2919,8 +2919,10 @@ Creative Layout-to-Image Generation [[PDF](https://arxiv.org/pdf/2412.03859),[Pa
 
 [arxiv 2026.04] OneHOI: Unifying Human-Object Interaction Generation and Editing  [[PDF](https://arxiv.org/abs/2604.14062)]
 
-[arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
+[arxiv 2026.06] InstanceControl: Controllable Complex Image Generation without Instance Labeling  [[PDF](https://arxiv.org/abs/2606.31924)]
 
+
+[arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 # end of composition
 
@@ -3522,6 +3524,7 @@ Creative Layout-to-Image Generation [[PDF](https://arxiv.org/pdf/2412.03859),[Pa
 
 [arxiv 2026.06] Imagine Before You Draw: Visual Prompt Engineering for Image Generation  [[PDF](https://arxiv.org/abs/2606.04457)]
 
+[arxiv 2026.06] IV-CoT: Implicit Visual Chain-of-Thought for Structure-Aware Text-to-Image Generation  [[PDF](https://arxiv.org/abs/2606.24849)]
 
 ## agent
 [arxiv 2025.03] CoSTA∗: Cost-Sensitive Toolpath Agent for Multi-turn Image Editin  [[PDF](https://arxiv.org/abs/2503.10613),[Page](https://github.com/tianyi-lab/CoSTAR)] ![Code](https://img.shields.io/github/stars/tianyi-lab/CoSTAR?style=social&label=Star)
@@ -4383,8 +4386,9 @@ Creative Layout-to-Image Generation [[PDF](https://arxiv.org/pdf/2412.03859),[Pa
 
 [arxiv 2026.06] PortraitGen: Exemplar-Driven GRPO with Dual-Reward Guidance for Photorealistic Portrait Generation  [[PDF](https://arxiv.org/abs/2606.26930)]
 
-
 [arxiv 2026.06] SpatialFlow-GRPO: Where Spatial Credit Drives Image Editing  [[PDF](https://arxiv.org/abs/2606.26872)]
+
+[arxiv 2026.06] Qwen-Image-2.0-RL Technical Report  [[PDF](https://arxiv.org/abs/2606.27608)]
 
 ## end of feedback
 
