@@ -2742,6 +2742,9 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2026.06] MVTrack4Gen: Multi-View Point Tracking as Geometric Supervision for 4D Video Generation  [[PDF](https://arxiv.org/abs/2606.26087),[Page](https://cvlab-kaist.github.io/MVTrack4Gen/)]
 
+[arxiv 2026.06] One Video, One World: Turning Monocular Video into Physical 4D Scenes  [[PDF](https://arxiv.org/abs/2606.31388),[Page](https://OneVideoOneWorld.github.io/)]
+
+
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 
