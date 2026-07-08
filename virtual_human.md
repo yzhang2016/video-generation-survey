@@ -172,7 +172,13 @@
 
 [arxiv 2026.04] Motion-Adapter: A Diffusion Model Adapter for Text-to-Motion Generation of Compound Actions  [[PDF](https://arxiv.org/abs/2604.16135)]
 
+[arxiv 2026.07] InterCMDM: Block-Causal Diffusion for Autoregressive Human Interaction Generation  [[PDF](https://arxiv.org/abs/2607.01743),[Page](https://yu1ut.com/InterCMDM-HP/)]
+
+[arxiv 2026.06] Social Structure Matters in 3D Human-Human Interaction Generation  [[PDF](https://arxiv.org/abs/2606.24255)]
+
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
+
+##  end of body
 
 
 ## audio-to-gesture 
