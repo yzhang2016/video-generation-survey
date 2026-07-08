@@ -657,6 +657,7 @@
 
 [arxiv 2026.06] BindEdit: Taming Attention Leakage for Precise Multi-Object Image Editing  [[PDF](https://arxiv.org/abs/2606.18906)]
 
+[arxiv 2026.06] Editing Everything Everywhere All at Once  [[PDF](https://arxiv.org/abs/2606.31278),[Page](https://mice.silviacascianelli.com/)] ![Code](https://img.shields.io/github/stars/Blowing-Up-Groundhogs/mice?style=social&label=Star)
 
 
 ## end of editing 
@@ -914,6 +915,7 @@
 
 [arxiv 2026.05] PiD: Fast and High-Resolution Latent Decoding with Pixel Diffusion  [[PDF](https://arxiv.org/abs/2605.23902),[Page](https://research.nvidia.com/labs/sil/projects/pid/)] ![Code](https://img.shields.io/github/stars/nv-tlabs/PiD?style=social&label=Star)
 
+[arxiv 2026.06] MIMFlow: Integrating Masked Image Modeling with Normalizing Flows for End-to-End Image Generation  [[PDF](https://arxiv.org/abs/2606.26016)]
 
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
@@ -1396,6 +1398,10 @@
 
 [arxiv 2026.04] From Broad Exploration to Stable Synthesis: Entropy-Guided Optimization for Autoregressive Image Generation  [[PDF](https://arxiv.org/abs/2604.02355v1)]
 
+[arxiv 2026.06] Parallel Rollout Approximation for Pixel-Space Autoregressive Image Generation  [[PDF](https://arxiv.org/abs/2606.27978)]
+
+[arxiv 2026.06] GEAR: Guided End-to-End AutoRegression for Image Synthesis  [[PDF](https://arxiv.org/abs/2606.32039)]
+
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 ## autoregressive improvement
@@ -1500,6 +1506,7 @@
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 ## physics 
+[arxiv 2026.06] PhyEditBench: A Real-World Multi-Stage Benchmark for Physics-Aware Image Editing  [[PDF](https://arxiv.org/abs/2606.26551)]
 
 
 ## Try-on 
@@ -1724,6 +1731,7 @@
 
 [arxiv 2026.03] WeEdit: A Dataset, Benchmark and Glyph-Guided Framework for Text-centric Image Editing  [[PDF](https://arxiv.org/abs/2603.11593)]
 
+[arxiv 2026.06] DataEvolver: Self-Evolving Multi-Agent Data Construction for Text-Rich Image Generation  [[PDF](https://arxiv.org/abs/2606.31537) ,[Page](https://sgysy.github.io/dataevolver/)] ![Code](https://img.shields.io/github/stars/CSU-JPG/DataEvolver?style=social&label=Star)
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -2224,6 +2232,10 @@
 
 [arxiv 2026.06] Pose-ICL: 3D-Aware In-Context Learning for Pose-Controllable Subject Customization  [[PDF](https://arxiv.org/abs/2606.10902)]
 
+[arxiv 2026.06] DivRL: Disentangled Self-Similarity Rewards for Diverse Subject-Driven Generation  [[PDF](https://arxiv.org/abs/2606.23950),[Page](https://qianwangx.github.io/DivRL/)] ![Code](https://img.shields.io/github/stars/QianWangX/DivRL?style=social&label=Star)
+
+[arxiv 2026.06] Scaling Multi-Reference Image Generation with Dynamic Reward Optimization  [[PDF](https://arxiv.org/abs/2606.26947)] ![Code](https://img.shields.io/github/stars/Weistrass/DyRef?style=social&label=Star)
+
 ## end of concept
 
 
@@ -2273,6 +2285,9 @@
 [arxiv 2025.04] FlexIP: Dynamic Control of Preservation and Personality for Customized Image Generation  [[PDF](https://arxiv.org/abs/2504.07405),[Page](https://flexip-tech.github.io/flexip/#/)]
 
 [arxiv 2025.08] Scaling Group Inference for Diverse and High-Quality Generation  [[PDF](https://arxiv.org/abs/2508.15773),[Page](https://www.cs.cmu.edu/~group-inference/)] ![Code](https://img.shields.io/github/stars/GaParmar/group-inference?style=social&label=Star)
+
+[arxiv 2026.06] Don&#39;t Settle at the Mode! Mitigating Diversity Collapse in Pretrained Flow Models via Feature Self-Guidance  [[PDF](https://arxiv.org/abs/2606.27371),[Page](https://dont-settle-at-the-mode.github.io/)]
+
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -2381,6 +2396,9 @@
 [arxiv 2026.04] DreamShot: Personalized Storyboard Synthesis with Video Diffusion Prior  [[PDF](https://arxiv.org/abs/2604.17195),[Page](https://ll3rd.github.io/DreamShot/)] ![Code](https://img.shields.io/github/stars/LL3RD/DreamShot-Code?style=social&label=Star)
 
 [arxiv 2026.06] InterleaveThinker: Reinforcing Agentic Interleaved Generation  [[PDF](https://arxiv.org/abs/2606.13679),[Page](https://zhengdian1.github.io/InterleaveThinker-proj/)]
+
+[arxiv 2026.06] LCG: Long-Context Consistent Image Generation with Sparse Relational Attention  [[PDF](https://arxiv.org/abs/2606.26171)]
+
 
 ## end of story
 
@@ -3534,6 +3552,7 @@ Creative Layout-to-Image Generation [[PDF](https://arxiv.org/pdf/2412.03859),[Pa
 
 [arxiv 2026.05] DiTTo: Scalable Order-aware All-in-One Image Restoration Agent  [[PDF](https://arxiv.org/abs/2605.30915),[Page](https://cmlab-korea.github.io/DiTTo/)]
 
+[arxiv 2026.06] Qwen-Image-Agent: Bridging the Context Gap in Real-World Image Generation  [[PDF](https://arxiv.org/abs/2606.26907)]
 
 ## downstream apps
 [arxiv 2023.11]Text-to-Sticker: Style Tailoring Latent Diffusion Models for Human Expression [[PDF](https://arxiv.org/abs/2311.10794)]
@@ -3627,6 +3646,10 @@ Creative Layout-to-Image Generation [[PDF](https://arxiv.org/pdf/2412.03859),[Pa
 
 [arxiv 2026.05] MRT: Masked Region Transformer for Layered Image Generation and Editing at Scale  [[PDF](https://arxiv.org/abs/2605.27235)]
 
+[arxiv 2026.06] SpheRoPE: Zero-Shot Optimization-Free 360 Panorama Generation with Spherical RoPE  [[PDF](https://arxiv.org/abs/2606.32033)]
+
+[arxiv 2026.06] Histogram-constrained Image Generation  [[PDF](https://arxiv.org/abs/2606.31683)]
+
 ## end of downstream
 
 ## test-time computation
@@ -3675,6 +3698,9 @@ Creative Layout-to-Image Generation [[PDF](https://arxiv.org/pdf/2412.03859),[Pa
 [arxiv 2024.09] Lotus: Diffusion-based Visual Foundation Model for High-quality Dense Prediction  [[PDF](https://arxiv.org/abs/2409.18124),[Page](https://lotus3d.github.io/)]
 
 [arxiv 2024.09]Self-Distilled Depth Refinement with Noisy Poisson Fusion [[PDF](https://arxiv.org/abs/2409.17880),[Page](https://github.com/lijia7/SDDR)]
+
+[arxiv 2026.07] PointDiT: Pixel-Space Diffusion for Monocular Geometry Estimation  [[PDF](https://arxiv.org/abs/2607.02515),[Page](https://haofeixu.github.io/pointdit/)]
+
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -4012,6 +4038,14 @@ Creative Layout-to-Image Generation [[PDF](https://arxiv.org/pdf/2412.03859),[Pa
 
 [arxiv 2026.05] Efficient One-Step Diffusion Restoration Model with Compact Token Compression and Linear Attention  [[PDF](https://arxiv.org/abs/2605.23451)]
 
+[arxiv 2026.06] Bridging the Manifold Gap: Riemannian Residual Line Search for One-Step Image Editing  [[PDF](https://arxiv.org/abs/2606.24844)]
+
+[arxiv 2026.06] ResilPhase: Plug-and-Play Phase Mapping and Noise-Resilient Macro-Trajectory Extrapolation for Diffusion Acceleration  [[PDF](https://arxiv.org/abs/2606.26769)]
+
+[arxiv 2026.07] Post-Training Pruning for Diffusion Transformers  [[PDF](https://arxiv.org/abs/2607.00927)]
+
+[arxiv 2026.07] Multi-Resolution Flow Matching: Training-Free Diffusion Acceleration via Staged Sampling  [[PDF](https://arxiv.org/abs/2607.01642),[Page](https://github.com/Xingyu-Zheng/MrFlow)]
+
 ## end of speed
 
 
@@ -4114,13 +4148,11 @@ Creative Layout-to-Image Generation [[PDF](https://arxiv.org/pdf/2412.03859),[Pa
 
 [arxiv 2024.04]Who Evaluates the Evaluations? Objectively Scoring Text-to-Image Prompt Coherence Metrics with T2IScoreScore (TS2) [[PDF](https://arxiv.org/abs/2404.04251)]
 
-
 [arxiv 2024.05]FAIntbench: A Holistic and Precise Benchmark for Bias Evaluation in Text-to-Image Models [[PDF](https://arxiv.org/abs/2405.17814)]
 
 [arxiv 2024.06]GAIA: Rethinking Action Quality Assessment for AI-Generated Videos[[PDF](https://arxiv.org/abs/2406.06087)]
 
 [arxiv 2024.06]Words Worth a Thousand Pictures: Measuring and Understanding Perceptual Variability in Text-to-Image Generation [[PDF](https://arxiv.org/abs/2406.08482)]
-
 
 [arxiv 2024.06]PhyBench: A Physical Commonsense Benchmark for Evaluating Text-to-Image Models [[PDF](https://arxiv.org/abs/2406.11802)]
 
@@ -4198,6 +4230,9 @@ Creative Layout-to-Image Generation [[PDF](https://arxiv.org/pdf/2412.03859),[Pa
 [arxiv 2026.04] MIRAGE: Benchmarking and Aligning Multi-Instance Image Editing  [[PDF](https://arxiv.org/abs/2604.05180)] ![Star](https://img.shields.io/github/stars/ZiqianLiu666/MIRAGE?style=social&label=Star)
 
 [arxiv 2026.05] Qwen-Image-Bench: From Generation to Creation in Text-to-Image Evaluation  [[PDF](https://arxiv.org/abs/2605.28091)]
+
+[arxiv 2026.06] DiffusionBench: On Holistic Evaluation of Diffusion Transformers  [[PDF](https://arxiv.org/abs/2606.24888)]
+
 
 ## end of evaluation
 
@@ -4344,6 +4379,12 @@ Creative Layout-to-Image Generation [[PDF](https://arxiv.org/pdf/2412.03859),[Pa
 
 [arxiv 2026.06] FoA-SR: Faithful or Aesthetic? Profile-Aware Preference Optimization for Real-World Image Super-Resolution  [[PDF](https://arxiv.org/abs/2606.10275)]
 
+[arxiv 2026.06] DanceOPD: On-Policy Generative Field Distillation  [[PDF](https://arxiv.org/abs/2606.27377),[Page](https://danceopd.github.io/)]  ![Code](https://img.shields.io/github/stars/worldbench/DanceOPD?style=social&label=Star)
+
+[arxiv 2026.06] PortraitGen: Exemplar-Driven GRPO with Dual-Reward Guidance for Photorealistic Portrait Generation  [[PDF](https://arxiv.org/abs/2606.26930)]
+
+
+[arxiv 2026.06] SpatialFlow-GRPO: Where Spatial Credit Drives Image Editing  [[PDF](https://arxiv.org/abs/2606.26872)]
 
 ## end of feedback
 
