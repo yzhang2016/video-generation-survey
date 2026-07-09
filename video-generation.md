@@ -545,6 +545,9 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2026.06] Cosmos 3: Omnimodal World Models for Physical AI  [[PDF](https://arxiv.org/abs/2606.02800)] ![Code](https://img.shields.io/github/stars/NVIDIA/cosmos?style=social&label=Star)
 
+[arxiv 2026.06] Lingbot-video: Scaling Mixture-of-Experts Video Pretraining for Embodied Intelligence [[PDF](https://technology.robbyant.com/lingbot-video),[Page](https://technology.robbyant.com/lingbot-video)] ![Code](https://img.shields.io/github/stars/robbyant/lingbot-video?style=social&label=Star)
+
+
 ## end of diffusion
 
 ## Autoregressive
@@ -3979,6 +3982,10 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 [arxiv 2026.07] RetailSMV: Exocentric vs. Egocentric Adaptation of Foundation Video World Models in Retail  [[PDF](https://arxiv.org/abs/2607.00310)]
 
 [arxiv 2026.07] WorldDirector: Building Controllable World Simulators with Persistent Dynamic Memory  [[PDF](https://arxiv.org/abs/2607.02517),[Page](https://worlddirector.github.io/)]   ![Code](https://img.shields.io/github/stars/pPetrichor/WorldDirector?style=social&label=Star)
+
+[arxiv 2026.06] MoWorld: A Flash World Model  [[PDF](https://moxin-tech.github.io/moworld/MoWorld.pdf),[Page](https://moxin-tech.github.io/moworld/)] 
+
+[arxiv 2026.07] WorldDirector: Building Controllable World Simulators with Persistent Dynamic Memory  [[PDF](https://github.com/Robbyant/lingbot-world-v2/blob/main/paper.pdf),[Page](https://technology.robbyant.com/lingbot-world-v2)]   ![Code](https://img.shields.io/github/stars/Robbyant/lingbot-world-v2?style=social&label=Star)
 
 
 ## end of world model
