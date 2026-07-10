@@ -3987,6 +3987,12 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2026.07] WorldDirector: Building Controllable World Simulators with Persistent Dynamic Memory  [[PDF](https://github.com/Robbyant/lingbot-world-v2/blob/main/paper.pdf),[Page](https://technology.robbyant.com/lingbot-world-v2)]   ![Code](https://img.shields.io/github/stars/Robbyant/lingbot-world-v2?style=social&label=Star)
 
+[arxiv 2026.07]  AlayaWorld: Long-Horizon and Playable Video World Generation [[PDF](https://arxiv.org/pdf/2607.06291),[Page](https://alaya-lab.github.io/AlayaWorld/)] ![Code](https://img.shields.io/github/stars/AlayaLab/AlayaWorld?style=social&label=Star)
+
+[arxiv 2026.07]  MIRAMultiplayer Interactive World Models with Representation Autoencoders [[PDF](https://mira-wm.com/paper),[Page](https://mira-wm.com/blog-post/)] ![Code](https://img.shields.io/github/stars/mira-wm/mira?style=social&label=Star)
+
+[arxiv 2026.07] Lingbot-world 2: Infinite Worlds with Versatile Interactions [[PDF](https://arxiv.org/abs/2607.07534),[Page](https://technology.robbyant.com/lingbot-world-v2)] ![Code](https://img.shields.io/github/stars/robbyant/lingbot-world-v2?style=social&label=Star)
+
 
 ## end of world model
 
