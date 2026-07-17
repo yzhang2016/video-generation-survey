@@ -64,6 +64,7 @@
 
 [arxiv 2025.10]  MAT-Agent: Adaptive Multi-Agent Training Optimization [[PDF](https://arxiv.org/abs/2510.17845)]
 
+[arxiv 2026.04] HY-Embodied-0.5: Embodied Foundation Models for Real-World Agents  [[PDF](https://arxiv.org/abs/2604.07430)]
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
 
@@ -229,7 +230,16 @@
 
 [arxiv 2026.03] Phi-4-reasoning-vision-15B Technical Report  [[PDF](https://arxiv.org/pdf/2603.03975),[Page](https://huggingface.co/microsoft/Phi-4-reasoning-vision-15B)] ![Code](https://img.shields.io/github/stars/microsoft/phi-4-reasoning-vision-15B?style=social&label=Star) 
 
+[arxiv 2026.05] Mamoda2.5: Enhancing Unified Multimodal Model with DiT-MoE  [[PDF](https://arxiv.org/abs/2605.02641)]
+
+[arxiv 2026.04] Omni-o3: Deep Nested Omnimodal Deduction for Deliberative Audio-Visual Reasoning  [[PDF](https://arxiv.org/abs/2604.24191)]
+
+[arxiv 2026.07] DeepGaze3.5-VL: Modeling Scanpaths via Autoregressive Token Prediction  [[PDF](https://arxiv.org/abs/2607.02083)]
+
+
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
+
+## end of understanding
 
 
 ## sound-video understanding 
@@ -247,6 +257,9 @@
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
 
+
+# persona
+[arxiv 2026.04] PersonaVLM: Long-Term Personalized Multimodal LLMs  [[PDF](https://arxiv.org/abs/2604.13074),[Page](https://PersonaVLM.github.io)]
 
 
 ## Long Video Understanding
@@ -314,9 +327,21 @@
 
 [arxiv 2026.03] Symphony: A Cognitively-Inspired Multi-Agent System for Long-Video Understanding  [[PDF](https://arxiv.org/abs/2603.17304)]
 
+[arxiv 2026.04] Query-Conditioned Evidential Keyframe Sampling for MLLM-Based Long-Form Video Understanding  [[PDF](https://arxiv.org/abs/2604.01002v1)]
 
-[arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
+[arxiv 2026.04] Progressive Video Condensation with MLLM Agent for Long-form Video Understanding  [[PDF](https://arxiv.org/abs/2604.02891v1)]
 
+[arxiv 2026.04] SVAgent: Storyline-Guided Long Video Understanding via Cross-Modal Multi-Agent Collaboration  [[PDF](https://arxiv.org/abs/2604.05079)]
+
+[arxiv 2026.04] Small Vision-Language Models are Smart Compressors for Long Video Understanding  [[PDF](https://arxiv.org/abs/2604.08120),[Page](https://FeiElysia.github.io/tempo-page/)]
+
+[arxiv 2026.04] AdaSpark: Adaptive Sparsity for Efficient Long-Video Understanding  [[PDF](https://arxiv.org/abs/2604.08077)]
+
+[arxiv 2026.05] Semantic and Visual Evidence for Efficient Long-Video Reasoning: A Solution for the HD-EPIC VQA Challenge  [[PDF](https://arxiv.org/abs/2605.29402)]
+
+[arxiv 2026.05] Towards Effective Long-Video Event Prediction via Multi-Level Event Semantics Mining  [[PDF](https://arxiv.org/abs/2605.31069)]
+
+## long video
 
 ## Generation 
 [arxiv 2023.12]SmartEdit: Exploring Complex Instruction-based Image Editing with Multimodal Large Language Models [[PDF](https://arxiv.org/abs/2312.06739),[Page](https://yuzhou914.github.io/SmartEdit/)]
@@ -442,8 +467,17 @@
 
 [arxiv 2026.03] LVOmniBench: Pioneering Long Audio-Video Understanding Evaluation for Omnimodal LLMs  [[PDF](https://arxiv.org/abs/2603.19217),[Page](https://kd-tao.github.io/LVOmniBench/)]
 
+[arxiv 2026.04] LLaDA2.0-Uni: Unifying Multimodal Understanding and Generation with Diffusion Large Language Model  [[PDF](https://arxiv.org/abs/2604.20796)]
+
+[arxiv 2026.06] Ask, Solve, Generate: Self-Evolving Unified Multimodal Understanding and Generation via Self-Consistency Rewards  [[PDF](https://arxiv.org/abs/2606.27376)]
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
+
+
+## streaming
+[arxiv 2026.04] A Simple Baseline for Streaming Video Understanding  [[PDF](https://arxiv.org/abs/2604.02317),[Page](https://simple-stream.github.io/)]
+
+[arxiv 2026.04] StreamMeCo: Long-Term Agent Memory Compression for Efficient Streaming Video Understanding  [[PDF](https://arxiv.org/abs/2604.09000)]
 
 
 ## Omni
@@ -584,9 +618,23 @@
 
 [arxiv 2025.12] Video-CoM: Interactive Video Reasoning via Chain of Manipulations  [[PDF](https://arxiv.org/pdf/2511.23477),[Page](https://github.com/mbzuai-oryx/Video-CoM)] ![Code](https://img.shields.io/github/stars/mbzuai-oryx/Video-CoM?style=social&label=Star) 
 
-[arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
+[arxiv 2026.05] UnAC: Adaptive Visual Prompting with Abstraction and Stepwise Checking for Complex Multimodal Reasoning  [[PDF](https://arxiv.org/abs/2605.03950)]
 
+[arxiv 2026.05] StateVLM: A State-Aware Vision-Language Model for Robotic Affordance Reasoning  [[PDF](https://arxiv.org/abs/2605.03927)]
 
+[arxiv 2026.05] Draw2Think: Harnessing Geometry Reasoning through Constraint Engine Interaction  [[PDF](https://arxiv.org/abs/2605.20743)]
+
+[arxiv 2026.05] Faithful-MR1: Faithful Multimodal Reasoning via Anchoring and Reinforcing Visual Attention  [[PDF](https://arxiv.org/abs/2605.22072)]
+
+[arxiv 2026.05] LatentOmni: Rethinking Omni-Modal Understanding via Unified Audio-Visual Latent Reasoning  [[PDF](https://arxiv.org/abs/2605.22012)]
+
+[arxiv 2026.05] ETCHR: Editing To Clarify and Harness Reasoning  [[PDF](https://arxiv.org/abs/2605.23897),[Page](https://github.com/InternLM/ETCHR)]
+
+[arxiv 2026.05] UnAC: Adaptive Visual Prompting with Abstraction and Stepwise Checking for Complex Multimodal Reasoning  [[PDF](https://arxiv.org/abs/2605.03950)]
+
+[arxiv 2026.06] OmniVideo-100K: A Dataset for Audio-Visual Reasoning through Structured Scripts and Evidence Chains  [[PDF](https://arxiv.org/abs/2606.14702),[Page](https://github.com/MiG-NJU/OmniVideo-100K)]
+
+## end of reason
 
 ## Compression
 [arxiv 2025.02]  AdaSVD: Adaptive Singular Value Decomposition for Large Language Models [[PDF](https://arxiv.org/abs/2502.01403),[Page](https://github.com/ZHITENGLI/AdaSVD)] ![Code](https://img.shields.io/github/stars/ZHITENGLI/AdaSVD?style=social&label=Star) 
@@ -639,6 +687,18 @@
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
 
+## distillation
+[arxiv 2026.05] PEEK: Picking Essential frames via Efficient Knowledge distillation  [[PDF](https://arxiv.org/abs/2605.31029),[Page](https://www.killian-steunou.com/peek/static/pdfs/peek_supplementary.pdf)]
+
+[arxiv 2026.06] Hyper-ICL: Attention Calibration with Hyperbolic Anchor Distillation for Multimodal In-Context Learning  [[PDF](https://arxiv.org/abs/2606.04434)]
+
+[arxiv 2026.06] ViCuR: Visual Cues as Recoverable Privilege for Multimodal On-Policy Distillation  [[PDF](https://arxiv.org/abs/2606.05718)]
+
+[arxiv 2026.06] World Model Self-Distillation: Training World Models to Solve General Tasks  [[PDF](https://arxiv.org/abs/2606.12072)]
+
+[arxiv 2026.06] RT-VLA: Real-Time Vision-Language-Action Models via Knowledge Distillation  [[PDF](https://arxiv.org/abs/2606.14010)]
+
+
 
 ## audio 
 [arxiv 2024.10] MuVi: Video-to-Music Generation with Semantic Alignment and Rhythmic Synchronization[[PDF](https://arxiv.org/abs/2410.12957)]
@@ -662,12 +722,37 @@
 
 [arxiv 2025.12] Step-GUI Technical Report  [[PDF](https://arxiv.org/abs/2512.15431),[Page](https://github.com/stepfun-ai/gelab-zero)] ![Code](https://img.shields.io/github/stars/stepfun-ai/gelab-zero?style=social&label=Star) 
 
-[arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
+[arxiv 2026.05] OpenSearch-VL: An Open Recipe for Frontier Multimodal Search Agents  [[PDF](https://arxiv.org/abs/2605.05185),[Page](https://github.com/shawn0728/OpenSearch-VL)]
+
+[arxiv 2026.05] VTAgent: Agentic Keyframe Anchoring for Evidence-Aware Video TextVQA  [[PDF](https://arxiv.org/abs/2605.04870)]
+
+[arxiv 2026.06] A History-Aware Visually Grounded Critic for Computer Use Agents  [[PDF](https://arxiv.org/abs/2606.11078),[Page](https://github.com/G-JWLee/HiViG)]
+
+[arxiv 2026.05] REVERSE: Reinforcing Evidence Verification and Search for Agentic Image geo-localization  [[PDF](https://arxiv.org/abs/2605.26861)]
+
+[arxiv 2026.05] Reflective Dialogue between Teacher and Solver Agents for Video Question Answering  [[PDF](https://arxiv.org/abs/2605.27885)]
+
+[arxiv 2026.05] Train the Agent, Not the Expert: Learning to Harness Heterogeneous Experts for Multi-Turn Visual Reasoning  [[PDF](https://arxiv.org/abs/2605.29894)]
+
+[arxiv 2026.05] WorldMemArena: Evaluating Multimodal Agent Memory Through Action-World Interaction  [[PDF](https://arxiv.org/abs/2605.29341)]
+
+[arxiv 2026.06] Thinking with Imagination: Agentic Visual Spatial Reasoning with World Simulators  [[PDF](https://arxiv.org/abs/2606.06476),[Page](https://zcmax.github.io/projects/Thinking-With-Imagination)]
+
+[arxiv 2026.06] SpatialClaw: Rethinking Action Interface for Agentic Spatial Reasoning  [[PDF](https://arxiv.org/abs/2606.13673),[Page](https://spatialclaw.github.io/)]
+
+[arxiv 2026.06] MUSE: A Unified Agentic Harness for MLLMs  [[PDF](https://arxiv.org/abs/2606.03005)]
+
 
 ## memory
 [arxiv 2025.08]  Seeing, Listening, Remembering, and Reasoning: A Multimodal Agent with Long-Term Memory [[PDF](https://arxiv.org/abs/2508.09736),[Page](https://github.com/bytedance-seed/m3-agent)] ![Code](https://img.shields.io/github/stars/bytedance-seed/m3-agent?style=social&label=Star) 
 
-[arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
+[arxiv 2026.05] Before Forgetting, Learn to Remember: Revisiting Foundational Learning Failures in LVLM Unlearning Benchmarks  [[PDF](https://arxiv.org/abs/2605.03759)]
+
+[arxiv 2026.05] VL-SAM-v3: Memory-Guided Visual Priors for Open-World Object Detection  [[PDF](https://arxiv.org/abs/2605.03456)]
+
+[arxiv 2026.05] Task-Focused Memorization for Multimodal Agents  [[PDF](https://arxiv.org/abs/2605.31075)]
+
+
 
 ## context
 [arxiv 2025.10] Glyph: Scaling Context Windows via Visual-Text Compression  [[PDF](https://arxiv.org/pdf/2510.17800),[Page](https://github.com/thu-coai/Glyph)] ![Code](https://img.shields.io/github/stars/thu-coai/Glyph?style=social&label=Star) 
@@ -697,6 +782,7 @@
 
 [arxiv 2025.10] AndesVL Technical Report: An Efficient Mobile-side Multimodal Large Language Model  [[PDF](https://arxiv.org/abs/2510.11496),[Page](https://github.com/OPPO-Mente-Lab/AndesVL_Evaluation)] ![Code](https://img.shields.io/github/stars/OPPO-Mente-Lab/AndesVL_Evaluation?style=social&label=Star) 
 
+[arxiv 2026.05] Make Your LVLM KV Cache More Lightweight  [[PDF](https://arxiv.org/abs/2605.00789)]
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
 

@@ -3,7 +3,7 @@
 
 [arxiv 2025.07] Go to Zero: Towards Zero-shot Motion Generation with Million-scale Data  [[PDF](https://arxiv.org/abs/2507.07095),[Page](https://github.com/VankouF/MotionMillion-Codes)] ![Code](https://img.shields.io/github/stars/VankouF/MotionMillion-Codes?style=social&label=Star)
 
-[arxiv 2026.03] Face-to-Face: A Video Dataset for Multi-Person Interaction Modeling  [[PDF](https://arxiv.org/abs/2603.14794)]
+[arxiv 2026.03] Fa ce-to-Face: A Video Dataset for Multi-Person Interaction Modeling  [[PDF](https://arxiv.org/abs/2603.14794)]
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -168,10 +168,19 @@
 
 [arxiv 2026.03] UniMotion: A Unified Framework for Motion-Text-Vision Understanding and Generation  [[PDF](https://arxiv.org/abs/2603.22282),[Page](https://wangzy01.github.io/UniMotion/)]
 
-
 duplex [arxiv 2026.03] LPM 1.0: Video-based Character Performance Model  [[PDF](https://github.com/large-performance-model/large-performance-model.github.io/blob/main/assets/LPM_report.pdf),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
+[arxiv 2026.04] DynaVid: Learning to Generate Highly Dynamic Videos using Synthetic Motion Data  [[PDF](https://arxiv.org/abs/2604.01666),[Page](https://jinwonjoon.github.io/DynaVid/)]
+
+[arxiv 2026.04] Motion-Adapter: A Diffusion Model Adapter for Text-to-Motion Generation of Compound Actions  [[PDF](https://arxiv.org/abs/2604.16135)]
+
+[arxiv 2026.07] InterCMDM: Block-Causal Diffusion for Autoregressive Human Interaction Generation  [[PDF](https://arxiv.org/abs/2607.01743),[Page](https://yu1ut.com/InterCMDM-HP/)]
+
+[arxiv 2026.06] Social Structure Matters in 3D Human-Human Interaction Generation  [[PDF](https://arxiv.org/abs/2606.24255)]
+
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
+
+##  end of body
 
 
 ## audio-to-gesture 
@@ -315,6 +324,8 @@ duplex [arxiv 2026.03] LPM 1.0: Video-based Character Performance Model  [[PDF](
 
 [arxiv 2026.03] PAM: A Pose-Appearance-Motion Engine for Sim-to-Real HOI Video Generation  [[PDF](https://arxiv.org/abs/2603.22193)] ![Code](https://img.shields.io/github/stars/GasaiYU/PAM?style=social&label=Star)
 
+[arxiv 2026.04] DeVI: Physics-based Dexterous Human-Object Interaction via Synthetic Video Imitation  [[PDF](https://arxiv.org/abs/2604.20841),[Page](https://snuvclab.github.io/devi/)] ![Code](https://img.shields.io/github/stars/snuvclab/devi?style=social&label=Star)
+
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -332,6 +343,9 @@ duplex [arxiv 2026.03] LPM 1.0: Video-based Character Performance Model  [[PDF](
 [arxiv 2025.03] Reconstructing In-the-Wild Open-Vocabulary Human-Object Interactions [[PDF](https://arxiv.org/abs/2503.15898),[Page](https://wenboran2002.github.io/3dhoi/)] ![Code](https://img.shields.io/github/stars/wenboran2002/open-3dhoi?style=social&label=Star)
 
 [arxiv 2025.08] HOID-R1: Reinforcement Learning for Open-World Human-Object Interaction Detection Reasoning with Multimodal Large Language Model  [[PDF](https://arxiv.org/abs/2508.11350)]
+
+[arxiv 2026.04] Mining Instance-Centric Vision-Language Contexts for Human-Object Interaction Detection  [[PDF](https://arxiv.org/abs/2604.02071),[Page](https://github.com/nowuss/InCoM-Net)]
+
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
