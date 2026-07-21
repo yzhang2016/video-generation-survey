@@ -3538,6 +3538,9 @@ Creative Layout-to-Image Generation [[PDF](https://arxiv.org/pdf/2412.03859),[Pa
 
 [arxiv 2026.06] IV-CoT: Implicit Visual Chain-of-Thought for Structure-Aware Text-to-Image Generation  [[PDF](https://arxiv.org/abs/2606.24849)]
 
+[arxiv 2026.07] Tree-of-Thoughts Reasoning for Text-to-Image In-Context Learning  [[PDF](https://arxiv.org/abs/2607.07117),[Page](https://github.com/Pandastep/ToT-T2I-ICL)]
+
+
 ## agent
 [arxiv 2025.03] CoSTA∗: Cost-Sensitive Toolpath Agent for Multi-turn Image Editin  [[PDF](https://arxiv.org/abs/2503.10613),[Page](https://github.com/tianyi-lab/CoSTAR)] ![Code](https://img.shields.io/github/stars/tianyi-lab/CoSTAR?style=social&label=Star)
 
@@ -4152,6 +4155,7 @@ Creative Layout-to-Image Generation [[PDF](https://arxiv.org/pdf/2412.03859),[Pa
 
 [arxiv 2026.04] Vision Banana Image Generators are Generalist Vision Learners  [[PDF](https://arxiv.org/pdf/2604.20329),[Page](https://vision-banana.github.io/)] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
+[arxiv 2026.07] Vision as Unified Multimodal Generation  [[PDF](https://arxiv.org/abs/2607.06560)] ![Code](https://img.shields.io/github/stars/OpenSenseNova/SenseNova-Vision?style=social&label=Star)
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
