@@ -286,6 +286,7 @@ A reading list of video generation
 
 [arxiv 2026.05] Video Generation with Predictive Latents  [[PDF](https://arxiv.org/abs/2605.02134)]
 
+[arxiv 2026.07] VideoRAE: Taming Video Foundation Models for Generative Modeling via Representation Autoencoders  [[PDF](https://arxiv.org/abs/2607.14088),[Page](https://zhxie0117.github.io/VideoRAE)]
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -1579,6 +1580,9 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2026.06] SCAIL-2: Unifying Controlled Character Animation with End-to-end In-Context Conditioning  [[PDF](https://arxiv.org/abs/2606.10804)]
 
+[arxiv 2026.07] MultiAnimate: A Unified Framework for Controllable Multi-Character Animation  [[PDF](https://arxiv.org/abs/2607.13415)]
+
+
 ## Autoregressive for video 
 
 [arxiv 2024.12]  Autoregressive Video Generation without Vector Quantization [[PDF](https://arxiv.org/abs/2412.14169),[Page](https://github.com/baaivision/NOVA)] ![Code](https://img.shields.io/github/stars/baaivision/NOVA?style=social&label=Star)
@@ -2229,6 +2233,7 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2026.07] ReBind: Multi-Reference Video Editing via Structured Instructions with Explicit Reference Relationships  [[PDF](https://arxiv.org/abs/2607.14681),[Page](https://rebind-mrv2v.github.io/)]
 
+[arxiv 2026.07] Stage-Aware Adaptation and Distribution Calibration for Subject-Driven Personalized Text-to-Image Generation  [[PDF](https://arxiv.org/abs/2607.07173)]
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -3118,6 +3123,8 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 [arxiv 2026.06] Holo-World: Unified Camera, Object and Weather Control for Video World Model  [[PDF](https://arxiv.org/abs/2606.20083),[Page](https://xiangchenyin.github.io/Holo-World)] ![Code](https://img.shields.io/github/stars/XiangchenYin/Holo-World?style=social&label=Star)
 
 [arxiv 2026.06] Geometry-Instructed Video Editing  [[PDF](https://arxiv.org/abs/2606.24225),[Page](https://geometry-instructed-video-editing.github.io/give/)]
+
+[arxiv 2026.07] Tuning-Free Latent Diffusion Models for Ultrahigh-Resolution Image Editing  [[PDF](https://arxiv.org/abs/2607.06136)] ![Code](https://img.shields.io/github/stars/LonglongaaaGo/UltraDiffEdit?style=social&label=Star)
 
 
 # end of editing
