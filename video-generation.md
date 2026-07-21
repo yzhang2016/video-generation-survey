@@ -556,6 +556,9 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2025.11] Adaptive Begin-of-Video Tokens for Autoregressive Video Diffusion Models  [[PDF](https://arxiv.org/abs/2511.12099)]
 
+[arxiv 2026.07] Wanstreamer: Video = World + Event Stream  [[PDF](https://arxiv.org/abs/2607.15038),[Page](https://wan-streamer.com/)]
+
+
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 
