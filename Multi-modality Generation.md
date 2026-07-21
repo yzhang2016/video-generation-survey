@@ -471,6 +471,9 @@
 
 [arxiv 2026.06] Ask, Solve, Generate: Self-Evolving Unified Multimodal Understanding and Generation via Self-Consistency Rewards  [[PDF](https://arxiv.org/abs/2606.27376)]
 
+[arxiv 2026.07] Boogu-Image-0.1: Boosting Open-Source Unified Multimodal Understanding and Generation  [[PDF](https://arxiv.org/abs/2607.13125)]
+
+
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
 
 
