@@ -4039,6 +4039,8 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2026.07] Lingbot-world 2: Infinite Worlds with Versatile Interactions [[PDF](https://arxiv.org/abs/2607.07534),[Page](https://technology.robbyant.com/lingbot-world-v2)] ![Code](https://img.shields.io/github/stars/robbyant/lingbot-world-v2?style=social&label=Star)
 
+[arxiv 2026.07] ABot-World: Infinite Interactive World Rollout on a Single Desktop GPU [[PDF](https://arxiv.org/pdf/2607.19191),[Page](https://amap-cvlab.github.io/ABot-World/)] ![Code](https://img.shields.io/github/stars/amap-cvlab/ABot-World?style=social&label=Star)
+
 
 ## end of world model
 
