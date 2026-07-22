@@ -942,6 +942,7 @@
 
 [arxiv 2026.05] VPG: Visual Prefix Guidance for Autoregressive Image and Video Generation  [[PDF](https://arxiv.org/abs/2605.30317)]
 
+
 [arxiv 2026.05] Orthogonal Negative Guidance in Attention Feature Space for Text-to-Image Generation  [[PDF](https://arxiv.org/abs/2605.29390)]
 
 
@@ -1227,6 +1228,9 @@
 [arxiv 2026.06] Breaking the Lock-in: Diversifying Text-to-Image Generation via Representation Modulation  [[PDF](https://arxiv.org/abs/2606.06813),[Page](https://github.com/daheekwon/DAVE)]
 
 [arxiv 2026.06] SpectralDiT: Timestep-Conditioned Spectral Residual Correction for Flow-Matching DiTs  [[PDF](https://arxiv.org/abs/2606.18765)]
+
+[arxiv 2026.07] Multi-Axis Max@K Reinforcement Learning for Representative Diversity in Text-to-Image Generation  [[PDF](https://arxiv.org/abs/2607.14962)]
+
 
 ## end of improve
 
@@ -1653,6 +1657,10 @@
 [arxiv 2026.04] VersaVogue: Visual Expert Orchestration and Preference Alignment for Unified Fashion Synthesis  [[PDF](https://arxiv.org/abs/2604.07210)]
 
 [arxiv 2026.05] iTryOn: Mastering Interactive Video Virtual Try-On with Spatial-Semantic Guidance  [[PDF](https://arxiv.org/abs/2605.21431),[Page](https://zhengjun-ai.github.io/itryon-page)]
+
+[arxiv 2026.07] TAMF-VTON: Texture-Aware Mask-Free Virtual Try-On via High-Fidelity Image Synthesis  [[PDF](https://arxiv.org/abs/2607.14807)]
+
+[arxiv 2026.07] CtrlVTON: Controllable Virtual Try-On via Visual-Instance-Prompt Segmentation  [[PDF](https://arxiv.org/abs/2607.09362)]
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -3274,6 +3282,10 @@ Creative Layout-to-Image Generation [[PDF](https://arxiv.org/pdf/2412.03859),[Pa
 
 [arxiv 2026.05] PixIE: Prompted Pixel-Space Low-Light Image Enhancement  [[PDF](https://arxiv.org/abs/2605.23531)]
 
+[arxiv 2026.07] QuReC: All-in-One Image Restoration with Query-Specific Guidance and Local-Global Response Calibration  [[PDF](https://arxiv.org/abs/2607.15097)]
+
+[arxiv 2026.07] Simon-SR: Spatially Adaptive Modulation and Visual Prompt Adaptation for Text-Reinforced Super-Resolution  [[PDF](https://arxiv.org/abs/2607.09351)]
+
 ## end of super
 
 
@@ -3527,6 +3539,9 @@ Creative Layout-to-Image Generation [[PDF](https://arxiv.org/pdf/2412.03859),[Pa
 [arxiv 2026.06] Imagine Before You Draw: Visual Prompt Engineering for Image Generation  [[PDF](https://arxiv.org/abs/2606.04457)]
 
 [arxiv 2026.06] IV-CoT: Implicit Visual Chain-of-Thought for Structure-Aware Text-to-Image Generation  [[PDF](https://arxiv.org/abs/2606.24849)]
+
+[arxiv 2026.07] Tree-of-Thoughts Reasoning for Text-to-Image In-Context Learning  [[PDF](https://arxiv.org/abs/2607.07117),[Page](https://github.com/Pandastep/ToT-T2I-ICL)]
+
 
 ## agent
 [arxiv 2025.03] CoSTA∗: Cost-Sensitive Toolpath Agent for Multi-turn Image Editin  [[PDF](https://arxiv.org/abs/2503.10613),[Page](https://github.com/tianyi-lab/CoSTAR)] ![Code](https://img.shields.io/github/stars/tianyi-lab/CoSTAR?style=social&label=Star)
@@ -4142,6 +4157,7 @@ Creative Layout-to-Image Generation [[PDF](https://arxiv.org/pdf/2412.03859),[Pa
 
 [arxiv 2026.04] Vision Banana Image Generators are Generalist Vision Learners  [[PDF](https://arxiv.org/pdf/2604.20329),[Page](https://vision-banana.github.io/)] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
+[arxiv 2026.07] Vision as Unified Multimodal Generation  [[PDF](https://arxiv.org/abs/2607.06560)] ![Code](https://img.shields.io/github/stars/OpenSenseNova/SenseNova-Vision?style=social&label=Star)
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -4391,6 +4407,9 @@ Creative Layout-to-Image Generation [[PDF](https://arxiv.org/pdf/2412.03859),[Pa
 [arxiv 2026.06] SpatialFlow-GRPO: Where Spatial Credit Drives Image Editing  [[PDF](https://arxiv.org/abs/2606.26872)]
 
 [arxiv 2026.06] Qwen-Image-2.0-RL Technical Report  [[PDF](https://arxiv.org/abs/2606.27608)]
+
+[arxiv 2026.07] Selective Timestep Weighting and Advantage-Based Replay for Sample-Efficient Diffusion RLHF  [[PDF](https://arxiv.org/abs/2607.07693)]
+
 
 ## end of feedback
 
