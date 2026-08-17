@@ -2551,7 +2551,7 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2026.05] EchoAvatar: Real-time Generative Avatar Animation from Audio Streams  [[PDF](https://arxiv.org/abs/2605.28272),[Page](https://robinwitch.github.io/EchoAvatar-Page)]
 
-[arxiv 2026.07]TaoMate: Anchor-Guided Memory Bridging Evolving and Reference States for Real-Time Audio-Video Digital Human Generation [[PDF](https://arxiv.org/abs/2607.24359)]
+[arxiv 2026.07]TaoMate: Anchor-Guided Memory Bridging Evolving and Reference States for Real-Time Audio-Video Digital Human Generation [[PDF](https://arxiv.org/abs/2607.24359),[Page](https://taoliveaigc.github.io/TaoMate/)] ![Code](https://img.shields.io/github/stars/TaoLiveAIGC/TaoMate?style=social&label=Star)
 
 
 ## Multi-person talking Video Generation 
