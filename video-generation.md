@@ -2693,6 +2693,7 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2026.04] DiffMagicFace: Identity Consistent Facial Editing of Real Videos  [[PDF](https://arxiv.org/abs/2604.13841)]
 
+[arxiv 2026.08]UniSwap: Streaming Audio-Visual Identity Swapping for Talking Videos [[PDF](https://arxiv.org/abs/2608.11752)]
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -3399,6 +3400,7 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2026.07] LongE2V: Long-Horizon Event-based Video Reconstruction, Prediction, and Frame Interpolation with Video Diffusion Models  [[PDF](https://arxiv.org/abs/2607.08770),[Page](https://cdfan0627.github.io/LongE2V-page/)]
 
+[arxiv 2026.08]Bridging Event Streams and DiT: Event-Guided Video Frame Interpolation [[PDF](https://arxiv.org/abs/2608.10479),[Page](https://joseph-lin-tech.github.io/BridgeEventDiT-VFI/)]
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -3636,6 +3638,7 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2026.08]PlayWorld: Benchmarking World Models with Agent Players over Long-Horizon Objectives [[PDF](https://arxiv.org/abs/2608.13552),[Page](https://kxding.github.io/project/PlayWorld/)] ![Code](https://img.shields.io/github/stars/kxding/PlayWorld?style=social&label=Star)
 
+[arxiv 2026.08]CPI-Bench: A Comprehensive,Practical and Intelligent Benchmark for Real-World Image Editing [[PDF](https://arxiv.org/abs/2608.14546)]
 
 ## end of evaluation
 
