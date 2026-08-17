@@ -860,6 +860,7 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2026.07] AVSCap: Orchestrating Audio-Visual Synergy for Omni-modal Video Captioning  [[PDF](https://arxiv.org/abs/2607.12820)] ![Code](https://img.shields.io/github/stars/NJU-LINK/AVSCap?style=social&label=Star)
 
+[arxiv 2026.08]CAPE-T2V: Captioner-Anchored Prompt Enhancement toward Two-Sided Conditioning Alignment in Text-to-Video Generation [[PDF](https://arxiv.org/abs/2608.03046),[Page](https://github.com/yizzz927/CAPE-T2V)]
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -1141,6 +1142,10 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 [arxiv 2026.07]Ms. Forcing: Efficient Streaming Video Generation with Multi-Scale Patchification and Attention [[PDF](https://arxiv.org/abs/2607.20940)]
 
 [arxiv 2026.07]FreqForcing: Autoregressive Long Video Generation via Spectral Self-Anchoring [[PDF](https://arxiv.org/abs/2607.27110)] ![Code](https://img.shields.io/github/stars/jiatongli2024/FreqForcing?style=social&label=Star)
+
+[arxiv 2026.08]Diff-VF: Training-free High-quality Long Video Generation via Diffusion Model [[PDF](https://arxiv.org/abs/2608.05976)]
+
+[arxiv 2026.08]Stream Forcing: Constructing Unified Training Trajectory for Robust Streaming Video Generation [[PDF](https://arxiv.org/abs/2608.10439)]
 
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
@@ -2124,6 +2129,10 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2026.07]EgoPlay: Event-Triggered Video Editing for Egocentric Streams [[PDF](https://arxiv.org/abs/2607.24560),[Page](https://egoplay2026.github.io/egoplay)]
 
+[arxiv 2026.08]EmoWorld: A Decoupled Affective Field for Controllable Emotional Video Generation [[PDF](https://arxiv.org/abs/2608.06231)]
+
+[arxiv 2026.08]MirrorWorld: Taming Video Diffusion Models for Mirror Reflection Generation [[PDF](https://arxiv.org/abs/2608.07463),[Page](https://youjunzhao.github.io/MirrorWorld/)]
+
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -2266,6 +2275,9 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 [arxiv 2026.07]Vera: Identity-Faithful Human Subject-to-Video Generation [[PDF](https://arxiv.org/abs/2607.20247)]
 
 [arxiv 2026.07]GroupVideo: Multi-Identity Customized Text-to-Video Generation [[PDF](https://arxiv.org/abs/2607.21027)]
+
+[arxiv 2026.08]Vorch-IR: Long-Form Unified Multimodal Identity Replacement Video Generation [[PDF](https://arxiv.org/abs/2608.05648),[Page](https://vorch-project.github.io/Vorch-IR-project/)]
+
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -2552,6 +2564,10 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 [arxiv 2026.05] EchoAvatar: Real-time Generative Avatar Animation from Audio Streams  [[PDF](https://arxiv.org/abs/2605.28272),[Page](https://robinwitch.github.io/EchoAvatar-Page)]
 
 [arxiv 2026.07]TaoMate: Anchor-Guided Memory Bridging Evolving and Reference States for Real-Time Audio-Video Digital Human Generation [[PDF](https://arxiv.org/abs/2607.24359),[Page](https://taoliveaigc.github.io/TaoMate/)] ![Code](https://img.shields.io/github/stars/TaoLiveAIGC/TaoMate?style=social&label=Star)
+
+[arxiv 2026.08]Avatar-Forever: Decoupled Parallel Training for High-Quality Real-Time Infinite Avatars [[PDF](https://arxiv.org/abs/2608.12107)]
+
+[arxiv 2026.08]LiveAnimate: Stable Long-Form Streaming Human Animation in Real-Time [[PDF](https://arxiv.org/abs/2608.11745)]
 
 
 ## Multi-person talking Video Generation 
@@ -3169,6 +3185,9 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2026.07]MoRoute: Dynamic Routing for In-Context Multimodal Video Generation [[PDF](https://arxiv.org/abs/2607.29545),[Page](https://orange-3dv-team.github.io/MoRoute/)]
 
+[arxiv 2026.08]Wan-Animate-2: Pushing the Application Boundaries of Character Animation [[PDF](https://arxiv.org/abs/2608.06009),[Page](https://humanaigc.github.io/wan-animate-2/)]
+
+
 # end of editing
 
 
@@ -3471,6 +3490,9 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2026.06] ImageWAM: Do World Action Models Really Need Video Generation, or Just Image Editing?  [[PDF](https://arxiv.org/abs/2606.19531),[Page](https://zhangwenyao1.github.io/ImageWAM/)] ![Code](https://img.shields.io/github/stars/yuyangalin/ImageWAM/?style=social&label=Star)
 
+[arxiv 2026.08]DreamX-Phi 1.0: Action-Conditioned Video World Model for Robotic Manipulation [[PDF](https://arxiv.org/abs/2608.13489),[Page](https://github.com/AMAP-ML/DreamX-Phi)]
+
+
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 
@@ -3607,6 +3629,13 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 [arxiv 2026.07]FilmBench: A Film-Grade Benchmark for Cinematic Video Generation [[PDF](https://arxiv.org/abs/2607.24241)]
 
 [arxiv 2026.07]AVE-Compass: Towards Holistic Evaluation for Audio-Video Editing Abilities [[PDF](https://arxiv.org/abs/2607.24821)]
+
+[arxiv 2026.08]OmniEdit-Bench: A Comprehensive Benchmark for Instruction-based Video Editing [[PDF](https://arxiv.org/abs/2608.05049)]
+
+[arxiv 2026.08]VideoArgus: Agentic Rubric-Grounded Unified Evaluation for Video Generation and Editing [[PDF](https://arxiv.org/abs/2608.05485)]
+
+[arxiv 2026.08]PlayWorld: Benchmarking World Models with Agent Players over Long-Horizon Objectives [[PDF](https://arxiv.org/abs/2608.13552),[Page](https://kxding.github.io/project/PlayWorld/)] ![Code](https://img.shields.io/github/stars/kxding/PlayWorld?style=social&label=Star)
+
 
 ## end of evaluation
 
@@ -3881,6 +3910,15 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2026.07]DistillAlign: Coordinating Mode Covering and Mode Seeking in Autoregressive Video Distillation [[PDF](https://arxiv.org/abs/2607.26811),[Page](https://lijiaxing0213.github.io/DistillAlign)]
 
+[arxiv 2026.08]SPADE: An Input-Adaptive Sparse Attention Engine for Fast Video Diffusion Models Inference [[PDF](https://arxiv.org/abs/2608.03335)]
+
+[arxiv 2026.08]SparSTAR: Sparse Attention for SpaceTime AutoRegressive Video Synthesis [[PDF](https://arxiv.org/abs/2608.10519)]
+
+[arxiv 2026.08]LoSA: Near-Lossless Sparse Attention for Training-Free Video Diffusion Acceleration [[PDF](https://arxiv.org/abs/2608.12032)]
+
+[arxiv 2026.08]Context-Matched Distillation: Teacher Causality for Autoregressive Video Distillation [[PDF](https://arxiv.org/abs/2608.13391),[Page](https://hmrishavbandy.github.io/cmd-site/)]
+
+[arxiv 2026.08]HPSD: Hybrid-Policy Self-Distillation for Text-Image-to-Video Diffusion Models [[PDF](https://arxiv.org/abs/2608.13205),[Page](https://bujiazi.github.io/hpsd.github.io/)]
 
 ## end of speed
 
@@ -3938,6 +3976,7 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2026.07]Visko Orbis 1.0: A Live Model for Real-Time Interactive Long Video Generation [[PDF](https://arxiv.org/abs/2607.26694)]
 
+[arxiv 2026.08]JoyAI-Video-Edit: Real-Time Open-Ended Video Editing with Autoregressive Diffusion [[PDF](https://arxiv.org/abs/2608.03974),[Page](https://github.com/jd-opensource/JoyAI-Video-Edit)]
 
 
 
@@ -4100,6 +4139,9 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2026.08] Alaya-EVOKE: From Linear-Scaling Supervision to Endless World [[PDF](https://arxiv.org/pdf/2608.13546),[Page](https://evoke-world.github.io/Evoke/)] ![Code](https://img.shields.io/github/stars/SII-YuanyangYin/Evoke?style=social&label=Star)
 
+[arxiv 2026.08]HelloWorld: Enabling Socially Interactive Characters in Video World Models [[PDF](https://arxiv.org/abs/2608.05070),[Page](https://github.com/AlayaLab/HelloWorld)]
+
+[arxiv 2026.08]ForgeWM: Progressive Causal Training for Few-Step Action-Conditioned Video World Models [[PDF](https://arxiv.org/abs/2608.14022),[Page](https://asdfo123.github.io/ForgeWM/)] ![Code](https://img.shields.io/github/stars/asdfo123/ForgeWM?style=social&label=Star)
 
 ## end of world model
 
@@ -4108,10 +4150,9 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 ## multi-player
 [arxiv 2026.07]  MIRAMultiplayer Interactive World Models with Representation Autoencoders [[PDF](https://mira-wm.com/paper),[Page](https://mira-wm.com/blog-post/)] ![Code](https://img.shields.io/github/stars/mira-wm/mira?style=social&label=Star)
 
-
 [arxiv 2026.07]Streaming Multi-Agent Autoregressive Diffusion Model with World State Registers [[PDF](https://arxiv.org/abs/2607.21594),[Page](https://vail-ucla.github.io/worldweaver/)]
 
-
+[arxiv 2026.08]MASS: Multiplayer World Models with Authoritative Shared State [[PDF](https://arxiv.org/abs/2608.06257),[Page](https://alaya-lab.github.io/MASS/)]
 
 ## World-3d
 [arxiv 2026.06] MoVerse: Real-Time Video World Modeling with Panoramic Gaussian Scaffold  [[PDF](https://arxiv.org/abs/2606.13376)]
@@ -4166,6 +4207,8 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 [arxiv 2026.07] WorldDirector: Building Controllable World Simulators with Persistent Dynamic Memory  [[PDF](https://arxiv.org/abs/2607.02517),[Page](https://worlddirector.github.io/)]   ![Code](https://img.shields.io/github/stars/pPetrichor/WorldDirector?style=social&label=Star)
 
 [arxiv 2026.07]SlotMem: Character-Addressable Internal Memory for Narrative Long Video Generation [[PDF](https://arxiv.org/abs/2607.15772)]
+
+[arxiv 2026.08]Addressable Memory for Video World Models [[PDF](https://arxiv.org/abs/2608.07408),[Page](https://research.nvidia.com/labs/sil/projects/WorldTrace/)]
 
 
 ## 3D generation
@@ -4360,6 +4403,10 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2026.07]VideoCoCo: Code-as-CoT for Physically-Consistent Video Generation via an Agentic Dual-Engine System [[PDF](https://arxiv.org/abs/2607.27380)]
 
+[arxiv 2026.08]GAUGE: A Measurement-Grounded Benchmark for Physical Fidelity in Simulation Engines and Video World Models [[PDF](https://arxiv.org/abs/2608.05948)]
+
+[arxiv 2026.08]PhysMind: From Video to Executable Worlds for Training-Free Physical Reasoning [[PDF](https://arxiv.org/abs/2608.04575),[Page](https://physmind.github.io/)]
+
 
 ## Improving AR 
 [arxiv 2026.03] AR-CoPO: Align Autoregressive Video Generation with Contrastive Policy Optimization  [[PDF](https://arxiv.org/abs/2603.17461)]
@@ -4429,6 +4476,8 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 [arxiv 2026.04] CRAFT: Video Diffusion for Bimanual Robot Data Generation  [[PDF](https://arxiv.org/abs/2604.03552v1),[Page](https://craftaug.github.io/)]
 
 [arxiv 2026.05] GEM-4D: Geometry-Enhanced Video World Models for Robot Manipulation  [[PDF](https://arxiv.org/abs/2605.22882)]
+
+
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
