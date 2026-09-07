@@ -2309,6 +2309,7 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2026.04] Action Images: End-to-End Policy Learning via Multiview Video Generation  [[PDF](https://arxiv.org/abs/2604.06168),[Page](https://actionimages.github.io/)] ![Code](https://img.shields.io/github/stars/UMass-Embodied-AGI/ActionImages?style=social&label=Star)
 
+[arxiv 2026.08] 4DAnyone: Create Anyone in 4D from a Casual Monocular Video  [[PDF](https://arxiv.org/abs/2608.20335),[Page](https://4danyone.github.io)]
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -2454,6 +2455,9 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 [arxiv 2026.03] EARTalking: End-to-end GPT-style Autoregressive Talking Head Synthesis with Frame-wise Control  [[PDF](https://arxiv.org/abs/2603.20307)]
 
 [arxiv 2026.04] Talker-T2AV: Joint Talking Audio-Video Generation with Autoregressive Diffusion Modeling  [[PDF](https://arxiv.org/abs/2604.23586)]
+
+[arxiv 2026.08] Xemo-Talker: Unlock Emotions Explicitly for Audio-Driven Talking Portrait Synthesis  [[PDF](https://arxiv.org/abs/2608.14700)]
+
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -4493,6 +4497,10 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 [arxiv 2026.08]PhysMind: From Video to Executable Worlds for Training-Free Physical Reasoning [[PDF](https://arxiv.org/abs/2608.04575),[Page](https://physmind.github.io/)]
 
 [arxiv 2026.09] Physically Plausible Video Generation via Visual-Semantic Chain-of-Events Conditioning  [[PDF](https://arxiv.org/abs/2609.00656)]
+
+[arxiv 2026.09] Principia: Relational Physics Tests for Video Models  [[PDF](https://arxiv.org/abs/2609.04200),[Page](https://principiabench.github.io/)]
+
+[arxiv 2026.08] Code as Worlds: Agentic Discovery of Executable World Representations for Physical Reasoning  [[PDF](https://arxiv.org/abs/2608.27549),[Page](https://mirros-lab.github.io/code-as-world)]
 
 
 ## Improving AR 
