@@ -344,6 +344,7 @@
 
 [arxiv 2026.04] Mining Instance-Centric Vision-Language Contexts for Human-Object Interaction Detection  [[PDF](https://arxiv.org/abs/2604.02071),[Page](https://github.com/nowuss/InCoM-Net)]
 
+[arxiv 2026.08] Super Star: Towards Streaming Real-time Interactive Agents for Digital Humans  [[PDF](https://arxiv.org/abs/2608.24909),[Page](https://super-star-2026.github.io/)]
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
