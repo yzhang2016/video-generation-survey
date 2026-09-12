@@ -38,6 +38,7 @@
 
 [arxiv 2026.05] PiD: Fast and High-Resolution Latent Decoding with Pixel Diffusion  [[PDF](https://arxiv.org/abs/2605.23902),[Page](https://research.nvidia.com/labs/sil/projects/pid/)]
 
+[arxiv 2026.07]Pixel-Space Diffusion Transformers [[PDF](https://arxiv.org/abs/2607.17585)]
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -661,6 +662,9 @@
 
 [arxiv 2026.06] Editing Everything Everywhere All at Once  [[PDF](https://arxiv.org/abs/2606.31278),[Page](https://mice.silviacascianelli.com/)] ![Code](https://img.shields.io/github/stars/Blowing-Up-Groundhogs/mice?style=social&label=Star)
 
+[arxiv 2026.07]WhereEdit: Mask-aware Local Latent Editing for One-Step Image Editing [[PDF](https://arxiv.org/abs/2607.20883)]
+
+[arxiv 2026.09] SR-Edit: Region-Aware Image Editing via Self-Refinement  [[PDF](https://arxiv.org/abs/2609.02504)]
 
 ## end of editing 
 
@@ -785,6 +789,9 @@
 
 [arxiv 2026.05] Images in Sentences: Scaling Interleaved Instructions for Unified Visual Generation  [[PDF](https://arxiv.org/abs/2605.12305)]
 
+[arxiv 2026.07]Mage-Flow: An Efficient Native-Resolution Foundation Model for Image Generation and Editing [[PDF](https://arxiv.org/abs/2607.19064)]
+
+[arxiv 2026.08] Swift-Image: Exploring the Performance Frontier of Compact Unified Image Generation Models  [[PDF](https://arxiv.org/abs/2608.20334)]
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -919,6 +926,9 @@
 
 [arxiv 2026.06] MIMFlow: Integrating Masked Image Modeling with Normalizing Flows for End-to-End Image Generation  [[PDF](https://arxiv.org/abs/2606.26016)]
 
+[arxiv 2026.08] Spatially-Grounded Flow Matching: Structured Source Distributions for Image Generation  [[PDF](https://arxiv.org/abs/2608.15452)]
+
+[arxiv 2026.08] Scaling Muon for Diffusion Transformers  [[PDF](https://arxiv.org/abs/2608.20818)]
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -942,9 +952,9 @@
 
 [arxiv 2026.05] VPG: Visual Prefix Guidance for Autoregressive Image and Video Generation  [[PDF](https://arxiv.org/abs/2605.30317)]
 
-
 [arxiv 2026.05] Orthogonal Negative Guidance in Attention Feature Space for Text-to-Image Generation  [[PDF](https://arxiv.org/abs/2605.29390)]
 
+[arxiv 2026.08] Revisiting Classifier-Free Guidance Methods in Latent Diffusion Models  [[PDF](https://arxiv.org/abs/2608.16786)]
 
 ## ROPE
 
@@ -1742,6 +1752,9 @@
 [arxiv 2026.03] WeEdit: A Dataset, Benchmark and Glyph-Guided Framework for Text-centric Image Editing  [[PDF](https://arxiv.org/abs/2603.11593)]
 
 [arxiv 2026.06] DataEvolver: Self-Evolving Multi-Agent Data Construction for Text-Rich Image Generation  [[PDF](https://arxiv.org/abs/2606.31537) ,[Page](https://sgysy.github.io/dataevolver/)] ![Code](https://img.shields.io/github/stars/CSU-JPG/DataEvolver?style=social&label=Star)
+
+[arxiv 2026.09] GlyphAnchor: Enhancing Visual Text Rendering via Position-Anchored Glyph Priors  [[PDF](https://arxiv.org/abs/2609.02349)]
+
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -2931,6 +2944,10 @@ Creative Layout-to-Image Generation [[PDF](https://arxiv.org/pdf/2412.03859),[Pa
 
 [arxiv 2026.06] InstanceControl: Controllable Complex Image Generation without Instance Labeling  [[PDF](https://arxiv.org/abs/2606.31924)]
 
+[arxiv 2026.07]CoBind: Stage-Aware Compositional Binding for Training-Free Text-to-Image Generation [[PDF](https://arxiv.org/abs/2607.16307)]
+
+[arxiv 2026.08] PixelControl: Fine-Grained Condition Fidelity in Text-to-Image Diffusion  [[PDF](https://arxiv.org/abs/2608.15705),[Page](https://linxin0.github.io/pixelcontrol_homepage/pixelcontrol-site/)]
+
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -3286,6 +3303,18 @@ Creative Layout-to-Image Generation [[PDF](https://arxiv.org/pdf/2412.03859),[Pa
 
 [arxiv 2026.07] Simon-SR: Spatially Adaptive Modulation and Visual Prompt Adaptation for Text-Reinforced Super-Resolution  [[PDF](https://arxiv.org/abs/2607.09351)]
 
+[arxiv 2026.07]Efficient Difficulty-Aware Dynamic Routing for Diffusion-Based Real-World Image Super-Resolution [[PDF](https://arxiv.org/abs/2607.15711)]
+
+[arxiv 2026.07]Rarity-Aware Discrete Diffusion with Spatially Consistent Decoding for Photo-Realistic Image Super-Resolution [[PDF](https://arxiv.org/abs/2607.17612)]
+
+[arxiv 2026.08] PixRestore: Unified Image Restoration via Pixel Diffusion Transformer  [[PDF](https://arxiv.org/abs/2608.16793)]
+
+[arxiv 2026.08] ENAF: A Multi-Exit Network with an Adaptive Patch Fusion for Large Image Super Resolution  [[PDF](https://arxiv.org/abs/2608.15349)]
+
+[arxiv 2026.08] SFMformer: A Spatial-Frequency Modulation Transformer for Lightweight Image Super-Resolution  [[PDF](https://arxiv.org/abs/2608.17966)]
+
+[arxiv 2026.08] Ultra-High-Definition Restoration Transformers with Correlation Matching Transformation  [[PDF](https://arxiv.org/abs/2608.20263)]
+
 ## end of super
 
 
@@ -3296,6 +3325,7 @@ Creative Layout-to-Image Generation [[PDF](https://arxiv.org/pdf/2412.03859),[Pa
 
 [arxiv 2025.02] RelaCtrl: Relevance-Guided Efficient Control for Diffusion Transformers  [[PDF](https://arxiv.org/abs/2502.14377),[Page](https://relactrl.github.io/RelaCtrl/)] 
 
+[arxiv 2026.07]A${}^2$BM: Alignment-Aware Bridge Matching for Image-to-Image Translation [[PDF](https://arxiv.org/abs/2607.16294)]
 
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
@@ -3503,6 +3533,9 @@ Creative Layout-to-Image Generation [[PDF](https://arxiv.org/pdf/2412.03859),[Pa
 
 [arxiv 2026.05] Diffusion-Based Ukrainian Handwritten Text Generation with Cross-Domain Style Transfer  [[PDF](https://arxiv.org/abs/2605.27487)]
 
+[arxiv 2026.07]OmniStyle-INR: Universal and Multimodal Style Transfer for INRs [[PDF](https://arxiv.org/abs/2607.16362)]
+
+
 ## end of style
 
 
@@ -3573,6 +3606,14 @@ Creative Layout-to-Image Generation [[PDF](https://arxiv.org/pdf/2412.03859),[Pa
 [arxiv 2026.05] DiTTo: Scalable Order-aware All-in-One Image Restoration Agent  [[PDF](https://arxiv.org/abs/2605.30915),[Page](https://cmlab-korea.github.io/DiTTo/)]
 
 [arxiv 2026.06] Qwen-Image-Agent: Bridging the Context Gap in Real-World Image Generation  [[PDF](https://arxiv.org/abs/2606.26907)]
+
+[arxiv 2026.07]Causal-AgentIR: Self-Evolving Causal Memory for Adaptive Image Restoration Agents [[PDF](https://arxiv.org/abs/2607.21125)]
+
+[arxiv 2026.08] GenRouter: Unified Workflow Routing for Agentic Image Generation  [[PDF](https://arxiv.org/abs/2608.16721),[Page](https://github.com/EnVision-Research/GenRouter)]
+
+[arxiv 2026.09] SpatialGuard: Harness-Guided Verifiable Spatial Reasoning for Text-to-Image Generation  [[PDF](https://arxiv.org/abs/2609.01582)]
+
+
 
 ## downstream apps
 [arxiv 2023.11]Text-to-Sticker: Style Tailoring Latent Diffusion Models for Human Expression [[PDF](https://arxiv.org/abs/2311.10794)]
@@ -3669,6 +3710,9 @@ Creative Layout-to-Image Generation [[PDF](https://arxiv.org/pdf/2412.03859),[Pa
 [arxiv 2026.06] SpheRoPE: Zero-Shot Optimization-Free 360 Panorama Generation with Spherical RoPE  [[PDF](https://arxiv.org/abs/2606.32033)]
 
 [arxiv 2026.06] Histogram-constrained Image Generation  [[PDF](https://arxiv.org/abs/2606.31683)]
+
+[arxiv 2026.07]Genie Sim PanoWorld: An Infinite Indoor 3D World Generation Pipeline via Panoramic Scene Modeling and Simulation [[PDF](https://arxiv.org/abs/2607.26646)]
+
 
 ## end of downstream
 
@@ -4066,6 +4110,14 @@ Creative Layout-to-Image Generation [[PDF](https://arxiv.org/pdf/2412.03859),[Pa
 
 [arxiv 2026.07] Multi-Resolution Flow Matching: Training-Free Diffusion Acceleration via Staged Sampling  [[PDF](https://arxiv.org/abs/2607.01642),[Page](https://github.com/Xingyu-Zheng/MrFlow)]
 
+[arxiv 2026.07]DiTango: Cost-Effective Parallel Diffusion Generation with Selective Attention State Reuse [[PDF](https://arxiv.org/abs/2607.15650)]
+
+[arxiv 2026.07]Inference-Time Scaling of Diffusion Models via Progressive Seed Pruning [[PDF](https://arxiv.org/abs/2607.21591),[Page](https://www.vision.caltech.edu/psp)]
+
+[arxiv 2026.08] Nexus: Structured Synergy for Efficient Text-to-Image Generation using Rectified Flow Model  [[PDF](https://arxiv.org/abs/2608.16104)]
+
+[arxiv 2026.09] Importance-Aware Low-Rank Distillation of Diffusion Transformers  [[PDF](https://arxiv.org/abs/2609.04646)]
+
 ## end of speed
 
 
@@ -4158,6 +4210,9 @@ Creative Layout-to-Image Generation [[PDF](https://arxiv.org/pdf/2412.03859),[Pa
 [arxiv 2026.04] Vision Banana Image Generators are Generalist Vision Learners  [[PDF](https://arxiv.org/pdf/2604.20329),[Page](https://vision-banana.github.io/)] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 [arxiv 2026.07] Vision as Unified Multimodal Generation  [[PDF](https://arxiv.org/abs/2607.06560)] ![Code](https://img.shields.io/github/stars/OpenSenseNova/SenseNova-Vision?style=social&label=Star)
+
+[arxiv 2026.08] An Empirical Study of Training Pixel-Space Text-to-Image Diffusion Models  [[PDF](https://arxiv.org/abs/2608.16887)]
+
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -4254,6 +4309,7 @@ Creative Layout-to-Image Generation [[PDF](https://arxiv.org/pdf/2412.03859),[Pa
 
 [arxiv 2026.06] DiffusionBench: On Holistic Evaluation of Diffusion Transformers  [[PDF](https://arxiv.org/abs/2606.24888)]
 
+[arxiv 2026.08] TRACE-Bench: Decomposing and Diagnosing Multi-Reference Image Generation  [[PDF](https://arxiv.org/abs/2608.16765)]
 
 ## end of evaluation
 
@@ -4410,6 +4466,11 @@ Creative Layout-to-Image Generation [[PDF](https://arxiv.org/pdf/2412.03859),[Pa
 
 [arxiv 2026.07] Selective Timestep Weighting and Advantage-Based Replay for Sample-Efficient Diffusion RLHF  [[PDF](https://arxiv.org/abs/2607.07693)]
 
+[arxiv 2026.07]PRISM: Prompt Refinement via Image-grounded Self-rewarding Mechanism for Text-to-Image Generation [[PDF](https://arxiv.org/abs/2607.24353)]
+
+[arxiv 2026.08] RRFC: Recursive Refinement via Feedback Conditioning for Iterative Image-to-Image Generation  [[PDF](https://arxiv.org/abs/2608.15694)]
+
+[arxiv 2026.09] Step Back to Move Forward: Reflection-Aware Preference Optimization for Visual Generation  [[PDF](https://arxiv.org/abs/2609.04282)]
 
 ## end of feedback
 
