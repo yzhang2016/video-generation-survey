@@ -236,6 +236,7 @@
 
 [arxiv 2026.07] DeepGaze3.5-VL: Modeling Scanpaths via Autoregressive Token Prediction  [[PDF](https://arxiv.org/abs/2607.02083)]
 
+[arxiv 2026.09] SenseNova-U1.5: Towards Native Unified Visual Intelligence  [[PDF](https://arxiv.org/abs/2609.11929)]
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star) 
 
