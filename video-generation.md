@@ -330,6 +330,7 @@ A reading list of video generation
 
 [arxiv 2026.06] AVTok: 1D Unified Tokenization for Holistic Audio-Video Generation  [[PDF](https://arxiv.org/abs/2606.30811)]
 
+[arxiv 2026.09] VideoTok4D: A 4D-Aware Video Tokenizer for Compact World Representation  [[PDF](https://arxiv.org/abs/2609.12874)]
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -611,6 +612,10 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 [arxiv 2026.04] Agentic Video Generation: From Text to Executable Event Graphs via Tool-Constrained LLM Planning  [[PDF](https://arxiv.org/abs/2604.10383)]
 
 [arxiv 2026.05] A²RD: Agentic Autoregressive Diffusion for Long Video Consistency  [[PDF](https://arxiv.org/abs/2605.06924),[Page](https://dxlong2000.github.io/AARD/)]
+
+[arxiv 2026.09] AgenticGen: Reward-Guided Agentic Video Generation for Advertising  [[PDF](https://arxiv.org/abs/2609.09187)]
+
+[arxiv 2026.09] LynnReal-Omni: Native multi-modal Video Generation for Agentic Visual Workflows  [[PDF](https://arxiv.org/abs/2609.15863),[Page](https://github.com/LynnReal-AI/LynnReal-Omni)] ![Code](https://img.shields.io/github/stars/LynnReal-AI/LynnReal-Omni?style=social&label=Star)
 
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
@@ -1159,6 +1164,9 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 [arxiv 2026.08] Stream4D: 4D-Consistency for Streaming Autoregressive Diffusion Video Models  [[PDF](https://arxiv.org/abs/2608.19556)]
 
 [arxiv 2026.09] Encore: Infinite Audio-Video Generation with Adaptive Signal Routing  [[PDF](https://arxiv.org/abs/2609.04249)]
+
+[arxiv 2026.09] Recency Forcing: Bridging the Long-Horizon Gap in Autoregressive Video Generation  [[PDF](https://arxiv.org/abs/2609.19729)]
+
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -1820,6 +1828,7 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2026.09] MeRoPE: Metric Rotary Position Embedding for Camera-Controlled Video Generation  [[PDF](https://arxiv.org/abs/2609.01252),[Page](https://qiaozhijian.github.io/merope/)]
 
+[arxiv 2026.09] World in World: Explore the World with World Models  [[PDF](https://arxiv.org/abs/2609.11548)]
 
 ## end of camera 
 
@@ -2299,6 +2308,12 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 [arxiv 2026.08]Vorch-IR: Long-Form Unified Multimodal Identity Replacement Video Generation [[PDF](https://arxiv.org/abs/2608.05648),[Page](https://vorch-project.github.io/Vorch-IR-project/)]
 
 [arxiv 2026.08] Identity-Preserving Text-to-Video Generation via Agentic Enhancement and Semantic Repair  [[PDF](https://arxiv.org/abs/2608.20749)]
+
+[arxiv 2026.09] Harnessing Intrinsic Subject-Aware Attention for Controllable Multi-Subject Video Generation  [[PDF](https://arxiv.org/abs/2609.11507)]
+
+[arxiv 2026.09] MSR: Multiple Subject Reference for Video Generation  [[PDF](https://arxiv.org/abs/2609.18393)]
+
+[arxiv 2026.09] BEACON: Behavior and Appearance Control for Subject-Specific Video Generation  [[PDF](https://arxiv.org/abs/2609.13264)]
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -3230,6 +3245,7 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2026.09] One Editor, Many Edits: A Unified Training-Free Framework for Diverse Video Editing  [[PDF](https://arxiv.org/abs/2609.04190),[Page](https://plan-lab.github.io/editvid)]
 
+[arxiv 2026.09] MDN-Control: Mask-Depth-Noise Guided Region Control for Multi-Subject Video Editing  [[PDF](https://arxiv.org/abs/2609.16475)]
 
 # end of editing
 
@@ -3987,6 +4003,7 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2026.09] Joint Alignment and Distillation for Video Generation via Sample-Guided Distribution Matching  [[PDF](https://arxiv.org/abs/2609.04283)]
 
+[arxiv 2026.09] Uncertainty DMD: Restoring Diversity in Few-Step Autoregressive Video Distillation  [[PDF](https://arxiv.org/abs/2609.11265),[Page](https://scdzx.github.io/Uncertainty-DMD/)]
 
 ## end of speed
 
@@ -4046,6 +4063,7 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2026.08]JoyAI-Video-Edit: Real-Time Open-Ended Video Editing with Autoregressive Diffusion [[PDF](https://arxiv.org/abs/2608.03974),[Page](https://github.com/jd-opensource/JoyAI-Video-Edit)]
 
+[arxiv 2026.09] Vidu S2: Real-Time Interactive, Editable, and Spatial Video Generation  [[PDF](https://arxiv.org/abs/2609.11638)]
 
 
 
@@ -4216,6 +4234,8 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 [arxiv 2026.09] SolarWM: Open Data and Scalable Training for Long-Horizon Video World Models  [[PDF](https://arxiv.org/abs/2609.02886),[Page](https://junchao-cs.github.io/SolarWM-Web/)]
 
 [arxiv 2026.09] OctWorld: Long-Range World-Consistent Video Generation with Octree-Based 3D Mapping  [[PDF](https://arxiv.org/abs/2609.03919),[Page](https://maxtirerror.github.io/octworldpage/)]
+
+[arxiv 2026.09] Programmable World Model  [[PDF](https://arxiv.org/abs/2609.10540),[Page](https://alaya-lab.github.io/pwm)]
 
 ## end of world model
 
@@ -4501,6 +4521,11 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 [arxiv 2026.09] Principia: Relational Physics Tests for Video Models  [[PDF](https://arxiv.org/abs/2609.04200),[Page](https://principiabench.github.io/)]
 
 [arxiv 2026.08] Code as Worlds: Agentic Discovery of Executable World Representations for Physical Reasoning  [[PDF](https://arxiv.org/abs/2608.27549),[Page](https://mirros-lab.github.io/code-as-world)]
+
+[arxiv 2026.09] Physics-Aware Video Generation via Agentic Planning and Graph-Guided Optimization  [[PDF](https://arxiv.org/abs/2609.13006)]
+
+[arxiv 2026.09] PhysStream: Streaming Physics-Grounded Video Generation with Structured Scene Memory and Fine-Grained Motion Control  [[PDF](https://arxiv.org/abs/2609.17521)]
+
 
 
 ## Improving AR 
