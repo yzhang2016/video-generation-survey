@@ -176,6 +176,10 @@
 
 [arxiv 2026.06] Social Structure Matters in 3D Human-Human Interaction Generation  [[PDF](https://arxiv.org/abs/2606.24255)]
 
+[arxiv 2026.09] UniMo: Unifying Human and Animal Motion Generation  [[PDF](https://arxiv.org/abs/2609.12342)]
+
+[arxiv 2026.09] MoVT: Video-Augmented Motion Tokenizer for Text-to-Motion Generation  [[PDF](https://arxiv.org/abs/2609.14965)]
+
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 ##  end of body
