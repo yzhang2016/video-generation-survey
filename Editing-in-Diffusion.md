@@ -23,6 +23,7 @@
 
 [arxiv 2026.06] Qwen-Image-Flash: Beyond Objective Design  [[PDF](https://arxiv.org/abs/2606.03746)]
 
+[arxiv 2026.09] Qwen-Image-2.1: Compact, Efficient, and Unified Image Creation  [[Page](https://qwen.ai/blog?id=qwen-image-2.1)] ![Code](https://img.shields.io/github/stars/QwenLM/Qwen-Image-2.1?style=social&label=Star)
 
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
