@@ -664,6 +664,13 @@
 
 [arxiv 2026.09] SR-Edit: Region-Aware Image Editing via Self-Refinement  [[PDF](https://arxiv.org/abs/2609.02504)]
 
+[arxiv 2026.09] Overpainting: Localized Context-aware Diffusion Image Editing  [[PDF](https://arxiv.org/abs/2609.10811)]
+
+[arxiv 2026.09] AcFlow: Controlling Text-to-Image Diffusion Transformers via Learned Conditional Activation Flow  [[PDF](https://arxiv.org/abs/2609.10723)]
+
+[arxiv 2026.09] Paint-Anything: Unified Any-Color Control for Image Generation and Editing  [[PDF](https://arxiv.org/abs/2609.20816)]
+
+
 ## end of editing 
 
 
@@ -1416,7 +1423,12 @@
 
 [arxiv 2026.06] GEAR: Guided End-to-End AutoRegression for Image Synthesis  [[PDF](https://arxiv.org/abs/2606.32039)]
 
+[arxiv 2026.09] Understanding and Exploiting Diagonal Attention Sparsity in Autoregressive Image Generation  [[PDF](https://arxiv.org/abs/2609.19702)]
+
+
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
+
+
 
 ## autoregressive improvement
 [arxiv 2025.10] REAR: Rethinking Visual Autoregressive Models via Generator-Tokenizer Consistency Regularization  [[PDF](https://arxiv.org/abs/2510.04450)]
@@ -4469,6 +4481,9 @@ Creative Layout-to-Image Generation [[PDF](https://arxiv.org/pdf/2412.03859),[Pa
 [arxiv 2026.08] RRFC: Recursive Refinement via Feedback Conditioning for Iterative Image-to-Image Generation  [[PDF](https://arxiv.org/abs/2608.15694)]
 
 [arxiv 2026.09] Step Back to Move Forward: Reflection-Aware Preference Optimization for Visual Generation  [[PDF](https://arxiv.org/abs/2609.04282)]
+
+[arxiv 2026.09] Balancing Emotional Alignment and Semantic Consistency in Image Generation via Reinforcement Learning with Valence-Arousal Anchoring  [[PDF](https://arxiv.org/abs/2609.12830),[Page](https://github.com/ramon-alana/eit-with-anchor-and-grpo)] ![Code](https://img.shields.io/github/stars/ramon-alana/eit-with-anchor-and-grpo?style=social&label=Star)
+
 
 ## end of feedback
 
