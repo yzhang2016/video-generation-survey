@@ -297,6 +297,9 @@ A reading list of video generation
 
 [arxiv 2026.07] VideoRAE: Taming Video Foundation Models for Generative Modeling via Representation Autoencoders  [[PDF](https://arxiv.org/abs/2607.14088),[Page](https://zhxie0117.github.io/VideoRAE)]
 
+[arxiv 2026.10]Rethinking Video Autoencoders for Interactive World Models [[PDF](https://arxiv.org/abs/2610.30129)]
+
+
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 
@@ -755,6 +758,8 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2026.08] MLLM-Guided Semantic Correction for Text-to-Video Generation  [[PDF](https://arxiv.org/abs/2608.16513)]
 
+[arxiv 2026.10]Making MLLM Latents Matter: Factor-Aware Predictive Learning for Cinematic Video Generation [[PDF](https://arxiv.org/abs/2610.30926),[Page](https://shotverse.github.io/fapl/)]
+
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -1167,6 +1172,11 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2026.09] Recency Forcing: Bridging the Long-Horizon Gap in Autoregressive Video Generation  [[PDF](https://arxiv.org/abs/2609.19729)]
 
+[arxiv 2026.10]Direct Forcing: A Single-Stage Training Recipe for Few-Step Autoregressive Text-to-Video Generation [[PDF](https://arxiv.org/abs/2610.30861),[Page](https://github.com/xuhaojun1/Direct-Forcing)] ![Code](https://img.shields.io/github/stars/xuhaojun1/Direct-Forcing?style=social&label=Star)
+
+[arxiv 2026.10]Attn-Forcing: Learning Full-Context Attention Proxies for Streaming Video Generation [[PDF](https://arxiv.org/abs/2610.30036)]
+
+[arxiv 2026.10]Looking Ahead: Modeling Future Evolution in Autoregressive Video Generation [[PDF](https://arxiv.org/abs/2610.29989),[Page](https://hellorpg.github.io/looking-ahead/)] ![Code](https://img.shields.io/github/stars/TencentARC/Looking-Ahead?style=social&label=Star)
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -1202,8 +1212,8 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
 
-## Robot 
-[arxiv 2025.06] Learning Video Generation for Robotic Manipulation with Collaborative Trajectory Control  [[PDF](https://arxiv.org/abs/2506.01943),[Page](https://fuxiao0719.github.io/projects/robomaster/)] ![Code](https://img.shields.io/github/stars/KwaiVGI/RoboMaster?style=social&label=Star)
+
+
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -2314,6 +2324,8 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 [arxiv 2026.09] MSR: Multiple Subject Reference for Video Generation  [[PDF](https://arxiv.org/abs/2609.18393)]
 
 [arxiv 2026.09] BEACON: Behavior and Appearance Control for Subject-Specific Video Generation  [[PDF](https://arxiv.org/abs/2609.13264)]
+
+[arxiv 2026.10]ReferStream: Interactive Subject Injection for Streaming Video Generation [[PDF](https://arxiv.org/abs/2610.37566),[Page](https://xushuolin.github.io/ReferStream/)]
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -3544,6 +3556,8 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2026.05] Turning Video Models into Generalist Robot Policies  [[PDF](https://arxiv.org/abs/2605.27817),[Page](https://vera.csail.mit.edu)]
 
+[arxiv 2025.06] Learning Video Generation for Robotic Manipulation with Collaborative Trajectory Control  [[PDF](https://arxiv.org/abs/2506.01943),[Page](https://fuxiao0719.github.io/projects/robomaster/)] ![Code](https://img.shields.io/github/stars/KwaiVGI/RoboMaster?style=social&label=Star)
+
 [arxiv 2026.06] Dream.exe: Can Video Generation Models Dream Executable Robot Manipulation?  [[PDF](https://arxiv.org/abs/2606.04811)]
 
 [arxiv 2026.06] Flash-WAM: Modality-Aware Distillation for World Action Models  [[PDF](https://arxiv.org/abs/2606.05254)]
@@ -3552,6 +3566,8 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2026.08]DreamX-Phi 1.0: Action-Conditioned Video World Model for Robotic Manipulation [[PDF](https://arxiv.org/abs/2608.13489),[Page](https://github.com/AMAP-ML/DreamX-Phi)]
 
+
+[arxiv 2026.10]TAPESTRY: A Single Backbone for Video Generation and Robot Control [[PDF](https://arxiv.org/abs/2610.36823)]
 
 [arxiv 2026.03]   [[PDF](),[Page]()] ![Code](https://img.shields.io/github/stars/xxx?style=social&label=Star)
 
@@ -3726,6 +3742,7 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2026.04] A Systematic Post-Train Framework for Video Generation  [[PDF](https://arxiv.org/abs/2604.25427)]
 
+[arxiv 2026.10]Reading, Writing, Sharing, and Interacting with the World through Video [[PDF](https://arxiv.org/abs/2610.31668),[Page](https://vid-gen.github.io/video-world-model-survey)]
 
 ## Edge device
 [arxiv 2026.01] SnapGen++: Unleashing Diffusion Transformers for Efficient High-Fidelity Image Generation on Edge Devices  [[PDF](https://arxiv.org/pdf/2601.08303)]
@@ -4005,6 +4022,9 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2026.09] Uncertainty DMD: Restoring Diversity in Few-Step Autoregressive Video Distillation  [[PDF](https://arxiv.org/abs/2609.11265),[Page](https://scdzx.github.io/Uncertainty-DMD/)]
 
+[arxiv 2026.10]Sparsity Should Be ALLOTted by Output: Training-Free Allocation of Block-Sparse Attention for Video Diffusion Transformers [[PDF](https://arxiv.org/abs/2610.29441)]
+
+
 ## end of speed
 
 ## Dataset optimization 
@@ -4237,6 +4257,11 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 
 [arxiv 2026.09] Programmable World Model  [[PDF](https://arxiv.org/abs/2609.10540),[Page](https://alaya-lab.github.io/pwm)]
 
+[arxiv 2026.10]Hy-Nomas: Towards Free-form Interactive World Generation [[PDF](https://arxiv.org/abs/2610.36729)]
+
+[arxiv 2026.10]BoxWorld: Let World Engines Control and Video Generators Render [[PDF](https://arxiv.org/abs/2610.36371),[Page](https://boxworld-web.github.io/)]
+
+
 ## end of world model
 
 
@@ -4247,6 +4272,10 @@ Holistic Attribute Control \[[PDF](https://openaccess.thecvf.com/content_ECCV_20
 [arxiv 2026.07]Streaming Multi-Agent Autoregressive Diffusion Model with World State Registers [[PDF](https://arxiv.org/abs/2607.21594),[Page](https://vail-ucla.github.io/worldweaver/)]
 
 [arxiv 2026.08]MASS: Multiplayer World Models with Authoritative Shared State [[PDF](https://arxiv.org/abs/2608.06257),[Page](https://alaya-lab.github.io/MASS/)]
+
+[arxiv 2026.10]LiveAct: Towards Real-Time Multi-Agent World Models with Heterogeneous Action Interfaces [[PDF](https://arxiv.org/abs/2610.29408),[Page](https://liveact-ai.github.io)]
+
+
 
 ## World-3d
 [arxiv 2026.06] MoVerse: Real-Time Video World Modeling with Panoramic Gaussian Scaffold  [[PDF](https://arxiv.org/abs/2606.13376)]
